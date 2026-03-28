@@ -1,0 +1,51 @@
+{
+  "id": "7c3e4d9ca2db33c5",
+  "slug": "40enne-precipita-in-un-pozzo-nel-parco-della-pace-7c3e4d9ca2db33c5",
+  "title": "40enne precipita in un pozzo nel Parco della Pace",
+  "titles": [
+    "40enne precipita in un pozzo nel Parco della Pace",
+    "Salvataggio in extremis: 40enne aggrappata a una trave per un'ora",
+    "Vittima di un pozzo non segnalato: 40enne in ospedale con gravi ferite"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "DONNA SALVATA DALLA MORTE IN UN POZZO DEL PARCO DELLA PACE",
+  "lead": "Un pozzo non segnalato nel Parco della Pace a Roma ha rischiato di diventare una tomba per una donna di 40 anni. I vigili del fuoco e il nucleo SAF sono intervenuti per salvarla.",
+  "corpo1": "La donna stava passeggiando con il marito nel parco la scorsa domenica, quando è precipitata all'interno di un pozzo non segnalato. Si sarebbe fermata aggrappandosi a una trave a 15 metri di profondità. Sul posto sono intervenuti i vigili del fuoco e il nucleo SAF, che hanno salvato la donna dopo un'ora. La signora è stata trasportata in ospedale con gravi ferite, ma il suo stato di salute è stabile. La polizia sta indagando sulle cause della caduta e sulla mancanza di segnalazione del pozzo. Secondo la fonte, la donna aveva notato la presenza del pozzo, ma non aveva avuto il tempo di fermarsi prima di cadere. La polizia sta cercando di capire come sia possibile che un pozzo non segnalato sia presente nel parco.",
+  "corpo2": "La donna salvata è una cittadina romana di 40 anni, madre di due figli. Ha lavorato come impiegata in un ufficio pubblico fino a due anni fa, quando è stata licenziata. Da allora, ha cercato di trovare lavoro, ma senza successo. Il marito è un operaio edile che lavora per una ditta privata. La famiglia vive in un appartamento in un quartiere popolare di Roma. La notizia della caduta della moglie ha scosso la comunità locale, che ha espresso solidarietà alla donna e al suo marito. La polizia sta cercando di capire come sia possibile che un pozzo non segnalato sia presente nel parco, e quali misure debbano essere adottate per prevenire future cadute. La domanda che si pone è: come è possibile che un pozzo non segnalato sia presente nel parco, e quali misure debbano essere adottate per prevenire future cadute?",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T16:34:10.981146+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Donna-small_LROC.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "LROC",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"40enne precipita in un pozzo nel Parco della Pace\",\n  \"description\": \"Un pozzo non segnalato nel Parco della Pace a Roma ha rischiato di diventare una tomba per una donna di 40 anni. I vigili del fuoco e il nucleo SAF sono intervenuti per salvarla.\",\n  \"articleBody\": \"Un pozzo non segnalato nel Parco della Pace a Roma ha rischiato di diventare una tomba per una donna di 40 anni. I vigili del fuoco e il nucleo SAF sono intervenuti per salvarla. La donna stava passeggiando con il marito nel parco la scorsa domenica, quando è precipitata all'interno di un pozzo non segnalato. Si sarebbe fermata aggrappandosi a una trave a 15 metri di profondità. Sul posto sono intervenuti i vigili del fuoco e il nucleo SAF, che hanno salvato la donna dopo un'ora. La signora è stata trasportata in ospedale con gravi ferite, ma il suo stato di salute è stabile. La polizia sta indagando sulle cause della caduta e sulla mancanza di segnalazione del pozzo. Secondo la fonte, la donna aveva notato la presenza del pozzo, ma non aveva avuto il tempo di fermarsi prima di cadere. La polizia sta cercando di capire come sia possibile che un pozzo non segnalato sia presente nel parco. La donna salvata è una cittadina romana di 40 anni, madre di due figli. Ha lavorato come impiegata in un ufficio pubblico fino a due anni fa, quando è stata licenziata. Da allora, ha cercato di trovare lavoro, ma senza successo. Il marito è un operaio edile che lavora per una ditta privata. La famiglia vive in un appartamento in un quartiere popolare di Roma. La notizia della caduta della moglie ha scosso la comunità locale, che ha espresso solidarietà alla donna e al suo marito. La polizia sta cercando di capire come sia possibile che un pozzo non segnalato sia presente nel parco, e quali misure debbano essere adottate per prevenire future cadute. La domanda che si pone è: come è possibile che un pozzo non segnalato sia presente nel parco, e quali misure debbano essere adottate per prevenire future cadute?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:34:10.981146+00:00\",\n  \"dateModified\": \"2026-03-28T16:34:10.981146+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/7c3e4d9ca2db33c5\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/7c3e4d9ca2db33c5\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/e/ec/Donna-small_LROC.jpg\",\n    \"creditText\": \"LROC\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://roma.repubblica.it/cronaca/2026/03/28/news/donna_cade_in_un_pozzo_roma_monte_stallonara_parco_della_pace-425250312/",
+  "related": [
+    {
+      "title": "Roma, 15 marzo 2023: 300 mln € per la nuova stazione",
+      "url": "/cronaca/roma-15-marzo-2023-300-mln-per-la-nuova-stazione-7ed029bcb86f5af6",
+      "id": "7ed029bcb86f5af6"
+    },
+    {
+      "title": "RIVOLTA NEL CARCERE DI PAVIA, DETENUTI APPICCANO IL FUOCO NELLE CELLE",
+      "url": "/cronaca/rivolta-nel-carcere-di-pavia-detenuti-appiccano-il-37bb1f22a433bef7",
+      "id": "37bb1f22a433bef7"
+    },
+    {
+      "title": "Scoiattolo di Brixton: il roditori rosicchia sigaretta elettronica (VIDEO)",
+      "url": "/cronaca/scoiattolo-di-brixton-il-roditori-rosicchia-sigare-05f1b0affd114c93",
+      "id": "05f1b0affd114c93"
+    }
+  ]
+}
