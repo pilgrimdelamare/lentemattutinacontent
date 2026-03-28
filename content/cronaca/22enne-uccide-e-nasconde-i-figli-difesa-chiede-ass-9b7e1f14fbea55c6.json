@@ -20,11 +20,11 @@
   },
   "published_at": "2026-03-28T06:09:29.015292+00:00",
   "image": {
-    "type": "flickr",
-    "url": "https://live.staticflickr.com/65535/55168430448_2bf023428c_b.jpg",
-    "source": "Flickr",
-    "credit": "SL Name: egezuma (Secondlife Fashion Blogger)",
-    "license": "CC"
+    "type": "ddg_image",
+    "url": "https://static.open.online/wp-content/uploads/2025/02/chiara-petrolini-giardino.jpg",
+    "source": "Bing",
+    "credit": "Bing",
+    "license": "unknown"
   },
   "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Chiara Petrolini, 22enne, accusata di uccidere e nascondere i suoi 2 figli\",\n  \"description\": \"Chiara Petrolini, 22 anni, accusata di omicidio e occultamento dei corpi dei suoi due figli neonati, ha avuto la difesa che chiede assoluzione. La notizia è emersa il 28 marzo 2026.\",\n  \"articleBody\": \"Chiara Petrolini, 22 anni, accusata di omicidio e occultamento dei corpi dei suoi due figli neonati, ha avuto la difesa che chiede assoluzione. La notizia è emersa il 28 marzo 2026. Chiara Petrolini, 22 anni, è accusata di aver ucciso e occultato i corpi dei suoi due figli neonati. La difesa ha chiesto l'assoluzione della giovane donna. Secondo le indagini, i corpi dei neonati sono stati trovati in una località non specificata. La Procura ha aperto un fascicolo per omicidio e occultamento di cadavere. La difesa di Chiara Petrolini ha presentato la richiesta di assoluzione, che sarà valutata dal giudice. Non sono state rese pubbliche le motivazioni della richiesta di assoluzione. Questa vicenda solleva interrogativi sulla salute mentale e sull'assistenza alle giovani madri. Chiara Petrolini, 22 anni, è una donna molto giovane che si trova al centro di una vicenda tragica. Quale supporto è stato offerto a questa giovane donna durante la gravidanza e dopo il parto? Quali sono le conseguenze per il sistema sanitario e sociale che avrebbe dovuto offrire sostegno e prevenzione?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:09:29.015292+00:00\",\n  \"dateModified\": \"2026-03-28T06:09:29.015292+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/9b7e1f14fbea55c6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/9b7e1f14fbea55c6\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/30887606/pexels-photo-30887606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Mihaela Claudia  Puscas\"\n  }\n}",
   "priority": 5,
