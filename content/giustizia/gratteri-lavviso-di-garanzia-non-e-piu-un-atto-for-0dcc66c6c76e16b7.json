@@ -1,0 +1,51 @@
+{
+  "id": "0dcc66c6c76e16b7",
+  "slug": "gratteri-lavviso-di-garanzia-non-e-piu-un-atto-for-0dcc66c6c76e16b7",
+  "title": "Gratteri: l'avviso di garanzia non è più un atto formale",
+  "titles": [
+    "Gratteri: l'avviso di garanzia non è più un atto formale",
+    "Il procuratore che denuncia le vittime del social",
+    "Basta selfie con l'avviso di garanzia, dice Gratteri"
+  ],
+  "title_winner": null,
+  "section": "giustizia",
+  "occhiello": "GRATTERI: \"AVVISO DI GARANZIA SUI SOCIAL PER FARE IL PERSEGUITATO\"",
+  "lead": "Nicola Gratteri, procuratore capo della Repubblica di Napoli, ha criticato la tendenza a pubblicare foto dei propri avvisi di garanzia sui social media per apparire vittime di un presunto perseguitamento. Ha fatto la dichiarazione in un'intervista a La7 il 28 marzo 2026.",
+  "corpo1": "Nella sua intervista a La7, Gratteri ha descritto come la percezione dell'avviso di garanzia sia cambiata nel tempo. \"Nella Prima Repubblica\", ha spiegato, \"un avviso di garanzia era un macigno. Oggi lo si mette sui social per fare il perseguitato\". Secondo Gratteri, questa tendenza è un segno di come la politica e la giustizia siano diventate oggetto di una sorta di \"teatro\" pubblico. \"Oggi, appena arriva un avviso di garanzia, lo si fotografa e lo si pubblica subito su Facebook, cercando di ribaltare la visione delle cose e presentandosi come perseguitato\", ha detto Gratteri. La sua critica è volta a sottolineare come l'avviso di garanzia non sia più considerato un atto formale della giustizia, ma piuttosto un mezzo per attirare l'attenzione pubblica.",
+  "corpo2": "Nicola Gratteri è un magistrato con un'esperienza di oltre 30 anni nel corpo giudiziario italiano. È stato responsabile di numerose inchieste importanti, tra cui la lotta alla camorra in Campania. La sua critica all'avviso di garanzia sui social media è solo una parte di un discorso più ampio sulla crisi della giustizia italiana e sulla sua percezione pubblica. La questione è se la politica e la giustizia possano essere oggetto di un'opera di \"riabilitazione\" pubblica, e se questo possa essere possibile solo attraverso la pubblicazione di avvisi di garanzia sui social media. La risposta è no.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:23:24.475736+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Nicola_Gratteri_Universit%C3%A0_degli_Studi_di_Urbino_Carlo_Bo.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Università degli Studi di Urbino Carlo Bo",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gratteri: l'avviso di garanzia non è più un atto formale\",\n  \"description\": \"Nicola Gratteri, procuratore capo della Repubblica di Napoli, ha criticato la tendenza a pubblicare foto dei propri avvisi di garanzia sui social media per apparire vittime di un presunto perseguitamento. Ha fatto la dichiarazione in un'intervista a La7 il 28 marzo 2026.\",\n  \"articleBody\": \"Nicola Gratteri, procuratore capo della Repubblica di Napoli, ha criticato la tendenza a pubblicare foto dei propri avvisi di garanzia sui social media per apparire vittime di un presunto perseguitamento. Ha fatto la dichiarazione in un'intervista a La7 il 28 marzo 2026. Nella sua intervista a La7, Gratteri ha descritto come la percezione dell'avviso di garanzia sia cambiata nel tempo. \\\"Nella Prima Repubblica\\\", ha spiegato, \\\"un avviso di garanzia era un macigno. Oggi lo si mette sui social per fare il perseguitato\\\". Secondo Gratteri, questa tendenza è un segno di come la politica e la giustizia siano diventate oggetto di una sorta di \\\"teatro\\\" pubblico. \\\"Oggi, appena arriva un avviso di garanzia, lo si fotografa e lo si pubblica subito su Facebook, cercando di ribaltare la visione delle cose e presentandosi come perseguitato\\\", ha detto Gratteri. La sua critica è volta a sottolineare come l'avviso di garanzia non sia più considerato un atto formale della giustizia, ma piuttosto un mezzo per attirare l'attenzione pubblica. Nicola Gratteri è un magistrato con un'esperienza di oltre 30 anni nel corpo giudiziario italiano. È stato responsabile di numerose inchieste importanti, tra cui la lotta alla camorra in Campania. La sua critica all'avviso di garanzia sui social media è solo una parte di un discorso più ampio sulla crisi della giustizia italiana e sulla sua percezione pubblica. La questione è se la politica e la giustizia possano essere oggetto di un'opera di \\\"riabilitazione\\\" pubblica, e se questo possa essere possibile solo attraverso la pubblicazione di avvisi di garanzia sui social media. La risposta è no.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:23:24.475736+00:00\",\n  \"dateModified\": \"2026-03-28T16:23:24.475736+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/0dcc66c6c76e16b7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/0dcc66c6c76e16b7\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/1/1a/Nicola_Gratteri_Universit%C3%A0_degli_Studi_di_Urbino_Carlo_Bo.jpg\",\n    \"creditText\": \"Università degli Studi di Urbino Carlo Bo\"\n  }\n}",
+  "priority": 5,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/gratteri-avviso-garanzia-social-perseguitato-oggi/8338510/",
+  "related": [
+    {
+      "title": "15mila manifestanti si mobilitano contro le 'guerre' dei potenti a Roma",
+      "url": "/sport/15mila-manifestanti-si-mobilitano-contro-le-guerre-7c8ea9cf18c363f7",
+      "id": "7c8ea9cf18c363f7"
+    },
+    {
+      "title": "Fratello killer Cutolo arrestato per tentato omicidio",
+      "url": "/sport/fratello-killer-cutolo-arrestato-per-tentato-omici-fb03949cb175ff59",
+      "id": "fb03949cb175ff59"
+    },
+    {
+      "title": "La polizia sveglia Ilaria Salis alle 7:30 a Roma senza spiegazioni",
+      "url": "/sport/la-polizia-sveglia-ilaria-salis-alle-730-a-roma-se-b558da11a20f2860",
+      "id": "b558da11a20f2860"
+    }
+  ]
+}
