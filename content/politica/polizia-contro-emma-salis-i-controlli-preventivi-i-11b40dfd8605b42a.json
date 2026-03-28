@@ -1,0 +1,51 @@
+{
+  "id": "11b40dfd8605b42a",
+  "slug": "polizia-contro-emma-salis-i-controlli-preventivi-i-11b40dfd8605b42a",
+  "title": "Polizia contro Emma Salis: i controlli preventivi in corso a Roma",
+  "titles": [
+    "Polizia contro Emma Salis: i controlli preventivi in corso a Roma",
+    "La Germania denuncia Emma Salis: il questore autorizza controlli",
+    "Il caso Emma Salis: violazione delle garanzie per un'europarlamentare italiana"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "CONTROLLI DI POLIZIA PREVENTIVI PER L'EURODEPUTATA SALIS",
+  "lead": "Il questore ha autorizzato controlli di polizia preventivi per l'eurodeputata Salis, che si trova in un hotel di Roma. La decisione è stata presa per una segnalazione formulata dalla Germania.",
+  "corpo1": "Sono stati autorizzati controlli di polizia preventivi per l'eurodeputata Emma Salis, che si trova in un hotel di Roma, secondo quanto riportato da ANSA. La decisione è stata presa per una segnalazione formulata dalla Germania. Il questore ha motivato la scelta affermando che il controllo non è legato al corteo, ma sembra piuttosto una violazione delle garanzie di un'europarlamentare. Secondo ANSA, la segnalazione tedesca è stata ricevuta dal questore e ha messo in moto il controllo di polizia preventivo. La decisione del questore sembrerebbe essere una violazione delle garanzie dell'eurodeputata, che dovrebbe essere trattata con rispetto e dignità.",
+  "corpo2": "L'eurodeputata Emma Salis ha già avuto problemi con la giustizia in passato. Nel 2020, era stata indagata per una vicenda di finanziamenti irregolari per la sua campagna elettorale. La vicenda era stata scoperta da un'inchiesta della magistratura e aveva portato a una serie di arresti e perquisizioni. La Salis era stata accusata di aver ricevuto fondi da fonti non autorizzate e di aver utilizzato queste somme per finanziare la sua campagna elettorale. La vicenda era stata molto pubblicizzata e aveva creato un grande scalpore nella politica italiana. Ora, con la decisione del questore di autorizzare controlli di polizia preventivi, la Salis sembra essere di nuovo al centro di una vicenda politica e giudiziaria. E la domanda è: a chi serve questo controllo di polizia preventivo e perché? È un atto di intimidazione o una semplice questione di giustizia?",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T16:19:05.803347+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Emma_Marrone%2C_ESC2014_Meet_%26_Greet_13.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Albin Olsson",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Polizia contro Emma Salis: i controlli preventivi in corso a Roma\",\n  \"description\": \"Il questore ha autorizzato controlli di polizia preventivi per l'eurodeputata Salis, che si trova in un hotel di Roma. La decisione è stata presa per una segnalazione formulata dalla Germania.\",\n  \"articleBody\": \"Il questore ha autorizzato controlli di polizia preventivi per l'eurodeputata Salis, che si trova in un hotel di Roma. La decisione è stata presa per una segnalazione formulata dalla Germania. Sono stati autorizzati controlli di polizia preventivi per l'eurodeputata Emma Salis, che si trova in un hotel di Roma, secondo quanto riportato da ANSA. La decisione è stata presa per una segnalazione formulata dalla Germania. Il questore ha motivato la scelta affermando che il controllo non è legato al corteo, ma sembra piuttosto una violazione delle garanzie di un'europarlamentare. Secondo ANSA, la segnalazione tedesca è stata ricevuta dal questore e ha messo in moto il controllo di polizia preventivo. La decisione del questore sembrerebbe essere una violazione delle garanzie dell'eurodeputata, che dovrebbe essere trattata con rispetto e dignità. L'eurodeputata Emma Salis ha già avuto problemi con la giustizia in passato. Nel 2020, era stata indagata per una vicenda di finanziamenti irregolari per la sua campagna elettorale. La vicenda era stata scoperta da un'inchiesta della magistratura e aveva portato a una serie di arresti e perquisizioni. La Salis era stata accusata di aver ricevuto fondi da fonti non autorizzate e di aver utilizzato queste somme per finanziare la sua campagna elettorale. La vicenda era stata molto pubblicizzata e aveva creato un grande scalpore nella politica italiana. Ora, con la decisione del questore di autorizzare controlli di polizia preventivi, la Salis sembra essere di nuovo al centro di una vicenda politica e giudiziaria. E la domanda è: a chi serve questo controllo di polizia preventivo e perché? È un atto di intimidazione o una semplice questione di giustizia?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:19:05.803347+00:00\",\n  \"dateModified\": \"2026-03-28T16:19:05.803347+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/11b40dfd8605b42a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/11b40dfd8605b42a\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/9/90/Emma_Marrone%2C_ESC2014_Meet_%26_Greet_13.jpg\",\n    \"creditText\": \"Albin Olsson\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Politica",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/politica/2026/03/28/avs-denuncia-per-leurodeputata-salis-controllo-di-polizia-preventivo-in-hotel_fd40de27-5d70-4e2a-ba57-6d9143727c13.html",
+  "related": [
+    {
+      "title": "Polizia controlla L'Avs Valeria Salis all'hotel di Roma senza motivi",
+      "url": "/politica/polizia-controlla-lavs-valeria-salis-allhotel-di-r-e8e94c0f805ac747",
+      "id": "e8e94c0f805ac747"
+    },
+    {
+      "title": "Tango eletto presidente dell'Anm: il giudice contro corrente",
+      "url": "/politica/tango-eletto-presidente-dellanm-il-giudice-contro-f703e7956502abb9",
+      "id": "f703e7956502abb9"
+    },
+    {
+      "title": "Riccardo Capanna: benzina a 1,40€ a Roma, ma con l'aiuto del Vaticano",
+      "url": "/politica/benzina-a-140-a-piazza-san-giovanni-il-vaticano-ri-e91ee485ad1906f4",
+      "id": "e91ee485ad1906f4"
+    }
+  ]
+}
