@@ -1,0 +1,51 @@
+{
+  "id": "d019ad2358cc7c8d",
+  "slug": "torino-bagni-pubblici-senza-sapone-d019ad2358cc7c8d",
+  "title": "Torino, bagni pubblici senza sapone",
+  "titles": [
+    "Torino, bagni pubblici senza sapone",
+    "Raffaele Galardi denuncia bagni pubblici",
+    "Sapone e shampoo inutilizzati a Torino"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "Bagni pubblici, dignità negata a Torino",
+  "lead": "Raffaele Galardi, mercoledì 27 marzo 2026, ha pubblicato un post sui bagni pubblici del suo quartiere a Torino, denunciando la mancanza di sapone e shampoo. La sua denuncia ha suscitato reazioni e commenti.",
+  "corpo1": "Raffaele Galardi, un cittadino di Torino, ha scritto un post su ciò che manca nei bagni pubblici del suo quartiere. La sua denuncia, pubblicata su una piattaforma di social media, ha rilevato che i bagni pubblici sono privi di sapone e shampoo. Materiale raccolto, comprato e donato resta fermo e inutilizzato in un magazzino. Secondo Galardi, la verità è semplice: chi ha bisogno non ha accesso al minimo indispensabile. Dopo la pubblicazione del post, Galardi ha ricevuto messaggi e commenti.",
+  "corpo2": "Questa vicenda solleva interrogativi sulla gestione dei servizi pubblici a Torino. È normale che i cittadini debbano indignarsi per la mancanza di beni essenziali come il sapone e lo shampoo nei bagni pubblici? La città di Torino, come altri capoluoghi, ha una grande affluenza di turisti e cittadini. È necessario investire i proventi dell'imposta di soggiorno per migliorare l'accoglienza e la qualità dei servizi offerti. Una situazione già precaria diventa critica quando in un capoluogo di regione ci sono servizi igienici pubblici indecenti o chiusi. Cosa impedisce all'amministrazione comunale di fornire il minimo indispensabile per garantire la dignità dei cittadini e dei turisti?",
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T06:56:03.956799+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/20021303/pexels-photo-20021303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Markus Winkler",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Torino, bagni pubblici senza sapone\",\n  \"description\": \"Raffaele Galardi, mercoledì 27 marzo 2026, ha pubblicato un post sui bagni pubblici del suo quartiere a Torino, denunciando la mancanza di sapone e shampoo. La sua denuncia ha suscitato reazioni e commenti.\",\n  \"articleBody\": \"Raffaele Galardi, mercoledì 27 marzo 2026, ha pubblicato un post sui bagni pubblici del suo quartiere a Torino, denunciando la mancanza di sapone e shampoo. La sua denuncia ha suscitato reazioni e commenti. Raffaele Galardi, un cittadino di Torino, ha scritto un post su ciò che manca nei bagni pubblici del suo quartiere. La sua denuncia, pubblicata su una piattaforma di social media, ha rilevato che i bagni pubblici sono privi di sapone e shampoo. Materiale raccolto, comprato e donato resta fermo e inutilizzato in un magazzino. Secondo Galardi, la verità è semplice: chi ha bisogno non ha accesso al minimo indispensabile. Dopo la pubblicazione del post, Galardi ha ricevuto messaggi e commenti. Questa vicenda solleva interrogativi sulla gestione dei servizi pubblici a Torino. È normale che i cittadini debbano indignarsi per la mancanza di beni essenziali come il sapone e lo shampoo nei bagni pubblici? La città di Torino, come altri capoluoghi, ha una grande affluenza di turisti e cittadini. È necessario investire i proventi dell'imposta di soggiorno per migliorare l'accoglienza e la qualità dei servizi offerti. Una situazione già precaria diventa critica quando in un capoluogo di regione ci sono servizi igienici pubblici indecenti o chiusi. Cosa impedisce all'amministrazione comunale di fornire il minimo indispensabile per garantire la dignità dei cittadini e dei turisti?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:56:03.956799+00:00\",\n  \"dateModified\": \"2026-03-28T06:56:03.956799+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/d019ad2358cc7c8d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/d019ad2358cc7c8d\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/20021303/pexels-photo-20021303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Markus Winkler\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/senzatetto-bagni-pubblici-torino-dignita-notizie-2/8335000/",
+  "related": [
+    {
+      "title": "Leclerc il più veloce nel Q1 a Suzuka",
+      "url": "/cronaca/leclerc-il-piu-veloce-nel-q1-a-suzuka-5f2fa0b8726766f0",
+      "id": "5f2fa0b8726766f0"
+    },
+    {
+      "title": "22enne uccide e nasconde i figli: difesa chiede assoluzione",
+      "url": "/cronaca/22enne-uccide-e-nasconde-i-figli-difesa-chiede-ass-9b7e1f14fbea55c6",
+      "id": "9b7e1f14fbea55c6"
+    },
+    {
+      "title": "Indonesia, 70 milioni di minori senza social: stop a YouTube, TikTok e Facebook",
+      "url": "/esteri/indonesia-70-milioni-di-minori-senza-social-stop-a-3389f3e819cbeef1",
+      "id": "3389f3e819cbeef1"
+    }
+  ]
+}
