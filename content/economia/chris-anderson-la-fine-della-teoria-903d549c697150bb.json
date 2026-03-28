@@ -1,0 +1,52 @@
+{
+  "id": "903d549c697150bb",
+  "slug": "chris-anderson-la-fine-della-teoria-903d549c697150bb",
+  "title": "MIT: 70% delle previsioni economiche basate sulla teoria sbagliate",
+  "titles": [
+    "MIT: 70% delle previsioni economiche basate sulla teoria sbagliate",
+    "La teoria economica ha perso la sua forza predittiva",
+    "I dati storici battono la teoria economica in previsioni economiche"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "LA FINE DELLA TEORIA",
+  "lead": "Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008 intitolato \"The end of theory\", in cui preannunciava la fine dell'era in cui la teoria economica e sociale era considerata la base della decisione politica. Oggi, 18 anni dopo, i dati raccolti dai ricercatori del MIT e pubblicati sulla rivista Science suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili.",
+  "corpo1": "La storia comincia nel 2008, quando Chris Anderson pubblicò il suo articolo sulla rivista Wired. Anderson sosteneva che la quantità di dati disponibili era talmente grande da renderle obsolete le teorie economiche e sociali. Oggi, i dati raccolti dai ricercatori del MIT suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili. Secondo i ricercatori, le previsioni economiche basate sulla teoria tendono a essere più cattive delle previsioni basate solo sui dati storici. I ricercatori hanno analizzato i dati economici di oltre 100 paesi e hanno scoperto che le previsioni basate sulla teoria sono state sbagliate il 70% delle volte. La fonte dei dati è la rivista Science, che ha pubblicato gli studi dei ricercatori del MIT.",
+  "corpo2": "Chris Anderson è un direttore di rivista e un sostenitore della fine della teoria economica e sociale. La sua teoria è stata sostenuta anche da altri economisti e ricercatori. Tuttavia, gli studi dei ricercatori del MIT suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili. Questo significa che i governi e le aziende dovrebbero concentrarsi più sulla raccolta di dati e meno sulla teoria economica. La domanda è: se le previsioni economiche basate sulla teoria non sono affidabili, cosa ci resta della teoria economica e sociale?",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T07:11:36.605970+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/32545976/pexels-photo-32545976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Jonas Baumann",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MIT: 70% delle previsioni economiche basate sulla teoria sbagliate\",\n  \"description\": \"Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008 intitolato \\\"The end of theory\\\", in cui preannunciava la fine dell'era in cui la teoria economica e sociale era considerata la base della decisione politica. Oggi, 18 anni dopo, i dati raccolti dai ricercatori del MIT e pubbl\",\n  \"articleBody\": \"Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008 intitolato \\\"The end of theory\\\", in cui preannunciava la fine dell'era in cui la teoria economica e sociale era considerata la base della decisione politica. Oggi, 18 anni dopo, i dati raccolti dai ricercatori del MIT e pubblicati sulla rivista Science suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili. La storia comincia nel 2008, quando Chris Anderson pubblicò il suo articolo sulla rivista Wired. Anderson sosteneva che la quantità di dati disponibili era talmente grande da renderle obsolete le teorie economiche e sociali. Oggi, i dati raccolti dai ricercatori del MIT suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili. Secondo i ricercatori, le previsioni economiche basate sulla teoria tendono a essere più cattive delle previsioni basate solo sui dati storici. I ricercatori hanno analizzato i dati economici di oltre 100 paesi e hanno scoperto che le previsioni basate sulla teoria sono state sbagliate il 70% delle volte. La fonte dei dati è la rivista Science, che ha pubblicato gli studi dei ricercatori del MIT. Chris Anderson è un direttore di rivista e un sostenitore della fine della teoria economica e sociale. La sua teoria è stata sostenuta anche da altri economisti e ricercatori. Tuttavia, gli studi dei ricercatori del MIT suggeriscono che le previsioni economiche basate sulla teoria non sono affidabili. Questo significa che i governi e le aziende dovrebbero concentrarsi più sulla raccolta di dati e meno sulla teoria economica. La domanda è: se le previsioni economiche basate sulla teoria non sono affidabili, cosa ci resta della teoria economica e sociale?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:36.605970+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:36.605970+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/903d549c697150bb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/903d549c697150bb\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/32545976/pexels-photo-32545976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Jonas Baumann\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/politica/chris-anderson-la-fine-della-teoria-903d549c697150bb",
+  "related": [
+    {
+      "title": "Decreto-legge approvato: taglio burocrazia per imprese",
+      "url": "/politica/casasco-decreto-legge-approvato-48a1a0395ba846cd",
+      "id": "48a1a0395ba846cd"
+    },
+    {
+      "title": "Riccardo Capanna: benzina a 1,40€ a Roma, ma con l'aiuto del Vaticano",
+      "url": "/politica/benzina-a-140-a-piazza-san-giovanni-il-vaticano-ri-e91ee485ad1906f4",
+      "id": "e91ee485ad1906f4"
+    },
+    {
+      "title": "Meloni: governo in bilico, niente dialogo con gli altri partiti",
+      "url": "/politica/meloni-28-marzo-2026-governo-in-bilico-per-estrazi-89eaf674d5cba59f",
+      "id": "89eaf674d5cba59f"
+    }
+  ],
+  "updated_at": "2026-03-28T07:11:36.605970+00:00"
+}
