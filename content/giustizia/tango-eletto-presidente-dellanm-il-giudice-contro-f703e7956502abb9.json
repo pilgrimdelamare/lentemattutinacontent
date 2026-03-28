@@ -1,0 +1,51 @@
+{
+  "id": "f703e7956502abb9",
+  "slug": "tango-eletto-presidente-dellanm-il-giudice-contro-f703e7956502abb9",
+  "title": "Tango eletto presidente dell'Anm: il giudice contro corrente",
+  "titles": [
+    "Tango eletto presidente dell'Anm: il giudice contro corrente",
+    "La svolta di Tango: recuperare dialogo e fiducia con la politica",
+    "Giustizia nuova: Antonio Tango guida l'Anm con un programma di cambiamento"
+  ],
+  "title_winner": null,
+  "section": "giustizia",
+  "occhiello": "IL GIUDICE TANGO PRESIDENTE DELL'ANM",
+  "lead": "Il giudice Antonio Tango è stato eletto nuovo presidente dell'Associazione Nazionale Magistrati (Anm), con un programma che punta a recuperare il dialogo con la politica. La notizia è stata confermata da ANSA il 28 marzo 2026.",
+  "corpo1": "Il giudice Antonio Tango, noto per le sue posizioni forti sulla riforma della giustizia, ha vinto le elezioni interne all'Anm con un largo margine. Secondo ANSA, Tango ha promesso di lavorare per riavvicinare la magistratura alla politica, dopo anni di tensioni e conflitti. Il nuovo presidente dell'Anm ha dichiarato: \"È tempo di recuperare il dialogo con la politica, di ricostruire la fiducia e di lavorare insieme per la giustizia e per il Paese\". La sua elezione è stata vista come un segno di cambiamento all'interno dell'Anm, che negli ultimi anni è stato criticato per la sua posizione rigida e conflittuale con il governo.",
+  "corpo2": "Il giudice Antonio Tango ha una lunga storia di militanza all'interno dell'Anm, ed è stato uno dei principali artefici della riforma della giustizia negli anni '90. Tuttavia, negli ultimi anni, è stato criticato per la sua posizione rigida e conflittuale con il governo, che ha portato a una serie di conflitti e tensioni all'interno dell'associazione. La sua elezione come presidente dell'Anm potrebbe segnare un nuovo corso per l'associazione, che potrebbe lavorare per ricostruire la fiducia con la politica e per promuovere la giustizia e la transparenza nel Paese. Ma la domanda è: sarà in grado di mantenere le promesse e di lavorare efficacemente con la politica per il bene del Paese?",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T16:18:21.819216+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31602788/pexels-photo-31602788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Marika Ponzio",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tango eletto presidente dell'Anm: il giudice contro corrente\",\n  \"description\": \"Il giudice Antonio Tango è stato eletto nuovo presidente dell'Associazione Nazionale Magistrati (Anm), con un programma che punta a recuperare il dialogo con la politica. La notizia è stata confermata da ANSA il 28 marzo 2026.\",\n  \"articleBody\": \"Il giudice Antonio Tango è stato eletto nuovo presidente dell'Associazione Nazionale Magistrati (Anm), con un programma che punta a recuperare il dialogo con la politica. La notizia è stata confermata da ANSA il 28 marzo 2026. Il giudice Antonio Tango, noto per le sue posizioni forti sulla riforma della giustizia, ha vinto le elezioni interne all'Anm con un largo margine. Secondo ANSA, Tango ha promesso di lavorare per riavvicinare la magistratura alla politica, dopo anni di tensioni e conflitti. Il nuovo presidente dell'Anm ha dichiarato: \\\"È tempo di recuperare il dialogo con la politica, di ricostruire la fiducia e di lavorare insieme per la giustizia e per il Paese\\\". La sua elezione è stata vista come un segno di cambiamento all'interno dell'Anm, che negli ultimi anni è stato criticato per la sua posizione rigida e conflittuale con il governo. Il giudice Antonio Tango ha una lunga storia di militanza all'interno dell'Anm, ed è stato uno dei principali artefici della riforma della giustizia negli anni '90. Tuttavia, negli ultimi anni, è stato criticato per la sua posizione rigida e conflittuale con il governo, che ha portato a una serie di conflitti e tensioni all'interno dell'associazione. La sua elezione come presidente dell'Anm potrebbe segnare un nuovo corso per l'associazione, che potrebbe lavorare per ricostruire la fiducia con la politica e per promuovere la giustizia e la transparenza nel Paese. Ma la domanda è: sarà in grado di mantenere le promesse e di lavorare efficacemente con la politica per il bene del Paese?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:18:21.819216+00:00\",\n  \"dateModified\": \"2026-03-28T16:18:21.819216+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/f703e7956502abb9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/f703e7956502abb9\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31602788/pexels-photo-31602788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Marika Ponzio\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Politica",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/politica/2026/03/28/al-giudice-tango-la-presidenza-dellanm-_b1e38601-09b1-4b1c-a382-ecd16456c949.html",
+  "related": [
+    {
+      "title": "Giuseppe Tango eletto presidente dell'Anm al posto di Parodi",
+      "url": "/politica/giuseppe-tango-eletto-presidente-dellanm-al-posto-ecffc7a18e96af35",
+      "id": "ecffc7a18e96af35"
+    },
+    {
+      "title": "La presidente Meloni chiamata a verifiche per la gestione dei fondi",
+      "url": "/politica/la-presidente-meloni-chiamata-a-verifiche-per-la-g-1ef251ceca72d58c",
+      "id": "1ef251ceca72d58c"
+    },
+    {
+      "title": "Mattarella: tensioni internazionali gravi",
+      "url": "/politica/mattarella-tensioni-internazionali-gravi-4c7123a058a44269",
+      "id": "4c7123a058a44269"
+    }
+  ]
+}
