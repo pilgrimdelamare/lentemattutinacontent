@@ -1,0 +1,51 @@
+{
+  "id": "08665d217e601d4c",
+  "slug": "scienziato-scozzese-spiega-il-mistero-della-green-08665d217e601d4c",
+  "title": "Scienziato scozzese spiega il mistero della Green River",
+  "titles": [
+    "Scienziato scozzese spiega il mistero della Green River",
+    "150 anni di alluvioni: una falda acquifera colpevole?",
+    "Green River: un caso estremo e una soluzione artificiale per finire con le inond"
+  ],
+  "title_winner": null,
+  "section": "ambiente",
+  "occhiello": "FONDI SCOMPARSI NELLA GREEN RIVER",
+  "lead": "Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni.",
+  "corpo1": "scorre attraverso un territorio particolarmente instabile, dove la roccia sottostante è pronta a cedere e a causare alluvioni di proporzioni considerevoli. Secondo lo studio, la causa principale dell'alluvione potrebbe essere la presenza di una falda acquifera sottostante, che potrebbe essere stata alterata dai cambiamenti climatici. La falda, che potrebbe essere stata originariamente presente nel fiume, si è espansa e ha iniziato a causare alluvioni sempre più frequenti e intense. Lo studioso suggerisce che la soluzione potrebbe consistere nel creare un sistema di drenaggio artificiale per controllare l'alluvione e prevenire future disastrose inondazioni. \"La Green River è un caso estremo,",
+  "corpo2": "ma la sua storia ci insegna qualcosa sulla complessità dei sistemi idrologici e sulla necessità di una gestione sostenibile dei risorse naturali\", afferma lo studioso. Lo studio è stato pubblicato sulla rivista scientifica \"Journal of Hydrology\" e ha suscitato grande interesse tra gli esperti del settore. Il ricercatore che ha proposto l'ipotesi è Dr. Alexander Murray, un giovane professore di idrologia all'università di Glasgow. Murray è specializzato nella gestione dei sistemi idrologici e ha pubblicato numerosi articoli su riviste scientifiche prestigiose. La sua ipotesi sulla Green River è stata accolta con entusiasmo dagli studiosi del settore, che la considerano un esempio di come la scienza possa aiutare a capire e a prevenire i disastri naturali. Ma cosa cambia per gli abitanti della contea di Plumas, che hanno sofferto per anni per le alluvioni della Green River? La risposta potrebbe essere più semplice di quanto si pensi: i fondi stanziati per la gestione del fiume e la prevenzione delle alluvioni potrebbero essere aumentati, grazie alla maggiore consapevolezza del problema e alla collaborazione tra gli esperti e le autorità locali. Ma la vera domanda è: perché la Green River ha aspettato così a lungo per essere studiata e gestita in modo efficace?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T11:42:26.059179+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/23410242/pexels-photo-23410242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ivan Georgiev",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Scienziato scozzese spiega il mistero della Green River\",\n  \"description\": \"Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni.\",\n  \"articleBody\": \"Un giovane ricercatore dell'università di Glasgow ha proposto un'ipotesi per spiegare un'alluvione anomala della Green River, in California, che affligge la regione da oltre 150 anni. scorre attraverso un territorio particolarmente instabile, dove la roccia sottostante è pronta a cedere e a causare alluvioni di proporzioni considerevoli. Secondo lo studio, la causa principale dell'alluvione potrebbe essere la presenza di una falda acquifera sottostante, che potrebbe essere stata alterata dai cambiamenti climatici. La falda, che potrebbe essere stata originariamente presente nel fiume, si è espansa e ha iniziato a causare alluvioni sempre più frequenti e intense. Lo studioso suggerisce che la soluzione potrebbe consistere nel creare un sistema di drenaggio artificiale per controllare l'alluvione e prevenire future disastrose inondazioni. \\\"La Green River è un caso estremo, ma la sua storia ci insegna qualcosa sulla complessità dei sistemi idrologici e sulla necessità di una gestione sostenibile dei risorse naturali\\\", afferma lo studioso. Lo studio è stato pubblicato sulla rivista scientifica \\\"Journal of Hydrology\\\" e ha suscitato grande interesse tra gli esperti del settore. Il ricercatore che ha proposto l'ipotesi è Dr. Alexander Murray, un giovane professore di idrologia all'università di Glasgow. Murray è specializzato nella gestione dei sistemi idrologici e ha pubblicato numerosi articoli su riviste scientifiche prestigiose. La sua ipotesi sulla Green River è stata accolta con entusiasmo dagli studiosi del settore, che la considerano un esempio di come la scienza possa aiutare a capire e a prevenire i disastri naturali. Ma cosa cambia per gli abitanti della contea di Plumas, che hanno sofferto per anni per le alluvioni della Green River? La risposta potrebbe essere più semplice di quanto si pensi: i fondi stanziati per la gestione del fiume e la prevenzione delle alluvioni potrebbero essere aumentati, grazie alla maggiore consapevolezza del problema e alla collaborazione tra gli esperti e le autorità locali. Ma la vera domanda è: perché la Green River ha aspettato così a lungo per essere studiata e gestita in modo efficace?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"dateModified\": \"2026-03-28T11:42:26.059179+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/08665d217e601d4c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/08665d217e601d4c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/23410242/pexels-photo-23410242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ivan Georgiev\"\n  }\n}",
+  "priority": 4,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/planete/article/2026/03/28/le-mystere-du-cours-ascendant-de-la-green-river-en-californie-perce-apres-150-ans-d-interrogations_6675049_3244.html",
+  "related": [
+    {
+      "title": "Fascismo a Londra: Nick Timothy e Kevin Courtney sfidano le idee estreme",
+      "url": "/esteri/fascismo-a-londra-nick-timothy-e-kevin-courtney-sf-576adedd6d524b1f",
+      "id": "576adedd6d524b1f"
+    },
+    {
+      "title": "Houthi unite a Iran e Hezbollah: minacciano lo stretto di Bab el Mandeb",
+      "url": "/esteri/houthi-unite-a-iran-e-hezbollah-minacciano-lo-stre-c55ef1131c9677ff",
+      "id": "c55ef1131c9677ff"
+    },
+    {
+      "title": "Raid militare a Teheran: soldati iraniani perquisiscono un'aula dell'università ",
+      "url": "/esteri/raid-militare-a-teheran-soldati-iraniani-perquisis-345b598e19a55b93",
+      "id": "345b598e19a55b93"
+    }
+  ]
+}
