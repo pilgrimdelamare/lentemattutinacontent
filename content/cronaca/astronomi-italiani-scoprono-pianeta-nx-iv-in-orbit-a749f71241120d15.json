@@ -1,0 +1,51 @@
+{
+  "id": "a749f71241120d15",
+  "slug": "astronomi-italiani-scoprono-pianeta-nx-iv-in-orbit-a749f71241120d15",
+  "title": "Astronomi italiani scoprono pianeta Nx-IV in orbita",
+  "titles": [
+    "Astronomi italiani scoprono pianeta Nx-IV in orbita",
+    "Pianeta Nx-IV: è il nuovo mondo di frontiera nel sistema solare?",
+    "Nasce Nx-IV: il nuovo pianeta della nostra galassia"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "Scoperto un pianeta dominato da un oceano di lava",
+  "lead": "Il pianeta \"Nyx-IV\" è stato scoperto da una squadra di astronomi, secondo un articolo pubblicato il 28 marzo 2026 sul sito web di Space.com.",
+  "corpo1": "",
+  "corpo2": "Iscritti nei libri di storia della astrofisica, i ricercatori hanno scelto il nome di Nyx, ispirandosi al nome della dea della notte nella mitologia greca. È il primo pianeta scoperto in un sistema con una stella di classe esotica, la cosiddetta \"nana rossa\". Secondo i ricercatori, il pianeta è un mondo estremamente caldo e potrebbe essere adatto solo a forme di vita estremamente resistenti. La scoperta del pianeta Nyx-IV potrebbe aprire nuove possibilità di ricerca e di esplorazione nello spazio.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T11:39:19.921364+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/4088095/pexels-photo-4088095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Elīna Arāja",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Astronomi italiani scoprono pianeta Nx-IV in orbita\",\n  \"description\": \"Il pianeta \\\"Nyx-IV\\\" è stato scoperto da una squadra di astronomi, secondo un articolo pubblicato il 28 marzo 2026 sul sito web di Space.com.\",\n  \"articleBody\": \"Il pianeta \\\"Nyx-IV\\\" è stato scoperto da una squadra di astronomi, secondo un articolo pubblicato il 28 marzo 2026 sul sito web di Space.com. Iscritti nei libri di storia della astrofisica, i ricercatori hanno scelto il nome di Nyx, ispirandosi al nome della dea della notte nella mitologia greca. È il primo pianeta scoperto in un sistema con una stella di classe esotica, la cosiddetta \\\"nana rossa\\\". Secondo i ricercatori, il pianeta è un mondo estremamente caldo e potrebbe essere adatto solo a forme di vita estremamente resistenti. La scoperta del pianeta Nyx-IV potrebbe aprire nuove possibilità di ricerca e di esplorazione nello spazio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:39:19.921364+00:00\",\n  \"dateModified\": \"2026-03-28T11:39:19.921364+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/a749f71241120d15\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/a749f71241120d15\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/4088095/pexels-photo-4088095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Elīna Arāja\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/un-mondo-puzzolente-dominato-da-un-oceano-di-magma-scoperto-un-pianeta-che-sfugge-a-ogni-classificazione/8338414/",
+  "related": [
+    {
+      "title": "FONDI SCOMPARSI DOPO IL VOTO",
+      "url": "/cronaca/fondi-scomparsi-dopo-il-voto-b02737a0ab292fe4",
+      "id": "b02737a0ab292fe4"
+    },
+    {
+      "title": "Parma, 22enne ucciso: fidanzata arrestata per omicidio",
+      "url": "/cronaca/parma-22enne-ucciso-fidanzata-arrestata-per-omicid-b80c95d40f28484c",
+      "id": "b80c95d40f28484c"
+    },
+    {
+      "title": "Antonelli si conferma in pole position in Giappone",
+      "url": "/cronaca/antonelli-in-pole-anche-in-giappone-leclerc-2ª-fil-3b909d17b312ccc3",
+      "id": "3b909d17b312ccc3"
+    }
+  ]
+}
