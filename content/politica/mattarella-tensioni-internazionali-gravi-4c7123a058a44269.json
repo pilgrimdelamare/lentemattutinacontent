@@ -1,0 +1,51 @@
+{
+  "id": "4c7123a058a44269",
+  "slug": "mattarella-tensioni-internazionali-gravi-4c7123a058a44269",
+  "title": "Mattarella: tensioni internazionali gravi",
+  "titles": [
+    "Mattarella: tensioni internazionali gravi",
+    "Sergio Mattarella lancia richiamo alla responsabilità",
+    "28 marzo, Mattarella avverte sulla stabilità globale"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "Mattarella lancia un richiamo alla responsabilità",
+  "lead": "Il presidente Sergio Mattarella ha parlato di \"gravi tensioni internazionali\" e ha lanciato un \"richiamo severo alla responsabilità\" nella giornata di sabato 28 marzo 2026.",
+  "corpo1": "Secondo quanto riportato dall'ANSA, il presidente della Repubblica Sergio Mattarella ha espresso preoccupazione per le tensioni internazionali durante un intervento. La data dell'intervento è stata sabato 28 marzo 2026. Il presidente Mattarella ha sottolineato l'importanza della responsabilità in questo contesto. Non sono stati forniti ulteriori dettagli sull'intervento del presidente.",
+  "corpo2": "Il richiamo alla responsabilità lanciato da Sergio Mattarella arriva in un momento in cui le tensioni internazionali sono particolarmente elevate. Il presidente della Repubblica italiana è noto per il suo ruolo di garante della stabilità e della coesione nazionale. La sua dichiarazione suggerisce che la situazione internazionale richiede un'attenzione particolare e un senso di responsabilità condivisa. Quali saranno le conseguenze di questo appello alla responsabilità?",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T12:37:17.204847+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/33946661/pexels-photo-33946661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Kari Alfonso",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Mattarella: tensioni internazionali gravi\",\n  \"description\": \"Il presidente Sergio Mattarella ha parlato di \\\"gravi tensioni internazionali\\\" e ha lanciato un \\\"richiamo severo alla responsabilità\\\" nella giornata di sabato 28 marzo 2026.\",\n  \"articleBody\": \"Il presidente Sergio Mattarella ha parlato di \\\"gravi tensioni internazionali\\\" e ha lanciato un \\\"richiamo severo alla responsabilità\\\" nella giornata di sabato 28 marzo 2026. Secondo quanto riportato dall'ANSA, il presidente della Repubblica Sergio Mattarella ha espresso preoccupazione per le tensioni internazionali durante un intervento. La data dell'intervento è stata sabato 28 marzo 2026. Il presidente Mattarella ha sottolineato l'importanza della responsabilità in questo contesto. Non sono stati forniti ulteriori dettagli sull'intervento del presidente. Il richiamo alla responsabilità lanciato da Sergio Mattarella arriva in un momento in cui le tensioni internazionali sono particolarmente elevate. Il presidente della Repubblica italiana è noto per il suo ruolo di garante della stabilità e della coesione nazionale. La sua dichiarazione suggerisce che la situazione internazionale richiede un'attenzione particolare e un senso di responsabilità condivisa. Quali saranno le conseguenze di questo appello alla responsabilità?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:37:17.204847+00:00\",\n  \"dateModified\": \"2026-03-28T12:37:17.204847+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/4c7123a058a44269\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/4c7123a058a44269\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33946661/pexels-photo-33946661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Kari Alfonso\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Politica",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/politica/2026/03/28/mattarella-gravi-tensioni-internazionali-richiamo-severo-alla-responsabilita_ef49b9f3-c227-477f-9a6a-ffe8df3beef9.html",
+  "related": [
+    {
+      "title": "La presidente Meloni chiamata a verifiche per la gestione dei fondi",
+      "url": "/politica/la-presidente-meloni-chiamata-a-verifiche-per-la-g-1ef251ceca72d58c",
+      "id": "1ef251ceca72d58c"
+    },
+    {
+      "title": "Papa a Monaco: rivendica redistribuzione ricchezze",
+      "url": "/politica/papa-a-monaco-rivendica-redistribuzione-ricchezze-e6ef50624ba7bd46",
+      "id": "e6ef50624ba7bd46"
+    },
+    {
+      "title": "Francesca Pascale annuncia evento 'Gay Conservatori Liberali' a Napoli",
+      "url": "/politica/francesca-pascale-annuncia-evento-gay-conservatori-f2da85e28a4b52de",
+      "id": "f2da85e28a4b52de"
+    }
+  ]
+}
