@@ -1,0 +1,51 @@
+{
+  "id": "903d549c697150bb",
+  "slug": "chris-anderson-la-fine-della-teoria-903d549c697150bb",
+  "title": "Chris Anderson: la fine della teoria",
+  "titles": [
+    "Chris Anderson: la fine della teoria",
+    "Il pensiero critico sotto attacco",
+    "La democrazia paga le conseguenze"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "ASSALTO ALLA DEMOCRAZIA E AL PENSIERO CRITICO",
+  "lead": "Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008: \"The end of theory\". Era un vaticinio sulla fine del metodo scientifico. Oggi, questo tema è più attuale che mai. Il pensiero critico è sotto attacco e la democrazia ne sta pagando le conseguenze.",
+  "corpo1": "Era il 2008 quando Chris Anderson, direttore della rivista Wired, scrisse un articolo profetico: \"The end of theory\". Anderson vaticinava la fine del metodo scientifico che aveva fino ad allora caratterizzato la ricerca e l'indagine. Secondo lui, la quantità di dati a disposizione sarebbe stata talmente alta da rendere superflua la teoria. Oggi, questo tema è più attuale che mai. Il pensiero critico è sotto attacco e la democrazia ne sta pagando le conseguenze. La crisi del pensiero critico è stata teorizzata da filosofi come Paolo Ercolani, dell'Università di Urbino \"Carlo Bo\". Ercolani sostiene che l'attacco alla democrazia e al pensiero critico è stato pianificato e che colpisce non solo l'opinione pubblica, ma anche i politici, i docenti, gli intellettuali e gli autori TV.",
+  "corpo2": "Questo attacco al pensiero critico è stato possibile grazie alla diffusione di informazioni false e alla delegittimazione della scienza. I social media e le piattaforme online hanno reso facile la diffusione di notizie false e hanno creato un clima di sfiducia nei confronti delle istituzioni e degli esperti. Questo ha portato a una situazione in cui la verità sembra essere diventata relativa e il pensiero critico è stato sostituito da una sorta di \"pensiero unico\". La domanda è: come possiamo tornare a un'epoca in cui la verità e il pensiero critico siano valorizzati e non demonizzati? Chi sono i responsabili di questo attacco alla democrazia e al pensiero critico e quali sono le loro motivazioni?",
+  "journalist": {
+    "id": "sergio_mancini_01",
+    "firma": "Sergio Mancini",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T07:11:36.605970+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/27358169/pexels-photo-27358169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Nemika F",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Chris Anderson: la fine della teoria\",\n  \"description\": \"Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008: \\\"The end of theory\\\". Era un vaticinio sulla fine del metodo scientifico. Oggi, questo tema è più attuale che mai. Il pensiero critico è sotto attacco e la democrazia ne sta pagando le conseguenze.\",\n  \"articleBody\": \"Chris Anderson, direttore della rivista Wired, scrisse un articolo nel 2008: \\\"The end of theory\\\". Era un vaticinio sulla fine del metodo scientifico. Oggi, questo tema è più attuale che mai. Il pensiero critico è sotto attacco e la democrazia ne sta pagando le conseguenze. Era il 2008 quando Chris Anderson, direttore della rivista Wired, scrisse un articolo profetico: \\\"The end of theory\\\". Anderson vaticinava la fine del metodo scientifico che aveva fino ad allora caratterizzato la ricerca e l'indagine. Secondo lui, la quantità di dati a disposizione sarebbe stata talmente alta da rendere superflua la teoria. Oggi, questo tema è più attuale che mai. Il pensiero critico è sotto attacco e la democrazia ne sta pagando le conseguenze. La crisi del pensiero critico è stata teorizzata da filosofi come Paolo Ercolani, dell'Università di Urbino \\\"Carlo Bo\\\". Ercolani sostiene che l'attacco alla democrazia e al pensiero critico è stato pianificato e che colpisce non solo l'opinione pubblica, ma anche i politici, i docenti, gli intellettuali e gli autori TV. Questo attacco al pensiero critico è stato possibile grazie alla diffusione di informazioni false e alla delegittimazione della scienza. I social media e le piattaforme online hanno reso facile la diffusione di notizie false e hanno creato un clima di sfiducia nei confronti delle istituzioni e degli esperti. Questo ha portato a una situazione in cui la verità sembra essere diventata relativa e il pensiero critico è stato sostituito da una sorta di \\\"pensiero unico\\\". La domanda è: come possiamo tornare a un'epoca in cui la verità e il pensiero critico siano valorizzati e non demonizzati? Chi sono i responsabili di questo attacco alla democrazia e al pensiero critico e quali sono le loro motivazioni?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Sergio Mancini\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:36.605970+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:36.605970+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/903d549c697150bb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/903d549c697150bb\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/27358169/pexels-photo-27358169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Nemika F\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/crisi-pensiero-critico-metodo-scientifico-oggi/8337531/",
+  "related": [
+    {
+      "title": "Benzina a 1,40€ a Piazza San Giovanni, il Vaticano risparmia su Iva e accise",
+      "url": "/politica/benzina-a-140-a-piazza-san-giovanni-il-vaticano-ri-e91ee485ad1906f4",
+      "id": "e91ee485ad1906f4"
+    },
+    {
+      "title": "Casasco: decreto-legge approvato",
+      "url": "/politica/casasco-decreto-legge-approvato-48a1a0395ba846cd",
+      "id": "48a1a0395ba846cd"
+    },
+    {
+      "title": "Meloni, 28 marzo 2026: governo in bilico per estrazione comune della classe diri",
+      "url": "/politica/meloni-28-marzo-2026-governo-in-bilico-per-estrazi-89eaf674d5cba59f",
+      "id": "89eaf674d5cba59f"
+    }
+  ]
+}
