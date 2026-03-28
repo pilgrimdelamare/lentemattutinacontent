@@ -1,0 +1,51 @@
+{
+  "id": "9223920500bd5c4d",
+  "slug": "gli-houthi-colpiranno-israele-lancio-di-missile-se-9223920500bd5c4d",
+  "title": "Gli Houthi colpiranno Israele: lancio di missile segnalato per la seconda volta",
+  "titles": [
+    "Gli Houthi colpiranno Israele: lancio di missile segnalato per la seconda volta",
+    "Secondo attacco: Israele sotto il fuoco dei ribelli yemeniti",
+    "Missile Houthi contro Israele: la comunità internazionale allerta per l'escalati"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MISSILE HOULTHI CONTRO ISRAELE",
+  "lead": "un missile degli Houthi è stato lanciato contro Israele, secondo una fonte della sicurezza dello Stato ebraico citata da Cnn il 28 marzo 2026.",
+  "corpo1": "la fonte ha riferito che si tratta del secondo missile lanciato contro Israele. gli Houthi sono un gruppo ribelle yemenita che ha lanciato numerosi attacchi contro obiettivi in Arabia Saudita e negli Emirati Arabi Uniti. secondo Cnn, la fonte della sicurezza israeliana ha confermato il lancio del missile, ma non ha fornito ulteriori dettagli. la notizia è stata resa pubblica dopo una serie di tensioni tra Israele e gli Houthi, che hanno minacciato di lanciare attacchi contro obiettivi israeliani.  la comunità internazionale ha espresso preoccupazione per l'escalation degli attacchi e ha chiesto una riduzione delle tensioni nella regione.",
+  "corpo2": "gli Houthi sono un gruppo ribelle yemenita che ha preso il controllo di parte del paese nel 2015, dopo una serie di proteste e scontri con il governo yemenita. il gruppo ha ricevuto sostegno dall'Iran, che ha fornito loro armi e addestramento. Israele ha accusato l'Iran di essere il principale responsabile degli attacchi degli Houthi e ha minacciato di lanciare attacchi contro obiettivi iraniani. la tensione tra Israele e l'Iran è alta, con continue minacce e contraminacce tra i due paesi. ",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:52:53.256206+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/26837675/pexels-photo-26837675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Vladimir Srajber",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Gli Houthi colpiranno Israele: lancio di missile segnalato per la seconda volta\",\n  \"description\": \"un missile degli Houthi è stato lanciato contro Israele, secondo una fonte della sicurezza dello Stato ebraico citata da Cnn il 28 marzo 2026.\",\n  \"articleBody\": \"un missile degli Houthi è stato lanciato contro Israele, secondo una fonte della sicurezza dello Stato ebraico citata da Cnn il 28 marzo 2026. la fonte ha riferito che si tratta del secondo missile lanciato contro Israele. gli Houthi sono un gruppo ribelle yemenita che ha lanciato numerosi attacchi contro obiettivi in Arabia Saudita e negli Emirati Arabi Uniti. secondo Cnn, la fonte della sicurezza israeliana ha confermato il lancio del missile, ma non ha fornito ulteriori dettagli. la notizia è stata resa pubblica dopo una serie di tensioni tra Israele e gli Houthi, che hanno minacciato di lanciare attacchi contro obiettivi israeliani.  la comunità internazionale ha espresso preoccupazione per l'escalation degli attacchi e ha chiesto una riduzione delle tensioni nella regione. gli Houthi sono un gruppo ribelle yemenita che ha preso il controllo di parte del paese nel 2015, dopo una serie di proteste e scontri con il governo yemenita. il gruppo ha ricevuto sostegno dall'Iran, che ha fornito loro armi e addestramento. Israele ha accusato l'Iran di essere il principale responsabile degli attacchi degli Houthi e ha minacciato di lanciare attacchi contro obiettivi iraniani. la tensione tra Israele e l'Iran è alta, con continue minacce e contraminacce tra i due paesi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:53.256206+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:53.256206+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/9223920500bd5c4d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/9223920500bd5c4d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/26837675/pexels-photo-26837675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Vladimir Srajber\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/28/cnn-secondo-missile-degli-houthi-lanciato-contro-israele_a975f08a-9c4e-4728-acdb-09b8dde317f6.html",
+  "related": [
+    {
+      "title": "Houthi rivendicano attacco missilistico contro Israele in Arabia Saudita",
+      "url": "/esteri/houthi-rivendicano-attacco-missilistico-contro-isr-d30753df03996bf6",
+      "id": "d30753df03996bf6"
+    },
+    {
+      "title": "Ribelli Houthi rilanciano attacco missilistico contro Israele",
+      "url": "/esteri/gli-houthi-rivendicano-attacco-missilistico-contro-17546bccb8d1758f",
+      "id": "17546bccb8d1758f"
+    },
+    {
+      "title": "Houthi lanciano 20 missili contro Israele da base yemenita",
+      "url": "/esteri/houthi-lanciano-20-missili-verso-israele-da-base-y-ec82573f74547052",
+      "id": "ec82573f74547052"
+    }
+  ]
+}
