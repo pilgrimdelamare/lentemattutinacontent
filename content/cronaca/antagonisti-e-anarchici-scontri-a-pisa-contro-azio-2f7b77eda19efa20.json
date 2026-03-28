@@ -20,11 +20,10 @@
   },
   "published_at": "2026-03-28T17:52:38.420877+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/17415163/pexels-photo-17415163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Israel Torres",
-    "license": "Pexels License"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pisa_ponte_ferrovia.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Wikimedia Commons",
+    "license": "CC"
   },
   "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria\",\n  \"description\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026.\",\n  \"articleBody\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026. Secondo ANSA, il blitz degli antagonisti e degli anarchici contro Azione universitaria ha creato tensioni a Pisa. Le forze dell'ordine sono intervenute per evitare scontri. I manifestanti erano contrari all'organizzazione di Azione universitaria, che è stata oggetto di critiche e contestazioni.   Azione universitaria è un'organizzazione studentesca che ha suscitato polemiche e critiche in passato. La sua presenza nelle università italiane è stata oggetto di dibattito e contestazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17415163/pexels-photo-17415163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Israel Torres\"\n  }\n}",
   "priority": 6,
