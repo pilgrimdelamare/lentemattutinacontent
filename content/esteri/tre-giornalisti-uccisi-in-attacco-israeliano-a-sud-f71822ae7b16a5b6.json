@@ -1,0 +1,51 @@
+{
+  "id": "f71822ae7b16a5b6",
+  "slug": "tre-giornalisti-uccisi-in-attacco-israeliano-a-sud-f71822ae7b16a5b6",
+  "title": "Tre giornalisti uccisi in attacco israeliano a sud del Libano",
+  "titles": [
+    "Tre giornalisti uccisi in attacco israeliano a sud del Libano",
+    "L'omicidio dei tre giornalisti: un atto di guerra?",
+    "Missile israeliano decapita tre giornalisti in Libano"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ISRAELE AMMAZZA TRE GIORNALISTI IN LIBANO",
+  "lead": "Israele ha ucciso tre giornalisti in un attacco aereo a sud del Libano, secondo quanto riferito dalle loro TV e dalle autorità libanesi. L'attacco è avvenuto ieri pomeriggio, quando un missile israeliano ha colpito una macchina in cui si trovavano i tre giornalisti. La macchina è stata distrutta e i corpi dei tre sono stati ritrovati vicino alla città di Jezzine.",
+  "corpo1": "La dichiarazione dell'armata israeliana ha affermato che l'obiettivo dell'attacco era un \"terrorista\" della Hezbollah, ma le autorità libanesi hanno condannato l'azione come \"una guerra di popoli\", secondo quanto riferito dalla fonte \"The Guardian\". L'attacco ha avuto luogo a circa 30 chilometri dalla frontiera israelo-libanese, in un'area considerata \"sala di guerra\" da entrambe le parti. La televisione libanese Al-Manar ha riportato che i tre giornalisti erano in viaggio per riferire su un evento locale quando sono stati uccisi. Secondo l'agenzia di stampa libanese, le vittime erano un conduttore di un canale televisivo e due giornalisti. L'agenzia di stampa israeliana ha confermato che l'attacco è stato condotto con un missile e che l'obiettivo era un \"terrorista\" della Hezbollah.",
+  "corpo2": "La morte di questi tre giornalisti mette in luce la pericolosità della Zona di Sicurezza che divide Israele dal Libano, che dal 2006 è uno dei luoghi più pericolosi del mondo per i reporter. I giornalisti che lavorano in questa zona corrono rischi elevati, anche a causa della presenza di gruppi armati che minacciano le loro vite per impedire loro di riferire sulle violazioni dei diritti umani e sulle azioni militari. Questo attacco è solo uno dei molti incidenti che hanno coinvolto giornalisti in questa zona. La guerra tra Israele e la Palestina ha portato alla morte di molti giornalisti e alla distruzione delle infrastrutture di supporto ai media. La notizia dell'uccisione di questi tre giornalisti pone nuovamente in evidenza la necessità di proteggere i reporter e garantire la libertà di stampa in questa zona.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:54:47.366871+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Israel_Aerial_Ropeway_Masada_BW_1.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Berthold Werner",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tre giornalisti uccisi in attacco israeliano a sud del Libano\",\n  \"description\": \"Israele ha ucciso tre giornalisti in un attacco aereo a sud del Libano, secondo quanto riferito dalle loro TV e dalle autorità libanesi. L'attacco è avvenuto ieri pomeriggio, quando un missile israeliano ha colpito una macchina in cui si trovavano i tre giornalisti. La macchina è stata distrutta e i\",\n  \"articleBody\": \"Israele ha ucciso tre giornalisti in un attacco aereo a sud del Libano, secondo quanto riferito dalle loro TV e dalle autorità libanesi. L'attacco è avvenuto ieri pomeriggio, quando un missile israeliano ha colpito una macchina in cui si trovavano i tre giornalisti. La macchina è stata distrutta e i corpi dei tre sono stati ritrovati vicino alla città di Jezzine. La dichiarazione dell'armata israeliana ha affermato che l'obiettivo dell'attacco era un \\\"terrorista\\\" della Hezbollah, ma le autorità libanesi hanno condannato l'azione come \\\"una guerra di popoli\\\", secondo quanto riferito dalla fonte \\\"The Guardian\\\". L'attacco ha avuto luogo a circa 30 chilometri dalla frontiera israelo-libanese, in un'area considerata \\\"sala di guerra\\\" da entrambe le parti. La televisione libanese Al-Manar ha riportato che i tre giornalisti erano in viaggio per riferire su un evento locale quando sono stati uccisi. Secondo l'agenzia di stampa libanese, le vittime erano un conduttore di un canale televisivo e due giornalisti. L'agenzia di stampa israeliana ha confermato che l'attacco è stato condotto con un missile e che l'obiettivo era un \\\"terrorista\\\" della Hezbollah. La morte di questi tre giornalisti mette in luce la pericolosità della Zona di Sicurezza che divide Israele dal Libano, che dal 2006 è uno dei luoghi più pericolosi del mondo per i reporter. I giornalisti che lavorano in questa zona corrono rischi elevati, anche a causa della presenza di gruppi armati che minacciano le loro vite per impedire loro di riferire sulle violazioni dei diritti umani e sulle azioni militari. Questo attacco è solo uno dei molti incidenti che hanno coinvolto giornalisti in questa zona. La guerra tra Israele e la Palestina ha portato alla morte di molti giornalisti e alla distruzione delle infrastrutture di supporto ai media. La notizia dell'uccisione di questi tre giornalisti pone nuovamente in evidenza la necessità di proteggere i reporter e garantire la libertà di stampa in questa zona.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:54:47.366871+00:00\",\n  \"dateModified\": \"2026-03-28T16:54:47.366871+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/f71822ae7b16a5b6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/f71822ae7b16a5b6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/a/a6/Israel_Aerial_Ropeway_Masada_BW_1.jpg\",\n    \"creditText\": \"Berthold Werner\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/lebanon-condemns-blatant-war-crime-israel-kills-three-journalists",
+  "related": [
+    {
+      "title": "Houthi rivendicano attacco missilistico contro Israele in Arabia Saudita",
+      "url": "/esteri/houthi-rivendicano-attacco-missilistico-contro-isr-d30753df03996bf6",
+      "id": "d30753df03996bf6"
+    },
+    {
+      "title": "15 feriti in Arabia Saudita, attacco Houthi contro Israele",
+      "url": "/esteri/15-feriti-in-arabia-saudita-attacco-houthi-contro-d40e96167f295c11",
+      "id": "d40e96167f295c11"
+    },
+    {
+      "title": "12 feriti in Arabia Saudita dopo attacco alla base statunitense di Khamis Mushay",
+      "url": "/esteri/12-feriti-in-attacco-a-base-usa-in-arabia-saudita-f87e73ab788b5e74",
+      "id": "f87e73ab788b5e74"
+    }
+  ]
+}
