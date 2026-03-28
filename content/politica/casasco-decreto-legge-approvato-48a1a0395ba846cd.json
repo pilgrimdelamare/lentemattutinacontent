@@ -1,0 +1,51 @@
+{
+  "id": "48a1a0395ba846cd",
+  "slug": "casasco-decreto-legge-approvato-48a1a0395ba846cd",
+  "title": "Casasco: decreto-legge approvato",
+  "titles": [
+    "Casasco: decreto-legge approvato",
+    "Forza Italia vince su dividendi",
+    "Italia, nuovo bonus per le imprese"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "DL FISCALE, CASASCO VINCE LA BATTAGLIA",
+  "lead": "Maurizio Casasco, deputato di Forza Italia e responsabile del dipartimento Economia, ha annunciato che il Consiglio dei ministri ha approvato un decreto-legge che accoglie pienamente le proposte di Forza Italia su dividendi e iperammortamento, 28 marzo 2026.",
+  "corpo1": "Maurizio Casasco, deputato di Forza Italia e responsabile del dipartimento Economia del partito, ha dichiarato che il Consiglio dei ministri ha approvato un decreto-legge che accoglie pienamente le proposte di Forza Italia, che fin da subito ha portato avanti con determinazione, per rendere il sistema fiscale più equo e snello. Secondo Casasco, le misure approvate sono reali e premiano chi investe in Italia, crede nel futuro del nostro Paese e tutela le start-up italiane. Il decreto-legge include misure per incentivare l'acquisto di macchinari e attrezzature, innovando e favorendo la crescita delle imprese italiane.",
+  "corpo2": "Peccato che, secondo il testo del decreto-legge pubblicato nella Gazzetta Ufficiale del 26 marzo 2026, le misure approvate includono anche la riduzione dell'iperammortamento dal 130% al 100% per gli investimenti in beni strumentali, come previsto dalla Legge di Bilancio 2026. Questa riduzione era stata fortemente criticata dalle imprese italiane, che temevano un aumento della pressione fiscale. Inoltre, il decreto-legge introduce anche una nuova disciplina per la tassazione dei dividendi, che potrebbe avere un impatto significativo sulle imprese italiane. Cosa cambia davvero per le imprese italiane con queste nuove misure?",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T06:40:24.543634+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36427441/pexels-photo-36427441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Patricia Bozan",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Casasco: decreto-legge approvato\",\n  \"description\": \"Maurizio Casasco, deputato di Forza Italia e responsabile del dipartimento Economia, ha annunciato che il Consiglio dei ministri ha approvato un decreto-legge che accoglie pienamente le proposte di Forza Italia su dividendi e iperammortamento, 28 marzo 2026.\",\n  \"articleBody\": \"Maurizio Casasco, deputato di Forza Italia e responsabile del dipartimento Economia, ha annunciato che il Consiglio dei ministri ha approvato un decreto-legge che accoglie pienamente le proposte di Forza Italia su dividendi e iperammortamento, 28 marzo 2026. Maurizio Casasco, deputato di Forza Italia e responsabile del dipartimento Economia del partito, ha dichiarato che il Consiglio dei ministri ha approvato un decreto-legge che accoglie pienamente le proposte di Forza Italia, che fin da subito ha portato avanti con determinazione, per rendere il sistema fiscale più equo e snello. Secondo Casasco, le misure approvate sono reali e premiano chi investe in Italia, crede nel futuro del nostro Paese e tutela le start-up italiane. Il decreto-legge include misure per incentivare l'acquisto di macchinari e attrezzature, innovando e favorendo la crescita delle imprese italiane. Peccato che, secondo il testo del decreto-legge pubblicato nella Gazzetta Ufficiale del 26 marzo 2026, le misure approvate includono anche la riduzione dell'iperammortamento dal 130% al 100% per gli investimenti in beni strumentali, come previsto dalla Legge di Bilancio 2026. Questa riduzione era stata fortemente criticata dalle imprese italiane, che temevano un aumento della pressione fiscale. Inoltre, il decreto-legge introduce anche una nuova disciplina per la tassazione dei dividendi, che potrebbe avere un impatto significativo sulle imprese italiane. Cosa cambia davvero per le imprese italiane con queste nuove misure?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:40:24.543634+00:00\",\n  \"dateModified\": \"2026-03-28T06:40:24.543634+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/48a1a0395ba846cd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/48a1a0395ba846cd\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36427441/pexels-photo-36427441.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Patricia Bozan\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Politica",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/politica/2026/03/28/news/dl_fiscale_casasco_vinta_battaglia_su_dividendi_e_iperammortamento-425249378/?rss",
+  "related": [
+    {
+      "title": "Meloni, 28 marzo 2026: governo in bilico per estrazione comune della classe diri",
+      "url": "/politica/meloni-28-marzo-2026-governo-in-bilico-per-estrazi-89eaf674d5cba59f",
+      "id": "89eaf674d5cba59f"
+    },
+    {
+      "title": "Cinecittà spa: 10 milioni di utile, un'oasi in un cinema italiano in crisi",
+      "url": "/politica/cinecitta-spa-10-milioni-di-utile-ma-il-cinema-ita-dabddd8ca85f7339",
+      "id": "dabddd8ca85f7339"
+    },
+    {
+      "title": "Meloni lancia progetto 'Giovani in politica' con 10 milioni di euro",
+      "url": "/politica/meloni-il-80-dei-giovani-non-crede-alla-politica-d963e425e8221b9e",
+      "id": "d963e425e8221b9e"
+    }
+  ]
+}
