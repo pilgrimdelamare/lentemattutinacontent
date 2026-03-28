@@ -1,0 +1,51 @@
+{
+  "id": "c7d8fc76ac42bcb6",
+  "slug": "nove-bambini-tra-vittime-di-e-coli-in-california-c7d8fc76ac42bcb6",
+  "title": "Nove bambini tra vittime di E. coli in California",
+  "titles": [
+    "Nove bambini tra vittime di E. coli in California",
+    "Nove bambini tra vittime di E. coli in California",
+    "Nove bambini tra vittime di E. coli in California"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Nove bambini tra vittime di E. coli in California",
+  "lead": "Un gruppo di nove persone, tra cui sette bambini, è stato colpito da un'epidemia di E. coli legata a un formaggio crudo prodotto da una fattoria californiana. Secondo l'FDA, Raw Farm era una \"fonte probabile\" dell'epidemia. I casi sono stati segnalati in tre stati. L'epidemia è stata scoperta a metà marzo.",
+  "corpo1": "La malattia è stata diagnosticata in nove persone, tra cui sette bambini. L'FDA ha identificato Raw Farm come una \"fonte probabile\" dell'epidemia. La fattoria californiana era già stata associata a un'epidemia di salmonella nel 2024 che aveva colpito 165 persone e due gatti. Raw Farm è una fattoria che produce latticini crudi in California. Secondo l'FDA, il formaggio crudo prodotto dalla fattoria è stato trovato essere contaminato con E. coli. L'epidemia è stata scoperta a metà marzo e i casi sono stati segnalati in tre stati: California, Oregon e Washington. L'FDA sta indagando sull'epidemia e sta lavorando per identificare le cause della contaminazione del formaggio crudo.",
+  "corpo2": "Raw Farm non è l'unico caso di fattoria che produce latticini crudi a essere associato a problemi di salute. Nel 2024, la fattoria era già stata associata a un'epidemia di salmonella che aveva colpito 165 persone e due gatti. La cosa che rende questo caso particolarmente preoccupante è la presenza di bambini tra i casi. L'E. coli è una batteria che può causare gravi malattie nei bambini, in particolare quelli sotto i cinque anni. È ancora presto per dire se la fattoria ha preso misure sufficienti per prevenire future epidemie, ma è chiaro che il sistema di controllo della qualità dei prodotti alimentari in California è ancora lontano dall'essere perfetto.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:45:06.870955+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mazzarino_Sicilia_Monte_Formaggio_12.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Hiron1986",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Nove bambini tra vittime di E. coli in California\",\n  \"description\": \"Un gruppo di nove persone, tra cui sette bambini, è stato colpito da un'epidemia di E. coli legata a un formaggio crudo prodotto da una fattoria californiana. Secondo l'FDA, Raw Farm era una \\\"fonte probabile\\\" dell'epidemia. I casi sono stati segnalati in tre stati. L'epidemia è stata scoperta a metà\",\n  \"articleBody\": \"Un gruppo di nove persone, tra cui sette bambini, è stato colpito da un'epidemia di E. coli legata a un formaggio crudo prodotto da una fattoria californiana. Secondo l'FDA, Raw Farm era una \\\"fonte probabile\\\" dell'epidemia. I casi sono stati segnalati in tre stati. L'epidemia è stata scoperta a metà marzo. La malattia è stata diagnosticata in nove persone, tra cui sette bambini. L'FDA ha identificato Raw Farm come una \\\"fonte probabile\\\" dell'epidemia. La fattoria californiana era già stata associata a un'epidemia di salmonella nel 2024 che aveva colpito 165 persone e due gatti. Raw Farm è una fattoria che produce latticini crudi in California. Secondo l'FDA, il formaggio crudo prodotto dalla fattoria è stato trovato essere contaminato con E. coli. L'epidemia è stata scoperta a metà marzo e i casi sono stati segnalati in tre stati: California, Oregon e Washington. L'FDA sta indagando sull'epidemia e sta lavorando per identificare le cause della contaminazione del formaggio crudo. Raw Farm non è l'unico caso di fattoria che produce latticini crudi a essere associato a problemi di salute. Nel 2024, la fattoria era già stata associata a un'epidemia di salmonella che aveva colpito 165 persone e due gatti. La cosa che rende questo caso particolarmente preoccupante è la presenza di bambini tra i casi. L'E. coli è una batteria che può causare gravi malattie nei bambini, in particolare quelli sotto i cinque anni. È ancora presto per dire se la fattoria ha preso misure sufficienti per prevenire future epidemie, ma è chiaro che il sistema di controllo della qualità dei prodotti alimentari in California è ancora lontano dall'essere perfetto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:45:06.870955+00:00\",\n  \"dateModified\": \"2026-03-28T16:45:06.870955+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/c7d8fc76ac42bcb6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/c7d8fc76ac42bcb6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/a/a9/Mazzarino_Sicilia_Monte_Formaggio_12.jpg\",\n    \"creditText\": \"Hiron1986\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/2026/mar/28/california-dairy-e-coli-raw-cheese",
+  "related": [
+    {
+      "title": "900.000 bambini UK senza pasti gratuiti",
+      "url": "/esteri/900000-bambini-in-poverta-in-uk-stop-alla-clausola-c9ea7c06b7bb9cad",
+      "id": "c9ea7c06b7bb9cad"
+    },
+    {
+      "title": "30mila manifestanti contro l'estrema destra a Londra",
+      "url": "/esteri/30mila-manifestanti-contro-lestrema-destra-a-londr-acf8779ca4bc17e3",
+      "id": "acf8779ca4bc17e3"
+    },
+    {
+      "title": "Tentato omicidio: coppia accusata di avvelenamento di una donna incinta a Iowa",
+      "url": "/esteri/tentato-omicidio-coppia-accusata-di-avvelenamento-f641e65eeefd871b",
+      "id": "f641e65eeefd871b"
+    }
+  ]
+}
