@@ -1,0 +1,51 @@
+{
+  "id": "0210659daccc87ee",
+  "slug": "italia-stop-alluscita-dal-carbone-ora-e-previsto-i-0210659daccc87ee",
+  "title": "Italia, stop all'uscita dal carbone: ora è previsto il 2038",
+  "titles": [
+    "Italia, stop all'uscita dal carbone: ora è previsto il 2038",
+    "Dl Bollette, la Lega impone la proroga: carbone fino al 2038",
+    "Carbone, il governo smentisce gli ambientalisti: 12 anni di ritardo"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "USCITA DAL CARBONE RIMANDATA AL 2038",
+  "lead": "Il governo ha deciso di rimandare al 2038 l'uscita dal carbone, con un emendamento al dl Bollette approvato dalla Lega. La notizia è stata resa pubblica il 28 marzo 2026.",
+  "corpo1": "Il governo italiano ha deciso di prorogare l'uscita dal carbone al 2038, attraverso un emendamento al dl Bollette. L'emendamento, approvato dalla Lega, è stato inserito nel decreto legge che sarà discusso in Parlamento. La decisione è stata presa nonostante le promesse di ridurre l'uso del carbone e aumentare l'uso delle energie rinnovabili. Secondo il testo del decreto, la proroga dell'uscita dal carbone sarà possibile grazie a una maggiore flessibilità nell'uso delle fonti energetiche. La notizia è stata riportata dall'ANSA il 28 marzo 2026.",
+  "corpo2": "Questa decisione è stata presa mentre l'Unione Europea sta spingendo per una riduzione dell'uso del carbone e un aumento dell'uso delle energie rinnovabili. L'Italia aveva inizialmente previsto di uscire dal carbone entro il 2025, ma la nuova data del 2038 rappresenta una proroga di 13 anni. La decisione del governo ha suscitato critiche da parte delle associazioni ambientaliste e dei sostenitori della transizione energetica. La domanda che ora si pone è: come giustificherà il governo italiano questa decisione alle prossime riunioni del Consiglio europeo?",
+  "journalist": {
+    "id": "marta_levi_01",
+    "firma": "Marta Levi",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T11:36:32.769129+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35075571/pexels-photo-35075571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Drago Rapovac",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Italia, stop all'uscita dal carbone: ora è previsto il 2038\",\n  \"description\": \"Il governo ha deciso di rimandare al 2038 l'uscita dal carbone, con un emendamento al dl Bollette approvato dalla Lega. La notizia è stata resa pubblica il 28 marzo 2026.\",\n  \"articleBody\": \"Il governo ha deciso di rimandare al 2038 l'uscita dal carbone, con un emendamento al dl Bollette approvato dalla Lega. La notizia è stata resa pubblica il 28 marzo 2026. Il governo italiano ha deciso di prorogare l'uscita dal carbone al 2038, attraverso un emendamento al dl Bollette. L'emendamento, approvato dalla Lega, è stato inserito nel decreto legge che sarà discusso in Parlamento. La decisione è stata presa nonostante le promesse di ridurre l'uso del carbone e aumentare l'uso delle energie rinnovabili. Secondo il testo del decreto, la proroga dell'uscita dal carbone sarà possibile grazie a una maggiore flessibilità nell'uso delle fonti energetiche. La notizia è stata riportata dall'ANSA il 28 marzo 2026. Questa decisione è stata presa mentre l'Unione Europea sta spingendo per una riduzione dell'uso del carbone e un aumento dell'uso delle energie rinnovabili. L'Italia aveva inizialmente previsto di uscire dal carbone entro il 2025, ma la nuova data del 2038 rappresenta una proroga di 13 anni. La decisione del governo ha suscitato critiche da parte delle associazioni ambientaliste e dei sostenitori della transizione energetica. La domanda che ora si pone è: come giustificherà il governo italiano questa decisione alle prossime riunioni del Consiglio europeo?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marta Levi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:36:32.769129+00:00\",\n  \"dateModified\": \"2026-03-28T11:36:32.769129+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/0210659daccc87ee\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/0210659daccc87ee\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35075571/pexels-photo-35075571.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Drago Rapovac\"\n  }\n}",
+  "priority": 8,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/03/28/uscita-dal-carbone-rimandata-al-2038-ok-emendamento-lega-a-dl-bollette_c9b0149e-8815-47c8-81f0-f1a5b69a2b23.html",
+  "related": [
+    {
+      "title": "La Banca Progetto riceve 750 milioni di euro dal Fondo interbancario",
+      "url": "/economia/banca-progetto-riceve-750-milioni-per-uscire-dalla-ca5b82d2b934725f",
+      "id": "ca5b82d2b934725f"
+    },
+    {
+      "title": "Eseguiti 3,2 miliardi di investimenti privati per la formazione degli studenti n",
+      "url": "/economia/record-di-investimenti-privati-negli-studentati-30-5287711456a2fb09",
+      "id": "5287711456a2fb09"
+    },
+    {
+      "title": "UniCredit supera il 30% in Banco Bpm con OPS 'gentile'",
+      "url": "/economia/unicredit-supera-il-30-in-banco-bpm-loperazione-ge-ca6d35b6dbac2222",
+      "id": "ca6d35b6dbac2222"
+    }
+  ]
+}
