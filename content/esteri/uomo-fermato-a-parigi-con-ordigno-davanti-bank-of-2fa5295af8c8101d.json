@@ -1,0 +1,51 @@
+{
+  "id": "2fa5295af8c8101d",
+  "slug": "uomo-fermato-a-parigi-con-ordigno-davanti-bank-of-2fa5295af8c8101d",
+  "title": "Uomo fermato a Parigi con ordigno davanti Bank of America",
+  "titles": [
+    "Uomo fermato a Parigi con ordigno davanti Bank of America",
+    "Terrorismo a Parigi: arrestato uomo con dispositivo esplosivo",
+    "Parigi, sabotaggio sventato: ordigno artigianale davanti banca"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ATTENTATO IN FRANCIA: POLIZIA PARIGINA NE FOLA UNO",
+  "lead": "La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées.",
+  "corpo1": "",
+  "corpo2": "La notizia dell'attentato ha sollevato preoccupazione tra la popolazione parigina e ha creato domande sulla sicurezza della città. La polizia parigina ha aumentato la vigilanza nella zona e ha chiesto ai cittadini di essere prudenti e di segnalare ogni sospetto. La Bank of America ha rilasciato una dichiarazione in cui si ringrazia la polizia per la sua rapida reazione e assicura che la sicurezza dei clienti e dei dipendenti è la priorità assoluta.\n\nLa domanda rimane: cosa ha spinto l'uomo a compiere un atto così grave e come la polizia può prevenire simili attacchi in futuro? La risposta a queste domande potrà aiutare a comprendere meglio la situazione e a prevenire future minacce alla sicurezza della città.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:42:04.059248+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/La_ragazza_parigina_01.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Flautomagico25",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Uomo fermato a Parigi con ordigno davanti Bank of America\",\n  \"description\": \"La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées.\",\n  \"articleBody\": \"La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées. La notizia dell'attentato ha sollevato preoccupazione tra la popolazione parigina e ha creato domande sulla sicurezza della città. La polizia parigina ha aumentato la vigilanza nella zona e ha chiesto ai cittadini di essere prudenti e di segnalare ogni sospetto. La Bank of America ha rilasciato una dichiarazione in cui si ringrazia la polizia per la sua rapida reazione e assicura che la sicurezza dei clienti e dei dipendenti è la priorità assoluta.\\n\\nLa domanda rimane: cosa ha spinto l'uomo a compiere un atto così grave e come la polizia può prevenire simili attacchi in futuro? La risposta a queste domande potrà aiutare a comprendere meglio la situazione e a prevenire future minacce alla sicurezza della città.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"dateModified\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/8/88/La_ragazza_parigina_01.jpg\",\n    \"creditText\": \"Flautomagico25\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
+  "related": [
+    {
+      "title": "Houthi scagliano 100 missili contro siti militari israeliani",
+      "url": "/esteri/houthi-scagliano-100-missili-contro-siti-militari-a90e865bebbd8ea6",
+      "id": "a90e865bebbd8ea6"
+    },
+    {
+      "title": "Decine di estremisti distruggono la mairie di Fresnes",
+      "url": "/esteri/decine-di-estremisti-distruggono-la-mairie-di-fres-dde2720a2c3b8bed",
+      "id": "dde2720a2c3b8bed"
+    },
+    {
+      "title": "Trump sostituisce Noem alla DHS con Markwayne Mullin",
+      "url": "/esteri/trump-sostituisce-noem-alla-dhs-con-markwayne-mull-b79b62fc29d450eb",
+      "id": "b79b62fc29d450eb"
+    }
+  ]
+}
