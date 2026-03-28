@@ -1,0 +1,51 @@
+{
+  "id": "bb452502efbf1859",
+  "slug": "bezzecchi-cerca-tris-consecutivo-ad-austin-con-apr-bb452502efbf1859",
+  "title": "Bezzecchi cerca tris consecutivo ad Austin con Aprilia",
+  "titles": [
+    "Bezzecchi cerca tris consecutivo ad Austin con Aprilia",
+    "Doppietta Aprilia in Brasile, Marquez cerca riscatto ad Austin",
+    "MotoGP Austin, Bezzecchi punta a dominare ancora"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "Bezzecchi cerca tris Motogp ad Austin",
+  "lead": "Marco Bezzecchi, dopo la doppietta Aprilia in Brasile, punta al tris consecutivo ad Austin, negli Usa, in uno dei circuiti più rinomati del Mondiale Motogp. La gara è prevista per la tarda serata di domenica, mentre sabato sera si correrà la sprint.",
+  "corpo1": "Secondo weekend consecutivo per la Motogp, che si trasferisce ad Austin, negli Usa, per il Gran Premio degli Stati Uniti. Marco Bezzecchi, pilota dell'Aprilia, cerca il tris consecutivo dopo le vittorie in Brasile, dove la casa italiana aveva dominato sul circuito di Goiania, trovando la vittoria con Bezzecchi e il secondo posto con un altro pilota Aprilia. La gara di Austin è prevista per la tarda serata di domenica, mentre sabato sera si correrà la sprint. Gli orari di trasmissione in tv e streaming sono i seguenti: Sky, Now e TV8. La doppietta in Brasile ha messo in evidenza la competitività dell'Aprilia, che vuole confermare i risultati anche ad Austin. Marc Marquez, invece, cerca immediato riscatto dopo la gara precedente.",
+  "corpo2": "Marco Bezzecchi è uno dei piloti più in forma del momento, con una serie di risultati positivi che lo hanno portato al vertice della classifica. La sua performance in Brasile ha dimostrato la sua abilità nel guidare l'Aprilia, che sembra essere una delle moto più competitive del momento. Tuttavia, Marc Marquez, uno dei piloti più esperti e vincenti della storia della Motogp, non vuole lasciare spazio a Bezzecchi e cerca di tornare alla vittoria. La domanda è: riuscirà Bezzecchi a conquistare il tris consecutivo ad Austin o Marquez riuscirà a fermarlo?",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-03-28T06:09:22.974336+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36725587/pexels-photo-36725587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Claudia  Solano",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi cerca tris consecutivo ad Austin con Aprilia\",\n  \"description\": \"Marco Bezzecchi, dopo la doppietta Aprilia in Brasile, punta al tris consecutivo ad Austin, negli Usa, in uno dei circuiti più rinomati del Mondiale Motogp. La gara è prevista per la tarda serata di domenica, mentre sabato sera si correrà la sprint.\",\n  \"articleBody\": \"Marco Bezzecchi, dopo la doppietta Aprilia in Brasile, punta al tris consecutivo ad Austin, negli Usa, in uno dei circuiti più rinomati del Mondiale Motogp. La gara è prevista per la tarda serata di domenica, mentre sabato sera si correrà la sprint. Secondo weekend consecutivo per la Motogp, che si trasferisce ad Austin, negli Usa, per il Gran Premio degli Stati Uniti. Marco Bezzecchi, pilota dell'Aprilia, cerca il tris consecutivo dopo le vittorie in Brasile, dove la casa italiana aveva dominato sul circuito di Goiania, trovando la vittoria con Bezzecchi e il secondo posto con un altro pilota Aprilia. La gara di Austin è prevista per la tarda serata di domenica, mentre sabato sera si correrà la sprint. Gli orari di trasmissione in tv e streaming sono i seguenti: Sky, Now e TV8. La doppietta in Brasile ha messo in evidenza la competitività dell'Aprilia, che vuole confermare i risultati anche ad Austin. Marc Marquez, invece, cerca immediato riscatto dopo la gara precedente. Marco Bezzecchi è uno dei piloti più in forma del momento, con una serie di risultati positivi che lo hanno portato al vertice della classifica. La sua performance in Brasile ha dimostrato la sua abilità nel guidare l'Aprilia, che sembra essere una delle moto più competitive del momento. Tuttavia, Marc Marquez, uno dei piloti più esperti e vincenti della storia della Motogp, non vuole lasciare spazio a Bezzecchi e cerca di tornare alla vittoria. La domanda è: riuscirà Bezzecchi a conquistare il tris consecutivo ad Austin o Marquez riuscirà a fermarlo?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T06:09:22.974336+00:00\",\n  \"dateModified\": \"2026-03-28T06:09:22.974336+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cultura/bb452502efbf1859\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cultura/bb452502efbf1859\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36725587/pexels-photo-36725587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Claudia  Solano\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/orari-motogp-usa-austin-2026-gara-sprint-pole-gp-dove-vedere-tv-streaming-diretta-replica/8338232/",
+  "related": [
+    {
+      "title": "Meloni, 28 marzo 2026: governo in bilico per estrazione comune della classe diri",
+      "url": "/politica/meloni-28-marzo-2026-governo-in-bilico-per-estrazi-89eaf674d5cba59f",
+      "id": "89eaf674d5cba59f"
+    },
+    {
+      "title": "Trump: taglio spese Nato e intervento a Cuba",
+      "url": "/esteri/trump-minaccia-taglio-spese-nato-e-intervento-a-cu-3277fb44733ea4d3",
+      "id": "3277fb44733ea4d3"
+    },
+    {
+      "title": "17.000 soldati per proteggere le frontiere: l'allarme di Human Rights Watch",
+      "url": "/giustizia/17000-soldati-per-proteggere-le-frontiere-litalia-57b332d53b29b9fb",
+      "id": "57b332d53b29b9fb"
+    }
+  ]
+}
