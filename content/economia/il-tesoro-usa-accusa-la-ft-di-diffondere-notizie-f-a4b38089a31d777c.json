@@ -1,0 +1,51 @@
+{
+  "id": "a4b38089a31d777c",
+  "slug": "il-tesoro-usa-accusa-la-ft-di-diffondere-notizie-f-a4b38089a31d777c",
+  "title": "Il Tesoro Usa accusa la FT di diffondere notizie false su Scott Bessent",
+  "titles": [
+    "Il Tesoro Usa accusa la FT di diffondere notizie false su Scott Bessent",
+    "Scott Bessent in prima pagina: il Tesoro Usa replica all'articolo della FT",
+    "Tesoro Usa attacca la Financial Times: l'email di protesta per l'articolo su Bes"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "IL TREASURY DEMANDE LA RETRAZIONE DELLA FINANCIAL TIMES",
+  "lead": "Il dipartimento del tesoro USA ha chiesto sulla scorsa settimana la reazione di un articolo pubblicato dalla Financial Times su Scott Bessent, segretario del tesoro, riguardo all'ulteriore controllo sull'Federal Reserve. La richiesta è stata formalizzata in un'email inviata alla redazione della Financial Times.",
+  "corpo1": "Il dipartimento del tesoro USA ha accusato la Financial Times di aver pubblicato \"dichiarazioni false\" riguardo alle opinioni di Scott Bessent, segretario del tesoro, sull'Federal Reserve. Secondo l'email inviata alla redazione della Financial Times, l'articolo pubblicato è stato \"fabbricato\" e non rispecchia la realtà. La richiesta di reazione è stata formalizzata il 28 marzo scorso. L'articolo pubblicato dalla Financial Times riguardava l'aumento del controllo sull'Federal Reserve da parte del governo USA. Secondo il comunicato del tesoro, l'articolo contiene dichiarazioni false e non rispecchia la posizione ufficiale del governo.",
+  "corpo2": "Scott Bessent è stato nominato segretario del tesoro nel gennaio 2026, durante la presidenza di Donald Trump. La sua nomina è stata accolta con scetticismo da molti, poiché Bessent è noto per le sue posizioni conservatrici. L'aumento del controllo sull'Federal Reserve è stato uno dei punti centrali della campagna elettorale di Trump e la nomina di Bessent sembra essere il primo passo verso la realizzazione di questo obiettivo. La reazione della Financial Times è un segno di crescente tensione tra il governo USA e i media, che si sono sempre considerati indipendenti dal potere politico.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:47:06.109739+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Scott_Louisiana_-_Fezzo%27s_Seafood.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Aaj2545",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il Tesoro Usa accusa la FT di diffondere notizie false su Scott Bessent\",\n  \"description\": \"Il dipartimento del tesoro USA ha chiesto sulla scorsa settimana la reazione di un articolo pubblicato dalla Financial Times su Scott Bessent, segretario del tesoro, riguardo all'ulteriore controllo sull'Federal Reserve. La richiesta è stata formalizzata in un'email inviata alla redazione della Fina\",\n  \"articleBody\": \"Il dipartimento del tesoro USA ha chiesto sulla scorsa settimana la reazione di un articolo pubblicato dalla Financial Times su Scott Bessent, segretario del tesoro, riguardo all'ulteriore controllo sull'Federal Reserve. La richiesta è stata formalizzata in un'email inviata alla redazione della Financial Times. Il dipartimento del tesoro USA ha accusato la Financial Times di aver pubblicato \\\"dichiarazioni false\\\" riguardo alle opinioni di Scott Bessent, segretario del tesoro, sull'Federal Reserve. Secondo l'email inviata alla redazione della Financial Times, l'articolo pubblicato è stato \\\"fabbricato\\\" e non rispecchia la realtà. La richiesta di reazione è stata formalizzata il 28 marzo scorso. L'articolo pubblicato dalla Financial Times riguardava l'aumento del controllo sull'Federal Reserve da parte del governo USA. Secondo il comunicato del tesoro, l'articolo contiene dichiarazioni false e non rispecchia la posizione ufficiale del governo. Scott Bessent è stato nominato segretario del tesoro nel gennaio 2026, durante la presidenza di Donald Trump. La sua nomina è stata accolta con scetticismo da molti, poiché Bessent è noto per le sue posizioni conservatrici. L'aumento del controllo sull'Federal Reserve è stato uno dei punti centrali della campagna elettorale di Trump e la nomina di Bessent sembra essere il primo passo verso la realizzazione di questo obiettivo. La reazione della Financial Times è un segno di crescente tensione tra il governo USA e i media, che si sono sempre considerati indipendenti dal potere politico.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:47:06.109739+00:00\",\n  \"dateModified\": \"2026-03-28T16:47:06.109739+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/a4b38089a31d777c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/a4b38089a31d777c\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/c/ce/Scott_Louisiana_-_Fezzo%27s_Seafood.jpg\",\n    \"creditText\": \"Aaj2545\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+  "related": [
+    {
+      "title": "Piquemal accusa hacking: il ricorso al tribunale di Tolosa",
+      "url": "/esteri/piquemal-accusa-hacking-il-ricorso-al-tribunale-di-2a49af4e3a9fb285",
+      "id": "2a49af4e3a9fb285"
+    },
+    {
+      "title": "Pescatore di 32 anni accusa i trafficanti di migranti di aver ordinato l'abborda",
+      "url": "/esteri/pescatore-di-32-anni-accusa-i-trafficanti-di-migra-3efde28a374dd333",
+      "id": "3efde28a374dd333"
+    },
+    {
+      "title": "Blinken accusa Zelensky di mentire sulle garanzie Usa",
+      "url": "/esteri/blinken-accusa-zelensky-di-mentire-sulle-garanzie-435f2b1b5c821cbf",
+      "id": "435f2b1b5c821cbf"
+    }
+  ]
+}
