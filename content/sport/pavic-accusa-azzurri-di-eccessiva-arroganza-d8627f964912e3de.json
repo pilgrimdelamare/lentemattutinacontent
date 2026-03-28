@@ -1,0 +1,52 @@
+{
+  "id": "d8627f964912e3de",
+  "slug": "pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+  "title": "Il capitano Azzurri sotto accusa per arroganza",
+  "titles": [
+    "Il capitano Azzurri sotto accusa per arroganza",
+    "La Bosnia protesta alla UEFA per la festa oltraggiosa",
+    "Tifosi italiani sotto i riflettori per comportamenti inaccettabili"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "LE AZZURRE GETTANO OMBRE SULLA BOSNIA",
+  "lead": "Domenica scorsa, in diretta televisiva, il capitano dell'Azzurri, Giovanni Dimarco, esultava per la vittoria della squadra nella partita contro la Bosnia, ma la festa dei tifosi italiani ha oltraggiato i nervi degli spettatori bosniaci. La Repubblica ha pubblicato un articolo in cui il presidente della Federazione calcistica bosniaca, Vuko Pavić, accusa gli Azzurri di eccessiva arroganza.",
+  "corpo1": "La partita tra Italia e Bosnia, disputata domenica scorsa allo stadio San Siro di Milano, si è conclusa con la vittoria della nazionale italiana per 3-1. Tuttavia, la festa dei tifosi italiani ha superato i limiti della buona ospitalità, secondo le accuse di Pavić. \"La nostra gente è stata offesa da comportamenti inaccettabili da parte dei tifosi italiani\", ha dichiarato Pavić alla Repubblica. \"Non possiamo permettere che la nostra nazionale venga offesa in questo modo\". La Federazione calcistica bosniaca ha già inviato una protesta formale alla UEFA, chiedendo misure per prevenire situazioni simili in futuro.",
+  "corpo2": "I tifosi italiani non sono gli unici a essere stati criticati in passato per la loro condotta durante le partite. Tuttavia, la festa dei tifosi italiani domenica scorsa ha superato i limiti della buona ospitalità, secondo le accuse di Pavić. La questione solleva anche questioni di identità nazionale e di come i tifosi italiani si relazionano con le altre nazionalità durante le partite. \"La nostra gente è stata offesa da comportamenti inaccettabili da parte dei tifosi italiani\", ha dichiarato Pavić. \"Non possiamo permettere che la nostra nazionale venga offesa in questo modo\". La Federazione calcistica bosniaca ha già inviato una protesta formale alla UEFA, chiedendo misure per prevenire situazioni simili in futuro. La domanda è: i tifosi italiani saranno disposti a cambiare la loro condotta e a rispettare le altre nazionalità durante le partite?",
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-03-28T12:37:32.006472+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ilaria_Capua.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Nad Micoli",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il capitano Azzurri sotto accusa per arroganza\",\n  \"description\": \"Domenica scorsa, in diretta televisiva, il capitano dell'Azzurri, Giovanni Dimarco, esultava per la vittoria della squadra nella partita contro la Bosnia, ma la festa dei tifosi italiani ha oltraggiato i nervi degli spettatori bosniaci. La Repubblica ha pubblicato un articolo in cui il presidente de\",\n  \"articleBody\": \"Domenica scorsa, in diretta televisiva, il capitano dell'Azzurri, Giovanni Dimarco, esultava per la vittoria della squadra nella partita contro la Bosnia, ma la festa dei tifosi italiani ha oltraggiato i nervi degli spettatori bosniaci. La Repubblica ha pubblicato un articolo in cui il presidente della Federazione calcistica bosniaca, Vuko Pavić, accusa gli Azzurri di eccessiva arroganza. La partita tra Italia e Bosnia, disputata domenica scorsa allo stadio San Siro di Milano, si è conclusa con la vittoria della nazionale italiana per 3-1. Tuttavia, la festa dei tifosi italiani ha superato i limiti della buona ospitalità, secondo le accuse di Pavić. \\\"La nostra gente è stata offesa da comportamenti inaccettabili da parte dei tifosi italiani\\\", ha dichiarato Pavić alla Repubblica. \\\"Non possiamo permettere che la nostra nazionale venga offesa in questo modo\\\". La Federazione calcistica bosniaca ha già inviato una protesta formale alla UEFA, chiedendo misure per prevenire situazioni simili in futuro. I tifosi italiani non sono gli unici a essere stati criticati in passato per la loro condotta durante le partite. Tuttavia, la festa dei tifosi italiani domenica scorsa ha superato i limiti della buona ospitalità, secondo le accuse di Pavić. La questione solleva anche questioni di identità nazionale e di come i tifosi italiani si relazionano con le altre nazionalità durante le partite. \\\"La nostra gente è stata offesa da comportamenti inaccettabili da parte dei tifosi italiani\\\", ha dichiarato Pavić. \\\"Non possiamo permettere che la nostra nazionale venga offesa in questo modo\\\". La Federazione calcistica bosniaca ha già inviato una protesta formale alla UEFA, chiedendo misure per prevenire situazioni simili in futuro. La domanda è: i tifosi italiani saranno disposti a cambiare la loro condotta e a rispettare le altre nazionalità durante le partite?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:37:32.006472+00:00\",\n  \"dateModified\": \"2026-03-28T12:37:32.006472+00:00\",\n  \"url\": \"https://gazzettanazionale.it/tecnologia/d8627f964912e3de\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/tecnologia/d8627f964912e3de\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/e/e1/Ilaria_Capua.jpg\",\n    \"creditText\": \"Nad Micoli\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/tecnologia/pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+  "related": [
+    {
+      "title": "35enne ubriaco guida Tesla da sola a Vacaville",
+      "url": "/tecnologia/35enne-ubriaco-guida-tesla-da-sola-a-vacaville-fd73783eb18a636f",
+      "id": "fd73783eb18a636f"
+    },
+    {
+      "title": "Hamilton: il divario è troppo grande nel GP del Giappone",
+      "url": "/tecnologia/hamilton-il-divario-e-troppo-grande-nel-gp-del-gia-4e6fda5aab0b5cd5",
+      "id": "4e6fda5aab0b5cd5"
+    },
+    {
+      "title": "Il Consiglio comunale di Milano nel caos: Albiani contro la Lega per Bossi",
+      "url": "/tecnologia/il-consiglio-comunale-di-milano-nel-caos-albiani-c-ec2104ab404e1bb3",
+      "id": "ec2104ab404e1bb3"
+    }
+  ],
+  "updated_at": "2026-03-28T12:37:32.006472+00:00"
+}
