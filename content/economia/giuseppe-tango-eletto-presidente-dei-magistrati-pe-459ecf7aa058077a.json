@@ -1,0 +1,51 @@
+{
+  "id": "459ecf7aa058077a",
+  "slug": "giuseppe-tango-eletto-presidente-dei-magistrati-pe-459ecf7aa058077a",
+  "title": "Giuseppe Tango eletto presidente dei magistrati per acclamazione a Palermo",
+  "titles": [
+    "Giuseppe Tango eletto presidente dei magistrati per acclamazione a Palermo",
+    "Dopo 28 marzo, Palermo nomina il nuovo capo dell'Associazione nazionale magistra",
+    "Tango presidente dell'Associazione nazionale magistrati: il cambiamento è finalm"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "IL NUOVO PRESIDENTE DELLE MAGISTRATURE",
+  "lead": "Giuseppe Tango, 43 anni, è stato eletto presidente dell'Associazione nazionale magistrati per acclamazione dal Comitato direttivo centrale. La scelta è avvenuta il 28 marzo 2026, nella città di Palermo.",
+  "corpo1": "La scelta di Tango è stata accolta con grande attenzione dalla comunità giuridica e politica, poiché rappresenta un cambio di passo significativo per l'Associazione nazionale magistrati, che si è sempre fatta portavoce delle istanze dei magistrati e delle loro preoccupazioni in merito alla giustizia e alla sua applicazione. Tango, 43 anni, ha già dimostrato la sua esperienza e la sua leadership nel suo ruolo di giudice del lavoro a Palermo, ed è noto per la sua posizione ferma",
+  "corpo2": "e coraggiosa in materia di giustizia. La sua elezione è avvenuta in un momento importante per la giustizia italiana, poiché il referendum sulla giustizia ha aperto una nuova fase di dibattito e di riflessione sul sistema giudiziario italiano. Con la sua elezione, Tango si impegnerà a rappresentare le istanze dei magistrati e a lavorare per la riforma del sistema giudiziario italiano, che è stato messo a dura prova dal referendum sulla giustizia. La sua esperienza come giudice del lavoro a Palermo gli darà una visione unica e approfondita della giustizia e della sua applicazione, e gli permetterà di lavorare per la riforma del sistema giudiziario italiano in modo efficace. La sua posizione coraggiosa e ferma in materia di giustizia lo renderà un leader importante e rispettato all'interno dell'Associazione nazionale magistrati e nella comunità giuridica e politica italiana. E ora, restiamo a vedere se Tango riuscirà a cambiare veramente il sistema giudiziario italiano e a migliorare la giustizia in Italia.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T16:36:56.860746+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Maria_Carrara_Verdi%2C_Barberina_Strepponi%2C_Giuseppe_Verdi%2C_Giuditta_Ricordi%2C_Teresa_Stolz%2C_Umberto_Campanari%2C_Giulio_Ricordi%2C_Leopoldo_Metlicovitz_%281900%29_-_Archivio_storico_Ricordi_FOTO003107_-_Restoration.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Adam Cuerden",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giuseppe Tango eletto presidente dei magistrati per acclamazione a Palermo\",\n  \"description\": \"Giuseppe Tango, 43 anni, è stato eletto presidente dell'Associazione nazionale magistrati per acclamazione dal Comitato direttivo centrale. La scelta è avvenuta il 28 marzo 2026, nella città di Palermo.\",\n  \"articleBody\": \"Giuseppe Tango, 43 anni, è stato eletto presidente dell'Associazione nazionale magistrati per acclamazione dal Comitato direttivo centrale. La scelta è avvenuta il 28 marzo 2026, nella città di Palermo. La scelta di Tango è stata accolta con grande attenzione dalla comunità giuridica e politica, poiché rappresenta un cambio di passo significativo per l'Associazione nazionale magistrati, che si è sempre fatta portavoce delle istanze dei magistrati e delle loro preoccupazioni in merito alla giustizia e alla sua applicazione. Tango, 43 anni, ha già dimostrato la sua esperienza e la sua leadership nel suo ruolo di giudice del lavoro a Palermo, ed è noto per la sua posizione ferma e coraggiosa in materia di giustizia. La sua elezione è avvenuta in un momento importante per la giustizia italiana, poiché il referendum sulla giustizia ha aperto una nuova fase di dibattito e di riflessione sul sistema giudiziario italiano. Con la sua elezione, Tango si impegnerà a rappresentare le istanze dei magistrati e a lavorare per la riforma del sistema giudiziario italiano, che è stato messo a dura prova dal referendum sulla giustizia. La sua esperienza come giudice del lavoro a Palermo gli darà una visione unica e approfondita della giustizia e della sua applicazione, e gli permetterà di lavorare per la riforma del sistema giudiziario italiano in modo efficace. La sua posizione coraggiosa e ferma in materia di giustizia lo renderà un leader importante e rispettato all'interno dell'Associazione nazionale magistrati e nella comunità giuridica e politica italiana. E ora, restiamo a vedere se Tango riuscirà a cambiare veramente il sistema giudiziario italiano e a migliorare la giustizia in Italia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:36:56.860746+00:00\",\n  \"dateModified\": \"2026-03-28T16:36:56.860746+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/459ecf7aa058077a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/459ecf7aa058077a\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/0/01/Maria_Carrara_Verdi%2C_Barberina_Strepponi%2C_Giuseppe_Verdi%2C_Giuditta_Ricordi%2C_Teresa_Stolz%2C_Umberto_Campanari%2C_Giulio_Ricordi%2C_Leopoldo_Metlicovitz_%281900%29_-_Archivio_storico_Ricordi_FOTO003107_-_Restoration.jpg\",\n    \"creditText\": \"Adam Cuerden\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/03/28/giuseppe-tango-nuovo-presidente-anm-news/8338693/",
+  "related": [
+    {
+      "title": "Giuseppe Tango eletto presidente dell'Anm",
+      "url": "/cronaca/giuseppe-tango-eletto-presidente-dellanm-597ba33253af4770",
+      "id": "597ba33253af4770"
+    },
+    {
+      "title": "Pernod Ricard e Jack Daniel's a caccia di economie con una joint-venture",
+      "url": "/economia/pernod-ricard-e-jack-daniels-a-caccia-di-economie-f744f3c6eff3fd33",
+      "id": "f744f3c6eff3fd33"
+    },
+    {
+      "title": "Turisti italiani spendono 10,6 milioni di euro all'estero",
+      "url": "/economia/turisti-italiani-spendono-106-milioni-di-euro-alle-ffffbd236f494ffb",
+      "id": "ffffbd236f494ffb"
+    }
+  ]
+}
