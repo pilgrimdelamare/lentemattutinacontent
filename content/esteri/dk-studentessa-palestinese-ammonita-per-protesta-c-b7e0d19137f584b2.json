@@ -1,0 +1,51 @@
+{
+  "id": "b7e0d19137f584b2",
+  "slug": "dk-studentessa-palestinese-ammonita-per-protesta-c-b7e0d19137f584b2",
+  "title": "DK, studentessa palestinese ammonita per protesta contro guerra a Gaza",
+  "titles": [
+    "DK, studentessa palestinese ammonita per protesta contro guerra a Gaza",
+    "Giuramento di fedeltà a Gaza: studentessa palestinese ammonita da insegnante",
+    "Scuola Usa costringe a giuramento di fedeltà studentessa a Gaza, ecco come si è "
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "STUDENTESSA PALESTINESE OTTIENE RISARCIMENTO",
+  "lead": "DK, una studentessa palestinese di una scuola media del Michigan, ha raggiunto un accordo con il suo distretto scolastico dopo essere stata ammonita pubblicamente per non aver voluto recitare il giuramento di fedeltà come forma di protesta contro la guerra a gaza.",
+  "corpo1": "secondo quanto riportato, la ragazza, identificata come identificata come DK nei documenti giudiziari, aveva rifiutato di alzarsi per il giuramento di fedeltà in segno di protesta contro la guerra a gaza. il suo insegnante le aveva poi detto di \"tornare nel suo paese\", un episodio che la ragazza ha descritto come umiliante. la vicenda ha portato a un'azione legale per violazione dei diritti di libero espressione garantiti dal primo emendamento. il distretto scolastico ha quindi raggiunto un accordo con la famiglia di DK, sebbene i termini esatti dell'accordo non siano stati resi noti. la storia di DK è emersa in un contesto di crescente tensione e dibattito negli stati uniti sulla libertà di espressione e sul trattamento degli studenti di origine palestinese e araba. secondo quanto riportato, il caso di DK è solo uno degli episodi di discriminazione e di limitazione della libertà di espressione che hanno coinvolto studenti palestinesi e arabi negli stati uniti.",
+  "corpo2": "DK, con il suo atto di protesta, ha messo in luce le tensioni e le divisioni che esistono all'interno della società americana, in particolare quando si tratta di questioni relative al medio oriente e ai diritti dei palestinesi. il meccanismo strutturale che spiega questa notizia è legato alle politiche di libero espressione e alle norme che regolano il comportamento degli studenti nelle scuole americane. il caso di DK solleva interrogativi importanti sulla libertà di espressione e sull'inclusione degli studenti di origine palestinese e araba nel sistema scolastico americano. ",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:53:37.207551+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/13748653/pexels-photo-13748653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Hosny salah",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"DK, studentessa palestinese ammonita per protesta contro guerra a Gaza\",\n  \"description\": \"DK, una studentessa palestinese di una scuola media del Michigan, ha raggiunto un accordo con il suo distretto scolastico dopo essere stata ammonita pubblicamente per non aver voluto recitare il giuramento di fedeltà come forma di protesta contro la guerra a gaza.\",\n  \"articleBody\": \"DK, una studentessa palestinese di una scuola media del Michigan, ha raggiunto un accordo con il suo distretto scolastico dopo essere stata ammonita pubblicamente per non aver voluto recitare il giuramento di fedeltà come forma di protesta contro la guerra a gaza. secondo quanto riportato, la ragazza, identificata come identificata come DK nei documenti giudiziari, aveva rifiutato di alzarsi per il giuramento di fedeltà in segno di protesta contro la guerra a gaza. il suo insegnante le aveva poi detto di \\\"tornare nel suo paese\\\", un episodio che la ragazza ha descritto come umiliante. la vicenda ha portato a un'azione legale per violazione dei diritti di libero espressione garantiti dal primo emendamento. il distretto scolastico ha quindi raggiunto un accordo con la famiglia di DK, sebbene i termini esatti dell'accordo non siano stati resi noti. la storia di DK è emersa in un contesto di crescente tensione e dibattito negli stati uniti sulla libertà di espressione e sul trattamento degli studenti di origine palestinese e araba. secondo quanto riportato, il caso di DK è solo uno degli episodi di discriminazione e di limitazione della libertà di espressione che hanno coinvolto studenti palestinesi e arabi negli stati uniti. DK, con il suo atto di protesta, ha messo in luce le tensioni e le divisioni che esistono all'interno della società americana, in particolare quando si tratta di questioni relative al medio oriente e ai diritti dei palestinesi. il meccanismo strutturale che spiega questa notizia è legato alle politiche di libero espressione e alle norme che regolano il comportamento degli studenti nelle scuole americane. il caso di DK solleva interrogativi importanti sulla libertà di espressione e sull'inclusione degli studenti di origine palestinese e araba nel sistema scolastico americano.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:53:37.207551+00:00\",\n  \"dateModified\": \"2026-03-28T17:53:37.207551+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/b7e0d19137f584b2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/b7e0d19137f584b2\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/13748653/pexels-photo-13748653.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Hosny salah\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/2026/mar/28/michigan-student-protesting-gaza-war-school-settlement",
+  "related": [
+    {
+      "title": "Migliaia a Minneapolis contro Trump: gli scontri della polizia",
+      "url": "/esteri/migliaia-a-minneapolis-contro-trump-gli-scontri-de-ec009c433e65ca45",
+      "id": "ec009c433e65ca45"
+    },
+    {
+      "title": "Iran: attacco di guerriglieri contro depositi britannici a Dubai e Abu Dhabi",
+      "url": "/esteri/houthi-attaccano-depositi-antidrone-uk-a-dubai-e-a-c0c30d00be6ce967",
+      "id": "c0c30d00be6ce967"
+    },
+    {
+      "title": "50mila a Londra contro la destra estrema",
+      "url": "/esteri/londra-in-marcia-contro-lestrema-destra-per-fermar-cad2d0b1ac73f648",
+      "id": "cad2d0b1ac73f648"
+    }
+  ]
+}
