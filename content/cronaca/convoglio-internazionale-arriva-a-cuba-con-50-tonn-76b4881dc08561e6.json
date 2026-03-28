@@ -1,0 +1,52 @@
+{
+  "id": "76b4881dc08561e6",
+  "slug": "convoglio-internazionale-arriva-a-cuba-con-50-tonn-76b4881dc08561e6",
+  "title": "Convoglio umanitario arriva in zona disagiata",
+  "titles": [
+    "Convoglio umanitario arriva in zona disagiata",
+    "Aiuti concreti per la comunità locale",
+    "Sostegno economico-sanitario in arrivo"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "AIUTO ARRIVA A CUBA",
+  "lead": "",
+  "corpo1": "secondo la notizia,   l'arrivo di questo convoglio rappresenta un sostegno concreto per la comunità locale, che potrebbe aver bisogno di questi aiuti per far fronte a difficoltà economiche o sanitarie. ",
+  "corpo2": "  questo evento potrebbe anche rappresentare un passo verso una maggiore comprensione e collaborazione tra paesi con storie e sistemi politici diversi. ",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T11:43:23.036880+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35400517/pexels-photo-35400517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Reinhard Bruckner",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Convoglio umanitario arriva in zona disagiata\",\n  \"description\": \"\",\n  \"articleBody\": \"secondo la notizia,   l'arrivo di questo convoglio rappresenta un sostegno concreto per la comunità locale, che potrebbe aver bisogno di questi aiuti per far fronte a difficoltà economiche o sanitarie.    questo evento potrebbe anche rappresentare un passo verso una maggiore comprensione e collaborazione tra paesi con storie e sistemi politici diversi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:43:23.036880+00:00\",\n  \"dateModified\": \"2026-03-28T11:43:23.036880+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/76b4881dc08561e6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/76b4881dc08561e6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35400517/pexels-photo-35400517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Reinhard Bruckner\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/esteri/convoglio-internazionale-arriva-a-cuba-con-50-tonn-76b4881dc08561e6",
+  "related": [
+    {
+      "title": "Odessa colpita: 2 morti e 12 feriti in un attacco aereo russo alle 12.05.33",
+      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+      "id": "8a919a5d0d32a5e8"
+    },
+    {
+      "title": "Prof. Périnet-Marquet rifiuta missione sulle locazioni in Francia",
+      "url": "/esteri/missione-logement-sconfessa-dallesperto-parigino-0ff69850f5b76216",
+      "id": "0ff69850f5b76216"
+    },
+    {
+      "title": "Nuñez contro i violenti: mairie di Fresnes devastata",
+      "url": "/esteri/decine-di-persone-irrompono-nella-mairie-di-fresne-39405a1e9c6c973b",
+      "id": "39405a1e9c6c973b"
+    }
+  ],
+  "updated_at": "2026-03-28T11:43:23.036880+00:00"
+}
