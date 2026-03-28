@@ -1,0 +1,51 @@
+{
+  "id": "eb83cee35c42ada1",
+  "slug": "60-milioni-di-italiani-storia-clinica-online-dal-3-eb83cee35c42ada1",
+  "title": "60 milioni di italiani: storia clinica online dal 31 marzo",
+  "titles": [
+    "60 milioni di italiani: storia clinica online dal 31 marzo",
+    "Dal 31 marzo, tutti i tuoi dati sanitari su internet",
+    "Il Fascicolo sanitario elettronico diventa completo: cosa cambia"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "FASCICOLO SANITARIO ELETTRONICO COMPLETO ONLINE",
+  "lead": "Il 31 marzo, il Fascicolo sanitario elettronico entra nella terza fase. Tutti i dati della nostra storia clinica saranno disponibili online: referti, ricette, prescrizioni specialistiche. La novità riguarda 60 milioni di italiani.",
+  "corpo1": "Il Fascicolo sanitario elettronico, che finora conteneva solo alcuni dati come le vaccinazioni e le malattie croniche, diventa completo. Ora, saranno accessibili online tutti i referti, le ricette e le prescrizioni specialistiche degli ultimi 10 anni. La terza fase del Fascicolo sanitario elettronico sarà attiva dal 31 marzo. L'obiettivo è migliorare la gestione dei dati sanitari e facilitare l'accesso alle informazioni per i pazienti e per gli operatori sanitari. Secondo il Ministero della Salute, la novità riguarda circa 60 milioni di italiani.",
+  "corpo2": "Questa novità pone interrogativi sulla sicurezza e sulla privacy dei dati. Chi garantirà che i dati sensibili non siano accessibili a persone non autorizzate? E come saranno gestiti i casi di pazienti che non vogliono che i loro dati siano disponibili online? La questione è particolarmente rilevante in un contesto in cui la digitalizzazione dei dati sanitari è sempre più diffusa. A che serve avere tutti i dati a portata di mano se non siamo sicuri che siano al sicuro?",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-28T05:23:19.371477+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/30171418/pexels-photo-30171418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Darya Sannikova",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"60 milioni di italiani: storia clinica online dal 31 marzo\",\n  \"description\": \"Il 31 marzo, il Fascicolo sanitario elettronico entra nella terza fase. Tutti i dati della nostra storia clinica saranno disponibili online: referti, ricette, prescrizioni specialistiche. La novità riguarda 60 milioni di italiani.\",\n  \"articleBody\": \"Il 31 marzo, il Fascicolo sanitario elettronico entra nella terza fase. Tutti i dati della nostra storia clinica saranno disponibili online: referti, ricette, prescrizioni specialistiche. La novità riguarda 60 milioni di italiani. Il Fascicolo sanitario elettronico, che finora conteneva solo alcuni dati come le vaccinazioni e le malattie croniche, diventa completo. Ora, saranno accessibili online tutti i referti, le ricette e le prescrizioni specialistiche degli ultimi 10 anni. La terza fase del Fascicolo sanitario elettronico sarà attiva dal 31 marzo. L'obiettivo è migliorare la gestione dei dati sanitari e facilitare l'accesso alle informazioni per i pazienti e per gli operatori sanitari. Secondo il Ministero della Salute, la novità riguarda circa 60 milioni di italiani. Questa novità pone interrogativi sulla sicurezza e sulla privacy dei dati. Chi garantirà che i dati sensibili non siano accessibili a persone non autorizzate? E come saranno gestiti i casi di pazienti che non vogliono che i loro dati siano disponibili online? La questione è particolarmente rilevante in un contesto in cui la digitalizzazione dei dati sanitari è sempre più diffusa. A che serve avere tutti i dati a portata di mano se non siamo sicuri che siano al sicuro?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T05:23:19.371477+00:00\",\n  \"dateModified\": \"2026-03-28T05:23:19.371477+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/eb83cee35c42ada1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/eb83cee35c42ada1\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/30171418/pexels-photo-30171418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Darya Sannikova\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/03/28/news/fasciolo_sanitario_elettronico_completo_cartella_clinica_scadenza-425247548/?rss",
+  "related": [
+    {
+      "title": "Moody's taglia Pil Italia 2026 a +0,7%, l'inflazione accelera",
+      "url": "/economia/moodys-taglia-pil-italia-2026-a-07-linflazione-acc-d802a706da0a1d7c",
+      "id": "d802a706da0a1d7c"
+    },
+    {
+      "title": "Cinecittà spa: 10 milioni di utile, ma il cinema italiano è in crisi",
+      "url": "/politica/cinecitta-spa-10-milioni-di-utile-ma-il-cinema-ita-dabddd8ca85f7339",
+      "id": "dabddd8ca85f7339"
+    },
+    {
+      "title": "Thailandia e Iran, intesa sullo Stretto di Hormuz",
+      "url": "/esteri/thailandia-e-iran-intesa-sullo-stretto-di-hormuz-76b16783b556f360",
+      "id": "76b16783b556f360"
+    }
+  ]
+}
