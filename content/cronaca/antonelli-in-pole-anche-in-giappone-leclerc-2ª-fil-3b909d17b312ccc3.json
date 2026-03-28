@@ -20,11 +20,11 @@
   },
   "published_at": "2026-03-28T08:43:03.459911+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/34771769/pexels-photo-34771769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Dawid Tkocz",
-    "license": "Pexels License"
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55172326181_19ce169b70_b.jpg",
+    "source": "Flickr",
+    "credit": "SP7131",
+    "license": "CC"
   },
   "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Antonelli in pole anche in Giappone, Leclerc 2ª fila\",\n  \"description\": \"Antonelli,  pole position anche in Giappone, dichiarando \\\"Sono felice\\\". La Ferrari di Leclerc partirà in seconda fila, accanto a lui Piastri. Hamilton sesto, secondo le notizie del 28 marzo 2026.\",\n  \"articleBody\": \"Antonelli,  pole position anche in Giappone, dichiarando \\\"Sono felice\\\". La Ferrari di Leclerc partirà in seconda fila, accanto a lui Piastri. Hamilton sesto, secondo le notizie del 28 marzo 2026. Il pilota italiano della Mercedes, Andrea Antonelli, ha ottenuto la pole position nel Gran Premio del Giappone, che si svolge sul circuito di Suzuka. Accanto a lui partirà il suo compagno di squadra, George Russell. La Ferrari del monegasco Charles Leclerc partirà in seconda fila, preceduta dalla vettura di Piastri. Lewis Hamilton, invece, partirà in sesta posizione. Antonelli ha dichiarato: \\\"Sono felice\\\". Questa pole position è un risultato importante per il giovane pilota italiano, che sta dimostrando le sue abilità nel campionato di Formula 1. Antonelli è un pilota che sta rapidamente guadagnando esperienza e risultati nel mondo della Formula 1. La sua performance in Giappone è particolarmente significativa, considerando la difficoltà del circuito di Suzuka e la presenza di piloti esperti come Hamilton e Leclerc. La Mercedes sembra essere in buona forma, con entrambi i piloti nelle prime posizioni. Tuttavia, la domanda è: riuscirà Antonelli a mantenere la sua posizione in gara e a ottenere un risultato importante per la sua squadra?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T08:43:03.459911+00:00\",\n  \"dateModified\": \"2026-03-28T08:43:03.459911+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/3b909d17b312ccc3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/3b909d17b312ccc3\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/34771769/pexels-photo-34771769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Dawid Tkocz\"\n  }\n}",
   "priority": 4,
