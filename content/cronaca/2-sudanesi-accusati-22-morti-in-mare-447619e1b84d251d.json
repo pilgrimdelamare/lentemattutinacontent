@@ -1,0 +1,51 @@
+{
+  "id": "447619e1b84d251d",
+  "slug": "2-sudanesi-accusati-22-morti-in-mare-447619e1b84d251d",
+  "title": "2 sudanesi accusati: 22 morti in mare",
+  "titles": [
+    "2 sudanesi accusati: 22 morti in mare",
+    "La strage in mare: 2 sudanesi al centro dell'inchiesta",
+    "La Grecia si rivolta contro i mercanti di morte"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "VENTIDUE MIGRANTI MUOIONO AL LARGO DI CRETE",
+  "lead": "due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a crete, in grecia, dopo che almeno 22 persone sono morte al largo della costa dell'isola.",
+  "corpo1": "secondo quanto riportato dalle autorità greche, i due uomini sudanesi, che non sono stati nominati, sono stati identificati come i presunti responsabili di un'operazione di traffico di migranti partita dalla libia. i superstiti hanno raccontato alla guardia costiera greca che i trafficanti avevano ordinato di gettare in mare le vittime dopo sei giorni di navigazione senza cibo né acqua. le vittime erano a bordo di un'imbarcazione che era partita dalla libia con destinazione l'europa. la grecia è uno dei principali punti di ingresso per i migranti che cercano di raggiungere l'europa. secondo le stime delle organizzazioni umanitarie, nel 2022 sono morte più di 2.000 persone nel tentativo di attraversare il mar mediterraneo.",
+  "corpo2": "il traffico di migranti è un problema che affligge il mediterraneo da anni, con migliaia di persone che ogni anno tentano di raggiungere l'europa attraverso rotte pericolose. la libia è uno dei principali punti di partenza per questi viaggi, dove i trafficanti sfruttano la situazione di instabilità politica per lucrare sulle speranze dei migranti. la comunità internazionale ha condannato a più riprese il traffico di migranti, ma le soluzioni per affrontare il problema sono ancora lontane. intanto, le vittime di questo traffico continuano a morire in mare, senza che si trovi una soluzione per fermare questo dramma umanitario. ",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:54:00.733325+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36395827/pexels-photo-36395827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Brett Bennett",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"2 sudanesi accusati: 22 morti in mare\",\n  \"description\": \"due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a crete, in grecia, dopo che almeno 22 persone sono morte al largo della costa dell'isola.\",\n  \"articleBody\": \"due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a crete, in grecia, dopo che almeno 22 persone sono morte al largo della costa dell'isola. secondo quanto riportato dalle autorità greche, i due uomini sudanesi, che non sono stati nominati, sono stati identificati come i presunti responsabili di un'operazione di traffico di migranti partita dalla libia. i superstiti hanno raccontato alla guardia costiera greca che i trafficanti avevano ordinato di gettare in mare le vittime dopo sei giorni di navigazione senza cibo né acqua. le vittime erano a bordo di un'imbarcazione che era partita dalla libia con destinazione l'europa. la grecia è uno dei principali punti di ingresso per i migranti che cercano di raggiungere l'europa. secondo le stime delle organizzazioni umanitarie, nel 2022 sono morte più di 2.000 persone nel tentativo di attraversare il mar mediterraneo. il traffico di migranti è un problema che affligge il mediterraneo da anni, con migliaia di persone che ogni anno tentano di raggiungere l'europa attraverso rotte pericolose. la libia è uno dei principali punti di partenza per questi viaggi, dove i trafficanti sfruttano la situazione di instabilità politica per lucrare sulle speranze dei migranti. la comunità internazionale ha condannato a più riprese il traffico di migranti, ma le soluzioni per affrontare il problema sono ancora lontane. intanto, le vittime di questo traffico continuano a morire in mare, senza che si trovi una soluzione per fermare questo dramma umanitario.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:54:00.733325+00:00\",\n  \"dateModified\": \"2026-03-28T17:54:00.733325+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/447619e1b84d251d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/447619e1b84d251d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36395827/pexels-photo-36395827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Brett Bennett\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+  "related": [
+    {
+      "title": "22 passeggeri persi in mare per 6 giorni, nessuna acqua né cibo",
+      "url": "/esteri/22-passeggeri-persi-in-mare-per-6-giorni-nessuna-a-f56ccdecc0b5fb6a",
+      "id": "f56ccdecc0b5fb6a"
+    },
+    {
+      "title": "Ministro: centri familiari esclusivi di Reform UK",
+      "url": "/esteri/ministro-centri-familiari-esclusivi-di-reform-uk-339e16fe7ea06f11",
+      "id": "339e16fe7ea06f11"
+    },
+    {
+      "title": "Fiona Crack difende BBC Arabic",
+      "url": "/esteri/fiona-crack-difende-bbc-arabic-7143d70186620747",
+      "id": "7143d70186620747"
+    }
+  ]
+}
