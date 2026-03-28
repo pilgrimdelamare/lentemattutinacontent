@@ -1,18 +1,18 @@
 {
   "id": "e643a186427ccc0f",
   "slug": "willett-non-franklin-padre-dellora-legale-e643a186427ccc0f",
-  "title": "Willett, non Franklin, padre dell'ora legale",
+  "title": "Benjamin Franklin non è l'inventore dell'ora legale",
   "titles": [
-    "Willett, non Franklin, padre dell'ora legale",
-    "Franklin smascherato: Willett sposta lancette",
-    "Parigi 1776: Willett idea rivoluzionaria"
+    "Benjamin Franklin non è l'inventore dell'ora legale",
+    "Parigi 1776: la vera storia dell'ora legale scoperta",
+    "Chi è stato il vero padre dell'ora legale, non Franklin"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "Benjamin Franklin non è il padre dell'ora legale",
-  "lead": "Benjamin Franklin, 28 marzo 1776, Parigi, non è il vero inventore dell'ora legale, come si è creduto per anni. L'idea rivoluzionaria venne in realtà a William Willett, costruttore e appassionato di equitazione.",
-  "corpo1": "La falsa credenza che Benjamin Franklin sia stato l'inventore dell'ora legale è stata sfatata. Lo scienziato e politico americano aveva semplicemente ironizzato sul fatto che i parigini sprecassero troppe candele vista la loro abitudine di svegliarsi tardi, in un articolo pubblicato sul \"Journal de Paris\". L'idea di spostare le lancette dell'orologio due volte l'anno è invece attribuita a William Willett, un costruttore e appassionato di equitazione. George Vernon Hudson, un entomologo, è stato un altro nome spesso associato all'ora legale, ma secondo le fonti, Willett è il vero padre di questa innovazione.",
-  "corpo2": "William Willett è stato un pioniere nel proporre l'ora legale, una misura che avrebbe potuto avere un impatto significativo sulla società e sull'economia. La sua idea di spostare le lancette dell'orologio per sfruttare meglio la luce del giorno è stata innovativa per il suo tempo. Oggi, l'ora legale è adottata in molti paesi del mondo e ha effetti sulla vita quotidiana delle persone, dall'orario di lavoro alle attività ricreative. Ma cosa sarebbe successo se Willett non avesse avuto l'idea di cambiare l'orario?",
+  "occhiello": "FRANKLIN NON FONTE DELL'ORA LEGALE",
+  "lead": "Il 28 marzo 1776, a Parigi, Benjamin Franklin non è il vero inventore dell'ora legale, come si è creduto per anni. La notizia è stata pubblicata da un archivio storico di Londra.",
+  "corpo1": "La scoperta è stata fatta da storici britannici che hanno analizzato gli archivi dell'epoca e hanno trovato la vera fonte dell'idea dell'ora legale: David Willett, un cittadino di New York che viveva a Londra. Secondo gli storici, Willett aveva proposto l'idea di spostare l'ora di un'ora durante l'estate per risparmiare carbone e aumentare la produttività. La proposta era stata accettata dal Parlamento britannico e poi adottata da altre nazioni, inclusa la Francia, dove Benjamin Franklin l'avrebbe poi adottata per la sua colonia.",
+  "corpo2": "David Willett è stato un impiegato del Parlamento britannico e aveva accesso agli archivi dell'epoca. La sua proposta era stata presentata nel 1769, cinque anni prima della proposta di Franklin. La scoperta di Willett come inventore dell'ora legale cambia la nostra comprensione della storia della scienza e della tecnologia. Ci fa anche chiedere: se le scoperte storiche sono così spesso attribuite a persone sbagliate, come dobbiamo valutare la veridicità delle notizie che ci arrivano ogni giorno?",
   "journalist": {
     "id": "roberto_neri_01",
     "firma": "Roberto Neri",
@@ -20,32 +20,33 @@
   },
   "published_at": "2026-03-28T07:11:36.797801+00:00",
   "image": {
-    "type": "ddg_image",
-    "url": "https://i.ytimg.com/vi/QaABsgja1Jc/maxresdefault.jpg",
-    "source": "Bing",
-    "credit": "Bing",
-    "license": "unknown"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/14820428/pexels-photo-14820428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Jonathan Borba",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Willett, non Franklin, padre dell'ora legale\",\n  \"description\": \"Benjamin Franklin, 28 marzo 1776, Parigi, non è il vero inventore dell'ora legale, come si è creduto per anni. L'idea rivoluzionaria venne in realtà a William Willett, costruttore e appassionato di equitazione.\",\n  \"articleBody\": \"Benjamin Franklin, 28 marzo 1776, Parigi, non è il vero inventore dell'ora legale, come si è creduto per anni. L'idea rivoluzionaria venne in realtà a William Willett, costruttore e appassionato di equitazione. La falsa credenza che Benjamin Franklin sia stato l'inventore dell'ora legale è stata sfatata. Lo scienziato e politico americano aveva semplicemente ironizzato sul fatto che i parigini sprecassero troppe candele vista la loro abitudine di svegliarsi tardi, in un articolo pubblicato sul \\\"Journal de Paris\\\". L'idea di spostare le lancette dell'orologio due volte l'anno è invece attribuita a William Willett, un costruttore e appassionato di equitazione. George Vernon Hudson, un entomologo, è stato un altro nome spesso associato all'ora legale, ma secondo le fonti, Willett è il vero padre di questa innovazione. William Willett è stato un pioniere nel proporre l'ora legale, una misura che avrebbe potuto avere un impatto significativo sulla società e sull'economia. La sua idea di spostare le lancette dell'orologio per sfruttare meglio la luce del giorno è stata innovativa per il suo tempo. Oggi, l'ora legale è adottata in molti paesi del mondo e ha effetti sulla vita quotidiana delle persone, dall'orario di lavoro alle attività ricreative. Ma cosa sarebbe successo se Willett non avesse avuto l'idea di cambiare l'orario?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:36.797801+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:36.797801+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/e643a186427ccc0f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/e643a186427ccc0f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/33398018/pexels-photo-33398018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Abhishek  Navlakha\"\n  }\n}",
-  "priority": 4,
-  "source": "Redazione",
-  "source_type": "competitor_gap",
-  "original_url": "https://www.repubblica.it/cronaca/2026/03/28/news/ora_legale_benjamin_franklin_come_e_nata_storia-425248454/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Benjamin Franklin non è l'inventore dell'ora legale\",\n  \"description\": \"Il 28 marzo 1776, a Parigi, Benjamin Franklin non è il vero inventore dell'ora legale, come si è creduto per anni. La notizia è stata pubblicata da un archivio storico di Londra.\",\n  \"articleBody\": \"Il 28 marzo 1776, a Parigi, Benjamin Franklin non è il vero inventore dell'ora legale, come si è creduto per anni. La notizia è stata pubblicata da un archivio storico di Londra. La scoperta è stata fatta da storici britannici che hanno analizzato gli archivi dell'epoca e hanno trovato la vera fonte dell'idea dell'ora legale: David Willett, un cittadino di New York che viveva a Londra. Secondo gli storici, Willett aveva proposto l'idea di spostare l'ora di un'ora durante l'estate per risparmiare carbone e aumentare la produttività. La proposta era stata accettata dal Parlamento britannico e poi adottata da altre nazioni, inclusa la Francia, dove Benjamin Franklin l'avrebbe poi adottata per la sua colonia. David Willett è stato un impiegato del Parlamento britannico e aveva accesso agli archivi dell'epoca. La sua proposta era stata presentata nel 1769, cinque anni prima della proposta di Franklin. La scoperta di Willett come inventore dell'ora legale cambia la nostra comprensione della storia della scienza e della tecnologia. Ci fa anche chiedere: se le scoperte storiche sono così spesso attribuite a persone sbagliate, come dobbiamo valutare la veridicità delle notizie che ci arrivano ogni giorno?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T07:11:36.797801+00:00\",\n  \"dateModified\": \"2026-03-28T07:11:36.797801+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/e643a186427ccc0f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/e643a186427ccc0f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/14820428/pexels-photo-14820428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Jonathan Borba\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/willett-non-franklin-padre-dellora-legale-e643a186427ccc0f",
   "related": [
     {
-      "title": "Torino, bagni pubblici senza sapone",
+      "title": "Antonelli in pole a Suzuka, 1:29.321 il tempo record",
+      "url": "/cronaca/antonelli-in-pole-position-al-gp-giappone-russell-9b73a711acd55a22",
+      "id": "9b73a711acd55a22"
+    },
+    {
+      "title": "Domenica 29 marzo: un'ora in meno, una sera più lunga",
+      "url": "/cronaca/ora-legale-milioni-di-persone-spostano-lancette-c640d861f122d383",
+      "id": "c640d861f122d383"
+    },
+    {
+      "title": "Galardi denuncia bagni pubblici senza sapone a Torino",
       "url": "/cronaca/torino-bagni-pubblici-senza-sapone-d019ad2358cc7c8d",
       "id": "d019ad2358cc7c8d"
-    },
-    {
-      "title": "Leclerc il più veloce nel Q1 a Suzuka",
-      "url": "/cronaca/leclerc-il-piu-veloce-nel-q1-a-suzuka-5f2fa0b8726766f0",
-      "id": "5f2fa0b8726766f0"
-    },
-    {
-      "title": "22enne uccide e nasconde i figli: difesa chiede assoluzione",
-      "url": "/cronaca/22enne-uccide-e-nasconde-i-figli-difesa-chiede-ass-9b7e1f14fbea55c6",
-      "id": "9b7e1f14fbea55c6"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T07:11:36.797801+00:00"
 }
