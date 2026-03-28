@@ -20,11 +20,10 @@
   },
   "published_at": "2026-03-28T11:43:23.036880+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/35400517/pexels-photo-35400517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Reinhard Bruckner",
-    "license": "Pexels License"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sake%2C_North_Kivu%2C_DR_Congo._As_the_first_responders_to_an_accident_near_Sake_on_04_Sep%2C_a_MONUSCO_patrol_launched_for_humanitarian_assistance.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Wikimedia Commons",
+    "license": "CC"
   },
   "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Convoglio umanitario arriva in zona disagiata\",\n  \"description\": \"\",\n  \"articleBody\": \"secondo la notizia,   l'arrivo di questo convoglio rappresenta un sostegno concreto per la comunità locale, che potrebbe aver bisogno di questi aiuti per far fronte a difficoltà economiche o sanitarie.    questo evento potrebbe anche rappresentare un passo verso una maggiore comprensione e collaborazione tra paesi con storie e sistemi politici diversi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T11:43:23.036880+00:00\",\n  \"dateModified\": \"2026-03-28T11:43:23.036880+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/76b4881dc08561e6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/76b4881dc08561e6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35400517/pexels-photo-35400517.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Reinhard Bruckner\"\n  }\n}",
   "priority": 5,
