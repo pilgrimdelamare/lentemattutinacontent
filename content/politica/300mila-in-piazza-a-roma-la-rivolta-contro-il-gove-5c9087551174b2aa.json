@@ -1,0 +1,51 @@
+{
+  "id": "5c9087551174b2aa",
+  "slug": "300mila-in-piazza-a-roma-la-rivolta-contro-il-gove-5c9087551174b2aa",
+  "title": "300mila in piazza a Roma: la rivolta contro il governo",
+  "titles": [
+    "300mila in piazza a Roma: la rivolta contro il governo",
+    "Marco Landini: \"La manifestazione 'No Kings' è contro il governo\"",
+    "Roma, oltre mille agenti per la manifestazione 'No Kings'"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "CORTEO NO KINGS A ROMA, OLTRE 300MILA PRESENTI",
+  "lead": "Marco Landini, leader della Cgil, ha dichiarato che la manifestazione \"No Kings\" a Roma è stata una \"piazza del no al referendum, è una piazza contro il governo\". La manifestazione, che si è svolta il 28 marzo 2026, ha visto la partecipazione di oltre 300mila persone e di oltre mille agenti di polizia.",
+  "corpo1": "La manifestazione \"No Kings\" a Roma è stata una delle tappe nazionali della mobilitazione \"Together. Contro i Re e le loro guerre\". Secondo gli organizzatori, sono state oltre 300mila le persone scese in piazza contro la guerra e contro il governo. La manifestazione ha visto la partecipazione di centinaia di realtà sociali, sindacali e associative, tra cui la Cgil, l'Arci e Askatasuna. Il leader della Cgil, Marco Landini, ha dichiarato che \"questa è la piazza del no al referendum, è una piazza contro il governo\". La questura ha autorizzato il nuovo percorso del corteo, che è stato seguito da oltre mille agenti di polizia. La manifestazione ha avuto luogo a Roma, nel quartiere del Verano.",
+  "corpo2": "La manifestazione \"No Kings\" è stata organizzata in risposta alla crescente preoccupazione per la guerra e per le politiche del governo. La partecipazione di oltre 300mila persone è un segnale della crescente disaffezione della popolazione verso le politiche del governo. La manifestazione è stata anche un'occasione per discutere del caso Salis e della posizione del governo su questo tema. Il leader di Sinistra Italiana, Fratoianni, ha chiesto al ministro degli Esteri, Tajani, di convocare l'ambasciatore tedesco per discutere del caso. La manifestazione \"No Kings\" è un esempio di come la società civile italiana stia reagendo alle politiche del governo e alle crescenti preoccupazioni per la guerra e per la pace. E adesso, il governo dovrà fare i conti con questa piazza?",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:15:32.732211+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Manifestazione_a_sostegno_del_popolo_iraniano_%28Roma%2C_17_gennaio_2026%29_17.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Camelia.boban",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"300mila in piazza a Roma: la rivolta contro il governo\",\n  \"description\": \"Marco Landini, leader della Cgil, ha dichiarato che la manifestazione \\\"No Kings\\\" a Roma è stata una \\\"piazza del no al referendum, è una piazza contro il governo\\\". La manifestazione, che si è svolta il 28 marzo 2026, ha visto la partecipazione di oltre 300mila persone e di oltre mille agenti di poliz\",\n  \"articleBody\": \"Marco Landini, leader della Cgil, ha dichiarato che la manifestazione \\\"No Kings\\\" a Roma è stata una \\\"piazza del no al referendum, è una piazza contro il governo\\\". La manifestazione, che si è svolta il 28 marzo 2026, ha visto la partecipazione di oltre 300mila persone e di oltre mille agenti di polizia. La manifestazione \\\"No Kings\\\" a Roma è stata una delle tappe nazionali della mobilitazione \\\"Together. Contro i Re e le loro guerre\\\". Secondo gli organizzatori, sono state oltre 300mila le persone scese in piazza contro la guerra e contro il governo. La manifestazione ha visto la partecipazione di centinaia di realtà sociali, sindacali e associative, tra cui la Cgil, l'Arci e Askatasuna. Il leader della Cgil, Marco Landini, ha dichiarato che \\\"questa è la piazza del no al referendum, è una piazza contro il governo\\\". La questura ha autorizzato il nuovo percorso del corteo, che è stato seguito da oltre mille agenti di polizia. La manifestazione ha avuto luogo a Roma, nel quartiere del Verano. La manifestazione \\\"No Kings\\\" è stata organizzata in risposta alla crescente preoccupazione per la guerra e per le politiche del governo. La partecipazione di oltre 300mila persone è un segnale della crescente disaffezione della popolazione verso le politiche del governo. La manifestazione è stata anche un'occasione per discutere del caso Salis e della posizione del governo su questo tema. Il leader di Sinistra Italiana, Fratoianni, ha chiesto al ministro degli Esteri, Tajani, di convocare l'ambasciatore tedesco per discutere del caso. La manifestazione \\\"No Kings\\\" è un esempio di come la società civile italiana stia reagendo alle politiche del governo e alle crescenti preoccupazioni per la guerra e per la pace. E adesso, il governo dovrà fare i conti con questa piazza?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:15:32.732211+00:00\",\n  \"dateModified\": \"2026-03-28T16:15:32.732211+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/5c9087551174b2aa\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/5c9087551174b2aa\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/f/ff/Manifestazione_a_sostegno_del_popolo_iraniano_%28Roma%2C_17_gennaio_2026%29_17.jpg\",\n    \"creditText\": \"Camelia.boban\"\n  }\n}",
+  "priority": 5,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://roma.repubblica.it/cronaca/2026/03/28/diretta/manifestazione_roma_no_kings_oggi_news_diretta-425250069/",
+  "related": [
+    {
+      "title": "300mila a Roma contro il governo: Landini, 'Questa è la piazza del no al referen",
+      "url": "/sport/300mila-a-roma-contro-il-governo-landini-questa-e-f64f8b337ae975c1",
+      "id": "f64f8b337ae975c1"
+    },
+    {
+      "title": "300mila persone a Roma contro il governo",
+      "url": "/sport/300mila-persone-a-roma-contro-il-governo-a61f36439f4eb68a",
+      "id": "a61f36439f4eb68a"
+    },
+    {
+      "title": "Il documentario 'A tu lado' arriva in Italia il 14 aprile",
+      "url": "/sport/il-documentario-a-tu-lado-arriva-in-italia-il-14-a-379d9396ebb9d8b8",
+      "id": "379d9396ebb9d8b8"
+    }
+  ]
+}
