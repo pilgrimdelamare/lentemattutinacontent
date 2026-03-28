@@ -1,0 +1,51 @@
+{
+  "id": "aed260d1b1628aa4",
+  "slug": "22-vittime-nel-mar-egeo-gommone-da-libia-si-capovo-aed260d1b1628aa4",
+  "title": "22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche",
+  "titles": [
+    "22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche",
+    "Ordine di abbandonare barca: la drammatica verità delle 22 vittime nel Mar Egeo",
+    "Poigettato senza cibo e acqua: 22 morti in un solo gommone nel Mediterraneo"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO: 22 MIGRANTI ITALIANI MORTI NEL MAR EGEEO",
+  "lead": "Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si è verificata il 28 marzo 2026, mentre il gommone navigava nelle acque greche.",
+  "corpo1": "",
+  "corpo2": "La tragedia ha portato alla luce le pericolose condizioni in cui sono costrette a viaggiare i migranti nel Mar Egeo, e ha sollevato le preoccupazioni sull'inefficacia delle misure di sicurezza per prevenire simili tragedie. Il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia è solo la più recente in una serie di disastri che hanno colpito i migranti nel Mar Egeo. La domanda retorica che ci si pone è: quando le autorità europee saranno in grado di prevenire simili tragedie e proteggere i migranti che cercano di raggiungere la sicurezza e una vita dignitosa?",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T16:47:22.620238+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Migranti_arrivati_in_Europa_via_terra_o_via_mare.png",
+    "source": "Wikimedia Commons",
+    "credit": "Lovepeacejoy404",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"22 Vittime nel Mar Egeo: gommone da Libia si capovolge in acque greche\",\n  \"description\": \"Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si\",\n  \"articleBody\": \"Un gommone di migranti provenienti da Libia si è capovolto nel Mar Egeo, uccidendo almeno 22 persone, tra cui un minore. Secondo le fonti, il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia si è verificata il 28 marzo 2026, mentre il gommone navigava nelle acque greche. La tragedia ha portato alla luce le pericolose condizioni in cui sono costrette a viaggiare i migranti nel Mar Egeo, e ha sollevato le preoccupazioni sull'inefficacia delle misure di sicurezza per prevenire simili tragedie. Il gommone si è perso per sei giorni a causa della mancanza di cibo e acqua, e i contrabbandieri hanno ordinato ai passeggeri di gettarsi in mare. La tragedia è solo la più recente in una serie di disastri che hanno colpito i migranti nel Mar Egeo. La domanda retorica che ci si pone è: quando le autorità europee saranno in grado di prevenire simili tragedie e proteggere i migranti che cercano di raggiungere la sicurezza e una vita dignitosa?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"dateModified\": \"2026-03-28T16:47:22.620238+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/aed260d1b1628aa4\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/55/Migranti_arrivati_in_Europa_via_terra_o_via_mare.png\",\n    \"creditText\": \"Lovepeacejoy404\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/world/2026/mar/28/22-people-die-after-six-days-adrift-in-boat-attempting-to-reach-europe-from-libya",
+  "related": [
+    {
+      "title": "Nove bambini tra vittime di E. coli in California",
+      "url": "/esteri/nove-bambini-tra-vittime-di-e-coli-in-california-c7d8fc76ac42bcb6",
+      "id": "c7d8fc76ac42bcb6"
+    },
+    {
+      "title": "Il Tesoro Usa accusa la FT di diffondere notizie false su Scott Bessent",
+      "url": "/esteri/il-tesoro-usa-accusa-la-ft-di-diffondere-notizie-f-a4b38089a31d777c",
+      "id": "a4b38089a31d777c"
+    },
+    {
+      "title": "No Kings protests: milioni di persone in strada contro l'amministrazione Trump",
+      "url": "/esteri/no-kings-protests-milioni-di-persone-in-strada-con-6150133862cf9bef",
+      "id": "6150133862cf9bef"
+    }
+  ]
+}
