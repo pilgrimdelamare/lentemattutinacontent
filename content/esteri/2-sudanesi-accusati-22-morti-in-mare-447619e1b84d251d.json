@@ -1,0 +1,52 @@
+{
+  "id": "447619e1b84d251d",
+  "slug": "2-sudanesi-accusati-22-morti-in-mare-447619e1b84d251d",
+  "title": "Due sudanesi accusati di traffico migranti a Creta",
+  "titles": [
+    "Due sudanesi accusati di traffico migranti a Creta",
+    "Traffico migranti: 2 sudanesi davanti al tribunale greco",
+    "Grecia: 2 sudanesi fermati per traffico migranti nel Mar Egeo"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Traffico di migranti: 22 morti in mare, due sudanesi al tribunale di Creta",
+  "lead": "Due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a Creta, in Grecia, dopo essere stati bloccati da una pattuglia della guardia costiera greca nel Mar Egeo.",
+  "corpo1": "sudanesi e sono stati accusati di traffico di migranti.   ",
+  "corpo2": "       ",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T17:54:00.733325+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/12823551/pexels-photo-12823551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Faruk Tokluoğlu",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Due sudanesi accusati di traffico migranti a Creta\",\n  \"description\": \"Due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a Creta, in Grecia, dopo essere stati bloccati da una pattuglia della guardia costiera greca nel Mar Egeo.\",\n  \"articleBody\": \"Due uomini sudanesi, accusati di traffico di migranti, devono comparire davanti a un tribunale a Creta, in Grecia, dopo essere stati bloccati da una pattuglia della guardia costiera greca nel Mar Egeo. sudanesi e sono stati accusati di traffico di migranti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:54:00.733325+00:00\",\n  \"dateModified\": \"2026-03-28T17:54:00.733325+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/447619e1b84d251d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/447619e1b84d251d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/12823551/pexels-photo-12823551.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Faruk Tokluoğlu\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/esteri/2-sudanesi-accusati-22-morti-in-mare-447619e1b84d251d",
+  "related": [
+    {
+      "title": "Migranti, 6 morti in un naufragio al largo della Grecia",
+      "url": "/esteri/22-vittime-nel-mar-egeo-gommone-da-libia-si-capovo-aed260d1b1628aa4",
+      "id": "aed260d1b1628aa4"
+    },
+    {
+      "title": "Missile iraniano colpisce Emirates Global Aluminium a Al Taweelah",
+      "url": "/esteri/attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
+      "id": "705624ef2e219ace"
+    },
+    {
+      "title": "Lula da Silva sostiene Bachelet all'ONU",
+      "url": "/esteri/lula-da-silva-brasile-sostenitore-di-bachelet-allo-cd1e6d0d8e5eddb1",
+      "id": "cd1e6d0d8e5eddb1"
+    }
+  ],
+  "updated_at": "2026-03-28T17:54:00.733325+00:00"
+}
