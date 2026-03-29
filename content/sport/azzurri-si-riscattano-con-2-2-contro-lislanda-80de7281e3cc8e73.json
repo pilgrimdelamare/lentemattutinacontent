@@ -1,0 +1,51 @@
+{
+  "id": "80de7281e3cc8e73",
+  "slug": "azzurri-si-riscattano-con-2-2-contro-lislanda-80de7281e3cc8e73",
+  "title": "Azzurri si riscattano con 2-2 contro l'Islanda",
+  "titles": [
+    "Azzurri si riscattano con 2-2 contro l'Islanda",
+    "Berardi regala l'equalizzatore agli Azzurri a Reykjavik",
+    "Vittoria aerea per l'Italia a 11 metri contro l'Islanda"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "AMICHEVOLI, I RISULTATI DI TUTTO",
+  "lead": "Tre partite di amichevole internazionale, sabato 28 marzo 2026. , mentre .",
+  "corpo1": ". . , che si è poi imposto per 2-2 sull'Islanda. , uno a 11 metri e l'altro a fine primo tempo. .",
+  "corpo2": "sabato 28 marzo 2026, non sono emerse particolari sorprese nelle amichevoli di calcio internazionale. I risultati sono stati coerenti con le aspettative. Il Belgio, che ha avuto due giocatori in gara, McKennie e De Ketelaere, ha sfruttato l'occasione per testare la sua squadra in un'atmosfera di amichevole. Canada e Islanda hanno invece disputato un match equilibrato, con entrambe le squadre che hanno avuto le loro occasioni. Le prossime partite saranno chiave per capire come le squadre si preparano per le future gare ufficiali.",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T00:25:30.618407+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Matteo_de%27_pasti%2C_medaglia_di_s.p._malatesta_e_il_braccio%2C_da_tempio_malatestiano%2C_verso_02.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "sailko",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Azzurri si riscattano con 2-2 contro l'Islanda\",\n  \"description\": \"Tre partite di amichevole internazionale, sabato 28 marzo 2026. , mentre .\",\n  \"articleBody\": \"Tre partite di amichevole internazionale, sabato 28 marzo 2026. , mentre . . . , che si è poi imposto per 2-2 sull'Islanda. , uno a 11 metri e l'altro a fine primo tempo. . sabato 28 marzo 2026, non sono emerse particolari sorprese nelle amichevoli di calcio internazionale. I risultati sono stati coerenti con le aspettative. Il Belgio, che ha avuto due giocatori in gara, McKennie e De Ketelaere, ha sfruttato l'occasione per testare la sua squadra in un'atmosfera di amichevole. Canada e Islanda hanno invece disputato un match equilibrato, con entrambe le squadre che hanno avuto le loro occasioni. Le prossime partite saranno chiave per capire come le squadre si preparano per le future gare ufficiali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:25:30.618407+00:00\",\n  \"dateModified\": \"2026-03-29T00:25:30.618407+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/80de7281e3cc8e73\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/80de7281e3cc8e73\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/6/6b/Matteo_de%27_pasti%2C_medaglia_di_s.p._malatesta_e_il_braccio%2C_da_tempio_malatestiano%2C_verso_02.jpg\",\n    \"creditText\": \"sailko\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/2026/03/28/risultati-amichevoli-oggi-28-marzo",
+  "related": [
+    {
+      "title": "300mila italiani si mobilitano contro la scomparsa di fondi pubblici a Roma",
+      "url": "/sport/300mila-persone-in-piazza-per-chiedere-giustizia-f3e15b6e94b440a2",
+      "id": "f3e15b6e94b440a2"
+    },
+    {
+      "title": "Il capitano Azzurri sotto accusa per arroganza",
+      "url": "/sport/pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+      "id": "d8627f964912e3de"
+    },
+    {
+      "title": "Sinner va per il colpo: finale a Miami contro Lehecka!",
+      "url": "/sport/sinner-va-per-il-colpo-finale-a-miami-contro-lehec-c3df6205f0a4383d",
+      "id": "c3df6205f0a4383d"
+    }
+  ]
+}
