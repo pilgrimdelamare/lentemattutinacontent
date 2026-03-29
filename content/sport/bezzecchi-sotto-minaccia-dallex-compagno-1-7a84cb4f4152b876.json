@@ -1,0 +1,51 @@
+{
+  "id": "7a84cb4f4152b876",
+  "slug": "bezzecchi-sotto-minaccia-dallex-compagno-1-7a84cb4f4152b876",
+  "title": "Bezzecchi sotto minaccia dall'ex compagno +1",
+  "titles": [
+    "Bezzecchi sotto minaccia dall'ex compagno +1",
+    "Lo sfido del leader: 'Al Mondiale con ci penso'",
+    "Un giro d'onore in caduta libera per il meccanico"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "MARTIN SORPASSE BAGNAIA ALL'ULTIMO GIRO",
+  "lead": ". .",
+  "corpo1": "il nuovo leader del campionato, a +1 sul compagno di team Bezzecchi: \"Al Mondiale con ci penso. Ma pure nel 2024 non ci pensavo...\". . \". Ho avuto ragione io...\". Poi una battuta sull'impennata - con caduta - nel giro d'onore: \"Mi spiace per i meccanici, mi sono",
+  "corpo2": "fatto vincere per un pelo\". Martin ha anche ringraziato la sua squadra per la loro collaborazione: \"La squadra era fantastica, è stato un vero team work\". Jorge Martin, 25 anni, è un pilota spagnolo noto per la sua abilità ed esperienza in motociclismo. Ha iniziato a correre a 8 anni e ha vinto il suo primo titolo nel 2014. Martin è stato anche rappresentante della sua nazione nel Campionato Mondiale di Motociclismo. La sua scelta della gomma media è stata cruciale per il successo della gara, visto che gli ha permesso di sorprendere Bagnaia all'ultimo giro. La gara di Austin è stata un punto di svolta per Martin, che ora si trova al comando della classifica. Ma il pilota spagnolo non si lascia andare all'euforia: \"Sono tornato, ma non penso al Mondiale\".",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T00:24:29.298023+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/19787364/pexels-photo-19787364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "zheng liang",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi sotto minaccia dall'ex compagno +1\",\n  \"description\": \". .\",\n  \"articleBody\": \". . il nuovo leader del campionato, a +1 sul compagno di team Bezzecchi: \\\"Al Mondiale con ci penso. Ma pure nel 2024 non ci pensavo...\\\". . \\\". Ho avuto ragione io...\\\". Poi una battuta sull'impennata - con caduta - nel giro d'onore: \\\"Mi spiace per i meccanici, mi sono fatto vincere per un pelo\\\". Martin ha anche ringraziato la sua squadra per la loro collaborazione: \\\"La squadra era fantastica, è stato un vero team work\\\". Jorge Martin, 25 anni, è un pilota spagnolo noto per la sua abilità ed esperienza in motociclismo. Ha iniziato a correre a 8 anni e ha vinto il suo primo titolo nel 2014. Martin è stato anche rappresentante della sua nazione nel Campionato Mondiale di Motociclismo. La sua scelta della gomma media è stata cruciale per il successo della gara, visto che gli ha permesso di sorprendere Bagnaia all'ultimo giro. La gara di Austin è stata un punto di svolta per Martin, che ora si trova al comando della classifica. Ma il pilota spagnolo non si lascia andare all'euforia: \\\"Sono tornato, ma non penso al Mondiale\\\".\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:24:29.298023+00:00\",\n  \"dateModified\": \"2026-03-29T00:24:29.298023+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/7a84cb4f4152b876\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/7a84cb4f4152b876\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/19787364/pexels-photo-19787364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"zheng liang\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/28/martin-gp-austin-sprint-race-intervista-1086096",
+  "related": [
+    {
+      "title": "Il capitano Azzurri sotto accusa per arroganza",
+      "url": "/sport/pavic-accusa-azzurri-di-eccessiva-arroganza-d8627f964912e3de",
+      "id": "d8627f964912e3de"
+    },
+    {
+      "title": "Bezzecchi punta al tris ad Austin con l'Aprilia",
+      "url": "/sport/bezzecchi-cerca-tris-consecutivo-ad-austin-con-apr-bb452502efbf1859",
+      "id": "bb452502efbf1859"
+    },
+    {
+      "title": "Ferrari accusa arbitri in Sprint a Austin",
+      "url": "/sport/ferrari-accusa-arbitri-in-sprint-a-austin-42409c399eae71ba",
+      "id": "42409c399eae71ba"
+    }
+  ]
+}
