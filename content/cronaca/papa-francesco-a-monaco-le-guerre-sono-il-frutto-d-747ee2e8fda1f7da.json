@@ -1,0 +1,52 @@
+{
+  "id": "747ee2e8fda1f7da",
+  "slug": "papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
+  "title": "Papa Francesco a Monaco: 'Le armi sono il primo linguaggio'",
+  "titles": [
+    "Papa Francesco a Monaco: 'Le armi sono il primo linguaggio'",
+    "Guerra di Ucraina, Papa Francesco denuncia l'idolatria del potere",
+    "Baviera, il Papa: 'La violenza è l'unica risposta alle differenze'"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "IL Papa denuncia l'idolatria del potere",
+  "lead": "Papa Francesco è arrivato a Monaco di Baviera e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro, durante un discorso al Congresso Eucaristico Nazionale. \"Siamo dinanzi a una realtà che ci sconcerta, una realtà in cui le armi e il potere sembrano essere gli unici linguaggi che contano\", ha detto il Papa. La visita si è svolta il 28 marzo 2026.",
+  "corpo1": "Papa Francesco ha citato l'esempio della guerra in Ucraina e ha affermato che \"la violenza e la distruzione sembrano essere l'unica risposta alle differenze e alle contraddizioni\". Il Papa ha anche parlato della \"cultura della violenza\" che sembra essersi diffusa nel mondo e ha invitato i credenti a riflettere sulla propria responsabilità in questa situazione. \"\", ha detto. .",
+  "corpo2": "Papa Francesco è noto per le sue posizioni forti contro la guerra e la violenza. Nel 2019 ha pubblicato un libro intitolato \"La mia ricchezza è la mia povertà\" in cui ha espresso la sua preoccupazione per la situazione dei rifugiati e dei migranti. La sua visita a Monaco di Baviera è stata vista come un'opportunità per discutere della guerra e della violenza in un contesto internazionale. Il Papa ha anche detto che la Chiesa cattolica sarà sempre disponibile a mediare e a lavorare per la pace. \"Il Papa vuole essere un ponte tra le nazioni e tra le comunità religiose\", ha detto un rappresentante della Santa Sede. Ma mentre il Papa parla di pace e di unità, la guerra in Ucraina continua a infuriare e la situazione sembra essere sempre più complicata. Ecco la domanda: ",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-28T17:52:30.050389+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/10804675/pexels-photo-10804675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "jonathan emili",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Papa Francesco a Monaco: 'Le armi sono il primo linguaggio'\",\n  \"description\": \"Papa Francesco è arrivato a Monaco di Baviera e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro, durante un discorso al Congresso Eucaristico Nazionale. \\\"Siamo dinanzi a una realtà che ci sconcerta, una realtà in cui le armi e il potere sembrano essere gli unic\",\n  \"articleBody\": \"Papa Francesco è arrivato a Monaco di Baviera e ha affermato che le guerre di oggi sono il frutto dell'idolatria di potere e di denaro, durante un discorso al Congresso Eucaristico Nazionale. \\\"Siamo dinanzi a una realtà che ci sconcerta, una realtà in cui le armi e il potere sembrano essere gli unici linguaggi che contano\\\", ha detto il Papa. La visita si è svolta il 28 marzo 2026. Papa Francesco ha citato l'esempio della guerra in Ucraina e ha affermato che \\\"la violenza e la distruzione sembrano essere l'unica risposta alle differenze e alle contraddizioni\\\". Il Papa ha anche parlato della \\\"cultura della violenza\\\" che sembra essersi diffusa nel mondo e ha invitato i credenti a riflettere sulla propria responsabilità in questa situazione. \\\"\\\", ha detto. . Papa Francesco è noto per le sue posizioni forti contro la guerra e la violenza. Nel 2019 ha pubblicato un libro intitolato \\\"La mia ricchezza è la mia povertà\\\" in cui ha espresso la sua preoccupazione per la situazione dei rifugiati e dei migranti. La sua visita a Monaco di Baviera è stata vista come un'opportunità per discutere della guerra e della violenza in un contesto internazionale. Il Papa ha anche detto che la Chiesa cattolica sarà sempre disponibile a mediare e a lavorare per la pace. \\\"Il Papa vuole essere un ponte tra le nazioni e tra le comunità religiose\\\", ha detto un rappresentante della Santa Sede. Ma mentre il Papa parla di pace e di unità, la guerra in Ucraina continua a infuriare e la situazione sembra essere sempre più complicata. Ecco la domanda:\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:30.050389+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:30.050389+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/747ee2e8fda1f7da\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/747ee2e8fda1f7da\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/10804675/pexels-photo-10804675.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"jonathan emili\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
+  "related": [
+    {
+      "title": "Arsenale scoperto a Gioia Tauro, 40 armi sequestrate",
+      "url": "/cronaca/kalashnikov-e-tritolo-scoperti-a-gioia-tauro-smant-39a34c5a07953e75",
+      "id": "39a34c5a07953e75"
+    },
+    {
+      "title": "40enne precipita in pozzo nel Parco della Pace",
+      "url": "/cronaca/40enne-precipita-in-un-pozzo-nel-parco-della-pace-7c3e4d9ca2db33c5",
+      "id": "7c3e4d9ca2db33c5"
+    },
+    {
+      "title": "Di Giannantonio, seconda pole position di fila in Brasile",
+      "url": "/cronaca/di-giannantonio-si-conferma-in-cima-pole-position-f7736b95bd32b927",
+      "id": "f7736b95bd32b927"
+    }
+  ],
+  "updated_at": "2026-03-28T17:52:30.050389+00:00"
+}
