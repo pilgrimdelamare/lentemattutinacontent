@@ -1,0 +1,51 @@
+{
+  "id": "c74df10048d09fbd",
+  "slug": "motogp-ogura-ritirato-c74df10048d09fbd",
+  "title": "MotoGP: Ogura ritirato",
+  "titles": [
+    "MotoGP: Ogura ritirato",
+    "MotoGP: Bezzecchi vince ad Austin",
+    "MotoGP: guasto ferma Ogura"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "OGURA SI RITIRA A AUSTIN",
+  "lead": "Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico.",
+  "corpo1": "Il gp austin ha visto il ritiro di ogura a causa di un problema tecnico. secondo quanto riportato, il pilota ha dovuto abbandonare la gara a causa di un guasto alla sua motocicletta. La notizia è stata confermata dai commenti dei piloti nel retropodio, dove Marquez ha definito Bezzecchi \"impressionante\" e \"favorito per il titolo\". Bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \"sognato da tanto di vincere qui\". Acosta ha commentato il suo lavoro, dichiarando di aver \"fatto un bel lavoro\" e di dover \"continuare a lavorare\". Il GP Austin ha registrato una bagarre tra Bagnaia, Bastianini e Marquez, con Bezzecchi che si è imposto come vincitore. la gara ha avuto luogo ad austin, in texas, città con una popolazione di circa 2,5 milioni di abitanti nell'area metropolitana.",
+  "corpo2": "Ogura è un pilota che ha già mostrato le sue capacità in passato, ma questo ritiro a causa di un problema tecnico potrebbe avere conseguenze per la sua classifica nel campionato. il meccanismo strutturale che spiega questo problema tecnico potrebbe essere legato alla gestione della squadra o alla qualità della motocicletta. ciò che cambia davvero è la possibilità per ogura di recuperare punti nella classifica, considerando che la competizione è molto alta in questo campionato. Cosa significa questo ritiro per il futuro di Ogura nel Motomondiale: potrebbe essere un semplice incidente o un segnale di problemi più profondi nella sua squadra, come ad esempio una gestione della squadra inefficiente o una qualità della motocicletta non all'altezza?",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T23:32:15.999895+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/1973_Austin_1300_Mk_III_%2810552072926%29.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Riley from Christchurch, New Zealand",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"MotoGP: Ogura ritirato\",\n  \"description\": \"Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico.\",\n  \"articleBody\": \"Il pilota Ogura è stato costretto al ritiro durante il GP Austin a causa di un problema tecnico. Il gp austin ha visto il ritiro di ogura a causa di un problema tecnico. secondo quanto riportato, il pilota ha dovuto abbandonare la gara a causa di un guasto alla sua motocicletta. La notizia è stata confermata dai commenti dei piloti nel retropodio, dove Marquez ha definito Bezzecchi \\\"impressionante\\\" e \\\"favorito per il titolo\\\". Bezzecchi ha espresso la sua emozione per la vittoria, affermando di aver \\\"sognato da tanto di vincere qui\\\". Acosta ha commentato il suo lavoro, dichiarando di aver \\\"fatto un bel lavoro\\\" e di dover \\\"continuare a lavorare\\\". Il GP Austin ha registrato una bagarre tra Bagnaia, Bastianini e Marquez, con Bezzecchi che si è imposto come vincitore. la gara ha avuto luogo ad austin, in texas, città con una popolazione di circa 2,5 milioni di abitanti nell'area metropolitana. Ogura è un pilota che ha già mostrato le sue capacità in passato, ma questo ritiro a causa di un problema tecnico potrebbe avere conseguenze per la sua classifica nel campionato. il meccanismo strutturale che spiega questo problema tecnico potrebbe essere legato alla gestione della squadra o alla qualità della motocicletta. ciò che cambia davvero è la possibilità per ogura di recuperare punti nella classifica, considerando che la competizione è molto alta in questo campionato. Cosa significa questo ritiro per il futuro di Ogura nel Motomondiale: potrebbe essere un semplice incidente o un segnale di problemi più profondi nella sua squadra, come ad esempio una gestione della squadra inefficiente o una qualità della motocicletta non all'altezza?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"dateModified\": \"2026-03-29T23:32:15.999895+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/c74df10048d09fbd\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/c74df10048d09fbd\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/e/ee/1973_Austin_1300_Mk_III_%2810552072926%29.jpg\",\n    \"creditText\": \"Riley from Christchurch, New Zealand\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/30/gp-austin-ogura-ritiro-video-1086350",
+  "related": [
+    {
+      "title": "MotoGP: Bezzecchi vince ad Austin",
+      "url": "/sport/motogp-bezzecchi-vince-ad-austin-9e51af5c19610693",
+      "id": "9e51af5c19610693"
+    },
+    {
+      "title": "MotoGP: Bagnaia si classifica decimo a Austin, rallentato dalla gomma posteriore",
+      "url": "/sport/motogp-bagnaia-si-classifica-decimo-a-austin-ralle-83adadbd50e75d7e",
+      "id": "83adadbd50e75d7e"
+    },
+    {
+      "title": "MotoGP:",
+      "url": "/sport/motogp-534ca90b3c5af9d0",
+      "id": "534ca90b3c5af9d0"
+    }
+  ]
+}
