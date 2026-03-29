@@ -1,0 +1,51 @@
+{
+  "id": "d203e5d977e84cea",
+  "slug": "casco-bleu-ucciso-in-libano-in-unesplosione-di-ori-d203e5d977e84cea",
+  "title": "Casco bleu ucciso in Libano in un'esplosione di origine sconosciuta",
+  "titles": [
+    "Casco bleu ucciso in Libano in un'esplosione di origine sconosciuta",
+    "Morto un casco bleu in un attentato vicino Adchit Al Qusayr",
+    "Finul in crisi: un casco bleu ucciso e un altro ferito in Libano"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "ESPLOSIONE NEL LIBANO, CASCO BLU UCCISO",
+  "lead": "Domenica 29 marzo 2026, un casque bleu della Finul è stato ucciso da un'esplosione di origine sconosciuta nel sud del Liban, vicino ad Adchit Al Qusayr.",
+  "corpo1": "Secondo la Force intérimaire des Nations unies au Liban, l'incidente è avvenuto quando un proiettile è esploso su una posizione della Finul, dove erano in corso scontri tra Israele e il movimento libanese Hezbollah. un altro casco bleu è stato gravemente ferito nell'attacco. le autorità hanno aperto un'inchiesta per determinare le cause dell'esplosione. la zona di Adchit Al Qusayr, dove si è verificato l'incidente, è nota per essere teatro di frequenti scontri tra le forze israeliane e il movimento libanese Hezbollah. la presenza della Finul in Libano è volta a mantenere la stabilità e la sicurezza nella regione dopo gli scontri del 2006 tra Israele e il Hezbollah. l'incidente di domenica è il più recente di una serie di eventi che hanno aumentato le tensioni nella zona.",
+  "corpo2": "Il Libano è stato teatro di una lunga storia di conflitti e instabilità, con la presenza di diverse fazioni e gruppi armati che hanno reso difficile il mantenimento della pace nella regione. la comunità internazionale ha espresso preoccupazione per la situazione in Libano e ha chiesto alle parti in conflitto di rispettare la risoluzione 1701 dell'Onu, che prevede il ritiro delle forze israeliane dal Libano e il disarmo del Hezbollah. l'incidente di domenica ha sollevato nuove preoccupazioni sulla capacità della comunità internazionale di mantenere la pace nella regione e di proteggere i civili e i caschi blu che operano in Libano. se la violenza dovesse continuare a escalation, le conseguenze per la stabilità del Medio Oriente potrebbero essere gravi, mettendo a rischio la sicurezza di Israele, del Libano e di tutta la regione.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T23:37:24.118856+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/34832848/pexels-photo-34832848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "SlimMars 13",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Casco bleu ucciso in Libano in un'esplosione di origine sconosciuta\",\n  \"description\": \"Domenica 29 marzo 2026, un casque bleu della Finul è stato ucciso da un'esplosione di origine sconosciuta nel sud del Liban, vicino ad Adchit Al Qusayr.\",\n  \"articleBody\": \"Domenica 29 marzo 2026, un casque bleu della Finul è stato ucciso da un'esplosione di origine sconosciuta nel sud del Liban, vicino ad Adchit Al Qusayr. Secondo la Force intérimaire des Nations unies au Liban, l'incidente è avvenuto quando un proiettile è esploso su una posizione della Finul, dove erano in corso scontri tra Israele e il movimento libanese Hezbollah. un altro casco bleu è stato gravemente ferito nell'attacco. le autorità hanno aperto un'inchiesta per determinare le cause dell'esplosione. la zona di Adchit Al Qusayr, dove si è verificato l'incidente, è nota per essere teatro di frequenti scontri tra le forze israeliane e il movimento libanese Hezbollah. la presenza della Finul in Libano è volta a mantenere la stabilità e la sicurezza nella regione dopo gli scontri del 2006 tra Israele e il Hezbollah. l'incidente di domenica è il più recente di una serie di eventi che hanno aumentato le tensioni nella zona. Il Libano è stato teatro di una lunga storia di conflitti e instabilità, con la presenza di diverse fazioni e gruppi armati che hanno reso difficile il mantenimento della pace nella regione. la comunità internazionale ha espresso preoccupazione per la situazione in Libano e ha chiesto alle parti in conflitto di rispettare la risoluzione 1701 dell'Onu, che prevede il ritiro delle forze israeliane dal Libano e il disarmo del Hezbollah. l'incidente di domenica ha sollevato nuove preoccupazioni sulla capacità della comunità internazionale di mantenere la pace nella regione e di proteggere i civili e i caschi blu che operano in Libano. se la violenza dovesse continuare a escalation, le conseguenze per la stabilità del Medio Oriente potrebbero essere gravi, mettendo a rischio la sicurezza di Israele, del Libano e di tutta la regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T23:37:24.118856+00:00\",\n  \"dateModified\": \"2026-03-29T23:37:24.118856+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/d203e5d977e84cea\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/d203e5d977e84cea\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/34832848/pexels-photo-34832848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"SlimMars 13\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/international/live/2026/03/29/en-direct-guerre-au-moyen-orient-l-armee-israelienne-dit-mener-des-frappes-contre-diverses-cibles-liees-au-pouvoir-iranien-a-teheran_6674837_3210.html",
+  "related": [
+    {
+      "title": "Casco blu ucciso in Libano",
+      "url": "/esteri/casco-blu-ucciso-in-libano-207d9907792ae095",
+      "id": "207d9907792ae095"
+    },
+    {
+      "title": "Vice sceriffo della contea di Los Angeles muore durante gara nel deserto del Moj",
+      "url": "/esteri/vice-sceriffo-della-contea-di-los-angeles-muore-du-29828a478a3ebd90",
+      "id": "29828a478a3ebd90"
+    },
+    {
+      "title": "650.000 barili di petrolio russo arrivano a Cuba",
+      "url": "/esteri/650000-barili-di-petrolio-russo-arrivano-a-cuba-ad85dedf5faa01b3",
+      "id": "ad85dedf5faa01b3"
+    }
+  ]
+}
