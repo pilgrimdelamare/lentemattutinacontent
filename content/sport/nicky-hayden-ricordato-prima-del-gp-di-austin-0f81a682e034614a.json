@@ -1,0 +1,51 @@
+{
+  "id": "0f81a682e034614a",
+  "slug": "nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
+  "title": "Nicky Hayden ricordato prima del GP di Austin",
+  "titles": [
+    "Nicky Hayden ricordato prima del GP di Austin",
+    "La leggenda del Kentucky Kid torna ad Austin",
+    "La storia del campione del mondo MotoGP 2006 si ricorda ad Austin"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "MotoGP, ricordo di Nicky Hayden ad Austin",
+  "lead": "Nicky Hayden, il pilota statunitense campione del mondo MotoGP nel 2006, è stato ricordato prima del GP di Austin.",
+  "corpo1": "Nicky Hayden, noto come \"The Kentucky Kid\", è stato ricordato prima del GP di Austin. Austin è pronta ad accogliere i fan del motociclismo. Il Gran Premio degli Stati Uniti d'America è uno degli eventi più importanti del calendario MotoGP. Nicky Hayden, conosciuto anche come \"The Kentucky Kid\", ha lasciato un segno indelebile nella storia del motociclismo. La sua carriera è stata segnata da successi e momenti difficili, culminando con il titolo mondiale nel 2006.",
+  "corpo2": "Il Gran Premio di Austin è un evento importante per la città e per il mondo del motociclismo. La gara rappresenta un'opportunità per i piloti di dimostrare le loro abilità e per i fan di vivere un'esperienza emozionante. Resta da chiedersi: cosa rimane del suo lascito nel mondo del motociclismo oggi?",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T21:30:37.900308+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/52972299980_917b378621_b.jpg",
+    "source": "Flickr",
+    "credit": "veryscarygary",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Nicky Hayden ricordato prima del GP di Austin\",\n  \"description\": \"Nicky Hayden, il pilota statunitense campione del mondo MotoGP nel 2006, è stato ricordato prima del GP di Austin.\",\n  \"articleBody\": \"Nicky Hayden, il pilota statunitense campione del mondo MotoGP nel 2006, è stato ricordato prima del GP di Austin. Nicky Hayden, noto come \\\"The Kentucky Kid\\\", è stato ricordato prima del GP di Austin. Austin è pronta ad accogliere i fan del motociclismo. Il Gran Premio degli Stati Uniti d'America è uno degli eventi più importanti del calendario MotoGP. Nicky Hayden, conosciuto anche come \\\"The Kentucky Kid\\\", ha lasciato un segno indelebile nella storia del motociclismo. La sua carriera è stata segnata da successi e momenti difficili, culminando con il titolo mondiale nel 2006. Il Gran Premio di Austin è un evento importante per la città e per il mondo del motociclismo. La gara rappresenta un'opportunità per i piloti di dimostrare le loro abilità e per i fan di vivere un'esperienza emozionante. Resta da chiedersi: cosa rimane del suo lascito nel mondo del motociclismo oggi?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:30:37.900308+00:00\",\n  \"dateModified\": \"2026-03-29T21:30:37.900308+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/0f81a682e034614a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/0f81a682e034614a\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/52972299980_917b378621_b.jpg\",\n    \"creditText\": \"veryscarygary\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/moto-gp-austin-hayden-ricordo-video-1086334",
+  "related": [
+    {
+      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
+      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+      "id": "d40dc60b6099a920"
+    },
+    {
+      "title": "Guido Pini sfonda il tetto con prima vittoria a Austin",
+      "url": "/sport/guido-pini-sfonda-il-tetto-con-prima-vittoria-a-au-2cd4b7b585b9d89c",
+      "id": "2cd4b7b585b9d89c"
+    },
+    {
+      "title": "Pietro Pini vince la gara di Moto3 a Austin!",
+      "url": "/sport/pietro-pini-vince-la-gara-di-moto3-a-austin-70017c2e3a4c03f1",
+      "id": "70017c2e3a4c03f1"
+    }
+  ]
+}
