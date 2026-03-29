@@ -1,0 +1,51 @@
+{
+  "id": "1d81c4bcbd5bd640",
+  "slug": "migliaia-di-manifestanti-contro-trump-nelle-princi-1d81c4bcbd5bd640",
+  "title": "Migliaia di manifestanti contro Trump nelle principali città statunitensi",
+  "titles": [
+    "Migliaia di manifestanti contro Trump nelle principali città statunitensi",
+    "Trump sotto tiro: 10.000 protestanti chiedono la sua fine",
+    "No Kings: le proteste contro Trump conquistano le piazze statunitensi"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "Millioni di persone in strada contro Trump",
+  "lead": "Mercoledì 28 marzo 2026, a migliaia di manifestanti si sono radunati nelle principali città degli Stati Uniti per partecipare alle proteste No Kings contro l'amministrazione Trump. Le proteste sono state organizzate in risposta alle politiche del governo, che molti considerano discriminatorie e autoritarie. I manifestanti hanno chiesto la fine della politica di Trump e la promozione di valori di giustizia sociale e equità.",
+  "corpo1": "",
+  "corpo2": "La protesta No Kings è solo la più recente espressione di dissenso contro l'amministrazione Trump. Negli ultimi mesi, ci sono state molte altre proteste e manifestazioni contro le politiche del governo. Le persone stanno iniziando a capire che la politica di Trump non è solo una questione di politica, ma anche di giustizia sociale e equità. La questione è: cosa cambierà davvero queste proteste? Sarà sufficiente a fermare l'amministrazione Trump e a promuovere valori di giustizia sociale e equità? Solo tempo dirà.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T00:32:35.362969+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/34367560/pexels-photo-34367560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Stephen Leonardi",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Migliaia di manifestanti contro Trump nelle principali città statunitensi\",\n  \"description\": \"Mercoledì 28 marzo 2026, a migliaia di manifestanti si sono radunati nelle principali città degli Stati Uniti per partecipare alle proteste No Kings contro l'amministrazione Trump. Le proteste sono state organizzate in risposta alle politiche del governo, che molti considerano discriminatorie e auto\",\n  \"articleBody\": \"Mercoledì 28 marzo 2026, a migliaia di manifestanti si sono radunati nelle principali città degli Stati Uniti per partecipare alle proteste No Kings contro l'amministrazione Trump. Le proteste sono state organizzate in risposta alle politiche del governo, che molti considerano discriminatorie e autoritarie. I manifestanti hanno chiesto la fine della politica di Trump e la promozione di valori di giustizia sociale e equità. La protesta No Kings è solo la più recente espressione di dissenso contro l'amministrazione Trump. Negli ultimi mesi, ci sono state molte altre proteste e manifestazioni contro le politiche del governo. Le persone stanno iniziando a capire che la politica di Trump non è solo una questione di politica, ma anche di giustizia sociale e equità. La questione è: cosa cambierà davvero queste proteste? Sarà sufficiente a fermare l'amministrazione Trump e a promuovere valori di giustizia sociale e equità? Solo tempo dirà.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:32:35.362969+00:00\",\n  \"dateModified\": \"2026-03-29T00:32:35.362969+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/1d81c4bcbd5bd640\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/1d81c4bcbd5bd640\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/34367560/pexels-photo-34367560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Stephen Leonardi\"\n  }\n}",
+  "priority": 3,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/us-news/live/2026/mar/28/no-kings-protests-us-trump-administration-latest-updates",
+  "related": [
+    {
+      "title": "Trump a Minneapolis, 3k manifestanti",
+      "url": "/esteri/migliaia-a-minneapolis-contro-trump-gli-scontri-de-ec009c433e65ca45",
+      "id": "ec009c433e65ca45"
+    },
+    {
+      "title": "Londra contro il fascismo: domenica 3 aprile la marcia si terrà a Old Billingsga",
+      "url": "/esteri/fascismo-a-londra-nick-timothy-e-kevin-courtney-sf-576adedd6d524b1f",
+      "id": "576adedd6d524b1f"
+    },
+    {
+      "title": "Trump invia 10.000 soldati in Iran, nuova escalation",
+      "url": "/esteri/trump-invia-10000-soldati-in-iran-la-tensione-sale-05c4728cfbed343c",
+      "id": "05c4728cfbed343c"
+    }
+  ]
+}
