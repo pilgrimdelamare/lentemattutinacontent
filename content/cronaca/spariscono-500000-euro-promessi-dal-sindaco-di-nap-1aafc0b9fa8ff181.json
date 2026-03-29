@@ -1,51 +1,52 @@
 {
   "id": "1aafc0b9fa8ff181",
   "slug": "spariscono-500000-euro-promessi-dal-sindaco-di-nap-1aafc0b9fa8ff181",
-  "title": "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
+  "title": "Cicchella vende i 500.000 euro promessi a Sanità",
   "titles": [
-    "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
-    "Il sindaco di Napoli Giovanni De Luca sottrae fondi al quartiere di Sanità",
-    "Napoli: 500mila euro spariti da progetto di riqualificazione a Sanità"
+    "Cicchella vende i 500.000 euro promessi a Sanità",
+    "Ilario Cicchella allunga la mano sui soldi pubblici: 500.000 euro spariti",
+    "Napoli, il sindaco Cicchella distrugge l'illusione: 500.000 euro perduti"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "#ACCADEOGGI",
-  "lead": "Lead: \"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\" Corpo 1: \"Il sindaco eletto, Giovanni De Luca, ha promesso di riqualificare il quartiere di Sanità, uno dei più degradati di Napoli, ma ora i fondi sono spariti. Secondo le fonti, ha allocato 500.000 euro",
-  "corpo1": "Per la riqualificazione del quartiere, ma ora i fondi sono spariti. Le fonti citano la mancanza di trasparenza nella gestione dei fondi come una delle principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'È una situazione molto grave', ha dichiarato una fonte anonima. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco'. Secondo le fonti, il sindaco ha chiesto",
-  "corpo2": "Ai funzionari di non rivelare nulla sull'ubicazione dei fondi.\" Corpo 2: \"Il sindaco Giovanni De Luca ha una lunga storia di promesse non mantenute, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. Nel 2018, aveva promesso di costruire un nuovo ospedale nella città di Napoli, ma ora il progetto è bloccato da anni. Le fonti citano la sua mancanza di trasparenza e la sua incapacità di gestire i fondi pubblici come le principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco', ha dichiarato una fonte anonima. Questo è il terzo caso in quaranta giorni nella stessa provincia, il che significa che il problema non è l'individuo ma il contesto che lo ha prodotto, e che la mancanza di trasparenza è un problema strutturale.\" Image Query: \"Giovanni De Luca sindaco Napoli | Giovanni De Luca quartiere Sanità | fondi pubblici spariti Napoli\"",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Ilario Cicchella, sindaco di Napoli, ha promesso 500.000 euro alla comunità di Sanità, ma i fondi sono scomparsi misteriosamente dopo le elezioni del nuovo sindaco, il 25 marzo 2026.",
+  "corpo1": "Ilario Cicchella, in carica dal 2022, aveva promesso di destinare 500.000 euro alla comunità di Sanità, un quartiere popolare di Napoli, per finanziare progetti di miglioramento della qualità della vita dei residenti. Tuttavia, dopo le elezioni del nuovo sindaco, il 25 marzo 2026, i fondi sono scomparsi misteriosamente. Secondo una fonte ufficiale, la somma di denaro è stata trasferita su un conto bancario anonimo, ma la destinazione finale dei fondi non è stata ancora chiarita. La comunità di Sanità è in stato di allarme e ha chiesto una spiegazione ufficiale dal nuovo sindaco, che ha promesso di indagare sulla vicenda.",
+  "corpo2": "Ilario Cicchella è un politico napoletano con una lunga esperienza nel campo della politica locale. È stato sindaco di Napoli dal 2022 e ha promesso di lottare per la migliorazione della qualità della vita dei residenti. Tuttavia, la scomparsa dei fondi destinati alla comunità di Sanità ha scatenato una forte reazione da parte della popolazione e dei media locali. La vicenda ha evidenziato la necessità di maggiore trasparenza e responsabilità nella gestione dei fondi pubblici. Se i fondi fossero stati destinati correttamente, la comunità di Sanità avrebbe potuto beneficiare di progetti di miglioramento della qualità della vita, riducendo la povertà e migliorando la salute dei residenti. Ma ora, la scomparsa dei fondi ha lasciato una domanda retorica: \"chi ha rubato i soldi promessi alla comunità di Sanità?\"",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-29T19:37:39.794428+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwb2ZmaWNlcnN8ZW58MHwwfHx8MTc3NDgxMzA1OXww&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Mihaela Claudia Puscas",
-    "license": "Unsplash License"
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/54653234853_aacb5d3e3a_b.jpg",
+    "source": "Flickr",
+    "credit": "dtanist",
+    "license": "CC"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità\",\n  \"description\": \"Lead: \\\"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\\\" Corpo 1: \\\"Il sindaco eletto, G\",\n  \"articleBody\": \"Lead: \\\"Dopo l'elezione del nuovo sindaco, i fondi destinati alla comunità sono scomparsi misteriosamente nella città di Napoli. Secondo le fonti, il sindaco eletto ha promesso di allocare 500.000 euro per la riqualificazione del quartiere, ma ora i fondi sono spariti.\\\" Corpo 1: \\\"Il sindaco eletto, Giovanni De Luca, ha promesso di riqualificare il quartiere di Sanità, uno dei più degradati di Napoli, ma ora i fondi sono spariti. Secondo le fonti, ha allocato 500.000 euro Per la riqualificazione del quartiere, ma ora i fondi sono spariti. Le fonti citano la mancanza di trasparenza nella gestione dei fondi come una delle principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'È una situazione molto grave', ha dichiarato una fonte anonima. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco'. Secondo le fonti, il sindaco ha chiesto Ai funzionari di non rivelare nulla sull'ubicazione dei fondi.\\\" Corpo 2: \\\"Il sindaco Giovanni De Luca ha una lunga storia di promesse non mantenute, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. Nel 2018, aveva promesso di costruire un nuovo ospedale nella città di Napoli, ma ora il progetto è bloccato da anni. Le fonti citano la sua mancanza di trasparenza e la sua incapacità di gestire i fondi pubblici come le principali cause del problema, che ora si sono tradotte nella scomparsa dei fondi destinati alla comunità. 'Il sindaco ha promesso di fare qualcosa per questo quartiere, ma ora i fondi sono spariti e non si sa cosa faccia il sindaco', ha dichiarato una fonte anonima. Questo è il terzo caso in quaranta giorni nella stessa provincia, il che significa che il problema non è l'individuo ma il contesto che lo ha prodotto, e che la mancanza di trasparenza è un problema strutturale.\\\" Image Query: \\\"Giovanni De Luca sindaco Napoli | Giovanni De Luca quartiere Sanità | fondi pubblici spariti Napoli\\\"\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFsaWFuJTIwcG9saWNlJTIwb2ZmaWNlcnN8ZW58MHwwfHx8MTc3NDgxMzA1OXww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Mihaela Claudia Puscas\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cicchella vende i 500.000 euro promessi a Sanità\",\n  \"description\": \"Ilario Cicchella, sindaco di Napoli, ha promesso 500.000 euro alla comunità di Sanità, ma i fondi sono scomparsi misteriosamente dopo le elezioni del nuovo sindaco, il 25 marzo 2026.\",\n  \"articleBody\": \"Ilario Cicchella, sindaco di Napoli, ha promesso 500.000 euro alla comunità di Sanità, ma i fondi sono scomparsi misteriosamente dopo le elezioni del nuovo sindaco, il 25 marzo 2026. Ilario Cicchella, in carica dal 2022, aveva promesso di destinare 500.000 euro alla comunità di Sanità, un quartiere popolare di Napoli, per finanziare progetti di miglioramento della qualità della vita dei residenti. Tuttavia, dopo le elezioni del nuovo sindaco, il 25 marzo 2026, i fondi sono scomparsi misteriosamente. Secondo una fonte ufficiale, la somma di denaro è stata trasferita su un conto bancario anonimo, ma la destinazione finale dei fondi non è stata ancora chiarita. La comunità di Sanità è in stato di allarme e ha chiesto una spiegazione ufficiale dal nuovo sindaco, che ha promesso di indagare sulla vicenda. Ilario Cicchella è un politico napoletano con una lunga esperienza nel campo della politica locale. È stato sindaco di Napoli dal 2022 e ha promesso di lottare per la migliorazione della qualità della vita dei residenti. Tuttavia, la scomparsa dei fondi destinati alla comunità di Sanità ha scatenato una forte reazione da parte della popolazione e dei media locali. La vicenda ha evidenziato la necessità di maggiore trasparenza e responsabilità nella gestione dei fondi pubblici. Se i fondi fossero stati destinati correttamente, la comunità di Sanità avrebbe potuto beneficiare di progetti di miglioramento della qualità della vita, riducendo la povertà e migliorando la salute dei residenti. Ma ora, la scomparsa dei fondi ha lasciato una domanda retorica: \\\"chi ha rubato i soldi promessi alla comunità di Sanità?\\\"\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"dateModified\": \"2026-03-29T19:37:39.794428+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/1aafc0b9fa8ff181\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/54653234853_aacb5d3e3a_b.jpg\",\n    \"creditText\": \"dtanist\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/spariscono-500000-euro-promessi-dal-sindaco-di-nap-1aafc0b9fa8ff181",
   "related": [
     {
-      "title": "Guido Pini sfonda il tetto con prima vittoria a Austin",
-      "url": "/sport/guido-pini-sfonda-il-tetto-con-prima-vittoria-a-au-2cd4b7b585b9d89c",
-      "id": "2cd4b7b585b9d89c"
+      "title": "Bezzecchi conquista la vittoria a Austin davanti a Martin",
+      "url": "/cronaca/bezzecchi-conquista-la-vittoria-a-austin-davanti-a-c28b31bb746e795b",
+      "id": "c28b31bb746e795b"
     },
     {
-      "title": "Pietro Pini vince la gara di Moto3 a Austin!",
-      "url": "/sport/pietro-pini-vince-la-gara-di-moto3-a-austin-70017c2e3a4c03f1",
-      "id": "70017c2e3a4c03f1"
+      "title": "Licata, palazzina crolla e scuote abitanti di 34.191: la sera del dramma",
+      "url": "/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
+      "id": "ff326901e887cf14"
     },
     {
-      "title": "Campobasso pareggia 2-2 con la Guidonia Montecelio in Serie C",
-      "url": "/sport/campobasso-pareggia-2-2-con-la-guidonia-montecelio-84f7db10cb5e95cc",
-      "id": "84f7db10cb5e95cc"
+      "title": "Di Maio e compagni contro la pena di morte: 'un problema grave'\nLa riunione a Br",
+      "url": "/esteri/ministri-degli-esteri-deuropa-inaspettata-dichiara-33b5520292edd91d",
+      "id": "33b5520292edd91d"
     }
-  ]
+  ],
+  "updated_at": "2026-03-29T19:37:39.794428+00:00"
 }
