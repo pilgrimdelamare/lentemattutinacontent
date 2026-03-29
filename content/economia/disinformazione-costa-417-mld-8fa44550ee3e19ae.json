@@ -1,0 +1,51 @@
+{
+  "id": "8fa44550ee3e19ae",
+  "slug": "disinformazione-costa-417-mld-8fa44550ee3e19ae",
+  "title": "Disinformazione costa 417 mld",
+  "titles": [
+    "Disinformazione costa 417 mld",
+    "Sopra Steria: 417 mld persi",
+    "417 mld di danni per bugie online"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "417 MILIARDI DI EURO PERSI PER LE FAKE NEWS",
+  "lead": "Secondo uno studio di Sopra Steria, le false recensioni e le truffe hanno un impatto economico di 417 miliardi di euro, una cifra che rivela la gravità del problema della disinformazione nell'economia globale.",
+  "corpo1": "Lo studio di Sopra Steria spiega che la disinformazione è diventata un mercato parallelo che drena risorse e corrode la fiducia. l'intelligenza artificiale accelera la produzione e la distribuzione di false informazioni, rendendo ancora più difficile la lotta contro la disinformazione. secondo lo studio, le false recensioni e le truffe sono solo alcuni esempi di come la disinformazione possa avere un impatto economico significativo. la cifra di 417 miliardi di euro rappresenta una stima dell'impatto economico totale della disinformazione, e rivela la gravità del problema. lo studio di Sopra Steria è stato condotto per comprendere meglio l'impatto economico della disinformazione e per identificare possibili soluzioni per contrastarla. ",
+  "corpo2": "Il problema della disinformazione non è nuovo, ma l'avvento dell'intelligenza artificiale ha reso ancora più facile la produzione e la diffusione di false informazioni. le aziende e i governi devono lavorare insieme per sviluppare strategie efficaci per contrastare la disinformazione e proteggere i consumatori. la cifra di 417 miliardi di euro rappresenta non solo una perdita economica, ma anche un costo sociale, poiché la disinformazione può avere conseguenze negative sulla salute, sulla sicurezza e sulla democrazia. chi paga il conto di questa disinformazione sono i consumatori, le aziende e i contribuenti, che devono sopportare le conseguenze di una economia distorta dalla disinformazione. ",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-29T14:32:14.054289+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/4604607/pexels-photo-4604607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Markus Winkler",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Disinformazione costa 417 mld\",\n  \"description\": \"Secondo uno studio di Sopra Steria, le false recensioni e le truffe hanno un impatto economico di 417 miliardi di euro, una cifra che rivela la gravità del problema della disinformazione nell'economia globale.\",\n  \"articleBody\": \"Secondo uno studio di Sopra Steria, le false recensioni e le truffe hanno un impatto economico di 417 miliardi di euro, una cifra che rivela la gravità del problema della disinformazione nell'economia globale. Lo studio di Sopra Steria spiega che la disinformazione è diventata un mercato parallelo che drena risorse e corrode la fiducia. l'intelligenza artificiale accelera la produzione e la distribuzione di false informazioni, rendendo ancora più difficile la lotta contro la disinformazione. secondo lo studio, le false recensioni e le truffe sono solo alcuni esempi di come la disinformazione possa avere un impatto economico significativo. la cifra di 417 miliardi di euro rappresenta una stima dell'impatto economico totale della disinformazione, e rivela la gravità del problema. lo studio di Sopra Steria è stato condotto per comprendere meglio l'impatto economico della disinformazione e per identificare possibili soluzioni per contrastarla.  Il problema della disinformazione non è nuovo, ma l'avvento dell'intelligenza artificiale ha reso ancora più facile la produzione e la diffusione di false informazioni. le aziende e i governi devono lavorare insieme per sviluppare strategie efficaci per contrastare la disinformazione e proteggere i consumatori. la cifra di 417 miliardi di euro rappresenta non solo una perdita economica, ma anche un costo sociale, poiché la disinformazione può avere conseguenze negative sulla salute, sulla sicurezza e sulla democrazia. chi paga il conto di questa disinformazione sono i consumatori, le aziende e i contribuenti, che devono sopportare le conseguenze di una economia distorta dalla disinformazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T14:32:14.054289+00:00\",\n  \"dateModified\": \"2026-03-29T14:32:14.054289+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/8fa44550ee3e19ae\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/8fa44550ee3e19ae\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/4604607/pexels-photo-4604607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Markus Winkler\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/03/29/news/fake_news_impatto_economico_ai_false_recensioni_truffe-425251781/?rss",
+  "related": [
+    {
+      "title": "Certificazione Unica 2026, dipendenti pubblici in confusione: manca il riscatto ",
+      "url": "/economia/certificazione-unica-2026-dipendenti-pubblici-in-c-65aeec6c42cc7027",
+      "id": "65aeec6c42cc7027"
+    },
+    {
+      "title": "Agenzia Entrate: detrazione box auto anche per il secondo",
+      "url": "/economia/agenzia-entrate-detrazione-box-auto-anche-per-il-s-67984f1857a68423",
+      "id": "67984f1857a68423"
+    },
+    {
+      "title": "Busto ortopedico pagato in contanti: detrazione possibile?",
+      "url": "/economia/busto-ortopedico-pagato-in-contanti-detrazione-pos-7038d99d15a61610",
+      "id": "7038d99d15a61610"
+    }
+  ]
+}
