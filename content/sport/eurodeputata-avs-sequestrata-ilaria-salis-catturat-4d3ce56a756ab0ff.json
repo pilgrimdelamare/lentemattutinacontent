@@ -1,0 +1,52 @@
+{
+  "id": "4d3ce56a756ab0ff",
+  "slug": "eurodeputata-avs-sequestrata-ilaria-salis-catturat-4d3ce56a756ab0ff",
+  "title": "Ilaria Salis, la eurodeputata AVS, sequestrata a Roma",
+  "titles": [
+    "Ilaria Salis, la eurodeputata AVS, sequestrata a Roma",
+    "Ilaria Salis: un'arresto misterioso, nessuna spiegazione",
+    "Roma, forze dell'ordine a casa di Ilaria Salis: cosa sta succedendo?"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "ILARIA SALIS SEQUESTRATA A ROMA",
+  "lead": "",
+  "corpo1": "secondo quanto emerso, ilaria salis è stata catturata a roma senza che sia stata fornita alcuna spiegazione ufficiale sulle ragioni del sequestro. la notizia è stata resa nota nella mattinata di mercoledì 28 marzo, quando la eurodeputata di avs è stata svegliata dalle forze dell'ordine a casa sua, in roma. non sono state fornite informazioni ufficiali sulle motivazioni dell'azione delle forze dell'ordine, né sulla posizione attuale di ilaria salis.  ilaria salis è nota per il suo impegno politico all'interno del parlamento europeo, dove ha rappresentato avs su varie questioni di interesse europeo.",
+  "corpo2": "ilaria salis è una figura politica nota per il suo impegno sulle questioni ambientali e sociali, avendo lavorato a stretto contatto con vari gruppi di pressione e organizzazioni non governative durante il suo mandato come eurodeputata. la sua cattura a roma, senza una chiara spiegazione, solleva interrogativi sulla trasparenza e sulla legittimità dell'azione intrapresa dalle forze dell'ordine. il meccanismo strutturale che potrebbe aver portato a questo evento potrebbe essere legato alle tensioni politiche e alle dinamiche di potere all'interno dell'unione europea, dove le diverse forze politiche e gli interessi economici possono influenzare le decisioni prese dalle istituzioni.  ",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:36:22.943943+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31175298/pexels-photo-31175298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Uğur Hamzayev",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ilaria Salis, la eurodeputata AVS, sequestrata a Roma\",\n  \"description\": \"\",\n  \"articleBody\": \"secondo quanto emerso, ilaria salis è stata catturata a roma senza che sia stata fornita alcuna spiegazione ufficiale sulle ragioni del sequestro. la notizia è stata resa nota nella mattinata di mercoledì 28 marzo, quando la eurodeputata di avs è stata svegliata dalle forze dell'ordine a casa sua, in roma. non sono state fornite informazioni ufficiali sulle motivazioni dell'azione delle forze dell'ordine, né sulla posizione attuale di ilaria salis.  ilaria salis è nota per il suo impegno politico all'interno del parlamento europeo, dove ha rappresentato avs su varie questioni di interesse europeo. ilaria salis è una figura politica nota per il suo impegno sulle questioni ambientali e sociali, avendo lavorato a stretto contatto con vari gruppi di pressione e organizzazioni non governative durante il suo mandato come eurodeputata. la sua cattura a roma, senza una chiara spiegazione, solleva interrogativi sulla trasparenza e sulla legittimità dell'azione intrapresa dalle forze dell'ordine. il meccanismo strutturale che potrebbe aver portato a questo evento potrebbe essere legato alle tensioni politiche e alle dinamiche di potere all'interno dell'unione europea, dove le diverse forze politiche e gli interessi economici possono influenzare le decisioni prese dalle istituzioni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:36:22.943943+00:00\",\n  \"dateModified\": \"2026-03-28T16:36:22.943943+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/4d3ce56a756ab0ff\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/4d3ce56a756ab0ff\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31175298/pexels-photo-31175298.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Uğur Hamzayev\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/sport/eurodeputata-avs-sequestrata-ilaria-salis-catturat-4d3ce56a756ab0ff",
+  "related": [
+    {
+      "title": "Zaynab Dosso denuncia i disagi degli atleti a Roma",
+      "url": "/sport/atletica-roma-senza-impianti-indoor-la-denuncia-di-39f75a2a617297f5",
+      "id": "39f75a2a617297f5"
+    },
+    {
+      "title": "Polizia rimpatria cittadino accusato di abusi alessandrina",
+      "url": "/sport/finto-medico-rimpatriato-dopo-abusi-su-anziani-in-c8c5feffd268cf84",
+      "id": "c8c5feffd268cf84"
+    },
+    {
+      "title": "Di Giannantonio si conferma in cima: pole position per la seconda volta consecut",
+      "url": "/sport/di-giannantonio-si-conferma-in-cima-pole-position-f7736b95bd32b927",
+      "id": "f7736b95bd32b927"
+    }
+  ],
+  "updated_at": "2026-03-28T16:36:22.943943+00:00"
+}
