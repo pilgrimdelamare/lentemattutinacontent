@@ -1,0 +1,51 @@
+{
+  "id": "cb375f2fb150f5f4",
+  "slug": "bezzecchi-vince-a-austin-cb375f2fb150f5f4",
+  "title": "Bezzecchi vince a Austin",
+  "titles": [
+    "Bezzecchi vince a Austin",
+    "27enne italiano domina Moto2",
+    "Trionfo italiano a Texas"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BEZZECCHI VINCE IN MOTO2 AD AUSTIN",
+  "lead": "Marco Bezzecchi, 27 anni, vince il GP degli Stati Uniti nella classe Moto2, ad Austin, Texas, domenica 29 marzo 2026. Il pilota italiano precede gli spagnoli Pedro Acosta e Fermín Aldeguer, rispettivamente secondo e terzo classificato.",
+  "corpo1": "Marco Bezzecchi si è imposto nella gara di Moto2 del GP degli Stati Uniti, disputata domenica 29 marzo 2026 sul circuito di Austin, Texas. Il pilota italiano, in sella alla sua moto, ha completato i 19 giri del tracciato in 34'46.926, precedendo di 0.294 secondi lo spagnolo Pedro Acosta e di 4.071 secondi il connazionale Fermín Aldeguer. Questa vittoria rappresenta un importante risultato per Bezzecchi, che si conferma come uno dei protagonisti della classe Moto2. Secondo Acosta, \"è stato un bel lavoro, dobbiamo continuare a lavorare\". Bezzecchi ha espresso la sua emozione per la vittoria, dichiarando di aver \"sognato a lungo di vincere qui\". La gara è stata caratterizzata da un incidente che ha coinvolto il pilota spagnolo Piqueras, che è stato travolto. La vittoria di Bezzecchi è stata celebrata con l'inno italiano sul podio.",
+  "corpo2": "Marco Bezzecchi, con questa vittoria, si rafforza nella classifica generale della Moto2 e si pone come uno dei favoriti per il titolo mondiale. La sua performance ad Austin dimostra la sua abilità e la competitività della sua moto. La Moto2 è una categoria molto competitiva, con piloti di alto livello come Acosta e Aldeguer che stanno spingendo forte per ottenere risultati. La prossima gara sarà cruciale per determinare le sorti del campionato. Riuscirà Bezzecchi a mantenere la sua posizione in classifica o ci saranno nuovi colpi di scena?",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T22:16:12.221040+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55118910252_b42123223d_b.jpg",
+    "source": "Flickr",
+    "credit": "Renzopaso",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi vince a Austin\",\n  \"description\": \"Marco Bezzecchi, 27 anni, vince il GP degli Stati Uniti nella classe Moto2, ad Austin, Texas, domenica 29 marzo 2026. Il pilota italiano precede gli spagnoli Pedro Acosta e Fermín Aldeguer, rispettivamente secondo e terzo classificato.\",\n  \"articleBody\": \"Marco Bezzecchi, 27 anni, vince il GP degli Stati Uniti nella classe Moto2, ad Austin, Texas, domenica 29 marzo 2026. Il pilota italiano precede gli spagnoli Pedro Acosta e Fermín Aldeguer, rispettivamente secondo e terzo classificato. Marco Bezzecchi si è imposto nella gara di Moto2 del GP degli Stati Uniti, disputata domenica 29 marzo 2026 sul circuito di Austin, Texas. Il pilota italiano, in sella alla sua moto, ha completato i 19 giri del tracciato in 34'46.926, precedendo di 0.294 secondi lo spagnolo Pedro Acosta e di 4.071 secondi il connazionale Fermín Aldeguer. Questa vittoria rappresenta un importante risultato per Bezzecchi, che si conferma come uno dei protagonisti della classe Moto2. Secondo Acosta, \\\"è stato un bel lavoro, dobbiamo continuare a lavorare\\\". Bezzecchi ha espresso la sua emozione per la vittoria, dichiarando di aver \\\"sognato a lungo di vincere qui\\\". La gara è stata caratterizzata da un incidente che ha coinvolto il pilota spagnolo Piqueras, che è stato travolto. La vittoria di Bezzecchi è stata celebrata con l'inno italiano sul podio. Marco Bezzecchi, con questa vittoria, si rafforza nella classifica generale della Moto2 e si pone come uno dei favoriti per il titolo mondiale. La sua performance ad Austin dimostra la sua abilità e la competitività della sua moto. La Moto2 è una categoria molto competitiva, con piloti di alto livello come Acosta e Aldeguer che stanno spingendo forte per ottenere risultati. La prossima gara sarà cruciale per determinare le sorti del campionato. Riuscirà Bezzecchi a mantenere la sua posizione in classifica o ci saranno nuovi colpi di scena?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:16:12.221040+00:00\",\n  \"dateModified\": \"2026-03-29T22:16:12.221040+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/cb375f2fb150f5f4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/cb375f2fb150f5f4\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55118910252_b42123223d_b.jpg\",\n    \"creditText\": \"Renzopaso\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/29/moto-2-gp-usa-austin-gara-highlights-1086338",
+  "related": [
+    {
+      "title": "Nicky Hayden ricordato prima del GP di Austin",
+      "url": "/sport/nicky-hayden-ricordato-prima-del-gp-di-austin-0f81a682e034614a",
+      "id": "0f81a682e034614a"
+    },
+    {
+      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
+      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+      "id": "d40dc60b6099a920"
+    },
+    {
+      "title": "Treviso vince 108-103 a Sassari",
+      "url": "/sport/treviso-vince-108-103-a-sassari-510b4823dd4c60bd",
+      "id": "510b4823dd4c60bd"
+    }
+  ]
+}
