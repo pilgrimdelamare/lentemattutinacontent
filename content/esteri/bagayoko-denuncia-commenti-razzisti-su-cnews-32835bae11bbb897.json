@@ -1,0 +1,51 @@
+{
+  "id": "32835bae11bbb897",
+  "slug": "bagayoko-denuncia-commenti-razzisti-su-cnews-32835bae11bbb897",
+  "title": "Bagayoko denuncia commenti razzisti su CNews",
+  "titles": [
+    "Bagayoko denuncia commenti razzisti su CNews",
+    "Ospiti di CNews: 'Siamo stati troppo gentili con Bagayoko'",
+    "Razzismo a CNews: il sindaco di Saint-Denis chiede un 'rassemblement citoyen'"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "RACISMO SU CNEWS: IL MAIRE DI SAINT-DENIS BALLY BAGAYOKO CHIEDE UNA PROTESTA",
+  "lead": "Bally Bagayoko, il maire di Saint-Denis, ha denunciato commenti razzisti fatti su CNews, una rete televisiva del gruppo Bolloré, e ha chiesto un \"rassemblement citoyen\" in risposta.",
+  "corpo1": "Secondo quanto riportato dal giornale Le Monde, vari ospiti di CNews hanno fatto commenti considerati razzisti nei confronti del nuovo sindaco di Saint-Denis, Bally Bagayoko. Il sindaco ha quindi deciso di portare la questione all'attenzione pubblica e di chiedere una protesta pacifica contro tali dichiarazioni. La notizia, datata 30 marzo 2026, sottolinea la tensione crescente intorno alle questioni di razza e discriminazione in Francia. Il caso ha sollevato un dibattito nazionale sul razzismo e sulla libertà di espressione nei media.",
+  "corpo2": "Bally Bagayoko, come sindaco di Saint-Denis, rappresenta una figura importante nella lotta contro il razzismo e la discriminazione in Francia. La sua richiesta di un \"rassemblement citoyen\" è un appello diretto ai cittadini per mobilitarsi contro tali forme di espressione. Il caso solleva questioni più ampie sulla responsabilità dei media e sulla necessità di regolamentare il discorso pubblico per prevenire la diffusione di odio e discriminazione. La risposta del pubblico e delle autorità a questo appello sarà cruciale per capire come la società francese intende affrontare il razzismo e promuovere un discorso pubblico più inclusivo e rispettoso. Quali misure concrete adotterà il governo per contrastare il razzismo sui media e garantire che le voci delle minoranze siano ascoltate e rispettate?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-29T22:32:01.177520+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55150086368_ba3044b567_b.jpg",
+    "source": "Flickr",
+    "credit": "paquierjacques",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bagayoko denuncia commenti razzisti su CNews\",\n  \"description\": \"Bally Bagayoko, il maire di Saint-Denis, ha denunciato commenti razzisti fatti su CNews, una rete televisiva del gruppo Bolloré, e ha chiesto un \\\"rassemblement citoyen\\\" in risposta.\",\n  \"articleBody\": \"Bally Bagayoko, il maire di Saint-Denis, ha denunciato commenti razzisti fatti su CNews, una rete televisiva del gruppo Bolloré, e ha chiesto un \\\"rassemblement citoyen\\\" in risposta. Secondo quanto riportato dal giornale Le Monde, vari ospiti di CNews hanno fatto commenti considerati razzisti nei confronti del nuovo sindaco di Saint-Denis, Bally Bagayoko. Il sindaco ha quindi deciso di portare la questione all'attenzione pubblica e di chiedere una protesta pacifica contro tali dichiarazioni. La notizia, datata 30 marzo 2026, sottolinea la tensione crescente intorno alle questioni di razza e discriminazione in Francia. Il caso ha sollevato un dibattito nazionale sul razzismo e sulla libertà di espressione nei media. Bally Bagayoko, come sindaco di Saint-Denis, rappresenta una figura importante nella lotta contro il razzismo e la discriminazione in Francia. La sua richiesta di un \\\"rassemblement citoyen\\\" è un appello diretto ai cittadini per mobilitarsi contro tali forme di espressione. Il caso solleva questioni più ampie sulla responsabilità dei media e sulla necessità di regolamentare il discorso pubblico per prevenire la diffusione di odio e discriminazione. La risposta del pubblico e delle autorità a questo appello sarà cruciale per capire come la società francese intende affrontare il razzismo e promuovere un discorso pubblico più inclusivo e rispettoso. Quali misure concrete adotterà il governo per contrastare il razzismo sui media e garantire che le voci delle minoranze siano ascoltate e rispettate?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T22:32:01.177520+00:00\",\n  \"dateModified\": \"2026-03-29T22:32:01.177520+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/32835bae11bbb897\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/32835bae11bbb897\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55150086368_ba3044b567_b.jpg\",\n    \"creditText\": \"paquierjacques\"\n  }\n}",
+  "priority": 3,
+  "source": "Le Monde",
+  "source_type": "esteri",
+  "original_url": "https://www.lemonde.fr/politique/article/2026/03/30/racisme-sur-cnews-le-maire-de-saint-denis-bally-bagayoko-appelle-a-un-rassemblement-citoyen_6675271_823448.html",
+  "related": [
+    {
+      "title": "Casco blu ucciso in Libano",
+      "url": "/esteri/casco-blu-ucciso-in-libano-207d9907792ae095",
+      "id": "207d9907792ae095"
+    },
+    {
+      "title": "Israele, via libera alla pena di morte per i terroristi: 39 sì e 16 no in Knesse",
+      "url": "/esteri/israele-ue-condanna-pena-di-morte-de7aa78ec23edfcb",
+      "id": "de7aa78ec23edfcb"
+    },
+    {
+      "title": "Cory Booker sfida Trump con record di discorso",
+      "url": "/esteri/cory-booker-lamerica-democratica-e-fallita-17d9edbc6ac9d0db",
+      "id": "17d9edbc6ac9d0db"
+    }
+  ]
+}
