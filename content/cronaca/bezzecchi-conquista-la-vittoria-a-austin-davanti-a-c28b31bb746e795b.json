@@ -1,0 +1,51 @@
+{
+  "id": "c28b31bb746e795b",
+  "slug": "bezzecchi-conquista-la-vittoria-a-austin-davanti-a-c28b31bb746e795b",
+  "title": "Bezzecchi conquista la vittoria a Austin davanti a Martin",
+  "titles": [
+    "Bezzecchi conquista la vittoria a Austin davanti a Martin",
+    "Il trionfo di Bezzecchi: la gara che lo ha portato al successo",
+    "Il pilota italiano scardina l'ordine del podio a Austin"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "BEZZECCHI TRIONFA AUSTIN",
+  "lead": "Marco Bezzecchi ha vinto la gara di MotoGP a Austin, Texas, davanti a Joan Martin, mentre Augusto Acosta ha completato il podio su Ktm. Quinto Marc Marquez, decimo Francesco Bagnaia.",
+  "corpo1": "ha dimostrato la sua competitività nel mondiale. Acosta su Ktm ha completato il podio, mentre Marc Marquez, pilota spagnolo della squadra Repsol Honda, è arrivato quinto. Francesco Bagnaia, pilota italiano della squadra Ducati, è arrivato decimo. La gara è stata caratterizzata da una lotta intensa per la vittoria, con Bezzecchi che ha saputo mantenere la sua avanti e conquistare la vittoria. Marco Bezzecchi, 25 anni, è un pilota italiano di MotoGP",
+  "corpo2": "che corre per la squadra Aprilia Racing. Ha debuttato nel mondiale di MotoGP nel 2020 e ha già conquistato diversi podi e vittorie in carriera. Con questa vittoria a Austin, Bezzecchi si è confermato uno dei piloti più forti del mondiale e si prepara a sfidare i suoi concorrenti in futuro. La vittoria di Bezzecchi è anche un successo per la squadra Aprilia Racing, che ha conquistato la sua prima vittoria in MotoGP dopo molti anni. Questa vittoria dimostra che la squadra italiana è ancora una forza da non sottovalutare nel mondiale di MotoGP. Ma cosa cambia davvero con questa vittoria? La risposta è semplice: Bezzecchi è diventato un pilota da temere e la squadra Aprilia Racing è tornata a essere una forza da non sottovalutare nel mondiale di MotoGP. Ecco perché questa vittoria è così importante per l'Italia e per il mondo della MotoGP.",
+  "journalist": {
+    "id": "roberto_neri_01",
+    "firma": "Roberto Neri",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-03-29T21:30:55.852172+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marco_di_battista.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Fbcmnr at Italian Wikipedia",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bezzecchi conquista la vittoria a Austin davanti a Martin\",\n  \"description\": \"Marco Bezzecchi ha vinto la gara di MotoGP a Austin, Texas, davanti a Joan Martin, mentre Augusto Acosta ha completato il podio su Ktm. Quinto Marc Marquez, decimo Francesco Bagnaia.\",\n  \"articleBody\": \"Marco Bezzecchi ha vinto la gara di MotoGP a Austin, Texas, davanti a Joan Martin, mentre Augusto Acosta ha completato il podio su Ktm. Quinto Marc Marquez, decimo Francesco Bagnaia. ha dimostrato la sua competitività nel mondiale. Acosta su Ktm ha completato il podio, mentre Marc Marquez, pilota spagnolo della squadra Repsol Honda, è arrivato quinto. Francesco Bagnaia, pilota italiano della squadra Ducati, è arrivato decimo. La gara è stata caratterizzata da una lotta intensa per la vittoria, con Bezzecchi che ha saputo mantenere la sua avanti e conquistare la vittoria. Marco Bezzecchi, 25 anni, è un pilota italiano di MotoGP che corre per la squadra Aprilia Racing. Ha debuttato nel mondiale di MotoGP nel 2020 e ha già conquistato diversi podi e vittorie in carriera. Con questa vittoria a Austin, Bezzecchi si è confermato uno dei piloti più forti del mondiale e si prepara a sfidare i suoi concorrenti in futuro. La vittoria di Bezzecchi è anche un successo per la squadra Aprilia Racing, che ha conquistato la sua prima vittoria in MotoGP dopo molti anni. Questa vittoria dimostra che la squadra italiana è ancora una forza da non sottovalutare nel mondiale di MotoGP. Ma cosa cambia davvero con questa vittoria? La risposta è semplice: Bezzecchi è diventato un pilota da temere e la squadra Aprilia Racing è tornata a essere una forza da non sottovalutare nel mondiale di MotoGP. Ecco perché questa vittoria è così importante per l'Italia e per il mondo della MotoGP.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T21:30:55.852172+00:00\",\n  \"dateModified\": \"2026-03-29T21:30:55.852172+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/c28b31bb746e795b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/c28b31bb746e795b\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/d/d7/Marco_di_battista.jpg\",\n    \"creditText\": \"Fbcmnr at Italian Wikipedia\"\n  }\n}",
+  "priority": 4,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/sport/moto-gp/2026/03/29/news/motogp_bezzecchi_vince_gp_austin_2026-425252332/",
+  "related": [
+    {
+      "title": "Licata, palazzina crolla e scuote abitanti di 34.191: la sera del dramma",
+      "url": "/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
+      "id": "ff326901e887cf14"
+    },
+    {
+      "title": "Spariscono 500.000 euro promessi dal sindaco di Napoli a Sanità",
+      "url": "/cronaca/spariscono-500000-euro-promessi-dal-sindaco-di-nap-1aafc0b9fa8ff181",
+      "id": "1aafc0b9fa8ff181"
+    },
+    {
+      "title": "Guido Pini fa impazzire il pubblico con vittoria in Moto3 a Austin!",
+      "url": "/sport/guido-pini-fa-impazzire-il-pubblico-con-vittoria-i-d40dc60b6099a920",
+      "id": "d40dc60b6099a920"
+    }
+  ]
+}
