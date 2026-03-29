@@ -1,0 +1,51 @@
+{
+  "id": "e0282a8857133ba2",
+  "slug": "attacco-a-ospedale-a-odessa-2-morti-e-11-feriti-e0282a8857133ba2",
+  "title": "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
+  "titles": [
+    "Attacco a ospedale a Odessa: 2 morti e 11 feriti",
+    "Zelensky denuncia: 'Puro terrorismo contro civili'",
+    "USA pronti a dirottare armi a Kiev, tensione nel G7"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "OSPEDALE DI MATERNO COLPITO",
+  "lead": "Volodymyr Zelensky ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e undici ferite, fra cui un bambino, durante un raid delle forze di Mosca il 28 marzo 2026.",
+  "corpo1": "il presidente dell'Ucraina Volodymyr Zelensky ha definito l'attacco \"puro terrorismo contro la popolazione civile\", sottolineando che non c'era alcuno scopo militare. l'attacco è avvenuto mentre zelensky si trovava in qatar per firmare un accordo di cooperazione sulla difesa. nel frattempo, il segretario di stato usa ha affermato che il presidente dell'Ucraina \"mente su garanzie di sicurezza, non dipendono dal ritiro dal Dombass\". gli Stati Uniti hanno inoltre annunciato di non escludere la possibilità di dirottare le armi destinate a kiev. queste dichiarazioni sono state fatte durante un momento di tensione alla riunione del g7, dove è emerso uno scontro tra Kallas e Rubio. secondo quanto riferito, trump è pronto al ritiro usa dall'europa.",
+  "corpo2": "Volodymyr Zelensky, presidente dell'ucraina dal 2019, ha sempre mantenuto una posizione ferma contro l'aggressione russa. la sua visita in qatar per firmare un accordo di cooperazione sulla difesa è un ulteriore passo per rafforzare le relazioni con paesi alleati. il meccanismo strutturale che spiega la notizia è la continua escalation del conflitto tra ucraina e russa, con gli Stati Uniti che giocano un ruolo chiave nella fornitura di armi e sostegno alla parte ucraina. ciò che cambia davvero in questa vicenda è la percezione internazionale del conflitto e la posizione degli Stati Uniti, che sembrano voler rivedere la loro strategia di sostegno all'ucraina. cosa significa per il futuro dell'ucraina e per la stabilità dell'europa se gli Stati Uniti decidono di dirottare le armi destinate a kiev?",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-28T18:23:20.118632+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/31583097/pexels-photo-31583097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ramaz Bluashvili",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Attacco a ospedale a Odessa: 2 morti e 11 feriti\",\n  \"description\": \"Volodymyr Zelensky ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e undici ferite, fra cui un bambino, durante un raid delle forze di Mosca il 28 marzo 2026.\",\n  \"articleBody\": \"Volodymyr Zelensky ha denunciato l'attacco a un ospedale ostetrico di Odessa, dove due persone sono rimaste uccise e undici ferite, fra cui un bambino, durante un raid delle forze di Mosca il 28 marzo 2026. il presidente dell'Ucraina Volodymyr Zelensky ha definito l'attacco \\\"puro terrorismo contro la popolazione civile\\\", sottolineando che non c'era alcuno scopo militare. l'attacco è avvenuto mentre zelensky si trovava in qatar per firmare un accordo di cooperazione sulla difesa. nel frattempo, il segretario di stato usa ha affermato che il presidente dell'Ucraina \\\"mente su garanzie di sicurezza, non dipendono dal ritiro dal Dombass\\\". gli Stati Uniti hanno inoltre annunciato di non escludere la possibilità di dirottare le armi destinate a kiev. queste dichiarazioni sono state fatte durante un momento di tensione alla riunione del g7, dove è emerso uno scontro tra Kallas e Rubio. secondo quanto riferito, trump è pronto al ritiro usa dall'europa. Volodymyr Zelensky, presidente dell'ucraina dal 2019, ha sempre mantenuto una posizione ferma contro l'aggressione russa. la sua visita in qatar per firmare un accordo di cooperazione sulla difesa è un ulteriore passo per rafforzare le relazioni con paesi alleati. il meccanismo strutturale che spiega la notizia è la continua escalation del conflitto tra ucraina e russa, con gli Stati Uniti che giocano un ruolo chiave nella fornitura di armi e sostegno alla parte ucraina. ciò che cambia davvero in questa vicenda è la percezione internazionale del conflitto e la posizione degli Stati Uniti, che sembrano voler rivedere la loro strategia di sostegno all'ucraina. cosa significa per il futuro dell'ucraina e per la stabilità dell'europa se gli Stati Uniti decidono di dirottare le armi destinate a kiev?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T18:23:20.118632+00:00\",\n  \"dateModified\": \"2026-03-28T18:23:20.118632+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/e0282a8857133ba2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/e0282a8857133ba2\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31583097/pexels-photo-31583097.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ramaz Bluashvili\"\n  }\n}",
+  "priority": 7,
+  "source": "Redazione",
+  "source_type": "competitor_gap",
+  "original_url": "https://www.repubblica.it/esteri/2026/03/28/diretta/guerra_ucraina_russia_news_oggi-425249289/",
+  "related": [
+    {
+      "title": "Odessa colpita: 2 morti e 12 feriti in un attacco aereo russo alle 12.05.33",
+      "url": "/esteri/russia-uccide-due-e-ferisce-dodici-a-odessa-8a919a5d0d32a5e8",
+      "id": "8a919a5d0d32a5e8"
+    },
+    {
+      "title": "12 feriti in Arabia Saudita dopo attacco alla base statunitense di Khamis Mushay",
+      "url": "/esteri/12-feriti-in-attacco-a-base-usa-in-arabia-saudita-f87e73ab788b5e74",
+      "id": "f87e73ab788b5e74"
+    },
+    {
+      "title": "ATTACCO IRANIANO AD ABU DHABI",
+      "url": "/esteri/attacco-iraniano-ad-abu-dhabi-705624ef2e219ace",
+      "id": "705624ef2e219ace"
+    }
+  ]
+}
