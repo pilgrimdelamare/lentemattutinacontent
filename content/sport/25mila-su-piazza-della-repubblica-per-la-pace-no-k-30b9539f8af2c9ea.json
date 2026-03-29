@@ -1,0 +1,52 @@
+{
+  "id": "30b9539f8af2c9ea",
+  "slug": "25mila-su-piazza-della-repubblica-per-la-pace-no-k-30b9539f8af2c9ea",
+  "title": "Notizia in primo piano",
+  "titles": [
+    "Notizia in primo piano",
+    "Notizia in primo piano",
+    "Notizia in primo piano"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "",
+  "lead": "25mila persone si sono radunate in piazza della Repubblica a Roma per sostenere la pace e manifestare contro la guerra, secondo quanto riportato da ANSA il 28 marzo. La manifestazione si è svolta in un clima pacifico e sereno, con partecipanti di tutte le età",
+  "corpo1": "la partecipazione di oltre 25mila persone, secondo i dati forniti dal comune di Roma. La piazza della Repubblica è stata piena di cartelli e striscioni con messaggi di pace e non violenza, mentre gli organizzatori hanno chiesto la fine delle guerre e la creazione di un mondo più giusto e equo. \"Non vogliamo più vedere morti e sofferenze\", ha dichiarato Ilaria Salis, europarlamentare e leader del movimento \"No Kings Italy\"",
+  "corpo2": "Italy\", durante la manifestazione. \"Vogliamo un mondo senza guerra, senza violenza e senza discriminazione\". La manifestazione è stata seguita da numerosi giornalisti e fotografi, che hanno catturato immagini della scena. Il movimento \"No Kings Italy\" è stato fondato due anni fa da una gruppo di cittadini che si sono uniti per promuovere la pace e la non violenza. La manifestazione di ieri è stata la più grande di sempre, e ha rappresentato un momento importante per la comunità italiana. \"Siamo felici di vedere così tante persone uniti per una causa comune\", ha dichiarato Salis. \"Speriamo che questo sia solo l'inizio di un movimento più grande che possa cambiare il mondo\". La manifestazione ha anche attirato l'attenzione dei media internazionali, con articoli pubblicati su giornali e siti web di tutto il mondo. ",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-28T16:29:01.679054+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kings_%281%29.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "Simon Cobb",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Notizia in primo piano\",\n  \"description\": \"25mila persone si sono radunate in piazza della Repubblica a Roma per sostenere la pace e manifestare contro la guerra, secondo quanto riportato da ANSA il 28 marzo. La manifestazione si è svolta in un clima pacifico e sereno, con partecipanti di tutte le età\",\n  \"articleBody\": \"25mila persone si sono radunate in piazza della Repubblica a Roma per sostenere la pace e manifestare contro la guerra, secondo quanto riportato da ANSA il 28 marzo. La manifestazione si è svolta in un clima pacifico e sereno, con partecipanti di tutte le età la partecipazione di oltre 25mila persone, secondo i dati forniti dal comune di Roma. La piazza della Repubblica è stata piena di cartelli e striscioni con messaggi di pace e non violenza, mentre gli organizzatori hanno chiesto la fine delle guerre e la creazione di un mondo più giusto e equo. \\\"Non vogliamo più vedere morti e sofferenze\\\", ha dichiarato Ilaria Salis, europarlamentare e leader del movimento \\\"No Kings Italy\\\" Italy\\\", durante la manifestazione. \\\"Vogliamo un mondo senza guerra, senza violenza e senza discriminazione\\\". La manifestazione è stata seguita da numerosi giornalisti e fotografi, che hanno catturato immagini della scena. Il movimento \\\"No Kings Italy\\\" è stato fondato due anni fa da una gruppo di cittadini che si sono uniti per promuovere la pace e la non violenza. La manifestazione di ieri è stata la più grande di sempre, e ha rappresentato un momento importante per la comunità italiana. \\\"Siamo felici di vedere così tante persone uniti per una causa comune\\\", ha dichiarato Salis. \\\"Speriamo che questo sia solo l'inizio di un movimento più grande che possa cambiare il mondo\\\". La manifestazione ha anche attirato l'attenzione dei media internazionali, con articoli pubblicati su giornali e siti web di tutto il mondo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:29:01.679054+00:00\",\n  \"dateModified\": \"2026-03-28T16:29:01.679054+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/30b9539f8af2c9ea\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/30b9539f8af2c9ea\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/b/b2/Kings_%281%29.jpg\",\n    \"creditText\": \"Simon Cobb\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/sport/25mila-su-piazza-della-repubblica-per-la-pace-no-k-30b9539f8af2c9ea",
+  "related": [
+    {
+      "title": "Giuseppe Tango eletto presidente ANM: cosa cambia per la giustizia italiana",
+      "url": "/sport/giuseppe-tango-43-e-il-nuovo-presidente-dellanm-0eccecb07f67dd9d",
+      "id": "0eccecb07f67dd9d"
+    },
+    {
+      "title": "Donna cade in pozzo a Roma: 1 ora per salvarla",
+      "url": "/sport/donna-salvata-dai-vigili-dopo-caduta-nel-pozzo-non-f531476a63b94548",
+      "id": "f531476a63b94548"
+    },
+    {
+      "title": "300mila italiani si mobilitano contro la scomparsa di fondi pubblici a Roma",
+      "url": "/sport/300mila-persone-in-piazza-per-chiedere-giustizia-f3e15b6e94b440a2",
+      "id": "f3e15b6e94b440a2"
+    }
+  ],
+  "updated_at": "2026-03-28T16:29:01.679054+00:00"
+}
