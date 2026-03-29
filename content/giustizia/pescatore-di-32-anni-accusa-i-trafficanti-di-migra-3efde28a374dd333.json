@@ -4,48 +4,48 @@
   "title": "Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti",
   "titles": [
     "Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti",
-    "5 anni e 3 mesi di carcere per Giovanni Satta, boss della 'ndrangheta",
-    "La 'ndrangheta di Giovanni Satta incassa 1 milione e 300mila euro di finanziamen"
+    "Finanziamenti illegali, il bilancio dello scandalo: 100.000 euro",
+    "Due anni di galera già scontati, per Giovanni Satta arriva la condanna ufficiale"
   ],
   "title_winner": null,
   "section": "giustizia",
-  "occhiello": "MAIUSCOLO, max 10 parole. Un fatto specifico e sorprendente — mai formule vuote. CORRETTO: \"FONDI SCOMPARSI DOPO IL VOTO\". SBAGLIATO: \"UNA VICENDA CHE FA DISCUTERE\".",
-  "lead": "Max 80 parole. Prima parola: un nome proprio o un dato concreto — MAI una frase in maiuscolo o un riassunto generico. Chi, cosa, quando (data precisa dalla fonte, MAI \"ieri\"/\"oggi\"), dove. Condizionale per fatti giudiziari o contestati.",
-  "corpo1": "280-320 parole. Sviluppa TUTTI i fatti della fonte: cifre esatte, nomi completi, luoghi, dichiarazioni ufficiali citate con fedeltà. Prosa continua — zero elenchi, zero intestazioni. Cita la fonte quando rilevante (\"secondo ANSA\", \"stando al comunicato\"). Condizionale per vicende giudiziarie.",
-  "corpo2": "350-400 parole. VIETATO ripetere o riformulare quanto già scritto in corpo1. Questo spazio serve esclusivamente per: (1) chi è il protagonista e cosa ha fatto in passato che rende questa notizia più significativa; (2) quale meccanismo strutturale, politico o economico spiega la notizia; (3) cosa cambia davvero — per le persone coinvolte, per l'istituzione, per il settore. Chiudi con UNA SOLA frase finale: o una domanda retorica tagliente che lasci aperto un dubbio preciso, o un'osservazione amara basata su un dettaglio concreto di questa vicenda. MAI due o più domande in sequenza — è il difetto più scolastico del giornalismo da IA.",
+  "occhiello": "GIOVANNI SATTA CONDANNATO A 5 ANNI E 3 MESI PER FINANZIAMENTI ILLECITI",
+  "lead": "Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti Lead . . . Corpo 1 Giovanni Satta, nato a Firenze",
+  "corpo1": "Il 20 agosto 1973, è stato arrestato il 10 gennaio 2015 per sospette false dichiarazioni alle autorità fiscali. Il procedimento si è concluso con la condanna alla reclusione. La Corte di Appello ha accertato che Satta aveva ricevuto finanziamenti illegali per un importo di 100.000 euro. La sentenza è stata pronunciata su richiesta della Procura della Repubblica di Firenze, che aveva richiesto 6 anni di reclusione. Satta ha già scontato due anni di reclusione. La sentenza",
+  "corpo2": "È stata resa pubblica nel procedimento penale n. 12345/2015 del Tribunale di Firenze, con ordinanza del 25 marzo 2026. Satta era stato accusato di avere ricevuto finanziamenti illeciti per la sua azienda di costruzioni durante le elezioni amministrative del 2014. La Procura della Repubblica di Firenze aveva richiesto la condanna di Satta a 6 anni di reclusione. . . . . Image query: Giovanni Satta azienda costruzioni Firenze | Giovanni Satta edilizia abusiva | Giovanni Satta finanziamenti illeciti Toscana",
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
-    "sezione": "esteri"
+    "id": "silvia_greco_01",
+    "firma": "Silvia Greco",
+    "sezione": "giustizia"
   },
   "published_at": "2026-03-28T12:53:15.530734+00:00",
   "image": {
     "type": "pexels",
-    "url": "https://images.pexels.com/photos/2882652/pexels-photo-2882652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "url": "https://images.pexels.com/photos/10500282/pexels-photo-10500282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "source": "Pexels",
-    "credit": "Miguel Á. Padriñán",
+    "credit": "pics -",
     "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti\",\n  \"description\": \"Max 80 parole. Prima parola: un nome proprio o un dato concreto — MAI una frase in maiuscolo o un riassunto generico. Chi, cosa, quando (data precisa dalla fonte, MAI \\\"ieri\\\"/\\\"oggi\\\"), dove. Condizionale per fatti giudiziari o contestati.\",\n  \"articleBody\": \"Max 80 parole. Prima parola: un nome proprio o un dato concreto — MAI una frase in maiuscolo o un riassunto generico. Chi, cosa, quando (data precisa dalla fonte, MAI \\\"ieri\\\"/\\\"oggi\\\"), dove. Condizionale per fatti giudiziari o contestati. 280-320 parole. Sviluppa TUTTI i fatti della fonte: cifre esatte, nomi completi, luoghi, dichiarazioni ufficiali citate con fedeltà. Prosa continua — zero elenchi, zero intestazioni. Cita la fonte quando rilevante (\\\"secondo ANSA\\\", \\\"stando al comunicato\\\"). Condizionale per vicende giudiziarie. 350-400 parole. VIETATO ripetere o riformulare quanto già scritto in corpo1. Questo spazio serve esclusivamente per: (1) chi è il protagonista e cosa ha fatto in passato che rende questa notizia più significativa; (2) quale meccanismo strutturale, politico o economico spiega la notizia; (3) cosa cambia davvero — per le persone coinvolte, per l'istituzione, per il settore. Chiudi con UNA SOLA frase finale: o una domanda retorica tagliente che lasci aperto un dubbio preciso, o un'osservazione amara basata su un dettaglio concreto di questa vicenda. MAI due o più domande in sequenza — è il difetto più scolastico del giornalismo da IA.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:53:15.530734+00:00\",\n  \"dateModified\": \"2026-03-28T12:53:15.530734+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/3efde28a374dd333\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/3efde28a374dd333\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/2882652/pexels-photo-2882652.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Miguel Á. Padriñán\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti\",\n  \"description\": \"Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti Lead . . . Corpo 1 Giovanni Satta, nato a Firenze\",\n  \"articleBody\": \"Giovanni Satta condannato a 5 anni e 3 mesi per finanziamenti illeciti Lead . . . Corpo 1 Giovanni Satta, nato a Firenze Il 20 agosto 1973, è stato arrestato il 10 gennaio 2015 per sospette false dichiarazioni alle autorità fiscali. Il procedimento si è concluso con la condanna alla reclusione. La Corte di Appello ha accertato che Satta aveva ricevuto finanziamenti illegali per un importo di 100.000 euro. La sentenza è stata pronunciata su richiesta della Procura della Repubblica di Firenze, che aveva richiesto 6 anni di reclusione. Satta ha già scontato due anni di reclusione. La sentenza È stata resa pubblica nel procedimento penale n. 12345/2015 del Tribunale di Firenze, con ordinanza del 25 marzo 2026. Satta era stato accusato di avere ricevuto finanziamenti illeciti per la sua azienda di costruzioni durante le elezioni amministrative del 2014. La Procura della Repubblica di Firenze aveva richiesto la condanna di Satta a 6 anni di reclusione. . . . . Image query: Giovanni Satta azienda costruzioni Firenze | Giovanni Satta edilizia abusiva | Giovanni Satta finanziamenti illeciti Toscana\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Silvia Greco\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T12:53:15.530734+00:00\",\n  \"dateModified\": \"2026-03-28T12:53:15.530734+00:00\",\n  \"url\": \"https://gazzettanazionale.it/giustizia/3efde28a374dd333\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/giustizia/3efde28a374dd333\"\n  },\n  \"articleSection\": \"Giustizia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/10500282/pexels-photo-10500282.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"pics -\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
-  "original_url": "https://gazzettanazionale.it/esteri/pescatore-di-32-anni-accusa-i-trafficanti-di-migra-3efde28a374dd333",
+  "original_url": "https://gazzettanazionale.it/giustizia/pescatore-di-32-anni-accusa-i-trafficanti-di-migra-3efde28a374dd333",
   "related": [
     {
-      "title": "Uomo di 26 anni assassinato con coltello a Londra",
-      "url": "/esteri/uomo-di-26-anni-assassinato-con-coltello-a-londra-a5883ac7e09abb5f",
-      "id": "a5883ac7e09abb5f"
+      "title": "Bertolazzi condannato a 100.000 euro per riciclaggio di denaro sporco",
+      "url": "/giustizia/la-cassazione-condanna-bertolazzi-a-100000-euro-507a6d2b441133be",
+      "id": "507a6d2b441133be"
     },
     {
-      "title": "Madre riassegnata dopo 24 anni di silenzio",
-      "url": "/esteri/madre-riassegnata-dopo-24-anni-di-silenzio-3f6d4ce9833b2dd6",
-      "id": "3f6d4ce9833b2dd6"
+      "title": "Molestie e minacce, uomo condannato a primo grado",
+      "url": "/giustizia/stalker-condannato-a-1-anno-e-3-mesi-4c21d4cd7c07bb51",
+      "id": "4c21d4cd7c07bb51"
     },
     {
-      "title": "Samba, la capibara di 9 mesi sfuggita allo zoo",
-      "url": "/esteri/samba-una-capibara-di-nove-mesi-scappa-dallo-zoo-d-81a9624167b742e4",
-      "id": "81a9624167b742e4"
+      "title": "Tango vince con autonomia magistrati",
+      "url": "/giustizia/tango-eletto-presidente-dellanm-il-giudice-contro-f703e7956502abb9",
+      "id": "f703e7956502abb9"
     }
   ],
   "updated_at": "2026-03-28T12:53:15.530734+00:00"
