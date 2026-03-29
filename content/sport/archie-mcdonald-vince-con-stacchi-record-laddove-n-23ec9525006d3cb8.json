@@ -1,0 +1,51 @@
+{
+  "id": "23ec9525006d3cb8",
+  "slug": "archie-mcdonald-vince-con-stacchi-record-laddove-n-23ec9525006d3cb8",
+  "title": "Archie McDonald vince con stacchi record laddove non era mai riuscito",
+  "titles": [
+    "Archie McDonald vince con stacchi record laddove non era mai riuscito",
+    "Bagger World Cup: il McDonald Show esplode ad Austin, Texas! ",
+    "La vittoria di Archie McDonald fa tremare la classifica della Bagger World Cup"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "McDonald vince la prima gara dell'Harley-Davidson Bagger World Cup",
+  "lead": "Archie McDonald ha vinto la prima gara della storica Bagger World Cup ad Austin, Texas, con quasi dieci secondi di vantaggio su Jake Lewis. Il terzo posto è stato conquistato da Rovelli, l'unico pilota azzurro iscritto alla nuova categoria.",
+  "corpo1": "",
+  "corpo2": "Archie McDonald è un pilota australiano che ha già dimostrato di essere uno dei migliori della categoria. Ha vinto varie gare nella sua carriera e ha conquistato numerosi titoli. È considerato uno dei più forti della Bagger World Cup e la sua vittoria nella prima gara è stata una conferma della sua esperienza e della sua abilità.\n\n  La gara è stata anche un'opportunità per i piloti di dimostrare la loro abilità e la loro esperienza nella categoria.\n\n La gara sarà trasmessa in diretta su Sky Sport Max e in streaming su NOW e sarà possibile assistere alla prestazione dei piloti da ogni angolo della pista.\n\n È stato un evento importante per il mondo del motociclismo e ha dimostrato la potenza e la capacità delle Harley-Davidson Bagger.  ",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T00:25:59.107835+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/16730978/pexels-photo-16730978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Rodrigo Gabotto",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Archie McDonald vince con stacchi record laddove non era mai riuscito\",\n  \"description\": \"Archie McDonald ha vinto la prima gara della storica Bagger World Cup ad Austin, Texas, con quasi dieci secondi di vantaggio su Jake Lewis. Il terzo posto è stato conquistato da Rovelli, l'unico pilota azzurro iscritto alla nuova categoria.\",\n  \"articleBody\": \"Archie McDonald ha vinto la prima gara della storica Bagger World Cup ad Austin, Texas, con quasi dieci secondi di vantaggio su Jake Lewis. Il terzo posto è stato conquistato da Rovelli, l'unico pilota azzurro iscritto alla nuova categoria. Archie McDonald è un pilota australiano che ha già dimostrato di essere uno dei migliori della categoria. Ha vinto varie gare nella sua carriera e ha conquistato numerosi titoli. È considerato uno dei più forti della Bagger World Cup e la sua vittoria nella prima gara è stata una conferma della sua esperienza e della sua abilità.\\n\\n  La gara è stata anche un'opportunità per i piloti di dimostrare la loro abilità e la loro esperienza nella categoria.\\n\\n La gara sarà trasmessa in diretta su Sky Sport Max e in streaming su NOW e sarà possibile assistere alla prestazione dei piloti da ogni angolo della pista.\\n\\n È stato un evento importante per il mondo del motociclismo e ha dimostrato la potenza e la capacità delle Harley-Davidson Bagger.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:25:59.107835+00:00\",\n  \"dateModified\": \"2026-03-29T00:25:59.107835+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/23ec9525006d3cb8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/23ec9525006d3cb8\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/16730978/pexels-photo-16730978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Rodrigo Gabotto\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/28/bagger-world-cup-austin-gara-1-ultimo-giro-video-1086099",
+  "related": [
+    {
+      "title": "Antonelli in pole a Suzuka, 1:29.321 il tempo record",
+      "url": "/sport/antonelli-in-pole-position-al-gp-giappone-russell-9b73a711acd55a22",
+      "id": "9b73a711acd55a22"
+    },
+    {
+      "title": "Azzurri si riscattano con 2-2 contro l'Islanda",
+      "url": "/sport/azzurri-si-riscattano-con-2-2-contro-lislanda-80de7281e3cc8e73",
+      "id": "80de7281e3cc8e73"
+    },
+    {
+      "title": "Bezzecchi ammette lerrore di Austin: 'ero troppo aggressivo'",
+      "url": "/sport/bezzecchi-ammette-lerrore-di-austin-ero-troppo-agg-067bb6084119ecf7",
+      "id": "067bb6084119ecf7"
+    }
+  ]
+}
