@@ -1,0 +1,52 @@
+{
+  "id": "703619bae30c13ac",
+  "slug": "giuseppe-tango-eletto-presidente-anm-a-roma-703619bae30c13ac",
+  "title": "Tango nuovo presidente Anm",
+  "titles": [
+    "Tango nuovo presidente Anm",
+    "Anm: Giuseppe Tango al timone",
+    "Giuseppe Tango guida magistrati"
+  ],
+  "title_winner": null,
+  "section": "politica",
+  "occhiello": "Giuseppe Tango eletto presidente Anm",
+  "lead": "",
+  "corpo1": "  Giuseppe Tango subentra nella carica di presidente dell'Anm, un ruolo di grande importanza per la magistratura italiana. L'Associazione Nazionale Magistrati è un'organizzazione che rappresenta gli interessi dei magistrati italiani e lavora per la tutela della loro indipendenza e autonomia. Il Comitato direttivo centrale è l'organo di governo dell'Anm e si occupa di prendere decisioni strategiche per l'associazione.",
+  "corpo2": "Giuseppe Tango è un magistrato con una lunga esperienza nel settore. Prima di essere eletto presidente dell'Anm, ha ricoperto diversi ruoli all'interno della magistratura italiana, tra cui quello di giudice e di procuratore. La sua elezione a presidente dell'Anm è vista come un riconoscimento della sua esperienza e della sua capacità di leadership. Tuttavia, alcuni critici hanno sollevato dubbi sulla sua capacità di rappresentare gli interessi di tutti i magistrati italiani, data la sua vicinanza a determinate correnti politiche. ",
+  "journalist": {
+    "id": "elena_russo_01",
+    "firma": "Elena Russo",
+    "sezione": "politica"
+  },
+  "published_at": "2026-03-28T17:51:55.015257+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35818012/pexels-photo-35818012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Dmitry Romanoff",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Tango nuovo presidente Anm\",\n  \"description\": \"\",\n  \"articleBody\": \"Giuseppe Tango subentra nella carica di presidente dell'Anm, un ruolo di grande importanza per la magistratura italiana. L'Associazione Nazionale Magistrati è un'organizzazione che rappresenta gli interessi dei magistrati italiani e lavora per la tutela della loro indipendenza e autonomia. Il Comitato direttivo centrale è l'organo di governo dell'Anm e si occupa di prendere decisioni strategiche per l'associazione. Giuseppe Tango è un magistrato con una lunga esperienza nel settore. Prima di essere eletto presidente dell'Anm, ha ricoperto diversi ruoli all'interno della magistratura italiana, tra cui quello di giudice e di procuratore. La sua elezione a presidente dell'Anm è vista come un riconoscimento della sua esperienza e della sua capacità di leadership. Tuttavia, alcuni critici hanno sollevato dubbi sulla sua capacità di rappresentare gli interessi di tutti i magistrati italiani, data la sua vicinanza a determinate correnti politiche.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Elena Russo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:51:55.015257+00:00\",\n  \"dateModified\": \"2026-03-28T17:51:55.015257+00:00\",\n  \"url\": \"https://gazzettanazionale.it/politica/703619bae30c13ac\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/politica/703619bae30c13ac\"\n  },\n  \"articleSection\": \"Politica\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35818012/pexels-photo-35818012.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Dmitry Romanoff\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/politica/giuseppe-tango-eletto-presidente-anm-a-roma-703619bae30c13ac",
+  "related": [
+    {
+      "title": "Ilaria Salis fermata in centro a Roma: cosa è successo",
+      "url": "/politica/ilaria-salis-sottoposta-a-controllo-di-polizia-a-r-c09763459edfee99",
+      "id": "c09763459edfee99"
+    },
+    {
+      "title": "Daniela Santanchè, grida speranza dalla Versiliana",
+      "url": "/politica/daniela-santanche-ringrazia-la-squadra-dal-parco-d-b6aec8eb127c92cc",
+      "id": "b6aec8eb127c92cc"
+    },
+    {
+      "title": "Landini contro il referendum a Roma",
+      "url": "/politica/landini-chiama-a-raccolta-contro-il-governo-i-part-bd398357f5ff9497",
+      "id": "bd398357f5ff9497"
+    }
+  ],
+  "updated_at": "2026-03-28T17:51:55.015257+00:00"
+}
