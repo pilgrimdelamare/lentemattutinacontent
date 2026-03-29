@@ -1,0 +1,51 @@
+{
+  "id": "5816e45d4d5edb58",
+  "slug": "bastianini-sfreccia-su-2500-moto-finalmente-si-div-5816e45d4d5edb58",
+  "title": "Bastianini sfreccia su 2.500 moto, finalmente si diverte",
+  "titles": [
+    "Bastianini sfreccia su 2.500 moto, finalmente si diverte",
+    "La felicità di Bastianini: 2500 moto e una gara indimenticabile",
+    "2.500 avversari, Bastianini non se ne accorge: 'Mi sono divertito'"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "BASTIANINI 3° AUSTIN, \"FINALMENTE MI SONO DIVERTITO\"",
+  "lead": ". . .",
+  "corpo1": ". . . \"Ho fatto una bella gara, finalmente mi sono divertito e non vedevo 2.500 moto di fronte a me\", ha detto Bastianini. \"\". .",
+  "corpo2": ". . . . .",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-29T00:24:40.618542+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/35743073/pexels-photo-35743073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "MrGajowy3 Teodor",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Bastianini sfreccia su 2.500 moto, finalmente si diverte\",\n  \"description\": \". . .\",\n  \"articleBody\": \". . . . . . \\\"Ho fatto una bella gara, finalmente mi sono divertito e non vedevo 2.500 moto di fronte a me\\\", ha detto Bastianini. \\\"\\\". . . . . . .\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T00:24:40.618542+00:00\",\n  \"dateModified\": \"2026-03-29T00:24:40.618542+00:00\",\n  \"url\": \"https://gazzettanazionale.it/sport/5816e45d4d5edb58\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/sport/5816e45d4d5edb58\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35743073/pexels-photo-35743073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"MrGajowy3 Teodor\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/motogp/video/2026/03/28/bastianini-sprint-race-gp-stati-uniti-intervista-video-1086098",
+  "related": [
+    {
+      "title": "Bagnaia seconda in Sprint Race di Austin",
+      "url": "/sport/bagnaia-seconda-in-sprint-race-di-austin-41f595848f40995d",
+      "id": "41f595848f40995d"
+    },
+    {
+      "title": "Isak Hien si congeda dalla Svezia per infortunio",
+      "url": "/sport/isak-hien-si-congeda-dalla-svezia-per-infortunio-2d0dcd39fb370f27",
+      "id": "2d0dcd39fb370f27"
+    },
+    {
+      "title": "Bezzecchi sotto minaccia dall'ex compagno +1",
+      "url": "/sport/bezzecchi-sotto-minaccia-dallex-compagno-1-7a84cb4f4152b876",
+      "id": "7a84cb4f4152b876"
+    }
+  ]
+}
