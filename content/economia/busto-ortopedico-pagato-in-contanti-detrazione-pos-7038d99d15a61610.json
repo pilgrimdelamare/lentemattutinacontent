@@ -1,0 +1,51 @@
+{
+  "id": "7038d99d15a61610",
+  "slug": "busto-ortopedico-pagato-in-contanti-detrazione-pos-7038d99d15a61610",
+  "title": "Busto ortopedico pagato in contanti: detrazione possibile?",
+  "titles": [
+    "Busto ortopedico pagato in contanti: detrazione possibile?",
+    "Lettore chiede: fattura busto ortopedico valida per detrazione",
+    "Detrazione per busto ortopedico: cosa dice la normativa CE"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "DETRAZIONE PER BUSTO ORTOPEDICO PAGATO IN CONTANTI",
+  "lead": "Una fattura di un busto ortopedico pagato in contanti può essere portata in detrazione?  ",
+  "corpo1": "Un lettore ha chiesto se la fattura di un busto ortopedico, rispondente alla normativa CE, pagato in contanti possa essere portata in detrazione.   ",
+  "corpo2": "",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-03-29T14:30:36.100275+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/11618965/pexels-photo-11618965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Ann H",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Busto ortopedico pagato in contanti: detrazione possibile?\",\n  \"description\": \"Una fattura di un busto ortopedico pagato in contanti può essere portata in detrazione?  \",\n  \"articleBody\": \"Una fattura di un busto ortopedico pagato in contanti può essere portata in detrazione?   Un lettore ha chiesto se la fattura di un busto ortopedico, rispondente alla normativa CE, pagato in contanti possa essere portata in detrazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-29T14:30:36.100275+00:00\",\n  \"dateModified\": \"2026-03-29T14:30:36.100275+00:00\",\n  \"url\": \"https://gazzettanazionale.it/economia/7038d99d15a61610\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/economia/7038d99d15a61610\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/11618965/pexels-photo-11618965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Ann H\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/diritti-e-consumi/fisco/domande-e-risposte/2026/03/29/news/busto_ortopedico_pagato_in_contanti_diritto_alla_detrazione-425251825/?rss",
+  "related": [
+    {
+      "title": "2,3 miliardi di euro risparmiati: la società elettrica italiana fa risparmiare g",
+      "url": "/economia/23-miliardi-di-euro-risparmiati-la-societa-elettri-4f78060a1f12b701",
+      "id": "4f78060a1f12b701"
+    },
+    {
+      "title": "Montepaschi, 3 liste per i vertici nonostante crisi finanziaria",
+      "url": "/economia/tre-liste-per-montepaschi-consob-ammette-le-candid-af46e4c172e0c395",
+      "id": "af46e4c172e0c395"
+    },
+    {
+      "title": "Risparmio da 2,3 miliardi: governo taglia energia elettrica e gas",
+      "url": "/economia/23-miliardi-risparmiati-lora-legale-torna-a-benefi-e5615b228a533c0e",
+      "id": "e5615b228a533c0e"
+    }
+  ]
+}
