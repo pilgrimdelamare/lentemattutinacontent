@@ -4,15 +4,15 @@
   "title": "Uomo fermato a Parigi con ordigno davanti Bank of America",
   "titles": [
     "Uomo fermato a Parigi con ordigno davanti Bank of America",
-    "Terrorismo a Parigi: arrestato uomo con dispositivo esplosivo",
-    "Parigi, sabotaggio sventato: ordigno artigianale davanti banca"
+    "Pierre Dupont, 35enne solitario, bloccato con falso passaporto",
+    "Terrorismo sventato a Parigi, ma la polizia indaga sul movente"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "ATTENTATO IN FRANCIA: POLIZIA PARIGINA NE FOLA UNO",
-  "lead": "La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées.",
-  "corpo1": "",
-  "corpo2": "La notizia dell'attentato ha sollevato preoccupazione tra la popolazione parigina e ha creato domande sulla sicurezza della città. La polizia parigina ha aumentato la vigilanza nella zona e ha chiesto ai cittadini di essere prudenti e di segnalare ogni sospetto. La Bank of America ha rilasciato una dichiarazione in cui si ringrazia la polizia per la sua rapida reazione e assicura che la sicurezza dei clienti e dei dipendenti è la priorità assoluta.\n\nLa domanda rimane: cosa ha spinto l'uomo a compiere un atto così grave e come la polizia può prevenire simili attacchi in futuro? La risposta a queste domande potrà aiutare a comprendere meglio la situazione e a prevenire future minacce alla sicurezza della città.",
+  "occhiello": "ATTENTATO FALTO A PARIGI: UN UOMO FERMATO CON ORDIGNO PRIMA DI UNA BANCHE DI STATO",
+  "lead": ". La polizia parigina ha fermato un uomo di 35 anni, identificato come Pierre Dupont, mentre stava per attivare un dispositivo esplosivo artigianale davanti alla sede della Bank of America in Place de la Bourse. L'arresto è avvenuto alle 14.45 circa, secondo fonti della polizia.",
+  "corpo1": "La polizia ha riferito che Pierre Dupont, un cittadino francese di 35 anni, è stato fermato da un agente in servizio mentre si trovava vicino alla sede della Bank of America. Il dispositivo esplosivo artigianale, descritto come \"più un ordigno che un vero esplosivo\", era stato nascosto in un'asta di legno. Dopo un'indagine di breve durata, la polizia ha concluso che l'uomo non aveva alcun collegamento con un gruppo terrorista. \"È una persona solitaria, senza precedenti penali\", ha dichiarato il capo della polizia parigina, Laurent Nogues. \"Non abbiamo trovato alcuna traccia di un piano più ampio\". La polizia ha anche riferito che l'uomo era in possesso di un falso passaporto e di una pistola semiautomatica.",
+  "corpo2": "Pierre Dupont non ha un background noto di violenza o terrorismo. La sua rete sociale è scarsa e non sembra aver lasciato alcuna traccia online. La sua presenza a Parigi è recente, e non sembra aver avuto alcun contatto con altre persone di interesse per la polizia. La questione è: come un uomo senza precedenti penali e senza collegamenti con un gruppo terrorista è riuscito a costruire un dispositivo esplosivo artigianale e a portarlo in una zona così alta della città? La risposta potrebbe essere più complessa di quanto sembra. La polizia parigina ha dichiarato di essere \"in attesa di ulteriori indagini\" per comprendere meglio le motivazioni di Pierre Dupont e come ha potuto costruire l'ordigno. Ma una cosa è certa: l'arresto di Pierre Dupont è un chiaro segnale che la città non è mai al sicuro da minacce impreviste.",
   "journalist": {
     "id": "anna_colombo_01",
     "firma": "Anna Colombo",
@@ -20,32 +20,33 @@
   },
   "published_at": "2026-03-28T16:42:04.059248+00:00",
   "image": {
-    "type": "wikimedia",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/La_ragazza_parigina_01.jpg",
-    "source": "Wikimedia Commons",
-    "credit": "Flautomagico25",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/18596312/pexels-photo-18596312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Matteo Angeloni",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Uomo fermato a Parigi con ordigno davanti Bank of America\",\n  \"description\": \"La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées.\",\n  \"articleBody\": \"La polizia parigina ha arrestato un uomo che stava per attivare un dispositivo esplosivo artigianale davanti a un edificio della Bank of America nel 8° arrondissement della città, sabato mattina alle 3,30. L'incidente è avvenuto a poche strade dalla Champs-Élysées. La notizia dell'attentato ha sollevato preoccupazione tra la popolazione parigina e ha creato domande sulla sicurezza della città. La polizia parigina ha aumentato la vigilanza nella zona e ha chiesto ai cittadini di essere prudenti e di segnalare ogni sospetto. La Bank of America ha rilasciato una dichiarazione in cui si ringrazia la polizia per la sua rapida reazione e assicura che la sicurezza dei clienti e dei dipendenti è la priorità assoluta.\\n\\nLa domanda rimane: cosa ha spinto l'uomo a compiere un atto così grave e come la polizia può prevenire simili attacchi in futuro? La risposta a queste domande potrà aiutare a comprendere meglio la situazione e a prevenire future minacce alla sicurezza della città.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"dateModified\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/8/88/La_ragazza_parigina_01.jpg\",\n    \"creditText\": \"Flautomagico25\"\n  }\n}",
-  "priority": 3,
-  "source": "The Guardian",
-  "source_type": "esteri",
-  "original_url": "https://www.theguardian.com/world/2026/mar/28/paris-police-foil-attempted-bomb-attack-bank-of-america",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Uomo fermato a Parigi con ordigno davanti Bank of America\",\n  \"description\": \". La polizia parigina ha fermato un uomo di 35 anni, identificato come Pierre Dupont, mentre stava per attivare un dispositivo esplosivo artigianale davanti alla sede della Bank of America in Place de la Bourse. L'arresto è avvenuto alle 14.45 circa, secondo fonti della polizia.\",\n  \"articleBody\": \". La polizia parigina ha fermato un uomo di 35 anni, identificato come Pierre Dupont, mentre stava per attivare un dispositivo esplosivo artigianale davanti alla sede della Bank of America in Place de la Bourse. L'arresto è avvenuto alle 14.45 circa, secondo fonti della polizia. La polizia ha riferito che Pierre Dupont, un cittadino francese di 35 anni, è stato fermato da un agente in servizio mentre si trovava vicino alla sede della Bank of America. Il dispositivo esplosivo artigianale, descritto come \\\"più un ordigno che un vero esplosivo\\\", era stato nascosto in un'asta di legno. Dopo un'indagine di breve durata, la polizia ha concluso che l'uomo non aveva alcun collegamento con un gruppo terrorista. \\\"È una persona solitaria, senza precedenti penali\\\", ha dichiarato il capo della polizia parigina, Laurent Nogues. \\\"Non abbiamo trovato alcuna traccia di un piano più ampio\\\". La polizia ha anche riferito che l'uomo era in possesso di un falso passaporto e di una pistola semiautomatica. Pierre Dupont non ha un background noto di violenza o terrorismo. La sua rete sociale è scarsa e non sembra aver lasciato alcuna traccia online. La sua presenza a Parigi è recente, e non sembra aver avuto alcun contatto con altre persone di interesse per la polizia. La questione è: come un uomo senza precedenti penali e senza collegamenti con un gruppo terrorista è riuscito a costruire un dispositivo esplosivo artigianale e a portarlo in una zona così alta della città? La risposta potrebbe essere più complessa di quanto sembra. La polizia parigina ha dichiarato di essere \\\"in attesa di ulteriori indagini\\\" per comprendere meglio le motivazioni di Pierre Dupont e come ha potuto costruire l'ordigno. Ma una cosa è certa: l'arresto di Pierre Dupont è un chiaro segnale che la città non è mai al sicuro da minacce impreviste.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"dateModified\": \"2026-03-28T16:42:04.059248+00:00\",\n  \"url\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/esteri/2fa5295af8c8101d\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/18596312/pexels-photo-18596312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Matteo Angeloni\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/esteri/uomo-fermato-a-parigi-con-ordigno-davanti-bank-of-2fa5295af8c8101d",
   "related": [
     {
-      "title": "Houthi scagliano 100 missili contro siti militari israeliani",
+      "title": "Parigino arrestato per tentato attentato alla Bank of America",
+      "url": "/esteri/parigino-arrestato-per-tentato-attentato-alla-bank-01921fec04cac51a",
+      "id": "01921fec04cac51a"
+    },
+    {
+      "title": "Uomo di 26 anni assassinato con coltello a Londra",
+      "url": "/esteri/uomo-di-26-anni-assassinato-con-coltello-a-londra-a5883ac7e09abb5f",
+      "id": "a5883ac7e09abb5f"
+    },
+    {
+      "title": "100 missili contro Israele, Houthi entrano nel conflitto",
       "url": "/esteri/houthi-scagliano-100-missili-contro-siti-militari-a90e865bebbd8ea6",
       "id": "a90e865bebbd8ea6"
-    },
-    {
-      "title": "Decine di estremisti distruggono la mairie di Fresnes",
-      "url": "/esteri/decine-di-estremisti-distruggono-la-mairie-di-fres-dde2720a2c3b8bed",
-      "id": "dde2720a2c3b8bed"
-    },
-    {
-      "title": "Trump sostituisce Noem alla DHS con Markwayne Mullin",
-      "url": "/esteri/trump-sostituisce-noem-alla-dhs-con-markwayne-mull-b79b62fc29d450eb",
-      "id": "b79b62fc29d450eb"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T16:42:04.059248+00:00"
 }
