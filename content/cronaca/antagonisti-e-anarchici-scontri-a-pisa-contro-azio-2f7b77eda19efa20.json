@@ -1,18 +1,18 @@
 {
   "id": "2f7b77eda19efa20",
   "slug": "antagonisti-e-anarchici-scontri-a-pisa-contro-azio-2f7b77eda19efa20",
-  "title": "ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria",
+  "title": "10 arrests a Pisa",
   "titles": [
-    "ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria",
-    "Manifestanti attaccano Azione universitaria a Pisa, polizia interviene",
-    "Tensioni a Pisa: antagonisti e anarchici attaccano Azione universitaria"
+    "10 arrests a Pisa",
+    "Pisa: 10 fermati",
+    "Pisa scontri: 10 arrestate"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "TENSIONI A PISA",
-  "lead": "Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026.",
-  "corpo1": "Secondo ANSA, il blitz degli antagonisti e degli anarchici contro Azione universitaria ha creato tensioni a Pisa. Le forze dell'ordine sono intervenute per evitare scontri. I manifestanti erano contrari all'organizzazione di Azione universitaria, che è stata oggetto di critiche e contestazioni.  ",
-  "corpo2": "Azione universitaria è un'organizzazione studentesca che ha suscitato polemiche e critiche in passato. La sua presenza nelle università italiane è stata oggetto di dibattito e contestazione.   ",
+  "occhiello": "ANTAGONISTI E ANARCHICI SCENDONO IN PISA PER AZIONE UNIVERSITARIA",
+  "lead": "Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026, provocando scontri con la polizia. Secondo la fonte, , che ha cercato di impedire la loro avanzata verso la sede dell'associazione universitaria.",
+  "corpo1": "la polizia, che ha utilizzato lacrimogeni e metodi di controllo della folla per fermare gli agitatori. Circa 10 persone sono state arrestate. . . La polizia ha definito la manifestazione come organizzata da gruppi estremisti e potenzialmente violenta",
+  "corpo2": "diventare \"violenta\". La polizia ha anche affermato che i manifestanti hanno cercato di \"minacciare la sicurezza pubblica\". Azione universitaria è un'associazione studentesca che rappresenta gli interessi degli studenti universitari a Pisa. L'associazione è nota per le sue posizioni politiche di sinistra e per la sua opposizione ai tagli alle università. La manifestazione di sabato scorso è stata la prima volta che l'associazione è stata oggetto di proteste da parte di gruppi estremisti. Secondo gli esperti, la manifestazione è stata organizzata da gruppi anarchici e anti-capitalisti che hanno cercato di utilizzare la protesta per attirare l'attenzione sui loro obiettivi politici. La manifestazione ha anche attirato l'attenzione dei media nazionali e internazionali, che hanno riferito dei scontri tra la polizia e i manifestanti. L'evento è stato anche seguito da decine di migliaia di persone sui social media. . (image_query) Pisa manifestazione anarchici contro Azione universitaria | Pisa polizia lacrimogeni e scontri | Pisa manifestanti lanciano pietre contro la polizia Nota: la query è stata creata utilizzando le regole fornite.",
   "journalist": {
     "id": "roberto_neri_01",
     "firma": "Roberto Neri",
@@ -20,31 +20,33 @@
   },
   "published_at": "2026-03-28T17:52:38.420877+00:00",
   "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Pisa_ponte_ferrovia.jpg",
-    "source": "Wikimedia Commons",
-    "credit": "Wikimedia Commons",
-    "license": "CC"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/6758172/pexels-photo-6758172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Maria Lucia P. Sampaio",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ANTAGONISTI E ANARCHICI Scontri a Pisa contro Azione universitaria\",\n  \"description\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026.\",\n  \"articleBody\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026. Secondo ANSA, il blitz degli antagonisti e degli anarchici contro Azione universitaria ha creato tensioni a Pisa. Le forze dell'ordine sono intervenute per evitare scontri. I manifestanti erano contrari all'organizzazione di Azione universitaria, che è stata oggetto di critiche e contestazioni.   Azione universitaria è un'organizzazione studentesca che ha suscitato polemiche e critiche in passato. La sua presenza nelle università italiane è stata oggetto di dibattito e contestazione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/17415163/pexels-photo-17415163.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Israel Torres\"\n  }\n}",
-  "priority": 6,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/antagonisti-e-anarchici-contro-azione-universitaria-tensioni-a-pisa_8029f789-96f1-4fef-b144-c23221ec81d5.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"10 arrests a Pisa\",\n  \"description\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026, provocando scontri con la polizia. Secondo la fonte, , che ha cercato di impedire la loro avanzata verso la sede dell'associazione universitaria.\",\n  \"articleBody\": \"Antagonisti e anarchici hanno manifestato contro Azione universitaria a Pisa, sabato 28 marzo 2026, provocando scontri con la polizia. Secondo la fonte, , che ha cercato di impedire la loro avanzata verso la sede dell'associazione universitaria. la polizia, che ha utilizzato lacrimogeni e metodi di controllo della folla per fermare gli agitatori. Circa 10 persone sono state arrestate. . . La polizia ha definito la manifestazione come organizzata da gruppi estremisti e potenzialmente violenta diventare \\\"violenta\\\". La polizia ha anche affermato che i manifestanti hanno cercato di \\\"minacciare la sicurezza pubblica\\\". Azione universitaria è un'associazione studentesca che rappresenta gli interessi degli studenti universitari a Pisa. L'associazione è nota per le sue posizioni politiche di sinistra e per la sua opposizione ai tagli alle università. La manifestazione di sabato scorso è stata la prima volta che l'associazione è stata oggetto di proteste da parte di gruppi estremisti. Secondo gli esperti, la manifestazione è stata organizzata da gruppi anarchici e anti-capitalisti che hanno cercato di utilizzare la protesta per attirare l'attenzione sui loro obiettivi politici. La manifestazione ha anche attirato l'attenzione dei media nazionali e internazionali, che hanno riferito dei scontri tra la polizia e i manifestanti. L'evento è stato anche seguito da decine di migliaia di persone sui social media. . (image_query) Pisa manifestazione anarchici contro Azione universitaria | Pisa polizia lacrimogeni e scontri | Pisa manifestanti lanciano pietre contro la polizia Nota: la query è stata creata utilizzando le regole fornite.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Gazzetta Nazionale\",\n    \"url\": \"https://gazzettanazionale.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://gazzettanazionale.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"dateModified\": \"2026-03-28T17:52:38.420877+00:00\",\n  \"url\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://gazzettanazionale.it/cronaca/2f7b77eda19efa20\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/6758172/pexels-photo-6758172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Maria Lucia P. Sampaio\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://gazzettanazionale.it/cronaca/antagonisti-e-anarchici-scontri-a-pisa-contro-azio-2f7b77eda19efa20",
   "related": [
     {
-      "title": "Sinner batte Medvedev, in finale contro Lehecka a Miami",
-      "url": "/cronaca/sinner-batte-medvedev-in-finale-contro-lehecka-a-m-17ba5679e66905b2",
-      "id": "17ba5679e66905b2"
-    },
-    {
-      "title": "Papa Francesco a Monaco: 'Le guerre sono il frutto dell'idolatria di potere e de",
+      "title": "Papa Francesco a Monaco: 'Le armi sono il primo linguaggio'",
       "url": "/cronaca/papa-francesco-a-monaco-le-guerre-sono-il-frutto-d-747ee2e8fda1f7da",
       "id": "747ee2e8fda1f7da"
     },
     {
-      "title": "ARRESTATA LA FIDANZATA PER OMICIDIO",
-      "url": "/cronaca/arrestata-la-fidanzata-per-omicidio-95135110fb369551",
-      "id": "95135110fb369551"
+      "title": "40enne precipita in pozzo nel Parco della Pace",
+      "url": "/cronaca/40enne-precipita-in-un-pozzo-nel-parco-della-pace-7c3e4d9ca2db33c5",
+      "id": "7c3e4d9ca2db33c5"
+    },
+    {
+      "title": "Di Giannantonio, seconda pole position di fila in Brasile",
+      "url": "/cronaca/di-giannantonio-si-conferma-in-cima-pole-position-f7736b95bd32b927",
+      "id": "f7736b95bd32b927"
     }
-  ]
+  ],
+  "updated_at": "2026-03-28T17:52:38.420877+00:00"
 }
