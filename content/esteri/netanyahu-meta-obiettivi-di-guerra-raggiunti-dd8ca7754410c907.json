@@ -1,0 +1,57 @@
+{
+  "id": "dd8ca7754410c907",
+  "slug": "netanyahu-meta-obiettivi-di-guerra-raggiunti-dd8ca7754410c907",
+  "title": "Netanyahu: metà obiettivi di guerra raggiunti",
+  "titles": [
+    "Netanyahu: metà obiettivi di guerra raggiunti",
+    "Israele: Netanyahu rivela progressi in guerra",
+    "Guerra Israele: oltre metà obiettivi raggiunti"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "NETANYAHU: OBIETTIVI DI GUERRA RAGGIUNTI PER METÀ",
+  "lead": "Benjamin Netanyahu, premier israeliano, ha affermato che sono stati raggiunti oltre la metà degli obiettivi di guerra, in una intervista a Newsmax. La dichiarazione è stata resa pubblica il 30 marzo 2026.",
+  "corpo1": "Il premier israeliano Benjamin Netanyahu ha affermato, in una intervista a Newsmax, di aver raggiunto oltre la metà degli obiettivi di guerra. Netanyahu non ha fissato una scadenza per la fine delle operazioni militari. La dichiarazione del premier è stata resa pubblica il 30 marzo 2026. Secondo fonti locali, la guerra in corso ha già causato ingenti danni e vittime civili. L'intervista a Newsmax è stata rilasciata in un momento in cui la comunità internazionale sta cercando di trovare una soluzione diplomatica al conflitto.",
+  "corpo2": "Benjamin Netanyahu è il premier israeliano che guida il governo di Israele dal 2009. La sua leadership è stata segnata da numerose crisi e conflitti con i paesi vicini, in particolare con la Palestina e l'Iran. La guerra in corso è solo l'ultimo capitolo di una lunga serie di tensioni nella regione. La dichiarazione di Netanyahu suggerisce che Israele continuerà le operazioni militari fino a quando non raggiungeranno tutti gli obiettivi prefissati. E cosa significa per i civili e per la stabilità della regione? La comunità internazionale è preoccupata per le conseguenze umanitarie della guerra e sta cercando di trovare una soluzione pacifica.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-30T22:41:18.670029+00:00",
+  "image": {
+    "type": "wikimedia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Benjamin_Netanyahu_2012.jpg",
+    "source": "Wikimedia Commons",
+    "credit": "U.S. Department of State",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Netanyahu: metà obiettivi di guerra raggiunti\",\n  \"description\": \"Benjamin Netanyahu, premier israeliano, ha affermato che sono stati raggiunti oltre la metà degli obiettivi di guerra, in una intervista a Newsmax. La dichiarazione è stata resa pubblica il 30 marzo 2026.\",\n  \"articleBody\": \"Benjamin Netanyahu, premier israeliano, ha affermato che sono stati raggiunti oltre la metà degli obiettivi di guerra, in una intervista a Newsmax. La dichiarazione è stata resa pubblica il 30 marzo 2026. Il premier israeliano Benjamin Netanyahu ha affermato, in una intervista a Newsmax, di aver raggiunto oltre la metà degli obiettivi di guerra. Netanyahu non ha fissato una scadenza per la fine delle operazioni militari. La dichiarazione del premier è stata resa pubblica il 30 marzo 2026. Secondo fonti locali, la guerra in corso ha già causato ingenti danni e vittime civili. L'intervista a Newsmax è stata rilasciata in un momento in cui la comunità internazionale sta cercando di trovare una soluzione diplomatica al conflitto. Benjamin Netanyahu è il premier israeliano che guida il governo di Israele dal 2009. La sua leadership è stata segnata da numerose crisi e conflitti con i paesi vicini, in particolare con la Palestina e l'Iran. La guerra in corso è solo l'ultimo capitolo di una lunga serie di tensioni nella regione. La dichiarazione di Netanyahu suggerisce che Israele continuerà le operazioni militari fino a quando non raggiungeranno tutti gli obiettivi prefissati. E cosa significa per i civili e per la stabilità della regione? La comunità internazionale è preoccupata per le conseguenze umanitarie della guerra e sta cercando di trovare una soluzione pacifica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:41:18.670029+00:00\",\n  \"dateModified\": \"2026-03-30T22:41:18.670029+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/dd8ca7754410c907\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/dd8ca7754410c907\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://upload.wikimedia.org/wikipedia/commons/5/54/Benjamin_Netanyahu_2012.jpg\",\n    \"creditText\": \"U.S. Department of State\"\n  }\n}",
+  "priority": 7,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/30/netanyahu-raggiunta-oltre-la-meta-degli-obiettivi-di-guerra_f541737d-6b61-482b-89ae-892e31035553.html",
+  "related": [
+    {
+      "title": "Petroliere Russia a Cuba: Sussurro di interruzione",
+      "url": "/esteri/ragione-di-stato-petroliera-russa-autorizzata-a-ra-b696bf2e3d74fd0d",
+      "id": "b696bf2e3d74fd0d",
+      "image_url": "https://images.pexels.com/photos/9407354/pexels-photo-9407354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Inflazione Australia: 4,5% previsto nel 2026, governo alza stima",
+      "url": "/esteri/chalmers-inflazione-prevista-al-45-nel-2026-1-punt-2606592f8bac2c79",
+      "id": "2606592f8bac2c79",
+      "image_url": "https://images.pexels.com/photos/416988/pexels-photo-416988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Starmer lancia campagna elettorale a Londra contro il caro vita",
+      "url": "/esteri/starmer-lancia-campagna-elettorale-sul-costo-della-a282a0852dbd2c9f",
+      "id": "a282a0852dbd2c9f",
+      "image_url": "https://images.pexels.com/photos/36100303/pexels-photo-36100303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
