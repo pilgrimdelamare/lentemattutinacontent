@@ -1,0 +1,57 @@
+{
+  "id": "553bf81be4ebc7d4",
+  "slug": "frana-a-machu-picchu-blocca-ferrovia-prima-della-p-553bf81be4ebc7d4",
+  "title": "Frana a Machu Picchu blocca ferrovia prima della Pasqua",
+  "titles": [
+    "Frana a Machu Picchu blocca ferrovia prima della Pasqua",
+    "Frana a Aguas Calientes: la linea ferroviaria è in pericolo",
+    "Pasqua in Perù sull'orlo del fallimento: la ferrovia di Machu Picchu è bloccata"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MACHU PICCHU, FERROVIA BLOCCATA PER FRANA",
+  "lead": "Machu Picchu, Perù, 30 marzo 2026. Una frana ha bloccato la ferrovia che collega la stazione di Cuzco a Machu Picchu, il famoso santuario inca in Perù, pochi giorni prima della Pasqua.",
+  "corpo1": "La frana, che si è verificata nella notte tra sabato e domenica, ha interessato un tratto della ferrovia nei pressi della stazione di Aguas Calientes, principale accesso al sito archeologico di Machu Picchu. La sospensione della circolazione ferroviaria compromette la mobilità dei turisti e degli operatori turistici in un momento critico, come quello precedente la Pasqua. la frana ha provocato un danno significativo alla linea ferroviaria, ma non sono stati segnalati danni a persone. Le autorità locali e le imprese ferroviarie sono al lavoro per ripristinare il servizio nel più breve tempo possibile. L'interruzione del servizio ferroviario rappresenta un colpo significativo per l'economia locale, che dipende fortemente dal turismo.",
+  "corpo2": "Il blocco della ferrovia verso Machu Picchu avviene in un contesto in cui il Perù sta cercando di rilanciare il suo settore turistico, dopo la pandemia di COVID-19. Il sito archeologico di Machu Picchu è uno dei principali attrattori turistici del Perù e la sospensione del servizio ferroviario potrebbe avere un impatto negativo sulle prenotazioni e sulle economie locali. La frana evidenzia inoltre la necessità di interventi di manutenzione e prevenzione sulle infrastrutture critiche del paese. Se gli sforzi per ripristinare il servizio ferroviario andranno a buon fine, il turismo in Perù potrebbe riprendere quota, ma resta da vedere se questo incidente influenzerà a lungo la fiducia dei turisti nel Perù.",
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-03-30T22:49:37.487614+00:00",
+  "image": {
+    "type": "flickr",
+    "url": "https://live.staticflickr.com/65535/55178070784_555ceb4b9d_b.jpg",
+    "source": "Flickr",
+    "credit": "iancowe",
+    "license": "CC"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Frana a Machu Picchu blocca ferrovia prima della Pasqua\",\n  \"description\": \"Machu Picchu, Perù, 30 marzo 2026. Una frana ha bloccato la ferrovia che collega la stazione di Cuzco a Machu Picchu, il famoso santuario inca in Perù, pochi giorni prima della Pasqua.\",\n  \"articleBody\": \"Machu Picchu, Perù, 30 marzo 2026. Una frana ha bloccato la ferrovia che collega la stazione di Cuzco a Machu Picchu, il famoso santuario inca in Perù, pochi giorni prima della Pasqua. La frana, che si è verificata nella notte tra sabato e domenica, ha interessato un tratto della ferrovia nei pressi della stazione di Aguas Calientes, principale accesso al sito archeologico di Machu Picchu. La sospensione della circolazione ferroviaria compromette la mobilità dei turisti e degli operatori turistici in un momento critico, come quello precedente la Pasqua. la frana ha provocato un danno significativo alla linea ferroviaria, ma non sono stati segnalati danni a persone. Le autorità locali e le imprese ferroviarie sono al lavoro per ripristinare il servizio nel più breve tempo possibile. L'interruzione del servizio ferroviario rappresenta un colpo significativo per l'economia locale, che dipende fortemente dal turismo. Il blocco della ferrovia verso Machu Picchu avviene in un contesto in cui il Perù sta cercando di rilanciare il suo settore turistico, dopo la pandemia di COVID-19. Il sito archeologico di Machu Picchu è uno dei principali attrattori turistici del Perù e la sospensione del servizio ferroviario potrebbe avere un impatto negativo sulle prenotazioni e sulle economie locali. La frana evidenzia inoltre la necessità di interventi di manutenzione e prevenzione sulle infrastrutture critiche del paese. Se gli sforzi per ripristinare il servizio ferroviario andranno a buon fine, il turismo in Perù potrebbe riprendere quota, ma resta da vedere se questo incidente influenzerà a lungo la fiducia dei turisti nel Perù.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:49:37.487614+00:00\",\n  \"dateModified\": \"2026-03-30T22:49:37.487614+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/553bf81be4ebc7d4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/553bf81be4ebc7d4\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://live.staticflickr.com/65535/55178070784_555ceb4b9d_b.jpg\",\n    \"creditText\": \"iancowe\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/03/30/machu-picchu-frana-blocca-la-ferrovia-verso-il-santuario-inca_0f7f6009-55e9-493f-8d29-315784f0da64.html",
+  "related": [
+    {
+      "title": "3 caschi blu uccisi in Libano",
+      "url": "/esteri/3-caschi-blu-uccisi-in-libano-39e2c91e2e5ba2da",
+      "id": "39e2c91e2e5ba2da",
+      "image_url": "https://images.unsplash.com/photo-1763656445564-6fef9a9a9443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwZWFjZWtlZXBpbmclMjBzb2xkaWVyc3xlbnwwfDB8fHwxNzc0OTEwNzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Trump valuta operazione per estrarre 454 kg di uranio dall'Iran",
+      "url": "/esteri/trump-valuta-operazione-per-estrarre-454-kg-di-ura-bdc0a447b48b859c",
+      "id": "bdc0a447b48b859c",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Oil_fires%2C_gas_flares%2C_and_fires_in_the_Middle_East_%28MODIS_2016-10-17%29.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Iran: nessun negoziato con USA",
+      "url": "/esteri/iran-nessun-negoziato-con-usa-f34b9d2178df81ec",
+      "id": "f34b9d2178df81ec",
+      "image_url": "https://images.unsplash.com/photo-1772299399824-592b030b2dde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJcmFuJTIwZGlwbG9tYWN5fGVufDB8MHx8fDE3NzQ5MTA2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
