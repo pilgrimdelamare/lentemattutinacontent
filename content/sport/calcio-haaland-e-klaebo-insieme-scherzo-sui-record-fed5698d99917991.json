@@ -1,0 +1,57 @@
+{
+  "id": "fed5698d99917991",
+  "slug": "calcio-haaland-e-klaebo-insieme-scherzo-sui-record-fed5698d99917991",
+  "title": "Calcio: Haaland e Klaebo insieme, scherzo sui record olimpici",
+  "titles": [
+    "Calcio: Haaland e Klaebo insieme, scherzo sui record olimpici",
+    "Haaland, il bomber, incontra Klaebo, re dello sci di fondo",
+    "Erling Haaland e Johannes Klaebo, selfie virale prima di Svizzera-Norvegia"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "HAALAND E KLAEBO, L'INCONTRO DEI GIGANTI",
+  "lead": "Erling Haaland e Johannes Klaebo si sono incontrati nel ritiro della Nazionale di calcio norvegese, alla vigilia dell'amichevole contro la Svizzera di martedì 31 marzo. I due atleti hanno condiviso un selfie su Instagram, con Haaland che ha scherzato sui record olimpici di Klaebo.",
+  "corpo1": "Erling Haaland e Johannes Klaebo sono due degli atleti più influenti e vincenti provenienti dalla Norvegia. il 30 marzo 2026, hanno condiviso un selfie su Instagram nel ritiro della Nazionale di calcio norvegese, alla vigilia dell'amichevole contro la Svizzera in programma il giorno successivo. Haaland ha ironizzato sul palmares olimpico di Klaebo, scrivendo: \"11 ori olimpici tra noi due\". Klaebo, leggenda dello sci di fondo, ha dominato l'ultima edizione dei Giochi Olimpici invernali a Milano-Cortina, vincendo 6 medaglie d'oro. L'amichevole tra la Norvegia e la Svizzera sarà trasmessa in diretta su Sky Sport Calcio e in streaming su NOW.",
+  "corpo2": "Erling Haaland e Johannes Klaebo sono due eccellenze dello sport norvegese. Ha guadagnato fama mondiale giocando per squadre come il Borussia Dortmund e il Manchester City. Klaebo è una leggenda dello sci di fondo, con un record impressionante di 11 medaglie d'oro. L'incontro tra i due atleti evidenzia la diversità e la ricchezza dello sport norvegese. La loro interazione sui social media sottolinea l'importanza della connessione tra atleti di diverse generazioni e discipline. Come potranno questi atleti continuare a ispirare e influenzare le nuove generazioni di sportivi norvegesi?",
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-03-30T22:49:42.281726+00:00",
+  "image": {
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/36713394/pexels-photo-36713394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Vitaly Gariev",
+    "license": "Pexels License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Haaland e Klaebo insieme, scherzo sui record olimpici\",\n  \"description\": \"Erling Haaland e Johannes Klaebo si sono incontrati nel ritiro della Nazionale di calcio norvegese, alla vigilia dell'amichevole contro la Svizzera di martedì 31 marzo. I due atleti hanno condiviso un selfie su Instagram, con Haaland che ha scherzato sui record olimpici di Klaebo.\",\n  \"articleBody\": \"Erling Haaland e Johannes Klaebo si sono incontrati nel ritiro della Nazionale di calcio norvegese, alla vigilia dell'amichevole contro la Svizzera di martedì 31 marzo. I due atleti hanno condiviso un selfie su Instagram, con Haaland che ha scherzato sui record olimpici di Klaebo. Erling Haaland e Johannes Klaebo sono due degli atleti più influenti e vincenti provenienti dalla Norvegia. il 30 marzo 2026, hanno condiviso un selfie su Instagram nel ritiro della Nazionale di calcio norvegese, alla vigilia dell'amichevole contro la Svizzera in programma il giorno successivo. Haaland ha ironizzato sul palmares olimpico di Klaebo, scrivendo: \\\"11 ori olimpici tra noi due\\\". Klaebo, leggenda dello sci di fondo, ha dominato l'ultima edizione dei Giochi Olimpici invernali a Milano-Cortina, vincendo 6 medaglie d'oro. L'amichevole tra la Norvegia e la Svizzera sarà trasmessa in diretta su Sky Sport Calcio e in streaming su NOW. Erling Haaland e Johannes Klaebo sono due eccellenze dello sport norvegese. Ha guadagnato fama mondiale giocando per squadre come il Borussia Dortmund e il Manchester City. Klaebo è una leggenda dello sci di fondo, con un record impressionante di 11 medaglie d'oro. L'incontro tra i due atleti evidenzia la diversità e la ricchezza dello sport norvegese. La loro interazione sui social media sottolinea l'importanza della connessione tra atleti di diverse generazioni e discipline. Come potranno questi atleti continuare a ispirare e influenzare le nuove generazioni di sportivi norvegesi?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-30T22:49:42.281726+00:00\",\n  \"dateModified\": \"2026-03-30T22:49:42.281726+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/fed5698d99917991\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/fed5698d99917991\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/36713394/pexels-photo-36713394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Vitaly Gariev\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/mondiali/2026/03/30/haaland-klaebo-selfie-instagram-norvegia",
+  "related": [
+    {
+      "title": "Calcio: Barbarez, nuova polemica",
+      "url": "/sport/calcio-barbarez-nuova-polemica-18330f592bc7e88e",
+      "id": "18330f592bc7e88e",
+      "image_url": "https://images.unsplash.com/photo-1637559508411-e6d65573efff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzb2NjZXIlMjBjb2FjaCUyMGludGVydmlld3xlbnwwfDB8fHwxNzc0OTEwNzM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Calcio: Ascoli vince 2-1 ad Arezzo",
+      "url": "/sport/calcio-ascoli-vince-2-1-ad-arezzo-1c5b106c4a1fb8a8",
+      "id": "1c5b106c4a1fb8a8",
+      "image_url": "https://live.staticflickr.com/4522/38446350896_f68eed6d7f_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Calcio: Cipro vince 3-2",
+      "url": "/sport/calcio-cipro-vince-3-2-b2b1fe7cc3af9429",
+      "id": "b2b1fe7cc3af9429",
+      "image_url": "https://images.unsplash.com/photo-1712168483326-545d831e4673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxDaXBybyUyMHZzJTIwTW9sZG92YSUyMGNhbGNpb3xlbnwwfDB8fHwxNzc0OTEwNjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
