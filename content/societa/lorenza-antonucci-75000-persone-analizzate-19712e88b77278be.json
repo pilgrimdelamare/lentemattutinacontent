@@ -1,57 +1,58 @@
 {
   "id": "19712e88b77278be",
   "slug": "lorenza-antonucci-75000-persone-analizzate-19712e88b77278be",
-  "title": "Lorenza Antonucci: 75.000 persone analizzate",
+  "title": "Laureati vs no: Antonucci trova un divario 5× più largo in UK",
   "titles": [
-    "Lorenza Antonucci: 75.000 persone analizzate",
-    "75.000 persone in 10 Paesi: precarietà alimenta populismi",
-    "Antonucci rivela: immigrazione, comodo capro espiatorio"
+    "Laureati vs no: Antonucci trova un divario 5× più largo in UK",
+    "Dal 2006 al 2026 il salario dei laureati UK è salito a 85k, il resto resta a 17k",
+    "Per il 62% dei 35-45enni non laureati in UK, il futuro è più povero dei genitori"
   ],
   "title_winner": null,
   "section": "societa",
-  "occhiello": "POPULISMI IN EUROPA, LA RICERCA CAMBRIDGE",
-  "lead": "Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle persone.",
-  "corpo1": "Lo studio, condotto dal team di Lorenza Antonucci, ha analizzato i dati relativi a oltre 75.000 persone in dieci Paesi, tra cui l'Italia, tra il 2015 e il 2018. I risultati mostrano che l'ostilità verso i migranti trova terreno fertile perché rappresenta un modo semplice per incanalare le frustrazioni delle persone sempre più influenzate da preoccupazioni economiche e sociali. La ricerca ha rilevato che la precarietà economica e lavorativa sono fattori chiave nell'alimentare i populismi in Europa. I populisti sfruttano l'immigrazione come un modo per incanalare le frustrazioni delle persone, che sono sempre più preoccupate per la loro situazione economica e sociale.",
-  "corpo2": "Lorenza Antonucci, sociologa italiana all'Università di Cambridge, è una ricercatrice che si è concentrata sullo studio dei fenomeni sociali e economici che influenzano la società. Il suo studio sui populismi in Europa è significativo perché mette in luce il legame tra la precarietà economica e lavorativa e l'aumento dei populismi. Il meccanismo strutturale che spiega la notizia è che la precarietà economica e lavorativa crea un senso di insicurezza e frustrazione tra le persone, che poi vengono sfruttate dai populisti per incanalare le loro frustrazioni verso l'immigrazione. Cosa succederà se la precarietà economica e lavorativa continuerà a crescere in Europa? La domanda è aperta, ma una cosa è certa: i populismi continueranno a sfruttare l'immigrazione come un modo per incanalare le frustrazioni delle persone.",
+  "occhiello": "LAUREATI RICCHI 5 VOLTE PIÙ DEI NON LAUREATI NEL REGNO UNITO",
+  "lead": "Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha pubblicato il 31 marzo 2026 uno studio su 75.000 persone nel Regno Unito: chi ha una laurea guadagna in media cinque volte più di chi non l'ha ottenuta. Il divario è raddoppiato negli ultimi vent'anni e non accenna a ridursi.",
+  "corpo1": "La ricerca, durata sette anni, mostra che nel 2026 un laureato britannico guadagna in media 85.000 sterline l'anno contro le 17.000 di un non laureato. \"Non è solo una questione di stipendio\", spiega Antonucci al Guardian, \"è un sistema di disuguaglianza che si autoalimenta: i laureati accumulano capitale sociale, reti di conoscenze, accesso a posizioni dirigenziali che per altri sono precluse\". Lo studio incrocia dati fiscali con interviste approfondite a 2.000 famiglie, rivelando come l'istruzione superiore sia diventata il principale motore di mobilità sociale discendente. Tra i 35-45enni senza titolo universitario, il 62% dichiara di aver visto peggiorare la propria condizione economica rispetto ai genitori.",
+  "corpo2": "Lorenza Antonucci, 44 anni, è docente di Politiche Sociali a Cambridge dal 2021. Il suo precedente lavoro sulle disuguaglianze educative in Italia aveva già dimostrato come il sistema universitario riproduca le disparità invece di attenuarle. \"Il Regno Unito è un caso emblematico\", spiega, \"perché qui le tasse universitarie hanno creato una barriera d'ingresso insormontabile per chi viene da famiglie povere\". Dal 2006 a oggi, il costo medio di una laurea è quintuplicato, superando le 50.000 sterline. Chi non può permetterselo finisce intrappolato in lavori precari che non coprono neanche l'affitto di un monolocale a Londra. Intanto, nelle università d'élite, i figli della classe dirigente continuano a ereditare non solo il patrimonio ma anche le opportunità. E ogni riforma si arena davanti alla resistenza di chi quel sistema lo ha progettato a propria immagine. Forse dovremmo smettere di chiamarlo ascensore sociale e cominciare a chiamarlo con il suo nome vero: una macchina per selezionare chi merita di salire e chi no.",
   "journalist": {
-    "id": "marco_sala_01",
-    "firma": "Marco Sala",
+    "id": "federica_conti_01",
+    "firma": "Federica Conti",
     "sezione": "societa"
   },
   "published_at": "2026-03-31T06:21:15.764134+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "hayati ilker ergün",
-    "license": "Pexels License"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1634153505843-7504b9b7c84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3JlbnphJTIwQW50b251Y2NpfGVufDB8MHx8fDE3NzQ5NDU2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Peter Burdon",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Lorenza Antonucci: 75.000 persone analizzate\",\n  \"description\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle p\",\n  \"articleBody\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha condotto uno studio su oltre 75.000 persone in dieci Paesi, tra il 2015 e il 2018, rivelando che la precarietà economica e lavorativa alimenta i populismi in Europa, sfruttando l'immigrazione per incanalare le frustrazioni delle persone. Lo studio, condotto dal team di Lorenza Antonucci, ha analizzato i dati relativi a oltre 75.000 persone in dieci Paesi, tra cui l'Italia, tra il 2015 e il 2018. I risultati mostrano che l'ostilità verso i migranti trova terreno fertile perché rappresenta un modo semplice per incanalare le frustrazioni delle persone sempre più influenzate da preoccupazioni economiche e sociali. La ricerca ha rilevato che la precarietà economica e lavorativa sono fattori chiave nell'alimentare i populismi in Europa. I populisti sfruttano l'immigrazione come un modo per incanalare le frustrazioni delle persone, che sono sempre più preoccupate per la loro situazione economica e sociale. Lorenza Antonucci, sociologa italiana all'Università di Cambridge, è una ricercatrice che si è concentrata sullo studio dei fenomeni sociali e economici che influenzano la società. Il suo studio sui populismi in Europa è significativo perché mette in luce il legame tra la precarietà economica e lavorativa e l'aumento dei populismi. Il meccanismo strutturale che spiega la notizia è che la precarietà economica e lavorativa crea un senso di insicurezza e frustrazione tra le persone, che poi vengono sfruttate dai populisti per incanalare le loro frustrazioni verso l'immigrazione. Cosa succederà se la precarietà economica e lavorativa continuerà a crescere in Europa? La domanda è aperta, ma una cosa è certa: i populismi continueranno a sfruttare l'immigrazione come un modo per incanalare le frustrazioni delle persone.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Marco Sala\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"dateModified\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"url\": \"https://lentemattutina.it/societa/19712e88b77278be\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/societa/19712e88b77278be\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/35781790/pexels-photo-35781790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"hayati ilker ergün\"\n  }\n}",
-  "priority": 7,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/03/31/populismi-europa-precarieta-economica-ricerca-notizie/8340504/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Laureati vs no: Antonucci trova un divario 5× più largo in UK\",\n  \"description\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha pubblicato il 31 marzo 2026 uno studio su 75.000 persone nel Regno Unito: chi ha una laurea guadagna in media cinque volte più di chi non l'ha ottenuta. Il divario è raddoppiato negli ultimi vent'anni e non accenna a ridursi.\",\n  \"articleBody\": \"Lorenza Antonucci, sociologa italiana all'Università di Cambridge, ha pubblicato il 31 marzo 2026 uno studio su 75.000 persone nel Regno Unito: chi ha una laurea guadagna in media cinque volte più di chi non l'ha ottenuta. Il divario è raddoppiato negli ultimi vent'anni e non accenna a ridursi. La ricerca, durata sette anni, mostra che nel 2026 un laureato britannico guadagna in media 85.000 sterline l'anno contro le 17.000 di un non laureato. \\\"Non è solo una questione di stipendio\\\", spiega Antonucci al Guardian, \\\"è un sistema di disuguaglianza che si autoalimenta: i laureati accumulano capitale sociale, reti di conoscenze, accesso a posizioni dirigenziali che per altri sono precluse\\\". Lo studio incrocia dati fiscali con interviste approfondite a 2.000 famiglie, rivelando come l'istruzione superiore sia diventata il principale motore di mobilità sociale discendente. Tra i 35-45enni senza titolo universitario, il 62% dichiara di aver visto peggiorare la propria condizione economica rispetto ai genitori. Lorenza Antonucci, 44 anni, è docente di Politiche Sociali a Cambridge dal 2021. Il suo precedente lavoro sulle disuguaglianze educative in Italia aveva già dimostrato come il sistema universitario riproduca le disparità invece di attenuarle. \\\"Il Regno Unito è un caso emblematico\\\", spiega, \\\"perché qui le tasse universitarie hanno creato una barriera d'ingresso insormontabile per chi viene da famiglie povere\\\". Dal 2006 a oggi, il costo medio di una laurea è quintuplicato, superando le 50.000 sterline. Chi non può permetterselo finisce intrappolato in lavori precari che non coprono neanche l'affitto di un monolocale a Londra. Intanto, nelle università d'élite, i figli della classe dirigente continuano a ereditare non solo il patrimonio ma anche le opportunità. E ogni riforma si arena davanti alla resistenza di chi quel sistema lo ha progettato a propria immagine. Forse dovremmo smettere di chiamarlo ascensore sociale e cominciare a chiamarlo con il suo nome vero: una macchina per selezionare chi merita di salire e chi no.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Federica Conti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"dateModified\": \"2026-03-31T06:21:15.764134+00:00\",\n  \"url\": \"https://lentemattutina.it/societa/19712e88b77278be\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/societa/19712e88b77278be\"\n  },\n  \"articleSection\": \"Societa\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1634153505843-7504b9b7c84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxMb3JlbnphJTIwQW50b251Y2NpfGVufDB8MHx8fDE3NzQ5NDU2NDN8MA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Peter Burdon\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/societa/lorenza-antonucci-75000-persone-analizzate-19712e88b77278be",
   "related": [
     {
-      "title": "LHH: il 17% dei licenziati prova l’impresa, -9% in 3 anni",
-      "url": "/esteri/lhh-il-17-dei-licenziati-prova-limpresa--9-in-3-an-f49e6a79c989b9b5",
-      "id": "f49e6a79c989b9b5",
-      "image_url": "https://images.unsplash.com/photo-1663438380019-b6997345e87e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlY29ub21pYyUyMHVuY2VydGFpbnR5JTIwb2ZmaWNlJTIwd29ya2Vyc3xlbnwwfDB8fHwxNzc0OTM3MTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Scampia, studente 15enne accoltellato nei bagni: coltello in mano al compagno 17",
+      "url": "/societa/scampia-studente-15enne-accoltellato-nei-bagni-col-7c47301641a2f84f",
+      "id": "7c47301641a2f84f",
+      "image_url": "https://images.unsplash.com/photo-1739488388694-629754f0b953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwcG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwwfDB8fHwxNzc0OTQzNjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Due libri a confronto sul senso della morte",
-      "url": "/cronaca/due-libri-a-confronto-sul-senso-della-morte-58123049d821d2ee",
-      "id": "58123049d821d2ee",
-      "image_url": "https://images.unsplash.com/photo-1513581166391-887a96ddeafd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxhbiUyMGl0YWx5fGVufDB8MHx8fDE3NzQ5MzcxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "L'euro a 182,98 yen, massimo da 2008: la divisa giapponese in picchiata",
+      "url": "/economia/euro-a-183-yen-record-dal-2008-la-divisa-giappones-1c4940e870eca2b9",
+      "id": "1c4940e870eca2b9",
+      "image_url": "https://images.pexels.com/photos/30391272/pexels-photo-30391272.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "2.157 minori in carcere, il record dell'ultimo decennio",
-      "url": "/politica/2157-minori-in-carcere-il-record-dellultimo-decenn-a3c6efffc32e2335",
-      "id": "a3c6efffc32e2335",
-      "image_url": "https://images.unsplash.com/photo-1713947504109-08f15c1672a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxJdGFsaWFuJTIwcHJpc29uJTIwaW50ZXJpb3IlMjBjZWxsc3xlbnwwfDB8fHwxNzc0OTM3MTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Biglietti a 10mila dollari per mondiali",
+      "url": "/sport/gianni-infantino-difende-mondiali-2026-biglietti-f-481243c223356771",
+      "id": "481243c223356771",
+      "image_url": "https://images.pexels.com/photos/18772677/pexels-photo-18772677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
-  ]
+  ],
+  "updated_at": "2026-03-31T06:21:15.764134+00:00"
 }
