@@ -1,0 +1,57 @@
+{
+  "id": "7be4d5a016188b1a",
+  "slug": "notizia-in-primo-piano-7be4d5a016188b1a",
+  "title": "Notizia in primo piano",
+  "titles": [
+    "Notizia in primo piano",
+    "Notizia in primo piano",
+    "Notizia in primo piano"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "",
+  "lead": "Bper ha lanciato il 31 marzo 2026 il progetto “Poli culturali”, un sistema diffuso di sedi storiche che rende accessibili al pubblico 2.500 opere d’arte del proprio patrimonio artistico, distribuite in oltre venti località del piemonte, tra fondazioni, biblioteche e sedi storiche della banca.",
+  "corpo1": "Il progetto, presentato ufficialmente il 31 marzo 2026, punta a valorizzare il patrimonio artistico accumulato nel tempo da Bper attraverso acquisizioni, donazioni e commissioni legate alla storia delle casse di risparmio che hanno dato vita al gruppo. Le opere, che spaziano dal rinascimento al novecento, includono dipinti, sculture e manoscritti rari, molti dei quali mai esposti al pubblico. Le sedi interessate si trovano in città come modena, reggio emilia, carpi, asti e cuneo, spesso all’interno di palazzi storici che ospitano tuttora istituzioni culturali o filiali della banca. Secondo il comunicato di Bper, l’iniziativa è stata realizzata in collaborazione con le fondazioni culturali del gruppo e con il ministero della cultura, senza specificare tuttavia l’entità dei finanziamenti pubblici eventualmente impiegati. L’obiettivo dichiarato è “avvicinare i cittadini al patrimonio artistico locale, superando il modello del museo tradizionale”, come ha dichiarato il presidente del gruppo Bper, matteo arrigoni, durante la presentazione. “Poli culturali” prevede anche un’app dedicata, percorsi tematici e attività educative per scuole e turisti. La banca ha sottolineato che il progetto non prevede la vendita né il trasferimento di opere, ma il loro mantenimento nei contesti territoriali di origine. “Non si tratta di un museo aziendale, ma di un sistema culturale diffuso”, ha precisato arrigoni. Le opere saranno fruibili con accesso gratuito o a tariffa ridotta, a seconda delle sedi, e alcune saranno oggetto di restauri finanziati da fondi della stessa Bper.",
+  "corpo2": "Bper non è una banca come le altre, e il suo patrimonio artistico non è frutto del caso. Nasce infatti dall’aggregazione di oltre venti casse di risparmio locali, istituzioni nate nel xix secolo con una funzione sociale e culturale ben precisa: reinvestire gli utili in opere per la comunità. Per decenni, queste casse hanno acquistato opere, finanziato artisti, restaurato chiese e biblioteche. Negli anni novanta, con la privatizzazione del sistema bancario, molte di queste attività si sono spente. Bper, però, ha mantenuto – e in parte ampliato – quel patrimonio, trasformandolo da bene comune a strumento di branding istituzionale. Il lancio di “Poli culturali” non è dunque un atto di filantropia, ma un’operazione di rilancio simbolico in un momento di ridefinizione del ruolo delle ex casse: dopo fusioni, tagli al territorio e controversie sui fondi pubblici ricevuti, la banca ha bisogno di ridare un volto “culturale” alla propria presenza locale. Il problema è che questa operazione si svolge senza trasparenza sui costi, senza un monitoraggio indipendente sull’effettiva accessibilità delle opere e senza un piano di conservazione condiviso con le amministrazioni locali. Valorizzare 2.500 opere è un’ambizione legittima, ma se il modello è quello di aprire porte di palazzi senza modificare il potere sulle chiavi, allora non si tratta di democratizzazione, ma di scenografia culturale. Chi decide quali opere vengono esposte, restaurate, raccontate? E chi controlla che questo patrimonio non venga usato per lavare l’immagine di un settore bancario che ha contribuito a svuotare quegli stessi territori?",
+  "journalist": {
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-03-31T08:53:44.733366+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1769485016772-c5a4234a6be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjdWx0dXJhbCUyMGhlcml0YWdlJTIwZXhoaWJpdGlvbnxlbnwwfDB8fHwxNzc0OTQ3MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Galih Jelih",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Notizia in primo piano\",\n  \"description\": \"Bper ha lanciato il 31 marzo 2026 il progetto “Poli culturali”, un sistema diffuso di sedi storiche che rende accessibili al pubblico 2.500 opere d’arte del proprio patrimonio artistico, distribuite in oltre venti località del piemonte, tra fondazioni, biblioteche e sedi storiche della banca.\",\n  \"articleBody\": \"Bper ha lanciato il 31 marzo 2026 il progetto “Poli culturali”, un sistema diffuso di sedi storiche che rende accessibili al pubblico 2.500 opere d’arte del proprio patrimonio artistico, distribuite in oltre venti località del piemonte, tra fondazioni, biblioteche e sedi storiche della banca. Il progetto, presentato ufficialmente il 31 marzo 2026, punta a valorizzare il patrimonio artistico accumulato nel tempo da Bper attraverso acquisizioni, donazioni e commissioni legate alla storia delle casse di risparmio che hanno dato vita al gruppo. Le opere, che spaziano dal rinascimento al novecento, includono dipinti, sculture e manoscritti rari, molti dei quali mai esposti al pubblico. Le sedi interessate si trovano in città come modena, reggio emilia, carpi, asti e cuneo, spesso all’interno di palazzi storici che ospitano tuttora istituzioni culturali o filiali della banca. Secondo il comunicato di Bper, l’iniziativa è stata realizzata in collaborazione con le fondazioni culturali del gruppo e con il ministero della cultura, senza specificare tuttavia l’entità dei finanziamenti pubblici eventualmente impiegati. L’obiettivo dichiarato è “avvicinare i cittadini al patrimonio artistico locale, superando il modello del museo tradizionale”, come ha dichiarato il presidente del gruppo Bper, matteo arrigoni, durante la presentazione. “Poli culturali” prevede anche un’app dedicata, percorsi tematici e attività educative per scuole e turisti. La banca ha sottolineato che il progetto non prevede la vendita né il trasferimento di opere, ma il loro mantenimento nei contesti territoriali di origine. “Non si tratta di un museo aziendale, ma di un sistema culturale diffuso”, ha precisato arrigoni. Le opere saranno fruibili con accesso gratuito o a tariffa ridotta, a seconda delle sedi, e alcune saranno oggetto di restauri finanziati da fondi della stessa Bper. Bper non è una banca come le altre, e il suo patrimonio artistico non è frutto del caso. Nasce infatti dall’aggregazione di oltre venti casse di risparmio locali, istituzioni nate nel xix secolo con una funzione sociale e culturale ben precisa: reinvestire gli utili in opere per la comunità. Per decenni, queste casse hanno acquistato opere, finanziato artisti, restaurato chiese e biblioteche. Negli anni novanta, con la privatizzazione del sistema bancario, molte di queste attività si sono spente. Bper, però, ha mantenuto – e in parte ampliato – quel patrimonio, trasformandolo da bene comune a strumento di branding istituzionale. Il lancio di “Poli culturali” non è dunque un atto di filantropia, ma un’operazione di rilancio simbolico in un momento di ridefinizione del ruolo delle ex casse: dopo fusioni, tagli al territorio e controversie sui fondi pubblici ricevuti, la banca ha bisogno di ridare un volto “culturale” alla propria presenza locale. Il problema è che questa operazione si svolge senza trasparenza sui costi, senza un monitoraggio indipendente sull’effettiva accessibilità delle opere e senza un piano di conservazione condiviso con le amministrazioni locali. Valorizzare 2.500 opere è un’ambizione legittima, ma se il modello è quello di aprire porte di palazzi senza modificare il potere sulle chiavi, allora non si tratta di democratizzazione, ma di scenografia culturale. Chi decide quali opere vengono esposte, restaurate, raccontate? E chi controlla che questo patrimonio non venga usato per lavare l’immagine di un settore bancario che ha contribuito a svuotare quegli stessi territori?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T08:53:44.733366+00:00\",\n  \"dateModified\": \"2026-03-31T08:53:44.733366+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/7be4d5a016188b1a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/7be4d5a016188b1a\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1769485016772-c5a4234a6be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjdWx0dXJhbCUyMGhlcml0YWdlJTIwZXhoaWJpdGlvbnxlbnwwfDB8fHwxNzc0OTQ3MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Galih Jelih\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/03/31/bper-lancia-poli-culturali-un-sistema-di-patrimonio-diffuso_bc952832-9b0f-42d5-aee0-40c6b7ee91fb.html",
+  "related": [
+    {
+      "title": "Notizia in primo piano",
+      "url": "/cultura/napoli-aperte-le-porte-del-duomo-40-metri-daltezza-d9bd45bbfd81254c",
+      "id": "d9bd45bbfd81254c",
+      "image_url": "https://images.unsplash.com/photo-1728643935578-5a3d4c74cc0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOYXBsZXMlMjBDYXRoZWRyYWwlMjBwYW5vcmFtaWMlMjB3YWxrd2F5fGVufDB8MHx8fDE3NzQ5NDQ3MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Notizia in primo piano",
+      "url": "/cultura/notizia-in-primo-piano-80f46e74e654e864",
+      "id": "80f46e74e654e864",
+      "image_url": "https://images.unsplash.com/photo-1631220706319-657942774d02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx0aGVhdGVyJTIwc3RhZ2UlMjBtdXNpYyUyMHBlcmZvcm1hbmNlfGVufDB8MHx8fDE3NzQ5NDQzOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Notizia in primo piano",
+      "url": "/cultura/rupert-everett-e-il-ruolo-di-caifa-911727ba7f15fbba",
+      "id": "911727ba7f15fbba",
+      "image_url": "https://live.staticflickr.com/65535/52128541763_4825dfea9d_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
