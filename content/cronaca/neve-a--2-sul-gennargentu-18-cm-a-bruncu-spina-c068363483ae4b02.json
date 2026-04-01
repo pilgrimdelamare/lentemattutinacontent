@@ -1,18 +1,18 @@
 {
   "id": "c068363483ae4b02",
   "slug": "neve-a--2-sul-gennargentu-18-cm-a-bruncu-spina-c068363483ae4b02",
-  "title": "Neve a -2° sul Gennargentu: 18 cm a Bruncu Spina",
+  "title": "Neve a -2 gradi, Sardegna sotto shock: 18 cm sul Gennargentu",
   "titles": [
-    "Neve a -2° sul Gennargentu: 18 cm a Bruncu Spina",
-    "Pasquetta nel gelo: strade chiuse in Sardegna per neve",
-    "La neve isola paesi dell'entroterra nuorese: intervento della Protezione Civile"
+    "Neve a -2 gradi, Sardegna sotto shock: 18 cm sul Gennargentu",
+    "Gennargentu, la vetta più alta della Sardegna, torna a nevicare",
+    "18 centimetri di neve sul Gennargentu: la primavera si ferma"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "NEVE A PASQUETTA SUL GENNARGENTU",
-  "lead": "Neve a Pasquetta sul Gennargentu: -2 gradi e fiocchi bianchi il 31 marzo: la perturbazione atlantica ha interrotto la settimana Santa con un'ondata di freddo che ha portato la neve fino a 1.200 metri, lasciando isolati alcuni paesi dell'entroterra nuorese.",
-  "corpo1": "La perturbazione è arrivata nella notte tra il 30 e il 31 marzo. Alle 6:00 la stazione meteo di Fonni segnalava -2 gradi e neve in corso. Il fronte freddo atlantico, spinto da venti di libeccio, ha incontrato l'aria più mite del Mediterraneo centrale generando precipitazioni intense sotto i 1.400 metri. A Bruncu Spina, a 1.824 metri, lo spessore di neve fresca ha raggiunto i 18 centimetri alle 9:00. Le strade provinciali 2 e 27, che collegano Fonni a Desulo e a Villagrande Strisaili, sono state chiuse al traffico dalle 7:15 per neve e ghiaccio. Il servizio di protezione civile della Provincia di Nuoro ha attivato il piano neve alle 5:30, con 12 mezzi spargisale e 8 squadre di operai forestali. Nessun disagio per gli abitanti: i rifornimenti di carburante e generi alimentari sono garantiti dalle scorte di emergenza depositate nei magazzini comunali. La Protezione Civile regionale ha emesso un'allerta meteo gialla per rischio idrogeologico e neve fino alle 20:00 del 31 marzo.",
-  "corpo2": "Il Gennargentu è l'osservatorio naturale più affidabile per misurare quanto stia cambiando il clima mediterraneo. Negli ultimi dieci anni la neve a marzo si è vista solo tre volte: nel 2019, nel 2021 e adesso nel 2026. Prima del 2015 era la norma, adesso è un'eccezione che fa notizia. I dati dell'Arpas mostrano che la linea delle nevi si è spostata in quota di 250 metri rispetto agli anni '80, con una perdita media di 30 centimetri di spessore invernale. Per i pastori di Ollolai, Ovodda e Fonni questo significa meno acqua nei serbatoi naturali e più difficoltà per l'estivazione degli ovini: i pascoli estivi si sono accorciati di tre settimane in dieci anni. L'assessore regionale all'Agricoltura, Gianfranco Satta, aveva promesso a gennaio un piano di adattamento climatico per le aree interne: ancora non esiste. I sindaci del Gennargentu chiedono da tre anni un tavolo tecnico permanente con la Regione per gestire l'emergenza idrica: l'ultima riunione è del 14 ottobre 2024, senza esiti concreti. Se il trend continua, Pasquetta con la neve rischia di restare l'unico giorno dell'anno in cui si ricorda com'era il clima di un tempo.",
+  "occhiello": "NEVE A -2° SUL GENNARGENTU",
+  "lead": "Neve a -2 gradi sul Gennargentu: la perturbazione atlantica ha interrotto la stagione primaverile sulle vette più alte dell'isola. Il 31 marzo, a Bruncu Spina, una leggera nevicata ha coperto la zona più alta della vetta.",
+  "corpo1": "La temperatura è precipitata a -2 gradi sul Gennargentu, dove la perturbazione atlantica ha portato 18 centimetri di neve a Bruncu Spina. La vetta più elevata della Sardegna, dopo punta La Marmora, è stata investita da una leggera nevicata, che ha coperto la montagna. la neve ha coperto la zona tra i 900 e i 1.500 metri di altitudine, lasciando sull'erba fresca una traccia di 18 centimetri. Il Gennargentu, situato nella zona centro-orientale della Sardegna, è caratterizzato da montagne di altezza moderata e vette a profilo rotondeggiante. la regione montuosa è stata iscritta tra le zone di protezione speciale incluse nella rete Natura 2000.",
+  "corpo2": "Il Gennargentu è un'area montuosa di grande estensione. La montagna è stata investita da una leggera nevicata, che ha coperto la zona più alta della vetta. la neve ha coperto la zona tra i 900 e i 1.500 metri di altitudine. la neve potrebbe rendere la zona inaccessibile per i visitatori. Se la neve continua a cadere, la zona potrebbe diventare inaccessibile per i visitatori.",
   "journalist": {
     "id": "chiara_esposito_01",
     "firma": "Chiara Esposito",
@@ -21,17 +21,24 @@
   "published_at": "2026-03-31T07:52:23.637918+00:00",
   "image": {
     "type": "pexels",
-    "url": "https://images.pexels.com/photos/31390265/pexels-photo-31390265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "url": "https://images.pexels.com/photos/18661014/pexels-photo-18661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "source": "Pexels",
-    "credit": "Meriç Tuna",
+    "credit": "Christopher Politano",
     "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Neve a -2° sul Gennargentu: 18 cm a Bruncu Spina\",\n  \"description\": \"Neve a Pasquetta sul Gennargentu: -2 gradi e fiocchi bianchi il 31 marzo: la perturbazione atlantica ha interrotto la settimana Santa con un'ondata di freddo che ha portato la neve fino a 1.200 metri, lasciando isolati alcuni paesi dell'entroterra nuorese.\",\n  \"articleBody\": \"Neve a Pasquetta sul Gennargentu: -2 gradi e fiocchi bianchi il 31 marzo: la perturbazione atlantica ha interrotto la settimana Santa con un'ondata di freddo che ha portato la neve fino a 1.200 metri, lasciando isolati alcuni paesi dell'entroterra nuorese. La perturbazione è arrivata nella notte tra il 30 e il 31 marzo. Alle 6:00 la stazione meteo di Fonni segnalava -2 gradi e neve in corso. Il fronte freddo atlantico, spinto da venti di libeccio, ha incontrato l'aria più mite del Mediterraneo centrale generando precipitazioni intense sotto i 1.400 metri. A Bruncu Spina, a 1.824 metri, lo spessore di neve fresca ha raggiunto i 18 centimetri alle 9:00. Le strade provinciali 2 e 27, che collegano Fonni a Desulo e a Villagrande Strisaili, sono state chiuse al traffico dalle 7:15 per neve e ghiaccio. Il servizio di protezione civile della Provincia di Nuoro ha attivato il piano neve alle 5:30, con 12 mezzi spargisale e 8 squadre di operai forestali. Nessun disagio per gli abitanti: i rifornimenti di carburante e generi alimentari sono garantiti dalle scorte di emergenza depositate nei magazzini comunali. La Protezione Civile regionale ha emesso un'allerta meteo gialla per rischio idrogeologico e neve fino alle 20:00 del 31 marzo. Il Gennargentu è l'osservatorio naturale più affidabile per misurare quanto stia cambiando il clima mediterraneo. Negli ultimi dieci anni la neve a marzo si è vista solo tre volte: nel 2019, nel 2021 e adesso nel 2026. Prima del 2015 era la norma, adesso è un'eccezione che fa notizia. I dati dell'Arpas mostrano che la linea delle nevi si è spostata in quota di 250 metri rispetto agli anni '80, con una perdita media di 30 centimetri di spessore invernale. Per i pastori di Ollolai, Ovodda e Fonni questo significa meno acqua nei serbatoi naturali e più difficoltà per l'estivazione degli ovini: i pascoli estivi si sono accorciati di tre settimane in dieci anni. L'assessore regionale all'Agricoltura, Gianfranco Satta, aveva promesso a gennaio un piano di adattamento climatico per le aree interne: ancora non esiste. I sindaci del Gennargentu chiedono da tre anni un tavolo tecnico permanente con la Regione per gestire l'emergenza idrica: l'ultima riunione è del 14 ottobre 2024, senza esiti concreti. Se il trend continua, Pasquetta con la neve rischia di restare l'unico giorno dell'anno in cui si ricorda com'era il clima di un tempo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T07:52:23.637918+00:00\",\n  \"dateModified\": \"2026-03-31T07:52:23.637918+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/c068363483ae4b02\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/c068363483ae4b02\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/31390265/pexels-photo-31390265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Meriç Tuna\"\n  }\n}",
-  "priority": 6,
-  "source": "ANSA Cronaca",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cronaca/2026/03/31/linverno-a-primavera-sul-gennargentu-2-gradi-e-neve_106f52d7-cb92-4e95-b133-1160433c92fc.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Neve a -2 gradi, Sardegna sotto shock: 18 cm sul Gennargentu\",\n  \"description\": \"Neve a -2 gradi sul Gennargentu: la perturbazione atlantica ha interrotto la stagione primaverile sulle vette più alte dell'isola. Il 31 marzo, a Bruncu Spina, una leggera nevicata ha coperto la zona più alta della vetta.\",\n  \"articleBody\": \"Neve a -2 gradi sul Gennargentu: la perturbazione atlantica ha interrotto la stagione primaverile sulle vette più alte dell'isola. Il 31 marzo, a Bruncu Spina, una leggera nevicata ha coperto la zona più alta della vetta. La temperatura è precipitata a -2 gradi sul Gennargentu, dove la perturbazione atlantica ha portato 18 centimetri di neve a Bruncu Spina. La vetta più elevata della Sardegna, dopo punta La Marmora, è stata investita da una leggera nevicata, che ha coperto la montagna. la neve ha coperto la zona tra i 900 e i 1.500 metri di altitudine, lasciando sull'erba fresca una traccia di 18 centimetri. Il Gennargentu, situato nella zona centro-orientale della Sardegna, è caratterizzato da montagne di altezza moderata e vette a profilo rotondeggiante. la regione montuosa è stata iscritta tra le zone di protezione speciale incluse nella rete Natura 2000. Il Gennargentu è un'area montuosa di grande estensione. La montagna è stata investita da una leggera nevicata, che ha coperto la zona più alta della vetta. la neve ha coperto la zona tra i 900 e i 1.500 metri di altitudine. la neve potrebbe rendere la zona inaccessibile per i visitatori. Se la neve continua a cadere, la zona potrebbe diventare inaccessibile per i visitatori.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T07:52:23.637918+00:00\",\n  \"dateModified\": \"2026-03-31T07:52:23.637918+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/c068363483ae4b02\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/c068363483ae4b02\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/18661014/pexels-photo-18661014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Christopher Politano\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/neve-a--2-sul-gennargentu-18-cm-a-bruncu-spina-c068363483ae4b02",
   "related": [
+    {
+      "title": "Oppido e Bergonzoni, 4 ore di interrogatorio in ospedale: appalti sotto torchio",
+      "url": "/cronaca/oppido-e-bergonzoni-interrogati-04c407adb40a99b2",
+      "id": "04c407adb40a99b2",
+      "image_url": "https://images.pexels.com/photos/10464435/pexels-photo-10464435.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
     {
       "title": "Neve sul Vesuvio a 250 m il 31 marzo: mai vista così in basso da 8 anni",
       "url": "/cronaca/neve-sul-vesuvio-a-250-m-il-31-marzo-mai-vista-cos-3afd0bbf4aa04f58",
@@ -40,18 +47,12 @@
       "image_type": "unsplash"
     },
     {
-      "title": "La prof fendetta dal tredicenne salvata",
-      "url": "/cronaca/la-prof-fendetta-dal-tredicenne-salvata-6483b7baa1ff1b41",
-      "id": "6483b7baa1ff1b41",
-      "image_url": "https://images.unsplash.com/photo-1758270705657-f28eec1a5694?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzdHVkZW50ZSUyMHNhbHZhJTIwcHJvZmVzc29yZXNzYXxlbnwwfDB8fHwxNzc0OTQyNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "4 lotti di sughi vegetali richiamati",
-      "url": "/cronaca/4-lotti-di-sughi-vegetali-richiamati-eeba081dc72dd979",
-      "id": "eeba081dc72dd979",
-      "image_url": "https://images.unsplash.com/photo-1677826158893-e5120a1c7875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwamFyJTIwcmVjYWxsJTIwaXRhbHl8ZW58MHwwfHx8MTc3NDk0MjY1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Palazzina crolla a Licata: morti sotto le macerie",
+      "url": "/cronaca/licata-palazzina-crolla-e-scuote-abitanti-di-34191-ff326901e887cf14",
+      "id": "ff326901e887cf14",
+      "image_url": "https://live.staticflickr.com/65535/55153262158_3fec0ebb24_b.jpg",
+      "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-03-31T07:52:23.637918+00:00"
 }
