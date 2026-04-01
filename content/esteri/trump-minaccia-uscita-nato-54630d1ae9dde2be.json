@@ -1,0 +1,57 @@
+{
+  "id": "54630d1ae9dde2be",
+  "slug": "trump-minaccia-uscita-nato-54630d1ae9dde2be",
+  "title": "Trump minaccia uscita Nato",
+  "titles": [
+    "Trump minaccia uscita Nato",
+    "Gli Stati Uniti lasciano la Nato?",
+    "Nato a rischio: Trump chiede più fondi"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "TRUMP MINACCIA L'ADDIO ALLA NATO",
+  "lead": "Trump ha minacciato di lasciare la Nato dopo che gli alleati non hanno partecipato alla guerra in Iran, come riportato dalla Repubblica il 1 aprile 2026.",
+  "corpo1": "La decisione, secondo il protocollo, andrebbe comunicata agli stessi Stati Uniti, a dimostrazione di quanto fosse impensabile per i fondatori che l'America potesse mai considerare un'uscita. Trump ha affermato che gli Stati Uniti non possono più permettersi di sostenere economicamente la Nato, e che gli alleati devono contribuire di più alle spese di difesa. La minaccia di Trump incrina ulteriormente i rapporti tra Washington e l’Europa, già tesi per le politiche isolazioniste dell’amministrazione.",
+  "corpo2": "Trump, architetto di una politica estera basata sull’isolazionismo e sul “America First”, guida questa nuova offensiva contro l’alleanza atlantica. Già in passato, Trump ha definito la Nato obsoleta, sostenendo che gli Stati Uniti finanziano da soli la difesa comune senza un adeguato ritorno dagli alleati. Questo background spiega perché la minaccia di trump non sia così sorprendente. Il meccanismo strutturale che spiega la notizia è il fatto che La Nato è un'organizzazione basata sulla cooperazione e sulla solidarietà tra i membri, e che la minaccia di trump potrebbe mettere in discussione questo equilibrio. A cambiare è l’equilibrio strategico dell’Europa, ora costretta a rivedere le proprie difese nell’incertezza del sostegno americano. A pagare saranno i soliti: i paesi più deboli e più esposti alle minacce esterne.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-01T14:49:33.944642+00:00",
+  "image": {
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1743177184806-a625e1e0a312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOQVRPJTIwbWVldGluZ3xlbnwwfDB8fHwxNzc1MDU0OTczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Guy Croisiaux",
+    "license": "Unsplash License"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump minaccia uscita Nato\",\n  \"description\": \"Trump ha minacciato di lasciare la Nato dopo che gli alleati non hanno partecipato alla guerra in Iran, come riportato dalla Repubblica il 1 aprile 2026.\",\n  \"articleBody\": \"Trump ha minacciato di lasciare la Nato dopo che gli alleati non hanno partecipato alla guerra in Iran, come riportato dalla Repubblica il 1 aprile 2026. La decisione, secondo il protocollo, andrebbe comunicata agli stessi Stati Uniti, a dimostrazione di quanto fosse impensabile per i fondatori che l'America potesse mai considerare un'uscita. Trump ha affermato che gli Stati Uniti non possono più permettersi di sostenere economicamente la Nato, e che gli alleati devono contribuire di più alle spese di difesa. La minaccia di Trump incrina ulteriormente i rapporti tra Washington e l’Europa, già tesi per le politiche isolazioniste dell’amministrazione. Trump, architetto di una politica estera basata sull’isolazionismo e sul “America First”, guida questa nuova offensiva contro l’alleanza atlantica. Già in passato, Trump ha definito la Nato obsoleta, sostenendo che gli Stati Uniti finanziano da soli la difesa comune senza un adeguato ritorno dagli alleati. Questo background spiega perché la minaccia di trump non sia così sorprendente. Il meccanismo strutturale che spiega la notizia è il fatto che La Nato è un'organizzazione basata sulla cooperazione e sulla solidarietà tra i membri, e che la minaccia di trump potrebbe mettere in discussione questo equilibrio. A cambiare è l’equilibrio strategico dell’Europa, ora costretta a rivedere le proprie difese nell’incertezza del sostegno americano. A pagare saranno i soliti: i paesi più deboli e più esposti alle minacce esterne.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T14:49:33.944642+00:00\",\n  \"dateModified\": \"2026-04-01T14:49:33.944642+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/54630d1ae9dde2be\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/54630d1ae9dde2be\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1743177184806-a625e1e0a312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxOQVRPJTIwbWVldGluZ3xlbnwwfDB8fHwxNzc1MDU0OTczfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Guy Croisiaux\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Esteri",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/esteri/2026/04/01/news/nato_come_si_esce_stati_uniti-425258015/?rss",
+  "related": [
+    {
+      "title": "L'Iran chiede cessate il fuoco a Trump: la proposta del 1 aprile",
+      "url": "/esteri/liran-chiede-cessate-il-fuoco-a-trump-la-proposta-ae34d99048e98bf0",
+      "id": "ae34d99048e98bf0",
+      "image_url": "https://images.pexels.com/photos/5854416/pexels-photo-5854416.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Aeroporto di Palm Beach intitolato a Trump, la firma di DeSantis",
+      "url": "/esteri/desantis-intitola-aeroporto-a-trump-in-florida-d3d94883f3356277",
+      "id": "d3d94883f3356277",
+      "image_url": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxEb25hbGQlMjBKLiUyMFRydW1wfGVufDB8MHx8fDE3NzUwMDc4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Trump: 'Iran riapra Hormuz o distruggerò impianti'",
+      "url": "/esteri/trump-distruggeremo-impianti-elettrici-e-petrolife-a97b7794c5524847",
+      "id": "a97b7794c5524847",
+      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
+      "image_type": "flickr"
+    }
+  ]
+}
