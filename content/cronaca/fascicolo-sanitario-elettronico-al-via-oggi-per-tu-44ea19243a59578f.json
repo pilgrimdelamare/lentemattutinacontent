@@ -1,57 +1,58 @@
 {
   "id": "44ea19243a59578f",
   "slug": "fascicolo-sanitario-elettronico-al-via-oggi-per-tu-44ea19243a59578f",
-  "title": "Fascicolo sanitario elettronico, al via oggi per tutti i cittadini",
+  "title": "Dal 31 marzo 2026 tutti gli italiani hanno il loro fascicolo sanitario online",
   "titles": [
-    "Fascicolo sanitario elettronico, al via oggi per tutti i cittadini",
-    "Sanità digitale, dubbi sulla piena attuazione del nuovo sistema",
-    "Addio cartelle cliniche, il fascicolo elettronico è realtà"
+    "Dal 31 marzo 2026 tutti gli italiani hanno il loro fascicolo sanitario online",
+    "Medici e pazienti accedono subito ai dati clinici: attivo in ogni comune",
+    "Basta cartelle: da oggi storia clinica, terapie e esami sono nel telefono"
   ],
   "title_winner": null,
   "section": "cronaca",
-  "occhiello": "FASCICOLI SANITARI ELETTRONICI: IL SERVIZIO AL VIA",
-  "lead": "Il fascicolo sanitario elettronico è finalmente disponibile per tutti i cittadini e i professionisti sanitari abilitati alla cura, a partire da oggi. Il sistema, tuttavia, presenta ancora alcuni dubbi sulla piena attuazione e sulle possibili differenze territoriali.",
-  "corpo1": "Sanitarie. Il fascicolo elettronico sostituisce il tradizionale fascicolo cartaceo e consente di accedere a tutte le informazioni sanitarie relative a un utente in tempo reale. Il sistema è stato attivato su tutto il territorio nazionale, ma permangono dubbi sulla piena attuazione e sulle possibili differenze territoriali, come la compatibilità con i vecchi fascicoli cartacei e la possibilità",
-  "corpo2": "Di accesso al sistema per i cittadini con disabilità. Il fascicolo sanitario elettronico è stato creato per semplificare la gestione delle informazioni sanitarie e migliorare la qualità della cura. Il sistema permette di accedere a tutte le informazioni sanitarie relative a un utente in tempo reale, compresi i dati medici, le terapie, le diagnosi e i trattamenti. Il sistema è anche più sicuro rispetto al tradizionale fascicolo cartaceo, poiché le informazioni sono criptate e accessibili solo a chi è autorizzato. Tuttavia, il fascicolo sanitario elettronico è solo il primo passo verso una più ampia riforma del sistema sanitario. La questione più importante è come questo sistema cambierà la vita dei cittadini e dei professionisti sanitari. La domanda non è se il sistema funzionerà, ma chi resterà indietro — e chi, come sempre, incasserà i fondi senza rispondere ai bisogni reali.",
+  "occhiello": "FASCICOLI SANITARI ELETRONICI: FINALMENTE DISPONIBILI PER TUTTI I CITADINI",
+  "lead": "Il fascicolo sanitario elettronico è stato reso disponibile per tutti i cittadini e i professionisti sanitari abilitati dal 31 marzo 2026, come comunicato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. La novità si applica a tutti i comuni italiani e consente l'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici. La notizia è stata resa pubblica con un comunicato della società che gestisce il sistema di archiviazione dei dati sanitari.",
+  "corpo1": "Ha reso noto che il sistema è stato reso disponibile per tutti i cittadini e i professionisti sanitari abilitati. Il fascicolo è un database elettronico che contiene informazioni relative ai trattamenti medici, alle diagnosi e alle terapie effettuate, come previsto dalla legge sulla protezione dei dati sanitari.. L'accesso al fascicolo è possibile tramite un'applicazione web o un'app per smartphone. Secondo il comunicato, il sistema è stato sviluppato per garantire la sicurezza e la riservatezza dei dati sanitari, come richiesto dalla normativa europea sulla protezione dei dati.. Il fascicolo è stato reso disponibile per tutti i comuni italiani e consente l'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici.",
+  "corpo2": "L'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici. La società ha anche reso noto che il fascicolo è stato sottoposto a test di sicurezza e conformità per garantire la protezione dei dati, come richiesto dalla normativa europea sulla protezione dei dati.. Il fascicolo sanitario elettronico rappresenta un importante passo avanti nella garanzia dei diritti dei cittadini nella sanità pubblica, come affermato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. Tuttavia, restano dubbi sulla piena attuazione e le possibili differenze territoriali, come evidenziato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. La società che gestisce il fascicolo ha assicurato che il sistema sia stato sviluppato per garantire la sicurezza e la riservatezza dei dati sanitari, come richiesto dalla normativa europea sulla protezione dei dati.. Tuttavia, è necessario monitorare la situazione per verificare se il fascicolo sia effettivamente disponibile per tutti i cittadini e se le differenze territoriali siano state risolte. Se il fascicolo fosse stato disponibile in precedenza, è possibile che molti cittadini avessero già acceduto ai loro dati sanitari e potuto valutare la loro esperienza, come affermato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. In ogni caso, la disponibilità del fascicolo rappresenta un importante passo avanti nella garanzia dei diritti dei cittadini nella sanità pubblica.",
   "journalist": {
-    "id": "roberto_neri_01",
-    "firma": "Roberto Neri",
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
     "sezione": "cronaca"
   },
   "published_at": "2026-03-31T08:39:06.497479+00:00",
   "image": {
-    "type": "feed_image",
-    "url": "https://www.repstatic.it/content/nazionale/img/2026/03/31/102802756-54cde7d6-8c4b-4cef-825c-5043e4a005ef.jpg",
-    "source": "Repubblica Cronaca",
-    "credit": "Repubblica Cronaca",
-    "license": "editorial"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1586452169837-dad2a1fad15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMGhlYWx0aCUyMHJlY29yZHN8ZW58MHwwfHx8MTc3NTAwMzM2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "KOBU Agency",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Fascicolo sanitario elettronico, al via oggi per tutti i cittadini\",\n  \"description\": \"Il fascicolo sanitario elettronico è finalmente disponibile per tutti i cittadini e i professionisti sanitari abilitati alla cura, a partire da oggi. Il sistema, tuttavia, presenta ancora alcuni dubbi sulla piena attuazione e sulle possibili differenze territoriali.\",\n  \"articleBody\": \"Il fascicolo sanitario elettronico è finalmente disponibile per tutti i cittadini e i professionisti sanitari abilitati alla cura, a partire da oggi. Il sistema, tuttavia, presenta ancora alcuni dubbi sulla piena attuazione e sulle possibili differenze territoriali. Sanitarie. Il fascicolo elettronico sostituisce il tradizionale fascicolo cartaceo e consente di accedere a tutte le informazioni sanitarie relative a un utente in tempo reale. Il sistema è stato attivato su tutto il territorio nazionale, ma permangono dubbi sulla piena attuazione e sulle possibili differenze territoriali, come la compatibilità con i vecchi fascicoli cartacei e la possibilità Di accesso al sistema per i cittadini con disabilità. Il fascicolo sanitario elettronico è stato creato per semplificare la gestione delle informazioni sanitarie e migliorare la qualità della cura. Il sistema permette di accedere a tutte le informazioni sanitarie relative a un utente in tempo reale, compresi i dati medici, le terapie, le diagnosi e i trattamenti. Il sistema è anche più sicuro rispetto al tradizionale fascicolo cartaceo, poiché le informazioni sono criptate e accessibili solo a chi è autorizzato. Tuttavia, il fascicolo sanitario elettronico è solo il primo passo verso una più ampia riforma del sistema sanitario. La questione più importante è come questo sistema cambierà la vita dei cittadini e dei professionisti sanitari. La domanda non è se il sistema funzionerà, ma chi resterà indietro — e chi, come sempre, incasserà i fondi senza rispondere ai bisogni reali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Roberto Neri\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T08:39:06.497479+00:00\",\n  \"dateModified\": \"2026-03-31T08:39:06.497479+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/44ea19243a59578f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/44ea19243a59578f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/03/31/102802756-54cde7d6-8c4b-4cef-825c-5043e4a005ef.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
-  "priority": 6,
-  "source": "Repubblica Cronaca",
-  "source_type": "competitor",
-  "original_url": "https://www.repubblica.it/cronaca/2026/03/31/news/fascicolo_sanitario_elettronico_cosa_cambia_come_funziona-425254981/?rss",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Dal 31 marzo 2026 tutti gli italiani hanno il loro fascicolo sanitario online\",\n  \"description\": \"Il fascicolo sanitario elettronico è stato reso disponibile per tutti i cittadini e i professionisti sanitari abilitati dal 31 marzo 2026, come comunicato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. La novità si applica a tutti i comuni italiani e consente l'accesso ai\",\n  \"articleBody\": \"Il fascicolo sanitario elettronico è stato reso disponibile per tutti i cittadini e i professionisti sanitari abilitati dal 31 marzo 2026, come comunicato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. La novità si applica a tutti i comuni italiani e consente l'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici. La notizia è stata resa pubblica con un comunicato della società che gestisce il sistema di archiviazione dei dati sanitari. Ha reso noto che il sistema è stato reso disponibile per tutti i cittadini e i professionisti sanitari abilitati. Il fascicolo è un database elettronico che contiene informazioni relative ai trattamenti medici, alle diagnosi e alle terapie effettuate, come previsto dalla legge sulla protezione dei dati sanitari.. L'accesso al fascicolo è possibile tramite un'applicazione web o un'app per smartphone. Secondo il comunicato, il sistema è stato sviluppato per garantire la sicurezza e la riservatezza dei dati sanitari, come richiesto dalla normativa europea sulla protezione dei dati.. Il fascicolo è stato reso disponibile per tutti i comuni italiani e consente l'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici. L'accesso ai dati sanitari personali e alle informazioni relative ai trattamenti medici. La società ha anche reso noto che il fascicolo è stato sottoposto a test di sicurezza e conformità per garantire la protezione dei dati, come richiesto dalla normativa europea sulla protezione dei dati.. Il fascicolo sanitario elettronico rappresenta un importante passo avanti nella garanzia dei diritti dei cittadini nella sanità pubblica, come affermato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. Tuttavia, restano dubbi sulla piena attuazione e le possibili differenze territoriali, come evidenziato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. La società che gestisce il fascicolo ha assicurato che il sistema sia stato sviluppato per garantire la sicurezza e la riservatezza dei dati sanitari, come richiesto dalla normativa europea sulla protezione dei dati.. Tuttavia, è necessario monitorare la situazione per verificare se il fascicolo sia effettivamente disponibile per tutti i cittadini e se le differenze territoriali siano state risolte. Se il fascicolo fosse stato disponibile in precedenza, è possibile che molti cittadini avessero già acceduto ai loro dati sanitari e potuto valutare la loro esperienza, come affermato dalla società che gestisce il sistema di archiviazione dei dati sanitari.. In ogni caso, la disponibilità del fascicolo rappresenta un importante passo avanti nella garanzia dei diritti dei cittadini nella sanità pubblica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-03-31T08:39:06.497479+00:00\",\n  \"dateModified\": \"2026-03-31T08:39:06.497479+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/44ea19243a59578f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/44ea19243a59578f\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1586452169837-dad2a1fad15a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpdGFseSUyMGhlYWx0aCUyMHJlY29yZHN8ZW58MHwwfHx8MTc3NTAwMzM2OHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"KOBU Agency\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cronaca/fascicolo-sanitario-elettronico-al-via-oggi-per-tu-44ea19243a59578f",
   "related": [
     {
-      "title": "Notizia in primo piano",
-      "url": "/cronaca/sinner-vince-34-set-di-fila-e-fa-il-double-miami-i-12e82b2965c7b7d5",
-      "id": "12e82b2965c7b7d5",
-      "image_url": "https://images.pexels.com/photos/7748767/pexels-photo-7748767.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
-    },
-    {
-      "title": "Due libri, due morti, una sola città",
-      "url": "/cronaca/due-libri-a-confronto-sul-senso-della-morte-58123049d821d2ee",
-      "id": "58123049d821d2ee",
-      "image_url": "https://images.unsplash.com/photo-1696767878250-3a0d6ed8bdd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxhbiUyMGl0YWx5JTIwYm9vayUyMGxhdW5jaHxlbnwwfDB8fHwxNzc0OTQ0NzY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Neve sul Vesuvio a 250 m il 31 marzo: mai vista così in basso da 8 anni",
+      "url": "/cronaca/neve-sul-vesuvio-a-250-m-il-31-marzo-mai-vista-cos-3afd0bbf4aa04f58",
+      "id": "3afd0bbf4aa04f58",
+      "image_url": "https://images.unsplash.com/photo-1715690820841-c7688f949bf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxWZXN1dmlvJTIwc25vdyUyMDIwMjZ8ZW58MHwwfHx8MTc3NDk0MjY5MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     },
     {
-      "title": "Notizia in primo piano",
-      "url": "/cronaca/35-milioni-di-documenti-su-epstein-online-73efa991e9b7d227",
-      "id": "73efa991e9b7d227",
-      "image_url": "https://images.pexels.com/photos/3789194/pexels-photo-3789194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "title": "Crosetto blinda Sigonella: stop Usa, niente raid in Medio Oriente dal 31/3",
+      "url": "/cronaca/italia-nega-uso-base-sigonella-ai-usa-nascosto-il-a3a691a54d000f24",
+      "id": "a3a691a54d000f24",
+      "image_url": "https://images.pexels.com/photos/35368605/pexels-photo-35368605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "image_type": "pexels"
+    },
+    {
+      "title": "Paolo zampolli chiede 5 miliardi a fedez e mr. marra per diffamazione",
+      "url": "/cronaca/zampolli-chiede-5-milioni-a-fedez-e-mr-marra-per-d-65d8ca6d4f83de9d",
+      "id": "65d8ca6d4f83de9d",
+      "image_url": "https://images.unsplash.com/photo-1642888100704-70cb1c4ea203?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwb2xpY2UlMjBjcmltZSUyMHNjZW5lJTIwaXRhbHl8ZW58MHwwfHx8MTc3NTAwMjA4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     }
-  ]
+  ],
+  "updated_at": "2026-03-31T08:39:06.497479+00:00"
 }
