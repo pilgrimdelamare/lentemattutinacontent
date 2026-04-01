@@ -1,57 +1,58 @@
 {
   "id": "30c594650bb96360",
   "slug": "3000-documenti-leaked-cosa-svelano-su-claude-mytho-30c594650bb96360",
-  "title": "3000 documenti leaked: cosa svelano su Claude Mythos",
+  "title": "Anthropic Svela Dettagli del Nuovo Modello AI Claude Mythos",
   "titles": [
-    "3000 documenti leaked: cosa svelano su Claude Mythos",
-    "Claude Mythos, il modello AI più potente di Anthropic",
-    "Error di configurazione CMS: Anthropic perde il controllo"
+    "Anthropic Svela Dettagli del Nuovo Modello AI Claude Mythos",
+    "Sbaglio in San Francisco: 3.000 Documenti Segreti del Migliore LLM Mondiale",
+    "Il Salto di Livello della Storia: Cos'è Claude Mythos, Il Modello AI Più Potente Mai Addestrato?"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE MYTHOS, UN MODELLO AI POTENTISSIMO",
-  "lead": "Anthropic, un'azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, Claude Mythos, a causa di una fuga di dati accidentale avvenuta il 1 aprile 2026.",
-  "corpo1": "Il leak, che ha esposto quasi 3000 contenuti collegati al blog dell'azienda, inclusi documenti e comunicati stampa relativi alle novità di settore, ha rivelato che Claude Mythos è definito dalla stessa azienda come il modello più potente che abbia mai addestrato. Secondo un portavoce dell'azienda, questo rappresenterebbe un vero e proprio \"salto di livello\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di \"ragionamento, programmazione e sicurezza informatica\". I documenti trapelati in rete menzionano anche un modello AI denominato Capybara, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, considerato il più performante tra gli LLMs della compagnia disponibili sul mercato. La fuga di dati è avvenuta a causa di un errore di configurazione del CMS dell'azienda, come precisato dalla compagnia a Fortune, e ha reso pubbliche informazioni riservate sul nuovo Claude Mythos.",
-  "corpo2": "Anthropic, come benefit corporation statunitense di intelligenza artificiale, ha un ruolo importante nel mercato di settore. La sua attività si concentra principalmente sullo sviluppo di modelli AI avanzati, e il leak di Claude Mythos ha scosso il mercato, sollevando preoccupazioni sulla sicurezza informatica. Il fatto che un modello così potente possa finire nelle mani sbagliate rappresenta una minaccia non trascurabile. La vicenda solleva anche questioni sulla responsabilità delle aziende tecnologiche nel proteggere le informazioni riservate e sulla necessità di normative più stringenti per prevenire fuga di dati. Il leak di Claude Mythos è un esempio concreto di come un errore umano possa avere conseguenze significative, e a pagare saranno i soliti: gli utenti che utilizzeranno il modello AI senza essere a conoscenza dei rischi potenziali.",
+  "occhiello": "Il nuovo modello AI di Anthropic preoccupa per la cybersecurity.",
+  "lead": "Anthropic, azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, denominato Claude Mythos, che è considerato il modello più potente mai addestrato. La notizia è emersa grazie a un errore di configurazione del CMS dell'azienda, che ha esposto quasi 3.000 contenuti collegati al blog, inclusi documenti e comunicati stampa. Claude Mythos è stato definito dalla stessa azienda come un vero e proprio \"salto di livello\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di ragionamento, programmazione e sicurezza informatica.",
+  "corpo1": "I dettagli del nuovo modello AI sono stati resi pubblici grazie a un errore di configurazione del CMS, che ha esposto quasi 3.000 contenuti collegati al blog, inclusi documenti e comunicati stampa relativi alle novità di settore. Secondo quanto riferito da un portavoce dopo l'accaduto, Claude Mythos rappresenta un vero e proprio \"salto di livello\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di ragionamento, programmazione e sicurezza informatica. I documenti trapelati in rete menzionano anche un modello AI denominato Capybara, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, considerato il più performante tra gli LLMs della compagnia disponibili sul mercato.",
+  "corpo2": "Anthropic è nota per la sua ricerca in intelligenza artificiale e per lo sviluppo di modelli AI. Tuttavia, l'esposizione dei dettagli del nuovo modello AI di Claude Mythos solleva preoccupazioni sulla sicurezza della tecnologia e sulla possibilità che possa essere utilizzata in modo inappropriato. I dettagli del modello AI sono stati resi pubblici senza il consenso, il che potrebbe avere delle conseguenze sulla sicurezza della tecnologia e sulla reputazione dell'azienda stessa. A pagare potrebbero essere i soliti: i consumatori che utilizzeranno la tecnologia senza conoscere i rischi.",
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-01T13:31:25.350991+00:00",
   "image": {
     "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwbGVha3xlbnwwfDB8fHwxNzc1MDUwMjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "url": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbnRlbGxpZ2VuemElMjBhcnRpZmljaWFsZXxlbnwwfDB8fHwxNzc1MDU4NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "source": "Unsplash",
-    "credit": "Zulfugar Karimov",
+    "credit": "Igor Omilaev",
     "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"3000 documenti leaked: cosa svelano su Claude Mythos\",\n  \"description\": \"Anthropic, un'azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, Claude Mythos, a causa di una fuga di dati accidentale avvenuta il 1 aprile 2026.\",\n  \"articleBody\": \"Anthropic, un'azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, Claude Mythos, a causa di una fuga di dati accidentale avvenuta il 1 aprile 2026. Il leak, che ha esposto quasi 3000 contenuti collegati al blog dell'azienda, inclusi documenti e comunicati stampa relativi alle novità di settore, ha rivelato che Claude Mythos è definito dalla stessa azienda come il modello più potente che abbia mai addestrato. Secondo un portavoce dell'azienda, questo rappresenterebbe un vero e proprio \\\"salto di livello\\\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di \\\"ragionamento, programmazione e sicurezza informatica\\\". I documenti trapelati in rete menzionano anche un modello AI denominato Capybara, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, considerato il più performante tra gli LLMs della compagnia disponibili sul mercato. La fuga di dati è avvenuta a causa di un errore di configurazione del CMS dell'azienda, come precisato dalla compagnia a Fortune, e ha reso pubbliche informazioni riservate sul nuovo Claude Mythos. Anthropic, come benefit corporation statunitense di intelligenza artificiale, ha un ruolo importante nel mercato di settore. La sua attività si concentra principalmente sullo sviluppo di modelli AI avanzati, e il leak di Claude Mythos ha scosso il mercato, sollevando preoccupazioni sulla sicurezza informatica. Il fatto che un modello così potente possa finire nelle mani sbagliate rappresenta una minaccia non trascurabile. La vicenda solleva anche questioni sulla responsabilità delle aziende tecnologiche nel proteggere le informazioni riservate e sulla necessità di normative più stringenti per prevenire fuga di dati. Il leak di Claude Mythos è un esempio concreto di come un errore umano possa avere conseguenze significative, e a pagare saranno i soliti: gli utenti che utilizzeranno il modello AI senza essere a conoscenza dei rischi potenziali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T13:31:25.350991+00:00\",\n  \"dateModified\": \"2026-04-01T13:31:25.350991+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/30c594650bb96360\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/30c594650bb96360\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1751448555253-f39c06e29d82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjeWJlcnNlY3VyaXR5JTIwbGVha3xlbnwwfDB8fHwxNzc1MDUwMjg1fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Zulfugar Karimov\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Anthropic Svela Dettagli del Nuovo Modello AI Claude Mythos\",\n  \"description\": \"Anthropic, azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, denominato Claude Mythos, che è considerato il modello più potente mai addestrato. La notizia è emersa grazie a un errore di configurazione del CMS dell'azienda, che ha es\",\n  \"articleBody\": \"Anthropic, azienda di intelligenza artificiale con sede a San Francisco, ha visto trapelare i dettagli del suo nuovo modello AI, denominato Claude Mythos, che è considerato il modello più potente mai addestrato. La notizia è emersa grazie a un errore di configurazione del CMS dell'azienda, che ha esposto quasi 3.000 contenuti collegati al blog, inclusi documenti e comunicati stampa. Claude Mythos è stato definito dalla stessa azienda come un vero e proprio \\\"salto di livello\\\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di ragionamento, programmazione e sicurezza informatica. I dettagli del nuovo modello AI sono stati resi pubblici grazie a un errore di configurazione del CMS, che ha esposto quasi 3.000 contenuti collegati al blog, inclusi documenti e comunicati stampa relativi alle novità di settore. Secondo quanto riferito da un portavoce dopo l'accaduto, Claude Mythos rappresenta un vero e proprio \\\"salto di livello\\\" rispetto ai suoi predecessori, con prestazioni migliorate nelle attività di ragionamento, programmazione e sicurezza informatica. I documenti trapelati in rete menzionano anche un modello AI denominato Capybara, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, che andrebbe a collocarsi al di sopra dell'attuale Claude Opus, considerato il più performante tra gli LLMs della compagnia disponibili sul mercato. Anthropic è nota per la sua ricerca in intelligenza artificiale e per lo sviluppo di modelli AI. Tuttavia, l'esposizione dei dettagli del nuovo modello AI di Claude Mythos solleva preoccupazioni sulla sicurezza della tecnologia e sulla possibilità che possa essere utilizzata in modo inappropriato. I dettagli del modello AI sono stati resi pubblici senza il consenso, il che potrebbe avere delle conseguenze sulla sicurezza della tecnologia e sulla reputazione dell'azienda stessa. A pagare potrebbero essere i soliti: i consumatori che utilizzeranno la tecnologia senza conoscere i rischi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-01T13:31:25.350991+00:00\",\n  \"dateModified\": \"2026-04-01T13:31:25.350991+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/30c594650bb96360\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/30c594650bb96360\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpbnRlbGxpZ2VuemElMjBhcnRpZmljaWFsZXxlbnwwfDB8fHwxNzc1MDU4NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Igor Omilaev\"\n  }\n}",
   "priority": 5,
-  "source": "Wired Italia",
-  "source_type": "competitor",
-  "original_url": "https://www.wired.it/article/claude-mythos-pericolo-sicurezza/",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/tecnologia/3000-documenti-leaked-cosa-svelano-su-claude-mytho-30c594650bb96360",
   "related": [
     {
-      "title": "Ricercatori giapponesi sviluppano teoria su calamari",
+      "title": "Ricerca giapponese scopre l'origine dei calamari del passato",
       "url": "/tecnologia/ricercatori-giapponesi-sviluppano-teoria-su-calama-19854554a9ad2aad",
       "id": "19854554a9ad2aad",
-      "image_url": "https://images.unsplash.com/photo-1567941537651-70be5a2aafd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzcXVpZCUyMGRlZXAlMjBzZWF8ZW58MHwwfHx8MTc3NTA0ODU4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "image_url": "https://images.pexels.com/photos/11395101/pexels-photo-11395101.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     },
     {
-      "title": "IBM supera il test con i computer quantistici: simulazioni confermate",
-      "url": "/tecnologia/ibm-supera-il-test-con-i-computer-quantistici-simu-673a7c7ab581bcde",
-      "id": "673a7c7ab581bcde",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IBM_RPG_logo.png",
-      "image_type": "wikimedia"
+      "title": "Wired Italia seleziona le migliori fotocamere compatte",
+      "url": "/tecnologia/wired-italia-seleziona-le-migliori-fotocamere-comp-fd7f8dc89b122904",
+      "id": "fd7f8dc89b122904",
+      "image_url": "https://media-assets.wired.it/photos/69ca844f5f9e8a4739c75556/16:9/w_1280,c_limit/fotocamere%20compatte%20marzo%202026.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Stefano Fonzi lancia BluGo, l'app gratuita per l'autonomia delle persone autistiche",
-      "url": "/tecnologia/stefano-fonzi-lancia-blugo-35f4d6172e331cc6",
-      "id": "35f4d6172e331cc6",
-      "image_url": "https://live.staticflickr.com/65535/55180558800_c170f16d78_b.jpg",
-      "image_type": "flickr"
+      "title": "Irgc minaccia attacchi a 7 aziende Usa in Medio Oriente",
+      "url": "/tecnologia/irgc-minaccia-attacchi-a-7-aziende-usa-in-medio-or-e21df219877e74cb",
+      "id": "e21df219877e74cb",
+      "image_url": "https://images.pexels.com/photos/36520340/pexels-photo-36520340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
     }
-  ]
+  ],
+  "updated_at": "2026-04-01T13:31:25.350991+00:00"
 }
