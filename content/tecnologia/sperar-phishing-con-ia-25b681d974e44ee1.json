@@ -1,0 +1,56 @@
+{
+  "id": "25b681d974e44ee1",
+  "slug": "sperar-phishing-con-ia-25b681d974e44ee1",
+  "title": "Sperar phishing con ia",
+  "titles": [
+    "SPERAR PHISHING CON IA",
+    "SPERAR PHISHING CON IA",
+    "SPERAR PHISHING CON IA"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "SPERAR PHISHING CON IA",
+  "lead": "Giuditta Mosca, giornalista de la Repubblica, ha pubblicato un articolo il 2 aprile 2026 alle 14:45, in cui spiega come lo spear phishing sia potenziato dalle intelligenze artificiali e sia più difficile da intercettare.",
+  "corpo1": "Secondo l'articolo, le intelligenze artificiali consentono ai criminal hacker di aumentare la qualità e la quantità delle minacce. A differenza del phishing tradizionale, che i cyber criminali diffondono in quantità, nella speranza di far cadere il maggior numero di vittime nella rete, lo spear phishing prende di mira singoli individui, gruppi di persone oppure aziende e organizzazioni in genere. Gli attacchi spear phishing vengono perpetrati mediante l’invio di messaggi personalizzati che i criminali preparano dopo aver raccolto informazioni sulla vittima. Questo aumenta la credibilità delle minacce e rende obsoleti i criteri grazie ai quali le persone hanno imparato a dubitare della veridicità di email, sms e messaggi istantanei. Non è una tecnica nuova e, benché sia difficile identificare con precisione quando ha fatto capolino, lo spear phishing è stato usato nell’operation aurora, attacco che risale a diversi anni fa.",
+  "corpo2": "La diffusione dello spear phishing è un esempio di come le intelligenze artificiali possano essere utilizzate per scopi criminali. Secondo Giuditta Mosca, ci sono accorgimenti per non cadere nei tranelli, uno dei quali è completamente analogico. La protezione contro lo spear phishing richiede una combinazione di tecnologie e di buone pratiche di sicurezza informatica. Le aziende e le organizzazioni devono essere consapevoli dei rischi e adottare misure per proteggere i propri sistemi e i propri dipendenti. Le persone devono essere educate a riconoscere i messaggi sospetti e a non cliccare su link o allegati provenienti da fonti non sicure. A pagare saranno i soliti: chi non può permettersi di non pagare, ovvero le piccole e medie imprese e i singoli individui che non hanno le risorse per investire in sistemi di sicurezza avanzati.",
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-02T12:55:55.462921+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/04/02/144501973-d4ab767d-6325-4d5c-ba36-5cac2394fbed.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SPERAR PHISHING CON IA\",\n  \"description\": \"Giuditta Mosca, giornalista de la Repubblica, ha pubblicato un articolo il 2 aprile 2026 alle 14:45, in cui spiega come lo spear phishing sia potenziato dalle intelligenze artificiali e sia più difficile da intercettare.\",\n  \"articleBody\": \"Giuditta Mosca, giornalista de la Repubblica, ha pubblicato un articolo il 2 aprile 2026 alle 14:45, in cui spiega come lo spear phishing sia potenziato dalle intelligenze artificiali e sia più difficile da intercettare. Secondo l'articolo, le intelligenze artificiali consentono ai criminal hacker di aumentare la qualità e la quantità delle minacce. A differenza del phishing tradizionale, che i cyber criminali diffondono in quantità, nella speranza di far cadere il maggior numero di vittime nella rete, lo spear phishing prende di mira singoli individui, gruppi di persone oppure aziende e organizzazioni in genere. Gli attacchi spear phishing vengono perpetrati mediante l’invio di messaggi personalizzati che i criminali preparano dopo aver raccolto informazioni sulla vittima. Questo aumenta la credibilità delle minacce e rende obsoleti i criteri grazie ai quali le persone hanno imparato a dubitare della veridicità di email, sms e messaggi istantanei. Non è una tecnica nuova e, benché sia difficile identificare con precisione quando ha fatto capolino, lo spear phishing è stato usato nell’operation aurora, attacco che risale a diversi anni fa. La diffusione dello spear phishing è un esempio di come le intelligenze artificiali possano essere utilizzate per scopi criminali. Secondo Giuditta Mosca, ci sono accorgimenti per non cadere nei tranelli, uno dei quali è completamente analogico. La protezione contro lo spear phishing richiede una combinazione di tecnologie e di buone pratiche di sicurezza informatica. Le aziende e le organizzazioni devono essere consapevoli dei rischi e adottare misure per proteggere i propri sistemi e i propri dipendenti. Le persone devono essere educate a riconoscere i messaggi sospetti e a non cliccare su link o allegati provenienti da fonti non sicure. A pagare saranno i soliti: chi non può permettersi di non pagare, ovvero le piccole e medie imprese e i singoli individui che non hanno le risorse per investire in sistemi di sicurezza avanzati.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T12:55:55.462921+00:00\",\n  \"dateModified\": \"2026-04-02T12:55:55.462921+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/25b681d974e44ee1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/25b681d974e44ee1\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/04/02/144501973-d4ab767d-6325-4d5c-ba36-5cac2394fbed.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Tecnologia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/tecnologia/2026/04/02/news/spear-phishing-come-funziona-truffa-con-ia-come-difendersi-425260275/?rss",
+  "related": [
+    {
+      "title": "Kodak lancia Charmera, fotocamera da 30 grammi ispirata agli anni '90 a 99 euro",
+      "url": "/tecnologia/laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
+      "id": "87ee2cc66618798c",
+      "image_url": "https://images.unsplash.com/photo-1628156987718-e90e05410931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLb2RhayUyMENoYXJtZXJhJTIwY2FtZXJhfGVufDB8MHx8fDE3NzUxMzQyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Nasa, Artemis II parte per la Luna: obiettivo presenza umana stabile dal 2026",
+      "url": "/tecnologia/nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
+      "id": "0c15640a9f69533c",
+      "image_url": "https://media-assets.wired.it/photos/69ce1c9bced4ad5fea9631c4/16:9/w_1280,c_limit/1_surface-shadows-apollo-16.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Warner bros scommette su zach shields per il prequel di weapons",
+      "url": "/tecnologia/warner-bros-ingaggia-zach-shields-per-il-prequel-s-45feda32e9ff2fbc",
+      "id": "45feda32e9ff2fbc",
+      "image_url": "https://images.pexels.com/photos/4079181/pexels-photo-4079181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ]
+}
