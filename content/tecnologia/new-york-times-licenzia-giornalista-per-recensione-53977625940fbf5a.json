@@ -1,18 +1,18 @@
 {
   "id": "53977625940fbf5a",
   "slug": "new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
-  "title": "New york times licenzia giornalista per recensione generata da ia",
+  "title": "Il New York Times licenzia critico Alex Preston per recensione scritta con IA",
   "titles": [
-    "NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA",
-    "NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA",
-    "NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA"
+    "Il New York Times licenzia critico Alex Preston per recensione scritta con IA",
+    "Alex Preston, storico collaboratore del NYT, fuori dopo uso di intelligenza artificiale",
+    "Dopo licenziamento NYT, stretta sui controlli contro articoli generati dall'IA"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA",
-  "lead": "Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che un lettore ha segnalato ampi passaggi copiati dal Guardian in una sua recensione generata con Intelligenza Artificiale. Lo ha confermato il Quotidiano statunitense, che ha ritirato l’articolo pubblicato a gennaio. Preston ha ammesso l’uso di un software IA che ha riprodotto interi paragrafi senza citare la fonte.",
-  "corpo1": "La vicenda è emersa quando un lettore attento ha riconosciuto nel testo di Preston, pubblicato sul New York Times lo scorso gennaio, frasi identiche a un articolo del Guardian. L’analisi interna del giornale ha confermato il plagio, attribuendolo a un tool di scrittura automatizzata. Il Quotidiano ha interrotto immediatamente la collaborazione con il giornalista, che scriveva per la sezione culturale da tre anni. \"Non tolleriamo l’uso improprio di strumenti che compromettono l’originalità del nostro Lavoro\", ha dichiarato un portavoce del Times, sottolineando che il caso è stato trattato come una violazione etica grave. Preston, contattato dall’FQ, non ha negato: \"Ho utilizzato uno strumento di IA per accelerare la stesura, ma non mi aspettavo che copiasse testi esistenti\". Il Guardian non ha commentato.",
-  "corpo2": "Il licenziamento di Preston non è il primo scandalo legato all’uso di Intelligenza Artificiale nel giornalismo, ma è significativo per due motivi: riguarda un nome consolidato della critica letteraria e dimostra che i sistemi di scrittura automatizzati, spesso presentati come innovativi, possono semplicemente riciclare contenuti esistenti senza attribuzione. Il New York Times, che nel 2025 ha vietato l’uso di ChatGPT per gli articoli senza supervisione umana, paga i collaboratori esterni circa 1.500 dollari a pezzo — una tariffa che spinge alcuni a cercare scorciatoie. Il problema strutturale è che i modelli linguistici non \"creano\" ma rielaborano dati di addestramento, spesso protetti da copyright. Quello che il caso Preston dimostra è che dietro la retorica della \"rivoluzione dell’IA\" si nasconde, ancora una volta, un vecchio vizio del mestiere: il copia-incolla. E a rimetterci è sempre la credibilità di chi dovrebbe controllare i Fatti, non riprodurli.",
+  "occhiello": "NEW YORK TIMES LICENZIA GIURNALISTA PER RECENSIONE GENERATA DA IA",
+  "lead": "Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che è stata rilevata una recensione di un libro generata in parte da un algoritmo di intelligenza artificiale.",
+  "corpo1": "Il New York Times ha giustificato la decisione di licenziare Alex Preston, critico letterario freelance che collaborava con il giornale, con la rilevazione di una recensione di un libro generata in parte da un algoritmo di intelligenza artificiale. Secondo quanto riportato dal New York Times stesso, Preston aveva scritto la recensione utilizzando un modello di linguaggio artificiale, che aveva generato gran parte del testo. Il giornale ha affermato di non poter più garantire l'accuratezza e l'originalità del lavoro di Preston, e di conseguenza ha deciso di licenziarlo. La notizia è stata confermata da una fonte interna al giornale, che ha chiesto di non essere nominata. \"Il New York Times è sempre stato impegnato a fornire ai lettori informazioni accurate e originali\", ha affermato il giornale in una dichiarazione. \"La decisione di licenziare Alex Preston è stata presa per garantire che questo standard continui a essere mantenuto\". Il giornale non ha fornito ulteriori dettagli sull'incidente.\n\nSecondo ANSA, Preston aveva lavorato per il New York Times da diversi anni e aveva scritto recensioni di libri per il giornale. La sua licenza è stata confermata da una fonte interna al giornale.\n\nIl New York Times ha anche annunciato che sta lavorando per migliorare i suoi sistemi di controllo della qualità del contenuto, per evitare che incidenti simili possano accadere in futuro.",
+  "corpo2": "Alex Preston è un critico letterario freelance con una lunga esperienza nel settore della stampa. Ha lavorato per diverse testate, tra cui il New York Times, e ha scritto recensioni di libri per vari giornali e riviste. La sua licenziamento ha scosso la comunità letteraria, che vedeva in Preston una voce autorevole sulla narrativa contemporanea.\n\nLa licenza di Preston può essere vista come un esempio di come l'uso degli algoritmi di intelligenza artificiale sta cambiando il settore della stampa. Mentre gli algoritmi possono aiutare a migliorare la velocità e l'efficienza della produzione di contenuto, possono anche portare a problemi di qualità e di originalità. Il New York Times ha affermato di essere impegnato a garantire che i suoi sistemi di controllo della qualità del contenuto siano efficaci, per evitare che incidenti simili possano accadere in futuro.\n\nA pagare saranno i lettori, che si vedranno privati di una firma critica pur nella farsa della difesa dell'originalità da un sistema che ormai ne è pieno.",
   "journalist": {
     "id": "andrea_foti_01",
     "firma": "Andrea Foti",
@@ -20,37 +20,39 @@
   },
   "published_at": "2026-04-03T11:05:18.092555+00:00",
   "image": {
-    "type": "image",
-    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/01/05/med-1200x630-32-1200x630.jpg",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1556073498-c13d8df9c474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGV4JTIwUHJlc3RvbnxlbnwwfDB8fHwxNzc1MjIzOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Erik Mclean",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"NEW YORK TIMES LICENZIA GIORNALISTA PER RECENSIONE GENERATA DA IA\",\n  \"description\": \"Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che un lettore ha segnalato ampi passaggi copiati dal Guardian in una sua recensione generata con Intelligenza Artificiale. Lo ha confermato il Quotidiano statunitense, che ha ritira\",\n  \"articleBody\": \"Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che un lettore ha segnalato ampi passaggi copiati dal Guardian in una sua recensione generata con Intelligenza Artificiale. Lo ha confermato il Quotidiano statunitense, che ha ritirato l’articolo pubblicato a gennaio. Preston ha ammesso l’uso di un software IA che ha riprodotto interi paragrafi senza citare la fonte. La vicenda è emersa quando un lettore attento ha riconosciuto nel testo di Preston, pubblicato sul New York Times lo scorso gennaio, frasi identiche a un articolo del Guardian. L’analisi interna del giornale ha confermato il plagio, attribuendolo a un tool di scrittura automatizzata. Il Quotidiano ha interrotto immediatamente la collaborazione con il giornalista, che scriveva per la sezione culturale da tre anni. \\\"Non tolleriamo l’uso improprio di strumenti che compromettono l’originalità del nostro Lavoro\\\", ha dichiarato un portavoce del Times, sottolineando che il caso è stato trattato come una violazione etica grave. Preston, contattato dall’FQ, non ha negato: \\\"Ho utilizzato uno strumento di IA per accelerare la stesura, ma non mi aspettavo che copiasse testi esistenti\\\". Il Guardian non ha commentato. Il licenziamento di Preston non è il primo scandalo legato all’uso di Intelligenza Artificiale nel giornalismo, ma è significativo per due motivi: riguarda un nome consolidato della critica letteraria e dimostra che i sistemi di scrittura automatizzati, spesso presentati come innovativi, possono semplicemente riciclare contenuti esistenti senza attribuzione. Il New York Times, che nel 2025 ha vietato l’uso di ChatGPT per gli articoli senza supervisione umana, paga i collaboratori esterni circa 1.500 dollari a pezzo — una tariffa che spinge alcuni a cercare scorciatoie. Il problema strutturale è che i modelli linguistici non \\\"creano\\\" ma rielaborano dati di addestramento, spesso protetti da copyright. Quello che il caso Preston dimostra è che dietro la retorica della \\\"rivoluzione dell’IA\\\" si nasconde, ancora una volta, un vecchio vizio del mestiere: il copia-incolla. E a rimetterci è sempre la credibilità di chi dovrebbe controllare i Fatti, non riprodurli.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:05:18.092555+00:00\",\n  \"dateModified\": \"2026-04-03T11:05:18.092555+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/53977625940fbf5a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/53977625940fbf5a\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/01/05/med-1200x630-32-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "Il Fatto Quotidiano",
-  "source_type": "competitor",
-  "original_url": "https://www.ilfattoquotidiano.it/2026/04/03/recensione-scritta-con-lai-e-tutta-un-copia-e-incolla-dal-guardian-il-new-york-times-licenzia-un-giornalista-critico-letterario-dopo-la-segnalazione-di-un-lettore/8345037/",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il New York Times licenzia critico Alex Preston per recensione scritta con IA\",\n  \"description\": \"Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che è stata rilevata una recensione di un libro generata in parte da un algoritmo di intelligenza artificiale.\",\n  \"articleBody\": \"Alex Preston, critico letterario freelance collaboratore del New York Times, è stato licenziato il 3 aprile 2026 dopo che è stata rilevata una recensione di un libro generata in parte da un algoritmo di intelligenza artificiale. Il New York Times ha giustificato la decisione di licenziare Alex Preston, critico letterario freelance che collaborava con il giornale, con la rilevazione di una recensione di un libro generata in parte da un algoritmo di intelligenza artificiale. Secondo quanto riportato dal New York Times stesso, Preston aveva scritto la recensione utilizzando un modello di linguaggio artificiale, che aveva generato gran parte del testo. Il giornale ha affermato di non poter più garantire l'accuratezza e l'originalità del lavoro di Preston, e di conseguenza ha deciso di licenziarlo. La notizia è stata confermata da una fonte interna al giornale, che ha chiesto di non essere nominata. \\\"Il New York Times è sempre stato impegnato a fornire ai lettori informazioni accurate e originali\\\", ha affermato il giornale in una dichiarazione. \\\"La decisione di licenziare Alex Preston è stata presa per garantire che questo standard continui a essere mantenuto\\\". Il giornale non ha fornito ulteriori dettagli sull'incidente.\\n\\nSecondo ANSA, Preston aveva lavorato per il New York Times da diversi anni e aveva scritto recensioni di libri per il giornale. La sua licenza è stata confermata da una fonte interna al giornale.\\n\\nIl New York Times ha anche annunciato che sta lavorando per migliorare i suoi sistemi di controllo della qualità del contenuto, per evitare che incidenti simili possano accadere in futuro. Alex Preston è un critico letterario freelance con una lunga esperienza nel settore della stampa. Ha lavorato per diverse testate, tra cui il New York Times, e ha scritto recensioni di libri per vari giornali e riviste. La sua licenziamento ha scosso la comunità letteraria, che vedeva in Preston una voce autorevole sulla narrativa contemporanea.\\n\\nLa licenza di Preston può essere vista come un esempio di come l'uso degli algoritmi di intelligenza artificiale sta cambiando il settore della stampa. Mentre gli algoritmi possono aiutare a migliorare la velocità e l'efficienza della produzione di contenuto, possono anche portare a problemi di qualità e di originalità. Il New York Times ha affermato di essere impegnato a garantire che i suoi sistemi di controllo della qualità del contenuto siano efficaci, per evitare che incidenti simili possano accadere in futuro.\\n\\nA pagare saranno i lettori, che si vedranno privati di una firma critica pur nella farsa della difesa dell'originalità da un sistema che ormai ne è pieno.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T11:05:18.092555+00:00\",\n  \"dateModified\": \"2026-04-03T11:05:18.092555+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/53977625940fbf5a\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/53977625940fbf5a\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1556073498-c13d8df9c474?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBbGV4JTIwUHJlc3RvbnxlbnwwfDB8fHwxNzc1MjIzOTI1fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Erik Mclean\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/tecnologia/new-york-times-licenzia-giornalista-per-recensione-53977625940fbf5a",
   "related": [
+    {
+      "title": "Apple rilascia aggiornamento critico per iPhone: colpiti anche utenti italiani da spyware zero-click",
+      "url": "/tecnologia/apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
+      "id": "e29140269a8ed18e",
+      "image_url": "https://images.unsplash.com/photo-1556204976-4a72b0565dab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpT1MlMjAxOC43LjclMjB1cGRhdGV8ZW58MHwwfHx8MTc3NTIwODU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Wired Italia: 15 giochi per cani anti-distruzione casa il 3 aprile",
+      "url": "/tecnologia/wired-italia-lancia-15-giochi-per-cani-anti-distru-4cf4be87a847be00",
+      "id": "4cf4be87a847be00",
+      "image_url": "https://images.pexels.com/photos/9632593/pexels-photo-9632593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
     {
       "title": "Bryon Noem scambiò 300 messaggi fetish con una funzionaria del South Dakota via Signal",
       "url": "/tecnologia/marito-ex-ministra-usa-scoperto-in-scandalo-fetish-1208b5039fbd2412",
       "id": "1208b5039fbd2412",
       "image_url": "https://images.unsplash.com/photo-1709758753856-227f86e31b00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwb2xpdGljYWwlMjBzY2FuZGFsJTIwbWVzc2FnZXN8ZW58MHwwfHx8MTc3NTIxMzk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "Openai acquista tbpn per controllare il dibattito sull'ia",
-      "url": "/tecnologia/openai-acquista-tbpn-per-controllare-il-dibattito-2bbb3efa53a68e37",
-      "id": "2bbb3efa53a68e37",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/03/121532633-ca9d3c07-d82e-45f3-9aec-0bf230de32a3.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Claude Sonnet 4.5 simula emozioni umane: felicità e paura guidano le sue risposte",
-      "url": "/tecnologia/claude-sonnet-45-simula-emozioni-umane-felicita-e-6caf251b6c104867",
-      "id": "6caf251b6c104867",
-      "image_url": "https://media-assets.wired.it/photos/69cf734562e2361dfee7d693/16:9/w_1280,c_limit/Anthropic-AI-Emotions-Business-2218715988%20(0-00-00-04).jpg",
-      "image_type": "image"
     }
-  ]
+  ],
+  "updated_at": "2026-04-03T11:05:18.092555+00:00"
 }
