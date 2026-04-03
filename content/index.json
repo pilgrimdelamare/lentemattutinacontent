@@ -1,5 +1,19 @@
 [
   {
+    "id": "c4305a18cc4569d8",
+    "slug": "titolo1-c4305a18cc4569d8",
+    "title": "titolo1",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-03T06:43:28.708507+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/5d6b27bbed24934ef529f0106ca1da55.jpg",
+    "occhiello": "GLASS LEWIS SOSTIENE IL CDA MPS NONOSTANTE STORIA TURBOLENTA",
+    "lead_preview": "Glass Lewis il 3 aprile 2026 ha raccomandato agli azionisti di Monte dei Paschi di Siena di votare la lista del consigli",
+    "tags": []
+  },
+  {
     "id": "01d7e90e1a9d19ab",
     "slug": "nhs-al-collasso-3-4-giorni-di-riabilitazione-a-set-01d7e90e1a9d19ab",
     "title": "Solo 3-4 giorni di riabilitazione post-ictus",
@@ -8530,24 +8544,6 @@
       "basket",
       "treviso",
       "seriea"
-    ]
-  },
-  {
-    "id": "2606592f8bac2c79",
-    "slug": "chalmers-inflazione-prevista-al-45-nel-2026-1-punt-2606592f8bac2c79",
-    "title": "Inflazione Australia: 4,5% previsto nel 2026, governo alza stima",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-03-29T21:45:48.912808+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/416988/pexels-photo-416988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "INFLAZIONE AL 4,5%: CHALMERS PREVDE UN'AUMENTO",
-    "lead_preview": "Jim Chalmers, capo del governo australiano, ha dichiarato che la previsione di inflazione del governo da due settimane s",
-    "tags": [
-      "inflazione australia",
-      "chalmers",
-      "economia australiana"
     ]
   }
 ]
