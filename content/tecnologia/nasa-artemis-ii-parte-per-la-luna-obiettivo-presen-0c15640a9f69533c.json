@@ -1,32 +1,32 @@
 {
   "id": "0c15640a9f69533c",
   "slug": "nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
-  "title": "Quattro astronauti verso la Luna con Artemis 2",
+  "title": "Artemis 2 in volo verso la Luna: Orion raggiungerà 10.300 km oltre il satellite",
   "titles": [
-    "Quattro astronauti verso la Luna con Artemis 2",
-    "Da Cape Canaveral riparte la corsa nello spazio",
-    "Luna, dopo 54 anni torna la vita extraterrestre"
+    "Artemis 2 in volo verso la Luna: Orion raggiungerà 10.300 km oltre il satellite",
+    "Reid Wiseman guida la prima missione umana verso la Luna dopo 54 anni",
+    "Test decisivo per Nasa: Orion prova la schermatura anti-radiazioni a 10.300 km dalla Luna"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ARTEMIS 2 DECOLLA DA CAPE CANAVERAL",
-  "lead": "Cape Canaveral, 2 aprile 2026: la Missione spaziale artemis 2 è partita con a bordo quattro astronauti della Nasa e dell’agenzia spaziale.",
-  "corpo1": "La Missione artemis 2 è decollata il 2 aprile 2026 da Cape Canaveral, una striscia di terra nella contea di Brevard in Florida, con a bordo quattro astronauti della Nasa e dell’agenzia spaziale. Secondo la fonte, questo è il primo volo umano verso la Luna dal 1972. Cape Canaveral si chiamò, dal 1963 al 1973, Capo Kennedy, nome con il quale è ancor oggi indicato nella storia della Missione Apollo, il programma spaziale che avrebbe portato allo sbarco dei primi uomini sulla Luna. L'agenzia spaziale ha sviluppato la Missione artemis, che prende il nome dalla dea greca della caccia e della natura, per riportare gli astronauti sulla superficie lunare entro il 2025.",
-  "corpo2": "Il programma artemis è il risultato di anni di lavoro e investimenti da parte della Nasa e dell'agenzia spaziale. La Missione artemis 2 rappresenta un passo importante verso l'obiettivo di stabilire una presenza umana sostenibile sulla Luna e di esplorare il sistema solare. Gli astronauti a bordo della Missione artemis 2 saranno i primi a tornare sulla Luna dopo oltre cinquant'anni, e la loro esperienza sarà fondamentale per pianificare future missioni sulla Luna e oltre. La Nasa e l'agenzia spaziale hanno investito miliardi di dollari nel programma artemis, e La Missione artemis 2 è solo l'inizio di un lungo e ambizioso percorso di esplorazione spaziale. A pagare il prezzo di questo ambizioso progetto saranno i contribuenti americani, che finanziano con le loro tasse la Nasa e le sue missioni spaziali.",
+  "occhiello": "ARTEMIS 2: LA TRAIETTORIA VERSO LA LUNA È UNA TRUE WORK OF ART",
+  "lead": "Lunedì 2 aprile 2026, alle 00:24, un razzo Space Launch System ha sollevato da Terra una capsula Orion con a bordo quattro astronauti della Nasa e dell'Agence spatiale européenne. La missione Artemis 2 è diretta verso la Luna, dove raggiungerà un record di distanza di 10.300 chilometri oltre il satellite.",
+  "corpo1": "La capsula Orion, guidata da Reid Wiseman, Victor Glover, Christina Koch e Jeremy Hansen, sarà la prima a puntare ad andare oltre l'orbita bassa terrestre fin dai tempi della Missione Apollo 17 del 1972. La missione è un test cruciale per i sistemi di comunicazione a distanza lunare e la schermatura alle radiazioni, fondamentali per le missioni future. Il primo stadio dell'SLS si è separato dal resto – lo stadio superiore ICPS (Interim Cryogenic Propulsion Stage) e la capsula Orion – dopo il lancio. L'ICPS ha portato la capsula in orbita alta terrestre, ma l'orbita non è diretta e lineare come si potrebbe pensare. La traiettoria di Artemis 2, lungi dall’essere diretta, è un capolavoro di calcolo orbitale pensato per massimizzare i test tecnologici e raggiungere 10.300 chilometri oltre la Luna. La capsula Orion sarà allestita con strumenti per raccogliere dati scientifici e per testare la schermatura alle radiazioni.",
+  "corpo2": "La Missione Artemis 2 è un passo importante per la Nasa e per l'Agence spatiale européenne nella loro ambizione di tornare sulla Luna entro il 2028. La traiettoria della capsula Orion è stata scelta per testare i sistemi della capsula e per raggiungere la distanza record. Quello che cambia è chiaro: un ulteriore passo nel consolidamento della supremazia tecnologica statunitense nello spazio. La Missione Artemis 2 è un test per sperimentare i sistemi tecnologici che saranno utili alle missioni successive. La schermatura alle radiazioni e la comunicazione tra la capsula e la Terra a distanze lunari sono solo due degli aspetti chiave della Missione. Se La Missione riesce, sarà un passo importante per la Nasa e per l'Agence spatiale européenne nella loro ambizione di tornare sulla Luna entro il 2028. A pagare saranno, come sempre, i contribuenti, chiamati a finanziare un sogno spaziale mentre i servizi pubblici vacillano.",
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-02T12:40:53.960239+00:00",
   "image": {
-    "type": "pexels",
-    "url": "https://images.pexels.com/photos/30132699/pexels-photo-30132699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "source": "Pexels",
-    "credit": "Luis Quintero",
-    "license": "Pexels License"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBsYXVuY2h8ZW58MHwwfHx8MTc3NTIwOTQ2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "NASA",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Quattro astronauti verso la Luna con Artemis 2\",\n  \"description\": \"Cape Canaveral, 2 aprile 2026: la Missione spaziale artemis 2 è partita con a bordo quattro astronauti della Nasa e dell’agenzia spaziale.\",\n  \"articleBody\": \"Cape Canaveral, 2 aprile 2026: la Missione spaziale artemis 2 è partita con a bordo quattro astronauti della Nasa e dell’agenzia spaziale. La Missione artemis 2 è decollata il 2 aprile 2026 da Cape Canaveral, una striscia di terra nella contea di Brevard in Florida, con a bordo quattro astronauti della Nasa e dell’agenzia spaziale. Secondo la fonte, questo è il primo volo umano verso la Luna dal 1972. Cape Canaveral si chiamò, dal 1963 al 1973, Capo Kennedy, nome con il quale è ancor oggi indicato nella storia della Missione Apollo, il programma spaziale che avrebbe portato allo sbarco dei primi uomini sulla Luna. L'agenzia spaziale ha sviluppato la Missione artemis, che prende il nome dalla dea greca della caccia e della natura, per riportare gli astronauti sulla superficie lunare entro il 2025. Il programma artemis è il risultato di anni di lavoro e investimenti da parte della Nasa e dell'agenzia spaziale. La Missione artemis 2 rappresenta un passo importante verso l'obiettivo di stabilire una presenza umana sostenibile sulla Luna e di esplorare il sistema solare. Gli astronauti a bordo della Missione artemis 2 saranno i primi a tornare sulla Luna dopo oltre cinquant'anni, e la loro esperienza sarà fondamentale per pianificare future missioni sulla Luna e oltre. La Nasa e l'agenzia spaziale hanno investito miliardi di dollari nel programma artemis, e La Missione artemis 2 è solo l'inizio di un lungo e ambizioso percorso di esplorazione spaziale. A pagare il prezzo di questo ambizioso progetto saranno i contribuenti americani, che finanziano con le loro tasse la Nasa e le sue missioni spaziali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T12:40:53.960239+00:00\",\n  \"dateModified\": \"2026-04-02T12:40:53.960239+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/0c15640a9f69533c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/0c15640a9f69533c\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/30132699/pexels-photo-30132699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Luis Quintero\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Artemis 2 in volo verso la Luna: Orion raggiungerà 10.300 km oltre il satellite\",\n  \"description\": \"Lunedì 2 aprile 2026, alle 00:24, un razzo Space Launch System ha sollevato da Terra una capsula Orion con a bordo quattro astronauti della Nasa e dell'Agence spatiale européenne. La missione Artemis 2 è diretta verso la Luna, dove raggiungerà un record di distanza di 10.300 chilometri oltre il sate\",\n  \"articleBody\": \"Lunedì 2 aprile 2026, alle 00:24, un razzo Space Launch System ha sollevato da Terra una capsula Orion con a bordo quattro astronauti della Nasa e dell'Agence spatiale européenne. La missione Artemis 2 è diretta verso la Luna, dove raggiungerà un record di distanza di 10.300 chilometri oltre il satellite. La capsula Orion, guidata da Reid Wiseman, Victor Glover, Christina Koch e Jeremy Hansen, sarà la prima a puntare ad andare oltre l'orbita bassa terrestre fin dai tempi della Missione Apollo 17 del 1972. La missione è un test cruciale per i sistemi di comunicazione a distanza lunare e la schermatura alle radiazioni, fondamentali per le missioni future. Il primo stadio dell'SLS si è separato dal resto – lo stadio superiore ICPS (Interim Cryogenic Propulsion Stage) e la capsula Orion – dopo il lancio. L'ICPS ha portato la capsula in orbita alta terrestre, ma l'orbita non è diretta e lineare come si potrebbe pensare. La traiettoria di Artemis 2, lungi dall’essere diretta, è un capolavoro di calcolo orbitale pensato per massimizzare i test tecnologici e raggiungere 10.300 chilometri oltre la Luna. La capsula Orion sarà allestita con strumenti per raccogliere dati scientifici e per testare la schermatura alle radiazioni. La Missione Artemis 2 è un passo importante per la Nasa e per l'Agence spatiale européenne nella loro ambizione di tornare sulla Luna entro il 2028. La traiettoria della capsula Orion è stata scelta per testare i sistemi della capsula e per raggiungere la distanza record. Quello che cambia è chiaro: un ulteriore passo nel consolidamento della supremazia tecnologica statunitense nello spazio. La Missione Artemis 2 è un test per sperimentare i sistemi tecnologici che saranno utili alle missioni successive. La schermatura alle radiazioni e la comunicazione tra la capsula e la Terra a distanze lunari sono solo due degli aspetti chiave della Missione. Se La Missione riesce, sarà un passo importante per la Nasa e per l'Agence spatiale européenne nella loro ambizione di tornare sulla Luna entro il 2028. A pagare saranno, come sempre, i contribuenti, chiamati a finanziare un sogno spaziale mentre i servizi pubblici vacillano.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T12:40:53.960239+00:00\",\n  \"dateModified\": \"2026-04-02T12:40:53.960239+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/0c15640a9f69533c\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/0c15640a9f69533c\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1614728263952-84ea256f9679?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBsYXVuY2h8ZW58MHwwfHx8MTc3NTIwOTQ2OHww&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"NASA\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
@@ -40,17 +40,17 @@
       "image_type": "unsplash"
     },
     {
-      "title": "Kodak rilancia la usa e getta digitale",
-      "url": "/tecnologia/laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
-      "id": "87ee2cc66618798c",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/KodakTMax400.jpg",
-      "image_type": "wikimedia"
+      "title": "Meloni lancia l'identità digitale obbligatoria entro il 2027",
+      "url": "/tecnologia/sperar-phishing-con-ia-25b681d974e44ee1",
+      "id": "25b681d974e44ee1",
+      "image_url": "https://images.unsplash.com/photo-1762325426611-c7a51b65c0ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxBSSUyMGRpZ2l0YWwlMjBpZGVudGl0eSUyMGV1cm9wZXxlbnwwfDB8fHwxNzc1MjA5MjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
     },
     {
-      "title": "A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore",
-      "url": "/tecnologia/la-crisi-delle-dating-app-bc519c5b36c0d9d4",
-      "id": "bc519c5b36c0d9d4",
-      "image_url": "https://images.unsplash.com/photo-1701380135887-6daf8186fccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnaW92YW5pJTIwaW5nbGVzaXxlbnwwfDB8fHwxNzc1MTU4OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "Apple rilascia aggiornamento critico per iPhone: colpiti anche utenti italiani da spyware zero-click",
+      "url": "/tecnologia/apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
+      "id": "e29140269a8ed18e",
+      "image_url": "https://images.unsplash.com/photo-1556204976-4a72b0565dab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpT1MlMjAxOC43LjclMjB1cGRhdGV8ZW58MHwwfHx8MTc3NTIwODU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
