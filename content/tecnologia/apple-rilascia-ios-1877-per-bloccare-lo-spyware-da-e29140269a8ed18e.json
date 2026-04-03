@@ -1,18 +1,18 @@
 {
   "id": "e29140269a8ed18e",
   "slug": "apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
-  "title": "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
+  "title": "Apple rilascia iOS 18.7.7: patch contro lo spyware DarkSword che infetta iPhone e iPad",
   "titles": [
-    "Apple rilascia iOS 18.7.7 contro lo spyware DarkSword",
-    "DarkSword: vulnerabilità in iOS 18.4-18.7, Apple interviene",
-    "Iphone sotto attacco: Apple corre ai ripari con iOS 18.7.7"
+    "Apple rilascia iOS 18.7.7: patch contro lo spyware DarkSword che infetta iPhone e iPad",
+    "DarkSword, il toolkit spia che viola i dispositivi Apple: ecco come difendersi",
+    "Spyware DarkSword colpisce iPhone e iPad: i dati degli utenti a rischio, correzione con iOS 18.7.7"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "APPLE BLOCCA LO SPYWARE DARKSWORD",
-  "lead": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad.",
-  "corpo1": "Apple ha rivelato che il toolkit di spionaggio DarkSword era in grado di infettare iPhone e iPad che utilizzavano una versione di iOS compresa tra la 18.4 e 18.7. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i suoi utenti.",
-  "corpo2": "Apple ha rilasciato l'aggiornamento iOS 18.7.7 per bloccare lo spyware DarkSword. L'azienda multinazionale ha investito milioni di dollari nella sicurezza dei suoi prodotti e la vulnerabilità scoperta è stata un colpo duro per la sua immagine. La questione è come Apple potrà garantire la sicurezza dei suoi prodotti in futuro, ma non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. Di certo, non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. A pagare sarà chi non può permettersi di non pagarlo.",
+  "occhiello": "APPLE RILASCE AGGIORNAMENTO PER BLOCCARE LO SPYWARE DARKSWORD",
+  "lead": "Il 2 aprile 2026, Apple rilascia l'aggiornamento iOS 18.7.7 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio capace di infettare iPhone e iPad con versioni di iOS comprese tra 18.4 e 18.7.",
+  "corpo1": "La vulnerabilità sfruttata da DarkSword è stata analizzata in dettaglio in un articolo pubblicato lo scorso marzo. Secondo Wired Italia, il toolkit è utilizzato per violare i dispositivi Apple e sottrarre dati importanti, tra cui messaggi, cronologia di navigazione web, dati di geolocalizzazione, Foto e note. I dati raccolti vengono poi inviati direttamente ai server controllati dagli hacker. A differenza degli spyware tradizionali, DarkSword risulta difficile da individuare poiché non lascia tracce, ma l'infezione si elimina automaticamente al riavvio del dispositivo. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i dispositivi dei propri utenti.",
+  "corpo2": "Apple è considerata una delle società tecnologiche Big Tech, assieme ad Amazon, Google, Microsoft e Meta. La compagnia ha rilasciato diverse patch per bloccare lo spyware DarkSword, ma solo ora ha rilasciato un aggiornamento per le versioni di iOS che non erano state precedentemente protette. Il fatto che Apple abbia rilasciato un aggiornamento così tardi per bloccare DarkSword solleva domande sulla sicurezza dei dispositivi dei propri utenti. A pagare saranno i soliti: chi non può permettersi di non pagarlo.",
   "journalist": {
     "id": "giulia_serra_01",
     "firma": "Giulia Serra",
@@ -20,37 +20,37 @@
   },
   "published_at": "2026-04-02T14:19:02.358631+00:00",
   "image": {
-    "type": "unsplash",
-    "url": "https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "source": "Unsplash",
-    "credit": "Zulfugar Karimov",
-    "license": "Unsplash License"
+    "type": "pexels",
+    "url": "https://images.pexels.com/photos/16333805/pexels-photo-16333805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "source": "Pexels",
+    "credit": "Efrem  Efre",
+    "license": "Pexels License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Apple rilascia iOS 18.7.7 contro lo spyware DarkSword\",\n  \"description\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad.\",\n  \"articleBody\": \"Apple ha rilasciato l'aggiornamento iOS 18.7.7 il 2 aprile 2026 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio che era in grado di infettare iPhone e iPad. Apple ha rivelato che il toolkit di spionaggio DarkSword era in grado di infettare iPhone e iPad che utilizzavano una versione di iOS compresa tra la 18.4 e 18.7. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. I dati raccolti venivano poi inviati direttamente ai server controllati dagli hacker. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i suoi utenti. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per bloccare lo spyware DarkSword. L'azienda multinazionale ha investito milioni di dollari nella sicurezza dei suoi prodotti e la vulnerabilità scoperta è stata un colpo duro per la sua immagine. La questione è come Apple potrà garantire la sicurezza dei suoi prodotti in futuro, ma non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. Di certo, non basterà solo rilasciare aggiornamenti per riparare le vulnerabilità scoperte. A pagare sarà chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"dateModified\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1762340915398-000c216e7cd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxpUGhvbmUlMjBzb2Z0d2FyZSUyMHVwZGF0ZXxlbnwwfDB8fHwxNzc1MTQ3MjM2fDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Zulfugar Karimov\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Apple rilascia iOS 18.7.7: patch contro lo spyware DarkSword che infetta iPhone e iPad\",\n  \"description\": \"Il 2 aprile 2026, Apple rilascia l'aggiornamento iOS 18.7.7 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio capace di infettare iPhone e iPad con versioni di iOS comprese tra 18.4 e 18.7.\",\n  \"articleBody\": \"Il 2 aprile 2026, Apple rilascia l'aggiornamento iOS 18.7.7 per correggere una vulnerabilità sfruttata dallo spyware DarkSword, un toolkit di spionaggio capace di infettare iPhone e iPad con versioni di iOS comprese tra 18.4 e 18.7. La vulnerabilità sfruttata da DarkSword è stata analizzata in dettaglio in un articolo pubblicato lo scorso marzo. Secondo Wired Italia, il toolkit è utilizzato per violare i dispositivi Apple e sottrarre dati importanti, tra cui messaggi, cronologia di navigazione web, dati di geolocalizzazione, Foto e note. I dati raccolti vengono poi inviati direttamente ai server controllati dagli hacker. A differenza degli spyware tradizionali, DarkSword risulta difficile da individuare poiché non lascia tracce, ma l'infezione si elimina automaticamente al riavvio del dispositivo. Apple ha rilasciato l'aggiornamento iOS 18.7.7 per correggere la vulnerabilità e proteggere i dispositivi dei propri utenti. Apple è considerata una delle società tecnologiche Big Tech, assieme ad Amazon, Google, Microsoft e Meta. La compagnia ha rilasciato diverse patch per bloccare lo spyware DarkSword, ma solo ora ha rilasciato un aggiornamento per le versioni di iOS che non erano state precedentemente protette. Il fatto che Apple abbia rilasciato un aggiornamento così tardi per bloccare DarkSword solleva domande sulla sicurezza dei dispositivi dei propri utenti. A pagare saranno i soliti: chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"dateModified\": \"2026-04-02T14:19:02.358631+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/e29140269a8ed18e\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.pexels.com/photos/16333805/pexels-photo-16333805.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\",\n    \"creditText\": \"Efrem  Efre\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/apple-rilascia-ios-1877-per-bloccare-lo-spyware-da-e29140269a8ed18e",
   "related": [
     {
-      "title": "Meloni vara l'identità digitale AI entro il 2027: blindati conti, sanità e documenti.",
-      "url": "/tecnologia/sperar-phishing-con-ia-25b681d974e44ee1",
-      "id": "25b681d974e44ee1",
-      "image_url": "https://images.unsplash.com/photo-1677442135136-760c813028c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxzaXN0ZW1hJTIwZGklMjBpZGVudGl0JUMzJUEwJTIwZGlnaXRhbGUlMjBiYXNhdG8lMjBzdWxsJTI3aW50ZWxsaWdlbnphJTIwYXJ0aWZpY2lhbGV8ZW58MHwwfHx8MTc3NTE0NTYwMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Artemis 2 parte da Cape Canaveral: primo volo umano verso la Luna dal 1972",
+      "title": "Quattro astronauti verso la Luna con Artemis 2",
       "url": "/tecnologia/nasa-artemis-ii-parte-per-la-luna-obiettivo-presen-0c15640a9f69533c",
       "id": "0c15640a9f69533c",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg",
+      "image_url": "https://images.pexels.com/photos/30132699/pexels-photo-30132699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Kodak rilancia la usa e getta digitale",
+      "url": "/tecnologia/laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
+      "id": "87ee2cc66618798c",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/KodakTMax400.jpg",
       "image_type": "wikimedia"
     },
     {
-      "title": "Kodak lancia Charmera, fotocamera da 30 grammi ispirata agli anni '90 a 99 euro",
-      "url": "/tecnologia/laminiscua-fotocamera-vintage-di-kodak-charmera-un-87ee2cc66618798c",
-      "id": "87ee2cc66618798c",
-      "image_url": "https://images.unsplash.com/photo-1628156987718-e90e05410931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxLb2RhayUyMENoYXJtZXJhJTIwY2FtZXJhfGVufDB8MHx8fDE3NzUxMzQyMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "title": "A Londra i giovani usano PowerPoint per presentare amici in cerca d'amore",
+      "url": "/tecnologia/la-crisi-delle-dating-app-bc519c5b36c0d9d4",
+      "id": "bc519c5b36c0d9d4",
+      "image_url": "https://images.unsplash.com/photo-1701380135887-6daf8186fccb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxnaW92YW5pJTIwaW5nbGVzaXxlbnwwfDB8fHwxNzc1MTU4OTg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
     }
   ],
