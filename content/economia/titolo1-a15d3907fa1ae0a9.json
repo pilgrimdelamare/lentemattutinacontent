@@ -1,0 +1,56 @@
+{
+  "id": "a15d3907fa1ae0a9",
+  "slug": "titolo1-a15d3907fa1ae0a9",
+  "title": "titolo1",
+  "titles": [
+    "titolo1",
+    "titolo2",
+    "titolo3"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "TANGENTI A BENEVENTO, LE PAROLE DEL DIRIGENTE DI MASTELLA",
+  "lead": "Il sindaco di Benevento, Clemente Mastella, ha visto arrestato il suo capo di gabinetto, Gennaro Santamaria, per concussione ai danni di un geometra. Secondo le registrazioni della vittima, Santamaria avrebbe detto \"zero porta zero\", minacciando di bloccare le pratiche del geometra se non avesse pagato 4000 euro in contanti.",
+  "corpo1": "Il geometra, vessato da Santamaria, ha preferito affidarsi ai carabinieri e ha denunciato l'ex capo di gabinetto del sindaco di Benevento. Le registrazioni della vittima raccontano una storia di estorsione e di violenza, con Santamaria che minaccia di bloccare le pratiche del geometra se non avesse pagato la somma di 4000 euro in contanti. \"Zero porta zero\", dice Santamaria, secondo le registrazioni. La Giustizia ha incastrato l'ex capo di gabinetto, che è stato arrestato in flagranza di reato. Il sindaco di Benevento, Clemente Mastella, ha cercato di scaricare la responsabilità su Santamaria, dicendo che non era il suo capo di gabinetto, anche se sul sito del Comune di Benevento era indicato così. Le indagini sono in corso e si sta cercando di capire se c'è stato un coinvolgimento di altri soggetti.",
+  "corpo2": "Gennaro Santamaria, l'ex capo di gabinetto del sindaco di Benevento, aveva un passato da politico e aveva già avuto problemi con la Legge. Il Fatto che abbia estorto 4000 euro al geometra e abbia minacciato di bloccare le sue pratiche è solo la punta dell'iceberg. La vicenda racconta di una struttura di potere corrotta e di una cultura del malaffare che è radicata nel territorio. Il sindaco di Benevento, Clemente Mastella, dovrebbe rispondere di questa situazione e spiegare come ha permesso che un suo dipendente si comportasse in questo modo. La vicenda non finirà qui, ma è solo l'inizio di un processo che vedrà coinvolte molte Altre persone e che potrebbe portare a cambiamenti significativi nel territorio.",
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-03T06:13:59.971040+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/comune-di-benevento-1024x768-1-1200x630.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"titolo1\",\n  \"description\": \"Il sindaco di Benevento, Clemente Mastella, ha visto arrestato il suo capo di gabinetto, Gennaro Santamaria, per concussione ai danni di un geometra. Secondo le registrazioni della vittima, Santamaria avrebbe detto \\\"zero porta zero\\\", minacciando di bloccare le pratiche del geometra se non avesse pag\",\n  \"articleBody\": \"Il sindaco di Benevento, Clemente Mastella, ha visto arrestato il suo capo di gabinetto, Gennaro Santamaria, per concussione ai danni di un geometra. Secondo le registrazioni della vittima, Santamaria avrebbe detto \\\"zero porta zero\\\", minacciando di bloccare le pratiche del geometra se non avesse pagato 4000 euro in contanti. Il geometra, vessato da Santamaria, ha preferito affidarsi ai carabinieri e ha denunciato l'ex capo di gabinetto del sindaco di Benevento. Le registrazioni della vittima raccontano una storia di estorsione e di violenza, con Santamaria che minaccia di bloccare le pratiche del geometra se non avesse pagato la somma di 4000 euro in contanti. \\\"Zero porta zero\\\", dice Santamaria, secondo le registrazioni. La Giustizia ha incastrato l'ex capo di gabinetto, che è stato arrestato in flagranza di reato. Il sindaco di Benevento, Clemente Mastella, ha cercato di scaricare la responsabilità su Santamaria, dicendo che non era il suo capo di gabinetto, anche se sul sito del Comune di Benevento era indicato così. Le indagini sono in corso e si sta cercando di capire se c'è stato un coinvolgimento di altri soggetti. Gennaro Santamaria, l'ex capo di gabinetto del sindaco di Benevento, aveva un passato da politico e aveva già avuto problemi con la Legge. Il Fatto che abbia estorto 4000 euro al geometra e abbia minacciato di bloccare le sue pratiche è solo la punta dell'iceberg. La vicenda racconta di una struttura di potere corrotta e di una cultura del malaffare che è radicata nel territorio. Il sindaco di Benevento, Clemente Mastella, dovrebbe rispondere di questa situazione e spiegare come ha permesso che un suo dipendente si comportasse in questo modo. La vicenda non finirà qui, ma è solo l'inizio di un processo che vedrà coinvolte molte Altre persone e che potrebbe portare a cambiamenti significativi nel territorio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-03T06:13:59.971040+00:00\",\n  \"dateModified\": \"2026-04-03T06:13:59.971040+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/a15d3907fa1ae0a9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/a15d3907fa1ae0a9\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/comune-di-benevento-1024x768-1-1200x630.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/03/tangenti-a-benevento-le-parole-del-dirigente-di-mastella-nelle-registrazioni-della-vittima-zero-porta-zero/8344494/",
+  "related": [
+    {
+      "title": "Genova, nasce Tigullio Energie Condivise: 1,5 MW rinnovabile",
+      "url": "/economia/genova-nasce-tigullio-energie-condivise-15-mw-rinn-d5680e4e5f258e85",
+      "id": "d5680e4e5f258e85",
+      "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/03/Immagini/Ritagli/sestri-levante_AdobeStock_329164505-U18580451027IvC-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+      "image_type": "image"
+    },
+    {
+      "title": "Lavoratori italiani: 58 minuti persi al giorno per errori AI",
+      "url": "/economia/harvard-47-lavoratori-sprecano-tempo-a-correggere-05bc96be853dede3",
+      "id": "05bc96be853dede3",
+      "image_url": "https://images.unsplash.com/photo-1726649339367-c2577a28881b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx1b21vJTIwYWwlMjBjb21wdXRlciUyMGNvbiUyMGVzcHJlc3Npb25lJTIwZnJ1c3RyYXRhfGVufDB8MHx8fDE3NzUxOTQyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Wall Street cala dell'0,10%",
+      "url": "/economia/wall-street-scende-010-a-chiusura-di-giornata-650b154f1390552c",
+      "id": "650b154f1390552c",
+      "image_url": "https://images.unsplash.com/photo-1664138481334-12626f0e8708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHx3YWxsJTIwc3RyZWV0JTIwc3RvY2slMjBtYXJrZXR8ZW58MHwwfHx8MTc3NTE5MzgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
