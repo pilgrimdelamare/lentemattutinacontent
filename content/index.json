@@ -1,5 +1,19 @@
 [
   {
+    "id": "a15d3907fa1ae0a9",
+    "slug": "titolo1-a15d3907fa1ae0a9",
+    "title": "titolo1",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-03T06:13:59.971040+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/02/comune-di-benevento-1024x768-1-1200x630.jpg",
+    "occhiello": "TANGENTI A BENEVENTO, LE PAROLE DEL DIRIGENTE DI MASTELLA",
+    "lead_preview": "Il sindaco di Benevento, Clemente Mastella, ha visto arrestato il suo capo di gabinetto, Gennaro Santamaria, per concuss",
+    "tags": []
+  },
+  {
     "id": "bc615f7165300c75",
     "slug": "toscana-giani-lancia-reddito-fino-a-500-euro-per-d-bc615f7165300c75",
     "title": "Toscana, Giani lancia reddito fino a 500 euro per disoccupati sotto Isee 15mila",
@@ -8540,23 +8554,6 @@
     "tags": [
       "poste tim",
       "nazionalizzazione"
-    ]
-  },
-  {
-    "id": "16d099f6d36e3ac0",
-    "slug": "la-lista-di-castagna-e-stata-bocciata-dalladvisor-16d099f6d36e3ac0",
-    "title": "La lista di Castagna è stata bocciata dall'advisor Iss",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-03-29T23:13:37.723339+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdhbGxldHxlbnwwfDB8fHwxNzc0ODI2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "SÌ DELL'ADVISOR ISS ALLA LISTA CASTAGNA, BOCCIATA AGRICOLE",
-    "lead_preview": "Il 30 marzo 2026, l'advisor dell'Istituto per la Sicurezza Sociale (Iss) ha dato il via libera alla lista dei candidati ",
-    "tags": [
-      "lista castagna",
-      "iss advisor"
     ]
   }
 ]
