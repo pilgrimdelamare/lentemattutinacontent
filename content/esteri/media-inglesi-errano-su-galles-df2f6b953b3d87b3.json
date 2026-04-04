@@ -1,0 +1,56 @@
+{
+  "id": "df2f6b953b3d87b3",
+  "slug": "media-inglesi-errano-su-galles-df2f6b953b3d87b3",
+  "title": "Media inglesi errano su Galles",
+  "titles": [
+    "Media inglesi errano su Galles",
+    "3.000 articoli analizzati",
+    "Galles disinformato alle elezioni"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "MEDIA INGLESE FA CONFUSIONE SU WALES",
+  "lead": "Un rapporto dell'Università di Cardiff rivela che i media inglesi non riportano correttamente le questioni devolute in Galles, lasciando gli elettori disinformati in vista delle elezioni del Senedd di maggio. Lo studio ha analizzato oltre 3.000 articoli e trovato ripetuti errori nella copertura.",
+  "corpo1": "I media inglesi stanno fallendo nel riportare correttamente le questioni devolute in Galles, lasciando gli elettori poco informati in vista delle elezioni del Senedd di maggio. Un rapporto dell'Università di Cardiff, che ha analizzato oltre 3.000 articoli, ha trovato ripetuti errori nella copertura. Gli studiosi hanno notato che spesso non viene specificato se una questione sia rilevante solo per l'Inghilterra o per l'intero Regno Unito. Questo crea confusione tra gli elettori, che tendono a considerare le questioni inglesi come se fossero valide per l'intero paese. Secondo il rapporto, ciò può avere un impatto su come le persone votano. Il Senedd, il parlamento gallese, ha competenze devolute in aree come la sanità, l'istruzione e la giustizia. Tuttavia, i media inglesi spesso non chiariscono se una notizia sia pertinente solo alla Galles o a tutto il Regno Unito.",
+  "corpo2": "Il problema è particolarmente preoccupante in vista delle elezioni del Senedd di maggio, che determineranno la composizione del parlamento gallese e quindi le politiche future del paese. La confusione creata dai media può portare a una disinformazione degli elettori e a una mancanza di comprensione delle questioni realmente importanti per la Galles. A pagare saranno i soliti: gli elettori gallesi che non avranno le informazioni necessarie per prendere decisioni informate.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-04T06:21:56.123879+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i.guim.co.uk/img/media/db44a8806ba82fea17a77450b5f040d3ca61967d/522_0_4676_3740/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc3209af188ce6ef6acc8f9a81f93ea5",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Media inglesi errano su Galles\",\n  \"description\": \"Un rapporto dell'Università di Cardiff rivela che i media inglesi non riportano correttamente le questioni devolute in Galles, lasciando gli elettori disinformati in vista delle elezioni del Senedd di maggio. Lo studio ha analizzato oltre 3.000 articoli e trovato ripetuti errori nella copertura.\",\n  \"articleBody\": \"Un rapporto dell'Università di Cardiff rivela che i media inglesi non riportano correttamente le questioni devolute in Galles, lasciando gli elettori disinformati in vista delle elezioni del Senedd di maggio. Lo studio ha analizzato oltre 3.000 articoli e trovato ripetuti errori nella copertura. I media inglesi stanno fallendo nel riportare correttamente le questioni devolute in Galles, lasciando gli elettori poco informati in vista delle elezioni del Senedd di maggio. Un rapporto dell'Università di Cardiff, che ha analizzato oltre 3.000 articoli, ha trovato ripetuti errori nella copertura. Gli studiosi hanno notato che spesso non viene specificato se una questione sia rilevante solo per l'Inghilterra o per l'intero Regno Unito. Questo crea confusione tra gli elettori, che tendono a considerare le questioni inglesi come se fossero valide per l'intero paese. Secondo il rapporto, ciò può avere un impatto su come le persone votano. Il Senedd, il parlamento gallese, ha competenze devolute in aree come la sanità, l'istruzione e la giustizia. Tuttavia, i media inglesi spesso non chiariscono se una notizia sia pertinente solo alla Galles o a tutto il Regno Unito. Il problema è particolarmente preoccupante in vista delle elezioni del Senedd di maggio, che determineranno la composizione del parlamento gallese e quindi le politiche future del paese. La confusione creata dai media può portare a una disinformazione degli elettori e a una mancanza di comprensione delle questioni realmente importanti per la Galles. A pagare saranno i soliti: gli elettori gallesi che non avranno le informazioni necessarie per prendere decisioni informate.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T06:21:56.123879+00:00\",\n  \"dateModified\": \"2026-04-04T06:21:56.123879+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/df2f6b953b3d87b3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/df2f6b953b3d87b3\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/db44a8806ba82fea17a77450b5f040d3ca61967d/522_0_4676_3740/master/4676.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc3209af188ce6ef6acc8f9a81f93ea5\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
+  "related": [
+    {
+      "title": "Prezzi case britanniche +0,9% a marzo: 294.000 sterline la media",
+      "url": "/esteri/prezzi-case-uk-ai-massimi-ma-liran-fermera-il-merc-b4b6d19deb025ccb",
+      "id": "b4b6d19deb025ccb",
+      "image_url": "https://images.pexels.com/photos/36614464/pexels-photo-36614464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Gucci Mane rapito a Dallas da un commando armato nella notte del 15 marzo",
+      "url": "/esteri/rapporto-in-fiamme-tra-gucci-mane-e-poison-shiesty-c7938205b47455c6",
+      "id": "c7938205b47455c6",
+      "image_url": "https://live.staticflickr.com/65535/52090226681_6c88f331fd_b.jpg",
+      "image_type": "flickr"
+    },
+    {
+      "title": "Due arresti in Australia per l'aiuto a Dezi Bird Freeman",
+      "url": "/esteri/due-arresti-in-australia-per-laiuto-a-dezi-bird-fr-0aaa2d0cc41b2a31",
+      "id": "0aaa2d0cc41b2a31",
+      "image_url": "https://i.guim.co.uk/img/media/9f46f7f467ea9d17ccc65dfa86c1f655fbb74e24/410_0_2109_1688/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04b536ccdd7dabf50b662c38ddcfe934",
+      "image_type": "image"
+    }
+  ]
+}
