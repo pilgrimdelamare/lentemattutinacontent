@@ -1,0 +1,56 @@
+{
+  "id": "782a7f80008661e6",
+  "slug": "il-fotoreporter-deghati-parla-782a7f80008661e6",
+  "title": "Il fotoreporter deghati parla",
+  "titles": [
+    "IL FOTOREPORTER DEGHATI PARLA",
+    "IL FOTOREPORTER DEGHATI PARLA",
+    "IL FOTOREPORTER DEGHATI PARLA"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "IL FOTOREPORTER DEGHATI PARLA",
+  "lead": "Il fotoreporter Manoocher Deghati ha raccontato la sua esperienza durante l'operazione \"Eagle Claw\", ordinata da Jimmy Carter quattro mesi dopo il sequestro dei diplomatici americani in Iran nel 1980.",
+  "corpo1": "Secondo quanto riportato da Anna Lombardi, l'operazione \"Eagle Claw\" venne ordinata da Jimmy Carter quattro mesi dopo il sequestro dei diplomatici americani in Iran. Il fotoreporter Deghati ha raccontato la sua esperienza durante quell'evento, e ha affermato che \"gli Usa devono imporsi\". L'operazione \"Eagle Claw\" fu un tentativo di liberare gli ostaggi americani, ma fallì a causa di problemi tecnici e logistici. Il flop dell'operazione portò alla fine della presidenza di Jimmy Carter. Deghati ha anche raccontato di come abbia scattato foto durante l'operazione, che sono state pubblicate in varie testate internazionali. Le sue foto hanno mostrato la realtà dell'operazione e le difficoltà affrontate dalle forze americane durante il tentativo di liberare gli ostaggi.",
+  "corpo2": "Manoocher Deghati è un fotoreporter con una lunga esperienza nel campo del giornalismo, e ha lavorato in vari conflitti e crisi internazionali. La sua esperienza durante l'operazione \"Eagle Claw\" è solo uno degli esempi della sua capacità di raccontare storie importanti e di catturare immagini che testimoniano la realtà dei fatti. La sua affermazione che \"gli Usa devono imporsi\" suggerisce che Deghati crede che gli Stati Uniti debbano assumere un ruolo più attivo nella risoluzione dei conflitti internazionali. Inoltre, la sua esperienza durante l'operazione \"Eagle Claw\" mostra come le operazioni militari possano avere conseguenze impreviste e come la comunicazione e la strategia siano fondamentali per il successo di tali operazioni. A pagare il prezzo di queste operazioni fallite saranno sempre i civili e i soldati coinvolti, che subiranno le conseguenze di decisioni prese da leader politici e militari.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-04T23:48:29.059887+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/222117284-f34062e6-58d2-4340-88a2-83c5d7aeab8a.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"IL FOTOREPORTER DEGHATI PARLA\",\n  \"description\": \"Il fotoreporter Manoocher Deghati ha raccontato la sua esperienza durante l'operazione \\\"Eagle Claw\\\", ordinata da Jimmy Carter quattro mesi dopo il sequestro dei diplomatici americani in Iran nel 1980.\",\n  \"articleBody\": \"Il fotoreporter Manoocher Deghati ha raccontato la sua esperienza durante l'operazione \\\"Eagle Claw\\\", ordinata da Jimmy Carter quattro mesi dopo il sequestro dei diplomatici americani in Iran nel 1980. Secondo quanto riportato da Anna Lombardi, l'operazione \\\"Eagle Claw\\\" venne ordinata da Jimmy Carter quattro mesi dopo il sequestro dei diplomatici americani in Iran. Il fotoreporter Deghati ha raccontato la sua esperienza durante quell'evento, e ha affermato che \\\"gli Usa devono imporsi\\\". L'operazione \\\"Eagle Claw\\\" fu un tentativo di liberare gli ostaggi americani, ma fallì a causa di problemi tecnici e logistici. Il flop dell'operazione portò alla fine della presidenza di Jimmy Carter. Deghati ha anche raccontato di come abbia scattato foto durante l'operazione, che sono state pubblicate in varie testate internazionali. Le sue foto hanno mostrato la realtà dell'operazione e le difficoltà affrontate dalle forze americane durante il tentativo di liberare gli ostaggi. Manoocher Deghati è un fotoreporter con una lunga esperienza nel campo del giornalismo, e ha lavorato in vari conflitti e crisi internazionali. La sua esperienza durante l'operazione \\\"Eagle Claw\\\" è solo uno degli esempi della sua capacità di raccontare storie importanti e di catturare immagini che testimoniano la realtà dei fatti. La sua affermazione che \\\"gli Usa devono imporsi\\\" suggerisce che Deghati crede che gli Stati Uniti debbano assumere un ruolo più attivo nella risoluzione dei conflitti internazionali. Inoltre, la sua esperienza durante l'operazione \\\"Eagle Claw\\\" mostra come le operazioni militari possano avere conseguenze impreviste e come la comunicazione e la strategia siano fondamentali per il successo di tali operazioni. A pagare il prezzo di queste operazioni fallite saranno sempre i civili e i soldati coinvolti, che subiranno le conseguenze di decisioni prese da leader politici e militari.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-04T23:48:29.059887+00:00\",\n  \"dateModified\": \"2026-04-04T23:48:29.059887+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/782a7f80008661e6\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/782a7f80008661e6\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/04/222117284-f34062e6-58d2-4340-88a2-83c5d7aeab8a.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Esteri",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/esteri/2026/04/05/news/fotoreporter_manoocher_deghati_iran_foto_ostaggi_guerra_usa-425264940/?rss",
+  "related": [
+    {
+      "title": "Torero incornato a malaga",
+      "url": "/esteri/ex-matador-ricardo-ortiz-muore-incornato-da-un-tor-1167d6d626047aa2",
+      "id": "1167d6d626047aa2",
+      "image_url": "https://images.pexels.com/photos/16440427/pexels-photo-16440427.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Netanyahu ordina attacchi a impianti petrolchimici iraniani a Bandar Imam e Abadan",
+      "url": "/esteri/israele-colpisce-impianti-petrolchimici-in-iran-co-1cf247c9cdbc78b1",
+      "id": "1cf247c9cdbc78b1",
+      "image_url": "https://images.pexels.com/photos/8164535/pexels-photo-8164535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Francia: attal smentisce la destruttazione del paese",
+      "url": "/esteri/francia-attal-smentisce-la-destruttazione-del-paes-d2b0b6b143398c20",
+      "id": "d2b0b6b143398c20",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/04/211907891-6fcdbfb0-acc7-4f9e-ba0f-2332a80ec91c.jpg",
+      "image_type": "image"
+    }
+  ]
+}
