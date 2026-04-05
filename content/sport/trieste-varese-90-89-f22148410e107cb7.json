@@ -1,0 +1,57 @@
+{
+  "id": "f22148410e107cb7",
+  "slug": "trieste-varese-90-89-f22148410e107cb7",
+  "title": "Trieste-varese 90-89",
+  "titles": [
+    "TRIESTE-VARESE 90-89",
+    "TRIESTE-VARESE 90-89",
+    "TRIESTE-VARESE 90-89"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "TRIESTE-VARESE 90-89",
+  "lead": "Trieste, 5 aprile 2026, la partita tra Trieste e Varese si è conclusa con un punteggio di 90-89 in favore di Trieste, secondo quanto riportato dalle highlights di Sky.",
+  "corpo1": "La partita, giocata il 5 aprile 2026, ha visto la vittoria di Trieste con un punteggio di 90-89. Le highlights della partita sono state rese disponibili da Sky, che ha anche annunciato la disponibilità di ulteriori contenuti relativi alla LBA Serie A. La città di Trieste, con una popolazione di 198.622 abitanti, è il capoluogo della regione Friuli-Venezia Giulia, mentre Varese è una città della Lombardia con una popolazione di 80.559 abitanti. Secondo il comunicato di Sky, la partita è stata giocata nel contesto della LBA Serie A, e le highlights sono state rese disponibili sul sito web di Sky.",
+  "corpo2": "Il risultato della partita tra Trieste e Varese è significativo perché riflette la competitività della LBA Serie A. La vittoria di Trieste può essere attribuita alla sua strategia di gioco e alla sua capacità di adattarsi alle condizioni della partita. La partita ha anche messo in evidenza l'importanza della LBA Serie A come competizione di alto livello nel Basket italiano. La disponibilità di highlights e contenuti relativi alla partita su piattaforme come Sky dimostra l'interesse crescente per la LBA Serie A e il suo impatto sul pubblico. Il fatto che la partita sia stata giocata tra due città con una forte tradizione sportiva come Trieste e Varese aggiunge ulteriore interesse alla competizione. A pagare il conto di questa sconfitta saranno i tifosi di Varese, che dovranno aspettare la prossima partita per vedere la loro squadra tornare alla vittoria.",
+  "journalist": {
+    "id": "davide_longo_01",
+    "firma": "Davide Longo",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-05T07:05:18.508120+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/2f1a9e7c9ae8fb8ce6d234f75d1f3d7d43bfb354/skysport/it/basket/serie-a/video/2026/04/05/1087794_1775370101238_thumb_494.0000001_1775370448385.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"TRIESTE-VARESE 90-89\",\n  \"description\": \"Trieste, 5 aprile 2026, la partita tra Trieste e Varese si è conclusa con un punteggio di 90-89 in favore di Trieste, secondo quanto riportato dalle highlights di Sky.\",\n  \"articleBody\": \"Trieste, 5 aprile 2026, la partita tra Trieste e Varese si è conclusa con un punteggio di 90-89 in favore di Trieste, secondo quanto riportato dalle highlights di Sky. La partita, giocata il 5 aprile 2026, ha visto la vittoria di Trieste con un punteggio di 90-89. Le highlights della partita sono state rese disponibili da Sky, che ha anche annunciato la disponibilità di ulteriori contenuti relativi alla LBA Serie A. La città di Trieste, con una popolazione di 198.622 abitanti, è il capoluogo della regione Friuli-Venezia Giulia, mentre Varese è una città della Lombardia con una popolazione di 80.559 abitanti. Secondo il comunicato di Sky, la partita è stata giocata nel contesto della LBA Serie A, e le highlights sono state rese disponibili sul sito web di Sky. Il risultato della partita tra Trieste e Varese è significativo perché riflette la competitività della LBA Serie A. La vittoria di Trieste può essere attribuita alla sua strategia di gioco e alla sua capacità di adattarsi alle condizioni della partita. La partita ha anche messo in evidenza l'importanza della LBA Serie A come competizione di alto livello nel Basket italiano. La disponibilità di highlights e contenuti relativi alla partita su piattaforme come Sky dimostra l'interesse crescente per la LBA Serie A e il suo impatto sul pubblico. Il fatto che la partita sia stata giocata tra due città con una forte tradizione sportiva come Trieste e Varese aggiunge ulteriore interesse alla competizione. A pagare il conto di questa sconfitta saranno i tifosi di Varese, che dovranno aspettare la prossima partita per vedere la loro squadra tornare alla vittoria.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:05:18.508120+00:00\",\n  \"dateModified\": \"2026-04-05T07:05:18.508120+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/f22148410e107cb7\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/f22148410e107cb7\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/2f1a9e7c9ae8fb8ce6d234f75d1f3d7d43bfb354/skysport/it/basket/serie-a/video/2026/04/05/1087794_1775370101238_thumb_494.0000001_1775370448385.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/basket/serie-a/video/2026/04/05/trieste-varese-highlights-lba-1087794",
+  "related": [
+    {
+      "title": "Basket: Treviso batte Tortona 91-86, quinta vittoria in campionato",
+      "url": "/sport/basket-treviso-batte-tortona-91-86-quinta-vittoria-a62ee633e81a2444",
+      "id": "a62ee633e81a2444",
+      "image_url": "https://sport.sky.it/assets/images/4765155b8e0fd835b0e66fe357763a05df9a21a2/skysport/it/basket/serie-a/video/2026/04/05/1087795_1775370152263_thumb_494.0000001_1775370459188.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Fondi scomparsi: ternana e guidonia montecelio non pagano i giocatori",
+      "url": "/sport/calcio-guidonia-ternana-1-1-ma-in-serie-c-i-conti-52af040fc57bce58",
+      "id": "52af040fc57bce58",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/006/662/433/large_2x/lawn-or-soccer-field-with-thick-soft-green-grass-a-standard-patterned-soccer-ball-placed-for-corner-kicks-top-view-football-field-background-or-wallpaper-3d-lawn-3d-rendering-free-photo.jpg",
+      "image_type": "ddg_image"
+    },
+    {
+      "title": "Calcio: Lipsia batte Werder Brema 2-1 a Bremen con doppietta Nkunku-Olmo",
+      "url": "/sport/calcio-lipsia-ribalta-il-werder-brema-allo-stadio-9b5ff7ad42a4034c",
+      "id": "9b5ff7ad42a4034c",
+      "image_url": "https://images.unsplash.com/photo-1715277331635-c65c2b11af11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxCdW5kZXNsaWdhJTIwZ2FtZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzc1MzY3Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
