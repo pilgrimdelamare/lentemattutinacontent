@@ -1,0 +1,56 @@
+{
+  "id": "968cb0464cf8ec54",
+  "slug": "britannia-in-crisi-cala-la-domanda-di-pubblicazion-968cb0464cf8ec54",
+  "title": "Britannia in crisi: cala la domanda di pubblicazione sui social",
+  "titles": [
+    "Britannia in crisi: cala la domanda di pubblicazione sui social",
+    "Gigli di gesso tra i giovani inglesi: l'impatto dei social sulla salute mentale",
+    "No agli selfie obbligatori: perché gli inglesi stanno smettendo di pubblicare sui social"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "BRITANNIA E LA FINE DELLA SOCIETA' SIBILLINA",
+  "lead": "La società britannica sembra essere in crisi con i social media. Secondo i dati di Ofcom, la domanda di pubblicazione è in calo, mentre ci sono preoccupazioni crescenti per la salute mentale e per i post storici. Il fenomeno è più diffuso tra i giovani.",
+  "corpo1": "Tuttavia, i dati di Ofcom indicano che gli utenti stanno diminuendo la loro domanda di pubblicazione. \"Non avrei pubblicato il mio matrimonio, ma ho dovuto farlo perché ... C'è un'etichetta. Nessun altro può pubblicare il mio matrimonio prima di me\", ha dichiarato Jenny, come molti altri britannici recentemente. Secondo Ofcom, ci sono tre ragioni principali per questo calo: la crescita della passività",
+  "corpo2": "Nella social media, l'ansia per la pubblicazione di post storici e la preoccupazione per la salute mentale. I dati di Ofcom mostrano che gli utenti sono sempre più esitanti a pubblicare, preferendo osservare piuttosto che interagire. La storia di Jenny è emblematica di un cambiamento più ampio nella società britannica. È in questo contesto che possiamo comprendere la crisi nella pubblicazione dei social media. Il meccanismo strutturale dietro questo fenomeno è legato alla crescente coscienza sulla salute mentale e all'ansia per la pubblicazione di post storici. Ciò che cambia è la mancanza di autenticità nella comunicazione dei social media, che sta portando gli utenti a ritirarsi in una zona di osservazione passiva. A pagare saranno i soliti: chi non può permettersi di non pubblicare.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-05T05:15:09.036625+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://i.guim.co.uk/img/media/d813d3e5a7b3b2cf8c07db8942c560117ace1c0c/0_0_6249_5000/master/6249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb02c47f917f0bd485ac63b69dfd2a7",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Britannia in crisi: cala la domanda di pubblicazione sui social\",\n  \"description\": \"La società britannica sembra essere in crisi con i social media. Secondo i dati di Ofcom, la domanda di pubblicazione è in calo, mentre ci sono preoccupazioni crescenti per la salute mentale e per i post storici. Il fenomeno è più diffuso tra i giovani.\",\n  \"articleBody\": \"La società britannica sembra essere in crisi con i social media. Secondo i dati di Ofcom, la domanda di pubblicazione è in calo, mentre ci sono preoccupazioni crescenti per la salute mentale e per i post storici. Il fenomeno è più diffuso tra i giovani. Tuttavia, i dati di Ofcom indicano che gli utenti stanno diminuendo la loro domanda di pubblicazione. \\\"Non avrei pubblicato il mio matrimonio, ma ho dovuto farlo perché ... C'è un'etichetta. Nessun altro può pubblicare il mio matrimonio prima di me\\\", ha dichiarato Jenny, come molti altri britannici recentemente. Secondo Ofcom, ci sono tre ragioni principali per questo calo: la crescita della passività Nella social media, l'ansia per la pubblicazione di post storici e la preoccupazione per la salute mentale. I dati di Ofcom mostrano che gli utenti sono sempre più esitanti a pubblicare, preferendo osservare piuttosto che interagire. La storia di Jenny è emblematica di un cambiamento più ampio nella società britannica. È in questo contesto che possiamo comprendere la crisi nella pubblicazione dei social media. Il meccanismo strutturale dietro questo fenomeno è legato alla crescente coscienza sulla salute mentale e all'ansia per la pubblicazione di post storici. Ciò che cambia è la mancanza di autenticità nella comunicazione dei social media, che sta portando gli utenti a ritirarsi in una zona di osservazione passiva. A pagare saranno i soliti: chi non può permettersi di non pubblicare.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T05:15:09.036625+00:00\",\n  \"dateModified\": \"2026-04-05T05:15:09.036625+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/968cb0464cf8ec54\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/968cb0464cf8ec54\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/d813d3e5a7b3b2cf8c07db8942c560117ace1c0c/0_0_6249_5000/master/6249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb02c47f917f0bd485ac63b69dfd2a7\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 4,
+  "source": "The Guardian",
+  "source_type": "esteri",
+  "original_url": "https://www.theguardian.com/news/ng-interactive/2026/apr/05/uk-social-media-apps-share",
+  "related": [
+    {
+      "title": "Vance a Budapest: sostegno a Orbán in crisi",
+      "url": "/esteri/viktor-orban-attende-jd-vance-a-budapest-il-vicepr-c8c380b10bec8ef5",
+      "id": "c8c380b10bec8ef5",
+      "image_url": "https://images.pexels.com/photos/34431040/pexels-photo-34431040.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Gasolio a 3,80 NZD/l, agricoltore neozelandese in crisi",
+      "url": "/esteri/diesel-a-380-dollari-in-nuova-zelanda-agricoltore-02ffb2f4c2650a6a",
+      "id": "02ffb2f4c2650a6a",
+      "image_url": "https://images.unsplash.com/photo-1559492323-d6655fa3efd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmYXJtZXIlMjB3aXRoJTIwY293c3xlbnwwfDB8fHwxNzc1Mjc2MDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Francia, +7,3% di dirigenti assunti nel primo trimestre 2026 dopo la crisi",
+      "url": "/esteri/cadre-francesi-2026-rialzo-in-corsa-ma-crisi-medio-934dca37d7b73274",
+      "id": "934dca37d7b73274",
+      "image_url": "https://images.unsplash.com/photo-1582881853443-7c5a7e4e0d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGV4ZWN1dGl2ZXMlMjBtaWRkbGUlMjBlYXN0JTIwcnViYmxlfGVufDB8MHx8fDE3NzUyMTA1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
