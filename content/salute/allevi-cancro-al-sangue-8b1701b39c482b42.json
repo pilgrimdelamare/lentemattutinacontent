@@ -1,0 +1,56 @@
+{
+  "id": "8b1701b39c482b42",
+  "slug": "allevi-cancro-al-sangue-8b1701b39c482b42",
+  "title": "Allevi: cancro al sangue",
+  "titles": [
+    "Allevi: cancro al sangue",
+    "63 chili: Allevi lotta",
+    "Allevi: vita in pericolo"
+  ],
+  "title_winner": null,
+  "section": "salute",
+  "occhiello": "Giovanni Allevi: \"Ho toccato il fondo\"",
+  "lead": "Giovanni Allevi, il noto compositore e pianista italiano, ha recentemente rivelato la sua lotta contro il mieloma multiplo, una forma di cancro del sangue, durante un'intervista a \"Verissimo\", condotto da Silvia Toffanin, il 5 aprile 2026.",
+  "corpo1": "Allevi ha descritto la sua esperienza con la chemioterapia, affermando di aver toccato il fondo e di aver perso molto peso, scendendo a 63 chili. Ha anche menzionato di essere stato in bilico tra la vita e la morte e di avere ancora segni indelebili della malattia, come dolore cronico alla schiena, due vertebre compromesse, tremore alle dita e formicolio. Secondo Allevi, i medici gli hanno detto che non vivrà a lungo, ma lui non ci crede. Durante l'intervista, Allevi ha anche parlato della sua speranza di superare la malattia e di tornare a fare musica. La sua storia ha commosso molti fan e ha sollevato l'attenzione sulla lotta contro il cancro e sull'importanza della ricerca medica.",
+  "corpo2": "Giovanni Allevi è un noto compositore e pianista italiano, conosciuto per la sua musica emotiva e coinvolgente. La sua canzone \"O generosa\" è attualmente la sigla della Serie A di calcio italiana. Allevi è sempre stato aperto sulla sua vita personale e ha utilizzato la sua piattaforma per sensibilizzare sulla salute mentale e sul cancro. La sua lotta contro il mieloma multiplo è un esempio di come la malattia possa colpire chiunque, indipendentemente dalla fama o dalla ricchezza. Il fatto che Allevi abbia deciso di condividere la sua storia può aiutare a ridurre lo stigma attorno alle malattie croniche e a promuovere la ricerca per trovare cure più efficaci. A pagare il prezzo di questa lotta contro il cancro saranno non solo Allevi e la sua famiglia, ma anche tutti coloro che sono coinvolti nella sua vita e nella sua musica.",
+  "journalist": {
+    "id": "luca_tosi_01",
+    "firma": "Luca Tosi",
+    "sezione": "salute"
+  },
+  "published_at": "2026-04-05T07:34:22.384064+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/05/Screenshot-2026-04-05-alle-09.26.05-1166x630.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Allevi: cancro al sangue\",\n  \"description\": \"Giovanni Allevi, il noto compositore e pianista italiano, ha recentemente rivelato la sua lotta contro il mieloma multiplo, una forma di cancro del sangue, durante un'intervista a \\\"Verissimo\\\", condotto da Silvia Toffanin, il 5 aprile 2026.\",\n  \"articleBody\": \"Giovanni Allevi, il noto compositore e pianista italiano, ha recentemente rivelato la sua lotta contro il mieloma multiplo, una forma di cancro del sangue, durante un'intervista a \\\"Verissimo\\\", condotto da Silvia Toffanin, il 5 aprile 2026. Allevi ha descritto la sua esperienza con la chemioterapia, affermando di aver toccato il fondo e di aver perso molto peso, scendendo a 63 chili. Ha anche menzionato di essere stato in bilico tra la vita e la morte e di avere ancora segni indelebili della malattia, come dolore cronico alla schiena, due vertebre compromesse, tremore alle dita e formicolio. Secondo Allevi, i medici gli hanno detto che non vivrà a lungo, ma lui non ci crede. Durante l'intervista, Allevi ha anche parlato della sua speranza di superare la malattia e di tornare a fare musica. La sua storia ha commosso molti fan e ha sollevato l'attenzione sulla lotta contro il cancro e sull'importanza della ricerca medica. Giovanni Allevi è un noto compositore e pianista italiano, conosciuto per la sua musica emotiva e coinvolgente. La sua canzone \\\"O generosa\\\" è attualmente la sigla della Serie A di calcio italiana. Allevi è sempre stato aperto sulla sua vita personale e ha utilizzato la sua piattaforma per sensibilizzare sulla salute mentale e sul cancro. La sua lotta contro il mieloma multiplo è un esempio di come la malattia possa colpire chiunque, indipendentemente dalla fama o dalla ricchezza. Il fatto che Allevi abbia deciso di condividere la sua storia può aiutare a ridurre lo stigma attorno alle malattie croniche e a promuovere la ricerca per trovare cure più efficaci. A pagare il prezzo di questa lotta contro il cancro saranno non solo Allevi e la sua famiglia, ma anche tutti coloro che sono coinvolti nella sua vita e nella sua musica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Luca Tosi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T07:34:22.384064+00:00\",\n  \"dateModified\": \"2026-04-05T07:34:22.384064+00:00\",\n  \"url\": \"https://lentemattutina.it/salute/8b1701b39c482b42\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/salute/8b1701b39c482b42\"\n  },\n  \"articleSection\": \"Salute\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/05/Screenshot-2026-04-05-alle-09.26.05-1166x630.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Il Fatto Quotidiano",
+  "source_type": "competitor",
+  "original_url": "https://www.ilfattoquotidiano.it/2026/04/05/giovanni-allevi-ho-toccato-il-fondo-dopo-la-chemio-pesavo-63-chili-ero-in-bilico-tra-la-vita-e-la-morte-la-malattia-mi-ha-lasciato-segni-indelebili-dicono-che-non-vivro-a-lungo-ma-non-ci-credo/8346546/",
+  "related": [
+    {
+      "title": "Meloni lancia piano anti-cancro da 12 miliardi, fondi senza copertura",
+      "url": "/salute/oncologia-integrata-alla-camera-primo-riconoscimen-de3759055e6c3d88",
+      "id": "de3759055e6c3d88",
+      "image_url": "https://images.unsplash.com/photo-1581056771188-021d4a0f8ec0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxjYW5jZXIlMjBwcmV2ZW50aW9ufGVufDB8MHx8fDE3NzUyOTkxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Siena ospita Stati Generali della Salute",
+      "url": "/salute/siena-53mila-abitanti-laboratorio-per-il-futuro-de-479ba562df7db6c3",
+      "id": "479ba562df7db6c3",
+      "image_url": "https://images.unsplash.com/photo-1767966928908-9eeaa1a2cc39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmdXR1cmUlMjBvZiUyMGhlYWx0aGNhcmV8ZW58MHwwfHx8MTc3NTI1OTU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
+    {
+      "title": "Bambino di 13 anni in coma dopo aggressione con tubo di ferro a Brescia",
+      "url": "/salute/minore-accoltello-in-brescia-gip-si-riserva-sui-pr-fbf3b066d834e7ba",
+      "id": "fbf3b066d834e7ba",
+      "image_url": "https://images.unsplash.com/photo-1746991227201-2e7d194e9ae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMGludGVuc2l2ZSUyMGNhcmUlMjBpdGFseXxlbnwwfDB8fHwxNzc1MjA3MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ]
+}
