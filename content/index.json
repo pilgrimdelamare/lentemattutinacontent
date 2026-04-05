@@ -1,5 +1,22 @@
 [
   {
+    "id": "6d098befd87acfbb",
+    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
+    "title": "Abbattuto f-15 statunitense in iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-05T04:44:24.360740+00:00",
+    "image_type": "ddg_image",
+    "image_url": "http://theaviationgeekclub.com/wp-content/uploads/2018/02/F-15Es-Roland.jpg",
+    "occhiello": "ABBATTUTO F-15 STATUNITENSE IN IRAN",
+    "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
+    "tags": [
+      "guerra iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "55b47b721cce05e6",
     "slug": "laquila-ricorda-le-309-vittime-del-terremoto-con-d-55b47b721cce05e6",
     "title": "L'aquila ricorda il terremoto",
@@ -13,23 +30,6 @@
     "lead_preview": "L'Aquila celebra il diciassettesimo anniversario del terremoto del 2009, che uccise 309 persone e ferì 1600.",
     "tags": [
       "terremoto l'aquila"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d098befd87acfbb",
-    "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
-    "title": "Pilota usa ucciso nel khuzestan",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-05T04:44:24.360740+00:00",
-    "image_type": "ddg_image",
-    "image_url": "https://media.defense.gov/2007/Aug/02/2000464157/-1/-1/0/070610-F-0205S-103.JPG",
-    "occhiello": "PILOTA USA UCCISO NEL KHUZESTAN",
-    "lead_preview": "Venerdì 3 aprile un caccia F-15E Strike Eagle dell’aeronautica militare statunitense è Stato abbattuto nel cielo del Khu",
-    "tags": [
-      "guerra iran"
     ],
     "hero_eligible": true
   },
