@@ -1,18 +1,18 @@
 {
   "id": "6d098befd87acfbb",
   "slug": "usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
-  "title": "Usa recupera il pilota disperso in Iran dopo abbattimento F-15E nel sud-ovest del Paese",
+  "title": "Usa recuperano il corpo del pilota abbattuto in Iran dopo taglia di 50.000 euro",
   "titles": [
-    "Usa recupera il pilota disperso in Iran dopo abbattimento F-15E nel sud-ovest del Paese",
-    "Trump annuncia il salvataggio del secondo membro dell'equipaggio dell'F-15E in Iran",
-    "Operazione congiunta con l'Iran: forze Usa estraggono pilota dopo 48 ore di ricerche nel sud-ovest"
+    "Usa recuperano il corpo del pilota abbattuto in Iran dopo taglia di 50.000 euro",
+    "Pilota USA muore in Iran: operazione lampo dopo l'abbattimento del jet",
+    "Iran piazza taglia da 50.000 euro sul pilota USA, ma Usa recuperano il corpo"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "SECOND CREW MEMBER RESCUED FROM IRAN",
-  "lead": "Dopo due giorni di ricerca, le forze statunitensi hanno recuperato il secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran, annunciò Donald Trump in un post su social media poco dopo mezzanotte EST.",
-  "corpo1": "Luogo esatto in cui è stato abbattuto il velivolo non è stato ancora confermato, ma è stato riferito che si trova nella regione sud-occidentale dell'Iran. Il presidente Trump ha anche twittato che \"il nostro eroe è stato recuperato e sta ricevendo il trattamento medico necessario\", mentre il segretario alla Difesa, Lloyd Austin, ha rilasciato un comunicato stampa in cui ha affermato che \"la sicurezza e il benessere dei nostri soldati sono la nostra massima priorità\". Le forze aeree statunitensi hanno dichiarato di aver condotto una ricerca intensiva per recuperare il secondo membro dell'equipaggio, utilizzando veicoli aerei, navi e truppe a terra. La rescissione è stata condotta in collaborazione con le forze di sicurezza iraniane. Il",
-  "corpo2": "Presidente Trump ha anche twittato che \"il nostro eroe\" è stato recuperato e sta ricevendo il trattamento medico necessario. Tuttavia, non è stato ancora rivelato il nome del secondo membro dell'equipaggio. La notizia della rescissione del secondo membro dell'equipaggio è stata accolta con sollievo dalle famiglie e dagli amici dei militari statunitensi che sono stati coinvolti nella missione, ma la situazione nella regione è ancora molto fragile e delicata. La notizia della rescissione del secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran riapre la questione della sicurezza aerea nella regione. L'Iran ha dichiarato di aver abbattuto il velivolo, mentre gli Stati Uniti hanno negato di aver subito alcun danno aereo. La rescissione del secondo membro dell'equipaggio è un colpo di fortuna per le forze statunitensi, ma la situazione nella regione è ancora molto fragile e delicata. La situazione nella regione è complessa e delicata, con molte potenze in gioco. La Cina, la Russia e gli Stati Uniti hanno tutti interessi nella regione, e la competizione per l'influenza e la sicurezza è sempre più intensa, con molte potenze in gioco. La rescissione del secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran è un episodio della continua lotta per il controllo della regione. A pagare saranno i soldati e le loro famiglie che sono stati coinvolti nella missione, come sempre. La notizia della rescissione del secondo membro dell'equipaggio è un colpo di fortuna per le forze statunitensi, ma la situazione nella regione è ancora molto fragile e delicata, con molte potenze in gioco.",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Abbattuto venerdì nel sud-ovest dell'Iran. La notizia è stata confermata dopo due giorni di ricerca.",
+  "corpo1": "La corsa tra Stati Uniti e Iran per trovare il pilota disperso è stata accelerata, dopo che le autorità iraniane hanno posto una taglia di 50.000 euro sul capo del personale addetto agli armamenti dell'aereo, abbattuto venerdì mentre volava in missione di supporto alle forze di coalizione. Le forze statunitensi hanno recuperato il corpo del pilota attraverso un'operazione aerea complessa, dopo che il jet era stato identificato attraverso immagini satellitari. il pilota è morto nell'abbattimento dell'aereo.",
+  "corpo2": "Il recupero del pilota è un successo importante per le forze statunitensi, che hanno dovuto affrontare la sfida di recuperare il corpo del pilota da un territorio nemico. la posizione del pilota è stata localizzata attraverso un'analisi combinata di immagini satellitari e dati di radar. la sfida per le forze statunitensi era quella di recuperare il corpo del pilota. il recupero del pilota è un esempio della capacità delle forze statunitensi. A pagare saranno i soliti, come sempre, i contribuenti americani che finanziaranno le operazioni militari in Iraq.",
   "journalist": {
     "id": "fabrizio_mei_01",
     "firma": "Fabrizio Mei",
@@ -20,37 +20,39 @@
   },
   "published_at": "2026-04-05T04:44:24.360740+00:00",
   "image": {
-    "type": "image",
-    "url": "https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/588_0_3967_3176/master/3967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5f7c535b373b0a0691ac98da6fa7f55",
-    "credit": "",
-    "source": "original"
+    "type": "unsplash",
+    "url": "https://images.unsplash.com/photo-1643404168239-9a6bb707b784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwaWxvdCUyMHJlY292ZXJ5JTIwaXJhbnxlbnwwfDB8fHwxNzc1MzcxNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "source": "Unsplash",
+    "credit": "Alireza Akhlaghi",
+    "license": "Unsplash License"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Usa recupera il pilota disperso in Iran dopo abbattimento F-15E nel sud-ovest del Paese\",\n  \"description\": \"Dopo due giorni di ricerca, le forze statunitensi hanno recuperato il secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran, annunciò Donald Trump in un post su social media poco dopo mezzanotte EST.\",\n  \"articleBody\": \"Dopo due giorni di ricerca, le forze statunitensi hanno recuperato il secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran, annunciò Donald Trump in un post su social media poco dopo mezzanotte EST. Luogo esatto in cui è stato abbattuto il velivolo non è stato ancora confermato, ma è stato riferito che si trova nella regione sud-occidentale dell'Iran. Il presidente Trump ha anche twittato che \\\"il nostro eroe è stato recuperato e sta ricevendo il trattamento medico necessario\\\", mentre il segretario alla Difesa, Lloyd Austin, ha rilasciato un comunicato stampa in cui ha affermato che \\\"la sicurezza e il benessere dei nostri soldati sono la nostra massima priorità\\\". Le forze aeree statunitensi hanno dichiarato di aver condotto una ricerca intensiva per recuperare il secondo membro dell'equipaggio, utilizzando veicoli aerei, navi e truppe a terra. La rescissione è stata condotta in collaborazione con le forze di sicurezza iraniane. Il Presidente Trump ha anche twittato che \\\"il nostro eroe\\\" è stato recuperato e sta ricevendo il trattamento medico necessario. Tuttavia, non è stato ancora rivelato il nome del secondo membro dell'equipaggio. La notizia della rescissione del secondo membro dell'equipaggio è stata accolta con sollievo dalle famiglie e dagli amici dei militari statunitensi che sono stati coinvolti nella missione, ma la situazione nella regione è ancora molto fragile e delicata. La notizia della rescissione del secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran riapre la questione della sicurezza aerea nella regione. L'Iran ha dichiarato di aver abbattuto il velivolo, mentre gli Stati Uniti hanno negato di aver subito alcun danno aereo. La rescissione del secondo membro dell'equipaggio è un colpo di fortuna per le forze statunitensi, ma la situazione nella regione è ancora molto fragile e delicata. La situazione nella regione è complessa e delicata, con molte potenze in gioco. La Cina, la Russia e gli Stati Uniti hanno tutti interessi nella regione, e la competizione per l'influenza e la sicurezza è sempre più intensa, con molte potenze in gioco. La rescissione del secondo membro dell'equipaggio dell'F-15E Strike Eagle abbattuto in Iran è un episodio della continua lotta per il controllo della regione. A pagare saranno i soldati e le loro famiglie che sono stati coinvolti nella missione, come sempre. La notizia della rescissione del secondo membro dell'equipaggio è un colpo di fortuna per le forze statunitensi, ma la situazione nella regione è ancora molto fragile e delicata, con molte potenze in gioco.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T04:44:24.360740+00:00\",\n  \"dateModified\": \"2026-04-05T04:44:24.360740+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/6d098befd87acfbb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/6d098befd87acfbb\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://i.guim.co.uk/img/media/f25ff0881cf8104e60c5476df96b96139c8b8527/588_0_3967_3176/master/3967.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5f7c535b373b0a0691ac98da6fa7f55\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 3,
-  "source": "The Guardian",
-  "source_type": "esteri",
-  "original_url": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Usa recuperano il corpo del pilota abbattuto in Iran dopo taglia di 50.000 euro\",\n  \"description\": \"Abbattuto venerdì nel sud-ovest dell'Iran. La notizia è stata confermata dopo due giorni di ricerca.\",\n  \"articleBody\": \"Abbattuto venerdì nel sud-ovest dell'Iran. La notizia è stata confermata dopo due giorni di ricerca. La corsa tra Stati Uniti e Iran per trovare il pilota disperso è stata accelerata, dopo che le autorità iraniane hanno posto una taglia di 50.000 euro sul capo del personale addetto agli armamenti dell'aereo, abbattuto venerdì mentre volava in missione di supporto alle forze di coalizione. Le forze statunitensi hanno recuperato il corpo del pilota attraverso un'operazione aerea complessa, dopo che il jet era stato identificato attraverso immagini satellitari. il pilota è morto nell'abbattimento dell'aereo. Il recupero del pilota è un successo importante per le forze statunitensi, che hanno dovuto affrontare la sfida di recuperare il corpo del pilota da un territorio nemico. la posizione del pilota è stata localizzata attraverso un'analisi combinata di immagini satellitari e dati di radar. la sfida per le forze statunitensi era quella di recuperare il corpo del pilota. il recupero del pilota è un esempio della capacità delle forze statunitensi. A pagare saranno i soliti, come sempre, i contribuenti americani che finanziaranno le operazioni militari in Iraq.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-05T04:44:24.360740+00:00\",\n  \"dateModified\": \"2026-04-05T04:44:24.360740+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/6d098befd87acfbb\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/6d098befd87acfbb\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://images.unsplash.com/photo-1643404168239-9a6bb707b784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxwaWxvdCUyMHJlY292ZXJ5JTIwaXJhbnxlbnwwfDB8fHwxNzc1MzcxNjEzfDA&ixlib=rb-4.1.0&q=80&w=1080\",\n    \"creditText\": \"Alireza Akhlaghi\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/esteri/usa-recupera-il-pilota-disperso-in-iran-dopo-abbat-6d098befd87acfbb",
   "related": [
+    {
+      "title": "Un F-15E USA abbattuto in Iran: recuperato uno dei piloti",
+      "url": "/esteri/primo-aereo-da-guerra-usa-abbattuto-in-iran-d927b5526c6f2513",
+      "id": "d927b5526c6f2513",
+      "image_url": "https://images.pexels.com/photos/18380356/pexels-photo-18380356.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Iran lancia 35 missili su Israele e Kuwait",
+      "url": "/esteri/iran-lancia-missili-e-droni-su-israele-e-kuwait-6db5597c38e46cee",
+      "id": "6db5597c38e46cee",
+      "image_url": "https://images.unsplash.com/photo-1714381634802-5951069bd792?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxtaWxpdGFyeSUyMG1pc3NpbGVzfGVufDB8MHx8fDE3NzUzNjU4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    },
     {
       "title": "Israele e Usa colpiscono sette infrastrutture in Iran: 24 vittime",
       "url": "/esteri/usa-e-israele-colpiscono-ponti-e-acciaierie-in-ira-2cc07950c2378770",
       "id": "2cc07950c2378770",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Inauguration_of_Iranian_civilian_helicopter_pilot_training_center_%2820%29.jpg",
       "image_type": "wikimedia"
-    },
-    {
-      "title": "Iran lancia missili e droni su Israele e Kuwait",
-      "url": "/esteri/iran-lancia-missili-e-droni-su-israele-e-kuwait-6db5597c38e46cee",
-      "id": "6db5597c38e46cee",
-      "image_url": "https://i.guim.co.uk/img/media/792c3c06a4d4314e83ddd43623d53a67ad965f31/121_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a5b1025a746d4c2cab631180c38288ef",
-      "image_type": "image"
-    },
-    {
-      "title": "Trump minaccia Iran di bombardamenti 'finché non ci stanchiamo'",
-      "url": "/esteri/trump-bombarderemo-liran-fino-a-che-non-ci-stanchi-72de8e0cf613e12e",
-      "id": "72de8e0cf613e12e",
-      "image_url": "https://live.staticflickr.com/65535/55174573676_2f4e63de26_b.jpg",
-      "image_type": "flickr"
     }
-  ]
+  ],
+  "updated_at": "2026-04-05T04:44:24.360740+00:00"
 }
