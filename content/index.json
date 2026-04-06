@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 6 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-06T05:11:04.975121+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "POLITICA ED ECONOMIA REGNANO SUPREME",
+    "lead_preview": "La politica e l'economia dominano le prime pagine dei giornali italiani oggi, lunedì 6 aprile 2026, con poche eccezioni,",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "720a7ab0d812ea52",
     "slug": "banca-ditalia-avverte-5-delle-transazioni-e-commer-720a7ab0d812ea52",
     "title": "Banca d'Italia avverte: 5% delle transazioni e-commerce è a rate con rischi per i debitori",
@@ -8735,19 +8754,5 @@
       "nasa sulla luna",
       "programma artemis"
     ]
-  },
-  {
-    "id": "9ced36fd5d29e120",
-    "slug": "dieci-milioni-di-italiani-in-viaggio-per-pasqua-no-9ced36fd5d29e120",
-    "title": "Italiani che partono per Pasqua: 10 milioni di soli italiani",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-01T03:15:30.139586+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/29355230/pexels-photo-29355230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "10 MILIONI IN VIAGGIO PER PASQUA",
-    "lead_preview": "Dieci milioni di italiani si preparano a partire per il ponte pasquale, Secondo le stime di Federturismo Confindustria, ",
-    "tags": []
   }
 ]
