@@ -1,0 +1,58 @@
+{
+  "id": "rassegnista_daily",
+  "slug": "rassegna-stampa",
+  "title": "Le prime pagine di oggi, lunedì 6 aprile 2026",
+  "titles": [
+    "Le prime pagine di oggi, lunedì 6 aprile 2026",
+    "Le prime pagine di oggi, lunedì 6 aprile 2026",
+    "Le prime pagine di oggi, lunedì 6 aprile 2026"
+  ],
+  "title_winner": null,
+  "section": "italia",
+  "occhiello": "POLITICA ED ECONOMIA REGNANO SUPREME",
+  "lead": "La politica e l'economia dominano le prime pagine dei giornali italiani oggi, lunedì 6 aprile 2026, con poche eccezioni, rivelando una stampa ancora legata ai temi tradizionali.",
+  "corpo1": "La Repubblica, La Stampa e Il Fatto Quotidiano aprono con notizie di politica, cronaca e giustizia, segno di una linea editoriale focalizzata sugli affari interni. Il Sole 24 Ore, come prevedibile, si concentra sull'economia e la finanza, offrendo un'analisi dettagliata dei mercati e delle tendenze economiche. Il Messaggero sembra seguire una linea più generica, senza un focus particolare. Notiamo che La Repubblica e La Stampa condividono un'attenzione per le notizie di cronaca, mentre Il Fatto Quotidiano sembra dare più spazio alle questioni di giustizia. Questa convergenza su certi temi rivela una linea editoriale comune tra questi giornali, che privilegia la politica e gli affari interni.",
+  "corpo2": "Ciò che manca dalle prime pagine è una discussione approfondita sui temi ambientali e sociali, che pure sono cruciali per il futuro del paese. Le notizie economiche, sebbene importanti, sembrano essere trattate con un approccio troppo specialistico, poco accessibile ai lettori non esperti. Una storia, quella dell'ambiente, che sembra essere stata messa in secondo piano. La stampa italiana ha deciso di raccontare questa giornata concentrandosi sui temi tradizionali, dimostrando ancora una volta di essere legata a un'agenda setting consolidata. La politica e l'economia sono state gonfiate, mentre altri temi importanti sono stati ignorati. La stampa italiana sembra più interessata a raccontare il passato che a disegnare il futuro.",
+  "journalist": {
+    "id": "rassegnista_01",
+    "firma": "La Redazione",
+    "sezione": "italia",
+    "ruolo": "rassegnista",
+    "modello": "google/gemini-2.0-flash",
+    "modello_fallback": "qwen/qwen2.5-72b-instruct"
+  },
+  "published_at": "2026-04-06T05:11:04.975121+00:00",
+  "image": {
+    "type": "none",
+    "source": ""
+  },
+  "schema_jsonld": "",
+  "priority": 6,
+  "source": "Rassegna Camera",
+  "source_type": "rassegnista",
+  "original_url": "https://rassegna.camera.it/",
+  "related": [
+    {
+      "title": "Zelensky a Damasco il 5 aprile 2026: incontro riservato con Assad accompagnato dal ministro turco Ersoy",
+      "url": "/esteri/zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
+      "id": "5e9ab6cdc65b65ff",
+      "image_url": "https://images.pexels.com/photos/25304512/pexels-photo-25304512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Il viceammiraglio Giacinto Ottaviani ha confermato in un’audizione a Montecitorio, il 5 aprile 2026,",
+      "url": "/politica/ottaviani-ammette-trattativa-su-nave-garibaldi-per-175f5cd64e34284a",
+      "id": "175f5cd64e34284a",
+      "image_url": "https://images.pexels.com/photos/18590757/pexels-photo-18590757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    },
+    {
+      "title": "Schlein convoca il Pd: domenica 13 aprile la direzione nazionale a Roma",
+      "url": "/politica/elly-schlein-convoca-la-direzione-del-pd-il-13-apr-12070c7b95826523",
+      "id": "12070c7b95826523",
+      "image_url": "https://images.pexels.com/photos/9271471/pexels-photo-9271471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_type": "pexels"
+    }
+  ],
+  "hero_eligible": true
+}
