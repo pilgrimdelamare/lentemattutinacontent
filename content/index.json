@@ -1,5 +1,23 @@
 [
   {
+    "id": "ed3694ca9c3c6d4d",
+    "slug": "espriella-denuncia-petro-per-intercettazioni-illeg-ed3694ca9c3c6d4d",
+    "title": "De La Espriella denuncia Petro",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-06T01:33:27.400372+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/6359f52ca5c22c055b75a691c5c8f051.jpg",
+    "occhiello": "INTERCETTAZIONI ILLEGALI NELLE ELEZIONI",
+    "lead_preview": "Ricardo de la Espriella ha denunciato il presidente colombiano Gustavo Petro per intercettazioni illegali durante le ele",
+    "tags": [
+      "elezioni colombia",
+      "caso petro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9381988359b9ee76",
     "slug": "andrea-manfredi-lancia-massima-tranquillita-lapp-a-9381988359b9ee76",
     "title": "Serenità Totale, l'app anti-spam di Manfredi blocca il 98,6% dei messaggi: 470mila download in 24 ore",
@@ -542,24 +560,6 @@
       "pasqua a beirut",
       "esplosioni ashrafieh",
       "don carlo giorgi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ed3694ca9c3c6d4d",
-    "slug": "espriella-denuncia-petro-per-intercettazioni-illeg-ed3694ca9c3c6d4d",
-    "title": "Espriella denuncia Petro per intercettazioni illegali durante le elezioni in Colombia",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-06T01:33:27.400372+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/6359f52ca5c22c055b75a691c5c8f051.jpg",
-    "occhiello": "SCANDALO IN COLOMBIA PER INTERCETTAZIONI",
-    "lead_preview": "La Espriella denuncia il presidente Petro a Bogotà, in Colombia, è scoppiato uno scandalo legato alle elezioni, con l'op",
-    "tags": [
-      "scandalo colombia",
-      "intercettazioni petro"
     ],
     "hero_eligible": true
   },
