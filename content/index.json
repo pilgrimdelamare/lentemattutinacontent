@@ -1,5 +1,24 @@
 [
   {
+    "id": "720a7ab0d812ea52",
+    "slug": "banca-ditalia-avverte-5-delle-transazioni-e-commer-720a7ab0d812ea52",
+    "title": "Buy now pay later, il 5% delle transazioni online sono a rate",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-06T05:06:39.497967+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69ca9fd853eabee41608ca43/16:9/w_1280,c_limit/1505767346",
+    "occhiello": "BUY NOW PAY LATER: 5% DELLE TRANSAZIONI E-COMMERCE A RATE CON RISCHI PER I DEBITORI",
+    "lead_preview": "La Banca d'Italia ha lanciato un avvertimento sulla diffusione del buy now pay later, il sistema di pagamento a rate che",
+    "tags": [
+      "buy now pay later",
+      "banca d'italia",
+      "pagamenti a rate"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ee9798d74cb72c49",
     "slug": "leeds-in-semifinale-di-coppa-dinghilterra-ee9798d74cb72c49",
     "title": "Calcio: Leeds batte West Ham 5-4 ai rigori dopo il 1-1 all'Olimpico di Londra",
@@ -801,25 +820,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "720a7ab0d812ea52",
-    "slug": "banca-ditalia-avverte-5-delle-transazioni-e-commer-720a7ab0d812ea52",
-    "title": "Banca d'Italia avverte: 5% delle transazioni e-commerce è a rate con rischi per i debitori",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-06T05:06:39.497967+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69ca9fd853eabee41608ca43/16:9/w_1280,c_limit/1505767346",
-    "occhiello": "LA BANCA D'ITALIA AVVERTE DAL BUY NOW PAY LATER",
-    "lead_preview": "La Banca d'Italia ha lanciato un avvertimento sulla diffusione del buy now pay later, il sistema di pagamento che consen",
-    "tags": [
-      "buy now pay later",
-      "banca d'italia",
-      "debiti e-commerce"
     ],
     "hero_eligible": true
   },
