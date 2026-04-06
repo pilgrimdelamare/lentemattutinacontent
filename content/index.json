@@ -1,5 +1,23 @@
 [
   {
+    "id": "1a8b2b2091616603",
+    "slug": "curry-non-basta-ai-warriors-1a8b2b2091616603",
+    "title": "Basket: Curry da 42 punti, Warriors ko 118-115 con i Pistons",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-06T08:59:34.698456+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/8/4a0cbae9b7b910446f4141b565510f35.jpg",
+    "occhiello": "",
+    "lead_preview": "Stephen Curry ha segnato 42 punti nella partita dei Golden State Warriors del 6 aprile 2026 contro i Detroit Pistons, ma",
+    "tags": [
+      "nba",
+      "warriors pistons"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3636b0e268453bc2",
     "slug": "roma-stalker-minaccia-donna-via-social-farai-la-fi-3636b0e268453bc2",
     "title": "Roma, 34enne rischia il processo per aver minacciato 'Farai la fine di Roberta Siragusa' su Instagram",
@@ -1176,21 +1194,6 @@
     "image_url": "https://sport.sky.it/assets/images/4fc296da17cb7a11f2af7c5014d01b0fe5a80400/skysport/it/nba/video/2026/04/06/james-nba-los-angeles-lakers-video-1087991/LeBron_James_Getty_Los_Angeles_Lakers.jpg",
     "occhiello": "LEBRON JAMES SFIORA TRIPLE DOPPIA",
     "lead_preview": "Lebron James ha segnato 30 punti, con 15 assist e 9 rimbalzi, nella partita contro i Dallas mavericks, il 6 aprile 2026,",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1a8b2b2091616603",
-    "slug": "curry-non-basta-ai-warriors-1a8b2b2091616603",
-    "title": "Curry non basta ai warriors",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-06T08:59:34.698456+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/8/4a0cbae9b7b910446f4141b565510f35.jpg",
-    "occhiello": "CURRY NON BASTA AI WARRIORS",
-    "lead_preview": "Stephen curry si conferma fenomeno nella partita dei Golden State Warriors, ma non basta a garantire la vittoria della s",
     "tags": [],
     "hero_eligible": true
   },
