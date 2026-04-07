@@ -1,0 +1,57 @@
+{
+  "id": "cdbad7fc8b6a76c2",
+  "slug": "farhadi-contro-la-guerra-cdbad7fc8b6a76c2",
+  "title": "Farhadi contro la guerra",
+  "titles": [
+    "Farhadi contro la guerra",
+    "Iran, Farhadi denuncia",
+    "Farhadi: crimine di guerra"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "APPELLO DI FARHADI CONTRO DEVASTAZIONI",
+  "lead": "Asghar Farhadi, regista iraniano, ha lanciato un appello agli artisti per protestare contro le devastazioni in Iran. Il regista ha definito la distruzione delle infrastrutture civili come un crimine di guerra.",
+  "corpo1": "Asghar Farhadi ha fatto un appello agli artisti per protestare contro le devastazioni che stanno avvenendo in Iran. Il regista iraniano ha affermato che la distruzione delle infrastrutture civili è un crimine di guerra e ha invitato gli artisti a unirsi a lui nella protesta. Farhadi",
+  "corpo2": "Asghar Farhadi è uno dei registi iraniani più noti a livello Internazionale, grazie ai suoi film che hanno vinto numerosi premi, tra cui l'Oscar per il miglior film straniero. La sua decisione di prendere posizione contro le devastazioni in Iran è significativa, considerando la sua influenza nel mondo del cinema e la sua capacità di raggiungere un pubblico ampio. La distruzione delle infrastrutture civili in Iran è un tema molto delicato, poiché può avere conseguenze devastanti per la popolazione civile. Se la comunità internazionale non interverrà, la situazione in Iran continuerà a peggiorare. A pagare saranno ancora una volta i soliti noti, la popolazione civile, che già sta subendo le conseguenze della repressione governativa.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:46:00.847268+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2024/4/18/9d6c7e7f24905be3eaa94dd2d0f7f33b.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Farhadi contro la guerra\",\n  \"description\": \"Asghar Farhadi, regista iraniano, ha lanciato un appello agli artisti per protestare contro le devastazioni in Iran. Il regista ha definito la distruzione delle infrastrutture civili come un crimine di guerra.\",\n  \"articleBody\": \"Asghar Farhadi, regista iraniano, ha lanciato un appello agli artisti per protestare contro le devastazioni in Iran. Il regista ha definito la distruzione delle infrastrutture civili come un crimine di guerra. Asghar Farhadi ha fatto un appello agli artisti per protestare contro le devastazioni che stanno avvenendo in Iran. Il regista iraniano ha affermato che la distruzione delle infrastrutture civili è un crimine di guerra e ha invitato gli artisti a unirsi a lui nella protesta. Farhadi Asghar Farhadi è uno dei registi iraniani più noti a livello Internazionale, grazie ai suoi film che hanno vinto numerosi premi, tra cui l'Oscar per il miglior film straniero. La sua decisione di prendere posizione contro le devastazioni in Iran è significativa, considerando la sua influenza nel mondo del cinema e la sua capacità di raggiungere un pubblico ampio. La distruzione delle infrastrutture civili in Iran è un tema molto delicato, poiché può avere conseguenze devastanti per la popolazione civile. Se la comunità internazionale non interverrà, la situazione in Iran continuerà a peggiorare. A pagare saranno ancora una volta i soliti noti, la popolazione civile, che già sta subendo le conseguenze della repressione governativa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:46:00.847268+00:00\",\n  \"dateModified\": \"2026-04-07T22:46:00.847268+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/cdbad7fc8b6a76c2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/cdbad7fc8b6a76c2\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2024/4/18/9d6c7e7f24905be3eaa94dd2d0f7f33b.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/04/07/farhadi-distruggere-le-infrastrutture-civili-in-iran-e-un-crimine-di-guerra_5f87f2ae-7d18-479d-9107-a7c33bd71ac5.html",
+  "related": [
+    {
+      "title": "Sky: Primaset aumenta la sua audience",
+      "url": "/cultura/sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+      "id": "cfd747ec81f03003",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Duchamp al MoMA e a Philly",
+      "url": "/cultura/duchamp-al-moma-e-a-philly-d65432222939ddb9",
+      "id": "d65432222939ddb9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Natalia Lombardo al festival Incanti",
+      "url": "/cultura/natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
+      "id": "e4ba0cdb22f032cf",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
