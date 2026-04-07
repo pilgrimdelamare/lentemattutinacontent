@@ -1,5 +1,23 @@
 [
   {
+    "id": "d65432222939ddb9",
+    "slug": "duchamp-al-moma-e-a-philly-d65432222939ddb9",
+    "title": "Duchamp al MoMA e a Philly",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-07T22:45:40.084058+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+    "occhiello": "MARCEL DUCHAMP, ARTE 'NON ARTE' A FILADELFIA",
+    "lead_preview": "Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è protagonista di due mostre gemelle al MoMA di ",
+    "tags": [
+      "mostra duchamp",
+      "duchamp moma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db209f3bd57f8775",
     "slug": "novo-nordisk-ammonita-per-morti-non-segnalate-db209f3bd57f8775",
     "title": "Novo Nordisk ammonita per morti non segnalate",
@@ -8858,19 +8876,5 @@
       "gp san paolo 2026",
       "franco colapinto f1"
     ]
-  },
-  {
-    "id": "1947f779c80d79ea",
-    "slug": "fonte-petrolifera-a-riscio-dopo-lattacco-usa-israe-1947f779c80d79ea",
-    "title": "Kuwait si prepara a difendersi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-03T02:41:32.573504+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/7233371/pexels-photo-7233371.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "KUWAIT SI PREPARA A DIFENDERSI",
-    "lead_preview": "Il Kuwait si appresta a difendersi da una possibile escalation della guerra tra USA-Israel e l'Iran, come annunciato dal",
-    "tags": []
   }
 ]
