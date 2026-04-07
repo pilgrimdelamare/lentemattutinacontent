@@ -1,0 +1,57 @@
+{
+  "id": "756825f9dc38226b",
+  "slug": "trump-attacca-liran-senza-autorizzazione-756825f9dc38226b",
+  "title": "Trump attacca l'Iran senza autorizzazione",
+  "titles": [
+    "Trump attacca l'Iran senza autorizzazione",
+    "Iran colpito: 1000 missili rimasti",
+    "Trump sfida Congresso con attacco"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "TRUMP LANCIA ATTACCHI CONTRO L'IRAN",
+  "lead": "Il presidente Donald Trump ha lanciato una grande offensiva militare contro obiettivi in Iran nella notte del 7 aprile 2026, senza l'autorizzazione del Congresso.",
+  "corpo1": "La scelta di Trump di lanciare nuovi attacchi contro l'Iran senza l'approvazione del Congresso è destinata a scatenare critiche feroci dai parlamentari, che considerano questa mossa un aggiramento della loro autorità costituzionale a dichiarare guerra. L'attacco, avvenuto nella notte americana del 7 aprile 2026, è Stato confermato da fonti ufficiali e ha colpito obiettivi strategici in Iran. L'Iran ha subito perdite significative, dispone ancora di oltre 1.000 missili e sfrutta la sua posizione geografica come arma difensiva cruciale, in particolare con il blocco dello Stretto di Hormuz, che potrebbe paralizzare l'economia iraniana e far impennare i prezzi mondiali del petrolio. La scelta di Trump è stata Letta come un atto di sfida e un tentativo di consolidamento del regime degli ayatollah, che vede il potere sempre più concentrato nelle mani del Corpo delle Guardie della Rivoluzione Islamica (IRGC).",
+  "corpo2": "Non è la prima volta che Trump adotta questa strategia, avendo già lanciato attacchi contro le strutture nucleari iraniane senza l'approvazione del Congresso lo scorso anno. La decisione di aggirare il Congresso è dovuta alla consapevolezza che i Padri fondatori degli Stati Uniti attribuirono al Congresso il potere di dichiarare guerra e al presidente il comando delle forze armate, ponendo le basi per un conflitto perenne sull'uso delle forze statunitensi. La situazione in Iran è estremamente tesa, dopo la nomina di Mojtaba Khamenei, figlio del leader Ali Khamenei, a guida suprema, nomina che ha sollevato dubbi a causa di notizie non confermate sulla sua presunta grave infermità. La comunità Internazionale è in attesa di capire cosa cambierà davvero per l'equilibrio Internazionale e per l'Italia, che potrebbe vedere un impatto significativo sulle rotte commerciali e sui prezzi dell'energia.",
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-07T23:09:41.385203+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/26f6fa142c5940a14348c604cf973e44.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Trump attacca l'Iran senza autorizzazione\",\n  \"description\": \"Il presidente Donald Trump ha lanciato una grande offensiva militare contro obiettivi in Iran nella notte del 7 aprile 2026, senza l'autorizzazione del Congresso.\",\n  \"articleBody\": \"Il presidente Donald Trump ha lanciato una grande offensiva militare contro obiettivi in Iran nella notte del 7 aprile 2026, senza l'autorizzazione del Congresso. La scelta di Trump di lanciare nuovi attacchi contro l'Iran senza l'approvazione del Congresso è destinata a scatenare critiche feroci dai parlamentari, che considerano questa mossa un aggiramento della loro autorità costituzionale a dichiarare guerra. L'attacco, avvenuto nella notte americana del 7 aprile 2026, è Stato confermato da fonti ufficiali e ha colpito obiettivi strategici in Iran. L'Iran ha subito perdite significative, dispone ancora di oltre 1.000 missili e sfrutta la sua posizione geografica come arma difensiva cruciale, in particolare con il blocco dello Stretto di Hormuz, che potrebbe paralizzare l'economia iraniana e far impennare i prezzi mondiali del petrolio. La scelta di Trump è stata Letta come un atto di sfida e un tentativo di consolidamento del regime degli ayatollah, che vede il potere sempre più concentrato nelle mani del Corpo delle Guardie della Rivoluzione Islamica (IRGC). Non è la prima volta che Trump adotta questa strategia, avendo già lanciato attacchi contro le strutture nucleari iraniane senza l'approvazione del Congresso lo scorso anno. La decisione di aggirare il Congresso è dovuta alla consapevolezza che i Padri fondatori degli Stati Uniti attribuirono al Congresso il potere di dichiarare guerra e al presidente il comando delle forze armate, ponendo le basi per un conflitto perenne sull'uso delle forze statunitensi. La situazione in Iran è estremamente tesa, dopo la nomina di Mojtaba Khamenei, figlio del leader Ali Khamenei, a guida suprema, nomina che ha sollevato dubbi a causa di notizie non confermate sulla sua presunta grave infermità. La comunità Internazionale è in attesa di capire cosa cambierà davvero per l'equilibrio Internazionale e per l'Italia, che potrebbe vedere un impatto significativo sulle rotte commerciali e sui prezzi dell'energia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T23:09:41.385203+00:00\",\n  \"dateModified\": \"2026-04-07T23:09:41.385203+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/756825f9dc38226b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/756825f9dc38226b\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/26f6fa142c5940a14348c604cf973e44.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/07/trump-senza-piu-freni-logorato-dal-dilemma-dellora-x_a8de36a3-eafd-4f49-a002-6c92e900a699.html",
+  "related": [
+    {
+      "title": "Papa leone xiv attacca trump in diretta pasquale: \"sanzioni all'iran inutili\"",
+      "url": "/esteri/papa-leone-xiv-chiama-trump-in-diretta-cerca-una-v-fee24be306b11d73",
+      "id": "fee24be306b11d73",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg",
+      "image_type": "wikimedia"
+    },
+    {
+      "title": "Trump minaccia l'Iran: 'Aprire Hormuz entro il 7 aprile o sarà l'inferno'",
+      "url": "/esteri/trump-minaccia-liran-0c1faefe9e616c28",
+      "id": "0c1faefe9e616c28",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/6267f5c41aa7ddfdfbee2a9144a3cb0c.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Lavrov a Usa: stop agli ultimatum all'Iran, dialogo senza condizioni a Mosca il 5 aprile",
+      "url": "/esteri/lavrov-sventa-gli-ultimatum-usa-alliran-de634ef269f81cec",
+      "id": "de634ef269f81cec",
+      "image_url": "https://live.staticflickr.com/65535/55188234224_d38fb70106_b.jpg",
+      "image_type": "flickr"
+    }
+  ],
+  "hero_eligible": true
+}
