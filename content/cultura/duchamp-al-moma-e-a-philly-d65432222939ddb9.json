@@ -1,0 +1,57 @@
+{
+  "id": "d65432222939ddb9",
+  "slug": "duchamp-al-moma-e-a-philly-d65432222939ddb9",
+  "title": "Duchamp al MoMA e a Philly",
+  "titles": [
+    "Duchamp al MoMA e a Philly",
+    "Marcel Duchamp espone a New York",
+    "7 Aprile: Duchamp a NY e Philly"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "MARCEL DUCHAMP, ARTE 'NON ARTE' A FILADELFIA",
+  "lead": "Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è protagonista di due mostre gemelle al MoMA di New York e al Philadelphia Museum of Art. Le esposizioni, che inaugurano il 7 aprile 2026, presenteranno i suoi famosi readymade, opere d'arte che sfidano la tradizionale nozione di creatività artistica.",
+  "corpo1": "Le mostre, curate da diversi esperti d'arte, ospiteranno una selezione delle opere più significative di Duchamp, tra cui il famoso \"Urinal\" del 1917, considerato uno dei primi esempi di readymade. Questo tipo di opere, che Duchamp definì \"non arte\", consiste in oggetti trovati o creati appositamente che sfidano la percezione tradizionale dell'arte. Secondo gli organizzatori, le mostre offriranno una visione approfondita dell'opera di Duchamp e del suo impatto sull'arte moderna. Il Philadelphia Museum of Art, in particolare, presenterà una collezione di opere che esplorano la relazione tra Duchamp e la città di Filadelfia, dove l'artista visse e lavorò per un periodo.",
+  "corpo2": "Marcel Duchamp è considerato uno degli artisti più influenti del XX secolo, noto per aver rivoluzionato la nozione di arte con i suoi readymade. La sua opera ha ispirato generazioni di artisti e continua a essere studiata e ammirata in tutto il mondo. Le mostre al MoMA e al Philadelphia Museum of Art offrono un'opportunità unica per comprendere meglio l'opera di Duchamp e il suo contesto storico. In caso di successo delle mostre, è probabile che il mercato dell'arte continui a premiare le opere di Duchamp, con quotazioni record all'orizzonte.",
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-04-07T22:45:40.084058+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Duchamp al MoMA e a Philly\",\n  \"description\": \"Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è protagonista di due mostre gemelle al MoMA di New York e al Philadelphia Museum of Art. Le esposizioni, che inaugurano il 7 aprile 2026, presenteranno i suoi famosi readymade, opere d'arte che sfidano la tradizionale nozione d\",\n  \"articleBody\": \"Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è protagonista di due mostre gemelle al MoMA di New York e al Philadelphia Museum of Art. Le esposizioni, che inaugurano il 7 aprile 2026, presenteranno i suoi famosi readymade, opere d'arte che sfidano la tradizionale nozione di creatività artistica. Le mostre, curate da diversi esperti d'arte, ospiteranno una selezione delle opere più significative di Duchamp, tra cui il famoso \\\"Urinal\\\" del 1917, considerato uno dei primi esempi di readymade. Questo tipo di opere, che Duchamp definì \\\"non arte\\\", consiste in oggetti trovati o creati appositamente che sfidano la percezione tradizionale dell'arte. Secondo gli organizzatori, le mostre offriranno una visione approfondita dell'opera di Duchamp e del suo impatto sull'arte moderna. Il Philadelphia Museum of Art, in particolare, presenterà una collezione di opere che esplorano la relazione tra Duchamp e la città di Filadelfia, dove l'artista visse e lavorò per un periodo. Marcel Duchamp è considerato uno degli artisti più influenti del XX secolo, noto per aver rivoluzionato la nozione di arte con i suoi readymade. La sua opera ha ispirato generazioni di artisti e continua a essere studiata e ammirata in tutto il mondo. Le mostre al MoMA e al Philadelphia Museum of Art offrono un'opportunità unica per comprendere meglio l'opera di Duchamp e il suo contesto storico. In caso di successo delle mostre, è probabile che il mercato dell'arte continui a premiare le opere di Duchamp, con quotazioni record all'orizzonte.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-07T22:45:40.084058+00:00\",\n  \"dateModified\": \"2026-04-07T22:45:40.084058+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/d65432222939ddb9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/d65432222939ddb9\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/04/07/larte-non-arte-di-marcel-duchamp-tra-moma-e-filadelfia_0dad9193-fd3d-4c47-9723-7c99b5966f86.html",
+  "related": [
+    {
+      "title": "Natalia Lombardo al festival Incanti",
+      "url": "/cultura/natalia-lombardo-al-festival-incanti-e4ba0cdb22f032cf",
+      "id": "e4ba0cdb22f032cf",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/d52378730be1544dfdf6d7293d9e9536.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Colosseo preso d'assalto: 82mila visitatori nel fine settimana di Pasqua",
+      "url": "/cultura/colosseo-preso-dassalto-82mila-visitatori-nel-fine-e9ec57a550ab808b",
+      "id": "e9ec57a550ab808b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/8/16/69b2c5c99ec296d634c7c3e46ffb18c4.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo l'18 aprile",
+      "url": "/cultura/emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
+      "id": "47a587e90285890a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
