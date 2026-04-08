@@ -1,5 +1,24 @@
 [
   {
+    "id": "0a12267bbf044d91",
+    "slug": "auto-110esima-targa-florio-0a12267bbf044d91",
+    "title": "La Targa Florio ritorna a Palermo dopo 110 anni di storia",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-07T22:40:33.782871+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/4/a26cb12c7e98e3fe82f5e0589a8e5682.jpg",
+    "occhiello": "LA TARGA FLORIO APRE LE ISCRIZIONI",
+    "lead_preview": "La Targa Florio, la corsa automobilistica più antica del mondo, apre le iscrizioni per la sua 110esima edizione, previst",
+    "tags": [
+      "targa florio 2026",
+      "corsa automobilistica palermo",
+      "targa florio storica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4a5a52542f074e6b",
     "slug": "de-micheli-niente-razionamenti-energetici-in-itali-4a5a52542f074e6b",
     "title": "Ministro De Micheli: \"No a razionamenti, sistema energetico sicuro\"",
@@ -1358,23 +1377,6 @@
       "eredità caracciolo",
       "processo elkann",
       "tribunale thun"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0a12267bbf044d91",
-    "slug": "auto-110esima-targa-florio-0a12267bbf044d91",
-    "title": "Auto: 110esima Targa Florio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T22:40:33.782871+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/4/a26cb12c7e98e3fe82f5e0589a8e5682.jpg",
-    "occhiello": "Targa Florio, 110esima edizione",
-    "lead_preview": "La Targa Florio, la corsa automobilistica più antica del mondo, apre le iscrizioni per la sua 110esima edizione, previst",
-    "tags": [
-      "targa florio"
     ],
     "hero_eligible": true
   },
