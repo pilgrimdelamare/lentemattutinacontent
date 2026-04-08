@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 6 aprile 2026",
+  "title": "Le prime pagine di oggi, mercoledì 8 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 6 aprile 2026",
-    "Le prime pagine di oggi, lunedì 6 aprile 2026",
-    "Le prime pagine di oggi, lunedì 6 aprile 2026"
+    "Le prime pagine di oggi, mercoledì 8 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 8 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 8 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "POLITICA ED ECONOMIA REGNANO SUPREME",
-  "lead": "La politica e l'economia dominano le prime pagine dei giornali italiani oggi, lunedì 6 aprile 2026, con poche eccezioni, rivelando una stampa ancora legata ai temi tradizionali.",
-  "corpo1": "La Repubblica, La Stampa e Il Fatto Quotidiano aprono con notizie di politica, cronaca e giustizia, segno di una linea editoriale focalizzata sugli affari interni. Il Sole 24 Ore, come prevedibile, si concentra sull'economia e la finanza, offrendo un'analisi dettagliata dei mercati e delle tendenze economiche. Il Messaggero sembra seguire una linea più generica, senza un focus particolare. Notiamo che La Repubblica e La Stampa condividono un'attenzione per le notizie di cronaca, mentre Il Fatto Quotidiano sembra dare più spazio alle questioni di giustizia. Questa convergenza su certi temi rivela una linea editoriale comune tra questi giornali, che privilegia la politica e gli affari interni.",
-  "corpo2": "Ciò che manca dalle prime pagine è una discussione approfondita sui temi ambientali e sociali, che pure sono cruciali per il futuro del paese. Le notizie economiche, sebbene importanti, sembrano essere trattate con un approccio troppo specialistico, poco accessibile ai lettori non esperti. Una storia, quella dell'ambiente, che sembra essere stata messa in secondo piano. La stampa italiana ha deciso di raccontare questa giornata concentrandosi sui temi tradizionali, dimostrando ancora una volta di essere legata a un'agenda setting consolidata. La politica e l'economia sono state gonfiate, mentre altri temi importanti sono stati ignorati. La stampa italiana sembra più interessata a raccontare il passato che a disegnare il futuro.",
+  "occhiello": "POLITICA E CRONACA SI ACCAPARRANO LE PRIME PAGINE",
+  "lead": "La politica e la cronaca dominano le prime pagine dei giornali italiani oggi, con una prevalenza di notizie sulla situazione politica interna e internazionale.",
+  "corpo1": "La Repubblica, La Stampa e Il Fatto Quotidiano aprono con notizie di politica, concentrandosi su questioni interne e internazionali. Il Sole 24 Ore, come di consueto, si focalizza sull'economia e la finanza, ma anche qui la politica ha un ruolo preponderante. Il Messaggero sembra essere l'unico a diversificare leggermente, includendo notizie di cronaca più varie. In generale, sembra che i giornali italiani abbiano scelto di concentrarsi sulla politica e la cronaca, probabilmente a causa della loro rilevanza e impatto immediato sulla società. La Repubblica e La Stampa sembrano avere un approccio più tradizionale, concentrandosi sulle notizie politiche e cronachistiche più importanti. Il Fatto Quotidiano, invece, sembra avere un taglio più critico e alternativo, concentrandosi su questioni più specifiche e approfondite. Il Sole 24 Ore, come sempre, mantiene un approccio più tecnico e specializzato, concentrandosi sull'economia e la finanza.",
+  "corpo2": "Ciò che manca dalle prime pagine è una maggiore attenzione alle questioni sociali e ambientali, che pure sono cruciali per il futuro del Paese. Anche le notizie di scienza e tecnologia sono poco rappresentate. È evidente che la stampa italiana ha deciso di concentrarsi sulle notizie più immediate e sensazionalistiche, piuttosto che su quelle più approfondite e a lungo termine. La politica e la cronaca sono state gonfiate, come al solito, a scapito di altre notizie che pure avrebbero meritato spazio. In conclusione, la stampa italiana ha scelto di raccontare questa giornata come una giornata di politica e cronaca, con poche eccezioni.",
   "journalist": {
     "id": "rassegnista_01",
     "firma": "La Redazione",
@@ -21,7 +21,7 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-06T05:11:04.975121+00:00",
+  "published_at": "2026-04-08T05:00:35.938099+00:00",
   "image": {
     "type": "none",
     "source": ""
@@ -33,25 +33,25 @@
   "original_url": "https://rassegna.camera.it/",
   "related": [
     {
-      "title": "Zelensky a Damasco il 5 aprile 2026: incontro riservato con Assad accompagnato dal ministro turco Ersoy",
-      "url": "/esteri/zelensky-a-damasco-il-5-aprile-incontro-segreto-co-5e9ab6cdc65b65ff",
-      "id": "5e9ab6cdc65b65ff",
-      "image_url": "https://images.pexels.com/photos/25304512/pexels-photo-25304512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Compagnie assicurative italiane obbligate a fornire modulo digitale da oggi",
+      "url": "/economia/compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
+      "id": "4274e71661cbc723",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/200026160-47e6d586-c32c-41bf-9954-863df627cba1.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Il viceammiraglio Giacinto Ottaviani ha confermato in un’audizione a Montecitorio, il 5 aprile 2026,",
-      "url": "/politica/ottaviani-ammette-trattativa-su-nave-garibaldi-per-175f5cd64e34284a",
-      "id": "175f5cd64e34284a",
-      "image_url": "https://images.pexels.com/photos/18590757/pexels-photo-18590757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "È morto a 91 anni Pietro Calogero, il pm del falso terrorismo del 7 aprile",
+      "url": "/politica/pietro-calogero-morto-a-padova-d49f8102257db891",
+      "id": "d49f8102257db891",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/165646452-eca2926b-937c-45af-989f-7cffd74692a8.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Schlein convoca il Pd: domenica 13 aprile la direzione nazionale a Roma",
-      "url": "/politica/elly-schlein-convoca-la-direzione-del-pd-il-13-apr-12070c7b95826523",
-      "id": "12070c7b95826523",
-      "image_url": "https://images.pexels.com/photos/9271471/pexels-photo-9271471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "image_type": "pexels"
+      "title": "Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile",
+      "url": "/cultura/sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
+      "id": "cfd747ec81f03003",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
