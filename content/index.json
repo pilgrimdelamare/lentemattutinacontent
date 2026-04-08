@@ -1,5 +1,24 @@
 [
   {
+    "id": "d65432222939ddb9",
+    "slug": "duchamp-al-moma-e-a-philly-d65432222939ddb9",
+    "title": "MoMA espone 134 opere di Duchamp, Philly resta fuori",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:45:40.084058+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
+    "occhiello": "",
+    "lead_preview": "Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è al centro di due mostre gemelle al MoMA di New",
+    "tags": [
+      "mostra duchamp",
+      "moma 2026",
+      "duchamp new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aca70e242e0c0975",
     "slug": "primus-torna-in-italia-sold-out-al-circolo-magnoli-aca70e242e0c0975",
     "title": "Primus esaurisce due date a Milano in 3 ore: 5mila fan al Magnolia nel",
@@ -1010,24 +1029,6 @@
     "lead_preview": "Primaset, canale di intrattenimento e informazione, ora disponibile anche sul canale 808 di Sky.",
     "tags": [
       "primaset sky"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d65432222939ddb9",
-    "slug": "duchamp-al-moma-e-a-philly-d65432222939ddb9",
-    "title": "Duchamp al MoMA e a Philly",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:45:40.084058+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/fc76f1960a07b44f7c0d2002f66a50d8.jpg",
-    "occhiello": "MARCEL DUCHAMP, ARTE 'NON ARTE' A FILADELFIA",
-    "lead_preview": "Marcel Duchamp, pittore e scultore francese naturalizzato statunitense, è protagonista di due mostre gemelle al MoMA di ",
-    "tags": [
-      "mostra duchamp",
-      "duchamp moma"
     ],
     "hero_eligible": true
   },
