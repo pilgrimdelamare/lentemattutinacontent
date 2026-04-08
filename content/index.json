@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 8 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-08T05:00:35.938099+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "POLITICA E CRONACA SI ACCAPARRANO LE PRIME PAGINE",
+    "lead_preview": "La politica e la cronaca dominano le prime pagine dei giornali italiani oggi, con una prevalenza di notizie sulla situaz",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e55ade89186d002e",
     "slug": "selene-biffi-lancia-ask-hakima-chatbot-per-imprend-e55ade89186d002e",
     "title": "Selene Biffi lancia Ask Hakima, chatbot per imprenditrici afghane su WhatsApp in Dari e Pashto",
@@ -4420,25 +4439,6 @@
       "india rinnovabili 2035",
       "energia solare india",
       "transizione energetica india"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 6 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-06T05:11:04.975121+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "POLITICA ED ECONOMIA REGNANO SUPREME",
-    "lead_preview": "La politica e l'economia dominano le prime pagine dei giornali italiani oggi, lunedì 6 aprile 2026, con poche eccezioni,",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
