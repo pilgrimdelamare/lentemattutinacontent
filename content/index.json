@@ -1,5 +1,24 @@
 [
   {
+    "id": "b18629ef75d4962e",
+    "slug": "artemis-2-astronauti-chiamano-la-iss-in-orbita-lun-b18629ef75d4962e",
+    "title": "Artemis-2 chiama l'ISS: 30 minuti di collegamento tra astronauti in viaggio verso la Luna",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-07T23:57:54.984713+00:00",
+    "image_type": "wikimedia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Artemis_II_leaving_earth.png",
+    "occhiello": "ARTEMIS-2: ASTRONAUTI CHIAMANO LA STAZIONE SPAZIALE INTERNAZIONALE",
+    "lead_preview": "Giovedì 7 aprile 2026, gli astronauti di Artemis-2 hanno effettuato una telefonata con i loro colleghi in orbita lunare ",
+    "tags": [
+      "artemis-2",
+      "iss",
+      "astronauti-luna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "26caa56ce5e57255",
     "slug": "blocco-oleodotto-nel-golfo-di-trieste-rallenta-il-26caa56ce5e57255",
     "title": "Blocco del Golfo di Trieste: 20 mezzi petroliferi fermati alle 19:00",
@@ -1283,24 +1302,6 @@
       "minacce trump iran",
       "riapertura stretto hormuz",
       "crisi iran 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b18629ef75d4962e",
-    "slug": "artemis-2-astronauti-chiamano-la-iss-in-orbita-lun-b18629ef75d4962e",
-    "title": "Artemis-2, astronauti chiamano la ISS in orbita lunare",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-07T23:57:54.984713+00:00",
-    "image_type": "wikimedia",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Artemis_II_leaving_earth.png",
-    "occhiello": "ARTEMIS-2, ASTRONAUTI CHIAMANO LA ISS",
-    "lead_preview": "Artemis-2, gli astronauti fanno una telefonata agli astronauti della Stazione spaziale Internazionale mentre stanno viag",
-    "tags": [
-      "missione artemis-2",
-      "astronauti iss"
     ],
     "hero_eligible": true
   },
