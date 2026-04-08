@@ -1,5 +1,23 @@
 [
   {
+    "id": "9df1a75ac519728b",
+    "slug": "la-band-torinese-eugenio-storia-e-musica-in-un-lib-9df1a75ac519728b",
+    "title": "Eugenio, un libro per la band torinese",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-07T22:49:00.636515+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/08ad4c0f867faae6ccb00dab664364bc.jpg",
+    "occhiello": "EUGENIO TORNA IN LIBRERIA CON IL SUO PRIMO LIBRO AUTOBIOGRAFICO",
+    "lead_preview": "Eugenio, la band torinese, si racconta per la prima volta in un libro. Il volume, intitolato Eugenio, sarà pubblicato il",
+    "tags": [
+      "libro eugenio",
+      "eugenio band"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3b72684e76311c1a",
     "slug": "anna-bisogno-tv-espansa-la-rivoluzione-dellintelli-3b72684e76311c1a",
     "title": "Anna Bisogno presenta a Milano la nuova mappa della tv Italiana oltre lo schermo",
@@ -811,24 +829,6 @@
       "documentario regeni",
       "fondi mic",
       "caso regeni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9df1a75ac519728b",
-    "slug": "la-band-torinese-eugenio-storia-e-musica-in-un-lib-9df1a75ac519728b",
-    "title": "La band torinese Eugenio, storia e musica in un libro",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:49:00.636515+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/08ad4c0f867faae6ccb00dab664364bc.jpg",
-    "occhiello": "EUGENIO IN VIA DI GIOIA, IL LIBRO",
-    "lead_preview": "Eugenio, la band torinese, si racconta per la prima volta in un libro. Il volume, intitolato Eugenio, sarà pubblicato il",
-    "tags": [
-      "libro eugenio",
-      "band eugenio"
     ],
     "hero_eligible": true
   },
