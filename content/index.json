@@ -1,5 +1,24 @@
 [
   {
+    "id": "87930099ce85b6f9",
+    "slug": "rio-de-janeiro-700-bandiere-per-700mila-morti-87930099ce85b6f9",
+    "title": "Ricostruito un tributo ai 700.000 morti del Covid",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-07T22:40:48.626337+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/9/71418bdef3ef6b04825aa850148b1d12.jpg",
+    "occhiello": "RIO DE JANEIRO: 700 BANDIERE PER 700MILA MORTI",
+    "lead_preview": "Il 7 aprile, il ministro della Salute di Rio de Janeiro, Padilha, ha inaugurato il memoriale nazionale delle vittime Cov",
+    "tags": [
+      "memoriale covid rio",
+      "700mila morti covid",
+      "inaugurazione parco flamengo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b18629ef75d4962e",
     "slug": "artemis-2-astronauti-chiamano-la-iss-in-orbita-lun-b18629ef75d4962e",
     "title": "Artemis-2 chiama l'ISS: 30 minuti di collegamento tra astronauti in viaggio verso la Luna",
@@ -1340,24 +1359,6 @@
       "eredità caracciolo",
       "processo elkann",
       "tribunale thun"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "87930099ce85b6f9",
-    "slug": "rio-de-janeiro-700-bandiere-per-700mila-morti-87930099ce85b6f9",
-    "title": "Rio de Janeiro: 700 bandiere per 700mila morti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-07T22:40:48.626337+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/9/71418bdef3ef6b04825aa850148b1d12.jpg",
-    "occhiello": "MEMORIALE COVID A RIO: 700 MILA MORTI, IL PREZZO DEL NEGAZIONISMO",
-    "lead_preview": "Rio de Janeiro ha inaugurato il 7 aprile il memoriale nazionale delle vittime Covid, mentre il ministro della Salute Pad",
-    "tags": [
-      "memoriale covid",
-      "rio de janeiro"
     ],
     "hero_eligible": true
   },
