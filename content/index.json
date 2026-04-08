@@ -1,5 +1,24 @@
 [
   {
+    "id": "fd956497352e4f07",
+    "slug": "greenpeace-l80-dellinquinamento-da-nitrati-in-euro-fd956497352e4f07",
+    "title": "80% Inquinamento nitrati in Europa da allevamenti, allarme Greenpeace",
+    "section": "ambiente",
+    "priority": 5,
+    "journalist_firma": "Valentina Costa",
+    "published_at": "2026-04-07T22:44:28.845777+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/121448102-81c9b009-70de-4602-b4a3-cbaf7846e56f.jpg",
+    "occhiello": "",
+    "lead_preview": "Greenpeace ha denunciato il 7 aprile 2026, in occasione della Giornata Mondiale della Salute, che l’80% dell’inquinament",
+    "tags": [
+      "inquinamento nitrati",
+      "allarme greenpeace",
+      "allevamenti intensivi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "07fd93baf1b2fba0",
     "slug": "43enne-travolto-e-ucciso-da-una-mercedes-mentre-ri-07fd93baf1b2fba0",
     "title": "Mercedes investe uomo in panne a Sassari: morto 43enne, guidatore 35enne arrestato",
@@ -947,25 +966,6 @@
       "colosseo pasqua",
       "musei statali",
       "turismo pasquale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fd956497352e4f07",
-    "slug": "greenpeace-l80-dellinquinamento-da-nitrati-in-euro-fd956497352e4f07",
-    "title": "Greenpeace: l'80% dell'inquinamento da nitrati in Europa viene dagli allevamenti intensivi",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Enrico Mari",
-    "published_at": "2026-04-07T22:44:28.845777+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/07/121448102-81c9b009-70de-4602-b4a3-cbaf7846e56f.jpg",
-    "occhiello": "FONDI INQUINANTI DALL'AGRICOLTURA, I RISCHI PER L'ACQUA POTABILE",
-    "lead_preview": "7 aprile 2026, in occasione della Giornata Mondiale della Salute, Greenpeace ricorda l'inquinamento proveniente dalla zo",
-    "tags": [
-      "inquinamento allevamenti",
-      "nitrati agricoltura",
-      "greenpeace 2026"
     ],
     "hero_eligible": true
   },
