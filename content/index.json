@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-09T07:29:21.781965+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IN DOWN",
+    "lead_preview": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f9cae153b1de03c7",
     "slug": "emilia-romagna-25-milioni-per-energie-rinnovabili-f9cae153b1de03c7",
     "title": "Emilia-Romagna, 2,5 milioni per impianti rinnovabili in condomini e Comuni",
@@ -9024,24 +9043,6 @@
     "lead_preview": "Il 5 marzo 2026, Bungie lancia Marathon su Ps5, Xbox Series X/S e Pc al prezzo di 40 euro.",
     "tags": [
       "marathon bungie"
-    ]
-  },
-  {
-    "id": "e5c2d47b7785850a",
-    "slug": "nba-highlights-philadelphia-superiore-e5c2d47b7785850a",
-    "title": "Basket: 76ers battono Timberwolves 115-103 a Minneapolis con 32 punti di Embiid",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-04T06:41:24.683501+00:00",
-    "image_type": "unsplash",
-    "image_url": "https://images.unsplash.com/photo-1762860799648-0a957a2e51a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxiYXNrZXRiYWxsJTIwZ2FtZSUyMGFjdGlvbnxlbnwwfDB8fHwxNzc1MzUyMTAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Il 4 aprile 2026, i Philadelphia 76ers hanno sconfitto i Minnesota Timberwolves 115-103 al Target Center di Minneapolis.",
-    "tags": [
-      "nba 76ers",
-      "embidd minnesota",
-      "timberwolves 76ers"
     ]
   }
 ]
