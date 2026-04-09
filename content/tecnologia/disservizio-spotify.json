@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Spotify è tornato online dopo 47 minuti di interruzione.",
   "titles": [
-    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi"
+    "Spotify è tornato online dopo 47 minuti di interruzione.",
+    "Spotify è tornato online dopo 47 minuti di interruzione.",
+    "Spotify è tornato online dopo 47 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY IN DOWN",
-  "lead": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 16 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIATTIVATO",
+  "lead": "Spotify è tornato online dopo 47 minuti di interruzione.",
+  "corpo1": "Il problema è iniziato 47 minuti fa e ora è stato risolto. La piattaforma di streaming musicale è tornata online e tutti i servizi sono stati ripristinati. La causa dell'interruzione è stata identificata e risolta dai tecnici di Spotify.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-09T07:09:05.959372+00:00",
+  "published_at": "2026-04-09T07:40:11.077571+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Glutine sotto controllo: test in 5 minuti a Milano",
-      "url": "/tecnologia/la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
-      "id": "f37e3e5497ab67df",
-      "image_url": "https://images.unsplash.com/photo-1605781231474-f60dea478e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwc2FmZXR5JTIwdGVzdGluZyUyMGdsdXRlbiUyMGRldGVjdGlvbnxlbnwwfDB8fHwxNzc1Mzk5Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
-    },
-    {
-      "title": "Padova e Vicenza spendono 280mila euro per robot tagliaerba silenziosi nei parchi",
-      "url": "/tecnologia/padova-e-vicenza-introducono-i-robot-tagliaerba-pe-82acd9b1eaa9799c",
-      "id": "82acd9b1eaa9799c",
-      "image_url": "https://media-assets.wired.it/photos/69d664acdf894e34a4af4b1c/16:9/w_1280,c_limit/Husqvarna_Automower.jpeg",
+      "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Geronymonstre riceve 480mila euro per diffondere cultura su TikTok",
-      "url": "/tecnologia/5-ragazzi-da-avignone-con-627mila-follower-su-tikt-50a0a25b6f224361",
-      "id": "50a0a25b6f224361",
-      "image_url": "https://media-assets.wired.it/photos/69c5416d452c9c2e134959e7/16:9/w_1280,c_limit/banlieue.jpg",
+      "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     }
   ],
