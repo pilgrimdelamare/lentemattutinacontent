@@ -1,5 +1,24 @@
 [
   {
+    "id": "f61a5acf614d41b5",
+    "slug": "stop-ferroviario-roma-firenze-f61a5acf614d41b5",
+    "title": "Roma-Firenze, binario chiuso 12-13 aprile: zero treni, solo bus",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-09T17:31:00.872041+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
+    "occhiello": "STOP FERROVIARIO ROMA-FIRENZE",
+    "lead_preview": "Roma-Firenze, il tratto ferroviario sarà interrotto il 12 e 13 aprile 2026 per lavori di potenziamento. Trenitalia ha gi",
+    "tags": [
+      "roma-firenze binario chiuso",
+      "trenitalia lavori 2026",
+      "stop ferroviario roma-firenze"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "03c36f005f8813cb",
     "slug": "alexander-zverev-torna-nei-quarti-di-finale-del-ma-03c36f005f8813cb",
     "title": "Tennis: Zverev batte l'avversario 6-4 7-5 e raggiunge i quarti a Montecarlo dopo 4 anni",
@@ -245,21 +264,6 @@
     "image_url": "https://i.guim.co.uk/img/media/17e0ce7297b5dcf52d041953e071b2ba9c501504/0_80_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a965c0f4cbea79e838368e9f0ed9280",
     "occhiello": "",
     "lead_preview": "Carlo Tritta, 19 anni, è Stato condannato a 28 mesi di carcere dopo aver dichiarato di essere colpevole di aver creato I",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f61a5acf614d41b5",
-    "slug": "stop-ferroviario-roma-firenze-f61a5acf614d41b5",
-    "title": "Stop ferroviario roma-firenze",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-09T17:31:00.872041+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/2/a4d70ed46085ccbff500d38d8abc7798.jpg",
-    "occhiello": "STOP FERROVIARIO ROMA-FIRENZE",
-    "lead_preview": "Il tratto ferroviario tra Roma e Firenze sarà interrotto nel weekend del 12 e 13 aprile 2026 per lavori di potenziamento",
     "tags": [],
     "hero_eligible": true
   },
