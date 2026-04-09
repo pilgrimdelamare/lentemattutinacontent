@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-09T07:19:17.048854+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE IN DOWN",
+    "lead_preview": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
@@ -9023,24 +9042,6 @@
       "nba 76ers",
       "embidd minnesota",
       "timberwolves 76ers"
-    ]
-  },
-  {
-    "id": "767d3e41e335904b",
-    "slug": "iran-smentisce-rifiuto-colloqui-a-islamabad-posizi-767d3e41e335904b",
-    "title": "Araghchi smentisce: 'Iran non ha rifiutato colloqui a Islamabad'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-04T10:57:33.192150+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55101704830_dcb2f5bf53_b.jpg",
-    "occhiello": "IRAN SMENTISCE STORIE SUI COLLOQUI",
-    "lead_preview": "Arash Araghchi, ministro degli Esteri iraniano, ha dichiarato sabato 4 aprile 2026 che i media statunitensi hanno travis",
-    "tags": [
-      "iran colloqui",
-      "araghchi iran",
-      "iran islamabad"
     ]
   }
 ]
