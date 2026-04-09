@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord irreachiggibile per miliardi utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-09T07:29:21.781965+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI",
+    "lead_preview": "Discord è irraggiungibile da 15 minuti, secondo gli utenti italiani che segnalano disservizi. La piattaforma di messaggi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b05c1bd2b79a93d9",
     "slug": "fondi-scomparsi-dopo-il-voto-nessun-contributo-dal-b05c1bd2b79a93d9",
     "title": "Fondi scomparsi dopo il voto: nessun contributo dal mic per 'aldro vive', film sul caso aldrovandi",
@@ -216,25 +231,6 @@
     "lead_preview": "OCCHIELLO Il mercato azionario italiano scende in calo LEAD Milano, 9 aprile 2026 - La Borsa di Milano apre in calo dell",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-09T07:29:21.781965+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD IN DOWN",
-    "lead_preview": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f9cae153b1de03c7",
