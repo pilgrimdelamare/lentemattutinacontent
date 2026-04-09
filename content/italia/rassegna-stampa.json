@@ -1,18 +1,20 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 8 aprile 2026",
+  "title": "Le prime pagine di oggi, giovedì 9 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 8 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 8 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 8 aprile 2026"
+    "Le prime pagine di oggi, giovedì 9 aprile 2026",
+    "Le prime pagine di oggi, giovedì 9 aprile 2026",
+    "Le prime pagine di oggi, giovedì 9 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "POLITICA E CRONACA SI ACCAPARRANO LE PRIME PAGINE",
-  "lead": "La politica e la cronaca dominano le prime pagine dei giornali italiani oggi, con una prevalenza di notizie sulla situazione politica interna e internazionale.",
-  "corpo1": "La Repubblica, La Stampa e Il Fatto Quotidiano aprono con notizie di politica, concentrandosi su questioni interne e internazionali. Il Sole 24 Ore, come di consueto, si focalizza sull'economia e la finanza, ma anche qui la politica ha un ruolo preponderante. Il Messaggero sembra essere l'unico a diversificare leggermente, includendo notizie di cronaca più varie. In generale, sembra che i giornali italiani abbiano scelto di concentrarsi sulla politica e la cronaca, probabilmente a causa della loro rilevanza e impatto immediato sulla società. La Repubblica e La Stampa sembrano avere un approccio più tradizionale, concentrandosi sulle notizie politiche e cronachistiche più importanti. Il Fatto Quotidiano, invece, sembra avere un taglio più critico e alternativo, concentrandosi su questioni più specifiche e approfondite. Il Sole 24 Ore, come sempre, mantiene un approccio più tecnico e specializzato, concentrandosi sull'economia e la finanza.",
-  "corpo2": "Ciò che manca dalle prime pagine è una maggiore attenzione alle questioni sociali e ambientali, che pure sono cruciali per il futuro del Paese. Anche le notizie di scienza e tecnologia sono poco rappresentate. È evidente che la stampa italiana ha deciso di concentrarsi sulle notizie più immediate e sensazionalistiche, piuttosto che su quelle più approfondite e a lungo termine. La politica e la cronaca sono state gonfiate, come al solito, a scapito di altre notizie che pure avrebbero meritato spazio. In conclusione, la stampa italiana ha scelto di raccontare questa giornata come una giornata di politica e cronaca, con poche eccezioni.",
+  "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 9 APRILE 2026",
+  "lead": "Le prime pagine di oggi convergono sulle dimissioni del presidente del Consiglio dopo la crisi di governo aperta ieri sera. Repubblica, Stampa e Messaggero aprono con la ricostruzione dei retroscena e le possibili trattative per formare un nuovo esecutivo. Il Fatto Quotidiano titola sulle intercettazioni che avrebbero accelerato la crisi. Solo Il Sole 24 Ore dedica l'apertura al crollo di Borsa Milano del 4,2% causato dallo spread che ha toccato quota 210 punti.",
+  "corpo1": "La Repubblica apre con \"Governo, buio totale\" raccontando le trattative notturne per trovare un nome condiviso per Palazzo Chigi. La Stampa titola \"Via al totonomi\" con l'elenco dei possibili successori e i tempi stretti per evitare il voto anticipato. Il Fatto Quotidiano dedica l'apertura a \"Le intercettazioni che hanno fatto cadere il governo\" con i contenuti delle conversazioni al centro dell'inchiesta che ha fatto saltare la maggioranza. Il Sole 24 Ore apre con \"Spread a 210, Milano crolla\" analizzando il crollo degli indici dopo che il differenziale con il Bund tedesco ha toccato il massimo dal 2012. Il Messaggero titola \"Notte di nomi\" con l'elenco dei leader che si stanno consultando per trovare un premier neutrale.",
+  "corpo2": "In seconda pagina si parla dello sciopero dei trasporti di oggi che bloccherà metro e treni dalle 9 alle 17, e delle nuove regole sulle pensioni contenute nel decreto che il governo uscente non ha più firmato. Il tema dominante è la crisi di governo e i suoi effetti immediati su economia e quotidianità degli italiani.",
+  "article_type": "standard",
+  "cards": [],
   "journalist": {
     "id": "rassegnista_01",
     "firma": "La Redazione",
@@ -21,37 +23,37 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-08T05:00:35.938099+00:00",
+  "published_at": "2026-04-09T05:05:56.047059+00:00",
   "image": {
     "type": "none",
     "source": ""
   },
   "schema_jsonld": "",
   "priority": 6,
-  "source": "Rassegna Camera",
+  "source": "Giornalone.it",
   "source_type": "rassegnista",
-  "original_url": "https://rassegna.camera.it/",
+  "original_url": "https://www.giornalone.it/quotidiani-italiani/",
   "related": [
     {
-      "title": "Compagnie assicurative italiane obbligate a fornire modulo digitale da oggi",
-      "url": "/economia/compagnie-assicurative-italiane-obbligate-a-fornir-4274e71661cbc723",
-      "id": "4274e71661cbc723",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/200026160-47e6d586-c32c-41bf-9954-863df627cba1.jpg",
+      "title": "Oroscopo di oggi, giovedì 9 aprile 2026",
+      "url": "/oroscopo/oroscopo-del-giorno",
+      "id": "oroscopo_daily",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "Rai Fiction: produttori tagliano 10-15 minuti alle prime serate",
+      "url": "/giustizia/rai-fiction-produttori-tagliano-10-15-minuti-alle-f0ed8615d6d884a4",
+      "id": "f0ed8615d6d884a4",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/172211960-2a42006a-986a-479b-8c37-0e2bbdaafd3b.jpg",
       "image_type": "image"
     },
     {
-      "title": "È morto a 91 anni Pietro Calogero, il pm del falso terrorismo del 7 aprile",
-      "url": "/politica/pietro-calogero-morto-a-padova-d49f8102257db891",
-      "id": "d49f8102257db891",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/07/165646452-eca2926b-937c-45af-989f-7cffd74692a8.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Primaset approda su Sky al canale 808: ecco chi lo guardava alle 22 del 7 aprile",
-      "url": "/cultura/sky-primaset-aumenta-la-sua-audience-cfd747ec81f03003",
-      "id": "cfd747ec81f03003",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3da65b75964bab14e5548d0418b3c2d0.jpg",
-      "image_type": "image"
+      "title": "Malagò in pista per la Serie A: 8 top club già lo vogliono presidente il 9 aprile",
+      "url": "/sport/gianni-malago-e-il-nome-che-circola-con-sempre-mag-ac31547f2a98ba03",
+      "id": "ac31547f2a98ba03",
+      "image_url": "https://sport.sky.it/assets/images/dcfd9d250c1138ec90203f3e2d5b7a766394b9e3/skysport/it/calcio/serie-a/video/2026/04/09/1088765_1775685542414_thumb_494.0000001_1775686242370.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
