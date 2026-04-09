@@ -1,21 +1,23 @@
 {
   "id": "b7be2fa628c348e1",
   "slug": "petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
-  "title": "Brent sotto 100 dollari dopo tregua Iran-Usa, calo del 25% da gennaio",
+  "title": "Petrolio Brent sotto i 100 dollari: calo del 25% dopo la tregua Iran-USA",
   "titles": [
-    "Brent sotto 100 dollari dopo tregua Iran-Usa, calo del 25% da gennaio",
-    "Lecornu: 'Golfo instabile, Francia valuta interventi su PIL'",
-    "Risparmio da 18 mld per l'Eurozona: così la tregua riduce i prezzi energetici"
+    "Petrolio Brent sotto i 100 dollari: calo del 25% dopo la tregua Iran-USA",
+    "Lecornu: prezzi alla pompa in calo del 25% entro aprile grazie alla tregua",
+    "Taglio produzione USA e fine sanzioni: greggio crolla, effetto sul caro-energia in Italia"
   ],
   "title_winner": null,
   "section": "esteri",
-  "occhiello": "PETROLIO SOTTO I 100 DOPO LA TREGUA IN IRAN",
-  "lead": "Parigi, 8 aprile 2026. Il ministro dell’Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua tra Iran e Stati Uniti, con il Brent che scende sotto i 100 dollari al barile per la prima volta da ottobre 2025. La svolta arriva dopo trenta giorni di negoziati a Vienna e l’annuncio congiunto di cessate il fuoco, scambio di prigionieri e sospensione parziale delle sanzioni.",
-  "corpo1": "La crisi avviata all’inizio dell’anno con il rifiuto iraniano di sospendere il programma nucleare aveva spinto il prezzo del petrolio a toccare quota 128 dollari nel mese di marzo. L’accordo firmato lo scorso 8 marzo, pubblicato in un comunicato congiunto da Washington e Teheran, prevede la fermata immediata degli scontri lungo il confine irano-israeliano, il rilascio di 150 ostaggi in entrambi i campi e l’apertura di canali di dialogo per rilanciare l’accordo del 2015. Secondo dati della Bce, il calo del 25% rispetto ai massimi registrati a gennaio pesa già sul bilancio della Eurozona, con un risparmio stimato di 18 miliardi annui per i consumi energetici. Il ministro Lecornu ha sottolineato che il mercato si è «riscoperto vulnerabile al gioco a scacchi che si sviluppa nel Golfo» e che il blocco francese sta valutando interventi mirati per stabilizzare il PIL. A conferma della precarietà, il ministero dell’Energia a Roma avverte: «Se l’equilibrio si rompe, i tagli alle bollette potrebbero invertirsi entro luglio». I media iraniani, citando fonti del ministero dello Sviluppo, parlano di «una svolta strategica» per ridurre la dipendenza dagli investimenti esteri.",
-  "corpo2": "La tregua non è né la prima né la definitiva, ma un episodio ricorrente in un copione ormai noto. Il modello di negoziato Usa-Iran si riconosce in un pattern ricorrente: cicli di escalation seguiti da accordi temporanei che spostano i coni di luce geopolitica. Il caso più recente è Stato il vertice di Vienna del 2023, che aveva portato a un’analoga sospensione delle tensioni, prima del crollo successivo all’offensiva israeliana su Gaza. Questa volta, però, il contesto economico globale è più fragile. Il ritorno a un prezzo più basso del greggio esacerba il conflitto interno alle oligarchie energetiche: mentre i produttori Usa beneficiano di un’espansione dei guadagni, i paesi esportatori del Golfo si vedono colpire i ricavi. La Francia, con il 30% delle riserve di gas in Europa, ha accelerato la sua strategia di diversificazione, ma il rischio di un’escalation nel Mediterraneo orientale — dove Israele e Grecia discutono nuovi accordi di Cooperazione — pesa ancora sull’equilibrio. A pagare saranno, come sempre, i soliti: il 48% degli italiani ha già registrato un aumento delle bollette di almeno il 12% nel primo trimestre del 2026, mentre i fondi sovrani di Abu Dhabi e Riyadh rinegoziano contratti di fornitura con partner europei. La guerra non si combatte solo con i missili, si ricorda: si combatte anche con i contatori.",
+  "occhiello": "PREZZO GREGGIO IN CALO: BRENT SOTTO I 100 DOLLARI",
+  "lead": "Parigi, 8 aprile 2026. Il ministro dell'Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua Iran-USA, che dovrebbe portare a un ribasso del 25% rispetto a gennaio.",
+  "corpo1": "Il prezzo del petrolio Brent è sceso sotto i 100 dollari a barile, dopo l'annuncio della tregua tra l'Iran e gli Stati Uniti. Secondo il ministro dell'Economia Antoine Lecornu, questo calo dovrebbe portare a un ribasso del 25% rispetto a gennaio. La tregua, annunciata venerdì, include la riapertura delle ambasciate iraniane negli Stati Uniti e la revoca delle sanzioni economiche statunitensi sull'Iran. Il calo del prezzo del greggio è stato accelerato anche dal taglio della produzione petrolifera negli USA, che rischia di stimolare una domanda globale più aggressiva.",
+  "corpo2": "Il ministro dell'Economia Antoine Lecornu è noto per le sue politiche di austerità e la sua determinazione a ridurre la dipendenza dell'Economia francese dal petrolio. Tuttavia, il calo del prezzo del greggio potrebbe avere anche effetti negativi, come la riduzione della produzione di energia elettrica da fonti rinnovabili. L'Economia francese dovrebbe adattarsi a queste nuove circostanze, ma non è chiaro come il governo intenda affrontare questo problema. A pagare saranno i soliti: gli imprenditori, i consumatori e i lavoratori. A dover coprire il deficit saranno, come sempre, gli imprenditori, i consumatori e i lavoratori, mentre i conti li faranno pagare ai più deboli. Non cambierà nulla, come sempre: i più deboli saranno ancora più esposti all'incertezza economica.",
+  "article_type": "standard",
+  "cards": [],
   "journalist": {
-    "id": "fabrizio_mei_01",
-    "firma": "Fabrizio Mei",
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
     "sezione": "esteri"
   },
   "published_at": "2026-04-08T15:18:48.195266+00:00",
@@ -26,31 +28,31 @@
     "credit": "Le Monde",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Brent sotto 100 dollari dopo tregua Iran-Usa, calo del 25% da gennaio\",\n  \"description\": \"Parigi, 8 aprile 2026. Il ministro dell’Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua tra Iran e Stati Uniti, con il Brent che scende sotto i 100 dollari al barile per la prima volta da ottobre 2025. La svolta arriva dopo trenta giorni di negoziati a Vi\",\n  \"articleBody\": \"Parigi, 8 aprile 2026. Il ministro dell’Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua tra Iran e Stati Uniti, con il Brent che scende sotto i 100 dollari al barile per la prima volta da ottobre 2025. La svolta arriva dopo trenta giorni di negoziati a Vienna e l’annuncio congiunto di cessate il fuoco, scambio di prigionieri e sospensione parziale delle sanzioni. La crisi avviata all’inizio dell’anno con il rifiuto iraniano di sospendere il programma nucleare aveva spinto il prezzo del petrolio a toccare quota 128 dollari nel mese di marzo. L’accordo firmato lo scorso 8 marzo, pubblicato in un comunicato congiunto da Washington e Teheran, prevede la fermata immediata degli scontri lungo il confine irano-israeliano, il rilascio di 150 ostaggi in entrambi i campi e l’apertura di canali di dialogo per rilanciare l’accordo del 2015. Secondo dati della Bce, il calo del 25% rispetto ai massimi registrati a gennaio pesa già sul bilancio della Eurozona, con un risparmio stimato di 18 miliardi annui per i consumi energetici. Il ministro Lecornu ha sottolineato che il mercato si è «riscoperto vulnerabile al gioco a scacchi che si sviluppa nel Golfo» e che il blocco francese sta valutando interventi mirati per stabilizzare il PIL. A conferma della precarietà, il ministero dell’Energia a Roma avverte: «Se l’equilibrio si rompe, i tagli alle bollette potrebbero invertirsi entro luglio». I media iraniani, citando fonti del ministero dello Sviluppo, parlano di «una svolta strategica» per ridurre la dipendenza dagli investimenti esteri. La tregua non è né la prima né la definitiva, ma un episodio ricorrente in un copione ormai noto. Il modello di negoziato Usa-Iran si riconosce in un pattern ricorrente: cicli di escalation seguiti da accordi temporanei che spostano i coni di luce geopolitica. Il caso più recente è Stato il vertice di Vienna del 2023, che aveva portato a un’analoga sospensione delle tensioni, prima del crollo successivo all’offensiva israeliana su Gaza. Questa volta, però, il contesto economico globale è più fragile. Il ritorno a un prezzo più basso del greggio esacerba il conflitto interno alle oligarchie energetiche: mentre i produttori Usa beneficiano di un’espansione dei guadagni, i paesi esportatori del Golfo si vedono colpire i ricavi. La Francia, con il 30% delle riserve di gas in Europa, ha accelerato la sua strategia di diversificazione, ma il rischio di un’escalation nel Mediterraneo orientale — dove Israele e Grecia discutono nuovi accordi di Cooperazione — pesa ancora sull’equilibrio. A pagare saranno, come sempre, i soliti: il 48% degli italiani ha già registrato un aumento delle bollette di almeno il 12% nel primo trimestre del 2026, mentre i fondi sovrani di Abu Dhabi e Riyadh rinegoziano contratti di fornitura con partner europei. La guerra non si combatte solo con i missili, si ricorda: si combatte anche con i contatori.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T15:18:48.195266+00:00\",\n  \"dateModified\": \"2026-04-08T15:18:48.195266+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/b7be2fa628c348e1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/b7be2fa628c348e1\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Petrolio Brent sotto i 100 dollari: calo del 25% dopo la tregua Iran-USA\",\n  \"description\": \"Parigi, 8 aprile 2026. Il ministro dell'Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua Iran-USA, che dovrebbe portare a un ribasso del 25% rispetto a gennaio.\",\n  \"articleBody\": \"Parigi, 8 aprile 2026. Il ministro dell'Economia Antoine Lecornu ha anticipato un calo del prezzo del greggio a seguito della tregua Iran-USA, che dovrebbe portare a un ribasso del 25% rispetto a gennaio. Il prezzo del petrolio Brent è sceso sotto i 100 dollari a barile, dopo l'annuncio della tregua tra l'Iran e gli Stati Uniti. Secondo il ministro dell'Economia Antoine Lecornu, questo calo dovrebbe portare a un ribasso del 25% rispetto a gennaio. La tregua, annunciata venerdì, include la riapertura delle ambasciate iraniane negli Stati Uniti e la revoca delle sanzioni economiche statunitensi sull'Iran. Il calo del prezzo del greggio è stato accelerato anche dal taglio della produzione petrolifera negli USA, che rischia di stimolare una domanda globale più aggressiva. Il ministro dell'Economia Antoine Lecornu è noto per le sue politiche di austerità e la sua determinazione a ridurre la dipendenza dell'Economia francese dal petrolio. Tuttavia, il calo del prezzo del greggio potrebbe avere anche effetti negativi, come la riduzione della produzione di energia elettrica da fonti rinnovabili. L'Economia francese dovrebbe adattarsi a queste nuove circostanze, ma non è chiaro come il governo intenda affrontare questo problema. A pagare saranno i soliti: gli imprenditori, i consumatori e i lavoratori. A dover coprire il deficit saranno, come sempre, gli imprenditori, i consumatori e i lavoratori, mentre i conti li faranno pagare ai più deboli. Non cambierà nulla, come sempre: i più deboli saranno ancora più esposti all'incertezza economica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-08T15:18:48.195266+00:00\",\n  \"dateModified\": \"2026-04-08T15:18:48.195266+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/b7be2fa628c348e1\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/b7be2fa628c348e1\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/esteri/petrolio-sotto-100-dopo-la-tregua-in-iran-b7be2fa628c348e1",
   "related": [
     {
-      "title": "Milano vola con la tregua usa-iran",
+      "title": "Papa Leone XIV elogia la tregua Usa-Iran dopo 7 mesi di tensioni nel Golfo Persico",
+      "url": "/esteri/papa-leone-xiv-ha-accolto-con-soddisfazione-mercol-31871e42ff3f83c8",
+      "id": "31871e42ff3f83c8",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f2506eb65e47d66d77193d7d358b9f02.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Trump minaccia la caduta di una civiltà, poi tregua di 14 giorni firmata da Usa, Iran e Israele",
+      "url": "/esteri/trump-minaccia-liran-unintera-civilta-morira-36b9ec60015ce060",
+      "id": "36b9ec60015ce060",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/03/Trump_2-1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Ftse Mib vola del 3,4% dopo tregua Usa-Iran nel Golfo, scambi in rialzo del 40%",
       "url": "/esteri/milano-vola-con-la-tregua-usa-iran-7f4f77bb1e7f84a6",
       "id": "7f4f77bb1e7f84a6",
       "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/011714587-46bb9dd8-fb41-4710-a258-dea3dbe52380.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Iran propone tregua a 10 punti e pedaggio di 2 mln per nave a Hormuz",
-      "url": "/esteri/iran-presenta-piano-di-pace-a-10-punti-usa-sospend-e8471396a89cfbc3",
-      "id": "e8471396a89cfbc3",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/043418804-75edc695-f6a2-41c4-801c-98b00fed6071.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Trump si rivolge all'iran: \"collaboreremo per rimuovere tutta la polvere nucleare\"",
-      "url": "/esteri/trump-si-rivolge-alliran-collaboreremo-per-rimuove-71904b69717dd973",
-      "id": "71904b69717dd973",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/8f5b779ddbe29eb4eabb4e4f0a1b836e.jpg",
       "image_type": "image"
     }
   ],
