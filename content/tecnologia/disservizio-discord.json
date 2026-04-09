@@ -1,0 +1,63 @@
+{
+  "id": "monitor_discord",
+  "slug": "disservizio-discord",
+  "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "titles": [
+    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "DISCORD IN DOWN",
+  "lead": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Discord risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-04-09T07:29:21.781965+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/discord.com",
+    "source": "Discord",
+    "credit": "Discord",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
+  "related": [
+    {
+      "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
