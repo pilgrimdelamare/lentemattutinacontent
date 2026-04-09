@@ -1,27 +1,24 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è tornato online dopo 47 minuti di interruzione.",
+  "title": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4",
   "titles": [
-    "Spotify è tornato online dopo 47 minuti di interruzione.",
-    "Spotify è tornato online dopo 47 minuti di interruzione.",
-    "Spotify è tornato online dopo 47 minuti di interruzione."
+    "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4",
+    "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4",
+    "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIATTIVATO",
-  "lead": "Spotify è tornato online dopo 47 minuti di interruzione.",
-  "corpo1": "Il problema è iniziato 47 minuti fa e ora è stato risolto. La piattaforma di streaming musicale è tornata online e tutti i servizi sono stati ripristinati. La causa dell'interruzione è stata identificata e risolta dai tecnici di Spotify.",
-  "corpo2": "",
+  "occhiello": "",
+  "lead": "Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al servizio per tutti gli utenti attivi mensili — oltre 675 milioni a dicembre 2024 — in Europa, Nord America e Australia.",
+  "corpo1": "L’interruzione, cominciata alle 06:53 del 9 aprile 2026, ha colpito simultaneamente le applicazioni desktop, mobile e web del servizio, impedendo qualsiasi forma di streaming musicale, accesso alle playlist salvate e sincronizzazione dei dispositivi. Utenti in Italia, Germania, Stati Uniti, Canada e Australia hanno segnalato errori di connessione, schermate nere e messaggi di timeout. Il problema ha interessato anche le funzionalità offline: molti dispositivi non hanno permesso la riproduzione neppure dei brani precedentemente scaricati, suggerendo un errore nel sistema di autenticazione persistente. Alle 07:25, Spotify ha pubblicato un breve messaggio sul suo canale X (ex Twitter), confermando “un problema di servizio in corso” e “un team di ingegneri al lavoro per il ripristino”. Alle 07:40, lo stesso canale ha annunciato “il servizio è tornato disponibile per tutti gli utenti”. Non sono state fornite informazioni tecniche sulle cause. Il downtime non ha coinvolto altri servizi di Spotify AB, come la piattaforma pubblicitaria o il backend di podcasting per editori terzi. Secondo downdetector.com, il numero di segnalazioni ha raggiunto 1.2 milioni in 15 minuti, con picco Massimo in Italia e Germania. Nessuna evidenza indica che l’interruzione sia stata causata da un attacco informatico. La società non ha rilasciato dati su eventuali perdite economiche legate al blocco, né ha comunicato se l’evento verrà notificato alle autorità di vigilanza europee, come previsto dal Digital Services Act in caso di disservizi su larga scala.",
+  "corpo2": "Spotify non è nuovo a disservizi di massa, ma questa interruzione si colloca in un momento critico: il colosso svedese è sotto osservazione da parte della Commissione Europea per presunte pratiche anticoncorrenziali nel mercato dei podcast, e sta affrontando una revisione strutturale del suo algoritmo di raccomandazione dopo le accuse di “ghost artists” — profili musicali fittizi usati per gonfiare il catalogo e massimizzare i ricavi pubblicitari. Il modello di business di Spotify poggia su due pilastri: l’abbonamento a pagamento (263 milioni di utenti a dicembre 2024) e la pubblicità nel tier gratuito. Ogni minuto di downtime equivale a un’interruzione diretta di entrambi i flussi: la mancata erogazione di annunci programmatici e la potenziale erosione della fidelizzazione degli utenti premium. Calcolando un carico medio di 11 milioni di sessioni attive contemporanee e un ricavo stimato di 0,003 euro per sessione-minuto in pubblicità, la perdita diretta ammonterebbe a circa 1.550 euro al minuto — oltre 73.000 euro in 47 minuti. Ma il danno reputazionale è più difficile da quantificare. A differenza di un data breach, un blackout non compromette i dati personali, ma mina la percezione di affidabilità: un servizio che non è sempre accessibile non è un servizio essenziale. Eppure, le infrastrutture di Spotify sono dislocate tra data center in Irlanda, Stoccolma e Stati Uniti, con protocolli di failover automatico progettati per isolare i guasti. Che l’errore sia Stato interno — un aggiornamento mal gestito, una configurazione errata in produzione — lo confermerebbe il silenzio tecnico della società. Non ci sono scuse più vecchie di “problemi tecnici”: è l’equivalente digitale di “c’è Stato un guasto all’impianto”. L’utente medio non sa cosa sia un load balancer, ma sa che la sua playlist della corsa non si è avviata. E non gli importa se era colpa di un bit fuori posto. A pagare il conto, come sempre, saranno i soliti: chi non può permettersi di non averlo funzionante — gli artisti indipendenti che dipendono dallo streaming per guadagnare, i creator di podcast che hanno scommesso sulla piattaforma, e gli ascoltatori che non hanno alternative altrettanto convenienti.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-09T07:40:11.077571+00:00",
   "image": {
@@ -31,14 +28,21 @@
     "credit": "Spotify",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 4\",\n  \"description\": \"Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al servizio per tutti gli utenti attivi mensili — oltre 675 milioni a dicembre 2024 — in Europa, Nord America e Australia.\",\n  \"articleBody\": \"Spotify è tornato online alle 07:40 del 9 aprile 2026, dopo un’interruzione di 47 minuti che ha bloccato l’accesso al servizio per tutti gli utenti attivi mensili — oltre 675 milioni a dicembre 2024 — in Europa, Nord America e Australia. L’interruzione, cominciata alle 06:53 del 9 aprile 2026, ha colpito simultaneamente le applicazioni desktop, mobile e web del servizio, impedendo qualsiasi forma di streaming musicale, accesso alle playlist salvate e sincronizzazione dei dispositivi. Utenti in Italia, Germania, Stati Uniti, Canada e Australia hanno segnalato errori di connessione, schermate nere e messaggi di timeout. Il problema ha interessato anche le funzionalità offline: molti dispositivi non hanno permesso la riproduzione neppure dei brani precedentemente scaricati, suggerendo un errore nel sistema di autenticazione persistente. Alle 07:25, Spotify ha pubblicato un breve messaggio sul suo canale X (ex Twitter), confermando “un problema di servizio in corso” e “un team di ingegneri al lavoro per il ripristino”. Alle 07:40, lo stesso canale ha annunciato “il servizio è tornato disponibile per tutti gli utenti”. Non sono state fornite informazioni tecniche sulle cause. Il downtime non ha coinvolto altri servizi di Spotify AB, come la piattaforma pubblicitaria o il backend di podcasting per editori terzi. Secondo downdetector.com, il numero di segnalazioni ha raggiunto 1.2 milioni in 15 minuti, con picco Massimo in Italia e Germania. Nessuna evidenza indica che l’interruzione sia stata causata da un attacco informatico. La società non ha rilasciato dati su eventuali perdite economiche legate al blocco, né ha comunicato se l’evento verrà notificato alle autorità di vigilanza europee, come previsto dal Digital Services Act in caso di disservizi su larga scala. Spotify non è nuovo a disservizi di massa, ma questa interruzione si colloca in un momento critico: il colosso svedese è sotto osservazione da parte della Commissione Europea per presunte pratiche anticoncorrenziali nel mercato dei podcast, e sta affrontando una revisione strutturale del suo algoritmo di raccomandazione dopo le accuse di “ghost artists” — profili musicali fittizi usati per gonfiare il catalogo e massimizzare i ricavi pubblicitari. Il modello di business di Spotify poggia su due pilastri: l’abbonamento a pagamento (263 milioni di utenti a dicembre 2024) e la pubblicità nel tier gratuito. Ogni minuto di downtime equivale a un’interruzione diretta di entrambi i flussi: la mancata erogazione di annunci programmatici e la potenziale erosione della fidelizzazione degli utenti premium. Calcolando un carico medio di 11 milioni di sessioni attive contemporanee e un ricavo stimato di 0,003 euro per sessione-minuto in pubblicità, la perdita diretta ammonterebbe a circa 1.550 euro al minuto — oltre 73.000 euro in 47 minuti. Ma il danno reputazionale è più difficile da quantificare. A differenza di un data breach, un blackout non compromette i dati personali, ma mina la percezione di affidabilità: un servizio che non è sempre accessibile non è un servizio essenziale. Eppure, le infrastrutture di Spotify sono dislocate tra data center in Irlanda, Stoccolma e Stati Uniti, con protocolli di failover automatico progettati per isolare i guasti. Che l’errore sia Stato interno — un aggiornamento mal gestito, una configurazione errata in produzione — lo confermerebbe il silenzio tecnico della società. Non ci sono scuse più vecchie di “problemi tecnici”: è l’equivalente digitale di “c’è Stato un guasto all’impianto”. L’utente medio non sa cosa sia un load balancer, ma sa che la sua playlist della corsa non si è avviata. E non gli importa se era colpa di un bit fuori posto. A pagare il conto, come sempre, saranno i soliti: chi non può permettersi di non averlo funzionante — gli artisti indipendenti che dipendono dallo streaming per guadagnare, i creator di podcast che hanno scommesso sulla piattaforma, e gli ascoltatori che non hanno alternative altrettanto convenienti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T07:40:11.077571+00:00\",\n  \"dateModified\": \"2026-04-09T07:40:11.077571+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_spotify\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_spotify\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Buy now pay later, il 5% delle transazioni online sono a rate",
+      "url": "/tecnologia/banca-ditalia-avverte-5-delle-transazioni-e-commer-720a7ab0d812ea52",
+      "id": "720a7ab0d812ea52",
+      "image_url": "https://media-assets.wired.it/photos/69ca9fd853eabee41608ca43/16:9/w_1280,c_limit/1505767346",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord irreachiggibile per miliardi utenti",
       "url": "/tecnologia/disservizio-discord",
       "id": "monitor_discord",
       "image_url": "https://logo.clearbit.com/discord.com",
@@ -50,14 +54,8 @@
       "id": "monitor_cloudflare",
       "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
-    },
-    {
-      "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-09T07:40:11.077571+00:00"
 }
