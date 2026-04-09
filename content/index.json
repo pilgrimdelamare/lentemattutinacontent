@@ -1,5 +1,24 @@
 [
   {
+    "id": "c0b716ef34afb24a",
+    "slug": "de-gennaro-lascia-la-gdf-a-fine-anno-governo-in-st-c0b716ef34afb24a",
+    "title": "De Gennaro lascia la Guàrdia di Finànza a dicèmbre, sucçessore incertò",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-08T23:41:44.644489+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/230556895-0f8157f7-9582-4318-a84d-f1fffc9f6c7a.jpg",
+    "occhiello": "CRISI ALLA GUARDIA DI FINANZA",
+    "lead_preview": "De Gennaro lascia la GdF a fine anno: governo in stallo su successore. Il comandante della Guardia di Finanza, il genera",
+    "tags": [
+      "de gennaro guardia di finanza",
+      "successione gdf",
+      "crisi guardia di finanza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f44d88da35188850",
     "slug": "paolo-barelli-sottosegretario-il-9-aprile-scambio-f44d88da35188850",
     "title": "Paolo Barelli nuovo sottosegretario, spazio a Enrico Costa nel governo",
@@ -1669,25 +1688,6 @@
       "diario boutigny",
       "resistenza italiana",
       "fondi resistenza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c0b716ef34afb24a",
-    "slug": "de-gennaro-lascia-la-gdf-a-fine-anno-governo-in-st-c0b716ef34afb24a",
-    "title": "De Gennaro lascia la GdF a fine anno, governo in stallo su successore",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-08T23:41:44.644489+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/230556895-0f8157f7-9582-4318-a84d-f1fffc9f6c7a.jpg",
-    "occhiello": "DE GENNARO PROROGATO, MA IL GOVERNO È IN STALLO",
-    "lead_preview": "L'esecutivo non riesce a trovare un accordo su chi succederà a De Gennaro come comandante della Guardia di Finanza, in s",
-    "tags": [
-      "de gennaro gdif",
-      "successione gdif",
-      "governo in stallo"
     ],
     "hero_eligible": true
   },
