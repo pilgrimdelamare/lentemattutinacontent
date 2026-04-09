@@ -1,0 +1,63 @@
+{
+  "id": "monitor_cloudflare",
+  "slug": "disservizio-cloudflare",
+  "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+  "titles": [
+    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "CLOUDFLARE IN DOWN",
+  "lead": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 21 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-04-09T07:19:17.048854+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/cloudflare.com",
+    "source": "Cloudflare",
+    "credit": "Cloudflare",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
+  "related": [
+    {
+      "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Glutine sotto controllo: test in 5 minuti a Milano",
+      "url": "/tecnologia/la-startup-glutensens-lancia-dispositivo-per-ident-f37e3e5497ab67df",
+      "id": "f37e3e5497ab67df",
+      "image_url": "https://images.unsplash.com/photo-1605781231474-f60dea478e8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxmb29kJTIwc2FmZXR5JTIwdGVzdGluZyUyMGdsdXRlbiUyMGRldGVjdGlvbnxlbnwwfDB8fHwxNzc1Mzk5Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "image_type": "unsplash"
+    }
+  ],
+  "hero_eligible": false
+}
