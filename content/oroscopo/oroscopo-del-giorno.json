@@ -20,84 +20,96 @@
       "emoji": "♈",
       "title": "Il Primo Germoglio nel Cemento",
       "content": "Immaginate un seme minuscolo che spacca il marciapiede per cercare la luce. Non lo fa con rabbia, ma con una determinazione gioiosa. Siete in una fase in cui la vostra forza vitale è così straripante che nulla può contenervi. Il mondo non vi sta ostacolando; vi sta solo offrendo la resistenza necessaria per farvi sentire quanto siete potenti.",
-      "consiglio": "Smettete di spingere le porte chiuse. Girate l'angolo: ce n'è una spalancata che aspetta solo il vostro passo leggero."
+      "consiglio": "Smettete di spingere le porte chiuse. Girate l'angolo: ce n'è una spalancata che aspetta solo il vostro passo leggero.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/ariete.png"
     },
     {
       "sign": "Toro",
       "emoji": "♉",
       "title": "L'Artigiano del Silenzio",
       "content": "Siete come un vasaio che ha finalmente trovato l'argilla perfetta. La vostra vita sta prendendo forma non attraverso grandi scossoni, ma grazie a carezze costanti e pazienti. È tempo di onorare la bellezza della lentezza. La terra sotto i vostri piedi è fertile e ogni vostro desiderio sta mettendo radici profonde, invisibili ma indistruttibili.",
-      "consiglio": "Dedicate dieci minuti al giorno a guardare qualcosa di immobile. Imparerete il segreto della vera abbondanza."
+      "consiglio": "Dedicate dieci minuti al giorno a guardare qualcosa di immobile. Imparerete il segreto della vera abbondanza.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/toro.png"
     },
     {
       "sign": "Gemelli",
       "emoji": "♊",
       "title": "Il Riflesso nel Fiume in Piena",
       "content": "Avete presente quando la superficie dell'acqua trema e l'immagine si scompone in mille colori? Ecco, voi siete quel movimento. Non cercate di definirvi in un'unica forma. Siete una conversazione infinita tra il vostro io di ieri e quello di domani. L'universo vi sta inviando messaggi attraverso incontri casuali e canzoni trasmesse per errore.",
-      "consiglio": "Scrivete una lettera alla versione di voi stessi che sarete tra dieci anni. Ringraziatela per tutto quello che ha già risolto."
+      "consiglio": "Scrivete una lettera alla versione di voi stessi che sarete tra dieci anni. Ringraziatela per tutto quello che ha già risolto.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/gemelli.png"
     },
     {
       "sign": "Cancro",
       "emoji": "♋",
       "title": "La Marea che Ritorna a Casa",
       "content": "C'è un oceano dentro di voi che sta finalmente trovando la strada verso la riva. Avete protetto il vostro cuore con una corazza lucida, ma ora è tempo di sentire la sabbia calda sulla pelle. Il dolore passato è solo acqua salata che ha pulito le vostre ferite. Siete pronti a nutrire il mondo con la vostra tenerezza, senza più paura di svuotarvi.",
-      "consiglio": "Aprite le finestre di casa, anche se fuori fa freddo. Lasciate che l'aria nuova porti via i fantasmi dei \"se\" e dei \"ma\"."
+      "consiglio": "Aprite le finestre di casa, anche se fuori fa freddo. Lasciate che l'aria nuova porti via i fantasmi dei \"se\" e dei \"ma\".",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/cancro.png"
     },
     {
       "sign": "Leone",
       "emoji": "♌",
       "title": "Il Sole che Danza con l'Ombra",
       "content": "Non siete solo la luce che abbaglia, ma anche l'ombra che riposa. In questo momento, la vostra maestosità non risiede in quanto forte ruggite, ma in quanto profondamente sapete ascoltare. L'universo vi sta preparando un palcoscenico, ma questa volta il pubblico siete voi stessi. Celebrate la vostra esistenza come se fosse il primo giorno di creazione.",
-      "consiglio": "Fate un regalo anonimo a qualcuno che non sopportate. Osservate come il vostro senso di potere si trasforma in pura libertà."
+      "consiglio": "Fate un regalo anonimo a qualcuno che non sopportate. Osservate come il vostro senso di potere si trasforma in pura libertà.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/leone.png"
     },
     {
       "sign": "Vergine",
       "emoji": "♍",
       "title": "Il Ricamo delle Stelle",
       "content": "Siete come una tessitrice che vede l'intero disegno anche quando il filo sembra annodato. La vostra precisione è un atto d'amore verso il mondo. Ma attenzione: a volte la bellezza sta proprio nell'errore del punto, in quella piccola imperfezione che rende il tappeto vivo. Lasciate cadere l'ago e ammirate quanto è splendido il caos che vi circonda.",
-      "consiglio": "Scegliete una stanza della vostra casa e lasciatela disordinata per una settimana. Lasciate che la vita accada senza il vostro permesso."
+      "consiglio": "Scegliete una stanza della vostra casa e lasciatela disordinata per una settimana. Lasciate che la vita accada senza il vostro permesso.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/vergine.png"
     },
     {
       "sign": "Bilancia",
       "emoji": "♎",
       "title": "L'Equilibrista sul Filo d'Oro",
       "content": "Cercate l'armonia come se fosse un tesoro perduto, ma la verità è che l'armonia è nel vostro respiro. Siete su un filo sospeso tra due montagne, e il vento che soffia non vuole farvi cadere: vuole insegnarvi a volare. Non abbiate paura di sbilanciarvi verso ciò che amate davvero, anche se sembra irrazionale.",
-      "consiglio": "Smettete di pesare le opinioni degli altri. La bilancia del vostro cuore è l'unica che segna il peso giusto."
+      "consiglio": "Smettete di pesare le opinioni degli altri. La bilancia del vostro cuore è l'unica che segna il peso giusto.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/bilancia.png"
     },
     {
       "sign": "Scorpione",
       "emoji": "♏",
       "title": "La Fenice che Insegna al Fuoco",
       "content": "Siete passati attraverso le fiamme e, invece di bruciarvi, avete imparato a brillare di una luce più scura e magnetica. Il vostro potere di trasformazione è al culmine. Non temete le vostre profondità; lì si trovano i diamanti che non sapevate di possedere. L'universo vi sta spogliando di ciò che è vecchio solo per rivelare la vostra essenza divina.",
-      "consiglio": "Guardatevi allo specchio e dite a voce alta un segreto che vi fa vergognare. Poi sorridete: siete liberi."
+      "consiglio": "Guardatevi allo specchio e dite a voce alta un segreto che vi fa vergognare. Poi sorridete: siete liberi.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/scorpione.png"
     },
     {
       "sign": "Sagittario",
       "emoji": "♐",
       "title": "La Freccia che Diventa Aquila",
       "content": "Avete puntato l'orizzonte per così tanto tempo che avete dimenticato che l'orizzonte si sposta con voi. Siete nati per l'espansione, per il viaggio che non ha meta se non la meraviglia. Il mondo è la vostra biblioteca e ogni esperienza è un libro sacro. Correte verso l'ignoto: è lì che la fortuna ha dato appuntamento alla vostra audacia.",
-      "consiglio": "Comprate un biglietto per un posto dove non siete mai stati, anche se è solo la fermata dell'autobus dopo la vostra."
+      "consiglio": "Comprate un biglietto per un posto dove non siete mai stati, anche se è solo la fermata dell'autobus dopo la vostra.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/sagittario.png"
     },
     {
       "sign": "Capricorno",
       "emoji": "♑",
       "title": "La Montagna che Impara a Cantare",
       "content": "Avete scalato vette altissime con una determinazione che toglie il fiato. Ora che siete in cima, non guardate quanto manca alla prossima vetta. Guardate le nuvole sotto di voi. La vostra forza non è più nel marmo, ma nella capacità di essere flessibili come un albero che si piega alla tempesta senza spezzarsi. La saggezza è il vostro nuovo mantello.",
-      "consiglio": "Toglietevi le scarpe e camminate sull'erba o sulla terra. Ricordate alle vostre radici che non devono sempre sostenere il mondo."
+      "consiglio": "Toglietevi le scarpe e camminate sull'erba o sulla terra. Ricordate alle vostre radici che non devono sempre sostenere il mondo.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/capricorno.png"
     },
     {
       "sign": "Acquario",
       "emoji": "♒",
       "title": "Il Temporale che Disseta il Deserto",
       "content": "Siete la pioggia che cade dove nessuno se l'aspetta. Le vostre idee sono lampi che illuminano la notte degli altri. Non sentitevi soli nella vostra diversità; siete semplicemente il futuro che ha deciso di manifestarsi in anticipo. L'universo cospira per mettere le vostre visioni nelle mani di chi può aiutarvi a realizzarle.",
-      "consiglio": "Dite la verità più scomoda che avete nel cuore in modo assolutamente gentile. Il mondo ha bisogno della vostra onestà elettrica."
+      "consiglio": "Dite la verità più scomoda che avete nel cuore in modo assolutamente gentile. Il mondo ha bisogno della vostra onestà elettrica.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/acquario.png"
     },
     {
       "sign": "Pesci",
       "emoji": "♓",
       "title": "Il Sogno che si Sveglia",
       "content": "Siete l'ultimo segno, quello che contiene tutti gli altri. Siete il mare che abbraccia ogni isola. In questi giorni, il confine tra la realtà e la magia si sta facendo sottile come velo di seta. Quello che sognate ad occhi aperti sta iniziando a bussare alla vostra porta. Non chiedetevi se è possibile: chiedetevi se siete pronti a riceverlo.",
-      "consiglio": "Disegnate quello che provate, senza usare parole. Lasciate che il vostro inconscio vi racconti quanto siete già amati."
+      "consiglio": "Disegnate quello che provate, senza usare parole. Lasciate che il vostro inconscio vi racconti quanto siete già amati.",
+      "image_url": "https://raw.githubusercontent.com/pilgrimdelamare/lentemattutinacontent/main/content/oroscopo/images/pesci.png"
     }
   ],
   "journalist": {
@@ -106,7 +118,7 @@
     "sezione": "oroscopo",
     "ruolo": "astrologa"
   },
-  "published_at": "2026-04-09T01:18:34.160643+00:00",
+  "published_at": "2026-04-09T01:32:13.529581+00:00",
   "image": {
     "type": "none",
     "source": ""
