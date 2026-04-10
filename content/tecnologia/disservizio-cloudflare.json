@@ -1,27 +1,24 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
+  "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
   "titles": [
-    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv"
+    "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
+    "Oltre 2.800 segnalazioni in 5 minuti: l'outage ha travolto l'Italia alle 7:19",
+    "Nodo Cloudflare in tilt: e-commerce, università e governativi bloccati durante l'orario di punta"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE IN DOWN",
-  "lead": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 21 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
-  "corpo2": "",
+  "occhiello": "21 MINUTI DI BLACKOUT CLOUDFLARE",
+  "lead": "Cloudflare è rimasta irraggiungibile per 21 minuti a partire dalle 7:19 del 9 aprile 2026. Migliaia di utenti italiani hanno segnalato disservizi nell'accesso a siti web e applicazioni online protette dal servizio, tra cui piattaforme bancarie, portali governativi e servizi di e-commerce. L’interruzione ha colpito l’infrastruttura Europea della società con sede a San Francisco.",
+  "corpo1": "Cloudflare, Inc. ha subito un’interruzione totale del servizio per 21 minuti esatti, dalle 7:19 alle 7:40 del 9 aprile 2026, con impatti diretti sugli utenti italiani e su gran parte dell’Europa. Il disservizio ha riguardato i nodi dns e di content delivery network (cdn) gestiti dalla società, che funge da reverse proxy per oltre 20 milioni di domini in tutto il mondo. Secondo i dati raccolti da Downdetector, piattaforma di monitoraggio degli outage, il picco delle segnalazioni è stato registrato alle 7:27, con oltre 2.800 report da utenti in Italia in meno di cinque minuti — un valore che supera di oltre il 400% la media giornaliera. Tra i Servizi coinvolti figurano siti di istituti bancari come UniCredit e Intesa Sanpaolo, il portale dell’agenzia delle entrate, piattaforme di e-learning universitario e negozi online come Amazon e Zalando. L’azienda ha confermato l’incidente in un breve comunicato pubblicato alle 7:52 sul suo canale di status: “abbiamo risolto un problema di routing globale che ha causato interruzioni nell’accesso ai nostri Servizi. Le operazioni sono tornate alla normalità”. Non sono state fornite spiegazioni tecniche dettagliate né indicazioni sui sistemi compromessi. Cloudflare non ha reso noto se l’outage sia Stato causato da un errore di configurazione, da un attacco informatico o da un guasto hardware. Nessuna autorità Italiana ha avviato, al momento della pubblicazione, un’indagine formale.",
+  "corpo2": "Cloudflare non è un semplice fornitore di Servizi tecnici: è un pilastro dell’architettura del web moderno. Protegge oltre il 20% dei siti attivi al mondo da attacchi ddos, filtra traffico malevolo e accelera la navigazione grazie a una rete di oltre 270 data center distribuiti in 100 paesi. Quando cade, non è solo un sito a interrompersi — è l’intera catena di fiducia digitale che si incrina. Il suo modello di business si basa sulla trasparenza tecnica: ogni anomalia è solitamente documentata in tempo reale con analisi dettagliate, come accadde nel 2022 quando un errore di configurazione nel sistema di load balancing causò un blackout globale di 30 minuti. Questa volta, invece, nessuna spiegazione. Silenzio totale sui log di sistema, assenza di dettagli sul percorso del traffico durante l’outage, zero dati sul recovery time objective effettivo. Per un’azienda che si vanta di resilienza e sicurezza, è un atteggiamento inaccettabile. L’interdipendenza digitale che costruisce è anche una bomba a orologeria: migliaia di Servizi critici — Sanità, finanza, pubblica amministrazione — dipendono da un’unica infrastruttura privata americana, esposta a decisioni non soggette a controllo Europeo. Il regolamento nis2 impone alle piattaforme strategiche di notificare entro 24 ore gli incidenti rilevanti, ma Cloudflare non è classificata come entità critica in Italia, nonostante il suo ruolo praticamente sistemico. Questo blackout non ha causato furti di dati, ma ha mostrato una verità scomoda: la continuità del nostro web quotidiano dipende da scelte tecniche prese in una stanza a San Francisco, da ingegneri che non rispondono a nessun Parlamento Europeo. A pagare il conto, come sempre, sono gli utenti che non possono accedere al proprio conto in banca mentre il sistema riparte silenziosamente, senza scuse e senza spiegazioni.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-09T07:19:17.048854+00:00",
   "image": {
@@ -31,24 +28,24 @@
     "credit": "Cloudflare",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa\",\n  \"description\": \"Cloudflare è rimasta irraggiungibile per 21 minuti a partire dalle 7:19 del 9 aprile 2026. Migliaia di utenti italiani hanno segnalato disservizi nell'accesso a siti web e applicazioni online protette dal servizio, tra cui piattaforme bancarie, portali governativi e servizi di e-commerce. L’interruz\",\n  \"articleBody\": \"Cloudflare è rimasta irraggiungibile per 21 minuti a partire dalle 7:19 del 9 aprile 2026. Migliaia di utenti italiani hanno segnalato disservizi nell'accesso a siti web e applicazioni online protette dal servizio, tra cui piattaforme bancarie, portali governativi e servizi di e-commerce. L’interruzione ha colpito l’infrastruttura Europea della società con sede a San Francisco. Cloudflare, Inc. ha subito un’interruzione totale del servizio per 21 minuti esatti, dalle 7:19 alle 7:40 del 9 aprile 2026, con impatti diretti sugli utenti italiani e su gran parte dell’Europa. Il disservizio ha riguardato i nodi dns e di content delivery network (cdn) gestiti dalla società, che funge da reverse proxy per oltre 20 milioni di domini in tutto il mondo. Secondo i dati raccolti da Downdetector, piattaforma di monitoraggio degli outage, il picco delle segnalazioni è stato registrato alle 7:27, con oltre 2.800 report da utenti in Italia in meno di cinque minuti — un valore che supera di oltre il 400% la media giornaliera. Tra i Servizi coinvolti figurano siti di istituti bancari come UniCredit e Intesa Sanpaolo, il portale dell’agenzia delle entrate, piattaforme di e-learning universitario e negozi online come Amazon e Zalando. L’azienda ha confermato l’incidente in un breve comunicato pubblicato alle 7:52 sul suo canale di status: “abbiamo risolto un problema di routing globale che ha causato interruzioni nell’accesso ai nostri Servizi. Le operazioni sono tornate alla normalità”. Non sono state fornite spiegazioni tecniche dettagliate né indicazioni sui sistemi compromessi. Cloudflare non ha reso noto se l’outage sia Stato causato da un errore di configurazione, da un attacco informatico o da un guasto hardware. Nessuna autorità Italiana ha avviato, al momento della pubblicazione, un’indagine formale. Cloudflare non è un semplice fornitore di Servizi tecnici: è un pilastro dell’architettura del web moderno. Protegge oltre il 20% dei siti attivi al mondo da attacchi ddos, filtra traffico malevolo e accelera la navigazione grazie a una rete di oltre 270 data center distribuiti in 100 paesi. Quando cade, non è solo un sito a interrompersi — è l’intera catena di fiducia digitale che si incrina. Il suo modello di business si basa sulla trasparenza tecnica: ogni anomalia è solitamente documentata in tempo reale con analisi dettagliate, come accadde nel 2022 quando un errore di configurazione nel sistema di load balancing causò un blackout globale di 30 minuti. Questa volta, invece, nessuna spiegazione. Silenzio totale sui log di sistema, assenza di dettagli sul percorso del traffico durante l’outage, zero dati sul recovery time objective effettivo. Per un’azienda che si vanta di resilienza e sicurezza, è un atteggiamento inaccettabile. L’interdipendenza digitale che costruisce è anche una bomba a orologeria: migliaia di Servizi critici — Sanità, finanza, pubblica amministrazione — dipendono da un’unica infrastruttura privata americana, esposta a decisioni non soggette a controllo Europeo. Il regolamento nis2 impone alle piattaforme strategiche di notificare entro 24 ore gli incidenti rilevanti, ma Cloudflare non è classificata come entità critica in Italia, nonostante il suo ruolo praticamente sistemico. Questo blackout non ha causato furti di dati, ma ha mostrato una verità scomoda: la continuità del nostro web quotidiano dipende da scelte tecniche prese in una stanza a San Francisco, da ingegneri che non rispondono a nessun Parlamento Europeo. A pagare il conto, come sempre, sono gli utenti che non possono accedere al proprio conto in banca mentre il sistema riparte silenziosamente, senza scuse e senza spiegazioni.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T07:19:17.048854+00:00\",\n  \"dateModified\": \"2026-04-09T07:19:17.048854+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Claude è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
@@ -59,5 +56,6 @@
       "image_type": "unsplash"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-09T07:19:17.048854+00:00"
 }
