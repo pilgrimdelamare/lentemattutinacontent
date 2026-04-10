@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-09T07:19:17.048854+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "21 MINUTI DI BLACKOUT CLOUDFLARE",
+    "lead_preview": "Cloudflare è rimasta irraggiungibile per 21 minuti a partire dalle 7:19 del 9 aprile 2026. Migliaia di utenti italiani h",
+    "tags": [
+      "blackout cloudflare",
+      "agenzia delle entrate",
+      "disservizi bancari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "16170501c247d751",
     "slug": "morte-a-parigi-a-95-anni-lattore-italo-tedesco-16170501c247d751",
     "title": "Mario Adorf è morto a 95 anni a Parigi dopo una lunga malattia",
@@ -1259,25 +1278,6 @@
       "energia condivisa"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-09T07:19:17.048854+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE IN DOWN",
-    "lead_preview": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f6b49a04d0c64ec7",
