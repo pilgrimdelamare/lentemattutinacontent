@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-09T07:29:21.781965+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD GIÙ PER 15 MINUTI",
+    "lead_preview": "Discord è stato irraggiungibile per almeno 15 minuti a partire dalle 07:29 del 9 aprile 2026, secondo le segnalazioni de",
+    "tags": [
+      "disservizio discord 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b05c1bd2b79a93d9",
     "slug": "fondi-scomparsi-dopo-il-voto-nessun-contributo-dal-b05c1bd2b79a93d9",
     "title": "Benati parte da Fondi nel 2026 con 'Aldro vive', Comune nega 50mila euro",
@@ -1021,21 +1038,6 @@
       "musica silenzio guerra",
       "78mila sfollati"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord irreachiggibile per miliardi utenti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-09T07:29:21.781965+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD IRREACHIGGIBILE PER MILIARDI UTENTI",
-    "lead_preview": "Discord è irraggiungibile da 15 minuti, secondo gli utenti italiani che segnalano disservizi. La piattaforma di messaggi",
-    "tags": [],
     "hero_eligible": true
   },
   {
