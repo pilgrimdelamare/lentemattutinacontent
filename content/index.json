@@ -1,5 +1,24 @@
 [
   {
+    "id": "9b059052adb91a16",
+    "slug": "artemis-ii-6-lampi-sulla-luna-astronauti-vedono-im-9b059052adb91a16",
+    "title": "Orion cattura lampi di impatto su Luna",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-10T04:35:10.556962+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d752811130d099062ec7ae/16:9/w_1280,c_limit/art002e009283~large-2.jpg",
+    "occhiello": "SEI LAMPALLINE SUL LATO OSCURO",
+    "lead_preview": "Orion ha ripreso sei lampi di luce sulla Luna il 10 aprile 2026, mentre Artemis II transitava sul lato nascosto: sono im",
+    "tags": [
+      "orion",
+      "lampi luna",
+      "nasa artemis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "735a8c90090c37bd",
     "slug": "solo-il-13-dei-sostenitori-di-reform-uk-vede-post-735a8c90090c37bd",
     "title": "Solo il 13% degli utenti vede post di amici su social: lo studio shock del think tank",
@@ -790,25 +809,6 @@
       "studio matrimoni e cancro",
       "ricerca tumori usa",
       "università del sud della california"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9b059052adb91a16",
-    "slug": "artemis-ii-6-lampi-sulla-luna-astronauti-vedono-im-9b059052adb91a16",
-    "title": "Artemis II: 6 lampi sulla Luna, astronauti vedono impatti di Meteoriti in diretta",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-10T04:35:10.556962+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d752811130d099062ec7ae/16:9/w_1280,c_limit/art002e009283~large-2.jpg",
-    "occhiello": "SEI IMPATTI LUNARI VISTI DAGLI ASTRONAUTI",
-    "lead_preview": "Artemis II, 10 aprile 2026. Durante il sorvolo del lato nascosto della Luna, l’equipaggio della capsula Orion ha osserva",
-    "tags": [
-      "arremis ii",
-      "impatto meteoriti luna",
-      "missione lunare 2026"
     ],
     "hero_eligible": true
   },
