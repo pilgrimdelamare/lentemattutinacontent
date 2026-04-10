@@ -1,0 +1,38 @@
+{
+  "id": "libro-20260410",
+  "slug": "libro-del-giorno-invia-la-tua-recensione-un-libro-20260410",
+  "title": "Il libro del giorno: Invia la tua recensione",
+  "titles": [
+    "Il libro del giorno: Invia la tua recensione"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "Il libro del giorno",
+  "lead": "una guida per il lettore curioso che vuole contribuire all'archivio di un'antica biblioteca digitale",
+  "corpo1": "SoloLibri.net, quell'instancabile archivista moderno che custodisce la memoria letteraria come un bibliofilo alborghese in una libreria settecentesca, apre le sue porte ai collaboratori. Chiunque, munito di penna elettronica e un'opera non recensita, può depositare il proprio commento in questa bacheca virtuale. Prima di immergersi nella scrittura, l'invitato dovrà verificare con la precisione di un bibliotecario sveviano se l'opera in questione non abbia già trovato spazio tra le schede digitali. Se ne esiste già un profilo, il commento dovrà aggiungersi al coro esistente come una nota marginale in un codice antico. Se invece l'opera è ignota al sistema, il recensore si dovrà impegnare a fornire i dati necessari con la cura di un archivista toscano. L'invio, come si conviene a un'opera degna di essere conservata, richiede una prosa di almeno 450 parole: una misura ragionevole per chi desidera parlare di letteratura senza ridursi a mero bisbigliare. L'autore anonimo, che si firmi con nome reale o con un epitaffio di fantasia, dovrà rammentare che questa collaborazione non è un contratto, ma un gesto d'amore per la parola scritta. E se l'invio dovesse incappare in un errore, il mittente troverà un'uscita di sicurezza nell'indirizzo e-mail fornito. In fondo, anche i più eruditi archiviatori si perdono occasionalmente tra i labirinti delle proprie creazioni.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "recensore_01",
+    "nome": "Luca",
+    "cognome": "Mirtillo",
+    "firma": "Luca Mirtillo",
+    "sezione": "cultura",
+    "ruolo": "recensore",
+    "avatar_sprite": "character_bookworm_01"
+  },
+  "published_at": "2026-04-10T04:04:05.964270+00:00",
+  "image": {
+    "type": "url",
+    "source": "images/button_area_riservata.png",
+    "alt": "Copertina: Invia la tua recensione"
+  },
+  "schema_jsonld": "",
+  "priority": 4,
+  "source": "sololibri.net",
+  "source_type": "libro",
+  "original_url": "https://www.sololibri.net/Collabora-con-noi.html",
+  "related": [],
+  "hero_eligible": false
+}
