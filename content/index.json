@@ -1,5 +1,24 @@
 [
   {
+    "id": "b45772cf3b1fc92e",
+    "slug": "tumori-rischio-piu-alto-per-chi-non-si-e-mai-sposa-b45772cf3b1fc92e",
+    "title": "Un partner ti salva la vita: studio USA su 4,3 milioni, mai sposati diagnosticati col cancro al 34% in più in fase avanz",
+    "section": "salute",
+    "priority": 5,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-10T02:33:05.101598+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://images.agi.it/pictures/agi/agi/2025/07/18/121614797-89a78fa7-6949-4e71-9ea5-668b6f332249.jpg",
+    "occhiello": "RISCHIO TUMORI PIÙ ALTO PER CHI NON SI È MAI SPOSATO",
+    "lead_preview": "Uno studio su 4,3 milioni di casi condotto dalla University of Southern California e pubblicato il 2026-04-10 sulla rivi",
+    "tags": [
+      "studio matrimoni e cancro",
+      "ricerca tumori usa",
+      "università del sud della california"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b059052adb91a16",
     "slug": "artemis-ii-6-lampi-sulla-luna-astronauti-vedono-im-9b059052adb91a16",
     "title": "Artemis II: 6 lampi sulla Luna, astronauti vedono impatti di Meteoriti in diretta",
@@ -450,23 +469,6 @@
       "cannes 2026",
       "film ia",
       "knobloch cinema"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b45772cf3b1fc92e",
-    "slug": "tumori-rischio-piu-alto-per-chi-non-si-e-mai-sposa-b45772cf3b1fc92e",
-    "title": "Tumori, rischio più alto per chi non si è mai sposato",
-    "section": "salute",
-    "priority": 6,
-    "journalist_firma": "Luca Tosi",
-    "published_at": "2026-04-10T02:33:05.101598+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2025/07/18/121614797-89a78fa7-6949-4e71-9ea5-668b6f332249.jpg",
-    "occhiello": "TUMORI, RISCHIO PIÙ ALTO PER CHI NON SI È MAI SPOSATO",
-    "lead_preview": "Uno studio statunitense su oltre 4 milioni di casi ha rilevato che gli adulti che non si sono mai sposati presentano un ",
-    "tags": [
-      "tumori e matrimonio"
     ],
     "hero_eligible": true
   },
