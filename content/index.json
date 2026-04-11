@@ -1,5 +1,24 @@
 [
   {
+    "id": "ab3e78718ec0c979",
+    "slug": "yen-giapponese-crolla-del-25-contro-il-dollaro-usa-ab3e78718ec0c979",
+    "title": "Yen giapponese perde il 2,5% sul dollaro in seduta Tokyo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-10T07:11:49.309375+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/c9a83df62dfdf733a62939c0db25fc25.jpg",
+    "occhiello": "YEN GIAPPONESE IN CRISI",
+    "lead_preview": "Lo yen giapponese si è svalutato del 2,5% sul dollaro, trascinando al ribasso la valuta nazionale. La Borsa di Tokyo ha ",
+    "tags": [
+      "yen giapponese",
+      "borsa tokyo",
+      "svalutazione valuta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e6523a2ee7dcc48d",
     "slug": "tennis-azzurre-contro-giappone-per-un-posto-alle-f-e6523a2ee7dcc48d",
     "title": "Tennis: Italia-Giappone a Velletri per il pass Finals, incasso di 47mila euro",
@@ -1405,25 +1424,6 @@
       "club del sole",
       "villaggio toscana",
       "easy camping village"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ab3e78718ec0c979",
-    "slug": "yen-giapponese-crolla-del-25-contro-il-dollaro-usa-ab3e78718ec0c979",
-    "title": "Yen giapponese crolla del 2,5% contro il dollaro USA",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T07:11:49.309375+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/c9a83df62dfdf733a62939c0db25fc25.jpg",
-    "occhiello": "LO YEN SI SVILUPPA SULL'DOLLARO",
-    "lead_preview": "Lo yen si svaluta sul dollaro, la Borsa di Tokyo chiude positiva. Il prezzo del giapponese è sceso del 2,5% rispetto al ",
-    "tags": [
-      "yen crollo",
-      "yen dollaro",
-      "borsa tokyo"
     ],
     "hero_eligible": true
   },
