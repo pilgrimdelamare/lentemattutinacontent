@@ -1,5 +1,24 @@
 [
   {
+    "id": "0449933915063bc4",
+    "slug": "10-petabyte-rubati-al-supercalcolatore-di-tianjin-0449933915063bc4",
+    "title": "Dieci petabyte di dati militari cinesi rubati al supercomputer Tianhe-1 di Tianjin",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-10T04:50:31.965918+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/cina-1200.jpg",
+    "occhiello": "",
+    "lead_preview": "Tianhe-1, il supercalcolatore di Tianjin, ha subito una violazione informatica tra febbraio e marzo 2026, con la sottraz",
+    "tags": [
+      "violazione tianhe-1",
+      "cyber attacco cina",
+      "dati militari cinesi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "19837c08a3d987c1",
     "slug": "calcio-roma-umilia-il-pisa-3-0-tripletta-di-malen-19837c08a3d987c1",
     "title": "Calcio: Donyell Malen segna 3 gol in 17 minuti, Roma-Pisa finisce 3-0",
@@ -1542,25 +1561,6 @@
       "migliaia interventi annullati cuba",
       "diaz-canel onu",
       "blackout sanitario cuba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0449933915063bc4",
-    "slug": "10-petabyte-rubati-al-supercalcolatore-di-tianjin-0449933915063bc4",
-    "title": "Dati di difesa nazionale sottratti da 10 petabyte",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-10T04:50:31.965918+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/09/cina-1200.jpg",
-    "occhiello": "10 PETABYTE RUBATI AL SUPERCALCOLATORE DI TIANJIN",
-    "lead_preview": "Dieci petabyte di dati sono stati sottratti nel corso degli ultimi mesi dal supercalcolatore di Tianjin, una delle quatt",
-    "tags": [
-      "dati rubati",
-      "cina cyber",
-      "supercalcolatore tianjin"
     ],
     "hero_eligible": true
   },
