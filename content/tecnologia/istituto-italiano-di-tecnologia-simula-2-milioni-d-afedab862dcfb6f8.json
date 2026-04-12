@@ -1,0 +1,59 @@
+{
+  "id": "afedab862dcfb6f8",
+  "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
+  "title": "Istituto Italiano di Tecnologia simula 2 milioni di atomi dello spliceosoma su supercomputer",
+  "titles": [
+    "Istituto Italiano di Tecnologia simula 2 milioni di atomi dello spliceosoma su supercomputer",
+    "La squadra di Martino decifra al computer il 'taglia e cuci' dell'RNA per curare malattie genetiche",
+    "Simulazione dettagliata dello spliceosoma apre a nuovi farmaci per malattie rare"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "TUTTI I SEGRETI DELLO SPLICEOSOMA",
+  "lead": "I ricercatori dell'Istituto Italiano di Tecnologia hanno \"filmato\" al computer le dinamiche dello spliceosoma, un processo chiave per lo sviluppo di farmaci contro malattie genetiche orfane di terapie. Hanno simulato due milioni di atomi al supercomputer, e i risultati sono su Pnas.",
+  "corpo1": "Un team dell'Istituto Italiano di Tecnologia, con l'Università di Uppsala e AstraZeneca, ha studiato lo spliceosoma, il complesso molecolare che esegue il taglia e cuci dell'RNA. Lo spliceosoma è il complesso meccanismo molecolare che si occupa di \"ripulire\" l'RNA dalle sequenze \"inutili\" noti come introni. Lo studio si è basato su simulazioni al supercomputer di due milioni di atomi, ricostruendo dinamicamente il processo. I risultati dello studio sono stati pubblicati sulla rivista Pnas da Gianfranco Martino, Jacopo Manigrasso, Giuseppina La Sala, Marco Marcia e Marco De Vivo.",
+  "corpo2": "La ricerca apre la strada a farmaci mirati contro malattie genetiche causate da errori nello splicing. Grazie alla simulazione di due milioni di atomi, ora si vede in tempo reale come lo spliceosoma taglia e cuce l'RNA. A giovarne potrebbero essere i pazienti con patologie genetiche oggi prive di cure. La comunità scientifica aveva a disposizione soltanto delle mappe tridimensionali estremamente dettagliate ma statiche dello spliceosoma, limitate a \"istantanee\" di specifiche fasi del processo. Ora, grazie a questo studio, i ricercatori possono studiare in modo dettagliato il meccanismo di \"taglia e cuci\" dell'RNA. Non ci sono più alibi: la strada per nuove terapie è ormai tracciata dai dati.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-12T04:43:49.104720+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Istituto Italiano di Tecnologia simula 2 milioni di atomi dello spliceosoma su supercomputer\",\n  \"description\": \"I ricercatori dell'Istituto Italiano di Tecnologia hanno \\\"filmato\\\" al computer le dinamiche dello spliceosoma, un processo chiave per lo sviluppo di farmaci contro malattie genetiche orfane di terapie. Hanno simulato due milioni di atomi al supercomputer, e i risultati sono su Pnas.\",\n  \"articleBody\": \"I ricercatori dell'Istituto Italiano di Tecnologia hanno \\\"filmato\\\" al computer le dinamiche dello spliceosoma, un processo chiave per lo sviluppo di farmaci contro malattie genetiche orfane di terapie. Hanno simulato due milioni di atomi al supercomputer, e i risultati sono su Pnas. Un team dell'Istituto Italiano di Tecnologia, con l'Università di Uppsala e AstraZeneca, ha studiato lo spliceosoma, il complesso molecolare che esegue il taglia e cuci dell'RNA. Lo spliceosoma è il complesso meccanismo molecolare che si occupa di \\\"ripulire\\\" l'RNA dalle sequenze \\\"inutili\\\" noti come introni. Lo studio si è basato su simulazioni al supercomputer di due milioni di atomi, ricostruendo dinamicamente il processo. I risultati dello studio sono stati pubblicati sulla rivista Pnas da Gianfranco Martino, Jacopo Manigrasso, Giuseppina La Sala, Marco Marcia e Marco De Vivo. La ricerca apre la strada a farmaci mirati contro malattie genetiche causate da errori nello splicing. Grazie alla simulazione di due milioni di atomi, ora si vede in tempo reale come lo spliceosoma taglia e cuce l'RNA. A giovarne potrebbero essere i pazienti con patologie genetiche oggi prive di cure. La comunità scientifica aveva a disposizione soltanto delle mappe tridimensionali estremamente dettagliate ma statiche dello spliceosoma, limitate a \\\"istantanee\\\" di specifiche fasi del processo. Ora, grazie a questo studio, i ricercatori possono studiare in modo dettagliato il meccanismo di \\\"taglia e cuci\\\" dell'RNA. Non ci sono più alibi: la strada per nuove terapie è ormai tracciata dai dati.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-12T04:43:49.104720+00:00\",\n  \"dateModified\": \"2026-04-12T04:43:49.104720+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/afedab862dcfb6f8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/afedab862dcfb6f8\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/tutti-segreti-spliceosoma-complesso-dinamico-taglia-e-cuci-rna-iit-supercomputer-franklin/",
+  "related": [
+    {
+      "title": "Neonato Lystrosaurus ritrovato in Sudafrica, fossile di 250 milioni di anni fa",
+      "url": "/tecnologia/un-piccolo-di-lystrosaurus-risalente-a-circa-250-m-11d6f646f32b2c83",
+      "id": "11d6f646f32b2c83",
+      "image_url": "https://media-assets.wired.it/photos/69d8f0c6f81a13e6d03c126c/16:9/w_1280,c_limit/Low-Res_Lystro%20egg%20color%20final%20.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fonte di risorse finta: 37 milioni di visualizzazioni in un giorno",
+      "url": "/tecnologia/il-loro-utilizzo-di-umorismo-e-intelligenza-artifi-157c611f05cb4b73",
+      "id": "157c611f05cb4b73",
+      "image_url": "https://media-assets.wired.it/photos/69d8cc40eaa39e4e37ace043/16:9/w_1280,c_limit/GettyImages-825967636.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
