@@ -1,5 +1,20 @@
 [
   {
+    "id": "9d6b9cc6e7ee6958",
+    "slug": "atletica-yeman-crippa-vince-la-maratona-di-parigi-9d6b9cc6e7ee6958",
+    "title": "Yeman crippa vincitore storico a parigi con 2h05:18",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-12T09:22:45.220021+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/9/94c1e4cc01333a79731b71674001b518.jpg",
+    "occhiello": "YEMAN CRIPPA VINCITORE STORICO A PARIGI CON 2H05:18",
+    "lead_preview": "Yeman Crippa, 33 anni, ha vinto la maratona di Parigi con un tempo di 2h05:18, il 12 aprile 2026. La prestazione del mez",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1ef70d87f1c24ffd",
     "slug": "lisa-kudrow-10-giorni-dopo-il-parto-era-gia-in-riu-1ef70d87f1c24ffd",
     "title": "Lisa Kudrow tornò al lavoro 10 giorni dopo il parto per una riunione su Terapia e pallottolle",
@@ -631,24 +646,6 @@
       "stretto di hormuz",
       "kamala harris",
       "raisiraisi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9d6b9cc6e7ee6958",
-    "slug": "atletica-yeman-crippa-vince-la-maratona-di-parigi-9d6b9cc6e7ee6958",
-    "title": "Atletica: Yeman Crippa vince la maratona di Parigi con un tempo storico!",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-12T09:22:45.220021+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/9/94c1e4cc01333a79731b71674001b518.jpg",
-    "occhiello": "YEMAN CRIPAVINCE LA MARATONA DI PARIGI",
-    "lead_preview": "Yeman Crippa, 33 anni, ha vinto la maratona di Parigi con un tempo di 2h05:18, una prestazione che lo consacra tra i mig",
-    "tags": [
-      "maratona parigi",
-      "yeman crippa"
     ],
     "hero_eligible": true
   },
