@@ -1,5 +1,23 @@
 [
   {
+    "id": "45c4ac61b15d12b2",
+    "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
+    "title": "Drone russo, 2 morti a Odessa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-11T04:45:03.498514+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/18ebbf181cf8827d9922ed5bf230ffd1.jpg",
+    "occhiello": "DRONE IRANIANO COLPISCE ODESSA DURANTE VOTO",
+    "lead_preview": "Odessa, 11 aprile 2026. Un drone iraniano di fabbricazione Russa ha ucciso due persone e ferito altri 16 nella città por",
+    "tags": [
+      "drone iraniano",
+      "attacco odessa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cb7f66907b4858b9",
     "slug": "avvocato-verso-eredita-per-causa-di-27-anni-cb7f66907b4858b9",
     "title": "Figlio morto nel '98, padre vince maxi-risarcimento: 1,7 mln a Brozzo dopo 28 anni",
@@ -640,25 +658,6 @@
       "alfiere del tricolore",
       "gabriele esposito",
       "tor bella monaca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "45c4ac61b15d12b2",
-    "slug": "doppio-omicidio-a-odessa-russia-si-copre-le-spalle-45c4ac61b15d12b2",
-    "title": "Due morti a Odessa per drone iraniano durante le elezioni locali",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-11T04:45:03.498514+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/18ebbf181cf8827d9922ed5bf230ffd1.jpg",
-    "occhiello": "MORTE DURANTE LE ELEZIONI A ODESSA",
-    "lead_preview": "Odessa, 11 aprile 2026. Due persone sono state uccise in un attacco russo sulla città portuale Ucraina mentre si svolgev",
-    "tags": [
-      "attacco odessa",
-      "elezioni ucraina 2026",
-      "drone iraniano ucraina"
     ],
     "hero_eligible": true
   },
