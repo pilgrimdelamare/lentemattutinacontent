@@ -1,5 +1,24 @@
 [
   {
+    "id": "63b4dc36ec9fe4a9",
+    "slug": "michele-moretti-47-anni-ucciso-a-pugni-e-colpi-in-63b4dc36ec9fe4a9",
+    "title": "Michele Moretti, 47 anni, ucciso a pugni e colpi in pieno centro a Massa Carrara",
+    "section": "cronaca",
+    "priority": 8,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-12T07:33:15.138938+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/43791af005c95e2c538f6eda83d7166b.jpg",
+    "occhiello": "",
+    "lead_preview": "Michele Moretti, 47 anni, è morto la sera del 11 aprile 2026 a Massa Carrara dopo essere è stato aggredito da un gruppo ",
+    "tags": [
+      "omicidio massa carrara",
+      "aggressione moretti",
+      "morte michele moretti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "00bd5cffb450d52e",
     "slug": "basket-lebron-guida-i-lakers-al-101-73-sui-suns-co-00bd5cffb450d52e",
     "title": "Basket: Lakers travolgono Suns 101-73, record stagionale di scarto contro Phoenix",
@@ -9217,25 +9236,6 @@
     "occhiello": "LA MUSICA SALVA LA VITA DI ANDREA BOCELLI",
     "lead_preview": "Andrea Bocelli, il famoso tenore italiano, racconta come la Musica gli ha salvato la vita quando era bambino. Egli è nat",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1df83ee63a60f691",
-    "slug": "netanyahu-critica-la-corte-suprema-israele-1df83ee63a60f691",
-    "title": "Netanyahu attacca la Corte dopo il via libera a manifestazione anti-governativa a Tel Aviv",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-05T18:32:50.720545+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55188561907_b85f99e4aa_b.jpg",
-    "occhiello": "IL PREMIER ATTACCA I GIUDICI",
-    "lead_preview": "Benjamin Netanyahu ha accusato la Corte Suprema israeliana di \"interferenza politica\" il 5 aprile dopo che il tribunale ",
-    "tags": [
-      "netanyahu",
-      "israele",
-      "corte suprema"
-    ],
     "hero_eligible": true
   }
 ]
