@@ -1,5 +1,23 @@
 [
   {
+    "id": "f8e2bcc59c0dc126",
+    "slug": "tre-morti-e-un-grave-in-scontro-tra-camion-e-auto-f8e2bcc59c0dc126",
+    "title": "Tre morti e un grave in scontro tra camion e auto a Modena",
+    "section": "salute",
+    "priority": 6,
+    "journalist_firma": "Francesca Nardi",
+    "published_at": "2026-04-12T07:17:27.328719+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/12/5665e403d9d915153dac0c77065ec7ea.jpg",
+    "occhiello": "",
+    "lead_preview": "Modena, 12 aprile 2026: tre persone sono morte nello scontro tra un autocarro e un’automobile avvenuto nella periferia s",
+    "tags": [
+      "scontro modena",
+      "incidente stradale modena"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5bb051475cf50ddb",
     "slug": "udine-farina-da-legumi-fuori-mercato-270mila-euro-5bb051475cf50ddb",
     "title": "Università di Udine: 270mila euro per ridurre sprechi alimentari con farine sostenibili",
@@ -9208,25 +9226,6 @@
     "lead_preview": "Daniele Adani, ex allenatore della Serie A, ha risposto alle critiche di Gigi Cagni, ex difensore e telecronista Rai, ch",
     "tags": [
       "calcio adani cagni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5e4fb0b0bc485d37",
-    "slug": "crosetto-parla-7-minuti-alla-camera-sulle-basi-usa-5e4fb0b0bc485d37",
-    "title": "Crosetto parla 7 minuti alla Camera sulle basi Usa, niente informativa al Senato",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-06T13:29:26.818971+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/1/9ac90e23b08da1d135ffb4b75dc34c5e.jpg",
-    "occhiello": "",
-    "lead_preview": "Giulio Terzi ha parlato per sette minuti alla Camera nell’ambito della discussione sull’informativa del ministro della D",
-    "tags": [
-      "basi usa in italia",
-      "crosetto informativa",
-      "terzi intervento camera"
     ],
     "hero_eligible": true
   }
