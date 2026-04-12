@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260412",
+    "slug": "libro-del-giorno-le-figlie-del-pittoredi-emily-howes-20260412",
+    "title": "Il libro del giorno: «Le figlie del pittoredi Emily Howes»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo d’esordio che esplora la vita delle figlie del pittore settecentesco Thomas Gainsborough attraverso le lenti ",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-12T14:27:26.504801+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/71mzm8pxrnl__sl1500_-18efd.jpg?1775687941",
+      "alt": "Copertina: Le figlie del pittoredi Emily Howes",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/71mzm8pxrnl__sl1500_-18efd.jpg?1775687941",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "b60ae34638ee34e9",
     "slug": "antony-iannarilli-il-portiere-che-ha-segnato-al-95-b60ae34638ee34e9",
     "title": "Calcio: Iannarilli, portiere del Catanzaro, segna al 95' contro il Bari ma il gol è dato come autogol",
@@ -9217,25 +9236,6 @@
     "tags": [
       "libro eugenio",
       "eugenio band"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3b72684e76311c1a",
-    "slug": "anna-bisogno-tv-espansa-la-rivoluzione-dellintelli-3b72684e76311c1a",
-    "title": "Anna Bisogno presenta a Milano la nuova mappa della tv Italiana oltre lo schermo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:53:25.585484+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/6/b8bfd9d07ccdff2fd8f4f65053067773.jpg",
-    "occhiello": "",
-    "lead_preview": "Anna Bisogno, studiosa di medIA e autrice del libro \"Tv espansa\", ha presentato a milano una nuova mappa della televisio",
-    "tags": [
-      "mappa tv italiana",
-      "anna bisogno",
-      "tv espansa"
     ],
     "hero_eligible": true
   }
