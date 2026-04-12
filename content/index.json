@@ -1,5 +1,23 @@
 [
   {
+    "id": "9d6b9cc6e7ee6958",
+    "slug": "atletica-yeman-crippa-vince-la-maratona-di-parigi-9d6b9cc6e7ee6958",
+    "title": "Atletica: Yeman Crippa vince la maratona di Parigi con un tempo storico!",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-12T09:22:45.220021+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/9/94c1e4cc01333a79731b71674001b518.jpg",
+    "occhiello": "YEMAN CRIPAVINCE LA MARATONA DI PARIGI",
+    "lead_preview": "Yeman Crippa, 33 anni, ha vinto la maratona di Parigi con un tempo di 2h05:18, una prestazione che lo consacra tra i mig",
+    "tags": [
+      "maratona parigi",
+      "yeman crippa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e29ad80005bceb4c",
     "slug": "fondi-assegnati-alla-commissione-antimafia-scompar-e29ad80005bceb4c",
     "title": "Fondi assegnati alla Commissione Antimafia scomparsi dopo il voto",
@@ -9255,25 +9273,6 @@
       "transizione energetica colombia",
       "piano solare colombia",
       "ministro palma energia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "47a587e90285890a",
-    "slug": "emilio-isgro-riceve-il-premio-cultura-del-mediterr-47a587e90285890a",
-    "title": "Emilio Isgrò riceve il Premio Cultura del Mediterraneo a Porto Cervo il 18 aprile",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-07T22:44:21.775172+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/27/385743d659259d22c0cb3f1734d2ba23.jpg",
-    "occhiello": "EMILIO ISGRÒ RICEVE IL PREMIO CULTURA DEL MEDITERRANEO",
-    "lead_preview": "Emilio Isgrò riceverà il Premio Cultura del Mediterraneo a Porto Cervo il 18 aprile. La cerimonia si terrà a Porto Cervo",
-    "tags": [
-      "premio cultura mediterraneo",
-      "emilio isgrò",
-      "porto cervo"
     ],
     "hero_eligible": true
   }
