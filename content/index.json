@@ -1,5 +1,22 @@
 [
   {
+    "id": "9d6b9cc6e7ee6958",
+    "slug": "atletica-yeman-crippa-vince-la-maratona-di-parigi-9d6b9cc6e7ee6958",
+    "title": "Atletica: Yeman Crippa vince la maratona di Parigi in 2h05:18",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-12T09:22:45.220021+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/9/94c1e4cc01333a79731b71674001b518.jpg",
+    "occhiello": "YEMAN CRIPPA VINCE LA MARATONA DI PARIGI",
+    "lead_preview": "Parigi, 12 aprile. Yeman Crippa, 33 anni, ha vinto la maratona di Parigi con un tempo di 2h05:18.",
+    "tags": [
+      "maratona parigi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0ffd8721ec567f8b",
     "slug": "golf-rory-mcilroy-vince-il-masters-con-276-colpi-e-0ffd8721ec567f8b",
     "title": "Golf: Rory McIlroy vince il Masters con 276 colpi e conquista la seconda giacca verde",
@@ -799,21 +816,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/216a6c46b238af799b02344d1051d593.jpg",
     "occhiello": "",
     "lead_preview": "Il Vicepresidente americano Kamala Harris ha incontrato il Vicepresidente iraniano Ebrahim Raisi a Islamabad il 12 april",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9d6b9cc6e7ee6958",
-    "slug": "atletica-yeman-crippa-vince-la-maratona-di-parigi-9d6b9cc6e7ee6958",
-    "title": "Yeman crippa vincitore storico a parigi con 2h05:18",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-12T09:22:45.220021+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/9/94c1e4cc01333a79731b71674001b518.jpg",
-    "occhiello": "YEMAN CRIPPA VINCITORE STORICO A PARIGI CON 2H05:18",
-    "lead_preview": "Yeman Crippa, 33 anni, ha vinto la maratona di Parigi con un tempo di 2h05:18, il 12 aprile 2026. La prestazione del mez",
     "tags": [],
     "hero_eligible": true
   },
