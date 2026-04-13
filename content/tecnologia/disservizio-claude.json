@@ -1,27 +1,24 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 53 minuti di interruzione.",
+  "title": "Claude tornato online, ma per quanto tempo?",
   "titles": [
-    "Claude è tornato online dopo 53 minuti di interruzione.",
-    "Claude è tornato online dopo 53 minuti di interruzione.",
-    "Claude è tornato online dopo 53 minuti di interruzione."
+    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
+    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
+    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIPRISTINATO DOPO DISSERVIZIO",
-  "lead": "Claude è tornato online dopo 53 minuti di interruzione.",
-  "corpo1": "Il sistema Claude ha ripreso a funzionare dopo un periodo di disservizio durato 53 minuti. L'interruzione è iniziata alle ore non specificate e si è conclusa con il ripristino del servizio. La causa del problema non è stata resa pubblica. Il sistema è ora pienamente operativo e in funzione. La Lente Mattutina conferma che il problema è stato risolto e che Claude è tornato online.",
-  "corpo2": "",
+  "occhiello": "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
+  "lead": "Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli.",
+  "corpo1": "La notizia è stata accolta con sollievo dalle comunità che utilizzano Claude per la ricerca di informazioni o la generazione di contenuti. Anthropic ha rassicurato i clienti che la piattaforma è ora funzionante regolarmente, ma non ha fornito informazioni sulla causa dell'interruzione. Claude è Stato sviluppato per aiutare le persone a comprendere e generare testi in modo più efficiente, ma la sua dipendenza da internet ha causato problemi in passato. Nel 2022, la piattaforma è stata colpita da un attacco di ransomware che ha bloccato l'accesso a gran parte dei dati.",
+  "corpo2": "La dipendenza di Claude da servizi di internet centralizzati è una delle principali critiche rivolte all'azienda. La piattaforma è progettata per essere accessibile da qualsiasi parte del mondo, ma questo significa che è vulnerabile a interruzioni di servizio causate da problemi tecnici o attacchi informatici. In precedenza, Anthropic ha promesso di migliorare la resilienza di Claude, ma non è chiaro se si sia trattato di una misura sufficiente per prevenire interruzioni simili. La domanda è se Claude sia pronto per la scalabilità e la Sicurezza richieste per essere considerato una piattaforma affidabile. Per quanto tempo Claude resterà online è ancora incerto.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-13T16:38:05.915330+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?\",\n  \"description\": \"Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli.\",\n  \"articleBody\": \"Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli. La notizia è stata accolta con sollievo dalle comunità che utilizzano Claude per la ricerca di informazioni o la generazione di contenuti. Anthropic ha rassicurato i clienti che la piattaforma è ora funzionante regolarmente, ma non ha fornito informazioni sulla causa dell'interruzione. Claude è Stato sviluppato per aiutare le persone a comprendere e generare testi in modo più efficiente, ma la sua dipendenza da internet ha causato problemi in passato. Nel 2022, la piattaforma è stata colpita da un attacco di ransomware che ha bloccato l'accesso a gran parte dei dati. La dipendenza di Claude da servizi di internet centralizzati è una delle principali critiche rivolte all'azienda. La piattaforma è progettata per essere accessibile da qualsiasi parte del mondo, ma questo significa che è vulnerabile a interruzioni di servizio causate da problemi tecnici o attacchi informatici. In precedenza, Anthropic ha promesso di migliorare la resilienza di Claude, ma non è chiaro se si sia trattato di una misura sufficiente per prevenire interruzioni simili. La domanda è se Claude sia pronto per la scalabilità e la Sicurezza richieste per essere considerato una piattaforma affidabile. Per quanto tempo Claude resterà online è ancora incerto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"dateModified\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Apple Watch ricarica veloce: con cavo da 20W tempo dimezzato, rivela guida Wired",
+      "url": "/tecnologia/apple-watch-series-7-e-oltre-in-45-minuti-l80-di-c-c09689a5f41ae27b",
+      "id": "c09689a5f41ae27b",
+      "image_url": "https://media-assets.wired.it/photos/69ccf5704ab402d575d1a05d/16:9/w_1280,c_limit/ricarica%20watch%20magsafe.jpg",
       "image_type": "image"
     },
     {
-      "title": "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Italia terza in Europa per consumo di plastica, importa 1,5 milioni di tonnellate",
+      "url": "/tecnologia/italia-terza-in-europa-per-consumo-di-plastica-dip-b287121f0651e90d",
+      "id": "b287121f0651e90d",
+      "image_url": "https://media-assets.wired.it/photos/69d8fc7e3ac672974ebc19e3/16:9/w_1280,c_limit/1218419348",
       "image_type": "image"
     },
     {
-      "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Planet Labs sospende le immagini satellitari in Italia per ordine degli Usa",
+      "url": "/tecnologia/planet-labs-sospende-tutte-le-immagini-satellitari-76fe7347171bd5d2",
+      "id": "76fe7347171bd5d2",
+      "image_url": "https://media-assets.wired.it/photos/69d8c1418bb65c4d419f8f94/16:9/w_1280,c_limit/5963151105535447206.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-13T16:38:05.915330+00:00"
 }
