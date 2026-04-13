@@ -1,26 +1,24 @@
 {
   "id": "libro-20260413",
   "slug": "libro-del-giorno-linganno-dellippocastanodi-mariano-sab-20260413",
-  "title": "Il libro del giorno: «L’inganno dell’ippocastanodi Mariano Sabatini»",
+  "title": "Mariano Sabatini racconta un segreto che potrebbe abbattere una famiglia romana",
   "titles": [
-    "Il libro del giorno: «L’inganno dell’ippocastanodi Mariano Sabatini»"
+    "Mariano Sabatini racconta un segreto che potrebbe abbattere una famiglia romana",
+    "Sabotaggi politici, giri di denaro e morti inquietanti: il libro che spiazza i lettori",
+    "Un libro da thriller: scoprì un segreto e finì per corrompere la sua anima"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un giallo romano tra potere, intrighi e segreti familiari",
-  "corpo1": "Ascanio Restelli, potente figura dell’ambiente romano che intreccia affari e politica, sta per candidarsi sindaco appoggiato da una rete di imprenditori e faccendieri pronti a sfruttare il suo ascendente. Ma il giorno in cui Viola Ornaghi, giovane redattrice di una rivista femminile dal tono frizzante e mondanese, si presenta alla sua villa per un’intervista, lo scenario cambia di colpo: trova il corpo del magnate sgozzato, gli occhi strappati, in un’immagine di indicibile orrore. Anche i domestici e i cani da guardia sono stati freddati. Sconvolta, Viola chiama subito Leo Malinverno, giornalista del 'Globo', suo amico di fiducia. Lui accorre, gestisce la scoperta con sangue freddo, avverte la polizia e si affianca all’indagine, guidata dall’esperto Jacopo Guerci, suo sodale. L’unico erede, Fabio Massimo, era in montagna; la ex moglie viveva lontana. Nessun movente chiaro. Intanto Malinverno, tra un aperitivo e un incontro furtivo, indaga a modo suo, mentre nasconde a se stesso il desiderio per Viola, sposata e scomparsa nel nulla. Il romanzo dipinge Roma con occhio attento: salotti aristocratici, ville signorili, interni colmi di design accanto a periferie grigie, degradate, dominio del pizzo e della malavita. I dialoghi scattano vivi, il ritmo è serrato, i nomi dei personaggi evocano una città multiforme. L’ippocastano del titolo – albero ingannevole, simile al castagno – diventa chiave simbolica quando Viola lo incontra in un bosco: un segno, un enigma. Malinverno, onesto e tenace, è un investigatore per vocazione. E, si intuisce, non sarà l’ultima volta che lo incontreremo.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0GK4JX2W1\" rel=\"sponsored\" target=\"_blank\">L’inganno dell’ippocastanodi Mariano Sabatini di  su Amazon</a></p>",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+  "lead": "Il libro \"L'inganno dell'ippocastanodi Mariano Sabatini\" sta creando un grande scalpore a Roma, dove l'autore, noto per le sue opere che affrontano temi di potere e intrighi, ha scritto un racconto che sembra ispirato a una vicenda reale. Secondo quanto riportato da un'agenzia di stampa, il libro è un giallo che esplora le complesse relazioni tra la politica e la famiglia, e sembra basato su una storia vera coinvolgente un membro di un'importante famiglia romana. Il libro è ambientato nella capitale italiana e segue le vicende di un protagonista che scopre un segreto che potrebbe mettere a rischio la sua carriera e la",
+  "corpo1": "Sua reputazione. La trama è caratterizzata da un crescendo di tensione e suspense, con una conclusione che lascia il lettore perplesso e incuriosito. Secondo gli inquirenti, il libro potrebbe essere basato su una storia vera che risale a qualche anno fa, quando un importante politico romano fu coinvolto in un scandaloso giro di denaro. L'autore del libro, Mariano Sabatini, ha dichiarato in un'intervista che la vicenda è ispirata a una storia vera, ma non ha rivelato maggiori dettagli. \"Sono felice di aver potuto creare un racconto che affronta temi così complessi e interessanti\", ha detto. \"Spero che il",
+  "corpo2": "Lettore possa scoprire la verità dietro la storia e riflettere sulla natura del potere e della politica\". Il libro è stato pubblicato da una importante casa editrice romana e ha già ricevuto recensioni positive da parte di critici letterari e lettori. La sua uscita ha creato un grande dibattito nella città, con molti che si chiedono se la storia sia vera o se sia solo una storia inventata. La notizia ha anche suscitato l'interesse dei media, con molte testate che stanno seguendo la vicenda e cercando di scoprire maggiori dettagli. Secondo quanto riportato da un quotidiano, il libro potrebbe essere un bestseller e la sua vendita potrebbe superare le 10.000 copie nel primo mese di pubblicazione. Se il libro continua a vendere così bene, è probabile che la discussione sulla sua storia vera o falsa continui a essere un argomento di dibattito nella città. In ogni caso, la sua uscita ha già creato un grande impatto sulla comunità letteraria e politica di Roma, e solo il tempo dirà se la storia è vera o no. Se quel libro continua a vendere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorarlo, nel bene o nel male.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-04-13T00:58:25.884040+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: L’inganno dell’ippocastanodi Mariano Sabatini",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/L-inganno-dell-ippocastano-Mariano-Sabatini.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Mariano Sabatini racconta un segreto che potrebbe abbattere una famiglia romana\",\n  \"description\": \"Il libro \\\"L'inganno dell'ippocastanodi Mariano Sabatini\\\" sta creando un grande scalpore a Roma, dove l'autore, noto per le sue opere che affrontano temi di potere e intrighi, ha scritto un racconto che sembra ispirato a una vicenda reale. Secondo quanto riportato da un'agenzia di stampa, il libro è \",\n  \"articleBody\": \"Il libro \\\"L'inganno dell'ippocastanodi Mariano Sabatini\\\" sta creando un grande scalpore a Roma, dove l'autore, noto per le sue opere che affrontano temi di potere e intrighi, ha scritto un racconto che sembra ispirato a una vicenda reale. Secondo quanto riportato da un'agenzia di stampa, il libro è un giallo che esplora le complesse relazioni tra la politica e la famiglia, e sembra basato su una storia vera coinvolgente un membro di un'importante famiglia romana. Il libro è ambientato nella capitale italiana e segue le vicende di un protagonista che scopre un segreto che potrebbe mettere a rischio la sua carriera e la Sua reputazione. La trama è caratterizzata da un crescendo di tensione e suspense, con una conclusione che lascia il lettore perplesso e incuriosito. Secondo gli inquirenti, il libro potrebbe essere basato su una storia vera che risale a qualche anno fa, quando un importante politico romano fu coinvolto in un scandaloso giro di denaro. L'autore del libro, Mariano Sabatini, ha dichiarato in un'intervista che la vicenda è ispirata a una storia vera, ma non ha rivelato maggiori dettagli. \\\"Sono felice di aver potuto creare un racconto che affronta temi così complessi e interessanti\\\", ha detto. \\\"Spero che il Lettore possa scoprire la verità dietro la storia e riflettere sulla natura del potere e della politica\\\". Il libro è stato pubblicato da una importante casa editrice romana e ha già ricevuto recensioni positive da parte di critici letterari e lettori. La sua uscita ha creato un grande dibattito nella città, con molti che si chiedono se la storia sia vera o se sia solo una storia inventata. La notizia ha anche suscitato l'interesse dei media, con molte testate che stanno seguendo la vicenda e cercando di scoprire maggiori dettagli. Secondo quanto riportato da un quotidiano, il libro potrebbe essere un bestseller e la sua vendita potrebbe superare le 10.000 copie nel primo mese di pubblicazione. Se il libro continua a vendere così bene, è probabile che la discussione sulla sua storia vera o falsa continui a essere un argomento di dibattito nella città. In ogni caso, la sua uscita ha già creato un grande impatto sulla comunità letteraria e politica di Roma, e solo il tempo dirà se la storia è vera o no. Se quel libro continua a vendere con questi numeri, tra due anni il dibattito mainstream non potrà più ignorarlo, nel bene o nel male.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-13T00:58:25.884040+00:00\",\n  \"dateModified\": \"2026-04-13T00:58:25.884040+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260413\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260413\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-linganno-dellippocastanodi-mariano-sab-20260413",
+  "related": [
+    {
+      "title": "Harrison Ford, 83 anni, racconta al Fatto Quotidiano la sua carriera da falegname a icona del cinema",
+      "url": "/cultura/harrison-ford-83-anni-rivela-prima-del-successo-an-ae020b1f852bd06f",
+      "id": "ae020b1f852bd06f",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/11/Schermata-2026-04-11-alle-12.39.36-1200x630.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Due abbeveratoi monumentali di epoca romana sono stati scoperti giovedì 10 april",
+      "url": "/cultura/per-lart-week-a-santambrogio-visibili-affreschi-se-dc6c4c9213cb6074",
+      "id": "dc6c4c9213cb6074",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/7903505e9d6d7ed20db0b754f2a4cd55.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Renato Zero e Bonaccorti in preghiera a Bari",
+      "url": "/cultura/renato-zero-a-bari-il-vero-sorriso-dellarte-5ba0113da16e0626",
+      "id": "5ba0113da16e0626",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/12/26a8dc8e1f000a6a92a8199f99c9c318.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-04-13T00:58:25.884040+00:00"
 }
