@@ -1,5 +1,24 @@
 [
   {
+    "id": "afedab862dcfb6f8",
+    "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
+    "title": "I Ricercatori Italiani dell'IIT Simulano lo Spliceosoma su Supercomputer",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-12T04:43:49.104720+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
+    "occhiello": "RICERCATORI ITALIANI SIMULANO LO SPLICEOSOMA SU SUPERCOMPUTER",
+    "lead_preview": "Roma, 12 aprile. L'Istituto Italiano di Tecnologia (IIT) ha simulato l'intero spliceosoma su supercomputer Leonardo a Bo",
+    "tags": [
+      "ricerca italiana",
+      "supercomputer",
+      "spliceosoma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5164d152f9ab0c9f",
     "slug": "vance-lascia-islamabad-senza-accordo-sullatomo-ira-5164d152f9ab0c9f",
     "title": "Vance lascia Islamabad: nessun accordo sul nucleare con la delegazione iraniana",
@@ -2093,25 +2112,6 @@
       "ritrovamento tela schifano",
       "carcere frosinone",
       "mario schifano 1966"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "afedab862dcfb6f8",
-    "slug": "istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
-    "title": "Ricercatori italiani simulano lo spliceosoma su supercomputer: 2 milioni di atomi in 200 nanosecondi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-12T04:43:49.104720+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
-    "occhiello": "2 MILIONI DI ATOMI FILMATI IN 3D",
-    "lead_preview": "L'Istituto Italiano di Tecnologia ha simulato l'intero spliceosoma, 2 milioni di atomi, sul supercomputer Leonardo a Bol",
-    "tags": [
-      "ricerca italiana",
-      "supercomputer leonardo",
-      "istituto italiano tecnologia"
     ],
     "hero_eligible": true
   },
