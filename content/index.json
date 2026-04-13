@@ -1,5 +1,24 @@
 [
   {
+    "id": "30dd51a2a5631048",
+    "slug": "telescopio-presentato-allamerican-academy-di-roma-30dd51a2a5631048",
+    "title": "Telescopio presentato all'American Academy di Roma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-13T15:15:45.762928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/503990fd698add4ffdcd0f452b5e78aa.jpg",
+    "occhiello": "LA PRIMAVERA DELL'AMERICAN ACADEMY DI ROMA È APERTA",
+    "lead_preview": "Roma, 13 aprile. La Galileo Week si è chiusa con un evento importante: la presentazione del telescopio alla sede dell'Am",
+    "tags": [
+      "galileo week",
+      "american academy roma",
+      "telescopio roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5e11c009d1f9baf3",
     "slug": "la-ricerca-dei-fondi-per-il-nuovo-scalo-5e11c009d1f9baf3",
     "title": "Fondi scomparsi per il nuovo scalo",
@@ -9140,25 +9159,6 @@
       "fincantieri assunzioni 2026",
       "lavoro cantieri navali",
       "giovani stem its"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ab89f5aa1d715de",
-    "slug": "ristorante-informato-sofia-muore-lo-stesso-9ab89f5aa1d715de",
-    "title": "Sofia Di Vico, 15 anni, morta a Fregene per un dolce con noci non dichiarato",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-08T08:00:41.691405+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/08/sofia-di-vico-2-1200x630.jpg",
-    "occhiello": "MORTA DOPO ORDINAZIONE SENZA ALLERGENI",
-    "lead_preview": "Sofia Di Vico, 15 anni, è morta l’8 aprile 2026 sul litorale Romano per shock anafilattico dopo aver consumato un piatto",
-    "tags": [
-      "morte soffia di vico",
-      "allergia noci fregene",
-      "ristorante la pineta"
     ],
     "hero_eligible": true
   }
