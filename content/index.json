@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 53 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-13T16:38:05.915330+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SISTEMA RIPRISTINATO DOPO DISSERVIZIO",
+    "lead_preview": "Claude è tornato online dopo 53 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "115e5d228d364692",
     "slug": "intesa-sanpaolo-e-ansa-presentano-il-rapporto-coll-115e5d228d364692",
     "title": "Intesa Sanpaolo e ANSA presentano il rapporto su collezionisti d'arte in Italia",
@@ -35,25 +54,6 @@
       "guerra medio oriente"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-13T16:21:17.620765+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IN DOWN",
-    "lead_preview": "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "8e531db3261af48d",
