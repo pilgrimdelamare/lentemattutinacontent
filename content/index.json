@@ -1,5 +1,24 @@
 [
   {
+    "id": "f10a33a9babdb9f2",
+    "slug": "rumiati-sissa-pubblica-studio-meno-del-10-dei-cerv-f10a33a9babdb9f2",
+    "title": "Rumiati: 90% dei cervelli non è né maschile né femminile",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-13T04:27:40.617841+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69c405c53e8c11a879012478/16:9/w_1280,c_limit/1179978466",
+    "occhiello": "IL CERVELLO NON È BINARIO",
+    "lead_preview": "Trieste, 13 aprile. Raffaella Rumiati, neuroscienziata della SISSA, pubblica uno studio che sfonda il mito del cervello ",
+    "tags": [
+      "cervello non binario",
+      "raffaella rumiati",
+      "sissa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5efa0ecb5746144f",
     "slug": "atalanta-u23-ha-battuto-monopoli-2-0-domenica-12-a-5efa0ecb5746144f",
     "title": "Calcio: Atalanta Under 23 batte Monopoli a reti chiuse, ma debiti da 200.000 euro non pagati",
@@ -863,25 +882,6 @@
     "tags": [
       "casertana",
       "audace cerignola"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f10a33a9babdb9f2",
-    "slug": "rumiati-sissa-pubblica-studio-meno-del-10-dei-cerv-f10a33a9babdb9f2",
-    "title": "Rumiati (SISSA) pubblica studio: meno del 10% dei cervelli è totalmente 'maschile' o 'femminile'",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-13T04:27:40.617841+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69c405c53e8c11a879012478/16:9/w_1280,c_limit/1179978466",
-    "occhiello": "NEUROSCIENZA CONFUTA IL CERVELLO ROSA",
-    "lead_preview": "Trieste, 13 aprile. Raffaella Ida Rumiati, professoressa di neuroscienze cognitive alla Scuola Internazionale Superiore ",
-    "tags": [
-      "studio rumiati",
-      "cervello maschile femminile",
-      "neuroscienze sissa"
     ],
     "hero_eligible": true
   },
