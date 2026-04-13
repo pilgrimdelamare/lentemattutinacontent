@@ -1,41 +1,22 @@
 [
   {
-    "id": "4bc7493e0149c477",
-    "slug": "fabrizio-moro-confessa-autodistruzione-durante-can-4bc7493e0149c477",
-    "title": "Fabrizio Moro: 'Ho smesso di autodistruggermi per paura della morte'",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-12T08:36:12.090171+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/12/Schermata-2026-04-12-alle-10.22.15.png",
-    "occhiello": "LA RASSEGNA DELLA SETTIMANA: CANZONISSIMA TRASFONDA UN GIOVANE CANTANTE.",
-    "lead_preview": "LA RASSEGNA DELLA SETTIMANA: CANZONISSIMA TRASFONDA UN GIOVANE CANTANTE. Il cantautore italiano Fabrizio Moro ha raccont",
-    "tags": [
-      "fabrizio moro",
-      "canzonissima",
-      "autodistruzione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a614814cc98b5925",
-    "slug": "milano-salvini-attacca-la-buscemi-il-duce-a614814cc98b5925",
-    "title": "Milano, Salvini attacca la Buscemi: \"il Duce\"",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-13T06:58:02.084153+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/04/13/084449811-aa4f4c5c-07b0-4253-b836-7f0b3345a08f.jpg",
-    "occhiello": "SALVINI ATTACCA IL PD: \"RADUNO CONTRO LA REMIGRATION È FASCISTA\"",
-    "lead_preview": "Milano, 13 aprile 2026",
-    "tags": [
-      "salvini-buscemi",
-      "raduno-antiremigrazione",
-      "processo-fascismo"
-    ],
-    "hero_eligible": true
+    "id": "libro-20260413",
+    "slug": "libro-del-giorno-il-mantello-dinvernodi-elizabeth-chadw-20260413",
+    "title": "Il libro del giorno: «Il mantello d’invernodi Elizabeth Chadwick»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico che ci riporta con grande maestria all'epoca medievale, ambientato nel ducato di Normandia durante la",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-13T07:00:40.521210+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L210xH312/il_mantello_d_inverno-906c0.jpg?1775783756",
+      "alt": "Copertina: Il mantello d’invernodi Elizabeth Chadwick",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L210xH312/il_mantello_d_inverno-906c0.jpg?1775783756",
+    "image_type": "url",
+    "hero_eligible": false
   },
   {
     "id": "a20364e68aeb5ddb",
@@ -1588,25 +1569,6 @@
     "hero_eligible": true
   },
   {
-    "id": "libro-20260413",
-    "slug": "libro-del-giorno-linganno-dellippocastanodi-mariano-sab-20260413",
-    "title": "Mariano Sabatini racconta un segreto che potrebbe abbattere una famiglia romana",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-13T00:58:25.884040+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/71prqhuleel__sl1500_-7cdc8.jpg?1775694935",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Il libro \"L'inganno dell'ippocastanodi Mariano Sabatini\" sta creando un grande scalpore a Roma, dove l'autore, noto per ",
-    "tags": [
-      "fondi scomparsi",
-      "famiglia romana",
-      "libro sabatini"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "7631cdc1b978184b",
     "slug": "moretti-42enne-arrestato-a-roma-dopo-aver-sfondato-7631cdc1b978184b",
     "title": "Romano Moretti tenta di sfondare porta ex con una mannaia a Monteverde",
@@ -2511,6 +2473,25 @@
     "occhiello": "MAGYAR VINCE CON 136 SEGGI: 77% DI AFFLUENZA STORICA IN UNGHERIA",
     "lead_preview": "Péter Magyar ha ottenuto la maggioranza dei due terzi in Parlamento con 136 seggi. 77% Di affluenza storica nel voto che",
     "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "4bc7493e0149c477",
+    "slug": "fabrizio-moro-confessa-autodistruzione-durante-can-4bc7493e0149c477",
+    "title": "Fabrizio Moro a Canzonissima: \"Ho smesso di autodistruggermi per paura della morte\"",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-12T08:36:12.090171+00:00",
+    "image_type": "image",
+    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/12/Schermata-2026-04-12-alle-10.22.15.png",
+    "occhiello": "FABRIZIO MORO: HO SMESO DI AUTODISTRUGGERMI",
+    "lead_preview": "Il cantautore italiano Fabrizio Moro ha raccontato la sua storia di autodistruzione durante la trasmissione Canzonissima",
+    "tags": [
+      "fabrizio moro canzonissima",
+      "autodistruzione fabrizio moro",
+      "fabrizio moro 2026"
+    ],
     "hero_eligible": true
   },
   {
@@ -9217,6 +9198,25 @@
       "taglio alberi roma",
       "deliperi",
       "inquinamento ambientale"
+    ],
+    "hero_eligible": true
+  },
+  {
+    "id": "7bf45818a591825c",
+    "slug": "resort-acquista-la-casa-di-rauschenberg-a-captiva-7bf45818a591825c",
+    "title": "Rauschenberg Foundation vende casa-studio di Captiva a Fondo di Miami per resort luxury",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-08T13:12:31.805278+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/30/3ca39fe89d92de60061aabafe1651d4b.jpg",
+    "occhiello": "",
+    "lead_preview": "Robert Rauschenberg non è più solo un nome nell’arte contemporanea: la sua casa-studio sull’isola di Captiva, in Florida",
+    "tags": [
+      "vendita casa rauschenberg",
+      "fondo miami captiva",
+      "ristrutturazione studio artistico"
     ],
     "hero_eligible": true
   }
