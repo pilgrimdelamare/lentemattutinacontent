@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 13 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-13T04:00:14.102729+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 13 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "08923e5b36d5207d",
     "slug": "500-nuove-attivita-a-venezia-grazie-al-bando-antip-08923e5b36d5207d",
     "title": "Venezia apre 500 nuove attività dopo il blocco dei negozi 'apri e chiudi'",
@@ -2527,26 +2547,6 @@
       "telo al miele aquila"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, domenica 12 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-12T04:00:23.728320+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — DOMENICA 12 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2f6d4b02581dfa20",
