@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "Claude è tornato online dopo 53 minuti di interruzione.",
   "titles": [
-    "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi."
+    "Claude è tornato online dopo 53 minuti di interruzione.",
+    "Claude è tornato online dopo 53 minuti di interruzione.",
+    "Claude è tornato online dopo 53 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 37 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIPRISTINATO DOPO DISSERVIZIO",
+  "lead": "Claude è tornato online dopo 53 minuti di interruzione.",
+  "corpo1": "Il sistema Claude ha ripreso a funzionare dopo un periodo di disservizio durato 53 minuti. L'interruzione è iniziata alle ore non specificate e si è conclusa con il ripristino del servizio. La causa del problema non è stata resa pubblica. Il sistema è ora pienamente operativo e in funzione. La Lente Mattutina conferma che il problema è stato risolto e che Claude è tornato online.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-13T16:21:17.620765+00:00",
+  "published_at": "2026-04-13T16:38:05.915330+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,10 +38,10 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "17Mila italiani usano 'Admin' come password, dati su 1M di utenti",
-      "url": "/tecnologia/milioni-di-italiani-usano-ancora-password-come-pas-67b4b5db8ed69060",
-      "id": "67b4b5db8ed69060",
-      "image_url": "https://media-assets.wired.it/photos/69c68af9f85ce9da29b0032b/16:9/w_1280,c_limit/163124577",
+      "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
