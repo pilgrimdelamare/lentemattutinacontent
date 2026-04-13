@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude tornato online, ma per quanto tempo?",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-13T16:38:05.915330+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
+    "lead_preview": "Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di int",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0155b696dccca64c",
     "slug": "basket-portland-sfonde-sacramento-con-un-margine-d-0155b696dccca64c",
     "title": "Portland sfonda sacramento con un margine di 12 punti",
@@ -212,25 +227,6 @@
       "inter u23"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 53 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-13T16:38:05.915330+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SISTEMA RIPRISTINATO DOPO DISSERVIZIO",
-    "lead_preview": "Claude è tornato online dopo 53 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "115e5d228d364692",
