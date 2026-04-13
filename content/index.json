@@ -1,5 +1,22 @@
 [
   {
+    "id": "4c6ab67ee918081d",
+    "slug": "wti-supera-i-104-dollari-al-barile-a-new-york-benz-4c6ab67ee918081d",
+    "title": "Petrolio sale: 104 dollari il barile",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-13T06:26:53.632146+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f3841b2c69ad18eaba5fc92b7eb879ac.jpg",
+    "occhiello": "BOLLETTA DA 2 MILIARDI DI EURO",
+    "lead_preview": "Roma, 13 aprile. Il prezzo del petrolio Wti ha superato i 104 dollari al barile a New York, +8,4% in tre giorni. Il Bren",
+    "tags": [
+      "prezzo petrolio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e9decbabe167adf",
     "slug": "consob-e-bce-contestano-la-legge-capitali-operativ-1e9decbabe167adf",
     "title": "17 Miliardi spariti dalla Borsa Italiana dopo voto di fiducia, indaga la Consob",
@@ -598,24 +615,6 @@
     "tags": [
       "soldati russi bulgaria",
       "ue e russia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c6ab67ee918081d",
-    "slug": "wti-supera-i-104-dollari-al-barile-a-new-york-benz-4c6ab67ee918081d",
-    "title": "Petrolio Wti supera i 104 dollari, mercati in fibrillazione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-13T06:26:53.632146+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f3841b2c69ad18eaba5fc92b7eb879ac.jpg",
-    "occhiello": "WTI OLTRE I 104 DOLLARI: BENZINA, LA MAZZATA AI CONSUMATORI",
-    "lead_preview": "Roma, 13 aprile. Il prezzo del petrolio Wti ha superato i 104 dollari al barile a New York, mentre il Brent è Stato scam",
-    "tags": [
-      "prezzo petrolio",
-      "crisi energetica"
     ],
     "hero_eligible": true
   },
