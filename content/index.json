@@ -1,5 +1,24 @@
 [
   {
+    "id": "f8e2bcc59c0dc126",
+    "slug": "tre-morti-e-un-grave-in-scontro-tra-camion-e-auto-f8e2bcc59c0dc126",
+    "title": "Tre morti in un frontale tra camion e auto sulla SP 255 a Modena",
+    "section": "salute",
+    "priority": 5,
+    "journalist_firma": "Luca Tosi",
+    "published_at": "2026-04-12T07:17:27.328719+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/12/5665e403d9d915153dac0c77065ec7ea.jpg",
+    "occhiello": "",
+    "lead_preview": "Modena, 12 aprile. Tre persone sono morte e una è rimasta gravemente ferita nello scontro frontale tra un autocarro e un",
+    "tags": [
+      "incidente stradale modena",
+      "frontale sp255",
+      "tragedia modena"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0c68cb796021a9e2",
     "slug": "tisza-stravince-in-ungheria-con-il-531-supera-fide-0c68cb796021a9e2",
     "title": "Tisza stravince in Ungheria con il 53,1%, supera Fidesz e conquista la supermaggioranza",
@@ -1962,24 +1981,6 @@
       "scimpanzé ngogo",
       "branco uganda",
       "attacchi scimpanzé"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f8e2bcc59c0dc126",
-    "slug": "tre-morti-e-un-grave-in-scontro-tra-camion-e-auto-f8e2bcc59c0dc126",
-    "title": "Tre morti e un grave in scontro tra camion e auto a Modena",
-    "section": "salute",
-    "priority": 6,
-    "journalist_firma": "Francesca Nardi",
-    "published_at": "2026-04-12T07:17:27.328719+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/12/5665e403d9d915153dac0c77065ec7ea.jpg",
-    "occhiello": "",
-    "lead_preview": "Modena, 12 aprile 2026: tre persone sono morte nello scontro tra un autocarro e un’automobile avvenuto nella periferia s",
-    "tags": [
-      "scontro modena",
-      "incidente stradale modena"
     ],
     "hero_eligible": true
   },
