@@ -1,5 +1,24 @@
 [
   {
+    "id": "dafe2598c27a78fa",
+    "slug": "ricordati-i-crimini-di-guerra-in-guerra-dafe2598c27a78fa",
+    "title": "Ricordati i crimini di guerra in guerra",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-13T04:12:08.036026+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/203508739-3bc7373d-3a18-43a7-ab8f-f2c24d0e1fee.jpg",
+    "occhiello": "CRIMINI DI GUERRA, IL LIMITE DELLA VIOLAZIONE",
+    "lead_preview": "Roma, 13 aprile. I giuristi cerchino da oltre un secolo di contenere la violenza nei conflitti, ma cosa è permesso e cos",
+    "tags": [
+      "crimini di guerra",
+      "diritto internazionale",
+      "conflitti armati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b53006654fc97f44",
     "slug": "lolimpio-del-futuro-hirox-si-avvicina-alla-storica-b53006654fc97f44",
     "title": "L'OLIMPIO DEL FUTURO: HIROX si avvicina alla storica affermazione",
@@ -9142,25 +9161,6 @@
       "papa-leone-xiv",
       "guerra-iran",
       "trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c7eb83cc7169f3ca",
-    "slug": "russia-bombarda-balabyne-in-zaporizhzhia-un-morto-c7eb83cc7169f3ca",
-    "title": "Missile russo uccide un civile a Balabyne e distrugge 6 case",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-07T22:38:22.501058+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/08/000733402-359b4e4e-bc47-49fb-a81a-46be8c0ea6b0.jpg",
-    "occhiello": "UN MORTO A BALABYNE, CASE IN FIAMME",
-    "lead_preview": "Un raid russo ha colpito il villaggio di Balabyne, nell’Oblast’ di Zaporizhzhia, uccidendo un civile e incendiando almen",
-    "tags": [
-      "attacco russo balabyne",
-      "guerra ucraina 2024",
-      "missile zaporizhzhia"
     ],
     "hero_eligible": true
   }
