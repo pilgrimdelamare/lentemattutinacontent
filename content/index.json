@@ -1,5 +1,24 @@
 [
   {
+    "id": "e794328242fb1830",
+    "slug": "zelensky-a-roma-il-12-aprile-per-incontrare-meloni-e794328242fb1830",
+    "title": "Zelensky a Palazzo Chigi: Italia stanzia 1,5 miliardi per l'Ucraina",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-12T06:16:14.726727+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/003821054-4d90be4a-352f-4965-b6de-14a5ba39a621.jpg",
+    "occhiello": "INCONTRO TRA ZELENSKY E MELONI A ROMA",
+    "lead_preview": "Roma, 12 aprile. Il presidente ucraino Volodymyr Zelensky si incontrerà oggi con il premier italiano Giorgia Meloni a Pa",
+    "tags": [
+      "zelensky meloni",
+      "aiuti ucraina",
+      "incontro palazzo chigi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "262c6bf95623073a",
     "slug": "oltre-10000-a-milano-contro-i-tagli-alla-sanita-pu-262c6bf95623073a",
     "title": "Diecimila in piazza a Milano contro i tagli alla Sanità",
@@ -1478,25 +1497,6 @@
       "sei nazioni femminile",
       "scozia galles",
       "vittoria scozia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e794328242fb1830",
-    "slug": "zelensky-a-roma-il-12-aprile-per-incontrare-meloni-e794328242fb1830",
-    "title": "Zelensky a Roma il 12 aprile per incontrare Meloni a Palazzo Chigi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-12T06:16:14.726727+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/003821054-4d90be4a-352f-4965-b6de-14a5ba39a621.jpg",
-    "occhiello": "ZELENSKY A ROMA PER INCONTRARE MELONI A PALAZZO CHIGI",
-    "lead_preview": "Il presidente ucraino Volodymyr Zelensky Il presidente ucraino Volodymyr Zelensky Volodymyr Zelensky si incontrerà con i",
-    "tags": [
-      "zelensky a roma",
-      "incontro meloni zelensky",
-      "visita zelensky italia"
     ],
     "hero_eligible": true
   },
