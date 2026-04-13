@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-13T20:20:47.892094+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "caee417027ba0531",
     "slug": "il-cinema-della-disabilita-rocknroll-di-smeriglio-caee417027ba0531",
     "title": "Il film sulla disabilità vince al boxoffice",
@@ -9132,25 +9151,6 @@
       "riforma contratti collettivi",
       "durigon lavoro",
       "cisal ugl contratti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a9b121e7cf1d32c7",
-    "slug": "urgente-alpinista-ferito-durante-scalata-in-montag-a9b121e7cf1d32c7",
-    "title": "Alessandro Bianchi cade da 30 metri in Dolomiti, grave",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-08T07:49:07.850209+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2024/02/21/Abbadia-Elisoccorso-Tuta-Alare-696x522-1.jpg",
-    "occhiello": "",
-    "lead_preview": "Alessandro Bianchi è Stato gravemente ferito durante una scalata sulle Dolomiti alle 9.17 del 7 aprile 2026. L’uomo, 34 ",
-    "tags": [
-      "caduta dolomiti",
-      "incidente scalata",
-      "alessandro bianchi"
     ],
     "hero_eligible": true
   }
