@@ -1,5 +1,24 @@
 [
   {
+    "id": "99608639953434b2",
+    "slug": "la-borsa-di-tokyo-scende-di-07-99608639953434b2",
+    "title": "Tokyo perde 30 miliardi in un giorno: il Nikkei crolla allo 0,7%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-13T06:42:42.035802+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/c491bfdda7fb4239b0bbcd290beb2e3a.jpg",
+    "occhiello": "IL 0,7% CHE FA MALE: NIKKEI A PICCO",
+    "lead_preview": "Tokyo, 13 aprile. La Borsa di Tokyo ha chiuso con un calo dello 0,7%, portando l'indice Nikkei al livello più basso da i",
+    "tags": [
+      "crollo nikkei",
+      "borsa tokyo",
+      "mercato azionario giappone"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d1a150b29d388327",
     "slug": "sanchez-a-pechino-cina-fai-piu-pressione-per-ferma-d1a150b29d388327",
     "title": "Il capo della spagna chiede a pechino di fermare mosca e gaza",
@@ -588,24 +607,6 @@
     "tags": [
       "mostra palestina",
       "vegliante palestina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "99608639953434b2",
-    "slug": "la-borsa-di-tokyo-scende-di-07-99608639953434b2",
-    "title": "Tokyo crolla: Nikkei perde il 0,7% e scende sotto 28.200",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-13T06:42:42.035802+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/c491bfdda7fb4239b0bbcd290beb2e3a.jpg",
-    "occhiello": "LA BORSA DI TOKYO SCENDE DI 0,7%, FUTURE NEL ROSSO",
-    "lead_preview": "Tokyo, 13 aprile. La Borsa di Tokyo ha chiuso oggi in calo del 0,7%, riflettendo un contesto globale di incertezza, ment",
-    "tags": [
-      "borsa di tokyo",
-      "crisi finanziaria"
     ],
     "hero_eligible": true
   },
