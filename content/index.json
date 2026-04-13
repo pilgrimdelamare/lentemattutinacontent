@@ -1,5 +1,24 @@
 [
   {
+    "id": "3718b51f8466a909",
+    "slug": "2299-violazioni-della-tregua-di-pasqua-da-parte-uc-3718b51f8466a909",
+    "title": "Ucraina: 2.299 violazioni russe nella tregua di Pasqua a Donetsk e Luhansk",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-12T08:04:38.736249+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/14/88e3739e15796100bf4dea24da685128.jpg",
+    "occhiello": "2.299 VIOLAZIONI DELLA TREGUA DI PASQUA",
+    "lead_preview": "Kiev, 12 aprile. Secondo le autorità ucraine, sono state registrate 2.299 violazioni da parte delle forze russe durante ",
+    "tags": [
+      "tregua pasqua ucraina",
+      "violazioni russe donetsk",
+      "guerra ucraina 2024"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ad681530023c59c0",
     "slug": "scambio-350-prigionieri-russia-e-ucraina-si-affron-ad681530023c59c0",
     "title": "Scambio 350 prigionieri: Russia e Ucraina si affrontano mentre fallisce la tregua di Pasqua",
@@ -1616,25 +1635,6 @@
       "elezioni ungheria",
       "vittoria orbán",
       "fidesz al potere"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3718b51f8466a909",
-    "slug": "2299-violazioni-della-tregua-di-pasqua-da-parte-uc-3718b51f8466a909",
-    "title": "2.299 Violazioni della tregua di Pasqua da parte ucraine, secondo Kiev",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-12T08:04:38.736249+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/14/88e3739e15796100bf4dea24da685128.jpg",
-    "occhiello": "MOSCA E KIEV SI ACCUSANO A VICENDA",
-    "lead_preview": "La Pasqua è stata oggetto di violazioni da entrambe le parti, come sempre. secondo l'esercito ucraino, ci sono stati 2.2",
-    "tags": [
-      "guerra ucraina",
-      "pasqua",
-      "accuse russo ucraina"
     ],
     "hero_eligible": true
   },
