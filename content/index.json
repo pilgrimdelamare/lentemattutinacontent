@@ -1,5 +1,23 @@
 [
   {
+    "id": "cd01d82f0ac6f464",
+    "slug": "il-petrolio-brent-sale-a-115-dollari-il-dollaro-gu-cd01d82f0ac6f464",
+    "title": "Dollaro USA in forte rialzo del 2% grazie al conflitto mediorientale",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-13T06:11:39.777685+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/162516888-8a1448ad-84f5-4111-9070-6a85cede5020.jpg",
+    "occhiello": "IL DOLLARO USA SI IMPENNA: L'EFFETTO DEL CONFLITTO MEDIORIENTALE",
+    "lead_preview": "Roma, 13 aprile. Un conflitto mediorientale sta risvegliando il gigante addormentato del dollaro statunitense. Fonti fin",
+    "tags": [
+      "conflitto mediorientale",
+      "dollaro usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dfc8d95972b26d2e",
     "slug": "gas-futures-a-1045-al-ttf-di-amsterdam-schizza-a-4-dfc8d95972b26d2e",
     "title": "Gas naturale vola del 10,45% a 48 euro/mWh: Amsterdam sotto shock",
@@ -1103,25 +1121,6 @@
       "legge capitali",
       "consob",
       "bce"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cd01d82f0ac6f464",
-    "slug": "il-petrolio-brent-sale-a-115-dollari-il-dollaro-gu-cd01d82f0ac6f464",
-    "title": "Il petrolio Brent sale a 115 dollari, il dollaro guadagna forza e scuote i mercati",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-13T06:11:39.777685+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/10/162516888-8a1448ad-84f5-4111-9070-6a85cede5020.jpg",
-    "occhiello": "IL DOLLARO SI RIMETTE LA CORONA",
-    "lead_preview": "Roma, 13 aprile. Il conflitto mediorientale ha riportato in pista il dollaro statunitense. La cui forza può fornire gas ",
-    "tags": [
-      "petrolio brent",
-      "conflitto mediorientale",
-      "forza dollaro"
     ],
     "hero_eligible": true
   },
