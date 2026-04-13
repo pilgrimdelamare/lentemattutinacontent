@@ -1,0 +1,59 @@
+{
+  "id": "dafe2598c27a78fa",
+  "slug": "ricordati-i-crimini-di-guerra-in-guerra-dafe2598c27a78fa",
+  "title": "Ricordati i crimini di guerra in guerra",
+  "titles": [
+    "Ricordati i crimini di guerra in guerra",
+    "Giuristi tedeschi ammoniscono su limiti in guerra",
+    "La violenza in guerra: cosa è permesso e cosa no"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "CRIMINI DI GUERRA, IL LIMITE DELLA VIOLAZIONE",
+  "lead": "Roma, 13 aprile. I giuristi cerchino da oltre un secolo di contenere la violenza nei conflitti, ma cosa è permesso e cosa no fare in guerra? La Cronaca di questi giorni spinge a ricordare i crimini di guerra.",
+  "corpo1": "Il quotidiano tedesco Welt ricorda la storia dell'umanità per cui i giuristi hanno cercato di contenere la violenza nei conflitti. Da oltre un secolo esiste il termine \"crimini di guerra\". Secondo Sven-Felix Kellerhoff, giornalista del Welt, La Cronaca di questi giorni spinge a ricordare cosa è permesso e cosa no fare in guerra. \"La violenza in guerra è un fenomeno antico, ma la coscienza morale della società è mutata nel tempo\". In effetti, la guerra moderna ha visto una maggiore attenzione verso la protezione dei civili e la condanna dei crimini di guerra. Secondo la Convenzione di Ginevra del 1949, sono considerati crimini di guerra il saccheggio, la distruzione di proprietà private e la cattura di prigionieri di guerra. Ma cosa accade quando questi limiti vengono superati?",
+  "corpo2": "La storia di crimini di guerra è lunga e brutale. Negli anni '90, la guerra in Jugoslavia vide la strage di Srebrenica, in cui oltre 8.000 musulmani furono uccisi. La guerra in Iraq, nel 2003, vide la distruzione di Baghdad e la morte di migliaia di civili. E poi c'è la guerra in Ucraina, dove la distruzione di Mariupol ha lasciato centinaia di migliaia di persone senza casa. Ma cosa cambia quando i crimini di guerra vengono commessi? La risposta è semplice: nulla. I crimini di guerra continuano a essere commessi, e i responsabili continuano a sfuggire alla giustizia. A pagare sono sempre i soliti: i civili innocenti, le vittime di guerra. La guerra è un crimine contro l'umanità, e i crimini di guerra sono un suo aspetto inevitabile. Ma è anche un crimine contro la società umana, che richiede di essere fermato.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-04-13T04:12:08.036026+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/203508739-3bc7373d-3a18-43a7-ab8f-f2c24d0e1fee.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Ricordati i crimini di guerra in guerra\",\n  \"description\": \"Roma, 13 aprile. I giuristi cerchino da oltre un secolo di contenere la violenza nei conflitti, ma cosa è permesso e cosa no fare in guerra? La Cronaca di questi giorni spinge a ricordare i crimini di guerra.\",\n  \"articleBody\": \"Roma, 13 aprile. I giuristi cerchino da oltre un secolo di contenere la violenza nei conflitti, ma cosa è permesso e cosa no fare in guerra? La Cronaca di questi giorni spinge a ricordare i crimini di guerra. Il quotidiano tedesco Welt ricorda la storia dell'umanità per cui i giuristi hanno cercato di contenere la violenza nei conflitti. Da oltre un secolo esiste il termine \\\"crimini di guerra\\\". Secondo Sven-Felix Kellerhoff, giornalista del Welt, La Cronaca di questi giorni spinge a ricordare cosa è permesso e cosa no fare in guerra. \\\"La violenza in guerra è un fenomeno antico, ma la coscienza morale della società è mutata nel tempo\\\". In effetti, la guerra moderna ha visto una maggiore attenzione verso la protezione dei civili e la condanna dei crimini di guerra. Secondo la Convenzione di Ginevra del 1949, sono considerati crimini di guerra il saccheggio, la distruzione di proprietà private e la cattura di prigionieri di guerra. Ma cosa accade quando questi limiti vengono superati? La storia di crimini di guerra è lunga e brutale. Negli anni '90, la guerra in Jugoslavia vide la strage di Srebrenica, in cui oltre 8.000 musulmani furono uccisi. La guerra in Iraq, nel 2003, vide la distruzione di Baghdad e la morte di migliaia di civili. E poi c'è la guerra in Ucraina, dove la distruzione di Mariupol ha lasciato centinaia di migliaia di persone senza casa. Ma cosa cambia quando i crimini di guerra vengono commessi? La risposta è semplice: nulla. I crimini di guerra continuano a essere commessi, e i responsabili continuano a sfuggire alla giustizia. A pagare sono sempre i soliti: i civili innocenti, le vittime di guerra. La guerra è un crimine contro l'umanità, e i crimini di guerra sono un suo aspetto inevitabile. Ma è anche un crimine contro la società umana, che richiede di essere fermato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-13T04:12:08.036026+00:00\",\n  \"dateModified\": \"2026-04-13T04:12:08.036026+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/dafe2598c27a78fa\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/dafe2598c27a78fa\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/12/203508739-3bc7373d-3a18-43a7-ab8f-f2c24d0e1fee.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 7,
+  "source": "Repubblica Esteri",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/esteri/dossier/lena/2026/04/12/news/che_cosa_e_proibito_fare_in_guerra_iran_trump_continental_breakfast-425279146/?rss",
+  "related": [
+    {
+      "title": "Papa Leone XIV avversa guerra Trump contro l'Iran: 'Inaccettabile'",
+      "url": "/esteri/papa-leone-xiv-guerra-alliran-inaccettabile-96f117f8d9fb1670",
+      "id": "96f117f8d9fb1670",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/07/24307829_small-1200x630.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Scambi Italia-Messico balzano del 3% nel",
+      "url": "/esteri/italia-e-messico-scambi-commerciali-in-crescita-de-e4d921c601e29d64",
+      "id": "e4d921c601e29d64",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/f4af75332b89ddc694526e930dff1b64.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Messico e El Salvador firmano accordo ecologico in America Centrale",
+      "url": "/esteri/messico-e-el-salvador-firmano-accordo-ecologico-in-acee52dbaad21248",
+      "id": "acee52dbaad21248",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/b18ceb3790aff1c2241ce138889c91f0.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
