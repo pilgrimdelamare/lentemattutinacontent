@@ -1,5 +1,23 @@
 [
   {
+    "id": "697fb1f1073a322a",
+    "slug": "due-navi-bloccano-il-traffico-nel-golfo-persico-697fb1f1073a322a",
+    "title": "Due navi bloccano il traffico nel Golfo Persico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-13T03:44:42.523081+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
+    "occhiello": "TRAFFICO MARITTIMO BLOCCATO, PERSI MILIARDI TRA EXPORT E IMPORT",
+    "lead_preview": "Roma, 13 aprile. Lo scrive il Lloyd's List: due navi hanno iniziato inversione di rotta, causando un blocco nel traffico",
+    "tags": [
+      "blocco golfo persico",
+      "stretto di hormuz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2495360e3d3a8aa8",
     "slug": "tajani-e-sangiuliano-chiudono-il-padiglione-russo-2495360e3d3a8aa8",
     "title": "Tajani e Giuli sigillano Padiglione Russo alla Biennale di Venezia: guerra culturale aperta",
@@ -9142,25 +9160,6 @@
       "real madrid ko",
       "pitarch titolare",
       "champions 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0a12267bbf044d91",
-    "slug": "auto-110esima-targa-florio-0a12267bbf044d91",
-    "title": "La Targa Florio ritorna a Palermo dopo 110 anni di storia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-07T22:40:33.782871+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/4/a26cb12c7e98e3fe82f5e0589a8e5682.jpg",
-    "occhiello": "LA TARGA FLORIO APRE LE ISCRIZIONI",
-    "lead_preview": "La Targa Florio, la corsa automobilistica più antica del mondo, apre le iscrizioni per la sua 110esima edizione, previst",
-    "tags": [
-      "targa florio 2026",
-      "corsa automobilistica palermo",
-      "targa florio storica"
     ],
     "hero_eligible": true
   }
