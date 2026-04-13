@@ -1,5 +1,23 @@
 [
   {
+    "id": "42c2442bc142cd3f",
+    "slug": "fondi-per-i-trasporti-aereo-sconfinati-nel-golofo-42c2442bc142cd3f",
+    "title": "L'Italia rischia carenza carburante aerei",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-13T11:39:24.978433+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/2/9b8f3aa98a9216562e093811aba12514.jpg",
+    "occhiello": "FONDI PER I TRASPORTI AEREO SCONFINATI NEL GOLOFO",
+    "lead_preview": "Roma, 13 aprile 2026 La guerra in Medio Oriente ha causato una carenza di carburante per aerei che sta mettendo in diffi",
+    "tags": [
+      "carenza carburante aerei",
+      "guerra medio oriente"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
@@ -314,21 +332,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/6/8e5771d7c4f6b7e14f8e03264422e00b.jpg",
     "occhiello": "PACE E ORDINE: MATTARELLA AL PAPA, UN'APPELLO IN CASO DI VIOLENZA",
     "lead_preview": "SCENARIO 4 — LA POLITICA A GAMBA TESA SULLA CRONACA (Casi mediatici, stragi, ordine pubblico) PACE E ORDINE: MATTARELLA ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "42c2442bc142cd3f",
-    "slug": "fondi-per-i-trasporti-aereo-sconfinati-nel-golofo-42c2442bc142cd3f",
-    "title": "Fondi per i trasporti aereo sconfinati nel golofo",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-13T11:39:24.978433+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/2/9b8f3aa98a9216562e093811aba12514.jpg",
-    "occhiello": "FONDI PER I TRASPORTI AEREO SCONFINATI NEL GOLOFO",
-    "lead_preview": "L'Unione Europea ha rivelato che molti rifornimenti di benzina per gli aerei sono stati trasferiti nel Golfo, a causa de",
     "tags": [],
     "hero_eligible": true
   },
