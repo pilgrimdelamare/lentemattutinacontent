@@ -1,5 +1,23 @@
 [
   {
+    "id": "697fb1f1073a322a",
+    "slug": "due-navi-bloccano-il-traffico-nel-golfo-persico-697fb1f1073a322a",
+    "title": "Due navi mercantili invertono rotta nel Golfo Persico e bloccano il traffico marittimo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-13T03:44:42.523081+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
+    "occhiello": "DUE NAVI BLOCCANO TRAFFICO NEL GOLFO PERSICO",
+    "lead_preview": "Roma, 13 aprile. Due navi si sono invertite di rotta nel Golfo Persico bloccando il traffico marittimo. Lo scrive Lloyd'",
+    "tags": [
+      "blocco traffico golfo persico",
+      "nave mercantile rotta invertita"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7d9a125a3bf5bca3",
     "slug": "barbara-bouchet-il-12-aprile-2026-in-unintervista-7d9a125a3bf5bca3",
     "title": "Bouchet: 'Geniale' scomparsa 3,2 mln Lazio per digitalizzare film",
@@ -997,24 +1015,6 @@
       "elezioni ungheresi",
       "tisza magyar",
       "supermaggioranza ungheria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "697fb1f1073a322a",
-    "slug": "due-navi-bloccano-il-traffico-nel-golfo-persico-697fb1f1073a322a",
-    "title": "Due navi bloccano il traffico nel Golfo Persico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-13T03:44:42.523081+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
-    "occhiello": "TRAFFICO MARITTIMO BLOCCATO, PERSI MILIARDI TRA EXPORT E IMPORT",
-    "lead_preview": "Roma, 13 aprile. Lo scrive il Lloyd's List: due navi hanno iniziato inversione di rotta, causando un blocco nel traffico",
-    "tags": [
-      "blocco golfo persico",
-      "stretto di hormuz"
     ],
     "hero_eligible": true
   },
