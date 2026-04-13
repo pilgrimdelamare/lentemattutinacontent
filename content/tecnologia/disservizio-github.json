@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub è tornato online dopo 36 minuti di interruzione.",
   "titles": [
-    "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub è tornato online dopo 36 minuti di interruzione.",
+    "GitHub è tornato online dopo 36 minuti di interruzione.",
+    "GitHub è tornato online dopo 36 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIATTIVATO",
+  "lead": "GitHub è tornato online dopo 36 minuti di interruzione.",
+  "corpo1": "Il problema è iniziato e dopo 36 minuti è stato risolto. La piattaforma è tornata online e tutti i servizi sono stati ripristinati. La causa dell'interruzione è stata identificata e risolta. Il sistema è ora funzionante correttamente.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-13T20:20:47.892094+00:00",
+  "published_at": "2026-04-13T20:36:12.496575+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,10 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "17Mila italiani usano 'Admin' come password, dati su 1M di utenti",
-      "url": "/tecnologia/milioni-di-italiani-usano-ancora-password-come-pas-67b4b5db8ed69060",
-      "id": "67b4b5db8ed69060",
-      "image_url": "https://media-assets.wired.it/photos/69c68af9f85ce9da29b0032b/16:9/w_1280,c_limit/163124577",
+      "title": "Claude tornato online, ma per quanto tempo?",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
@@ -49,13 +56,6 @@
       "url": "/tecnologia/disservizio-discord",
       "id": "monitor_discord",
       "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
