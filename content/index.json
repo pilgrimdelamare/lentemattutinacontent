@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "Github tornato online, 36 minuti di pausa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-13T20:36:12.496575+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB TORNATO ONLINE, 36 MINUTI DI PAUSA",
+    "lead_preview": "GITHUB TORNATO ONLINE, 36 MINUTI DI PAUSA <Roma, 13 aprile. Il servizio di hosting di codice GitHub è tornato online dop",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1b4bd307b3d78fb7",
     "slug": "iran-dichiara-pirateria-il-blocco-marittimo-nessun-1b4bd307b3d78fb7",
     "title": "Iran contro usa: pirateria nel golfo",
@@ -130,25 +145,6 @@
     "lead_preview": "TRUMP ATTAcca LEONE XIV: \"NON SAREBBE PAPA SENZA DI ME\" <Roma, 13 aprile. Donald Trump, 47º presidente degli Stati Uniti",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 36 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-13T20:36:12.496575+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "GitHub è tornato online dopo 36 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "feed19f9be285b7d",
