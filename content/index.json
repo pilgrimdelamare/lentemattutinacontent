@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude di anthropic fuori online per 53 minuti, enigma per l'avvenire",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-13T16:38:05.915330+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE",
+    "lead_preview": "Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzio",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a79cf9c8669c3934",
     "slug": "contro-orban-e-dentro-il-pdl-contretta-la-coalizio-a79cf9c8669c3934",
     "title": "Giuseppe conte riparte dalla sconfitta: il nuovo libro e la destra orbaniana",
@@ -1476,21 +1491,6 @@
     "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjUvMTIvMjEvMjI1NjI0NDkwLTEwNTQ1YzVkLWZmNDAtNDgwMS1hNTFmLWI1MjZmOTdlNmQ3OC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
     "occhiello": "IL CAPO DELLA SPAGNA CHIEDE A PECHINO DI FERMARE MOSCA E GAZA",
     "lead_preview": "Pechino, 13 aprile. Il presidente del governo spagnolo, Pedro Sánchez, durante un intervento all’università di Tsinghua,",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude tornato online, ma per quanto tempo?",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-13T16:38:05.915330+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
-    "lead_preview": "Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di int",
     "tags": [],
     "hero_eligible": true
   },
