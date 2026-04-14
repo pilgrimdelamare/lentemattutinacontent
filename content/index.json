@@ -1,5 +1,24 @@
 [
   {
+    "id": "8cd275f83764dc29",
+    "slug": "calcio-paul-george-batte-stephen-curry-nelle-ultim-8cd275f83764dc29",
+    "title": "Basket: Paul George supera Curry",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-13T07:13:37.266056+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/813354515a9f3c8e81e520250d854d7fcc00f2ca/skysport/it/nba/video/2026/04/13/1089781_1776058580189_thumb_494.0000001_1776060165905.jpg",
+    "occhiello": "GEORGE BATTE CURRY AL BASKET",
+    "lead_preview": "Roma, 13 aprile. Paul George ha battuto Stephen Curry in una partita di basket.",
+    "tags": [
+      "paul george",
+      "stephen curry",
+      "nba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c72058f7cd841449",
     "slug": "basket-spurs-piegano-i-nuggets-a-san-antonio-c72058f7cd841449",
     "title": "Basket: San Antonio vince a casa",
@@ -1293,25 +1312,6 @@
       "calcio",
       "sunderland",
       "tottenham"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8cd275f83764dc29",
-    "slug": "calcio-paul-george-batte-stephen-curry-nelle-ultim-8cd275f83764dc29",
-    "title": "Calcio:: Paul George batte Stephen Curry nelle ultime fasi dell'incontro di basket",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T07:13:37.266056+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/813354515a9f3c8e81e520250d854d7fcc00f2ca/skysport/it/nba/video/2026/04/13/1089781_1776058580189_thumb_494.0000001_1776060165905.jpg",
-    "occhiello": "LA CLIPPERS GOLDEN STATE: UNA VITTORIA IN ARRIVO!",
-    "lead_preview": "13 aprile.",
-    "tags": [
-      "basket",
-      "clippers",
-      "curry"
     ],
     "hero_eligible": true
   },
