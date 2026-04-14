@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub giù per 36 minuti: migliaia di progetti bloccati in Europa e Usa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-13T20:36:12.496575+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "",
+    "lead_preview": "Roma, 13 aprile. Il servizio di hosting GitHub è tornato online dopo un’interruzione globale di 36 minuti, avvenuta in p",
+    "tags": [
+      "guasto github",
+      "interruzione servizio",
+      "disservizio sviluppatori"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "55649ac1f9551e10",
     "slug": "borsa-italiana-2-i-tech-volano-dopo-laccordo-nucle-55649ac1f9551e10",
     "title": "Borsa Italiana +2%: i tech volano dopo l'accordo nucleare con l'Iran",
@@ -1785,21 +1804,6 @@
       "vendite libri",
       "infanzia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Github tornato online, 36 minuti di pausa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-13T20:36:12.496575+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB TORNATO ONLINE, 36 MINUTI DI PAUSA",
-    "lead_preview": "GITHUB TORNATO ONLINE, 36 MINUTI DI PAUSA <Roma, 13 aprile. Il servizio di hosting di codice GitHub è tornato online dop",
-    "tags": [],
     "hero_eligible": true
   },
   {
