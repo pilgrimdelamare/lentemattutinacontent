@@ -1,5 +1,23 @@
 [
   {
+    "id": "90f1f6d6b230e964",
+    "slug": "il-rendimento-italiano-salta-al-38-90f1f6d6b230e964",
+    "title": "Il rendimento italiano salta al 3,8%",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-14T07:01:06.357637+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
+    "occhiello": "LO SPREAD A 76,7 PUNTINI",
+    "lead_preview": "Roma, 14 aprile. Il rendimento italiano è salito al 3,8%.",
+    "tags": [
+      "borsa italiana",
+      "spread ita"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub giù per 36 minuti: migliaia di progetti bloccati in Europa e Usa",
@@ -9027,25 +9045,6 @@
     "tags": [
       "blackrock",
       "città del messico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e3a7a200e041a5a1",
-    "slug": "basket-new-orleans-batte-utah-con-recordman-293-pu-e3a7a200e041a5a1",
-    "title": "Basket: New Orleans sfondò con 148 punti a Utah",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-08T05:44:54.702010+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e2c20cfe756a207bfbaf8e3c7410987cc2373fe4/skysport/it/nba/video/2026/04/08/1088460_1775624905630_thumb_494.0000001_1775625022107.jpg",
-    "occhiello": "RECORDMAN DI MARCATURA: 293 PUNTI IN UNA PARTITA DI BASKET",
-    "lead_preview": "La partita tra New Orleans e Utah ha stabilito un nuovo record di marcatura con 293 punti, con New Orleans che ha vinto ",
-    "tags": [
-      "record marcatura nba",
-      "new orleans utah",
-      "partita 293 punti"
     ],
     "hero_eligible": true
   }
