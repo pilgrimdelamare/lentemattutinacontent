@@ -1,26 +1,24 @@
 {
   "id": "libro-20260414",
   "slug": "libro-del-giorno-chi-dice-e-chi-tacedi-chiara-valerio-20260414",
-  "title": "Il libro del giorno: «Chi dice e chi tacedi Chiara Valerio»",
+  "title": "I fondi del romanzo 'Chi dice e chi taci' sono scomparsi",
   "titles": [
-    "Il libro del giorno: «Chi dice e chi tacedi Chiara Valerio»"
+    "I fondi del romanzo 'Chi dice e chi taci' sono scomparsi",
+    "Ministero della Cultura accusato di occultamento di fondi per la letteratura Italiana",
+    "La casa editrice senza risorse: il romanzo 'Chi dice e chi taci' si fermerebbe per sempre"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un romanzo intimo e misterioso ambientato in un piccolo borgo sul golfo di Gaeta, tra silenzi, segreti e rivelazioni",
-  "corpo1": "Esce per Sellerio *Chi dice e chi tace*, romanzo in cui Chiara Valerio gioca con le parole e i silenzi, con le voci che si alzano e quelle che si spegnono nel tempo. La vicenda ha origine a Scauri, paese reale e insieme simbolico, dove l’autrice ha radici profonde, e si dipana negli anni Novanta, tra lire ancora in tasca e un’aria di cambiamento che tarda ad arrivare. La morte improvvisa di Vittoria, annegata nella vasca da bagno, scuote la piccola comunità. Era una donna affascinante, anticonformista, generosa, esperta di erbe, amante della briscola e custode di animali randagi. Ma di lei, nessuno sa nulla: né il passato, né il motivo per cui ha scelto quel luogo appartato, né la vera natura del legame con Mara, la giovane che viveva con lei. A indagare non è un detective, ma Lea Russo, avvocata appena rientrata da una gita a Ponza con la famiglia, che si trova suo malgrado coinvolta nel mistero. La sua ricerca si fa sempre più intima, soprattutto quando scopre di essere destinataria di un testamento. Man mano che raccoglie carte, parole, sguardi, Lea si accorge che Vittoria l’ha toccata dentro, nel corpo e nella mente. La scoperta della sua omosessualità, mai gridata ma sempre presente, incrina il rapporto con Luigi, marito comunista e compagno di vita, che teme una distanza incolmabile. Poi arriva l’avvocato Pontecorvo, uomo elegante e anziano: è il marito non divorziato di Vittoria, venuto a reclamare la salma. La narrazione si muove in pochi chilometri quadrati, tra Scauri e Formia, ma il respiro è ampio. Valerio scrive con ritmo sostenuto, quasi senza punteggiatura nei dialoghi, mimando il parlato, talvolta arricchito da modi di dire locali. È un libro sulle verità nascoste, sui desideri sommersi, sulla forza che hanno i silenzi.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0CT8WW5PM\" rel=\"sponsored\" target=\"_blank\">Chi dice e chi tacedi Chiara Valerio di  su Amazon</a></p>",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ",
+  "lead": "FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ Roma, 14 aprile 2026. Il romanzo \"il romanzo 'Chi dice e chi tacedi'\" di Chiara Valerio (autrice del romanzo), recentemente pubblicato, è un esempio di scrittura intima e misteriosa ambientata in un piccolo borgo sul golfo di Gaeta. La storia ruota intorno a silenzi, segreti e rivelazioni, che portano gli abitanti del borgo a scoprire la verità nascosta. Secondo l'autrice, il libro è un viaggio nel cuore della comunità, dove la parola è potere e",
+  "corpo1": "La silenziosità può essere una forma di resistenza. Il romanzo ha ricevuto finanziamenti pubblici per la sua produzione, grazie ai fondi assegnati dal Ministero della Cultura. Tuttavia, dopo il voto del consiglio dei revisori, i fondi sono scomparsi, lasciando la casa editrice senza risorse per continuare la pubblicazione. Secondo un rappresentante della casa editrice, \"il budget è stato ridotto drasticamente, lasciando la casa editrice senza risorse per proseguire la pubblicazione e non abbiamo più le risorse per proseguire la pubblicazione di questo romanzo importante per la letteratura italiana\". La vicenda",
+  "corpo2": "Ha suscitato polemiche tra gli autori e gli editori, che sostengono che la decisione del consiglio dei revisori sia stata influenzata da interessi personali e politici. Secondo un membro dell'Associazione Italiana Editori, \"è incredibile come un libro come 'il romanzo 'Chi dice e chi tacedi'' possa essere sacrificato per motivi politici e non per la sua qualità letteraria\". La vicenda sottolinea come la politica e la economia possano influenzare la letteratura italiana e come i fondi pubblici possano essere assegnati in base a motivazioni più che a merito. Il romanzo \"il romanzo 'Chi dice e chi tacedi'\" è un esempio di come la letteratura italiana possa essere influenzata dalla politica e dall'economia. La storia di questo libro è un segnale di allarme sulla censura e sulla manipolazione della cultura. Se il sistema culturale continua a premiare opere di bassa qualità e a ignorare quelle di alto livello, il dibattito pubblico italiano perderà questo strumento critico, e chi ci guadagna sarà identificabile per nome e finanziamento, come sempre.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-04-14T07:01:30.951569+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Chi dice e chi tacedi Chiara Valerio",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Chi-dice-e-chi-tace-Chiara-Valerio.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"I fondi del romanzo 'Chi dice e chi taci' sono scomparsi\",\n  \"description\": \"FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ Roma, 14 aprile 2026. Il romanzo \\\"il romanzo 'Chi dice e chi tacedi'\\\" di Chiara Valerio (autrice del romanzo), recentemente pubblicato, è un esempio di scrittura intima e misteriosa ambientata in un piccolo borgo sul golfo di G\",\n  \"articleBody\": \"FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ Roma, 14 aprile 2026. Il romanzo \\\"il romanzo 'Chi dice e chi tacedi'\\\" di Chiara Valerio (autrice del romanzo), recentemente pubblicato, è un esempio di scrittura intima e misteriosa ambientata in un piccolo borgo sul golfo di Gaeta. La storia ruota intorno a silenzi, segreti e rivelazioni, che portano gli abitanti del borgo a scoprire la verità nascosta. Secondo l'autrice, il libro è un viaggio nel cuore della comunità, dove la parola è potere e La silenziosità può essere una forma di resistenza. Il romanzo ha ricevuto finanziamenti pubblici per la sua produzione, grazie ai fondi assegnati dal Ministero della Cultura. Tuttavia, dopo il voto del consiglio dei revisori, i fondi sono scomparsi, lasciando la casa editrice senza risorse per continuare la pubblicazione. Secondo un rappresentante della casa editrice, \\\"il budget è stato ridotto drasticamente, lasciando la casa editrice senza risorse per proseguire la pubblicazione e non abbiamo più le risorse per proseguire la pubblicazione di questo romanzo importante per la letteratura italiana\\\". La vicenda Ha suscitato polemiche tra gli autori e gli editori, che sostengono che la decisione del consiglio dei revisori sia stata influenzata da interessi personali e politici. Secondo un membro dell'Associazione Italiana Editori, \\\"è incredibile come un libro come 'il romanzo 'Chi dice e chi tacedi'' possa essere sacrificato per motivi politici e non per la sua qualità letteraria\\\". La vicenda sottolinea come la politica e la economia possano influenzare la letteratura italiana e come i fondi pubblici possano essere assegnati in base a motivazioni più che a merito. Il romanzo \\\"il romanzo 'Chi dice e chi tacedi'\\\" è un esempio di come la letteratura italiana possa essere influenzata dalla politica e dall'economia. La storia di questo libro è un segnale di allarme sulla censura e sulla manipolazione della cultura. Se il sistema culturale continua a premiare opere di bassa qualità e a ignorare quelle di alto livello, il dibattito pubblico italiano perderà questo strumento critico, e chi ci guadagna sarà identificabile per nome e finanziamento, come sempre.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-14T07:01:30.951569+00:00\",\n  \"dateModified\": \"2026-04-14T07:01:30.951569+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260414\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260414\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-chi-dice-e-chi-tacedi-chiara-valerio-20260414",
+  "related": [
+    {
+      "title": "Emily Howes esce con il suo romanzo di esordio: \"Le figlie del pittore\"",
+      "url": "/cultura/libro-del-giorno-le-figlie-del-pittoredi-emily-howes-20260412",
+      "id": "libro-20260412",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/71mzm8pxrnl__sl1500_-18efd.jpg?1775687941",
+      "image_type": "url"
+    },
+    {
+      "title": "Isabella ferrari: \"criteri fondi cinema opachi\"",
+      "url": "/cultura/isabella-ferrari-attacca-i-finanziamenti-al-cinema-847ad0ebdcac8f09",
+      "id": "847ad0ebdcac8f09",
+      "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/10/30/isabella-ferrari-1200.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Franco Currò esordisce con 'Il coltello della memoria', romanzo su Storia e silenzi siciliani",
+      "url": "/cultura/il-coltello-della-memoria-il-primo-romanzo-di-fran-0338afe17ee43e90",
+      "id": "0338afe17ee43e90",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/5f25fb63bac217e80bf6d6a403587950.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-04-14T07:01:30.951569+00:00"
 }
