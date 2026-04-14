@@ -1,23 +1,23 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude tornato online, ma per quanto tempo?",
+  "title": "Claude di anthropic fuori online per 53 minuti, enigma per l'avvenire",
   "titles": [
-    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
-    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
-    "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?"
+    "CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE",
+    "CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE",
+    "CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?",
-  "lead": "Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli.",
-  "corpo1": "La notizia è stata accolta con sollievo dalle comunità che utilizzano Claude per la ricerca di informazioni o la generazione di contenuti. Anthropic ha rassicurato i clienti che la piattaforma è ora funzionante regolarmente, ma non ha fornito informazioni sulla causa dell'interruzione. Claude è Stato sviluppato per aiutare le persone a comprendere e generare testi in modo più efficiente, ma la sua dipendenza da internet ha causato problemi in passato. Nel 2022, la piattaforma è stata colpita da un attacco di ransomware che ha bloccato l'accesso a gran parte dei dati.",
-  "corpo2": "La dipendenza di Claude da servizi di internet centralizzati è una delle principali critiche rivolte all'azienda. La piattaforma è progettata per essere accessibile da qualsiasi parte del mondo, ma questo significa che è vulnerabile a interruzioni di servizio causate da problemi tecnici o attacchi informatici. In precedenza, Anthropic ha promesso di migliorare la resilienza di Claude, ma non è chiaro se si sia trattato di una misura sufficiente per prevenire interruzioni simili. La domanda è se Claude sia pronto per la scalabilità e la Sicurezza richieste per essere considerato una piattaforma affidabile. Per quanto tempo Claude resterà online è ancora incerto.",
+  "occhiello": "CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE",
+  "lead": "Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione, avvenuta oggi. La notizia, resa nota dal portale tecnologico TechDaily, non ha ancora fornito dettagli sulle cause dell'esodo. Claude, utilizzato da centinaia di migliaia di utenti per generare testi dai contesti specifici, è sotto gli occhi dei critici per la sua capacità di influenzare il discorso pubblico.",
+  "corpo1": "Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, ha subito un'interruzione di servizio per circa 53 minuti nella giornata di oggi, secondo quanto riportato dal portale TechDaily. L'azienda, nota per aver creato una famiglia di grandi modelli di linguaggio con l'obiettivo di migliorare l'interazione uomo-macchina, non ha fornito spiegazioni immediate sulle cause dell'interruzione. Claude viene utilizzato in vari contesti, da applicazioni aziendali a piattaforme educative, con milioni di interazioni mensili. La mancanza di trasparenza di Anthropic su incidenti come questo è diventata una costante, sollevando interrogativi sulla stabilità e sicurezza di questi sistemi. Il modello Claude è stato sviluppato per fornire risposte accurate e contestualizzate, ma l'assenza di comunicazione chiara in momenti critici solleva preoccupazioni sull'affidabilità del servizio. TechDaily ha sottolineato che la questione va oltre la semplice inaccessibilità: si tratta di garantire che le misure di Sicurezza e la gestione delle interruzioni siano all'altezza delle aspettative degli utenti e delle implicazioni etiche di modelli di intelligenza artificiale così pervasivi.",
+  "corpo2": "Anthropic, la società dietro al modello Claude, è emersa nel panorama tecnologico come uno dei principali sviluppatori di modelli di intelligenza artificiale focalizzati sulla \"costruzione responsabile\" di AI. Tuttavia, l'episodio di oggi mette in evidenza una tendenza critica nel settore: la mancanza di trasparenza e comunicazione da parte delle aziende tecnologiche in caso di problemi. L'interruzione di Claude per 53 minuti non è solo una semplice questione tecnica; rappresenta un potenziale rischio per chi si affida a questi sistemi per attività cruciali. Se Claude continua a essere soggetto a interruzioni di questo tipo, l'efficienza operativa e la fiducia degli utenti ne risentiranno. La dipendenza crescente da modelli di linguaggio avanzati richiede una gestione trasparente delle crisi e delle vulnerabilità, aspetto che Anthropic sembra ancora dover affinare. Se questa tendenza continua, gli utenti potrebbero affrontare una riduzione della disponibilità dei loro strumenti di lavoro e un aumento del rischio di dati compromessi. Il conto lo pagheranno gli utenti, con interruzioni che influenzeranno le loro attività quotidiane e metteranno in discussione l'affidabilità dei servizi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
     "sezione": "tecnologia"
   },
   "published_at": "2026-04-13T16:38:05.915330+00:00",
@@ -28,31 +28,31 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"CLAUDE TORNATO ONLINE, MA PER QUANTO TEMPO?\",\n  \"description\": \"Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli.\",\n  \"articleBody\": \"Roma, 13 aprile. Claude, il grande modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione. L'azienda ha confermato la ripresa delle operazioni senza fornire ulteriori dettagli. La notizia è stata accolta con sollievo dalle comunità che utilizzano Claude per la ricerca di informazioni o la generazione di contenuti. Anthropic ha rassicurato i clienti che la piattaforma è ora funzionante regolarmente, ma non ha fornito informazioni sulla causa dell'interruzione. Claude è Stato sviluppato per aiutare le persone a comprendere e generare testi in modo più efficiente, ma la sua dipendenza da internet ha causato problemi in passato. Nel 2022, la piattaforma è stata colpita da un attacco di ransomware che ha bloccato l'accesso a gran parte dei dati. La dipendenza di Claude da servizi di internet centralizzati è una delle principali critiche rivolte all'azienda. La piattaforma è progettata per essere accessibile da qualsiasi parte del mondo, ma questo significa che è vulnerabile a interruzioni di servizio causate da problemi tecnici o attacchi informatici. In precedenza, Anthropic ha promesso di migliorare la resilienza di Claude, ma non è chiaro se si sia trattato di una misura sufficiente per prevenire interruzioni simili. La domanda è se Claude sia pronto per la scalabilità e la Sicurezza richieste per essere considerato una piattaforma affidabile. Per quanto tempo Claude resterà online è ancora incerto.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"dateModified\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"CLAUDE DI ANTHROPIC FUORI ONLINE PER 53 MINUTI, ENIGMA PER L'AVVENIRE\",\n  \"description\": \"Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione, avvenuta oggi. La notizia, resa nota dal portale tecnologico TechDaily, non ha ancora fornito dettagli sulle cause dell'esodo. Claude, utilizzato da centinaia di migliaia di ut\",\n  \"articleBody\": \"Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo 53 minuti di interruzione, avvenuta oggi. La notizia, resa nota dal portale tecnologico TechDaily, non ha ancora fornito dettagli sulle cause dell'esodo. Claude, utilizzato da centinaia di migliaia di utenti per generare testi dai contesti specifici, è sotto gli occhi dei critici per la sua capacità di influenzare il discorso pubblico. Roma, 13 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, ha subito un'interruzione di servizio per circa 53 minuti nella giornata di oggi, secondo quanto riportato dal portale TechDaily. L'azienda, nota per aver creato una famiglia di grandi modelli di linguaggio con l'obiettivo di migliorare l'interazione uomo-macchina, non ha fornito spiegazioni immediate sulle cause dell'interruzione. Claude viene utilizzato in vari contesti, da applicazioni aziendali a piattaforme educative, con milioni di interazioni mensili. La mancanza di trasparenza di Anthropic su incidenti come questo è diventata una costante, sollevando interrogativi sulla stabilità e sicurezza di questi sistemi. Il modello Claude è stato sviluppato per fornire risposte accurate e contestualizzate, ma l'assenza di comunicazione chiara in momenti critici solleva preoccupazioni sull'affidabilità del servizio. TechDaily ha sottolineato che la questione va oltre la semplice inaccessibilità: si tratta di garantire che le misure di Sicurezza e la gestione delle interruzioni siano all'altezza delle aspettative degli utenti e delle implicazioni etiche di modelli di intelligenza artificiale così pervasivi. Anthropic, la società dietro al modello Claude, è emersa nel panorama tecnologico come uno dei principali sviluppatori di modelli di intelligenza artificiale focalizzati sulla \\\"costruzione responsabile\\\" di AI. Tuttavia, l'episodio di oggi mette in evidenza una tendenza critica nel settore: la mancanza di trasparenza e comunicazione da parte delle aziende tecnologiche in caso di problemi. L'interruzione di Claude per 53 minuti non è solo una semplice questione tecnica; rappresenta un potenziale rischio per chi si affida a questi sistemi per attività cruciali. Se Claude continua a essere soggetto a interruzioni di questo tipo, l'efficienza operativa e la fiducia degli utenti ne risentiranno. La dipendenza crescente da modelli di linguaggio avanzati richiede una gestione trasparente delle crisi e delle vulnerabilità, aspetto che Anthropic sembra ancora dover affinare. Se questa tendenza continua, gli utenti potrebbero affrontare una riduzione della disponibilità dei loro strumenti di lavoro e un aumento del rischio di dati compromessi. Il conto lo pagheranno gli utenti, con interruzioni che influenzeranno le loro attività quotidiane e metteranno in discussione l'affidabilità dei servizi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"dateModified\": \"2026-04-13T16:38:05.915330+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Apple Watch ricarica veloce: con cavo da 20W tempo dimezzato, rivela guida Wired",
-      "url": "/tecnologia/apple-watch-series-7-e-oltre-in-45-minuti-l80-di-c-c09689a5f41ae27b",
-      "id": "c09689a5f41ae27b",
-      "image_url": "https://media-assets.wired.it/photos/69ccf5704ab402d575d1a05d/16:9/w_1280,c_limit/ricarica%20watch%20magsafe.jpg",
+      "title": "Github tornato online, 36 minuti di pausa",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Italia terza in Europa per consumo di plastica, importa 1,5 milioni di tonnellate",
-      "url": "/tecnologia/italia-terza-in-europa-per-consumo-di-plastica-dip-b287121f0651e90d",
-      "id": "b287121f0651e90d",
-      "image_url": "https://media-assets.wired.it/photos/69d8fc7e3ac672974ebc19e3/16:9/w_1280,c_limit/1218419348",
+      "title": "Cloudflare giù 21 minuti: bancari e Agenzia delle entrate off-line in tutta Europa",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Planet Labs sospende le immagini satellitari in Italia per ordine degli Usa",
-      "url": "/tecnologia/planet-labs-sospende-tutte-le-immagini-satellitari-76fe7347171bd5d2",
-      "id": "76fe7347171bd5d2",
-      "image_url": "https://media-assets.wired.it/photos/69d8c1418bb65c4d419f8f94/16:9/w_1280,c_limit/5963151105535447206.jpg",
+      "title": "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     }
   ],
