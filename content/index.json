@@ -1,5 +1,24 @@
 [
   {
+    "id": "55649ac1f9551e10",
+    "slug": "borsa-italiana-2-i-tech-volano-dopo-laccordo-nucle-55649ac1f9551e10",
+    "title": "Borsa Italiana sale del 2% a Milano, trainata dai titoli tech dopo l'accordo con l'Iran",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-14T06:45:32.181403+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/9f28689352b22ded1e95966ca48947e3.jpg",
+    "occhiello": "BORSA ITALIANA SPUNTA +2% DOPO ACCORDO IRAN",
+    "lead_preview": "Roma, 14 aprile. La Borsa Italiana chiude in rialzo del 2 % grazie all’ottimismo suscitato da un nuovo accordo nucleare ",
+    "tags": [
+      "borsa italiana",
+      "accordo iran",
+      "titoli tech"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fa518ecf4a95cf40",
     "slug": "matilda-de-angelis-dubita-sul-boycott-ai-david-fa518ecf4a95cf40",
     "title": "Matilda De Angelis non conferma la presenza ai David di Donatello",
@@ -645,25 +664,6 @@
       "guasto github",
       "interruzione servizio",
       "disservizio sviluppatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55649ac1f9551e10",
-    "slug": "borsa-italiana-2-i-tech-volano-dopo-laccordo-nucle-55649ac1f9551e10",
-    "title": "Borsa Italiana +2%: i tech volano dopo l'accordo nucleare con l'Iran",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-14T06:45:32.181403+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/9f28689352b22ded1e95966ca48947e3.jpg",
-    "occhiello": "BORSA IN RIALZO: ACCORDO IN IRAN SPINGE EUROPA E ASIA",
-    "lead_preview": "Roma, 14 aprile 2026. La Borsa Italiana è in rialzo grazie all'ottimismo su un accordo in Iran. I titoli tech trainano i",
-    "tags": [
-      "borsa italiana",
-      "accordo iran",
-      "tech volano"
     ],
     "hero_eligible": true
   },
