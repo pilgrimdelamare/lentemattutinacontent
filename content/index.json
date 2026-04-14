@@ -1,5 +1,20 @@
 [
   {
+    "id": "697fb1f1073a322a",
+    "slug": "due-navi-bloccano-il-traffico-nel-golfo-persico-697fb1f1073a322a",
+    "title": "Due navi mercantili invertite in Golfo Persico bloccano il traffico marittimo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-13T03:44:42.523081+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
+    "occhiello": "TRAFFICO MARITTIMO BLOCCATO NEL GOLFO PERSICO",
+    "lead_preview": "Roma, 13 aprile. Due navi mercantili hanno invertito rotta nel Golfo Persico, bloccando il traffico marittimo nella regi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "db276966e7c8df33",
     "slug": "carbone-al-senato-aiutiamo-22-milioni-di-cittadini-db276966e7c8df33",
     "title": "22 Milioni di contribuenti accedono al nuovo servizio fiscale online",
@@ -1766,24 +1781,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "697fb1f1073a322a",
-    "slug": "due-navi-bloccano-il-traffico-nel-golfo-persico-697fb1f1073a322a",
-    "title": "Due navi mercantili invertono rotta nel Golfo Persico e bloccano il traffico marittimo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-13T03:44:42.523081+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/935e0bdd25d5c9f5037aa04ff03a7cdb.jpg",
-    "occhiello": "DUE NAVI BLOCCANO TRAFFICO NEL GOLFO PERSICO",
-    "lead_preview": "Roma, 13 aprile. Due navi si sono invertite di rotta nel Golfo Persico bloccando il traffico marittimo. Lo scrive Lloyd'",
-    "tags": [
-      "blocco traffico golfo persico",
-      "nave mercantile rotta invertita"
     ],
     "hero_eligible": true
   },
