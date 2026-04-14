@@ -1,5 +1,24 @@
 [
   {
+    "id": "a54eb5aef7647c66",
+    "slug": "michelangelo-e-rodin-in-mostra-al-louvre-150-opere-a54eb5aef7647c66",
+    "title": "Michelangelo e Rodin in mostra al Louvre: 150 opere in dialogo sul corpo umano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-14T15:44:01.261656+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/eb09796ced5eef0b11d5e803c27f8801.jpg",
+    "occhiello": "",
+    "lead_preview": "Parigi, 14 aprile. Il Louvre ospita da domani fino al 20 luglio 2026 una mostra intitolata “Corpi viventi”, che mette in",
+    "tags": [
+      "mostra michelangelo rodin",
+      "louvre 2026",
+      "corpi viventi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c23b9d4136a96562",
     "slug": "maltempo-blocca-papa-leone-xiv-ad-annaba-visita-ri-c23b9d4136a96562",
     "title": "Papa leone xiv sostituisce l'ulivo della pace con una visita ridotta",
@@ -9017,25 +9036,6 @@
       "morte lucescu",
       "funerali lucescu",
       "national arena bucarest"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "65b3bdf786b3e771",
-    "slug": "sabato-allarena-flegrea-il-dj-francese-folamour-65b3bdf786b3e771",
-    "title": "Folamour a Napoli il 11 aprile: concerto gratuito all’Arena Flegrea per 3.500 persone",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-09T11:01:22.955704+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/1dfeb988f93834f901fa1e5e3b3631af.jpg",
-    "occhiello": "FOLAMOUR IN CONCERTO ALL’ARENA FLEGREA",
-    "lead_preview": "Folamour, il dj e producer francese, si esibirà sabato 11 aprile all’Arena Flegrea di Napoli. L’evento, a ingresso gratu",
-    "tags": [
-      "concerto folamour napoli",
-      "arena flegrea",
-      "musica gratis napoli"
     ],
     "hero_eligible": true
   }
