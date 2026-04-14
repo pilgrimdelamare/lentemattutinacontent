@@ -1,5 +1,24 @@
 [
   {
+    "id": "acc56503d7b907aa",
+    "slug": "lasso-annuncia-seconda-visita-in-cina-acc56503d7b907aa",
+    "title": "Lasso annuncia visita cinese per fine aprile",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-14T08:03:21.722052+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/27/e23fa7149c15ca43a3527f883b2a8327.jpg",
+    "occhiello": "LAZZO IN CINA",
+    "lead_preview": "Roma, 14 aprile. Il presidente dell'Ecuador, Guillermo Lasso, annuncia la sua seconda visita in Cina, dove si incontrerà",
+    "tags": [
+      "visita lasso in cina",
+      "lasso xi jinping",
+      "cooperazione cina ecuador"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fc6c5fc571bd8c1d",
     "slug": "scirocco-e-sabbia-italia-soffoca-nel-caldo-african-fc6c5fc571bd8c1d",
     "title": "25°C in tutta l'Italia, il caldo è arrivato",
@@ -788,25 +807,6 @@
       "crisi golfo persico",
       "analisi iran",
       "hassan ahmadian"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "acc56503d7b907aa",
-    "slug": "lasso-annuncia-seconda-visita-in-cina-acc56503d7b907aa",
-    "title": "Lasso annuncia seconda visita in Cina",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-14T08:03:21.722052+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/27/e23fa7149c15ca43a3527f883b2a8327.jpg",
-    "occhiello": "IL PRESIDENTE DELL'ECUADOR SI ALLINEA CON GLI STATI UNITI",
-    "lead_preview": "Roma, 14 aprile. Il presidente dell'Ecuador, Guillermo Lasso, annuncia la sua seconda visita in Cina, dove si incontrerà",
-    "tags": [
-      "visita cina",
-      "lasso in cina",
-      "guillermo lasso"
     ],
     "hero_eligible": true
   },
