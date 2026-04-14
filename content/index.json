@@ -1,5 +1,23 @@
 [
   {
+    "id": "9ded4a53a611ba59",
+    "slug": "pallacanestro-celtics-battranno-il-magic-9ded4a53a611ba59",
+    "title": "Celtics vincono 113-108 contro magic",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-13T07:15:57.160740+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/7092669700cfb4949a8ee4b3ddc83e76eb10581a/skysport/it/nba/video/2026/04/13/1089768_1776051916805_thumb_494.0000001_1776060116063.jpg",
+    "occhiello": "CELTICS VINCONO 113-108 CONTRO MAGIC",
+    "lead_preview": "Celtics vincono 113-108 contro Magic <boston, 13 aprile. I Boston Celtics hanno sconfitto gli Orlando Magic per 113-108 ",
+    "tags": [
+      "nba",
+      "celtics magic"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ff08f2f54bc74b0",
     "slug": "basket-giannis-antetokounmpo-spiazza-i-76ers-4ff08f2f54bc74b0",
     "title": "Giannis ricorda 35‑17‑20 in 126‑113",
@@ -1151,25 +1169,6 @@
       "calcio",
       "sunderland",
       "tottenham"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ded4a53a611ba59",
-    "slug": "pallacanestro-celtics-battranno-il-magic-9ded4a53a611ba59",
-    "title": "Pallacanestro: Celtics battranno il Magic",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T07:15:57.160740+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7092669700cfb4949a8ee4b3ddc83e76eb10581a/skysport/it/nba/video/2026/04/13/1089768_1776051916805_thumb_494.0000001_1776060116063.jpg",
-    "occhiello": "NBA, BOSTON ORLANDO: I CELTICS BATTERONO I MAGIC PER 113-108",
-    "lead_preview": "Boston, 13 aprile. I Celtics di Boston hanno battuto gli Magic di Orlando per 113-108 nella partita di ieri sera. La squ",
-    "tags": [
-      "nba",
-      "celtics",
-      "magic"
     ],
     "hero_eligible": true
   },
