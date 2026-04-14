@@ -1,5 +1,22 @@
 [
   {
+    "id": "4c6ab67ee918081d",
+    "slug": "wti-supera-i-104-dollari-al-barile-a-new-york-benz-4c6ab67ee918081d",
+    "title": "Petrolio Wti sale a 104 dollari",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-13T06:26:53.632146+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f3841b2c69ad18eaba5fc92b7eb879ac.jpg",
+    "occhiello": "PREZZO PETROLIO ESPLODE",
+    "lead_preview": "Roma, 13 aprile. Il prezzo del petrolio Wti ha superato i 104 dollari al barile a New York, con un aumento dell'8,4% in ",
+    "tags": [
+      "prezzo petrolio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7f05398a08235099",
     "slug": "israele-convoca-lambasciatore-italiano-dopo-le-acc-7f05398a08235099",
     "title": "Israele convoca l'ambasciatore Italiano dopo le accuse di Tajani sui raid in Libano",
@@ -1017,23 +1034,6 @@
       "calcio italiano",
       "malago",
       "giancarlo abete"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c6ab67ee918081d",
-    "slug": "wti-supera-i-104-dollari-al-barile-a-new-york-benz-4c6ab67ee918081d",
-    "title": "Petrolio sale: 104 dollari il barile",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-13T06:26:53.632146+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/f3841b2c69ad18eaba5fc92b7eb879ac.jpg",
-    "occhiello": "BOLLETTA DA 2 MILIARDI DI EURO",
-    "lead_preview": "Roma, 13 aprile. Il prezzo del petrolio Wti ha superato i 104 dollari al barile a New York, +8,4% in tre giorni. Il Bren",
-    "tags": [
-      "prezzo petrolio"
     ],
     "hero_eligible": true
   },
