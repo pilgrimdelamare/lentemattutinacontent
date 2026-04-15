@@ -1,5 +1,24 @@
 [
   {
+    "id": "b42b3f6825fe55b3",
+    "slug": "il-btp-italiano-cede-terreno-con-un-calo-del-108-i-b42b3f6825fe55b3",
+    "title": "Il BTP decennale scende al 3,76%, calo di 10,8 punti base in giornata",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-15T06:33:27.910956+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/2903283d0e56f2f20acacc572c48172c.jpg",
+    "occhiello": "IL BTP DELEVA DI 10,8 PB IN UNA GIORNATA DI CALMA",
+    "lead_preview": "Roma, 15 aprile. Il rendimento del BTP decennale si è attestato al 3,76%, in calo di 10,8 punti base rispetto alla sedut",
+    "tags": [
+      "btp decennale",
+      "rendimento btp",
+      "mercato obbligazionario"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f7ae90e61122a799",
     "slug": "francia-scambia-mahdieh-esfandiari-condannata-per-f7ae90e61122a799",
     "title": "Francia cede cittadina condannata per apologia jihadista in cambio di ostaggi in Iran",
@@ -636,24 +655,6 @@
     "tags": [
       "prezzo gas ttf",
       "mercato energia europa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b42b3f6825fe55b3",
-    "slug": "il-btp-italiano-cede-terreno-con-un-calo-del-108-i-b42b3f6825fe55b3",
-    "title": "Il BTP italiano cede terreno con un calo del 10,8% in una giornata di moderata fiducia",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-15T06:33:27.910956+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/2903283d0e56f2f20acacc572c48172c.jpg",
-    "occhiello": "IL RENDIMENTO DEL BTP SCENDE A 3,76%",
-    "lead_preview": "Roma, 15 aprile. Il rendimento del BTP decennale scende al 3,76%, in calo di 10,8 punti base rispetto alla seduta preced",
-    "tags": [
-      "btp rendimento",
-      "spread btp-bund"
     ],
     "hero_eligible": true
   },
