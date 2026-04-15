@@ -1,5 +1,23 @@
 [
   {
+    "id": "a79fb131ada5048b",
+    "slug": "cara-italia-le-azioni-del-corriere-minacciano-lavv-a79fb131ada5048b",
+    "title": "Cara Italia, le azioni del Corriere minacciano l'avvicinamento a Roma",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-15T00:30:56.679221+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/52c9e9139ffb5ecf76d839c7f8809c22.jpg",
+    "occhiello": "FONDI SCOMPARSI DI DIVERTO DI CRITICA",
+    "lead_preview": "Roma, 15 aprile 2026",
+    "tags": [
+      "politica",
+      "roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8f90d2f69a61e72f",
     "slug": "checco-zalone-in-spagna-buen-camino-ha-un-remake-8f90d2f69a61e72f",
     "title": "Checco Zalone torna al cinema: parte il remake di 'Buen Camino' prodotto da società indipendente",
@@ -8967,25 +8985,6 @@
       "film aldrovandi",
       "fondi 2026",
       "caso aldrovandi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "368fb8d7d6cb89e4",
-    "slug": "incidente-di-espargaro-a-sepang-4-vertebre-frattur-368fb8d7d6cb89e4",
-    "title": "MotoGP: Aleix Espargaró fratture multiple in ospedale dopo incidente a Sepang",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T10:36:21.791542+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bb882bbd79a9e1d3318d59d3a79d78225a0e108d/skysport/it/motori/motogp/2026/04/09/motogp-espargaro-incidente-infortunio-news/espargar.jpg",
-    "occhiello": "INCIDENTE DI ESPARGARÓ A SEPAING: 4 VERTEBRE FRATTURATE",
-    "lead_preview": "Aleix Espargaró, pilota del Team Honda HRC, è rimasto coinvolto in un brutto incidente durante i Test a Sepang, in Malay",
-    "tags": [
-      "incidente espargaró",
-      "moto gp sepang",
-      "test motogp 2026"
     ],
     "hero_eligible": true
   }
