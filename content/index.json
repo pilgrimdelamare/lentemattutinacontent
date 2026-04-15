@@ -1,5 +1,23 @@
 [
   {
+    "id": "b2278e205cf1d95d",
+    "slug": "francesco-paolantoni-in-scena-con-il-piccolo-b2278e205cf1d95d",
+    "title": "Paolantoni porta lo show Piccolo a Roma: intrattenimento senza rischi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-15T09:25:10.082364+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ba6661a38c623070053a9bd8cfbd6e3e.jpg",
+    "occhiello": "PAOLANTONI E L'OTTAVINO, TEATRO NELLA RETROGUARDIA",
+    "lead_preview": "Roma, 15 aprile. Francesco Paolantoni si appresta a salire sul palco del teatro italiano per un weekend che promette sva",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dfe9edbf922c7b26",
     "slug": "calcio-vanoli-sprona-la-fiorentina-sognare-non-cos-dfe9edbf922c7b26",
     "title": "Calcio: Vanoli sprona la Fiorentina: \"Sognare non costa nulla\" a Londra",
@@ -911,25 +929,6 @@
     "tags": [
       "borsa italiana",
       "ftse mib"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2278e205cf1d95d",
-    "slug": "francesco-paolantoni-in-scena-con-il-piccolo-b2278e205cf1d95d",
-    "title": "Francesco Paolantoni in scena con il Piccolo",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-15T09:25:10.082364+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ba6661a38c623070053a9bd8cfbd6e3e.jpg",
-    "occhiello": "TEATRO ITALIANO: UN WEEKEND DI SVAGO E DI PROVINCIALISMO",
-    "lead_preview": "TEATRO ITALIANO: UN WEEKEND DI SVAGO E DI PROVINCIALISMO Roma, 15 aprile. Il teatro italiano si prepara a un weekend di ",
-    "tags": [
-      "teatro italiano",
-      "francesco paolantoni",
-      "spettacoli romani"
     ],
     "hero_eligible": true
   },
