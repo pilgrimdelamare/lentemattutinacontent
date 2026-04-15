@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 14 aprile 2026",
+  "title": "Le prime pagine di oggi, mercoledì 15 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 14 aprile 2026",
-    "Le prime pagine di oggi, martedì 14 aprile 2026",
-    "Le prime pagine di oggi, martedì 14 aprile 2026"
+    "Le prime pagine di oggi, mercoledì 15 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 15 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 15 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 14 APRILE 2026: TRUMP E IL PAPA",
-  "lead": "La maggior parte dei quotidiani italiani punta i riflettori sull’attacco del presidente Usa Donald Trump al Papa, con titoli in apertura che ribadiscono le dichiarazioni del tycoon e le reazioni del pontefice e delle istituzioni. Alcuni giornali dedicano spazio anche a temi sportivi, come la vittoria dell’Inter e la corsa alla presidenza della Figc.",
-  "corpo1": "Prima pagina 1 presenta un’offerta promozionale di 30 giorni per l’abbonamento a un servizio di streaming. Prima pagina 2 si concentra sul lancio del decoder Sky Stream. Prima pagina 3 riporta l’affronto di Trump al Papa, con le dichiarazioni del tycoon e le reazioni di Meloni e del presidente ungherese Magyar. Prima pagina 4 approfondisce lo scontro Usa-Vaticano, evidenziando le parole senza precedenti di Trump e la replica del Papa. Prima pagina 5 analizza lo “scisma di Trump” e le tensioni con il Vaticano, menzionando anche l’Ungheria e il caso Altman. Prima pagina 6 si focalizza sull’insulto al Papa da parte del presidente Usa e le posizioni del governo italiano e dell’Ungheria. Prima pagina 7 commenta la reazione del Papa e dell’ex premier Meloni, accanto a un caso giudiziario in Italia. Prima pagina 8 e 9 dedicano ampio spazio alla politica calcistica, con la vittoria dell’Inter e le sfide per la presidenza della Figc. Prima pagina 10 aggiorna sulle ambizioni del Milan e su questioni inerenti la Serie A.",
-  "corpo2": "Altri spazi sono occupati da notizie di cronaca, come il blocco delle navi Usa a Hormuz e un delitto non meglio specificato. Il tema dominante della giornata rimane però la tensione tra Trump e il Papa, con ripercussioni politiche e diplomatiche.",
+  "occhiello": "LE PRIME PAGINE 15 APRILE 2026",
+  "lead": "I principali quotidiani italiani aprono oggi prevalentemente sulla tensione tra Giorgia Meloni e Donald Trump, innescata dalle dichiarazioni della premier a difesa di papa Leone XIV, dopo le critiche del presidente statunitense. Sky TG24 e La Stampa dedicano ampio spazio allo scontro diplomatico, mentre Il Corriere della Sera e Repubblica segnalano le reazioni internazionali e istituzionali. Qualche giornale si concentra invece su temi sportivi, in particolare sulla Serie A.",
+  "corpo1": "Sky TG24 apre con l’attacco di Donald Trump a Giorgia Meloni, seguito dalla replica del pontefice: “Dio non sta con i prepotenti”. Il sito evidenzia anche la posizione degli Stati Uniti sui colloqui con l’Iran e un’interruzione nel memorandum Italia-Israele. Sky Go rilancia lo scontro, definendo Meloni “senza coraggio” secondo Trump, e riporta le parole di Leone XIV, accostandole all’aggiornamento sulla diplomazia con Teheran. La Stampa titola “Trump-Meloni, il divorzio”, sottolineando la sospensione del patto di difesa con Israele e la condanna di Elly Schlein agli attacchi del presidente Usa. Corriere della Sera dedica la prima pagina allo “strappo” tra Trump e Meloni, citando le dichiarazioni della premier e il monito del presidente Mattarella sul potere. La Gazzetta dello Sport concentra l’apertura su Stefano Pioli, definito “Potere Chivu”, in vista del rinnovo con l’Inter, e pubblica un’intervento di Sandro Mazzola. Il Corriere dello Sport parla del futuro del Napoli con “Conte cambia tutti”, riporta le parole di De Laurentiis e gli obiettivi di Spalletti alla Juventus.",
+  "corpo2": "Altri quotidiani menzionano la Milano Marathon 2026, con focus sui vincitori e sulle promozioni legate all’evento. Alcuni titoli accennano a temi di accessibilità digitale. Lo scontro tra Trump, Meloni e il Vaticano domina l’agenda di giornata.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,39 +23,39 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-14T05:45:28.253396+00:00",
+  "published_at": "2026-04-15T05:45:10.886306+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/8158189d9e55e41189c5b337babcef96a3649fcd/skytg24/it/cronaca/2026/04/14/prime-pagine-quotidiani-oggi-14-aprile/collage_hero.jpg?im=Resize,width=375",
-    "source": "Prima pagina 1",
-    "credit": "Prima pagina — Prima pagina 1",
+    "url": "https://tg24.sky.it/assets/images/7678cba263577bd72404fe105c98b8d8a76652df/skytg24/it/cronaca/2026/04/15/prime-pagine-quotidiani-oggi-15-aprile/collage_1.png?im=Resize,width=375",
+    "source": "I vincitori della Milano Marathon 2026",
+    "credit": "Prima pagina — I vincitori della Milano Marathon 2026",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/14/prime-pagine-quotidiani-oggi-14-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/15/prime-pagine-quotidiani-oggi-15-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 14 aprile 2026",
+      "title": "Oroscopo di oggi, mercoledì 15 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Gabriele Esposito, 18enne di Tor Bella Monaca, diventa Alfiere del Tricolore a Roma il 15 aprile",
-      "url": "/cronaca/gabriele-volontario-di-tor-bella-monaca-nominato-a-d65a437982476145",
-      "id": "d65a437982476145",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/298ecc6e318c08c0544677a5160173c6.jpg",
-      "image_type": "image"
+      "title": "Madrid, 14 aprile",
+      "url": "/sport/tennis-alcaraz-non-sente-mancanza-sinner-a-barcell-dea6eacdaa797f01",
+      "id": "dea6eacdaa797f01",
+      "image_url": "https://sport.sky.it/assets/images/e6a1fa44e573913cd1f09366c222f41ecbe8079f/skysport/it/tennis/video/2026/04/14/1090062_1776160721977_thumb_494.0000001_1776160743708.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Prime Video primo in Italia con il 24% di share, distacca Netflix nel Q1",
-      "url": "/economia/prime-video-al-24-in-italia-scatto-vincente-nei-pr-5a56c3c386a6e4d0",
-      "id": "5a56c3c386a6e4d0",
-      "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/04/10/Immagini/Ritagli/AdobeStock_477528379_Editorial_Use_Only-U22457747064xMy-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+      "title": "Shenzhen, 14 aprile",
+      "url": "/esteri/hui-ka-yan-si-dichiara-colpevole-di-frode-per-300-33e1ab0224123e93",
+      "id": "33e1ab0224123e93",
+      "image_url": "https://i.guim.co.uk/img/media/7a4584dba05bcb43b31f6c2e27b9d08b4233ebec/407_0_4807_3846/master/4807.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8b6bdcfed179d2c3a6b1f547989b203",
       "image_type": "image"
     }
   ],
