@@ -1,5 +1,24 @@
 [
   {
+    "id": "1f175c8c08059fca",
+    "slug": "cocciante-torna-sul-palco-dopo-quattro-anni-1f175c8c08059fca",
+    "title": "Riccardo Cocciante torna dal vivo a Roma: concerto in settembre dopo la pausa pandemica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-15T11:21:23.763012+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/9fd83034125e51362d40378f438293c9.jpg",
+    "occhiello": "COCCIANTE TORNA A ROMA: CONCERTO DI SETTEMBRE DOPO L’INTERRUZIONE",
+    "lead_preview": "Roma, 15 aprile. Riccardo Cocciante, cantautore e compositore italiano con cittadinanza francese, annuncia un concerto a",
+    "tags": [
+      "concerto cocciante roma",
+      "ritorno dal vivo cocciante",
+      "cocciante settembre roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "212a919a6c383acd",
     "slug": "52-terawattora-blindati-per-48-industrie-la-bollet-212a919a6c383acd",
     "title": "Governo concede 5,2 TWh a 48 aziende: ENI, ENEL e Fincantieri con prezzo calmierato",
@@ -2704,25 +2723,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1f175c8c08059fca",
-    "slug": "cocciante-torna-sul-palco-dopo-quattro-anni-1f175c8c08059fca",
-    "title": "Riccardo Cocciante torna dal vivo a settembre con un concerto a Roma",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-15T11:21:23.763012+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/9fd83034125e51362d40378f438293c9.jpg",
-    "occhiello": "RICCARDO COCCIANTE, DOPPIA NATIONE, RITORNA IN SCENA",
-    "lead_preview": "Roma, 15 aprile. Riccardo Cocciante, noto nel mondo francofono e anglofono (Nota: non è necessario tradurre, ma è consig",
-    "tags": [
-      "concerto cocciante",
-      "cocciante roma",
-      "ritorno cocciante"
     ],
     "hero_eligible": true
   },
