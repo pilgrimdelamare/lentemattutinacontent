@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260414",
+    "slug": "libro-del-giorno-chi-dice-e-chi-tacedi-chiara-valerio-20260414",
+    "title": "Scomparsi 500mila euro per promuovere l'opera 'Chi dice e chi taci'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-14T07:01:30.951569+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/arton169807-aa187.jpg?1775668726",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO, ROMANZO IN PERICOLO",
+    "lead_preview": "Roma, 14 aprile 2026. I fondi destinati alla sostenibilità del romanzo \"Chi dice e chi taci\" sono scomparsi dopo il voto",
+    "tags": [
+      "fondi scomparsi chi dice e chi taci",
+      "romanzo chi dice e chi taci",
+      "voto parlamentare fondi culturali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ed22f35b8f7d3745",
     "slug": "borsa-milano-sale-dello-059-stellantis-crolla-con-ed22f35b8f7d3745",
     "title": "Stellantis chiude a -2,15% mentre Milano guadagna +0,59%",
@@ -1233,25 +1252,6 @@
     "tags": [
       "blocco conto energetico",
       "salvini-giorgetti 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260414",
-    "slug": "libro-del-giorno-chi-dice-e-chi-tacedi-chiara-valerio-20260414",
-    "title": "I fondi del romanzo 'Chi dice e chi taci' sono scomparsi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-14T07:01:30.951569+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/arton169807-aa187.jpg?1775668726",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ",
-    "lead_preview": "FONDI SCOMPARSI DOPO IL VOTO, IL ROMANZO ITALIANO PERDE LA SOSTENIBILITÀ Roma, 14 aprile 2026. Il romanzo \"il romanzo 'C",
-    "tags": [
-      "fondi scomparsi romanzo",
-      "chiara valerio",
-      "chi dice e chi tace"
     ],
     "hero_eligible": true
   },
