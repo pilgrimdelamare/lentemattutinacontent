@@ -1,5 +1,23 @@
 [
   {
+    "id": "5f56ebf174d6edc6",
+    "slug": "salvini-sfida-trump-su-twitter-la-pace-non-e-un-po-5f56ebf174d6edc6",
+    "title": "Salvini sfida Trump senza frontiere: «L’Italia merita rispetto, non minacce»",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-15T11:00:39.725371+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/88493d76ddd70dc966e6e2671833ce0e.jpg",
+    "occhiello": "SALVINI VS TRUMP: LA GUERRA DEI 140 CARATTERI",
+    "lead_preview": "SALVINI VS TRUMP: LA GUERRA DEI 140 CARATTERI Roma, 15 aprile. Matteo Salvini, vicepresidente del Consiglio e ministro d",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude 3 di Anthropic va in tilt per 30 minuti: 0,8% delle richieste globali bloccate",
@@ -1934,21 +1952,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/d38dd533470ddd4436205c644c7c3d3e.jpg",
     "occhiello": "OTTO PETROLIERE DEVIA ROTTA SU ORDINE USA",
     "lead_preview": "Roma, 15 aprile. Otto petroliere hanno modificato la loro rotta nel Mar Mediterraneo in seguito a un ordine impartito da",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5f56ebf174d6edc6",
-    "slug": "salvini-sfida-trump-su-twitter-la-pace-non-e-un-po-5f56ebf174d6edc6",
-    "title": "Salvini sfida Trump su Twitter: la pace non è un post, Roma rischia l'isolamento",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-15T11:00:39.725371+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/88493d76ddd70dc966e6e2671833ce0e.jpg",
-    "occhiello": "SALVINI CONTRO TRUMP SULLA PACE SOCIAL",
-    "lead_preview": "Roma, 15 aprile. Matteo Salvini, Vicepresidente del Consiglio e Ministro delle Infrastrutture, apre un fronte diplomatic",
     "tags": [],
     "hero_eligible": true
   },
