@@ -1,5 +1,24 @@
 [
   {
+    "id": "1e83f2d02bef4898",
+    "slug": "beatrice-alemagna-trionfa-al-premio-carmona-con-il-1e83f2d02bef4898",
+    "title": "Beatrice Alemagna trionfa al Premio Carmona con il suo primo Libro per bambini",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-15T14:03:40.731463+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/0a23bbe940827234dbd3c6caf9364262.jpg",
+    "occhiello": "Beatrice Alemagna VINCITRICE DEL LIBRO D'ESORDIO ANTONIO CARMONA",
+    "lead_preview": "Roma, 15 aprile. La scrittrice e illustratrice Italiana Beatrice Alemagna ha vinto il Libro d'Esordio Antonio Carmona, a",
+    "tags": [
+      "premio carmona 2024",
+      "libro d'esordio",
+      "beatrice alemagna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "311da75259327b57",
     "slug": "barratt-redrow-taglia-gli-acquisti-di-terreni-in-u-311da75259327b57",
     "title": "Barratt Redrow sospende compravendita terreni: crisi acciaio iraniano blocca costruzioni in UK",
@@ -8931,25 +8950,6 @@
       "tennis",
       "masters 1000",
       "sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0171f016dec0890a",
-    "slug": "artemis-ii-la-capsula-orion-pronta-a-entrare-nella-0171f016dec0890a",
-    "title": "Orion rientra a 38.000 km/h: scudo termico alla prova nel Pacifico alle 2",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-11T00:25:28.911011+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/426a9069dfb51b4d6a9e30a8f54f6064.jpg",
-    "occhiello": "LA CAPSULA ORION PRONTA ALL'ATERRAGGIO",
-    "lead_preview": "La capsula Orion, proveniente dalla missione Artemis II, è pronta a entrare nell'atmosfera terrestre dopo dieci giorni d",
-    "tags": [
-      "atterraggio orion",
-      "missione artemis ii",
-      "rientro capsule"
     ],
     "hero_eligible": true
   }
