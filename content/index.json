@@ -1,5 +1,24 @@
 [
   {
+    "id": "90af1ec82e587749",
+    "slug": "kuwait-arrestato-giornalista-usa-kuwaitiano-per-re-90af1ec82e587749",
+    "title": "Giornalista statunitense arrestato in Kuwait per reportage sulla guerra",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-14T11:00:37.942410+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/a3b601b02ba2f3bc37402b599a366130d3c50c64/3009_168_1846_1477/master/1846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f7a2c7efdebaa9559f3aa285aa99ee7",
+    "occhiello": "ARRESTO DI GIORNALISTA IN KUWAIT",
+    "lead_preview": "Riade, 14 aprile. Ahmed Shihab-Eldin, un giornalista statunitense di origine kuwaitiana, è stato arrestato dalla Sicurez",
+    "tags": [
+      "guerra usa-iran",
+      "arresto giornalista",
+      "kuwait"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bb26c0ef36d4bc7a",
     "slug": "pakistan-annuncia-colloqui-per-riconciliare-iran-e-bb26c0ef36d4bc7a",
     "title": "Pakistan aiuta Iran e Usa a ricominciare trattative nucleari",
@@ -2184,25 +2203,6 @@
       "bonus new-entry",
       "inps indagine",
       "domande dubbie"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "90af1ec82e587749",
-    "slug": "kuwait-arrestato-giornalista-usa-kuwaitiano-per-re-90af1ec82e587749",
-    "title": "Arrestato giornalista per un reportage su fuoco amico usa-iran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-14T11:00:37.942410+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/a3b601b02ba2f3bc37402b599a366130d3c50c64/3009_168_1846_1477/master/1846.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5f7a2c7efdebaa9559f3aa285aa99ee7",
-    "occhiello": "ARRESTATO GIORNALISTA PER UN REPORTAGE SU FUOCO AMICO USA-IRAN",
-    "lead_preview": "Kuwait, 14 aprile. Ahmed Shihab-Eldin, giornalista statunitense di origine kuwaitiana, è stato arrestato dalla Sicurezza",
-    "tags": [
-      "arresto shihab-eldin",
-      "reportage usa-iran",
-      "sicurezza kuwait"
     ],
     "hero_eligible": true
   },
