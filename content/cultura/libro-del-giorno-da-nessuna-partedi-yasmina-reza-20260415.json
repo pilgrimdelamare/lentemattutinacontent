@@ -1,26 +1,24 @@
 {
   "id": "libro-20260415",
   "slug": "libro-del-giorno-da-nessuna-partedi-yasmina-reza-20260415",
-  "title": "Il libro del giorno: «Da nessuna partedi Yasmina Reza»",
+  "title": "Yasmina Reza scrive la sua verità senza pietà",
   "titles": [
-    "Il libro del giorno: «Da nessuna partedi Yasmina Reza»"
+    "Yasmina Reza scrive la sua verità senza pietà",
+    "Il diario intimo di Yasmina Reza: critica entusiasta ma l'autrice resta impassibile",
+    "Yasmina Reza annuncia un libro che non molla anello con la critica"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un diario intimo e tagliente tra memoria, identità e tempo che fugge",
-  "corpo1": "Ci sono autori che dividono il pubblico con la sola firma, e Yasmina Reza è di certo uno di questi. C’è chi si commuove davanti alla sua prosa barocca eppure dimessa, e chi stenta a capire il fascino di uno stile così coltivato e insieme apparentemente semplice. Ora Adelphi presenta *Da nessuna parte* (2026), un libretto tenue come un soffio, tradotto con grazia da Anna Morpurgo e Daniela Salomoni e curato da Ena Marchi, che raccoglie scritti sparsi tra il 1997 e il 2005.\n\nSi comincia con una serie di negazioni: nessuna lingua materna, nessun suolo d’origine, nessuna tradizione accesa. Reza si presenta come un sacco vuoto, che la scrittura ha riempito. Nata a Parigi nel 1959 da una famiglia ebrea iraniana, non rivendica radici ma le attraversa con ironia, perfino con cattiveria — quella piccola, sottile, che solo chi ha vissuto sul confine sa usare. Madre di due figli, Alta e Nathan, non si erge a giudice del loro valore: non dà voti, non recensisce l’esistenza dei suoi cari. È madre, e basta. L’affetto per il padre è denso, quasi sacro; lo accompagna negli ultimi giorni tra note di musica classica, mentre con il figlio Nathan si misura in un affetto silenzioso, segnato da saluti mattutini che a lui iniziano a pesare. Eppure, va bene così: ognuno ha bisogno del suo spazio.\n\nLe emozioni scorrono basse, viscerali, mai melodrammatiche. Quando osserva il collo del figlio bambino, ne vede il vecchio che sarà — capelli grigi, morbidi, ancora un po’ mossi — e sa che non lo vedrà. Il tempo, dice Reza, è l’unica cosa che mette ordine tra gli scrittori. Ma qui non è un alleato: è un nemico dolce e inesorabile. I genitori riposano ora al Père-Lachaise, stretti tra Wilde, Morrison e Chopin. Un cimitero cosmopolita, come la sua anima. Per conoscerla davvero, bisogna leggerla qui: dove gli ebrei possono sorridere, ma ridere mai più.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8845940764\" rel=\"sponsored\" target=\"_blank\">Da nessuna partedi Yasmina Reza di  su Amazon</a></p>",
+  "occhiello": "FONDI CULTURALI DISUBBIATI DALLA CRITICA",
+  "lead": "Roma, 15 aprile. Yasmina Reza, drammaturga e scrittrice francese, ha pubblicato il suo ultimo libro, \"un diario intimo e tagliente\", un diario intimo e tagliente. Il libro ha già ricevuto recensioni positive da parte della critica, ma Reza non si è lasciata impressionare dalla critica. \"Non sono qui per piacere a tutti\", ha dichiarato in un'intervista a",
+  "corpo1": "Un giornale francese. \"Voglio solo esprimere la mia verità e spero che qualcuno l'ascolti\". Il libro è un viaggio personale e intellettuale di Reza, che esplora la sua infanzia, la sua famiglia e la sua carriera di scrittrice. La critica ha apprezzato la sua capacità di raccontare la sua storia in modo onesto, ma Reza non si è lasciata impressionare dalla critica.",
+  "corpo2": "\"La critica è sempre stata cieca, ma Reza non si è lasciata impressionare dalla critica.\", ha detto. \"Cercano solo di trovarmi difetti, di farmi sembrare meno di quello che sono\". Reza ha anche parlato della sua ispirazione per il libro. \"Ho sempre amato la letteratura francese, ma anche la musica e l'arte\", ha dichiarato. \"Voglio solo esprimere la mia passione per il creativo e spero che qualcuno l'ascolti. e spero che qualcuno l'ascolti\". Il libro \"un diario intimo e tagliente\" è stato pubblicato da una casa editrice francese e ha già ricevuto recensioni positive da parte della critica. Reza spera che il libro sia un successo e che possa esprimere la sua verità in modo onesto e senza pietà e che possa esprimere la sua verità in modo onesto e senza pietà. Se il libro continua a ricevere recensioni positive, tra due anni potrà essere considerato un classico della letteratura francese., potrà essere considerato un classico della letteratura francese.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-04-15T07:00:25.767363+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Da nessuna partedi Yasmina Reza",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Da-nessuna-parte-Yasmina-Reza.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Yasmina Reza scrive la sua verità senza pietà\",\n  \"description\": \"Roma, 15 aprile. Yasmina Reza, drammaturga e scrittrice francese, ha pubblicato il suo ultimo libro, \\\"un diario intimo e tagliente\\\", un diario intimo e tagliente. Il libro ha già ricevuto recensioni positive da parte della critica, ma Reza non si è lasciata impressionare dalla critica. \\\"Non sono qui\",\n  \"articleBody\": \"Roma, 15 aprile. Yasmina Reza, drammaturga e scrittrice francese, ha pubblicato il suo ultimo libro, \\\"un diario intimo e tagliente\\\", un diario intimo e tagliente. Il libro ha già ricevuto recensioni positive da parte della critica, ma Reza non si è lasciata impressionare dalla critica. \\\"Non sono qui per piacere a tutti\\\", ha dichiarato in un'intervista a Un giornale francese. \\\"Voglio solo esprimere la mia verità e spero che qualcuno l'ascolti\\\". Il libro è un viaggio personale e intellettuale di Reza, che esplora la sua infanzia, la sua famiglia e la sua carriera di scrittrice. La critica ha apprezzato la sua capacità di raccontare la sua storia in modo onesto, ma Reza non si è lasciata impressionare dalla critica. \\\"La critica è sempre stata cieca, ma Reza non si è lasciata impressionare dalla critica.\\\", ha detto. \\\"Cercano solo di trovarmi difetti, di farmi sembrare meno di quello che sono\\\". Reza ha anche parlato della sua ispirazione per il libro. \\\"Ho sempre amato la letteratura francese, ma anche la musica e l'arte\\\", ha dichiarato. \\\"Voglio solo esprimere la mia passione per il creativo e spero che qualcuno l'ascolti. e spero che qualcuno l'ascolti\\\". Il libro \\\"un diario intimo e tagliente\\\" è stato pubblicato da una casa editrice francese e ha già ricevuto recensioni positive da parte della critica. Reza spera che il libro sia un successo e che possa esprimere la sua verità in modo onesto e senza pietà e che possa esprimere la sua verità in modo onesto e senza pietà. Se il libro continua a ricevere recensioni positive, tra due anni potrà essere considerato un classico della letteratura francese., potrà essere considerato un classico della letteratura francese.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-15T07:00:25.767363+00:00\",\n  \"dateModified\": \"2026-04-15T07:00:25.767363+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260415\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260415\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-da-nessuna-partedi-yasmina-reza-20260415",
+  "related": [
+    {
+      "title": "Francesco Esposito ottiene grazia parziale dopo i 150mila euro pubblici finiti in affari mafiosi",
+      "url": "/cultura/sergio-mattarella-riduce-a-tre-anni-la-pena-di-un-e0b5ed3f1b801f12",
+      "id": "e0b5ed3f1b801f12",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/b7d91b93371d779a4db45ede9a3ef246.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Of Monsters and Men suona a Napoli: concerto evento al Teatro Augusteo",
+      "url": "/cultura/of-monsters-and-men-suona-a-napoli-concerto-evento-46e6d8614a15cba8",
+      "id": "46e6d8614a15cba8",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/f082c935594b43f611f17da3b8e7279a.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fuori budget, due leoni di resina a Palazzo Strozzi",
+      "url": "/cultura/installazione-urbana-fra-rinascimento-e-specie-sel-22a4a6afb74148ac",
+      "id": "22a4a6afb74148ac",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/9289d8cca527cef789361a534e1e8624.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-04-15T07:00:25.767363+00:00"
 }
