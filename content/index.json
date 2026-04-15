@@ -1,5 +1,23 @@
 [
   {
+    "id": "b6f3966fb3d3c17d",
+    "slug": "falso-aggiornamento-windows-ruba-dati-malware-masc-b6f3966fb3d3c17d",
+    "title": "Falso aggiornamento Windows ruba dati: malware mascherato da Microsoft disarma antivirus",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-15T13:23:07.528357+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/15/150857886-91d183c9-2e2c-4734-8882-5da41cc5adf2.jpg",
+    "occhiello": "FAKE UPDATE DI WINDOWS 11: MALWARE RUBA DATI SENSIBILI",
+    "lead_preview": "Roma, 15 aprile 2026. Un sito contraffatto che imita Microsoft ha diffuso malware attraverso un falso aggiornamento di W",
+    "tags": [
+      "malware windows 11",
+      "falso aggiornamento windows"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "171060b5cc0c62c7",
     "slug": "ikea-e-chupa-chups-lanciano-il-lecca-lecca-al-gust-171060b5cc0c62c7",
     "title": "Ikea e Chupa Chups lanciano il lecca-lecca al Gusto di polpette svedesi in edizione limitata",
@@ -8935,24 +8953,6 @@
       "meningite 2024",
       "contagi meningococco",
       "report iss 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "daa894dc21dc9178",
-    "slug": "il-nonno-dello-schematizzo-daa894dc21dc9178",
-    "title": "Francesco Moser parla della nipote Clara Isabel, nata a Trento nel",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-10T07:26:40.625539+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/10/Schermata-2026-04-10-alle-09.18.16.png",
-    "occhiello": "",
-    "lead_preview": "Francesco Moser, il campione di ciclismo degli anni Settanta e Ottanta, ha parlato pubblicamente di sua nipote Clara Isa",
-    "tags": [
-      "francesco moser",
-      "nipote clara isabel"
     ],
     "hero_eligible": true
   }
