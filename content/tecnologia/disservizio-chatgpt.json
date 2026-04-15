@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato online dopo 20 minuti di interruzione.",
   "titles": [
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato online dopo 20 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 20 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 20 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIPRISTINATO",
+  "lead": "ChatGPT è tornato online dopo 20 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 20 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-15T18:49:49.002479+00:00",
+  "published_at": "2026-04-15T18:55:18.331907+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "I Ricercatori Italiani dell'IIT Simulano lo Spliceosoma su Supercomputer",
-      "url": "/tecnologia/istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
-      "id": "afedab862dcfb6f8",
-      "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
+      "title": "Falso aggiornamento Windows infetta 12.000 PC: malware ruba 850 euro a vittima",
+      "url": "/tecnologia/falso-aggiornamento-windows-ruba-dati-malware-masc-b6f3966fb3d3c17d",
+      "id": "b6f3966fb3d3c17d",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/15/150857886-91d183c9-2e2c-4734-8882-5da41cc5adf2.jpg",
       "image_type": "image"
     }
   ],
