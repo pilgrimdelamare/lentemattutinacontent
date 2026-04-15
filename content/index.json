@@ -1,5 +1,22 @@
 [
   {
+    "id": "92d563231fff2880",
+    "slug": "alluvione-in-panama-un-morto-e-15000-sfollati-al-c-92d563231fff2880",
+    "title": "Alluvione a Panama, 15.000 persone in difficoltà",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-15T01:49:00.042491+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/de58d1276670463764ba42543238caaf.jpg",
+    "occhiello": "ALLUVIONE IN PANAMA: 15.000 PERSONE IN DIFFICOLTÀ",
+    "lead_preview": "Panama, 15 aprile 2026. Un'alluvione ha colpito il Paese, provocando la morte di un uomo e 15.000 persone in difficoltà.",
+    "tags": [
+      "alluvione panama"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "adda1224b46dab07",
     "slug": "claudio-baglioni-il-cantautore-che-parla-del-suo-p-adda1224b46dab07",
     "title": "Baglioni torna live a Roma a giugno con un concerto-evento",
@@ -636,24 +653,6 @@
     "tags": [
       "benzina roma",
       "prezzi alle stelle"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "92d563231fff2880",
-    "slug": "alluvione-in-panama-un-morto-e-15000-sfollati-al-c-92d563231fff2880",
-    "title": "Alluvione in Panama: un morto e 15.000 sfollati al collasso",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-15T01:49:00.042491+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/de58d1276670463764ba42543238caaf.jpg",
-    "occhiello": "UN MORTO E 15MILA PERSONE COLPITE",
-    "lead_preview": "Panama, 15 aprile. Un'alluvione ha colpito il Paese, provocando la morte di un uomo e 15.000 persone in difficoltà. Le a",
-    "tags": [
-      "alluvione panama",
-      "sfollati panama"
     ],
     "hero_eligible": true
   },
