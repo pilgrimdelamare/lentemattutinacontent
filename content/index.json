@@ -1,5 +1,24 @@
 [
   {
+    "id": "a7c86cfc2d86b3d9",
+    "slug": "petrolio-brent-a-9560-dollari-rialzo-globale-senza-a7c86cfc2d86b3d9",
+    "title": "Il petrolio Brent schizza a 95,60 dollari, il livello più alto dal",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-15T06:02:03.202284+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/3eeb51bbfa6104be5666228f108ddcb0.jpg",
+    "occhiello": "PREZZI DEL PETROLIO AL MASSIMO IN SETTE ANNI",
+    "lead_preview": "Roma, 15 aprile. Il prezzo del petrolio Brent è salito a 95,60 dollari al barile, il più alto dal 2019.",
+    "tags": [
+      "prezzo petrolio 2024",
+      "petrolio brent",
+      "crisi energetica europa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0c8f35f09808386c",
     "slug": "siena-hopper-25-anni-torna-libera-nel-centro-di-sy-0c8f35f09808386c",
     "title": "Siena Hopper torna libera a Sydney, revocati i divieti di accesso al centro città",
@@ -544,25 +563,6 @@
       "mostra mariani",
       "capodimonte napoli",
       "fondazione nuova yorkk"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a7c86cfc2d86b3d9",
-    "slug": "petrolio-brent-a-9560-dollari-rialzo-globale-senza-a7c86cfc2d86b3d9",
-    "title": "Petrolio Brent a 95,60 dollari, rialzo globale senza crisi dichiarata",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-15T06:02:03.202284+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/3eeb51bbfa6104be5666228f108ddcb0.jpg",
-    "occhiello": "",
-    "lead_preview": "Roma, 15 aprile. Il prezzo del petrolio Brent è salito a 95,60 dollari al barile, mentre il Wti è scambiato a 91,65 doll",
-    "tags": [
-      "prezzo petrolio",
-      "brent 95 dollari",
-      "wti aumento"
     ],
     "hero_eligible": true
   },
