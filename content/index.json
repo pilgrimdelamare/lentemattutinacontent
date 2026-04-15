@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 15 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-15T05:45:10.886306+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/7678cba263577bd72404fe105c98b8d8a76652df/skytg24/it/cronaca/2026/04/15/prime-pagine-quotidiani-oggi-15-aprile/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 15 APRILE 2026",
+    "lead_preview": "I principali quotidiani italiani aprono oggi prevalentemente sulla tensione tra Giorgia Meloni e Donald Trump, innescata",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "30a4557476f9c8d3",
     "slug": "charlotte-hornets-vincono-il-soffio-finale-127-126-30a4557476f9c8d3",
     "title": "Basket: Charlotte batte Miami 127-126 in uno strappo finale al cardiopalma",
@@ -1957,25 +1976,6 @@
     "tags": [
       "gas russo",
       "contratti future"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 14 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-14T05:45:28.253396+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/8158189d9e55e41189c5b337babcef96a3649fcd/skytg24/it/cronaca/2026/04/14/prime-pagine-quotidiani-oggi-14-aprile/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 14 APRILE 2026: TRUMP E IL PAPA",
-    "lead_preview": "La maggior parte dei quotidiani italiani punta i riflettori sull’attacco del presidente Usa Donald Trump al Papa, con ti",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
