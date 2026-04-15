@@ -1,5 +1,24 @@
 [
   {
+    "id": "f2b39714d0510506",
+    "slug": "netanyahu-annuncia-nuovi-bombardamenti-in-libano-f2b39714d0510506",
+    "title": "Netanyahu annuncia nuovi bombardamenti in Libano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-15T21:05:16.719235+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/15/215622819-966e88a1-d382-4538-9155-917e7d6f46aa.jpg",
+    "occhiello": "RAID ISRAELIANI NEL SUD LIBANO DURANTE LE TRATTATIVE A WASHINGTON",
+    "lead_preview": "Beirut, 15 aprile 2026. La capitale libanese resta sotto la pressione dei raid aerei israeliani mentre a Washington pros",
+    "tags": [
+      "raid israeliani",
+      "guerra libano",
+      "negoziati washington"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "85259e769c0f9a8a",
     "slug": "sudan-lapocalisse-nel-kordofan-massacri-e-fame-ste-85259e769c0f9a8a",
     "title": "Sudan, l'apocalisse nel Kordofan: massacri e fame sterminano i civili",
@@ -8912,21 +8931,6 @@
       "missione italiana",
       "sicurezza navigazione"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "847ad0ebdcac8f09",
-    "slug": "isabella-ferrari-attacca-i-finanziamenti-al-cinema-847ad0ebdcac8f09",
-    "title": "Isabella ferrari: \"criteri fondi cinema opachi\"",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-11T08:43:34.702649+00:00",
-    "image_type": "image",
-    "image_url": "https://st.ilfattoquotidiano.it/wp-content/uploads/2019/10/30/isabella-ferrari-1200.jpg",
-    "occhiello": "ISABELLA FERRARI: \"CRITERI FONDI CINEMA OPACHI\"",
-    "lead_preview": "L'attrice Isabella Ferrari ha criticato i criteri di assegnazione dei finanziamenti al cinema durante un'intervista rila",
-    "tags": [],
     "hero_eligible": true
   }
 ]
