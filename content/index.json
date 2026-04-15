@@ -1,5 +1,24 @@
 [
   {
+    "id": "b6f3966fb3d3c17d",
+    "slug": "falso-aggiornamento-windows-ruba-dati-malware-masc-b6f3966fb3d3c17d",
+    "title": "Falso aggiornamento Windows infetta 12.000 PC: malware ruba 850 euro a vittima",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-15T13:23:07.528357+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/15/150857886-91d183c9-2e2c-4734-8882-5da41cc5adf2.jpg",
+    "occhiello": "BUG DEL SISTEMA: MALWARE SI SCARICA CON IL FALSO UPDATE DI WINDOWS",
+    "lead_preview": "BUG DEL SISTEMA: MALWARE SI SCARICA CON IL FALSO UPDATE DI WINDOWS Roma, 15 aprile 2026. Un falso aggiornamento di Windo",
+    "tags": [
+      "malware windows",
+      "truffa cyber",
+      "aggiornamento falso"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "99331b9dcdfa503d",
     "slug": "meloni-e-zelenskyy-producono-3000-droni-tra-italia-99331b9dcdfa503d",
     "title": "Meloni e Zelenskyy producono 3000 droni tra Italia e Ucraina: Roma paga il 60%",
@@ -931,24 +950,6 @@
       "smantellamento reattori trino",
       "sogin japc",
       "nucleare italia giappone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b6f3966fb3d3c17d",
-    "slug": "falso-aggiornamento-windows-ruba-dati-malware-masc-b6f3966fb3d3c17d",
-    "title": "Falso aggiornamento Windows ruba dati: malware mascherato da Microsoft disarma antivirus",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-15T13:23:07.528357+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/15/150857886-91d183c9-2e2c-4734-8882-5da41cc5adf2.jpg",
-    "occhiello": "FAKE UPDATE DI WINDOWS 11: MALWARE RUBA DATI SENSIBILI",
-    "lead_preview": "Roma, 15 aprile 2026. Un sito contraffatto che imita Microsoft ha diffuso malware attraverso un falso aggiornamento di W",
-    "tags": [
-      "malware windows 11",
-      "falso aggiornamento windows"
     ],
     "hero_eligible": true
   },
