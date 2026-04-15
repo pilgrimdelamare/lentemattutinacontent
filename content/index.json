@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260415",
+    "slug": "libro-del-giorno-da-nessuna-partedi-yasmina-reza-20260415",
+    "title": "Il libro del giorno: «Da nessuna partedi Yasmina Reza»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un diario intimo e tagliente tra memoria, identità e tempo che fugge",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-15T07:00:25.767363+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/9788845940767_0_0_424_0_75-3704c.jpg?1775681027",
+      "alt": "Copertina: Da nessuna partedi Yasmina Reza",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/9788845940767_0_0_424_0_75-3704c.jpg?1775681027",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "02758de76c5561fa",
     "slug": "regione-sardegna-cede-100-strutture-dismesse-a-sol-02758de76c5561fa",
     "title": "Sardegna cede 112 immobili abbandonati a 1 euro: ristrutturare in 3 anni o perderli",
@@ -8996,23 +9015,6 @@
       "detroit pistons",
       "nba 2026",
       "milwaukee bucks"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f33335b2f9685081",
-    "slug": "basket-aaron-gordon-si-infortuna-contro-memphis-e-f33335b2f9685081",
-    "title": "Basket: Gordon out con 133 milioni di contratto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-09T06:58:55.619030+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c8f2bc763fc047e089b4eca582b2d6ccd9aaf637/skysport/it/nba/video/2026/04/09/gordon-nba-denver-nuggets-video-1088781/Aaron_Gordon_Getty_Denver_Nuggets.jpg",
-    "occhiello": "GORDON OUT, I NUGGETS CONTANO I DANNI",
-    "lead_preview": "Aaron Gordon si è infortunato all’addome nella sfida con Memphis del 9 aprile 2026 e non è più rientrato in campo, lasci",
-    "tags": [
-      "infortunio gordon"
     ],
     "hero_eligible": true
   }
