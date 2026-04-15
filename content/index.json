@@ -1,5 +1,24 @@
 [
   {
+    "id": "59dd00724d71f17e",
+    "slug": "taranto-ospita-il-medimex-con-mostra-sui-ramones-e-59dd00724d71f17e",
+    "title": "Taranto si illumina con 1,2 milioni per il Medimex tra punk e droni alla Fiera del Levante",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-15T08:22:31.233924+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/e4900a629db45171528edbd1272e9cb1.jpg",
+    "occhiello": "1,2 MILIONI DI TARANTO PER IL MEDIMEX",
+    "lead_preview": "1,2 MILIONI DI TARANTO PER IL MEDIMEX Taranto, 15 aprile. Il Medimex, il Salone dell’Innovazione Musicale, sbarca a Tara",
+    "tags": [
+      "medimex taranto",
+      "fiera del levante",
+      "evento musicale 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8b541bf82f990f8c",
     "slug": "corea-del-nord-accelera-produzione-armi-nucleari-n-8b541bf82f990f8c",
     "title": "Corea del Nord riprende il reattore nucleare di Yongbyon e produce plutonio",
@@ -2109,24 +2128,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "59dd00724d71f17e",
-    "slug": "taranto-ospita-il-medimex-con-mostra-sui-ramones-e-59dd00724d71f17e",
-    "title": "1,2 Milioni di Taranto per Medimex: punk rock e droni arrivano in città",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-15T08:22:31.233924+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/e4900a629db45171528edbd1272e9cb1.jpg",
-    "occhiello": "TARANTO OSPITA IL MEDIMEX CON MOSTRA SU RAMONES",
-    "lead_preview": "Taranto, 15 aprile 2026. Il Medimex, il Salone dell’Innovazione Musicale, si svolge a Taranto con una mostra dedicata ai",
-    "tags": [
-      "medimex",
-      "taranto medimex"
     ],
     "hero_eligible": true
   },
