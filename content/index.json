@@ -1,5 +1,24 @@
 [
   {
+    "id": "a0a6d5b04dea432c",
+    "slug": "lupb-predice-un-impatto-della-guerra-sul-pil-itali-a0a6d5b04dea432c",
+    "title": "L'Upb predice un impatto della guerra sul PIL italiano fino a 0,4 punti percentuali",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-15T13:18:16.796598+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/5253a0932cb882e302e432df72a58e98.jpg",
+    "occhiello": "GUERRA MESSA A RISCHIO PIL: PERDITA FINO A 0,4 PUNTI",
+    "lead_preview": "ROMA, 15 aprile. L'istituto di ricerca Ufficio Parlamentare di Bilancio (Upb) ha stimato un impatto negativo della guerr",
+    "tags": [
+      "guerra impatto pil",
+      "upb previsioni 2026",
+      "pil italiano 2027"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "346aa147aab4d221",
     "slug": "von-der-leyen-annuncia-app-contro-linganni-sui-soc-346aa147aab4d221",
     "title": "Von der Leyen lancia l’app UE contro le fake news: sarà pronta entro fine anno",
@@ -8934,25 +8953,6 @@
       "wnba espande",
       "nuove franchigie",
       "cleveland detroit philadelphia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "329a88bcf5a9efdb",
-    "slug": "il-prezzo-del-gas-crolla-a-4490-euro-ad-amsterdam-329a88bcf5a9efdb",
-    "title": "Gas scende a 44,90 euro a megawattora ad Amsterdam",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-10T06:38:34.096053+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/14/c5fd2c0e3daa3db53418d6d1d3b9976e.jpg",
-    "occhiello": "GAS A 44,90 EURO AL MWH AD AMSTERDAM",
-    "lead_preview": "I prezzi del gas scendono a 44,90 euro al megawattora ad Amsterdam, con un calo del 2,8% rispetto al giorno precedente, ",
-    "tags": [
-      "prezzo gas amsterdam",
-      "tft gas",
-      "crollo prezzo gas"
     ],
     "hero_eligible": true
   }
