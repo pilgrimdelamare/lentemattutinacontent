@@ -1,5 +1,23 @@
 [
   {
+    "id": "89ea57135925ee3e",
+    "slug": "petrolio-schizza-a-9870-dollari-al-barile-per-le-t-89ea57135925ee3e",
+    "title": "Il petrolio schizza a 98,70 dollari al barile nel Golfo Persico",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-15T07:35:49.076993+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/20/8afd5d4cb695982cf02f9f25027bac9e.jpg",
+    "occhiello": "PETROLIO SCHIZZA A 98,70 DOLLARI AL BARILE PER LE TENSIONI NEL GOLFO PERSICO",
+    "lead_preview": "Petrolio schizza a 98,70 dollari al barile per le tensioni nel Golfo Persico Roma, 15 aprile. Il prezzo del petrolio è a",
+    "tags": [
+      "petrolio",
+      "golfo persico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ab9b2292c3d9f4e7",
     "slug": "benzina-e-gasolio-in-calo-scendono-a-1777-e-2144-e-ab9b2292c3d9f4e7",
     "title": "Il prezzo del carburante scende a 1,777 euro al litro",
@@ -1088,24 +1106,6 @@
       "lancio gopro 2024",
       "azione camera 8k",
       "go pro rilancio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "89ea57135925ee3e",
-    "slug": "petrolio-schizza-a-9870-dollari-al-barile-per-le-t-89ea57135925ee3e",
-    "title": "Petrolio schizza a 98,70 dollari al barile per le tensioni nel Golfo Persico",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-15T07:35:49.076993+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/20/8afd5d4cb695982cf02f9f25027bac9e.jpg",
-    "occhiello": "PREZZO PETROLIO SU, GAS IN CALO",
-    "lead_preview": "Roma, 15 aprile. Il prezzo del petrolio aumenta mentre il gas naturale apre in calo, in un contesto di tensioni nel Medi",
-    "tags": [
-      "prezzo petrolio",
-      "tensioni golfo persico"
     ],
     "hero_eligible": true
   },
