@@ -1,5 +1,23 @@
 [
   {
+    "id": "ab9b2292c3d9f4e7",
+    "slug": "benzina-e-gasolio-in-calo-scendono-a-1777-e-2144-e-ab9b2292c3d9f4e7",
+    "title": "Il gasolio tocca 1,777 euro al litro, il prezzo più basso dal",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-15T07:36:14.166039+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/84c1256223be0ba49baa9fb9740984bf.jpg",
+    "occhiello": "IL PREZZO DEL GASOLIO CADE A 1,777 EURO",
+    "lead_preview": "IL PREZZO DEL GASOLIO CADE A 1,777 EURO Roma, 15 aprile. Il prezzo medio del gasolio self-service in Italia ha toccato o",
+    "tags": [
+      "prezzo gasolio",
+      "crollo carburanti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "104d7dd4d326d640",
     "slug": "calcio-alessandro-del-piero-denuncia-lesportazione-104d7dd4d326d640",
     "title": "Juventus affonda con 150 milioni di debito: Del Piero denuncia la fuga dei talenti",
@@ -2319,24 +2337,6 @@
     "tags": [
       "petrolio",
       "golfo persico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ab9b2292c3d9f4e7",
-    "slug": "benzina-e-gasolio-in-calo-scendono-a-1777-e-2144-e-ab9b2292c3d9f4e7",
-    "title": "Il prezzo del carburante scende a 1,777 euro al litro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-15T07:36:14.166039+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/84c1256223be0ba49baa9fb9740984bf.jpg",
-    "occhiello": "PREZZI DEL CARBURANTE IN CALO",
-    "lead_preview": "Prezzi del carburante in calo Roma, 15 aprile. Il prezzo medio del carburante in modalità self-service ha registrato un ",
-    "tags": [
-      "prezzi carburante",
-      "ribasso benzina"
     ],
     "hero_eligible": true
   },
