@@ -1,5 +1,24 @@
 [
   {
+    "id": "92d563231fff2880",
+    "slug": "alluvione-in-panama-un-morto-e-15000-sfollati-al-c-92d563231fff2880",
+    "title": "Panama sconvolta dall'alluvione: 15.000 sfollati e un morto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-15T01:49:00.042491+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/de58d1276670463764ba42543238caaf.jpg",
+    "occhiello": "CANALE DI PANAMA SOGGETTO A FORZA MAGGIORE",
+    "lead_preview": "Panama, 15 aprile 2026. Un uomo è morto e almeno 15.000 persone sono in difficoltà per l’alluvione che ha colpito il lat",
+    "tags": [
+      "alluvione panama",
+      "canale panama",
+      "disastro naturale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a79fb131ada5048b",
     "slug": "cara-italia-le-azioni-del-corriere-minacciano-lavv-a79fb131ada5048b",
     "title": "Corriere minaccia di archiviare indagini su Meloni: 1,2 miliardi irregolari secondo Palazzo Chigi",
@@ -3706,23 +3725,6 @@
     "tags": [
       "bologna-inter",
       "arbitro interrompe partita"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "92d563231fff2880",
-    "slug": "alluvione-in-panama-un-morto-e-15000-sfollati-al-c-92d563231fff2880",
-    "title": "Alluvione a Panama, 15.000 persone in difficoltà",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-15T01:49:00.042491+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/de58d1276670463764ba42543238caaf.jpg",
-    "occhiello": "ALLUVIONE IN PANAMA: 15.000 PERSONE IN DIFFICOLTÀ",
-    "lead_preview": "Panama, 15 aprile 2026. Un'alluvione ha colpito il Paese, provocando la morte di un uomo e 15.000 persone in difficoltà.",
-    "tags": [
-      "alluvione panama"
     ],
     "hero_eligible": true
   },
