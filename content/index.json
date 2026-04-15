@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Venti minuti di silenzio digitale per chatgpt",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-15T18:55:18.331907+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "VENTI MINUTI DI SILENZIO DIGITALE PER CHATGPT",
+    "lead_preview": "San Francisco, 15 aprile 2026. L’interfaccia di ChatGPT è rimasta inaccessibile agli utenti di tutto il mondo per un int",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f2b39714d0510506",
     "slug": "netanyahu-annuncia-nuovi-bombardamenti-in-libano-f2b39714d0510506",
     "title": "Netanyahu annuncia nuovi bombardamenti in Libano",
@@ -1052,25 +1067,6 @@
       "produzione plutonio"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 20 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-15T18:55:18.331907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 20 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d8676762d20689c7",
