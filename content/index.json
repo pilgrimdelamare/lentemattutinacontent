@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude di Anthropic si ferma: interruzione blocca lo 0,8% delle richieste",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-15T16:33:37.006146+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "INTERRUZIONE DEL MODELLO DI INTELLIGENZA ARTIFICIALE",
+    "lead_preview": "San Francisco, 15 aprile. Claude, il modello di intelligenza artificiale sviluppato da Anthropic, ha subito un’interruzi",
+    "tags": [
+      "interruzione claude",
+      "intelligenza artificiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "11cd7543ac938fe0",
     "slug": "il-prefetto-cerca-ossa-dove-non-ci-sono-11cd7543ac938fe0",
     "title": "Il Prefetto di Roma sposta 120mila euro per scavi non giustificati",
@@ -2989,25 +3007,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude 3 di Anthropic va in tilt per 30 minuti: 0,8% delle richieste globali bloccate",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-15T16:33:37.006146+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "ANTHROPIC RESTITUISCE CLAUDE DOPO MEZZ’ORA DI FERMO TELEMATICO",
-    "lead_preview": "San Francisco, 15 aprile. Il modello di intelligenza artificiale Claude di Anthropic ha subito un’interruzione di 30 min",
-    "tags": [
-      "guasto claude 3",
-      "interruzione ai antropic",
-      "incidente claude 3"
     ],
     "hero_eligible": true
   },
