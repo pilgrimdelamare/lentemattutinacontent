@@ -1,5 +1,24 @@
 [
   {
+    "id": "11cd7543ac938fe0",
+    "slug": "il-prefetto-cerca-ossa-dove-non-ci-sono-11cd7543ac938fe0",
+    "title": "Il Prefetto di Roma sposta 120mila euro per scavi non giustificati",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-15T16:20:32.052901+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/17/2bedf9ec6a660274a6a1118fc35d430e.jpg",
+    "occhiello": "SPRECO PUBBLICO DA 120MILA EURO IN 48 ORE",
+    "lead_preview": "Roma, 15 aprile. Il prefetto Carlo Mosca ha ordinato scavi sotto la Casa del Jazz, spendendo 120mila euro in sole 48 ore",
+    "tags": [
+      "scavi casa del jazz",
+      "prefetto mosca",
+      "spreco pubblico roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c1a004c9f85c8572",
     "slug": "i-tesori-della-magna-grecia-tornano-a-crotone-e-si-c1a004c9f85c8572",
     "title": "30 Tesori rubati tornano a Crotone e Sibari: Carabinieri fermano i trafficanti",
@@ -15,24 +34,6 @@
       "tesori rubati crotonesi",
       "carabinieri tpcc",
       "recupero opere d'arte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "11cd7543ac938fe0",
-    "slug": "il-prefetto-cerca-ossa-dove-non-ci-sono-11cd7543ac938fe0",
-    "title": "Prefetto Mosca ordina scavi sotto Casa del Jazz: 120mila euro sprecati",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-15T16:20:32.052901+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/17/2bedf9ec6a660274a6a1118fc35d430e.jpg",
-    "occhiello": "SPRECO DI FONDI PUBBLICI SOTTO CASA DEL JAZZ",
-    "lead_preview": "Roma, 15 aprile. Il Prefetto di Roma, Carlo Mosca, ha ordinato scavi sotto Casa del Jazz per un costo di 120mila euro, g",
-    "tags": [
-      "scavi casa del jazz",
-      "prefetto mosca"
     ],
     "hero_eligible": true
   },
