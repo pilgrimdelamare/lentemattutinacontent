@@ -1,5 +1,23 @@
 [
   {
+    "id": "a0a6d5b04dea432c",
+    "slug": "lupb-predice-un-impatto-della-guerra-sul-pil-itali-a0a6d5b04dea432c",
+    "title": "L'Upb prevede un calo dello 0,4% del PIL italiano nel 2026 per la Guerra in Ucraina",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-15T13:18:16.796598+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/5253a0932cb882e302e432df72a58e98.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 15 aprile. L’Ufficio Parlamentare di Bilancio stima che la Guerra in corso possa ridurre lo 0,4 per cento del prod",
+    "tags": [
+      "guerra ucraina",
+      "pil 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "65f5ab57400fac62",
     "slug": "piantedosi-scarica-lordine-pubblico-su-famigli-e-p-65f5ab57400fac62",
     "title": "Piantedosi: povertà aumenta reati, +12% in un anno nelle città italiane",
@@ -2976,25 +2994,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a0a6d5b04dea432c",
-    "slug": "lupb-predice-un-impatto-della-guerra-sul-pil-itali-a0a6d5b04dea432c",
-    "title": "Guerra in Ucraina: PIL italiano in caduta libera, -0,4 punti secondo l’Upb",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-15T13:18:16.796598+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/5253a0932cb882e302e432df72a58e98.jpg",
-    "occhiello": "L'UPB STIMA UN IMPATTO DELLA GUERRA SUL PIL ITALIANO FINO A 0,4 PUNTI PERCENTUALI",
-    "lead_preview": "Roma, 15 aprile. L'istituto di ricerca Ufficio Parlamentare di Bilancio (Upb) ha stimato che la guerra in corso potrebbe",
-    "tags": [
-      "guerra ucraina",
-      "pil italia",
-      "upb stime"
     ],
     "hero_eligible": true
   },
