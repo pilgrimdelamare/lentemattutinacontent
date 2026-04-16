@@ -1,27 +1,24 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub irraggiungibile da 15 minuti",
   "titles": [
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub irraggiungibile da 15 minuti",
+    "Utenti italiani segnalano disservizi su GitHub",
+    "GitHub lavora per risolvere il problema di connessione"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
-  "corpo2": "",
+  "occhiello": "GITHUB È IRRAGGIUNGIBILE DA 15 MINUTI. GLI UTENTI ITALIANI SEGNALANO DISSERVIZI.",
+  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi. Roma, 16 aprile. GitHub, la piattaforma di hosting di codice e collaborazione più popolare tra sviluppatori, è irraggiungibile da circa 15 minuti. Gli utenti italiani hanno iniziato a segnalare disservizi su Twitter e Reddit. Secondo la piattaforma, il problema sembra essere legato a un problema di connessione. \"GitHub è inaccessibile, un disastro annunciato per chi ci lavora",
+  "corpo1": "A GitHub. Siamo impegnati a risolvere il problema il più presto possibile\", recita il messaggio di errore pubblicato sulla piattaforma. Gli utenti italiani stanno cercando di accedere alla piattaforma per completare progetti di lavoro o per collaborare con altri sviluppatori. Alcuni hanno segnalato di essere stati disconnessi dalla piattaforma senza preavviso, mentre altri non riescono ad accedere ai loro repository. GitHub è una delle piattaforme di hosting di",
+  "corpo2": "Codice più popolari al mondo, con oltre 40 milioni di utenti attivi. La piattaforma è utilizzata da sviluppatori di tutto il mondo per collaborare, condividere e gestire progetti di codice. Il problema di connessione a GitHub potrebbe avere ripercussioni significative per gli sviluppatori e le aziende che dipendono dalla piattaforma per completare progetti. Alcuni hanno già iniziato a segnalare problemi legati a progetti bloccati o perdite di dati. Se GitHub continuerà a essere irraggiungibile per un periodo prolungato, potrebbe avere conseguenze significative per gli sviluppatori e le aziende che dipendono dalla piattaforma. La piattaforma è fondamentale per la collaborazione e la gestione di progetti di codice, e un problema di connessione potrebbe rallentare o bloccare i progressi di progetti in corso. La piattaforma è inaccessibile e, come spesso accade, nessuno si assume la responsabilità di risolvere il problema.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-16T15:58:54.871415+00:00",
   "image": {
@@ -31,10 +28,10 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GitHub irraggiungibile da 15 minuti\",\n  \"description\": \"GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi. Roma, 16 aprile. GitHub, la piattaforma di hosting di codice e collaborazione più popolare tra sviluppatori, è irraggiungibile da circa 15 minuti. Gli utenti italiani hanno iniziato a segnalare disservizi su Twitter e R\",\n  \"articleBody\": \"GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi. Roma, 16 aprile. GitHub, la piattaforma di hosting di codice e collaborazione più popolare tra sviluppatori, è irraggiungibile da circa 15 minuti. Gli utenti italiani hanno iniziato a segnalare disservizi su Twitter e Reddit. Secondo la piattaforma, il problema sembra essere legato a un problema di connessione. \\\"GitHub è inaccessibile, un disastro annunciato per chi ci lavora A GitHub. Siamo impegnati a risolvere il problema il più presto possibile\\\", recita il messaggio di errore pubblicato sulla piattaforma. Gli utenti italiani stanno cercando di accedere alla piattaforma per completare progetti di lavoro o per collaborare con altri sviluppatori. Alcuni hanno segnalato di essere stati disconnessi dalla piattaforma senza preavviso, mentre altri non riescono ad accedere ai loro repository. GitHub è una delle piattaforme di hosting di Codice più popolari al mondo, con oltre 40 milioni di utenti attivi. La piattaforma è utilizzata da sviluppatori di tutto il mondo per collaborare, condividere e gestire progetti di codice. Il problema di connessione a GitHub potrebbe avere ripercussioni significative per gli sviluppatori e le aziende che dipendono dalla piattaforma per completare progetti. Alcuni hanno già iniziato a segnalare problemi legati a progetti bloccati o perdite di dati. Se GitHub continuerà a essere irraggiungibile per un periodo prolungato, potrebbe avere conseguenze significative per gli sviluppatori e le aziende che dipendono dalla piattaforma. La piattaforma è fondamentale per la collaborazione e la gestione di progetti di codice, e un problema di connessione potrebbe rallentare o bloccare i progressi di progetti in corso. La piattaforma è inaccessibile e, come spesso accade, nessuno si assume la responsabilità di risolvere il problema.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-16T15:58:54.871415+00:00\",\n  \"dateModified\": \"2026-04-16T15:58:54.871415+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
@@ -45,19 +42,20 @@
       "image_type": "image"
     },
     {
-      "title": "I Ricercatori Italiani dell'IIT Simulano lo Spliceosoma su Supercomputer",
-      "url": "/tecnologia/istituto-italiano-di-tecnologia-simula-2-milioni-d-afedab862dcfb6f8",
-      "id": "afedab862dcfb6f8",
-      "image_url": "https://media-assets.wired.it/photos/69d64d450fa53fc931fa0c70/16:9/w_1280,c_limit/1270634324",
-      "image_type": "image"
-    },
-    {
       "title": "HBO Max chiude la seconda stagione di The Pitt: niente nuovi capitoli in vista",
       "url": "/tecnologia/300mila-cause-ai-medici-in-italia-errori-penalment-8aade7af83164cc8",
       "id": "8aade7af83164cc8",
       "image_url": "https://media-assets.wired.it/photos/699f22e2037634b201aef3f8/16:9/w_1280,c_limit/sepideh-moafi.jpg",
       "image_type": "image"
+    },
+    {
+      "title": "Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-16T15:58:54.871415+00:00"
 }
