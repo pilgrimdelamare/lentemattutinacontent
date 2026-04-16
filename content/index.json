@@ -1,5 +1,23 @@
 [
   {
+    "id": "c32f82e9fe16794c",
+    "slug": "confcommercio-mancano-500mila-lavoratori-nel-terzi-c32f82e9fe16794c",
+    "title": "500mila posti in meno entro il 2036",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-15T08:37:16.018562+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/45a29415f866a1f81f87de25cc390943.jpg",
+    "occhiello": "500MILA POSTI IN MENO ENTRO IL 2036",
+    "lead_preview": "500MILA POSTI IN MENO ENTRO IL 2036 Roma, 15 aprile. La Confederazione Generale Italiana delle Imprese, delle Attività P",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cd4ea311ab2295cc",
     "slug": "ferrari-lancia-4-nuovi-modelli-allanno-dal-2026-pu-cd4ea311ab2295cc",
     "title": "Ferrari: solo un’auto elettrica su quattro, i profitti restano al 32%",
@@ -2949,25 +2967,6 @@
       "atletica",
       "inter",
       "olimpiadi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c32f82e9fe16794c",
-    "slug": "confcommercio-mancano-500mila-lavoratori-nel-terzi-c32f82e9fe16794c",
-    "title": "Confcommercio: il terziario italiano perderà 500mila lavoratori entro il",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-15T08:37:16.018562+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/45a29415f866a1f81f87de25cc390943.jpg",
-    "occhiello": "TERZIARIO AL COLLASSO: MANCANO 500MILA LAVORATORI ENTRO IL 2036",
-    "lead_preview": "Roma, 15 aprile. Entro il 2036 il settore del terziario italiano dovrà fare i conti con un vuoto di 500mila lavoratori, ",
-    "tags": [
-      "terziario in crisi",
-      "manovra occupazione",
-      "lavoro futuro"
     ],
     "hero_eligible": true
   },
