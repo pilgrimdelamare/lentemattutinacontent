@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-16T15:58:54.871415+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1100e1335ac7ca66",
     "slug": "basket-philadelphia-sbaraga-orlando-e-accede-alla-1100e1335ac7ca66",
     "title": "Basket: Philadelphia schiaccia Orlando 109-97 e vola ai play-off NBA",
@@ -5448,25 +5467,6 @@
       "francesca albanese",
       "territori contesi",
       "onu taranto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub giù per 36 minuti: migliaia di progetti bloccati in Europa e Usa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-13T20:36:12.496575+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "",
-    "lead_preview": "Roma, 13 aprile. Il servizio di hosting GitHub è tornato online dopo un’interruzione globale di 36 minuti, avvenuta in p",
-    "tags": [
-      "guasto github",
-      "interruzione servizio",
-      "disservizio sviluppatori"
     ],
     "hero_eligible": true
   },
