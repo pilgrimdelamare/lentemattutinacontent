@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT va giù per 20 minuti, utenti in tilt in 17 Paesi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-15T18:55:18.331907+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "INTERFACCIA DI CHATGPT INACCESSIBILE PER 20 MINUTI: IL COSTO DELLA DIPENDENZA DIGITALE",
+    "lead_preview": "San Francisco, 15 aprile 2026. Mercoledì, l'interfaccia di ChatGPT, popolare chatbot alimentato dall'intelligenza artifi",
+    "tags": [
+      "crollo chatgpt",
+      "dipendenza digitale",
+      "interruzione servizio ai"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "46e6d8614a15cba8",
     "slug": "of-monsters-and-men-suona-a-napoli-concerto-evento-46e6d8614a15cba8",
     "title": "Of Monsters and Men a Pompei: 1.200 biglietti a 75 euro sotto le rovine",
@@ -2951,21 +2970,6 @@
     "image_url": "https://sport.sky.it/assets/images/c1893fc2aef9a45984a4ffb0f608d7cbce34e1bd/skysport/it/calcio/champions-league/partite/2025/quarti/sporting-cp-arsenal/live/content/madueke_ipa.jpg",
     "occhiello": "ARSENAL E SPORTING LISBONA SI SFIDANO PER UN POSTO IN SEMIFINALE",
     "lead_preview": "Londra, 15 aprile. L'Arsenal e lo Sporting Lisbona si affrontano questa sera alle 21:00 all'Emirates Stadium. Il match, ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Venti minuti di silenzio digitale per chatgpt",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-15T18:55:18.331907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "VENTI MINUTI DI SILENZIO DIGITALE PER CHATGPT",
-    "lead_preview": "San Francisco, 15 aprile 2026. L’interfaccia di ChatGPT è rimasta inaccessibile agli utenti di tutto il mondo per un int",
     "tags": [],
     "hero_eligible": true
   },
