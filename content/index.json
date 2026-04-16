@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT blocca per 20 minuti, milioni di utenti isolati",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-15T18:55:18.331907+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "VENTI MINUTI DI BLACKOUT PER CHATGPT IN DICIASSETTE PAESI",
+    "lead_preview": "San Francisco, 15 aprile 2026. Il chatbot ChatGPT ha subito un black-out del servizio della durata di venti minuti. Il g",
+    "tags": [
+      "blackout chatgpt",
+      "chatgpt crash",
+      "servizio interrotto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ea75144ca6a2b8c",
     "slug": "petrolio-a-98-dollari-trump-e-iran-decidono-a-isla-4ea75144ca6a2b8c",
     "title": "15 Navi da guerra USA nel Golfo: Trump chiude lo stretto di Hormuz",
@@ -2824,25 +2843,6 @@
     "occhiello": "HEGSETH ACCUSATO DI 5 CRIMINI PER IL BOMBARDAMENTO DI KERMANSHAH",
     "lead_preview": "Washington, 15 aprile. I democratici della Camera degli Stati Uniti presenteranno oggi cinque articoli di impeachment co",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT va giù per 20 minuti, utenti in tilt in 17 Paesi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-15T18:55:18.331907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "INTERFACCIA DI CHATGPT INACCESSIBILE PER 20 MINUTI: IL COSTO DELLA DIPENDENZA DIGITALE",
-    "lead_preview": "San Francisco, 15 aprile 2026. Mercoledì, l'interfaccia di ChatGPT, popolare chatbot alimentato dall'intelligenza artifi",
-    "tags": [
-      "crollo chatgpt",
-      "dipendenza digitale",
-      "interruzione servizio ai"
-    ],
     "hero_eligible": true
   },
   {
