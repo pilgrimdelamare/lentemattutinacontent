@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub irraggiungibile da 15 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-16T15:58:54.871415+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB È IRRAGGIUNGIBILE DA 15 MINUTI. GLI UTENTI ITALIANI SEGNALANO DISSERVIZI.",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi. Roma, 16 aprile. GitHub, la piattaforma",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "69a178eb44aa7187",
     "slug": "calcio-tifosi-del-celta-vigo-scortano-il-pullman-v-69a178eb44aa7187",
     "title": "Calcio: Tifosi del Celta Vigo scortano il pullman verso l'Europa League, carica la Galizia!",
@@ -333,25 +348,6 @@
       "nazionale volley femminile"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-16T15:58:54.871415+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "1100e1335ac7ca66",
