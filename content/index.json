@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-15T16:33:37.006146+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE SI FERMA: INTERRUZIONE BLOCCA LO lo 0,8 per cento DELLE RICHIESTE",
+    "lead_preview": "San Francisco, 15 aprile 2026. Claude, il modello di intelligenza artificiale sviluppato da la società di intelligenza a",
+    "tags": [
+      "guasto claude",
+      "interruzione san francisco",
+      "ai blocco richieste"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7363f8a4c3447a4c",
     "slug": "salvini-esige-luscita-ue-per-bloccare-bollette-e-c-7363f8a4c3447a4c",
     "title": "Salvini: all'UE senza soluzioni bollette",
@@ -3263,24 +3282,6 @@
       "nigel farage bitcoin",
       "investimento criptovaluta",
       "reform uk"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude di Anthropic si ferma: interruzione blocca lo 0,8% delle richieste",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-15T16:33:37.006146+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "INTERRUZIONE DEL MODELLO DI INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "San Francisco, 15 aprile. Claude, il modello di intelligenza artificiale sviluppato da Anthropic, ha subito un’interruzi",
-    "tags": [
-      "interruzione claude",
-      "intelligenza artificiale"
     ],
     "hero_eligible": true
   },
