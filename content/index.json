@@ -1,5 +1,24 @@
 [
   {
+    "id": "8a1782621cef53df",
+    "slug": "leuropa-minaccia-hormuz-liran-risponde-in-difesa-d-8a1782621cef53df",
+    "title": "Hossein Amir-Abdollahian, il capo dell'Esteri iraniano, annuncia la crisi petrolifera",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-15T13:48:18.452064+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/f1f2762d6c4279b722788747a00655ae.jpg",
+    "occhiello": "Iran minaccia di bloccare lo stretto di Hormuz, Europa schiera navi",
+    "lead_preview": "Iran minaccia di bloccare lo stretto di Hormuz, Europa schiera navi Il ministero degli Esteri iraniano ha convocato un'u",
+    "tags": [
+      "crisi petrolifera iran",
+      "stretto di hormuz",
+      "amir-abdollahian"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3705630a4162eafc",
     "slug": "uk-pil-sale-dello-05-ma-il-conflitto-in-medio-orie-3705630a4162eafc",
     "title": "Regno Unito registra crescita del 0,5% nel PIL",
@@ -3032,25 +3051,6 @@
       "presidente autotrasportatori",
       "federica rossi",
       "confindustria autotrasporti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8a1782621cef53df",
-    "slug": "leuropa-minaccia-hormuz-liran-risponde-in-difesa-d-8a1782621cef53df",
-    "title": "Iran minaccia: teniamo in ostaggio 30% del petrolio Mondiale bloccando Hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-15T13:48:18.452064+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/f1f2762d6c4279b722788747a00655ae.jpg",
-    "occhiello": "IRAN MINACCIA HORMUZ, EUROPA SCHIERA NAVI",
-    "lead_preview": "IRAN MINACCIA DI BLOCCARE HORMUZ, EUROPA SCHIERA NAVI Teheran, 15 aprile. Il ministero degli Esteri iraniano ha convocat",
-    "tags": [
-      "stretto di hormuz",
-      "minaccia iran",
-      "blocco petrolio"
     ],
     "hero_eligible": true
   },
