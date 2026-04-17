@@ -1,5 +1,24 @@
 [
   {
+    "id": "f4ace5ae6fe66e0f",
+    "slug": "fmi-boccia-leconomia-italiana-ritmo-di-crescita-gi-f4ace5ae6fe66e0f",
+    "title": "FMI affonda l'Italia: crescita insoddisfacente e debito a rischio. Servono riforme radicali",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-17T13:51:29.750104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/6/30/1cdde60e3a2b53bd4542ab8de8482526.jpg",
+    "occhiello": "ECONOMIA ITALIANA BLOCCATA: IL FMI BOCCIA LA CRESCITA",
+    "lead_preview": "Roma, 17 aprile. Il Fondo Monetario Internazionale ha espresso un giudizio netto sullo Stato dell'Economia Italiana, def",
+    "tags": [
+      "crescita italiana",
+      "fmi italia",
+      "economia italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7e9731d4d71297ec",
     "slug": "tennis-alcaraz-e-djokovic-rinunciano-a-madrid-tabe-7e9731d4d71297ec",
     "title": "Tennis: Alcaraz e Djokovic rinunciano a Madrid, tabellone senza i top",
@@ -928,24 +947,6 @@
       "calcio",
       "astori",
       "screening"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f4ace5ae6fe66e0f",
-    "slug": "fmi-boccia-leconomia-italiana-ritmo-di-crescita-gi-f4ace5ae6fe66e0f",
-    "title": "FMI boccia l'economia Italiana: ritmo di crescita giudicato insoddisfacente",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-17T13:51:29.750104+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/6/30/1cdde60e3a2b53bd4542ab8de8482526.jpg",
-    "occhiello": "CRESCITA INSUFFICIENTE: IL GIUDIZIO DIRETTO DEL FONDO MONETARIO INTERNAZIONALE",
-    "lead_preview": "Roma, 17 aprile. Il Fondo Monetario Internazionale ha espresso un giudizio netto sullo Stato dell'economia Italiana, def",
-    "tags": [
-      "fmi italia",
-      "crescita italiana"
     ],
     "hero_eligible": true
   },
