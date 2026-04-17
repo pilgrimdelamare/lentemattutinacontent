@@ -1,5 +1,24 @@
 [
   {
+    "id": "1183a390e24f798d",
+    "slug": "liran-investe-100-milioni-a-new-york-1183a390e24f798d",
+    "title": "L'Iran investe 100 milioni a New York",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-17T10:54:18.796908+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/297a971b7df09b944c709bca860a10f0.jpg",
+    "occhiello": "LA FATTURA DELLA SOSTENIBILITÀ ARRIVA A NEW YORK",
+    "lead_preview": "Roma, 17 aprile. La società iraniana Subdued accelera il processo di espansione internazionale e e annuncia l'investimen",
+    "tags": [
+      "investimenti iran",
+      "new york",
+      "sostenibilità"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "44ebeaf57c0e525b",
     "slug": "calcio-gabbia-motiva-il-milan-verso-la-champions-r-44ebeaf57c0e525b",
     "title": "Calcio: Gabbia affida fiducia alla sua squadra",
@@ -8901,25 +8920,6 @@
       "scomparsa fondi lazio",
       "barbara bouchet",
       "digitalizzazione film"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db05f4fad3dc385e",
-    "slug": "grosso-pareggia-con-la-giuliano-peccato-per-i-dett-db05f4fad3dc385e",
-    "title": "Calcio: Agnelli convoca Giuntoli e Allegri dopo il crollo offensivo bianconero",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-12T18:32:36.573719+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8cc1d2d32c921d6cb4efdb3a302d9a0ac8c18fcc/skysport/it/calcio/serie-a/video/2026/04/12/1089566_1775999645467_thumb_494.0000001_1776002749381.jpg",
-    "occhiello": "JUVENTUS FERMA DA UNA SQUADRA SCONOSCIUTA",
-    "lead_preview": "Torino, 12 aprile. La Juventus ha pareggiato 0-0 contro la Giuliano, squadra militante in Serie D, nella partita disputa",
-    "tags": [
-      "crollo juventus",
-      "agnelli convoca",
-      "giuliano serie d"
     ],
     "hero_eligible": true
   }
