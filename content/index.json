@@ -1,5 +1,23 @@
 [
   {
+    "id": "f4ace5ae6fe66e0f",
+    "slug": "fmi-boccia-leconomia-italiana-ritmo-di-crescita-gi-f4ace5ae6fe66e0f",
+    "title": "FMI boccia l'economia Italiana: ritmo di crescita giudicato insoddisfacente",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-17T13:51:29.750104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/6/30/1cdde60e3a2b53bd4542ab8de8482526.jpg",
+    "occhiello": "CRESCITA INSUFFICIENTE: IL GIUDIZIO DIRETTO DEL FONDO MONETARIO INTERNAZIONALE",
+    "lead_preview": "Roma, 17 aprile. Il Fondo Monetario Internazionale ha espresso un giudizio netto sullo Stato dell'economia Italiana, def",
+    "tags": [
+      "fmi italia",
+      "crescita italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "12c2ce0dd7decb4d",
     "slug": "singapore-moe-introduce-caning-e-sospensioni-a-scu-12c2ce0dd7decb4d",
     "title": "Singapore impone il caning a scuola: punizioni fisiche e sospensioni per riportare l'ordine",
@@ -8859,21 +8877,6 @@
     "tags": [
       "prezzo petrolio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e1e4c08f03fb6c5",
-    "slug": "basket-luka-doncic-brucia-i-bulls-per-149-128-6e1e4c08f03fb6c5",
-    "title": "Pallacanestro: Dončić segna 35 punti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T07:13:57.031955+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/15a0b231aaa5001d1abc3524d2c795d8c261ea45/skysport/it/nba/video/2026/04/13/1089778_1776058305602_thumb_494.0000001_1776060154887.jpg",
-    "occhiello": "DONCIC DOMINA: BULLS SCONFITTI 149-128",
-    "lead_preview": "Dallas, 13 aprile. Il Dallas Mavericks ha sconfitto il Chicago Chicago Bulls per 149-128 nella partita di lunedì. Luka D",
-    "tags": [],
     "hero_eligible": true
   }
 ]
