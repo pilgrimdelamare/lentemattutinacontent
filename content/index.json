@@ -1,5 +1,24 @@
 [
   {
+    "id": "840769109782b9b4",
+    "slug": "170-scrittori-abbandonano-grasset-dopo-lesclusione-840769109782b9b4",
+    "title": "Grasset abbandonata da 170 scrittori",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-17T08:51:42.856927+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "170 SCITTORI ABBIANDONANO GRASSET",
+    "lead_preview": "Parigi, il 17 aprile 2026. Centosettanta scrittori hanno lasciato la casa editrice Grasset, la casa editrice in segno di",
+    "tags": [
+      "abbandono grasset",
+      "nora escluso",
+      "scrittori in protesta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e70ac0bf7936da86",
     "slug": "stellantis-chiude-stabilimento-di-poissy-400-lavor-e70ac0bf7936da86",
     "title": "Stellantis chiude stabilimento a poissy, 400 lavoratori a rischio",
@@ -1363,25 +1382,6 @@
       "energia",
       "pichetto",
       "razionamenti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "840769109782b9b4",
-    "slug": "170-scrittori-abbandonano-grasset-dopo-lesclusione-840769109782b9b4",
-    "title": "170 Scrittori abbandonano Grasset dopo l'esclusione di Olivier Nora",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-17T08:51:42.856927+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "170 SCRITTORI ABBANDONANO GRASSET",
-    "lead_preview": "Parigi, 17 aprile 2026. Centosettanta scrittori hanno lasciato la casa editrice Grasset in segno di protesta contro il “",
-    "tags": [
-      "grasset",
-      "olivier nora",
-      "scrittori abbandonano"
     ],
     "hero_eligible": true
   },
