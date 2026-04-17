@@ -1,5 +1,23 @@
 [
   {
+    "id": "599ac95978741cde",
+    "slug": "gia-17mila-persone-a-buenos-aires-per-la-giornata-599ac95978741cde",
+    "title": "17Mila persone si radunano per Made in Italy a Buenos Aires",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-16T23:22:24.572875+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/bf4c7a4878f07975213815348710bce6.jpg",
+    "occhiello": "DICIASSETTEMILA PERSONE A BUENOS AIRES PER IL MADE IN ITALY",
+    "lead_preview": "Buenos Aires, 17 aprile. L'Ambasciatore italiano in Argentina, Fabrizio Nicoletti, e la direttrice dell'Istituto di cult",
+    "tags": [
+      "made in italy",
+      "buenos aires"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "30c6f74f5b683213",
     "slug": "nicoletti-e-imprese-italiane-si-riuniscono-a-bueno-30c6f74f5b683213",
     "title": "Nicoletti coordina le imprese italiane a Buenos Aires per nuove alleanze operative",
@@ -568,23 +586,6 @@
     "tags": [
       "infortunio bastoni",
       "inter cagliari"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "599ac95978741cde",
-    "slug": "gia-17mila-persone-a-buenos-aires-per-la-giornata-599ac95978741cde",
-    "title": "Gia' 17mila persone a buenos aires per la giornata del made in italy",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-16T23:22:24.572875+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/bf4c7a4878f07975213815348710bce6.jpg",
-    "occhiello": "GIA' 17MILA PERSONE A BUENOS AIRES PER LA GIORNATA DEL MADE IN ITALY",
-    "lead_preview": "Buenos Aires, 17 aprile. L'Ambasciatore italiano in Argentina, Nicoletti, e la direttrice dell'Istituto di cultura itali",
-    "tags": [
-      "giornata made in italy"
     ],
     "hero_eligible": true
   },
