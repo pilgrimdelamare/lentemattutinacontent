@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff7a96019c7de2aa",
+    "slug": "piovani-sfida-i-musicisti-lia-non-e-una-minaccia-m-ff7a96019c7de2aa",
+    "title": "Piovani sfida i musicisti: l'IA non è una minaccia, ma un test di originalità",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-17T15:29:47.024343+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/497bd0cd2511f2e4c1416b92918e515a.jpg",
+    "occhiello": "L'INTELLIGENZA ARTIFICIALE MINACCIA SOLO CHI COPIA IL PASSATO",
+    "lead_preview": "Roma, 17 aprile 2026. Nicola Piovani interviene sul dibattito riguardante l'intelligenza artificiale nel comparto musica",
+    "tags": [
+      "intelligenza artificiale musica",
+      "nicola piovani",
+      "musica e tecnologia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bb0d2fd509d1b245",
     "slug": "undici-edizioni-di-fiera-del-libro-a-iglesias-la-c-bb0d2fd509d1b245",
     "title": "Undici edizioni di Fiera del Libro a Iglesias: la cultura resiste in piazza",
@@ -8845,21 +8864,6 @@
       "supporto ucraina",
       "governo italiano"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4eaacc0b928bfbf0",
-    "slug": "papa-leone-xiv-parte-per-lodissea-africana-11-gior-4eaacc0b928bfbf0",
-    "title": "Leone xiv inzie viaggio apostolico di 11 giorni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T04:27:36.975102+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2025/08/23/112718211-43f60c67-6270-4bc5-9d2e-c9ab87c81e7d.jpg",
-    "occhiello": "LEONE XIV INZIE VIAGGIO APOSTOLICO DI 11 GIORNI",
-    "lead_preview": "Roma, 13 aprile. Papa Leone XIV è partito dalla Città del Vaticano questa mattina per un viaggio apostolico di undici gi",
-    "tags": [],
     "hero_eligible": true
   }
 ]
