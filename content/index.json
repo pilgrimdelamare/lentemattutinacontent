@@ -1,5 +1,23 @@
 [
   {
+    "id": "aa85e9f7696c6467",
+    "slug": "arianna-david-si-apre-al-pubblico-con-monica-setta-aa85e9f7696c6467",
+    "title": "Arianna David si apre al pubblico con Monica Setta",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-17T09:37:41.119305+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/7/de2bcc19918c898ec728e0f789b12b7d.jpg",
+    "occhiello": "ARIANNA DAVID SI RACCONTA CON ERROS RAMAZZOTTI E IL GENERALE VANNACCI",
+    "lead_preview": "Oggi, 17 aprile. Arianna David, vincitrice del concorso di bellezza Miss Italia 1993, sarà ospite del programma \"Storie ",
+    "tags": [
+      "miss italia",
+      "storie al bivio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aaa5a345684f960a",
     "slug": "tennis-djokovic-dichiara-problemi-fisici-prima-di-aaa5a345684f960a",
     "title": "Tennis: Djokovic dichiara problemi fisici prima di Madrid Open",
@@ -8886,25 +8904,6 @@
     "tags": [
       "negozi venezia",
       "apri e chiudi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "44fb83cc87e662e7",
-    "slug": "calcio-dumfries-segna-due-gol-e-guida-linter-alla-44fb83cc87e662e7",
-    "title": "Calcio: la doppietta di Dumfries decide la rimonta dell'Inter in trasferta",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T01:54:37.179394+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/12e8289a8d3ae982466533733efed050f21d0c5a/skysport/it/calcio/serie-a/video/2026/04/12/como-inter-dumfries-intervista-video-1089745/dumfries_screen_1.jpg",
-    "occhiello": "INTER VINCE A COMO CON DUMFRIES",
-    "lead_preview": "Como, 12 aprile. Denzel Dumfries ha segnato due gol decisivi che hanno consentito all'Inter di rimontare e vincere 4-3 c",
-    "tags": [
-      "doppietta dumfries",
-      "inter-coppa italia",
-      "rimonta inter"
     ],
     "hero_eligible": true
   }
