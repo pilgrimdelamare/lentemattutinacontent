@@ -1,5 +1,23 @@
 [
   {
+    "id": "38060aff53bdc552",
+    "slug": "borsa-di-tokyo-crolla-nikkei-perde-il-041-tra-vend-38060aff53bdc552",
+    "title": "Tokyo trema: il Nikkei perde lo 0,41% e i piccoli risparmiatori pagano",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-17T00:38:32.772661+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
+    "occhiello": "PRESE DI PROFITTO A TOKYO: IL NIKKEI CEDE LO 0,41%",
+    "lead_preview": "Tokyo, 17 aprile. il Nikkei, l'indice azionario giapponese, ha aperto la sessione odierna in territorio negativo, regist",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "44ebeaf57c0e525b",
     "slug": "calcio-gabbia-motiva-il-milan-verso-la-champions-r-44ebeaf57c0e525b",
     "title": "Gabbia esorta il Milan alla calma: lucidità assoluta per non fallire in Europa",
@@ -718,21 +736,6 @@
     "image_url": "https://sport.sky.it/assets/images/79f68b5115f913fe86fa735dc19f0d2d140e71fe/skysport/it/calcio/europa-league/video/2026/04/16/1090718_1776376511127_thumb_494.0000001_1776376740930.jpg",
     "occhiello": "IL NOTTINGHAM FOREST SUPERA IL PORTO E GUARDA AI RICAVI",
     "lead_preview": "Nottingham, 16 aprile 2026. Il Nottingham Forest ha battuto il Porto per 1-0 nella gara valida per l'Europa League, disp",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "38060aff53bdc552",
-    "slug": "borsa-di-tokyo-crolla-nikkei-perde-il-041-tra-vend-38060aff53bdc552",
-    "title": "Borsa di Tokyo crolla: Nikkei perde il 0,41% tra vendite e prese di profitto",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-17T00:38:32.772661+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
-    "occhiello": "NIKKEI AL MASSIMO DI SEMPRE, MA SCATTA LA PRESE DI PROFITTO",
-    "lead_preview": "Tokyo, 17 aprile. Il Nikkei, l'indice azionario giapponese, ha aperto in ribasso del 0,41% a causa delle prese di profit",
     "tags": [],
     "hero_eligible": true
   },
