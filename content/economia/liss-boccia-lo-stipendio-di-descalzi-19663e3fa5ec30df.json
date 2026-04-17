@@ -1,0 +1,59 @@
+{
+  "id": "19663e3fa5ec30df",
+  "slug": "liss-boccia-lo-stipendio-di-descalzi-19663e3fa5ec30df",
+  "title": "L'ISS boccia lo stipendio di Descalzi",
+  "titles": [
+    "L'ISS boccia lo stipendio di Descalzi",
+    "Descalzi perde 8,9 milioni di euro",
+    "ENI dimezza la paga a Descalzi"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "Iss boccia lo stipendio di Descalzi: \"Aumento eccessivo\"",
+  "lead": "Iss boccia lo stipendio di Descalzi: \"Aumento eccessivo\" Roma, 17 aprile. L'ISS (Istituto Superiore di Sanità) ha bocciato lo stipendio di Claudio Descalzi, amministratore delegato di Eni, ritenendolo \"eccessivo\". La decisione è stata annunciata in occasione della riconferma di Descalzi in carica a maggio. Secondo la Repubblica l'ISS ha emesso un parere negativo sull'aumento di stipendio proposto per",
+  "corpo1": "Descalzi, che avrebbe ricevuto un aumento di 8,9 milioni di euro. La decisione è stata motivata dalla considerazione che lo stipendio attuale di Descalzi sia già \"eccessivo\" e che l'aumento proposto non sia giustificato da motivi sufficienti. L'ISS ha anche sollevato dubbi sulla trasparenza della remunerazione di Descalzi, sottolineando che la documentazione presentata dall'azienda non fornisce informazioni sufficienti",
+  "corpo2": "Sulla base di calcolo utilizzata per determinare lo stipendio. La decisione dell'ISS rischia di creare problemi per la riconferma di Descalzi in carica a maggio. Eni ha già annunciato la sua intenzione di presentare un nuovo progetto di remunerazione per l'amministratore delegato, ma l'ISS non sembra disposto a sorvolare sulla questione. La vicenda è un ulteriore esempio della tensione tra le istituzioni italiane e le grandi imprese. L'ISS ha già criticato altre aziende per la loro remunerazione dei dirigenti, sottolineando la necessità di maggiore trasparenza e responsabilità. Se queste cifre verranno confermate anche nel prossimo trimestre, il conto per i contribuenti ordinari salirà a 8,9 milioni di euro, un aumento del 100% rispetto allo stipendio attuale di Descalzi.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-04-17T08:05:29.811905+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/nazionale/img/2026/04/17/094724589-87ffd9ac-1bbb-4f4d-a5c8-8c36e45a8b7e.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"L'ISS boccia lo stipendio di Descalzi\",\n  \"description\": \"Iss boccia lo stipendio di Descalzi: \\\"Aumento eccessivo\\\" Roma, 17 aprile. L'ISS (Istituto Superiore di Sanità) ha bocciato lo stipendio di Claudio Descalzi, amministratore delegato di Eni, ritenendolo \\\"eccessivo\\\". La decisione è stata annunciata in occasione della riconferma di Descalzi in carica a \",\n  \"articleBody\": \"Iss boccia lo stipendio di Descalzi: \\\"Aumento eccessivo\\\" Roma, 17 aprile. L'ISS (Istituto Superiore di Sanità) ha bocciato lo stipendio di Claudio Descalzi, amministratore delegato di Eni, ritenendolo \\\"eccessivo\\\". La decisione è stata annunciata in occasione della riconferma di Descalzi in carica a maggio. Secondo la Repubblica l'ISS ha emesso un parere negativo sull'aumento di stipendio proposto per Descalzi, che avrebbe ricevuto un aumento di 8,9 milioni di euro. La decisione è stata motivata dalla considerazione che lo stipendio attuale di Descalzi sia già \\\"eccessivo\\\" e che l'aumento proposto non sia giustificato da motivi sufficienti. L'ISS ha anche sollevato dubbi sulla trasparenza della remunerazione di Descalzi, sottolineando che la documentazione presentata dall'azienda non fornisce informazioni sufficienti Sulla base di calcolo utilizzata per determinare lo stipendio. La decisione dell'ISS rischia di creare problemi per la riconferma di Descalzi in carica a maggio. Eni ha già annunciato la sua intenzione di presentare un nuovo progetto di remunerazione per l'amministratore delegato, ma l'ISS non sembra disposto a sorvolare sulla questione. La vicenda è un ulteriore esempio della tensione tra le istituzioni italiane e le grandi imprese. L'ISS ha già criticato altre aziende per la loro remunerazione dei dirigenti, sottolineando la necessità di maggiore trasparenza e responsabilità. Se queste cifre verranno confermate anche nel prossimo trimestre, il conto per i contribuenti ordinari salirà a 8,9 milioni di euro, un aumento del 100% rispetto allo stipendio attuale di Descalzi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-17T08:05:29.811905+00:00\",\n  \"dateModified\": \"2026-04-17T08:05:29.811905+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/19663e3fa5ec30df\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/19663e3fa5ec30df\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/nazionale/img/2026/04/17/094724589-87ffd9ac-1bbb-4f4d-a5c8-8c36e45a8b7e.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 8,
+  "source": "Repubblica Economia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/economia/2026/04/17/news/iss_boccia_eni_sullo_stipendio_di_descalzi_aumento_eccessivo-425287784/?rss",
+  "related": [
+    {
+      "title": "Benzina a 1,769 euro al litro: il prezzo cala per l'ottavo giorno consecutivo",
+      "url": "/economia/benzina-a-1769-euro-al-litro-il-prezzo-cala-per-lo-95e321fc0e66134a",
+      "id": "95e321fc0e66134a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/35c69c3d62db7ffab9a194e42e4f0975.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Stipendi al Ribasso: i Nuovi Lavoratori Guadagnano l'11% in Meno in Italia",
+      "url": "/economia/nuovi-lavoratori-in-italia-guadagnano-l11-in-meno-8e1917fd076c8968",
+      "id": "8e1917fd076c8968",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/15/092544221-6a8248b3-5260-4316-9512-19500f271653.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Salvini dichiara: Italia procede da sola senza ok UE",
+      "url": "/economia/salvini-dichiara-italia-procede-da-sola-senza-ok-u-7495110a4d1ab92c",
+      "id": "7495110a4d1ab92c",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/7d241910ab073841da1ca301eef275e2.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
