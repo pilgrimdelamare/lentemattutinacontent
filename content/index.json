@@ -1,5 +1,24 @@
 [
   {
+    "id": "51d026593ee94b66",
+    "slug": "balletto-di-marbor-in-scena-a-modena-parma-e-porde-51d026593ee94b66",
+    "title": "Balletto di Marbor in scena a Modena, Parma e Pordenone con Stabat Mater e Carmina Burana",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-17T10:25:36.850854+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/9caba03f03ae07f3302fdb3eb3bfb896.jpg",
+    "occhiello": "IL BALLETTO DI MARBOR IN TOURNÉE IN TRE CITTÀ ITALIANE",
+    "lead_preview": "Roma, 17 aprile. Il Balletto di Marbor sarà in tournée a Modena, Parma e Pordenone dal 19 al 24 aprile con il dittico \"S",
+    "tags": [
+      "balletto marbor",
+      "stabat mater",
+      "carmina burana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub blocca per 161 minuti: cosa è successo",
@@ -8898,25 +8917,6 @@
       "vittoria magyar",
       "elezioni ungheresi",
       "cambio governo orbán"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ad681530023c59c0",
-    "slug": "scambio-350-prigionieri-russia-e-ucraina-si-affron-ad681530023c59c0",
-    "title": "Russia e Ucraina scambiano 175 prigionieri ciascuno mentre i fronti restano in fiamme",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-13T02:46:59.469462+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/12/1775976990-ucraina.jpg",
-    "occhiello": "RUSSELLA E UCRAINA SI AFFRONTEVANO",
-    "lead_preview": "Zaporizhzhia, 12 aprile. La Russia e l'Ucraina hanno effettuato uno scambio di 175 prigionieri di guerra ciascuna, mentr",
-    "tags": [
-      "scambio prigionieri russo-ucraino",
-      "guerra ucraina",
-      "tregua pasquale fallita"
     ],
     "hero_eligible": true
   }
