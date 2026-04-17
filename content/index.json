@@ -1,5 +1,23 @@
 [
   {
+    "id": "32e6f722f69b2217",
+    "slug": "marino-barovier-porta-le-stanze-del-vetro-a-san-gi-32e6f722f69b2217",
+    "title": "Marino Barovier porta Le stanze del vetro a San Giorgio per rilanciare Murano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-17T14:22:11.255811+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/01debcc4b9ee1d396e49e17b0a88e99b.jpg",
+    "occhiello": "IL VETRO DI MURANO CELEBRA DIECI ANNI DI INVENTIVA A VENEZIA",
+    "lead_preview": "Venezia, 17 aprile 2026. L’isola di San Giorgio ospita il terzo capitolo del progetto Le stanze del vetro, iniziativa cu",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ff4f11746e9a280",
     "slug": "francesca-tandoi-parte-per-un-tour-jazz-tra-bari-s-4ff4f11746e9a280",
     "title": "Francesca Tandoi parte per un tour jazz tra Bari, Salerno e Torino, finale a Milano",
@@ -8856,25 +8874,6 @@
       "trump attacca papa",
       "papa leone xiv",
       "critiche trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8cd275f83764dc29",
-    "slug": "calcio-paul-george-batte-stephen-curry-nelle-ultim-8cd275f83764dc29",
-    "title": "Basket: Paul George supera Curry",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-13T07:13:37.266056+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/813354515a9f3c8e81e520250d854d7fcc00f2ca/skysport/it/nba/video/2026/04/13/1089781_1776058580189_thumb_494.0000001_1776060165905.jpg",
-    "occhiello": "GEORGE BATTE CURRY AL BASKET",
-    "lead_preview": "Roma, 13 aprile. Paul George ha battuto Stephen Curry in una partita di basket.",
-    "tags": [
-      "paul george",
-      "stephen curry",
-      "nba"
     ],
     "hero_eligible": true
   }
