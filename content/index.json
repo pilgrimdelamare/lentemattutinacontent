@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub blocca per 161 minuti: cosa è successo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-16T18:25:06.815392+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB CROLLA PER 161 MINUTI",
+    "lead_preview": "San Francisco, 16 aprile. La piattaforma GitHub è rimasta inaccessibile per 161 minuti a causa di un guasto tecnico.",
+    "tags": [
+      "github blocca",
+      "guasto tecnico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9a1645027914e046",
     "slug": "papa-leone-xiv-porta-in-dono-orecchini-dargento-a-9a1645027914e046",
     "title": "Papa Francesco dona orecchini d'argento a nipote di collaboratore",
@@ -2267,25 +2285,6 @@
     "tags": [
       "real madrid bayern",
       "champions league"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub crolla per 161 minuti, sviluppatori bloccati in tutto il mondo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-16T18:25:06.815392+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RESTA IRRAGGIUNGIBILE PER OLTRE DUE ORE E MEZZA",
-    "lead_preview": "San Francisco, 16 aprile 2026. La piattaforma GitHub è rimasta inaccessibile per 161 minuti a causa di un guasto tecnico",
-    "tags": [
-      "guasto github",
-      "disservizio github",
-      "crash github"
     ],
     "hero_eligible": true
   },
