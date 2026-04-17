@@ -1,5 +1,20 @@
 [
   {
+    "id": "10116caec69fc3cd",
+    "slug": "ftse-mib-schizza-del-175-10116caec69fc3cd",
+    "title": "Ftse Mib schizza del 1,75%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-17T16:19:33.489031+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/14/1cdd70f6d13b422b0b2ac85711443a2b.jpg",
+    "occhiello": "PIAZZA AFFARI AI MASSIMI DAL 2000 GRAZIE AL PETROLIO",
+    "lead_preview": "Milano, 17 aprile 2026. Piazza Affari chiude la seduta in netto rialzo con il Ftse Mib che guadagna l'1,75 per cento, to",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "064de643dd3898b5",
     "slug": "reza-palhavi-a-roma-ue-alza-pressione-sulliran-per-064de643dd3898b5",
     "title": "Reza Palhavi a Roma: 'UE alza pressione sull'Iran per democrazia'",
@@ -8840,24 +8855,6 @@
     "lead_preview": "Budapest, 13 aprile. Il partito Tisza, guidato da Péter Magyar, ha trionfato alle elezioni ungheresi ottenendo il 52% de",
     "tags": [
       "elezioni ungheresi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b53006654fc97f44",
-    "slug": "lolimpio-del-futuro-hirox-si-avvicina-alla-storica-b53006654fc97f44",
-    "title": "Hirox: Raggiunti 120 milioni di spettatori in tre anni e puntiamo alle Olimpiadi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-13T04:11:45.985522+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/12/222238151-6ba83af1-4140-47e3-bca7-77dfdc9abdf2.jpg",
-    "occhiello": "120 MILIONI DI SPETTATORI IN TRE ANNI",
-    "lead_preview": "Bruxelles, 13 aprile. La disciplina Hirox, che combina corsa e esercizi di forza standardizzati, ha superato i 120 milio",
-    "tags": [
-      "discipline hirox",
-      "spettatori olimpiadi"
     ],
     "hero_eligible": true
   }
