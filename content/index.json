@@ -1,5 +1,23 @@
 [
   {
+    "id": "773d64e790914c05",
+    "slug": "il-festival-di-gorizia-si-lancia-in-unedizione-imp-773d64e790914c05",
+    "title": "Il Festival di Gorizia si lancia in un'edizione imprevedibile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-17T10:25:41.662053+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/35c63535ffe7bef9cc7b185a99e8b9d7.jpg",
+    "occhiello": "IL FESTIVAL DI GORIZIA SI SVELA IN 7 ATTI",
+    "lead_preview": "Roma, 17 aprile. Il Festival a Gorizia presenta una programmazione eclettica, che spazia dalle monoteistiche alle religi",
+    "tags": [
+      "festival gorizia",
+      "programmazione culturale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "51d026593ee94b66",
     "slug": "balletto-di-marbor-in-scena-a-modena-parma-e-porde-51d026593ee94b66",
     "title": "Balletto di Marbor in scena a Modena, Parma e Pordenone con Stabat Mater e Carmina Burana",
@@ -8898,25 +8916,6 @@
       "presentazione libro ferrario",
       "anna kuliscioff",
       "link media festival"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1cd113f5575058cd",
-    "slug": "affluenza-ai-massimi-nella-battaglia-tra-orban-e-m-1cd113f5575058cd",
-    "title": "Péter Magyar vince 138 seggi a Budapest e rovescia Orbán dopo 14 anni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-13T02:52:10.268171+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/11/1775916881-AP26100626457614.jpg",
-    "occhiello": "138 SEGGETI A MAGYAR, ORBÁN RISCHIA IL CAPO",
-    "lead_preview": "Budapest, 12 aprile. Péter Magyar, leader del partito Movimento per un'alternativa popolare (Tisza) conquista 138 seggi ",
-    "tags": [
-      "vittoria magyar",
-      "elezioni ungheresi",
-      "cambio governo orbán"
     ],
     "hero_eligible": true
   }
