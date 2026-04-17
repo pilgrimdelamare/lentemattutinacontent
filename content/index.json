@@ -1,5 +1,23 @@
 [
   {
+    "id": "51d026593ee94b66",
+    "slug": "balletto-di-marbor-in-scena-a-modena-parma-e-porde-51d026593ee94b66",
+    "title": "Balletto di Marbor sbarca a Modena, Parma e Pordenone con i Carmina Burana",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-17T10:25:36.850854+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/9caba03f03ae07f3302fdb3eb3bfb896.jpg",
+    "occhiello": "IL DITTICO CLASSICO APPRODA A MODENA PARMA E PORDENONE",
+    "lead_preview": "Roma, 17 aprile. Il Balletto di Marbor porta in scena il dittico composto da Stabat Mater e i Carmina Burana in una tour",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "773d64e790914c05",
     "slug": "il-festival-di-gorizia-si-lancia-in-unedizione-imp-773d64e790914c05",
     "title": "Gorizia lancia un Festival culturale sulle religioni monoteistiche per 33mila abitanti",
@@ -1065,25 +1083,6 @@
       "pallavolo italiana",
       "velasco",
       "nazionale femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51d026593ee94b66",
-    "slug": "balletto-di-marbor-in-scena-a-modena-parma-e-porde-51d026593ee94b66",
-    "title": "Balletto di Marbor in scena a Modena, Parma e Pordenone con Stabat Mater e Carmina Burana",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-17T10:25:36.850854+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/9caba03f03ae07f3302fdb3eb3bfb896.jpg",
-    "occhiello": "IL BALLETTO DI MARBOR IN TOURNÉE IN TRE CITTÀ ITALIANE",
-    "lead_preview": "Roma, 17 aprile. Il Balletto di Marbor sarà in tournée a Modena, Parma e Pordenone dal 19 al 24 aprile con il dittico \"S",
-    "tags": [
-      "balletto marbor",
-      "stabat mater",
-      "carmina burana"
     ],
     "hero_eligible": true
   },
