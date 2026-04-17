@@ -1,5 +1,24 @@
 [
   {
+    "id": "a183ed591636f784",
+    "slug": "carabinieri-ros-intercettazione-lega-commisso-a-cl-a183ed591636f784",
+    "title": "Carabinieri ROS: Intercettazione Lega Commisso a Clan 'Ndrangheta",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-17T06:17:29.491254+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-firenze/2026/04/17/075950097-b977ece6-ddfa-4302-9bcb-81913664dce5.jpg",
+    "occhiello": "'Ndrangheta, Ros e Commisso: un legame con la criminalità organizzata?",
+    "lead_preview": "'Ndrangheta, Ros e Commisso: un legame con la criminalità organizzata? Firenze, 17 aprile. I carabinieri dei Ros hanno d",
+    "tags": [
+      "'ndrangheta",
+      "carabinieri ros",
+      "lega commisso"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ac846f20ec039e92",
     "slug": "oro-schizza-a-4804-dollari-investitori-scappano-da-ac846f20ec039e92",
     "title": "Oro schizza a 4.804 dollari, investitori scappano dall'inflazione",
@@ -8872,24 +8891,6 @@
     "occhiello": "ORSINI AVVERTE: CARBURANTE PIÙ CARO PER GLI ITALIANI",
     "lead_preview": "Roma, 12 aprile. Alessandro Orsini, docente di sociologia del conflitto, ha dichiarato in prima serata su Nove, durante ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1c7f448c525ad33f",
-    "slug": "benin-elezioni-presidenziali-il-17-aprile-wadagni-1c7f448c525ad33f",
-    "title": "Benin, domenica si vota: Talon cerca la riconferma",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-12T07:20:08.704584+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/ce561fb4987e8955e9e6b1a23c4ab79b6fe780dc/991_82_5509_4409/master/5509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=645f48ba73006bf2706e816e7ea71e4c",
-    "occhiello": "ELEZIONI PRESIDENTIALI DOPO IL COLPO DI STATO FALLITO",
-    "lead_preview": "Cotonou, 12 aprile. Domenica 17 aprile il Benin si prepara a votare per le elezioni presidenziali, a pochi mesi da un te",
-    "tags": [
-      "elezioni benin",
-      "colpo di stato benin"
-    ],
     "hero_eligible": true
   }
 ]
