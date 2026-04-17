@@ -1,5 +1,23 @@
 [
   {
+    "id": "e2b7fd38c595920c",
+    "slug": "fincantieri-vara-la-norwegian-aura-a-monfalcone-sf-e2b7fd38c595920c",
+    "title": "Monfalcone lancia la Norwegian Aura: Fincantieri sfida i giganti asiatici",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-17T13:36:31.235739+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/8dd5bed29c4615752a164fef606c89ab.jpg",
+    "occhiello": "VARO TECNICO A MONFALCONE PER LA NAVE NORWEGIAN AURA",
+    "lead_preview": "Monfalcone, 17 aprile 2026. Il gruppo Fincantieri ha celebrato il varo tecnico della nave da crociera Norwegian Aura a M",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5b7a03f461fbbc6d",
     "slug": "usa-e-iran-si-incontrano-a-islamabad-per-evitare-s-5b7a03f461fbbc6d",
     "title": "Stati Uniti e Iran negoziano a Islamabad per frenare tensioni nel Golfo",
@@ -936,24 +954,6 @@
       "cobolli",
       "monaco di baviera",
       "torneo di monaco"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e2b7fd38c595920c",
-    "slug": "fincantieri-vara-la-norwegian-aura-a-monfalcone-sf-e2b7fd38c595920c",
-    "title": "Fincantieri vara la Norwegian Aura a Monfalcone: sfida al lusso Mondiale",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-17T13:36:31.235739+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/8dd5bed29c4615752a164fef606c89ab.jpg",
-    "occhiello": "FINCANTIERI VARA LA NORWEGIAN AURA NEI CANTIERI DI MONFALCONE",
-    "lead_preview": "Monfalcone, 17 aprile 2026. Il gruppo Fincantieri ha celebrato il varo tecnico della nave da crociera Norwegian Aura pre",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
