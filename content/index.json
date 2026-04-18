@@ -1,5 +1,24 @@
 [
   {
+    "id": "391da9538e698b67",
+    "slug": "shakespeare-a-londra-trovata-la-casa-del-bardo-a-b-391da9538e698b67",
+    "title": "Scoperta la casa di Shakespeare da un'analisi dettagliata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-17T15:55:23.333797+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/89221f2d217a36969dfa12264cec2aa8.jpg",
+    "occhiello": "TROVATA LA CASA DI SHAKESPEARE A LONDRA: UN MISTERO SECOLARE SVELATO",
+    "lead_preview": "Londra, 17 aprile 2026.",
+    "tags": [
+      "shakespeare",
+      "londra",
+      "casa storica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "73944e93f6ba675e",
     "slug": "petrolio-nel-golfo-del-messico-pemex-tace-sulla-qu-73944e93f6ba675e",
     "title": "1500 Barili di petrolio greggio dispersi nel Golfo del Messico, Pemex tace",
@@ -3219,25 +3238,6 @@
       "borsa italiana",
       "ftse mib",
       "piattaforma affari"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "391da9538e698b67",
-    "slug": "shakespeare-a-londra-trovata-la-casa-del-bardo-a-b-391da9538e698b67",
-    "title": "Shakespeare, trovata a Londra la casa del Bardo: Blackfriars svela il mistero secolare",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-17T15:55:23.333797+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/89221f2d217a36969dfa12264cec2aa8.jpg",
-    "occhiello": "SCOPERTA LA DIMORA LONDINESE DI WILLIAM SHAKESPEARE A BLACKFRIARS",
-    "lead_preview": "Londra, 17 aprile 2026. Una studiosa ha individuato il luogo esatto in cui sorgeva la casa di William Shakespeare a Lond",
-    "tags": [
-      "casa shakespeare",
-      "blackfriars",
-      "shakespeare londra"
     ],
     "hero_eligible": true
   },
