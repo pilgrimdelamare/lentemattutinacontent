@@ -1,5 +1,20 @@
 [
   {
+    "id": "5ea43c21eefbcdc1",
+    "slug": "crolla-il-greggio-wti-perde-l138-e-brent-scende-a-5ea43c21eefbcdc1",
+    "title": "Il prezzo del Brent scende a 85 dollari",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-17T06:20:14.277334+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3886c4959041e0554ff2eb6c7688d65b.jpg",
+    "occhiello": "IL PREZZO DEL PETROLIO CROLLA, MA LA BENZINA NON LO SA",
+    "lead_preview": "Roma, 17 aprile. Il prezzo del Brent ha aperto la seduta con un calo dell'1,38%, attestandosi a circa 85 dollari al bari",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "735faa61837c36bf",
     "slug": "calcio-premier-league-il-var-ribalta-il-95-delle-d-735faa61837c36bf",
     "title": "Premier League: il VAR azzecca il 95% delle decisioni, blindata l'integrità del torneo",
@@ -2816,24 +2831,6 @@
       "le stanze del vetro",
       "marino barovier",
       "vetro murano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ea43c21eefbcdc1",
-    "slug": "crolla-il-greggio-wti-perde-l138-e-brent-scende-a-5ea43c21eefbcdc1",
-    "title": "Petrolio Brent precipita dell'1,38%: l'offerta USA travolge i prezzi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-17T06:20:14.277334+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/3886c4959041e0554ff2eb6c7688d65b.jpg",
-    "occhiello": "IL PETROLIO CALA PER L'ECCESSO DI OFFERTA AMERICANA",
-    "lead_preview": "Roma, 17 aprile 2026. Il mercato del greggio apre la seduta odierna con una flessione generalizzata. Il Brent ha subito ",
-    "tags": [
-      "prezzi petrolio",
-      "mercato greggio"
     ],
     "hero_eligible": true
   },
