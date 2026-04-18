@@ -1,5 +1,23 @@
 [
   {
+    "id": "ca25973b3733d63d",
+    "slug": "basket-green-segna-36-punti-ca25973b3733d63d",
+    "title": "Basket: Green segna 36 punti",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-18T06:04:55.746686+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/440aa12bc15d45e9d54b181b5057571ce1d70cc1/skysport/it/nba/video/2026/04/18/1090993_1776489283820_thumb_494.0000001_1776489354581.jpg",
+    "occhiello": "NBA, JALEN GREEN DETONA CONTRO GOLDEN STATE",
+    "lead_preview": "Jalen Green è stato il grande protagonista della partita tra Phoenix Suns e Golden State Warriors, segnando 36 punti e 8",
+    "tags": [
+      "nba",
+      "jalen green"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0f64e0c6e48fb39c",
     "slug": "governo-1200-euro-medio-per-la-rottamazione-quinqu-0f64e0c6e48fb39c",
     "title": "Il governo offre 1.200 euro per chiudere col Fisco",
@@ -8772,24 +8790,6 @@
     "tags": [
       "carlo nordio",
       "aereo di stato veneto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5b2f3e52aaaad94a",
-    "slug": "nba-cooper-flagg-e-il-primo-rookie-a-guidare-la-sq-5b2f3e52aaaad94a",
-    "title": "Basket: Cooper Flagg chiude da record la prima stagione NBA: 17,5 punti con i Mavericks",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-14T07:48:14.775967+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/19cf625444839223d39b1e7f6618738d29aa48bd/skysport/it/nba/2026/03/14/cooper-flagg-nba-rookie-record-jordan/Flagg_Jordan_combo.jpg",
-    "occhiello": "FLAGG GUIDA I MAVERICKS",
-    "lead_preview": "Roma, 14 aprile. Cooper Flagg, vent'anni, ha chiuso la sua prima stagione in NBA con numeri da record, guidando i Dallas",
-    "tags": [
-      "cooper flagg",
-      "mavericks nba"
     ],
     "hero_eligible": true
   }
