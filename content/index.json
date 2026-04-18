@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260418",
+    "slug": "libro-del-giorno-la-donna-della-mansardadi-davide-longo-20260418",
+    "title": "Il libro del giorno: «La donna della mansardadi Davide Longo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo avvincente che esplora temi quali la solitudine, il rapporto fra arte e vita, e i labirinti della mente umana",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-18T07:00:21.601701+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788806266738_0_0_424_0_75-5b1c0.jpg?1775796719",
+      "alt": "Copertina: La donna della mansardadi Davide Longo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788806266738_0_0_424_0_75-5b1c0.jpg?1775796719",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "15fd8f1c80e5ca8e",
     "slug": "stella-mccartney-ritorna-da-h-e-m-dopo-ventanni-15fd8f1c80e5ca8e",
     "title": "Stella McCartney lancia 'Eco Chic' con H&M: 35 capi in materiali riciclati al 90%, da 19 a 149 euro",
@@ -8776,23 +8795,6 @@
     "tags": [
       "borsa italiana 2%",
       "accordo nucleare 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a35a1b2169305a71",
-    "slug": "france-inter-guida-gli-ascolti-radio-in-francia-co-a35a1b2169305a71",
-    "title": "Radio lineare in Francia in calo: un quarto di ascolti perso",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-14T06:31:08.344351+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://img.lemde.fr/2026/04/14/0/0/5000/2500/644/322/60/0/c7d8c17_upload-1-5bnvvn7k3d75-maxnewsspecial942820.jpg",
-    "occhiello": "CALO ASCOLTI RADIO LINEARE IN FRANCIA",
-    "lead_preview": "Parigi, 14 aprile. La Francia continua a vedere un calo degli ascolti della Radio lineare, secondo i dati di ascolto pub",
-    "tags": [
-      "calo ascolti radio francia"
     ],
     "hero_eligible": true
   }
