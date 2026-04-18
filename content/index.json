@@ -1,5 +1,24 @@
 [
   {
+    "id": "7c3efbb7d299b17d",
+    "slug": "teheran-riapre-lo-stretto-di-hormuz-7c3efbb7d299b17d",
+    "title": "Petrolio e miliardi: Hormuz riapre per 20 navi sotto il ricatto iraniano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-18T07:23:38.435685+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/4720fd1414d74a6470cc8388f17fdee1.jpg",
+    "occhiello": "TEHERAN MANTIENE IL CONTROLLO MILITARE SUL TRAFFICO MARITTIMO GLOBALE",
+    "lead_preview": "Teheran, 18 aprile. Il transito delle petroliere nello Stretto di Hormuz è ripreso dopo diversi giorni di blocco totale,",
+    "tags": [
+      "stretto di hormuz",
+      "crisi iran",
+      "blocco petrolio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "de0edf69a7ded938",
     "slug": "sparatoria-a-kiev-6-morti-un-neonato-tra-le-vittim-de0edf69a7ded938",
     "title": "Sparatoria a Kiev: 6 morti, un neonato tra le vittime",
@@ -3041,25 +3060,6 @@
       "materiae",
       "milano",
       "installazioni urbane"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7c3efbb7d299b17d",
-    "slug": "teheran-riapre-lo-stretto-di-hormuz-7c3efbb7d299b17d",
-    "title": "Stretto di Hormuz: Teheran riapre il traffico, ma i Pasdaran controllano le petroliere",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-18T07:23:38.435685+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/15/4720fd1414d74a6470cc8388f17fdee1.jpg",
-    "occhiello": "TEHERAN RIPRENDE IL CONTROLLO SUL TRANSITO DELLE PETROLIERE",
-    "lead_preview": "Teheran, 18 aprile. Il transito delle petroliere nello Stretto di Hormuz è tornato dopo giorni di ingorgo marittimo, in ",
-    "tags": [
-      "stretto di hormuz",
-      "iran petroliere",
-      "pasdaran"
     ],
     "hero_eligible": true
   },
