@@ -1,5 +1,24 @@
 [
   {
+    "id": "777b26bee3f68c42",
+    "slug": "google-protegge-utenti-da-phishing-777b26bee3f68c42",
+    "title": "Google Annuncia Rafforzamento Sicurezza Phishing Sui Suoi Servizi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-18T04:38:11.841755+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69d5f0c760b8473f373ead49/16:9/w_1280,c_limit/google%20workspace.jpg",
+    "occhiello": "GOOGLE WORKSPACE AUMENTA LA PROTEZIONE ANTI-PHISHING",
+    "lead_preview": "Roma, 18 aprile, data originale della notizia. la misura, che entra in vigore a partire da oggi per gli utenti di la sui",
+    "tags": [
+      "sicurezza google",
+      "anti-phishing google",
+      "google workspace"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f48be8409ba14e41",
     "slug": "trump-proclama-la-vittoria-sulliran-e-punta-ai-col-f48be8409ba14e41",
     "title": "Trump annuncia colloqui di pace con Islamabad: risolti i punti critici del conflitto",
@@ -1012,24 +1031,6 @@
     "lead_preview": "Roma, 17 aprile. Il mercato globale del greggio registra un crollo netto delle quotazioni in seguito all'allentamento de",
     "tags": [
       "prezzo petrolio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "777b26bee3f68c42",
-    "slug": "google-protegge-utenti-da-phishing-777b26bee3f68c42",
-    "title": "Google protegge utenti da Phishing",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-18T04:38:11.841755+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69d5f0c760b8473f373ead49/16:9/w_1280,c_limit/google%20workspace.jpg",
-    "occhiello": "GOOGLE WORKSPACE, SICUREZZA IN PERICOLO",
-    "lead_preview": "Roma, 18 aprile. Google Workspace, la suite software di produttività personale, offre numerose funzioni e sistemi per di",
-    "tags": [
-      "google workspace",
-      "phishing"
     ],
     "hero_eligible": true
   },
