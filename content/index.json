@@ -1,5 +1,23 @@
 [
   {
+    "id": "d1941f389248d64a",
+    "slug": "sci-mattia-casse-punta-a-riconquistare-la-coppa-de-d1941f389248d64a",
+    "title": "Mattia casse punta alla coppa del mondo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-18T10:58:40.570527+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/1cd1ba354ef139b43962bd9f796d446e236828b5/skysport/it/altri-sport/sci/video/2026/04/18/1091020_1776505640385_thumb_494.0000001_1776506333208.jpg",
+    "occhiello": "MATTIA CASSE PUNTA ALLA COPPA DEL MONDO",
+    "lead_preview": "Milano, 18 aprile. Mattia Casse, sciatore di punta della nazionale Italiana nelle discipline veloci, ha ufficializzato i",
+    "tags": [
+      "coppa del mondo",
+      "mattia casse"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d5af55f56ad39414",
     "slug": "basket-orlando-e-phoenix-si-qualificano-magic-domi-d5af55f56ad39414",
     "title": "Orlando e phoenix centrano l'accesso diretto ai playoff nba",
@@ -2391,25 +2409,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1941f389248d64a",
-    "slug": "sci-mattia-casse-punta-a-riconquistare-la-coppa-de-d1941f389248d64a",
-    "title": "Sci: Mattia Casse punta alla Coppa del Mondo, l'azzurro vuole insidiare i campioni!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-18T10:58:40.570527+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1cd1ba354ef139b43962bd9f796d446e236828b5/skysport/it/altri-sport/sci/video/2026/04/18/1091020_1776505640385_thumb_494.0000001_1776506333208.jpg",
-    "occhiello": "MATTIA CASSE PUNTA AL TITOLO MONDIALE NELLA PROSSIMA STAGIONE",
-    "lead_preview": "Milano, 18 aprile. Mattia Casse, sciatore di punta della nazionale Italiana nelle discipline veloci, ha ufficializzato i",
-    "tags": [
-      "sci",
-      "coppa del mondo",
-      "mattia casse"
     ],
     "hero_eligible": true
   },
