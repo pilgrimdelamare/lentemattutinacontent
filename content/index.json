@@ -1,5 +1,23 @@
 [
   {
+    "id": "d00e4cfd57bb9939",
+    "slug": "basket-priftis-guida-reggio-emilia-al-15-nel-secon-d00e4cfd57bb9939",
+    "title": "Basket: La Reggio Emilia strappa la vittoria decisiva a Trento",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-18T19:29:30.503242+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2c8c4855cfa4106a3bc8cda0a1d9811c2546bc87/skysport/it/basket/serie-a/video/2026/04/18/1091175_1776537373667_thumb_494.0000001_1776537536969.jpg",
+    "occhiello": "REGGIO EMILIA VINCITRICE IN UNA GARA DECISIVA.",
+    "lead_preview": "REGGIO EMILIA VINCITRICE IN UNA GARA DECISIVA. Trento, 18 aprile. L'Una Hotels Reggio Emilia ha battuto la Dolomiti Ener",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "65fd8a2f0c03689e",
     "slug": "calcio-juventus-a-quota-68-domani-ce-il-bologna-in-65fd8a2f0c03689e",
     "title": "Calcio: Juventus-Bologna, vittoria cruciale per 50 milioni e il risanamento del club",
@@ -611,25 +629,6 @@
     "lead_preview": "Milano, 18 aprile 2026. Marracash, all'anagrafe Marracash, è tornato nel quartiere della Barona per un evento celebrativ",
     "tags": [
       "block party barona"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d00e4cfd57bb9939",
-    "slug": "basket-priftis-guida-reggio-emilia-al-15-nel-secon-d00e4cfd57bb9939",
-    "title": "Basket: Priftis guida Reggio Emilia al +15 nel secondo quarto, è ottavo successo in nove gare",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-18T19:29:30.503242+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2c8c4855cfa4106a3bc8cda0a1d9811c2546bc87/skysport/it/basket/serie-a/video/2026/04/18/1091175_1776537373667_thumb_494.0000001_1776537536969.jpg",
-    "occhiello": "REGGIO EMILIA DOMINA CON UN PARZIALE DI 15-0",
-    "lead_preview": "Trento, 18 aprile. L’Una Hotels Reggio Emilia batte 82-90 la la Dolomiti Energia Trento in una gara decisiva per la cors",
-    "tags": [
-      "basket",
-      "reggio emilia",
-      "playoff"
     ],
     "hero_eligible": true
   },
