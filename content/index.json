@@ -1,5 +1,23 @@
 [
   {
+    "id": "ff7a96019c7de2aa",
+    "slug": "piovani-sfida-i-musicisti-lia-non-e-una-minaccia-m-ff7a96019c7de2aa",
+    "title": "Nicola Piovani a Roma sfida l'AI: la musica è intuizione, non codice",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-17T15:29:47.024343+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/497bd0cd2511f2e4c1416b92918e515a.jpg",
+    "occhiello": "L'ALGORITMO NON CANTA: PIOVANI SMONTA L'IA A ROMA",
+    "lead_preview": "Roma, 17 aprile 2026. Nicola Piovani interviene ufficialmente nel dibattito sull'utilizzo dell'intelligenza artificiale ",
+    "tags": [
+      "nicola piovani",
+      "intelligenza artificiale musica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1cf02844279c462e",
     "slug": "maire-spa-blinda-le-torri-di-milano-affitto-garant-1cf02844279c462e",
     "title": "Multinazionale energia blinda le Torri di Milano: affitto per vent'anni",
@@ -2843,25 +2861,6 @@
       "calcio",
       "mbappe",
       "classifica caressa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ff7a96019c7de2aa",
-    "slug": "piovani-sfida-i-musicisti-lia-non-e-una-minaccia-m-ff7a96019c7de2aa",
-    "title": "Nicola Piovani a Roma: l'IA sfida la creatività umana nella musica del futuro",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-17T15:29:47.024343+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/497bd0cd2511f2e4c1416b92918e515a.jpg",
-    "occhiello": "PIOVANI DECLASSA L'INTELLIGENZA ARTIFICIALE A SEMPLICE PROVA DI ORIGINALITA",
-    "lead_preview": "Roma, 17 aprile 2026. Nicola Piovani interviene nel dibattito sull'intelligenza artificiale applicata alla composizione ",
-    "tags": [
-      "nicola piovani ia",
-      "musica intelligenza artificiale",
-      "composizione musicale futuro"
     ],
     "hero_eligible": true
   },
