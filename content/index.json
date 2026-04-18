@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b729dfef9488d0b",
+    "slug": "foo-fighters-colpiscono-ancora-your-favorite-toy-e-4b729dfef9488d0b",
+    "title": "I Foo Fighters tornano con Your Favorite Toy: esce il dodicesimo album",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-18T12:18:16.470175+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/eacfc33b291e409002877b138267b81f.jpg",
+    "occhiello": "ILAN RUBIN DEBUTTA NEI FOO FIGHTERS CON IL DODICESIMO DISCO",
+    "lead_preview": "Roma, 18 aprile 2026. I Foo Fighters hanno annunciato l'uscita di Your Favorite Toy, il loro dodicesimo album in studio,",
+    "tags": [
+      "foo fighters",
+      "your favorite toy"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fb94f5e2de417211",
     "slug": "confindustria-175mila-posti-nel-marittimo-senza-ca-fb94f5e2de417211",
     "title": "Marittimo: 175mila posti vacanti, Confindustria lancia l'allarme sulla carenza di personale",
@@ -1044,21 +1062,6 @@
     "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/17/185140409-37daee3c-5429-471d-b3da-8e78b6c93149.jpg",
     "occhiello": "IA CONVINTA, CONSUMATORE SEDOTTO",
     "lead_preview": "Princeton, 17 aprile 2026. L'intelligenza artificiale generativa, nella sua forma più accessibile come ChatGPT, è in gra",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b729dfef9488d0b",
-    "slug": "foo-fighters-colpiscono-ancora-your-favorite-toy-e-4b729dfef9488d0b",
-    "title": "Foo Fighters colpiscono ancora: Your Favorite Toy è il loro 12esimo disco",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-18T12:18:16.470175+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/eacfc33b291e409002877b138267b81f.jpg",
-    "occhiello": "DODICESIMO ALBUM DEI FOO FIGHTERS IN USCITA IL 24 APRILE",
-    "lead_preview": "Roma, 18 aprile 2026. I Foo Fighters annunciano l’uscita del loro dodicesimo album in studio, intitolato Your Favorite T",
     "tags": [],
     "hero_eligible": true
   },
