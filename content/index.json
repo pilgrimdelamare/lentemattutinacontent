@@ -1,5 +1,24 @@
 [
   {
+    "id": "fd7d65abeb4683a7",
+    "slug": "iran-riapre-i-cieli-dopo-lattacco-di-usa-e-israele-fd7d65abeb4683a7",
+    "title": "Iran riapre lo spazio aereo dopo gli attacchi in Siria e Libano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-18T07:55:25.394196+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/3/1055c9958ccd83e386e51c3cd3d3e0d4.jpg",
+    "occhiello": "",
+    "lead_preview": "Teheran, 18 aprile. L’aviazione civile iraniana ha revocato il divieto di volo sullo spazio aereo nazionale, due giorni ",
+    "tags": [
+      "attacchi siria libano",
+      "crisi iran",
+      "guerra iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2c5b949ac9494f79",
     "slug": "decreto-sicurezza-ronzulli-contestata-in-senato-op-2c5b949ac9494f79",
     "title": "Il Senato approva il Decreto Sicurezza dopo mille emendamenti respinti",
@@ -1169,24 +1188,6 @@
       "varo norwegian aura",
       "fincantieri monfalcone",
       "nave da crociera"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fd7d65abeb4683a7",
-    "slug": "iran-riapre-i-cieli-dopo-lattacco-di-usa-e-israele-fd7d65abeb4683a7",
-    "title": "Iran riapre i cieli dopo l'attacco di USA e Israele: ripartono i voli locali",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-18T07:55:25.394196+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/3/1055c9958ccd83e386e51c3cd3d3e0d4.jpg",
-    "occhiello": "TEHERAN RIAPRE I CIELI DOPO L'ATTACCO CONGIUNTO",
-    "lead_preview": "Teheran, 18 aprile. Le autorità dell'aviazione civile iraniana hanno revocato il blocco del proprio spazio aereo dopo un",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
