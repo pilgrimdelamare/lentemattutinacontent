@@ -1,5 +1,20 @@
 [
   {
+    "id": "8a65fb134434da6c",
+    "slug": "blocco-di-hormuz-liran-attacca-navi-e-mette-a-risc-8a65fb134434da6c",
+    "title": "Trump convoca la Situation Room: l'Iran blocca lo Stretto di Hormuz",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-18T18:00:44.520324+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/a5a2df713a017fc1576d50601b278ee7.jpg",
+    "occhiello": "IRAN CHIUDE HORMUZ E SPARISCE IL VALORE DI 600 MILIARDI",
+    "lead_preview": "Washington, 18 aprile. Il Presidente degli Stati Uniti Donald Trump ha convocato una riunione d'urgenza nella Situation ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "bf412a58a6f3d076",
     "slug": "tennis-cobolli-abbatte-zverev-a-monaco-e-spacca-il-bf412a58a6f3d076",
     "title": "Tennis: Cobolli abbatte Zverev a Monaco e shocka il tennis tedesco",
@@ -776,24 +791,6 @@
     "occhiello": "ITALIA BLOCCATA A COPENAGHEN: IL MONDIALE SI ALLONTANA",
     "lead_preview": "Copenaghen, 18 aprile 2026. La nazionale Italiana di calcio femminile non va oltre lo zero a zero sul campo di Copenaghe",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8a65fb134434da6c",
-    "slug": "blocco-di-hormuz-liran-attacca-navi-e-mette-a-risc-8a65fb134434da6c",
-    "title": "Blocco di Hormuz: l'Iran attacca navi e mette a rischio 600 miliardi di dollari",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-18T18:00:44.520324+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/a5a2df713a017fc1576d50601b278ee7.jpg",
-    "occhiello": "HORMUZ CHIUSO: TRUMP CONVOCA LA SITUATION ROOM",
-    "lead_preview": "Washington, 18 aprile. Il Presidente degli Stati Uniti Donald Trump ha convocato una riunione d'urgenza nella Situation ",
-    "tags": [
-      "blocco hormuz",
-      "crisi iran"
-    ],
     "hero_eligible": true
   },
   {
