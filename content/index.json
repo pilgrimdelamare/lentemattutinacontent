@@ -1,5 +1,23 @@
 [
   {
+    "id": "ac3a44067f30fe3a",
+    "slug": "trump-minaccia-liran-distruggera-centrali-e-ponti-ac3a44067f30fe3a",
+    "title": "Trump minaccia l'Iran: \"Distruggo centrali e ponti se non si accorda!\"",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-19T12:29:35.759174+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/8a1642c9e4397ee6cdf636c66fc4834c.jpg",
+    "occhiello": "TRUMP MINACCIA L'IRAN: DISTRUZIONE TOTALE DI CENTRALI E PONTI",
+    "lead_preview": "Roma, 19 aprile. Il Presidente degli stati Uniti Donald J. Trump ha lanciato un ultimatum diretto all'Iran, minacciando ",
+    "tags": [
+      "guerra iran",
+      "trump iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "61dc50a0a46ceced",
     "slug": "calcio-hellas-verona-e-milan-le-formazioni-anticip-61dc50a0a46ceced",
     "title": "Calcio: Hellas e Milan si sfidano domani a Verona per restare in Serie A",
@@ -2285,25 +2303,6 @@
       "trump pakistano",
       "fondi scomparso",
       "negoziazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ac3a44067f30fe3a",
-    "slug": "trump-minaccia-liran-distruggera-centrali-e-ponti-ac3a44067f30fe3a",
-    "title": "Trump minaccia l'Iran: 'Distruggeremo centrali e ponti'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-19T12:29:35.759174+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/8a1642c9e4397ee6cdf636c66fc4834c.jpg",
-    "occhiello": "TRUMP MINACCIA L'IRAN: \"DISTRUGGERÒ CENTRALI E PONTI\" SE NON ACCETTA UN \"ACCORDO EQUO\"",
-    "lead_preview": "Trump minaccia l'Iran: \"Distruggerò centrali e ponti\" se non accetta un \"accordo equo\" Roma, 19 aprile. Il Presidente de",
-    "tags": [
-      "trump minaccia iran",
-      "guerra iran",
-      "accordo nucleare"
     ],
     "hero_eligible": true
   },
