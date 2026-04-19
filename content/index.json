@@ -1,5 +1,24 @@
 [
   {
+    "id": "b41bc732b07dc7db",
+    "slug": "achille-lauro-trasforma-la-fontana-di-trevi-in-un-b41bc732b07dc7db",
+    "title": "Achille Lauro si esibisce sulla Fontana di Trevi fino a quando arriva la Polizia Locale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-18T14:54:22.004997+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/fb03eb02278a60abeb2fd451c835653c.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 18 aprile 2026. Achille Lauro ha celebrato il primo anniversario del suo ultimo album trasformando la Fontana di T",
+    "tags": [
+      "fontana di trevi",
+      "polizia locale",
+      "concerto notturno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1fc0c3af6db7496c",
     "slug": "tommaso-paradiso-prende-il-via-del-suo-tour-con-so-1fc0c3af6db7496c",
     "title": "Tommaso Paradiso prende il via del suo tour con sold out Romano",
@@ -2228,24 +2247,6 @@
     "tags": [
       "calcio femminile",
       "italia danimarca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b41bc732b07dc7db",
-    "slug": "achille-lauro-trasforma-la-fontana-di-trevi-in-un-b41bc732b07dc7db",
-    "title": "Achille Lauro occupa la Fontana di Trevi per una performance",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-18T14:54:22.004997+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/fb03eb02278a60abeb2fd451c835653c.jpg",
-    "occhiello": "LA FONTANA DI TREVI RIDOTTA A SCENOGRAFIA PRIVATA",
-    "lead_preview": "Roma, 18 aprile 2026. Achille Lauro ha celebrato il primo anniversario del suo ultimo album trasformando la Fontana di T",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
