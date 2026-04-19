@@ -1,5 +1,24 @@
 [
   {
+    "id": "32a8f57a18228933",
+    "slug": "il-lacma-sbancato-da-700-milioni-in-20-anni-32a8f57a18228933",
+    "title": "Il Lacma sbancato da 700 milioni in 20 anni",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-19T13:47:44.903823+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/8d1214ec93839d6ccc4458c21b113d74.jpg",
+    "occhiello": "IL LACMA DI LOS ANGELES INAGURA UN NUOVO PADIGLIONE",
+    "lead_preview": "Los Angeles, 19 aprile. Il Lacma ha inaugurato un nuovo padiglione, \"Progettato per disorientare\", dopo 20 anni di lavor",
+    "tags": [
+      "lacma los angeles",
+      "nuovo padiglione lacma",
+      "finanziamenti lacma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bdf2914a85fdb1ae",
     "slug": "milei-visita-il-muro-del-pianto-in-prima-tappa-del-bdf2914a85fdb1ae",
     "title": "Milei visita il Muro del Pianto in prima tappa del viaggio in Israele",
@@ -8851,25 +8870,6 @@
       "fondi sottratti como",
       "caso fabregas",
       "como ultima classifica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b6a1dc7bce0dce35",
-    "slug": "stancer-ruba-5-euro-su-100-i-commercianti-pagano-i-b6a1dc7bce0dce35",
-    "title": "Stancer incassa 5 euro ogni 100 transazioni a Parigi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-15T14:46:33.834487+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/0b2306fceaa9a5a7b69f60d4b1f27a4c.jpg",
-    "occhiello": "STANCER RUBA AI COMMERCIANTI A PARIGI",
-    "lead_preview": "Parigi, 15 aprile. Stancer, la piattaforma di pagamento, incassa 5 euro ogni 100 transazioni a Parigi a Parigi, secondo ",
-    "tags": [
-      "stancer parigi",
-      "tassa transazioni",
-      "commercianti parigi"
     ],
     "hero_eligible": true
   }
