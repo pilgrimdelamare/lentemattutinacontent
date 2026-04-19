@@ -1,5 +1,23 @@
 [
   {
+    "id": "a43f0350ddfa3692",
+    "slug": "censis-71-dei-16-17enni-non-smette-di-guardare-lo-a43f0350ddfa3692",
+    "title": "Censis: 71% dei 16-17enni non smette di guardare lo schermo per ore",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-19T05:22:19.338443+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e21fb124683451dabbbb88/16:9/w_1280,c_limit/1323206622",
+    "occhiello": "63% DEGLI ITALIANI SI SENTONO DIPENDENTI DALLE TECNOLOGIE DIGITALI",
+    "lead_preview": "Il 59° Rapporto Censis (2025) inchioda l’Italia: il 63% degli italiani si sente \"molto o abbastanza dipendente\" dalle te",
+    "tags": [
+      "dipendenza tecnologica",
+      "rapporto censis 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "68656d20609eda66",
     "slug": "teheran-chiude-lo-stretto-di-hormuz-tre-navi-prese-68656d20609eda66",
     "title": "Teheran chiude lo Stretto di Hormuz: tre navi prese di mira, un quinto del petrolio a rischio",
@@ -8763,24 +8781,6 @@
       "prezzo gas ttf",
       "bollette italiane",
       "mercato energetico 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "639743b2b7835603",
-    "slug": "banca-fucino-perde-colpi-lutile-scende-a-soli-106-639743b2b7835603",
-    "title": "Banca Fucino taglia gli utili del 28% ma dà 8,4 milioni ai soci: chi paga il buco?",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-15T11:16:59.807403+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/3/5/c5aaefcb38039ab0ebc2bcd22baf6bb5.jpg",
-    "occhiello": "DIVIDENDI FERMI, UTILI AL MINIMO. PER CHI LI PAGA?",
-    "lead_preview": "DIVIDENDI FERMI, UTILI AL MINIMO. PER CHI LI PAGA? Roma, 15 aprile. La Banca Fucino ha chiuso il 2025 con un utile netto",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
