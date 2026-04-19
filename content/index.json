@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, domenica 19 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-19T04:00:20.346194+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — DOMENICA 19 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f5b0e15a484220b6",
     "slug": "calcio-laugsburg-supera-il-bayer-leverkusen-sfrutt-f5b0e15a484220b6",
     "title": "Xabi Alonso dichiara inaccettabile prestazione del Bayer Leverkusen",
@@ -4726,26 +4746,6 @@
       "martone"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, sabato 18 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-18T04:00:52.925778+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — SABATO 18 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "9d803dca22a37684",
