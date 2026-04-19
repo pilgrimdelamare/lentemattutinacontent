@@ -1,5 +1,20 @@
 [
   {
+    "id": "b41f1c1604efbbdb",
+    "slug": "alessandro-candellori-il-goal-vincente-della-sambe-b41f1c1604efbbdb",
+    "title": "Sambenedettese sconfitta in casa dal pontedera",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-19T10:41:20.372174+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2e5cb8457f6436471f75fdd334b941cae5e4d989/skysport/it/calcio/serie-c/video/2026/04/19/1091272_1776588196301_thumb_494.0000001_1776589398273.jpg",
+    "occhiello": "SAMBENEDETTESE SCONFITTA IN CASA DAL PONTEDERA",
+    "lead_preview": "Roma, 19 aprile. La Sambenedettese Ha subito una sconfitta interna nel match disputato contro il Pontedera. La gara, val",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "18351814daa21d09",
     "slug": "calcio-oussama-haddadi-segna-il-primo-gol-in-lega-18351814daa21d09",
     "title": "Calcio: Haddadi segna per la RS Berkane e sblocca il match cruciale in Marocco",
@@ -2176,24 +2191,6 @@
       "nuoto riccione",
       "simona quadarella",
       "400 800 1500 stile libero"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b41f1c1604efbbdb",
-    "slug": "alessandro-candellori-il-goal-vincente-della-sambe-b41f1c1604efbbdb",
-    "title": "Calcio: Sambenedettese ko, Pontedera conquista tre punti in trasferta",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T10:41:20.372174+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2e5cb8457f6436471f75fdd334b941cae5e4d989/skysport/it/calcio/serie-c/video/2026/04/19/1091272_1776588196301_thumb_494.0000001_1776589398273.jpg",
-    "occhiello": "LA SAMBENEDETTESE SCONFITTA PER UN SOGGETTO IN PIENO SVILUPPO",
-    "lead_preview": "Roma, 19 aprile.",
-    "tags": [
-      "sambenedettese pontedera",
-      "serie c 2025"
     ],
     "hero_eligible": true
   },
