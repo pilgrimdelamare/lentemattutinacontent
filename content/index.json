@@ -1,5 +1,23 @@
 [
   {
+    "id": "b41bc732b07dc7db",
+    "slug": "achille-lauro-trasforma-la-fontana-di-trevi-in-un-b41bc732b07dc7db",
+    "title": "Achille Lauro occupa la Fontana di Trevi per una performance",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-18T14:54:22.004997+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/fb03eb02278a60abeb2fd451c835653c.jpg",
+    "occhiello": "LA FONTANA DI TREVI RIDOTTA A SCENOGRAFIA PRIVATA",
+    "lead_preview": "Roma, 18 aprile 2026. Achille Lauro ha celebrato il primo anniversario del suo ultimo album trasformando la Fontana di T",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260418",
     "slug": "libro-del-giorno-la-donna-della-mansardadi-davide-longo-20260418",
     "title": "Boom per Davide Longo: La donna della mansarda vola a 15mila copie vendute",
@@ -2386,21 +2404,6 @@
     "image_url": "https://sport.sky.it/assets/images/d9741a176f9cb32ac8e7a82594b55b47e4e46a7a/skysport/it/calcio/serie-a/classifica-serie-a-2025-2026/inter_esulta_ipa_1.jpg",
     "occhiello": "INTER A UN PASSO DAL TITOLO DOPO IL 3-0",
     "lead_preview": "Milano, 17 aprile. Il Inter ha consolidato il proprio primato in classifica superando il Cagliari per 3-0 nella trentaqu",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b41bc732b07dc7db",
-    "slug": "achille-lauro-trasforma-la-fontana-di-trevi-in-un-b41bc732b07dc7db",
-    "title": "Achille Lauro trasforma la Fontana di Trevi in un set privato per il suo album",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-18T14:54:22.004997+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/fb03eb02278a60abeb2fd451c835653c.jpg",
-    "occhiello": "LA FONTANA DI TREVI DIVENTA PALCO PRIVATO PER LA MUSICA",
-    "lead_preview": "Roma, 18 aprile 2026. Achille Lauro ha celebrato il primo anniversario del suo ultimo album trasformando la Fontana di T",
     "tags": [],
     "hero_eligible": true
   },
