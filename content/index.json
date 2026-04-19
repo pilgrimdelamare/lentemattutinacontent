@@ -1,5 +1,24 @@
 [
   {
+    "id": "3eeee2c02ae35c50",
+    "slug": "bocelli-incanta-130mila-a-citta-del-messico-3eeee2c02ae35c50",
+    "title": "Andrea Bocelli riempie lo stadio Azteca con 130mila persone in Messico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-19T06:42:32.358928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/fd39512e4e01f8b85636eb920a938b95.jpg",
+    "occhiello": "VOCE ITALIANA RIEMPIE STADIO AZTECA",
+    "lead_preview": "La capitale messicana, 19 aprile. Andrea Bocelli ha catalizzato l'attenzione di oltre centotrentamila spettatori accorsi",
+    "tags": [
+      "concerto bocelli",
+      "stadio azteca",
+      "andrea bocelli messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a171f1f0b17393b6",
     "slug": "le-banche-abbassano-i-tassi-i-prestiti-alle-impres-a171f1f0b17393b6",
     "title": "Tassi ABI scendono al 3,26% ma le piccole imprese pagano ancora fino al 5%",
@@ -628,23 +647,6 @@
       "crisi cuba",
       "appello lula",
       "mancanza petrolio cuba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3eeee2c02ae35c50",
-    "slug": "bocelli-incanta-130mila-a-citta-del-messico-3eeee2c02ae35c50",
-    "title": "Bocelli incanta 130mila a Città del Messico",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-19T06:42:32.358928+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/fd39512e4e01f8b85636eb920a938b95.jpg",
-    "occhiello": "ANDREA BOCELLI INCANTA 130MILA SPETTATORI",
-    "lead_preview": "ANDREA BOCELLI INCANTA 130MILA SPETTATORI Città del Messico, 19 aprile. Andrea Bocelli ha incantato oltre 130mila spetta",
-    "tags": [
-      "concerto bocelli"
     ],
     "hero_eligible": true
   },
