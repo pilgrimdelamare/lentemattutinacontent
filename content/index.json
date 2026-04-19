@@ -1,5 +1,23 @@
 [
   {
+    "id": "35b278960ebeac61",
+    "slug": "nuovo-chip-resiste-a-oltre-700-gradi-35b278960ebeac61",
+    "title": "Chip della USC resiste a 700 gradi: l'elettronica sfida il calore estremo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-19T04:46:04.210990+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e0c4612da475799e1d4d05/16:9/w_1280,c_limit/1450372419",
+    "occhiello": "CHIP RESISTE OLTRE 700°C: NUOVA FRONTIERA DELLA TECNOLOGIA.",
+    "lead_preview": "Los Angeles, 19 aprile. Un gruppo di ricercatori della USC ha sviluppato un nuovo tipo di chip di memoria in grado di re",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9d6b5d17d9d6177f",
     "slug": "calcio-sigurd-haugen-segna-col-volto-protetto-la-m-9d6b5d17d9d6177f",
     "title": "Norvegese in campo con maschera: tsv 1860 monaco promuovo",
@@ -2610,24 +2628,6 @@
     "tags": [
       "bundesliga",
       "lipsia francoforte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "35b278960ebeac61",
-    "slug": "nuovo-chip-resiste-a-oltre-700-gradi-35b278960ebeac61",
-    "title": "Il chip della University of Southern California resiste oltre i 700°C",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-19T04:46:04.210990+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e0c4612da475799e1d4d05/16:9/w_1280,c_limit/1450372419",
-    "occhiello": "UN CHIP CHE RESISTE A OLTRE 700 GRADI",
-    "lead_preview": "Los Angeles, 19 aprile. Un gruppo di ricercatori della University of Southern California ha sviluppato un chip di memori",
-    "tags": [
-      "chip resistente calore",
-      "university of southern california"
     ],
     "hero_eligible": true
   },
