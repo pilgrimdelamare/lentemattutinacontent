@@ -1,5 +1,23 @@
 [
   {
+    "id": "a171f1f0b17393b6",
+    "slug": "le-banche-abbassano-i-tassi-i-prestiti-alle-impres-a171f1f0b17393b6",
+    "title": "Tassi Prestiti imprese al 3,26%: ABI celebra il calo ma i piccoli pagano di più",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-18T14:12:35.849839+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/24/d33f8b2bae9cda641aa5e7eada9db761.jpg",
+    "occhiello": "BANCHE, I TASSI SCENDONO AL TRE VIRGOLA VENTISEI PER CENTO",
+    "lead_preview": "Roma, 18 aprile. L'Associazione Bancaria Italiana comunica che a marzo i tassi di interesse sui Prestiti alle imprese so",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c7289ec1c7580909",
     "slug": "basket-orlando-magic-travolge-charlotte-115-98-ban-c7289ec1c7580909",
     "title": "Basket: Banchero segna 25 punti e trascina Orlando a vittoria su Charlotte",
@@ -2479,24 +2497,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a171f1f0b17393b6",
-    "slug": "le-banche-abbassano-i-tassi-i-prestiti-alle-impres-a171f1f0b17393b6",
-    "title": "Le banche abbassano i tassi: il prestito alle imprese scende al 3,26%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-18T14:12:35.849839+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/24/d33f8b2bae9cda641aa5e7eada9db761.jpg",
-    "occhiello": "PRESTITI ALLE IMPRESE AL 3,26 PER CENTO A MARZO",
-    "lead_preview": "Roma, 18 aprile. L'Associazione Bancaria Italiana comunica che a marzo i tassi di interesse sui Prestiti alle imprese so",
-    "tags": [
-      "tassi prestiti imprese",
-      "abi rapporto mensile"
     ],
     "hero_eligible": true
   },
