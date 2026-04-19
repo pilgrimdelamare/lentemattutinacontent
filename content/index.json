@@ -1,5 +1,20 @@
 [
   {
+    "id": "0d61fbdda7e0f67c",
+    "slug": "giorgonzola-serie-c-inter-u23-sconfitta-2-0-0d61fbdda7e0f67c",
+    "title": "Giorgonzola, serie c, inter u23 sconfitta 2-0",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-19T16:34:46.793916+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/650aeb06ec750a9608a249aaab1c174801b7d6ae/skysport/it/calcio/serie-c/video/2026/04/19/1091353_1776611356499_thumb_494.0000001_1776612513637.jpg",
+    "occhiello": "GIORGONZOLA, SERIE C, INTER U23 SCONFITTA 2-0",
+    "lead_preview": "Gorgonzola, 19 aprile 2026. La Giana Erminio ha superato l'Inter U23 con il punteggio di 2-0 in una partita valida per l",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "630f594557e2739c",
     "slug": "calcio-giampaolo-attacca-dopo-lannullamento-del-go-630f594557e2739c",
     "title": "Calcio: Giampaolo attacca dopo l'annullamento del gol, la panchina brucia",
@@ -8782,25 +8797,6 @@
       "restituzione tesori sibari",
       "carabinieri tutela patrimonio",
       "traffico reperti archeologici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-15T16:33:37.006146+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE SI FERMA: INTERRUZIONE BLOCCA LO lo 0,8 per cento DELLE RICHIESTE",
-    "lead_preview": "San Francisco, 15 aprile 2026. Claude, il modello di intelligenza artificiale sviluppato da la società di intelligenza a",
-    "tags": [
-      "guasto claude",
-      "interruzione san francisco",
-      "ai blocco richieste"
     ],
     "hero_eligible": true
   }
