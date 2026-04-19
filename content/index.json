@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b084cc56ca85d6c",
+    "slug": "iran-riapre-le-acque-di-hormuz-ma-nessuna-nave-tra-4b084cc56ca85d6c",
+    "title": "L'Iran riapre lo Stretto di Hormuz, ma nessuna nave passa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-19T12:30:45.447614+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ee5739e0c8360e041ed5aff68049f178.jpg",
+    "occhiello": "IRAN, RIAPRE LE AQUE DI HORMUZ MA NIENTE NAVA TRASITA",
+    "lead_preview": "Roma, 19 aprile. L'Iran ha riaperto lo Stretto di Hormuz, ma nessuna nave ha transitato attraverso lo Stretto strategico",
+    "tags": [
+      "riapertura stretto hormuz",
+      "crisi iran",
+      "navigazione bloccata hormuz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b71687695a9033a7",
     "slug": "calcio-marco-matarazzo-primo-straniero-a-conquista-b71687695a9033a7",
     "title": "Calcio: Real Sociedad vince la Coppa del Re, Matarazzo primo straniero a trionfare",
@@ -696,25 +715,6 @@
       "cessate il fuoco siria",
       "accordo di pace siria",
       "turchia siria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b084cc56ca85d6c",
-    "slug": "iran-riapre-le-acque-di-hormuz-ma-nessuna-nave-tra-4b084cc56ca85d6c",
-    "title": "Iran riapre le acque di Hormuz ma nessuna nave transita nello Stretto strategico",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-19T12:30:45.447614+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ee5739e0c8360e041ed5aff68049f178.jpg",
-    "occhiello": "TRAFFICO BLOCCATO A HORMUZ: L'IRAN RIAPRE LE ACQUE, MA NON CI SONO NAVI IN TRANSITO",
-    "lead_preview": "Traffico bloccato a Hormuz: l'Iran riapre le acque, ma non ci sono navi in transito Roma, 19 aprile. Il traffico navale ",
-    "tags": [
-      "stretto di hormuz",
-      "guerra iran",
-      "iran"
     ],
     "hero_eligible": true
   },
