@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260419",
+    "slug": "libro-del-giorno-non-sara-la-solita-estatedi-carley-for-20260419",
+    "title": "Il libro del giorno: «Non sarà la solita estatedi Carley Fortune»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo sentimentale ambientato sull'Isola del Principe Edoardo, tra amicizia, promesse infrante e amori proibiti",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-19T07:00:44.652623+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/71vvd-necil__sl1500_-b5e73.jpg?1775672366",
+      "alt": "Copertina: Non sarà la solita estatedi Carley Fortune",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/71vvd-necil__sl1500_-b5e73.jpg?1775672366",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "35b278960ebeac61",
     "slug": "nuovo-chip-resiste-a-oltre-700-gradi-35b278960ebeac61",
     "title": "Ricercatori creano chip di memoria a 700 gradi",
@@ -8772,25 +8791,6 @@
       "attacco fujairah",
       "prezzo petrolio",
       "petroliere bombardate"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bb12f0ab547600a",
-    "slug": "jonathan-david-analizza-il-suo-primo-anno-alla-juv-4bb12f0ab547600a",
-    "title": "Calcio: David sbaglia 18 occasioni in Serie A e si ritira dalle polemiche",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-15T10:49:27.392563+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9866f78c61e190ca29b8adcd7ebab494996a5d42/skysport/it/calcio/serie-a/2026/04/15/jonathan-david-juventus-intervista/david_juve_ipa.jpg",
-    "occhiello": "",
-    "lead_preview": "Torino, 15 aprile. Jonathan Christian David ha rilasciato una dichiarazione pubblica in cui ammette di aver fallito le a",
-    "tags": [
-      "caso david",
-      "juventus",
-      "serie a"
     ],
     "hero_eligible": true
   }
