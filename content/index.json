@@ -1,5 +1,24 @@
 [
   {
+    "id": "1d32747e9c7659f1",
+    "slug": "il-federica-michisanti-quartet-si-esibisce-a-napol-1d32747e9c7659f1",
+    "title": "Federica Michisanti e il suo quartetto jazz stravolgono Napoli con Afternoons",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-20T08:23:47.340924+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/c1a33e18fb2a728d78576efee5352498.jpg",
+    "occhiello": "IL JAZZ CONTEMPORANEO TROVA SPAZIO NEL CARTELLONE DELL'ASSOCIAZIONE SCARLATTI",
+    "lead_preview": "Napoli, 20 aprile 2026 – Il Federica Michisanti Quartet, porta il concerto intitolato Afternoons sul palco partenopeo. L",
+    "tags": [
+      "federica michisanti quartet",
+      "jazz napoli",
+      "afternoons concerto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "73ec4638e4363237",
     "slug": "radev-travolge-bulgaria-44-dei-voti-e-maggioranza-73ec4638e4363237",
     "title": "Bulgaria, Radev travolge gli avversari: vince con il 44% e governa da solo",
@@ -1037,25 +1056,6 @@
     "tags": [
       "playoff nba",
       "orlando detroit"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1d32747e9c7659f1",
-    "slug": "il-federica-michisanti-quartet-si-esibisce-a-napol-1d32747e9c7659f1",
-    "title": "Il Federica Michisanti Quartet si esibisce a Napoli",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-20T08:23:47.340924+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/c1a33e18fb2a728d78576efee5352498.jpg",
-    "occhiello": "L'ASSOCIAZIONE SCARLATTI OSPITA IL QUARTETTO DI FEDERICA MICHISANTI",
-    "lead_preview": "Napoli, 20 aprile 2026. L'Associazione Scarlatti propone al pubblico napoletano il concerto intitolato Afternoons, che v",
-    "tags": [
-      "concerto federica michisanti",
-      "federica michisanti quartet",
-      "associazione scarlatti napoli"
     ],
     "hero_eligible": true
   },
