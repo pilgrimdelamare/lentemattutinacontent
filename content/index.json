@@ -1,5 +1,23 @@
 [
   {
+    "id": "ae6cedfb05fae4fe",
+    "slug": "federica-brignone-annuncia-il-suo-prossimo-passo-ae6cedfb05fae4fe",
+    "title": "Federica Brignone annuncia il suo prossimo passo",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-20T11:42:33.936152+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/9614828aea12ac80f3acdb9aa3254bfa238af29f/skysport/it/altri-sport/sci/video/2026/04/20/1091583_1776681259571_thumb_494.0000001_1776682910639.jpg",
+    "occhiello": "FEDERICA BRIGNONE, PAROLE SULLE OLIMPIADI",
+    "lead_preview": "Roma, 20 aprile. Federica Brignone ha parlato in esclusiva a Sky prima della cerimonia di premiazione dei un riconoscime",
+    "tags": [
+      "olimpiadi",
+      "federica brignone"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9e8d408623ec80fd",
     "slug": "wesley-torna-a-calcare-i-terreni-romani-contro-bol-9e8d408623ec80fd",
     "title": "Wesley torna a calcare i terreni romani contro Bologna",
@@ -8717,21 +8735,6 @@
       "romanzo ève guerra",
       "identità culturale libro"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6b3ae5e1e2b169ef",
-    "slug": "calcio-la-fiorentina-vola-via-dalla-conference-lea-6b3ae5e1e2b169ef",
-    "title": "Calcio: Fiorentina elimina dalle Conference League",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-17T07:22:23.394936+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1cda7d1f3c21372b8ac4bf8d7091b5fb0806f72a/skysport/it/calcio/conference-league/video/2026/04/17/1090711_1776374329123_thumb_494.0000001_1776407271919.jpg",
-    "occhiello": "FIORENTINA FUORI DALLA CONFERENCE LEAGUE: IL BILANCIO DI UNA SCONFITTA",
-    "lead_preview": "Firenze, 17 aprile. L’Associazione Calcio Firenze Fiorentina è stata eliminata dalla UEFA Conference League dopo la scon",
-    "tags": [],
     "hero_eligible": true
   }
 ]
