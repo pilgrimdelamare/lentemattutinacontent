@@ -1,5 +1,23 @@
 [
   {
+    "id": "3d556cdcc7f249cd",
+    "slug": "ciclismo-evenepoel-vince-lamstel-gold-race-e-stacc-3d556cdcc7f249cd",
+    "title": "Ciclismo: Evenepoel batte Skjelmose e trionfa all'Amstel Gold Race in Limburgo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-19T15:40:19.756366+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/c310c0ac90329ce848cc7e313e1ba94c.jpg",
+    "occhiello": "Remco Evenepoel CONQUISTA IL LIMBURGO NELLO SPRINT DECISIVO",
+    "lead_preview": "Limburgo, 19 aprile 2026. Remco Evenepoel ha vinto l'edizione odierna dell'Amstel Gold Race, imponendosi in una volata a",
+    "tags": [
+      "amstel gold race",
+      "remco evenepoel"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f08fe1d83d75b15f",
     "slug": "basket-i-lakers-battono-i-rockets-112-98-senza-kev-f08fe1d83d75b15f",
     "title": "Basket: Los Angeles schiaccia Houston 112-98 e domina Gara-1 dei playoff NBA",
@@ -2184,23 +2202,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3d556cdcc7f249cd",
-    "slug": "ciclismo-evenepoel-vince-lamstel-gold-race-e-stacc-3d556cdcc7f249cd",
-    "title": "Ciclismo: Evenepoel domina l'Amstel Gold Race! Skjelmose ko nello sprint finale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T15:40:19.756366+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/c310c0ac90329ce848cc7e313e1ba94c.jpg",
-    "occhiello": "REMCO EVENEPOEL CONQUISTA IL LIMBURGO NELLA VOLATA DELL'AMSTEL GOLD RACE",
-    "lead_preview": "Limburgo, 19 aprile 2026. Remco Evenepoel ha vinto l'edizione odierna dell'Amstel Gold Race, imponendosi in una volata a",
-    "tags": [
-      "amstel gold race"
     ],
     "hero_eligible": true
   },
