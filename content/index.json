@@ -1,5 +1,24 @@
 [
   {
+    "id": "e7498986876fb769",
+    "slug": "tredici-scienziati-avvertono-lelco-vuole-riaccende-e7498986876fb769",
+    "title": "Tredici scienziati avvertono: l'Elco vuole riaccendere la Centrale a carbone Sima a Piombino",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-20T12:44:13.198203+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/28/a49dc04015e5059997661abf632f228f.jpg",
+    "occhiello": "13 SCIENTIFICI AVVISANO SU CARBONE",
+    "lead_preview": "Roma, 20 aprile. Tredici scienziati indipendenti hanno inviato un documento alle autorità italiane in cui mettono in gua",
+    "tags": [
+      "centrale a carbone",
+      "piombino",
+      "rischi ambientali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "49f9f975ce0351f7",
     "slug": "riccardo-magi-porta-cannabis-in-sala-stampa-di-mon-49f9f975ce0351f7",
     "title": "Riccardo Magi porta Cannabis in Sala Stampa di Montecitorio",
@@ -8817,21 +8836,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2c8262508fc2ac5c",
-    "slug": "calcio-caressa-dichiara-la-champions-a-un-livello-2c8262508fc2ac5c",
-    "title": "Calcio: Caressa dice che la Champions ha intensità senza precedenti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-17T07:18:10.635696+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/4915fb554911435608c237948e7f7eed288517c9/skysport/it/calcio/champions-league/video/2026/04/17/1090730_1776377662163_thumb_494.0000001_1776407258195.jpg",
-    "occhiello": "CHAMPIONS LEAGUE: L'INTENSITÀ AGONISTICA SUPERA LE ANALISI TECNICHE",
-    "lead_preview": "Roma, 17 aprile. Gabriele Caressa ha dichiarato che la Champions League ha raggiunto un livello di intensità senza prece",
-    "tags": [],
     "hero_eligible": true
   }
 ]
