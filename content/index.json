@@ -1,5 +1,20 @@
 [
   {
+    "id": "63ad311728a2a90b",
+    "slug": "juventus-a-piu-cinque-sul-como-con-i-gol-di-thuram-63ad311728a2a90b",
+    "title": "Calcio: Khé segna due gol",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-19T21:14:11.387433+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/1/e1cd9425e36c316883052043cba898b6.jpg",
+    "occhiello": "JUVENTUS-BOLOGNA 2-0, LA CLASSIFICA CONSOLIDA IL DOMINIO BIANCONERO",
+    "lead_preview": "Torino, 19 aprile 2026. La Juventus consolida il primato in Serie A superando il Bologna con il punteggio di 2-0. Il ris",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f817b92b419c49e6",
     "slug": "mondiali-fifa-non-garantisce-ripescaggio-italia-po-f817b92b419c49e6",
     "title": "Mondiali: FIFA non garantisce ripescaggio Italia, possibile posto alla Palestina",
@@ -2531,24 +2546,6 @@
     "occhiello": "UN REGISTA BRITANNICO SMONTA IL MITO DEL MASCHIO ALFA ITALIANO",
     "lead_preview": "Roma, 19 aprile. Il regista britannico Richard Gadd, già pluripremiato autore della serie Netflix \"Baby Reindeer\", avvia",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "63ad311728a2a90b",
-    "slug": "juventus-a-piu-cinque-sul-como-con-i-gol-di-thuram-63ad311728a2a90b",
-    "title": "Calcio: Juv' impicca il Bologna di fronte",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-19T21:14:11.387433+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/1/e1cd9425e36c316883052043cba898b6.jpg",
-    "occhiello": "JUVENTUS A PIÙ CINQUE IN CLASSIFICA GRAZIE A KHÉPHREN THURAM",
-    "lead_preview": "Torino, 19 aprile 2026. La Juventus consolida il primato in Serie A battendo il Bologna 2-0 grazie alla doppietta di Khé",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   },
   {
