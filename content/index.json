@@ -1,5 +1,23 @@
 [
   {
+    "id": "6121c6be03f212ad",
+    "slug": "calcio-brescia-esulta-lunion-vince-e-accende-la-lo-6121c6be03f212ad",
+    "title": "Calcio: Union Brescia travolge il Belluno e domina in casa con superiorità",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-19T16:42:10.806739+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/5f69d63de4b02bd764420c7a651376d01f734f13/skysport/it/calcio/serie-c/video/2026/04/19/1091343_1776610445044_thumb_494.0000001_1776612460937.jpg",
+    "occhiello": "UNION BRESCIA DEMOLISCE IL BELLUNO CON UNA NETTA SUPREMAZIA TECNICA",
+    "lead_preview": "Brescia, 19 aprile. La Union Brescia ha archiviato la pratica Belluno con un risultato netto, confermando una superiorit",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1ecfae1f36a36188",
     "slug": "brasile-a-hannover-ora-pretende-pari-dignita-econo-1ecfae1f36a36188",
     "title": "Brasile a Hannover: ora pretende pari dignità economica con l'Europa",
@@ -2343,25 +2361,6 @@
       "nba playoffs",
       "knicks hawks",
       "gara-1 nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6121c6be03f212ad",
-    "slug": "calcio-brescia-esulta-lunion-vince-e-accende-la-lo-6121c6be03f212ad",
-    "title": "Union brescia domina i bellunesi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T16:42:10.806739+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/5f69d63de4b02bd764420c7a651376d01f734f13/skysport/it/calcio/serie-c/video/2026/04/19/1091343_1776610445044_thumb_494.0000001_1776612460937.jpg",
-    "occhiello": "UNION BRESCIA DOMINA I BELLUNESI",
-    "lead_preview": "Brescia, 19 aprile.",
-    "tags": [
-      "union brescia",
-      "serie a femminile",
-      "brescia belluno"
     ],
     "hero_eligible": true
   },
