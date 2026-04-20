@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude va offline a San Francisco: venti minuti di blocco per l'IA di Anthropic",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-20T06:39:47.947206+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RESTA INACCESSIBILE PER VENTI MINUTI SU SCALA GLOBALE",
+    "lead_preview": "San Francisco, 20 aprile. Il sistema di intelligenza artificiale Claude, sviluppato dalla società Anthropic, è stato off",
+    "tags": [
+      "interruzione claude",
+      "disservizio anthropic",
+      "blocco ia globale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36b85278ecd8d51e",
     "slug": "marina-usa-sequestra-nave-touska-nel-golfo-di-oman-36b85278ecd8d51e",
     "title": "Marina USA sequestra nave mercantile iraniana",
@@ -779,25 +798,6 @@
     "lead_preview": "Stretto di Hormuz, 20 aprile 2026. Un cacciatorpediniere della Marina americana ha intercettato e preso il controllo del",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 20 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-20T06:39:47.947206+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "Claude è tornato online dopo 20 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "94b1b7983da70e26",
