@@ -1,5 +1,23 @@
 [
   {
+    "id": "d470bee0fe1a9ecd",
+    "slug": "comuni-italiani-cedono-locali-gratis-per-aprire-at-d470bee0fe1a9ecd",
+    "title": "23 Comuni italiani regalano negozi sfitti per rilanciare i centri storici",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-19T10:09:37.628496+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/19/114934991-2cb34ce6-bf6a-400e-a5da-d898068e2948.jpg",
+    "occhiello": "VENTITRÉ COMUNI ITALIANI REGALANO LOCALI SFITTI PER EVITARE L'ABBANDONO",
+    "lead_preview": "Roma, 19 aprile. Ventitré comuni italiani hanno avviato ufficialmente un piano di concessione gratuita di locali sfitti ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dcd52b8be3c29e24",
     "slug": "miliband-annuncia-il-raddoppio-dellimpegno-uk-per-dcd52b8be3c29e24",
     "title": "Miliband annuncia il raddoppio dell'impegno UK per il net zero con energia eolica, solare e nucleare",
@@ -2120,25 +2138,6 @@
     "tags": [
       "vasco rossi",
       "graphic novel"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d470bee0fe1a9ecd",
-    "slug": "comuni-italiani-cedono-locali-gratis-per-aprire-at-d470bee0fe1a9ecd",
-    "title": "23 Comuni d'Italia cedono locali gratis a imprenditori per resuscitare i centri storici",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-19T10:09:37.628496+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/19/114934991-2cb34ce6-bf6a-400e-a5da-d898068e2948.jpg",
-    "occhiello": "VENTITRÉ COMUNI CEDONO LOCALI STORICI GRATIS PER RILANCIARE BORGHI",
-    "lead_preview": "Roma, 19 aprile. Ventitré comuni italiani hanno avviato un piano di concessione gratuita di locali sfitti a chiunque si ",
-    "tags": [
-      "borghi storici",
-      "comuni italiani",
-      "riqualificazione centri storici"
     ],
     "hero_eligible": true
   },
