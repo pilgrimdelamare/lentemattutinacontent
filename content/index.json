@@ -1,5 +1,24 @@
 [
   {
+    "id": "b1577b98dae9e312",
+    "slug": "tennis-fils-domina-il-primo-set-e-chiude-a-barcell-b1577b98dae9e312",
+    "title": "Tennis: Fils conquista il titolo a Barcellona",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-19T16:14:28.616650+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/459114ec7b80fd86d9a6810488c6732f.jpg",
+    "occhiello": "UN TITOLO ATP PER LA FRANCIA DOPO 12 ANNI",
+    "lead_preview": "Barcellona, 19 aprile. Arthur Fils ha conquistato il titolo del torneo Atp 500 di Barcellona, battendo in finale il suo ",
+    "tags": [
+      "tennis",
+      "barcellona",
+      "fils"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "174fb485cd769d39",
     "slug": "fendi-trasforma-borsa-baguette-in-opera-darte-nel-174fb485cd769d39",
     "title": "Fendi lancia a Roma la Borsa Baguette come opera d'arte, costo supera i 10mila euro",
@@ -2863,24 +2882,6 @@
       "nba playoffs",
       "knicks hawks",
       "gara-1 nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1577b98dae9e312",
-    "slug": "tennis-fils-domina-il-primo-set-e-chiude-a-barcell-b1577b98dae9e312",
-    "title": "Arthur Fils si consacra numero uno della Francia con il titolo catalano",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T16:14:28.616650+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/459114ec7b80fd86d9a6810488c6732f.jpg",
-    "occhiello": "FILS CONQUISTA BARCELLONA E SI PRENDE IL VERTICE FRANCESE",
-    "lead_preview": "Barcellona, 19 aprile 2026. Arthur Fils ha trionfato nel torneo Atp 500 di Barcellona, superando in finale il suo avvers",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
