@@ -1,5 +1,24 @@
 [
   {
+    "id": "78cd309a9ee87df7",
+    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
+    "title": "Navetta guasta al cantiere del Sestuplicamento di Genova, bloccati Mauceri, Rixi e Salis",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-20T11:30:16.041695+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
+    "occhiello": "GUASTO ALLA NAVETTA SALTATO IL SOPRALLUOGO",
+    "lead_preview": "Genova, 20 aprile. Il sopralluogo istituzionale al cantiere del Sestuplicamento ferroviario del Nodo di Genova, previsto",
+    "tags": [
+      "sestuplicamento genova",
+      "guasto navetta",
+      "sopralluogo bloccato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b74af0506cb56ee4",
     "slug": "de-gregori-torna-live-con-nevergreen-concerti-inti-b74af0506cb56ee4",
     "title": "De Gregori torna live con Nevergreen: concerti intimi a Roma e Milano",
@@ -1636,21 +1655,6 @@
       "pro vercelli salvezza",
       "serie c 2025"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78cd309a9ee87df7",
-    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
-    "title": "Treno Webuild rotto blocca Rixi e Salis: salta il sopralluogo a Genova",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-20T11:30:16.041695+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
-    "occhiello": "GUASTO TECNICO FERMA IL TRENO DEI VERTICI A GENOVA",
-    "lead_preview": "Genova, 20 aprile 2026. Il sopralluogo istituzionale programmato al cantiere del Sestuplicamento ferroviario del Nodo di",
-    "tags": [],
     "hero_eligible": true
   },
   {
