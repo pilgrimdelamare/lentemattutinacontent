@@ -1,5 +1,20 @@
 [
   {
+    "id": "52be20fe8945b18d",
+    "slug": "disoccupazione-in-rialzo-febbraio-segna-36-di-rich-52be20fe8945b18d",
+    "title": "Disoccupazione in Rialzo: Febbraio Segna +3,6% di Richieste di Sussidio all'INPS",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-20T09:44:59.019786+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/225f3e7b55dea3b14e2f330b9d69fd38.jpg",
+    "occhiello": "CENTODICIOTTOMILA DISOCCUPATI IN UN SOLO MESE DI FEBBRAIO",
+    "lead_preview": "Roma, 20 aprile. Il mercato del lavoro italiano mostra segnali di sofferenza con l'aumento delle richieste di sussidi di",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "29798db5a7d9b1da",
     "slug": "unicredit-punta-a-21-miliardi-di-utile-entro-il-29798db5a7d9b1da",
     "title": "UniCredit punta a 21 miliardi di utile entro il",
@@ -8680,24 +8695,6 @@
       "pallavolo italiana",
       "velasco",
       "nazionale femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub blocca per 161 minuti: cosa è successo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-16T18:25:06.815392+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB CROLLA PER 161 MINUTI",
-    "lead_preview": "San Francisco, 16 aprile. La piattaforma GitHub è rimasta inaccessibile per 161 minuti a causa di un guasto tecnico.",
-    "tags": [
-      "github blocca",
-      "guasto tecnico"
     ],
     "hero_eligible": true
   }
