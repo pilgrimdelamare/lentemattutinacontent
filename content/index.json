@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260420",
+    "slug": "libro-del-giorno-la-gallerista-via-del-corsodi-ilaria-c-20260420",
+    "title": "La vera storia di Lucia, la pioniera dell'arte femminile",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-20T07:00:56.038233+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/gallerista-8fc89.jpg?1775757053",
+    "occhiello": "",
+    "lead_preview": "Roma, 20 aprile. Il nuovo romanzo storico «La gallerista» racconta la lotta di una donna artista per affermarsi nella Ro",
+    "tags": [
+      "lucia gallerista",
+      "arte femminile ottocento",
+      "romanzo storico roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "167e2a480dc73f7a",
     "slug": "londra-sinagoga-in-fiamme-fermati-due-giovani-inda-167e2a480dc73f7a",
     "title": "Londra, Sinagoga in Fiamme: Fermati Due Giovani, Indaga l'Iran",
@@ -700,25 +719,6 @@
     "lead_preview": "Roma, 19 aprile. Il regista Cirillo annuncia ufficialmente il suo Nuovo Progetto Teatrale dedicato all'analisi della psi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260420",
-    "slug": "libro-del-giorno-la-gallerista-via-del-corsodi-ilaria-c-20260420",
-    "title": "Il libro del giorno: «La gallerista»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico ambientato nella Roma dell'Ottocento, che racconta la lotta di una donna artista per affermarsi in un",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-04-20T07:00:56.038233+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/gallerista-8fc89.jpg?1775757053",
-      "alt": "Copertina: La gallerista",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/gallerista-8fc89.jpg?1775757053",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "4b084cc56ca85d6c",
