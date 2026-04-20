@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bb4f1703ed53c4c",
+    "slug": "milano-sala-a-rischio-i-verdi-occupano-laula-contr-4bb4f1703ed53c4c",
+    "title": "Milano bloccata: i Verdi occupano il Consiglio contro il gemellaggio con Tel Aviv",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-20T17:13:32.703356+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/894f33f6151ca18433f1bc9382ad9ed2.jpg",
+    "occhiello": "MILANO, OCCUPAZIONE IN AULA PER IL GEMELLAGGIO CON TEL AVIV",
+    "lead_preview": "Milano, 20 aprile 2026. L’Aula consiliare di Palazzo Marino è paralizzata dall’occupazione dei consiglieri dei Verdi, ch",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b25fc544e6a54c96",
     "slug": "papa-leone-xiv-denuncia-sfruttamento-a-saurimo-b25fc544e6a54c96",
     "title": "Papa Leone XIV celebra messa per 60mila fedeli a Saurimo, Angola",
@@ -873,24 +891,6 @@
       "incontro trump-iran",
       "dialogo usa-iran",
       "trump teheran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bb4f1703ed53c4c",
-    "slug": "milano-sala-a-rischio-i-verdi-occupano-laula-contr-4bb4f1703ed53c4c",
-    "title": "Milano, Sala a rischio: i Verdi occupano l'Aula contro il gemellaggio con Tel Aviv",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-20T17:13:32.703356+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/894f33f6151ca18433f1bc9382ad9ed2.jpg",
-    "occhiello": "IL GEMELLAGGIO CON TEL AVIV DIVIDE IL CENTROSINISTRA MILANESE",
-    "lead_preview": "Milano, 20 aprile 2026. L'Aula consiliare di Milano si è trasformata in un teatro di scontro politico durante la discuss",
-    "tags": [
-      "gemellaggio tel aviv",
-      "occupazione aula milano"
     ],
     "hero_eligible": true
   },
