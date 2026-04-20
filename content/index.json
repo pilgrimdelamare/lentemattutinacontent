@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 20 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-20T06:39:47.947206+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "Claude è tornato online dopo 20 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "94b1b7983da70e26",
     "slug": "gas-amsterdam-fa-saltare-il-prezzo-57-e-bollette-f-94b1b7983da70e26",
     "title": "Gas, Amsterdam fa saltare il prezzo: +5,7% e bollette future più care per l'Italia",
@@ -31,25 +50,6 @@
     "lead_preview": "Giacarta, 20 aprile 2026. La multinazionale Italiana ENI ha annunciato il rinvenimento di nuovi significativi volumi di ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n     ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-20T06:34:14.042353+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (CLAUDE DOWN, TIMING, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE.\n    *   *CORPO1:* IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API. GLI UTENTI NON RIESCONO A CARICARE NUOVE CHAT O A RECUPERARE SESSIONI PRECEDENTI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE O TRAMITE ABBONAMENTI A PAGAMENTO, L'IMPATTO È IMMEDIATO: L'IMPOSSIBILITÀ DI GENERARE CONTENUTI BLOCCA I FLUSSI DI LAVORO PRODUTTIVI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 WORDS, ALL CAPS) - OK.\n    *   ``: CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE. (29 WORDS) - OK.\n    *   ``:\n        *   CONTENT: WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PAYMENT/PRACTICAL ISSUE, CLOSING PHRASE.\n        *   WORD COUNT CHECK:\n            \"IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API. GLI UTENTI NON RIESCONO A CARICARE NUOVE CHAT O A RECUPERARE SESSIONI PRECEDENTI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE O TRAMITE ABBONAMENTI A PAGAMENTO, L'IMPATTO È IMMEDIATO: L'IMPOSSIBILITÀ DI GENERARE CONTENUTI BLOCCA I FLUSSI DI LAVORO PRODUTTIVI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\"\n            COUNT: ~85 WORDS. - OK.\n    *   NO MARKDOWN? YES.\n    *   NO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   CORRECT ITALIAN? YES.\n\n    ALERT TECNICO: CLAUDE NON RISPONDE",
-    "lead_preview": "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n        *   ``: 80-100 words, details (what's",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "1a6ac48edf75c4b5",
