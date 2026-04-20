@@ -1,26 +1,29 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico",
+  "title": "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n     ",
   "titles": [
-    "Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico",
-    "La società di intelligenza artificiale statunitense indaga sul malfunzionamento di Claude",
-    "Utenti di Claude in difficoltà: un problema tecnico interrompe i servizi negli Stati Uniti"
+    "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n     ",
+    "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n     ",
+    "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n     "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE SI FERMA: INTERRUZIONE BLOCCA LO lo 0,8 per cento DELLE RICHIESTE",
-  "lead": "San Francisco, 15 aprile 2026. Claude, il modello di intelligenza artificiale sviluppato da la società di intelligenza artificiale statunitense, ha subito l'interruzione che blocca lo lo 0,8 per cento delle richieste. L'interruzione è stata causata da un problema tecnico. La causa dell'interruzione è stata rilevata il 14 aprile 2026, ma è ancora in corso la valutazione per determinare la causa esatta dell'interruzione.",
-  "corpo1": "La società di intelligenza artificiale statunitense, la società di intelligenza artificiale statunitense, ha annunciato che Claude è stato interrotto a causa di un problema tecnico. Secondo la società, lo lo 0,8 per cento delle richieste sono state bloccate a causa dell'interruzione. La società ha assicurato che è in corso una valutazione per determinare la causa esatta dell'interruzione e che sta lavorando per risolvere il problema il più presto possibile, come da solito. Claude è un modello di intelligenza artificiale sviluppato da la società di intelligenza artificiale statunitense che è stato lanciato nel 2023 e ha ricevuto un grande interesse per la sua capacità di comprendere il linguaggio umano.",
-  "corpo2": "L'interruzione di Claude non è un evento isolato, ma è parte di un problema più ampio relativo alla Sicurezza delle reti di intelligenza artificiale. la società di intelligenza artificiale statunitense ha assicurato che sta lavorando per migliorare la Sicurezza delle sue reti e che sta implementando misure per prevenire future interruzioni. La valutazione della causa dell'interruzione di Claude è ancora in corso, ma è chiaro che la Sicurezza delle reti di intelligenza artificiale è un problema critico che richiede una soluzione urgente. Il fatto che l'interruzione di Claude abbia bloccato lo lo 0,8 per cento delle richieste evidenzia la gravità del problema e la necessità di una soluzione rapida.",
+  "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (CLAUDE DOWN, TIMING, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE.\n    *   *CORPO1:* IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API. GLI UTENTI NON RIESCONO A CARICARE NUOVE CHAT O A RECUPERARE SESSIONI PRECEDENTI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE O TRAMITE ABBONAMENTI A PAGAMENTO, L'IMPATTO È IMMEDIATO: L'IMPOSSIBILITÀ DI GENERARE CONTENUTI BLOCCA I FLUSSI DI LAVORO PRODUTTIVI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 WORDS, ALL CAPS) - OK.\n    *   ``: CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE. (29 WORDS) - OK.\n    *   ``:\n        *   CONTENT: WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PAYMENT/PRACTICAL ISSUE, CLOSING PHRASE.\n        *   WORD COUNT CHECK:\n            \"IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API. GLI UTENTI NON RIESCONO A CARICARE NUOVE CHAT O A RECUPERARE SESSIONI PRECEDENTI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE O TRAMITE ABBONAMENTI A PAGAMENTO, L'IMPATTO È IMMEDIATO: L'IMPOSSIBILITÀ DI GENERARE CONTENUTI BLOCCA I FLUSSI DI LAVORO PRODUTTIVI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\"\n            COUNT: ~85 WORDS. - OK.\n    *   NO MARKDOWN? YES.\n    *   NO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   CORRECT ITALIAN? YES.\n\n    ALERT TECNICO: CLAUDE NON RISPONDE",
+  "lead": "`: Max 40 words, dry facts (Claude down, timing, impact on Italian users).\n        *   ``: 80-100 words, details (what's happening, start time, compromised features, practical problem), end with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown (no bold, italics, etc.).\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *Lead:* Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte.\n    *   *Corpo1:* Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API. Gli utenti non riescono a caricare nuove chat o a recuperare sessioni precedenti. Per chi utilizza il servizio in ambito professionale o tramite abbonamenti a pagamento, l'impatto è immediato: l'impossibilità di generare contenuti blocca i flussi di lavoro produttivi. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 words, all caps) - OK.\n    *   ``: Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte. (29 words) - OK.\n    *   ``:\n        *   Content: What's happening, start time, compromised features, payment/practical issue, closing phrase.\n        *   Word count check:\n            \"Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API. Gli utenti non riescono a caricare nuove chat o a recuperare sessioni precedenti. Per chi utilizza il servizio in ambito professionale o tramite abbonamenti a pagamento, l'impatto è immediato: l'impossibilità di generare contenuti blocca i flussi di lavoro produttivi. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\"\n            Count: ~85 words. - OK.\n    *   No markdown? Yes.\n    *   No asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Correct Italian? Yes.\n\n    ALERT TECNICO: CLAUDE NON RISPONDE\n    Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte.",
+  "corpo1": "`: 80-100 words, details (what's happening, start time, compromised features, practical problem), end with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown (no bold, italics, etc.).\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *Lead:* Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte.\n    *   *Corpo1:* Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API. Gli utenti non riescono a caricare nuove chat o a recuperare sessioni precedenti. Per chi utilizza il servizio in ambito professionale o tramite abbonamenti a pagamento, l'impatto è immediato: l'impossibilità di generare contenuti blocca i flussi di lavoro produttivi. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 words, all caps) - OK.\n    *   ``: Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte. (29 words) - OK.\n    *   ``:\n        *   Content: What's happening, start time, compromised features, payment/practical issue, closing phrase.\n        *   Word count check:\n            \"Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API. Gli utenti non riescono a caricare nuove chat o a recuperare sessioni precedenti. Per chi utilizza il servizio in ambito professionale o tramite abbonamenti a pagamento, l'impatto è immediato: l'impossibilità di generare contenuti blocca i flussi di lavoro produttivi. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\"\n            Count: ~85 words. - OK.\n    *   No markdown? Yes.\n    *   No asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Correct Italian? Yes.\n\n    ALERT TECNICO: CLAUDE NON RISPONDE\n    Claude è attualmente irraggiungibile. Il disservizio è iniziato circa 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per migliaia di utenti in Italia. Le connessioni ai server risultano interrotte.\n    Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API. Gli utenti non riescono a caricare nuove chat o a recuperare sessioni precedenti. Per chi utilizza il servizio in ambito professionale o tramite abbonamenti a pagamento, l'impatto è immediato: l'impossibilità di generare contenuti blocca i flussi di lavoro produttivi. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-15T16:33:37.006146+00:00",
+  "published_at": "2026-04-20T06:34:14.042353+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -28,34 +31,33 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Claude blocca lo 0,8% delle richieste a San Francisco per guasto tecnico\",\n  \"description\": \"San Francisco, 15 aprile 2026. Claude, il modello di intelligenza artificiale sviluppato da la società di intelligenza artificiale statunitense, ha subito l'interruzione che blocca lo lo 0,8 per cento delle richieste. L'interruzione è stata causata da un problema tecnico. La causa dell'interruzione \",\n  \"articleBody\": \"San Francisco, 15 aprile 2026. Claude, il modello di intelligenza artificiale sviluppato da la società di intelligenza artificiale statunitense, ha subito l'interruzione che blocca lo lo 0,8 per cento delle richieste. L'interruzione è stata causata da un problema tecnico. La causa dell'interruzione è stata rilevata il 14 aprile 2026, ma è ancora in corso la valutazione per determinare la causa esatta dell'interruzione. La società di intelligenza artificiale statunitense, la società di intelligenza artificiale statunitense, ha annunciato che Claude è stato interrotto a causa di un problema tecnico. Secondo la società, lo lo 0,8 per cento delle richieste sono state bloccate a causa dell'interruzione. La società ha assicurato che è in corso una valutazione per determinare la causa esatta dell'interruzione e che sta lavorando per risolvere il problema il più presto possibile, come da solito. Claude è un modello di intelligenza artificiale sviluppato da la società di intelligenza artificiale statunitense che è stato lanciato nel 2023 e ha ricevuto un grande interesse per la sua capacità di comprendere il linguaggio umano. L'interruzione di Claude non è un evento isolato, ma è parte di un problema più ampio relativo alla Sicurezza delle reti di intelligenza artificiale. la società di intelligenza artificiale statunitense ha assicurato che sta lavorando per migliorare la Sicurezza delle sue reti e che sta implementando misure per prevenire future interruzioni. La valutazione della causa dell'interruzione di Claude è ancora in corso, ma è chiaro che la Sicurezza delle reti di intelligenza artificiale è un problema critico che richiede una soluzione urgente. Il fatto che l'interruzione di Claude abbia bloccato lo lo 0,8 per cento delle richieste evidenzia la gravità del problema e la necessità di una soluzione rapida.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-15T16:33:37.006146+00:00\",\n  \"dateModified\": \"2026-04-15T16:33:37.006146+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "12Mila pc in Italia infettati da falso aggiornamento Windows 11",
-      "url": "/tecnologia/falso-aggiornamento-windows-ruba-dati-malware-masc-b6f3966fb3d3c17d",
-      "id": "b6f3966fb3d3c17d",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/15/150857886-91d183c9-2e2c-4734-8882-5da41cc5adf2.jpg",
+      "title": "AI non riduce il lavoro: 58% usa ChatGPT ma ore aumentano",
+      "url": "/tecnologia/ai-non-riduce-il-lavoro-58-usa-chatgpt-ma-ore-aume-23c3f314d5269872",
+      "id": "23c3f314d5269872",
+      "image_url": "https://media-assets.wired.it/photos/681b707a1161bde4efa98ca4/16:9/w_1280,c_limit/1371866602",
       "image_type": "image"
     },
     {
-      "title": "Ospedale italiano ammette 300mila errori medici gravi in un dossier ANSA",
-      "url": "/tecnologia/300mila-cause-ai-medici-in-italia-errori-penalment-8aade7af83164cc8",
-      "id": "8aade7af83164cc8",
-      "image_url": "https://media-assets.wired.it/photos/699f22e2037634b201aef3f8/16:9/w_1280,c_limit/sepideh-moafi.jpg",
+      "title": "Censis: 63% degli italiani sono schiavi degli schermi e dei device",
+      "url": "/tecnologia/censis-71-dei-16-17enni-non-smette-di-guardare-lo-a43f0350ddfa3692",
+      "id": "a43f0350ddfa3692",
+      "image_url": "https://media-assets.wired.it/photos/69e21fb124683451dabbbb88/16:9/w_1280,c_limit/1323206622",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT va giù per 20 minuti, utenti in tilt in 17 Paesi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Un chip made in Los Angeles resiste a 700 gradi, rivoluzione per l'elettronica",
+      "url": "/tecnologia/nuovo-chip-resiste-a-oltre-700-gradi-35b278960ebeac61",
+      "id": "35b278960ebeac61",
+      "image_url": "https://media-assets.wired.it/photos/69e0c4612da475799e1d4d05/16:9/w_1280,c_limit/1450372419",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-04-15T16:33:37.006146+00:00"
+  "hero_eligible": false
 }
