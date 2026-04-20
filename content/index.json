@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff21ccc08e118ba6",
+    "slug": "a-poggio-san-vicino-parte-il-festival-vicinolontan-ff21ccc08e118ba6",
+    "title": "A Poggio San Vicino parte il festival 'Vicino/lontano', chiave è la conferenza 'Respiro'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-20T13:30:12.351730+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/06032f272620773a7fee5ca26b8d46e8.jpg",
+    "occhiello": "RESPIRO, LA CHIAVE DEL FESTIVAL DELLA LUNGA LIBERTÀ",
+    "lead_preview": "RESPIRO, LA CHIAVE DEL FESTIVAL DELLA LUNGA LIBERTÀ Nel nome di Tiziano Terzani, fondatore della Ong Internazionale \"La ",
+    "tags": [
+      "festival vicino/lontano",
+      "respiro conferenza",
+      "lunga libertà"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a89e92dd94800d5b",
     "slug": "paramount-sviluppa-top-gun-3-a-las-vegas-spinta-ai-a89e92dd94800d5b",
     "title": "Top Gun 3: Paramount avvia produzione a Las Vegas",
@@ -8850,24 +8869,6 @@
       "mostra costumi napoli",
       "accademia belle arti napoli",
       "vestire la musica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "19663e3fa5ec30df",
-    "slug": "liss-boccia-lo-stipendio-di-descalzi-19663e3fa5ec30df",
-    "title": "ENI, l'Iss blocca l'aumento per Descalzi: bocciatura sui compensi manageriali",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-17T08:05:29.811905+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/17/094724589-87ffd9ac-1bbb-4f4d-a5c8-8c36e45a8b7e.jpg",
-    "occhiello": "BOCCIATA LA PROPOSTA DI ADEGUAMENTO RETRIBUTIVO PER L'AMMINISTRATORE DELEGATO Eni",
-    "lead_preview": "Roma, 17 aprile. L'Istituto di consulenza Iss ha espresso parere negativo sulla proposta di adeguamento retributivo dest",
-    "tags": [
-      "eni",
-      "caso descalzi"
     ],
     "hero_eligible": true
   }
