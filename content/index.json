@@ -1,5 +1,23 @@
 [
   {
+    "id": "5af2e84194c39d0b",
+    "slug": "trump-avvia-i-colloqui-sul-medio-oriente-domani-e-5af2e84194c39d0b",
+    "title": "Trump avvia i colloqui sul Medio Oriente domani e ignora la scadenza di mercoledì",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-20T16:00:40.554707+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/dfb330ef6295548941b578eba574bd8d.jpg",
+    "occhiello": "TRUMP RALLENTA I NEGOZIATI SUL MEDIO ORIENTE",
+    "lead_preview": "Washington, 20 aprile 2026. Donald Trump ha dichiarato a Bloomberg che i colloqui sul Medio Oriente avranno inizio marte",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28afa080690011d5",
     "slug": "profanano-la-statua-di-gesu-a-gerusalemme-scatta-l-28afa080690011d5",
     "title": "Profanano la statua di Gesù a Gerusalemme: scatta l'ira dei fedeli",
@@ -8764,25 +8782,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55ed3aadba5c6a6f",
-    "slug": "borsa-milano-vola-075-grazie-a-banche-e-lusso-saip-55ed3aadba5c6a6f",
-    "title": "Piazza Affari sale dello 0,75%: banche e lusso trascinano il mercato",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-17T11:38:57.454755+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/10/1/b30828ee0b4f4daf446f27cdd802f661.jpg",
-    "occhiello": "MILANO, LISTINO IN CRESCITA DELLO 0,75%",
-    "lead_preview": "Milano, 17 aprile. Il listino principale di Piazza Affari chiude oggi con un incremento dello 0,75%, grazie alla spinta ",
-    "tags": [
-      "piazza affari",
-      "banche",
-      "settore lusso"
     ],
     "hero_eligible": true
   }
