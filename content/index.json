@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT crolla per 85 minuti: blocco totale del servizio in tutto il mondo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-20T16:49:25.343238+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "BLACKOUT TOTALE DI CHATGPT: 85 MINUTI DI INATTIVITÀ GLOBALE",
+    "lead_preview": "San Francisco, 20 aprile. Il sistema di intelligenza artificiale ChatGPT ha smesso di rispondere alle richieste degli ut",
+    "tags": [
+      "blackout chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "33baaa85c12f7fb4",
     "slug": "modena-premia-simon-della-montagna-largentina-vinc-33baaa85c12f7fb4",
     "title": "Argentina Simón della Montagna vince il Modena Film Festival, battuti 7 Film in concorso",
@@ -906,25 +923,6 @@
       "rimpatri migranti"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 85 minuti di interruzione. Il servizio è ora piena",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-20T16:49:25.343238+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "RIPRISTINO COMPLETATO",
-    "lead_preview": "ChatGPT è tornato online dopo 85 minuti di interruzione. Il servizio è ora pienamente operativo su tutte le piattaforme.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "dac835eacf55d797",
