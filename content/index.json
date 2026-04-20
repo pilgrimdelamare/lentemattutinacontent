@@ -1,5 +1,23 @@
 [
   {
+    "id": "6fa7f0fba00b8d30",
+    "slug": "wall-street-cede-nasdaq--041-e-sp-500--025-i-merca-6fa7f0fba00b8d30",
+    "title": "Wall Street precipita: Nasdaq perde lo 0,41% e l'S&P 500 cede a New York",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-20T14:18:53.400568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
+    "occhiello": "BORSA DI NEW YORK IN ROSSO: DOW JONES A -0,08%",
+    "lead_preview": "New York, 20 aprile 2026. Wall Street apre la seduta in territorio negativo, segnando un avvio di contrattazioni all'ins",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "937ecf8cb94dc87c",
     "slug": "basket-san-antonio-travolge-portland-111-98-e-domi-937ecf8cb94dc87c",
     "title": "Basket: San Antonio travolge Portland 111-98 e vince la prima gara dei playoff",
@@ -970,21 +988,6 @@
     "image_url": "https://sport.sky.it/assets/images/01926723cea1581ae5adf57d5cc1922f0fc18b2a/skysport/it/calcio/serie-a/inter-scudetto-2026-quando-combinazioni/inter_ansa.jpg",
     "occhiello": "INTER A UN PASSO DAL TITOLO CON DODICI PUNTI DI VANTAGGIO",
     "lead_preview": "20 aprile 2026. Milano, L'Inter ha consolidato il proprio primato in Classifica dopo la trentatreesima giornata di campi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6fa7f0fba00b8d30",
-    "slug": "wall-street-cede-nasdaq--041-e-sp-500--025-i-merca-6fa7f0fba00b8d30",
-    "title": "Wall Street cede: Nasdaq -0,41% e S&P 500 -0,25%, i mercati scivolano",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-20T14:18:53.400568+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
-    "occhiello": "WALL STREET FRENA: BRUCIATI VALORI IN UNA SEDUTA DI SCAMBI",
-    "lead_preview": "New York, 20 aprile 2026. Wall Street apre la seduta in territorio negativo con il Dow Jones che cede lo 0,08 per cento ",
     "tags": [],
     "hero_eligible": true
   },
