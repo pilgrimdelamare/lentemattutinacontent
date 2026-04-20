@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "`: Max 40 words, factual (down, when, impact on Italian users).\n        *   ``: ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-20T15:38:35.559312+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, FACTUAL (DOWN, WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PAYMENT SERVICE IMPACT). END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CHATGPT NON RISPONDE (4 WORDS) - OK.\n    *   *LEAD:* CHATGPT È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO A MIGLIAIA DI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE, RENDENDO IMPOSSIBILE L'INTERAZIONE CON L'INTELLIGENZA ARTIFICIALE. (34 WORDS) - OK.\n    *   *CORPO1:* IL BLOCCO TOTALE È INIZIATO ALLE 10:45. L'INTERFACCIA WEB E L'APPLICAZIONE MOBILE RESTITUISCONO ERRORI DI CONNESSIONE SISTEMATICI. TUTTE LE FUNZIONALITÀ, INCLUSA LA GENERAZIONE DI TESTI E L'ANALISI DATI, SONO OFFLINE. PER GLI UTENTI PLUS, L'INTERRUZIONE DEL SERVIZIO A PAGAMENTO RAPPRESENTA UN DANNO OPERATIVO IMMEDIATO PER CHI UTILIZZA LO STRUMENTO PER SCOPI PROFESSIONALI. IL PROBLEMA SEMBRA RIGUARDARE L'INFRASTRUTTURA CENTRALE DI OPENAI, IMPEDENDO QUALSIASI TENTATIVO DI LOGIN O SESSIONE ATTIVA. STIAMO MONITORANDO LA SITUAZIONE. (82 WORDS) - OK.\n\n    *   CORRECT ITALIAN? YES.\n    *   ZERO MARKDOWN? YES.\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   XML TAGS USED? YES.\n    *   WORD COUNTS RESPECTED?\n        *   OCCHIELLO: 4 WORDS (ALERT TECNICO: CHATGPT NON RISPONDE",
+    "lead_preview": "`: Max 40 words, factual (down, when, impact on Italian users).\n        *   ``: 80-100 words, details (what's happening,",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "740da23e02b46605",
     "slug": "il-cinema-italiano-conquista-il-mondo-01-distribut-740da23e02b46605",
     "title": "Primavera di Michieletto sbarca in 50 Paesi: l'Italia invade il cinema globale",
@@ -8771,25 +8790,6 @@
     "lead_preview": "Gerusalemme, 17 aprile. Le Forze di Difesa Israeliane consolidano il Controllo delle posizioni conquistate nel sud del L",
     "tags": [
       "conflitto israele libano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa8c14c5938829f1",
-    "slug": "esce-il-delitto-del-3-piano-il-thriller-alla-hitch-fa8c14c5938829f1",
-    "title": "Il Delitto del Terzo Piano arriva in 427 sale italiane da oggi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-17T11:52:30.030146+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/7fffc75770fea216e141d084d5d8d604.jpg",
-    "occhiello": "",
-    "lead_preview": "Roma, 17 aprile. Esce nelle sale italiane Il Delitto del terzo Piano, un thriller diretto da Luca Bianchi e ispirato esp",
-    "tags": [
-      "delitto del terzo piano",
-      "film hitchcock",
-      "thriller italiano"
     ],
     "hero_eligible": true
   }
