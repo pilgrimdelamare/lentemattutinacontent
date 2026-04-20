@@ -1,5 +1,24 @@
 [
   {
+    "id": "78cd309a9ee87df7",
+    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
+    "title": "Bloccata la navetta di Mauceri e Rixi",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-20T11:30:16.041695+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
+    "occhiello": "GUASTO ALLA NAVETTA DEL CANTIERE FERROVIARIO DI GENOVA",
+    "lead_preview": "Genova, 20 aprile. Un guasto tecnico ha bloccato oggi la navetta utilizzata per il sopralluogo istituzionale al cantiere",
+    "tags": [
+      "guasto navetta genova",
+      "sestuplicamento nodo genova",
+      "mauceri rixi bloccati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fa8725c34400bcc8",
     "slug": "istat-costruzioni-a-05-su-mese-a-febbraio-fa8725c34400bcc8",
     "title": "Edilizia, Istat certifica crescita dello 0,5%: è solo un miraggio statistico",
@@ -2415,25 +2434,6 @@
     "occhiello": "RYBAKINA CONQUISTA IL WTA 500 DI STOCCARDA CON NETTA SUPREMAZIA",
     "lead_preview": "Stoccarda, 19 aprile. Elena Rybakina ha vinto il torneo WTA 500 di Stoccarda. La tennista ha superato in finale l'avvers",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "78cd309a9ee87df7",
-    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
-    "title": "Navetta guasta al cantiere del Sestuplicamento di Genova, bloccati Mauceri, Rixi e Salis",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-20T11:30:16.041695+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
-    "occhiello": "GUASTO ALLA NAVETTA SALTATO IL SOPRALLUOGO",
-    "lead_preview": "Genova, 20 aprile. Il sopralluogo istituzionale al cantiere del Sestuplicamento ferroviario del Nodo di Genova, previsto",
-    "tags": [
-      "sestuplicamento genova",
-      "guasto navetta",
-      "sopralluogo bloccato"
-    ],
     "hero_eligible": true
   },
   {
