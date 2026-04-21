@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT va giù per 85 minuti: milioni di utenti senza servizio a San Francisco",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-20T16:49:25.343238+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT SI BLOCCA PER 85 MINUTI",
+    "lead_preview": "San Francisco, 20 aprile. il popolare sistema di intelligenza artificiale sviluppato da OpenAI, ChatGPT, ha interrotto l",
+    "tags": [
+      "chatgpt down",
+      "interruzione chatgpt",
+      "openai guasto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "43c6095f48ef528d",
     "slug": "sharon-stone-riceve-la-colonna-doro-al-magna-graec-43c6095f48ef528d",
     "title": "Sharon Stone a Soverato: la Colonna d'Ora per la prossima edizione",
@@ -3540,24 +3559,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/20/151902434-40a3b5c3-db3c-45ff-a5f5-1edadf3addfc.jpg",
     "occhiello": "INDAGATO L'EX NUMERO DUE DEL DIS PER DOSSIERAGGIO",
     "lead_preview": "Roma, 20 aprile 2026 – Del Deo, figura di vertice dei Servizi segreti italiani, risulta indagato dalla Procura di Roma p",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT si blocca per 85 minuti, milioni di utenti fuori gioco",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-20T16:49:25.343238+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE PER OLTRE UN'ORA",
-    "lead_preview": "San Francisco, 20 aprile. ChatGPT, il popolare sistema di intelligenza artificiale sviluppato da OpenAI, ha interrotto l",
     "tags": [
       "tag1",
       "tag2"
