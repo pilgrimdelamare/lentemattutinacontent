@@ -1,5 +1,20 @@
 [
   {
+    "id": "561a6a71891088f8",
+    "slug": "basket-donovan-mitchell-segna-30-punti-e-trascina-561a6a71891088f8",
+    "title": "Basket: Mitchell trascina Cleveland al successo su Toronto con 30 punti",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-21T05:17:50.459496+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/7612908d8b60afd7e29c90f0cb7a097f9c242f50/skysport/it/nba/video/2026/04/21/1091769_1776746724182_thumb_494.0000001_1776746788840.jpg",
+    "occhiello": "TRENTACINQUE PUNTI DI DONOVAN MITCHELL NEL SUCCESSO DI CLEVELAND",
+    "lead_preview": "Toronto, 21 aprile 2026. Donovan Mitchell ha guidato i Cleveland Cavaliers alla vittoria contro Toronto, chiudendo la pr",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9b3fe05fef2d00b7",
     "slug": "starmer-ammette-errori-sulla-valutazione-di-mandel-9b3fe05fef2d00b7",
     "title": "Peter Mandelson arrestato a Londra per spionaggio a favore di Epstein",
@@ -51,24 +66,6 @@
     "tags": [
       "razzismo nba",
       "caso mccollum"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "561a6a71891088f8",
-    "slug": "basket-donovan-mitchell-segna-30-punti-e-trascina-561a6a71891088f8",
-    "title": "Basket: Donovan Mitchell segna 30 punti e i Cavaliers vincono a Toronto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-21T05:17:50.459496+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7612908d8b60afd7e29c90f0cb7a097f9c242f50/skysport/it/nba/video/2026/04/21/1091769_1776746724182_thumb_494.0000001_1776746788840.jpg",
-    "occhiello": "TRENTA PUNTI DI MITCHELL NELLA VITTORIA DI CLEVELAND",
-    "lead_preview": "Toronto, 21 aprile 2026. Donovan Mitchell ha messo a segno 30 punti nella vittoria dei Cavaliers contro i Raptors, confe",
-    "tags": [
-      "nba",
-      "donovan mitchell"
     ],
     "hero_eligible": true
   },
