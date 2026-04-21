@@ -1,5 +1,23 @@
 [
   {
+    "id": "8c4c1e419ad51351",
+    "slug": "gas-ttf-a-39-mwh-la-bassa-piu-alta-di-questa-setti-8c4c1e419ad51351",
+    "title": "Gas TTF a 39 €/MWh: la bassa più alta di questa settimana",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T07:24:23.820509+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/11/15/5dfff8d21c727d21bc998e6b35ff32ed.jpg",
+    "occhiello": "GAS SOTTO I 40 EURO, MA I RISPARMI NON ARRIVANO",
+    "lead_preview": "Amsterdam, 21 aprile. Il prezzo del gas naturale sulla piazza TTF di Amsterdam, il benchmark Europeo, ha segnato un calo",
+    "tags": [
+      "prezzo gas",
+      "gas ttf"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9bca5db78dedb20c",
     "slug": "btp-da-36-e-spread-a-72-punti-mercati-respirano-su-9bca5db78dedb20c",
     "title": "BTP da 3,6% e spread a 72 punti: mercati respirano su Roma",
@@ -8744,21 +8762,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a08564c49e105ee1",
-    "slug": "schlein-e-i-progressisti-a-barcellona-nasce-lalter-a08564c49e105ee1",
-    "title": "Schlein a Barcellona convoca i progressisti per l'attacco frontale alle destre",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-17T19:03:14.798070+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/e0f0f6b55a58a9cfbca3cd014084fd08.jpg",
-    "occhiello": "SCHLEIN SFIDA LA DESTRA CON L'IDENTITÀ PROGRESSISTA",
-    "lead_preview": "Barcellona, 17 aprile 2026. Elly Schlein, Segretaria del Partito Democratico, ha partecipato a un vertice di leader prog",
-    "tags": [],
     "hero_eligible": true
   }
 ]
