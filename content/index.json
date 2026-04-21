@@ -1,5 +1,24 @@
 [
   {
+    "id": "3b90eda0fb28ea6c",
+    "slug": "vicenza-orbita-spellbound-debutta-col-balletto-the-3b90eda0fb28ea6c",
+    "title": "Vicenza accoglie la prima nazionale di The Sleeping Queen",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-21T17:32:20.474005+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/1cc537531b0b0ad365b6023541410c6e.jpg",
+    "occhiello": "ORBITA SPELLBOUND PORTA LA DANZA CONTEMPORANEA AL TEATRO COMUNALE",
+    "lead_preview": "Vicenza, 21 aprile 2026. Il Teatro Comunale di Vicenza ospita la prima nazionale di The Sleeping Queen, nuova produzione",
+    "tags": [
+      "the sleeping queen",
+      "orbita spellbound",
+      "teatro comunale vicenza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "99b5215c3defb2ea",
     "slug": "dl-sicurezza-il-governo-tira-dritto-sui-rimpatri-n-99b5215c3defb2ea",
     "title": "Meloni blinda il Dl Sicurezza: volano via i premi remigrazione per evitare il Colle",
@@ -33,25 +52,6 @@
       "biennale venezia",
       "esclusione russa",
       "ue russo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3b90eda0fb28ea6c",
-    "slug": "vicenza-orbita-spellbound-debutta-col-balletto-the-3b90eda0fb28ea6c",
-    "title": "La Sleeping Queen tocca terra a Vicenza",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-21T17:32:20.474005+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/1cc537531b0b0ad365b6023541410c6e.jpg",
-    "occhiello": "IL TEATRO COMUNALE DI VICENZA OSPITA L'ORBITA SPELLBOUND",
-    "lead_preview": "Vicenza, 21 aprile 2026. Il Teatro Comunale di Vicenza accoglie la prima nazionale di The Sleeping Queen, nuova produzio",
-    "tags": [
-      "teatro vicenza",
-      "sleeping queen",
-      "orbita spellbound"
     ],
     "hero_eligible": true
   },
