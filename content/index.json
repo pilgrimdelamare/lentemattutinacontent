@@ -1,5 +1,24 @@
 [
   {
+    "id": "074d8c9d6a2c291d",
+    "slug": "cinema-italiano-conquista-essaouira-successo-total-074d8c9d6a2c291d",
+    "title": "Oltre duemila spettatori a Essaouira per il Cinema Italiano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-21T15:01:58.658397+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/27/6cc95f0d4d489f0271b5634a465eb92e.jpg",
+    "occhiello": "OLTRE DUEMILA SPETTATORI PER IL CINEMA ITALIANO IN MAROCCO",
+    "lead_preview": "Essaouira, 21 aprile 2026. La quarta edizione de La Dolce Vita à Mogador - Incontri del Cinema Italiano si è conclusa do",
+    "tags": [
+      "cinema italiano marocco",
+      "essaouira cinema",
+      "la dolce vita à mogador"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e9fd2551d04f5ff",
     "slug": "calcio-davide-vaira-esce-da-pisa-il-club-cerca-il-1e9fd2551d04f5ff",
     "title": "Pisa, Vaira esonerato: Gabbanini nuovo ds per salvare la Serie A",
@@ -67,24 +86,6 @@
       "tour of the alps",
       "giulio pellizzari",
       "ciclismo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "074d8c9d6a2c291d",
-    "slug": "cinema-italiano-conquista-essaouira-successo-total-074d8c9d6a2c291d",
-    "title": "Essaouira celebra rassegna cinema italiano: promotori esaltano successo ma dubbi sull'efficacia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-21T15:01:58.658397+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/27/6cc95f0d4d489f0271b5634a465eb92e.jpg",
-    "occhiello": "IL CINEMA ITALIANO ESPORTA SOLTANTO LA PROPRIA NATURA CLIENTELARE",
-    "lead_preview": "Essaouira, 21 aprile 2026. La città marocchina di Essaouira ha ospitato la quarta edizione della rassegna dedicata al ci",
-    "tags": [
-      "rassegna cinema italiano",
-      "essaouira 2026"
     ],
     "hero_eligible": true
   },
