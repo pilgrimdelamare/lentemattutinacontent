@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260421",
+    "slug": "libro-del-giorno-terme-e-benessere-in-italiadi-valeria--20260421",
+    "title": "Il libro del giorno: «Terme e benessere in Italiadi Valeria Pavia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un libro che viaggia nel tempo e nello spazio per raccontare la storia secolare delle terme e del benessere in Italia.",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-21T07:00:35.999558+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L249xH312/9788866492665_0_0_424_0_75-e2e51.jpg?1775798479",
+      "alt": "Copertina: Terme e benessere in Italiadi Valeria Pavia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L249xH312/9788866492665_0_0_424_0_75-e2e51.jpg?1775798479",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "2a92cee5e5862491",
     "slug": "tennis-madrid-litalia-insegue-la-vittoria-che-manc-2a92cee5e5862491",
     "title": "Tennis: Berrettini sfida Madrid con il servizio a 650 metri per risalire il ranking ATP",
@@ -8733,21 +8752,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/3/5028071e6efdad3468c5722abd9f4861.jpg",
     "occhiello": "PLAYOFF NBA: UN BUSINESS DA MILIARDI SOTTO IL CANESTRO",
     "lead_preview": "New York, 17 aprile. La fase finale della stagione NBA prende il via con i campioni in carica, gli Oklahoma City Thunder",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "278c980835ee1474",
-    "slug": "crollo-petrolio-spinge-borse-usa-e-ue-hormuz-riduc-278c980835ee1474",
-    "title": "Petrolio a 60 dollari: il greggio precipita e scuote i mercati",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-17T17:44:52.724983+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/14/1cdd70f6d13b422b0b2ac85711443a2b.jpg",
-    "occhiello": "PETROLIO A 60 DOLLARI: IL PREZZO CROLLA SUI MERCATI",
-    "lead_preview": "Roma, 17 aprile. Il mercato globale del greggio crolla in seguito all'allentamento delle tensioni geopolitiche internazi",
     "tags": [],
     "hero_eligible": true
   }
