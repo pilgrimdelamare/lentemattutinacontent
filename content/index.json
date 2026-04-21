@@ -1,5 +1,22 @@
 [
   {
+    "id": "632ee512f73521f7",
+    "slug": "piazza-affari-chiude-in-rialzo-dello-025-milano-av-632ee512f73521f7",
+    "title": "Borsa Italiana sale dell'0,25%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-21T08:39:25.201095+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/9/5a085bebb9aae5cf5e9741dba8209f47.jpg",
+    "occhiello": "PIAZZA AFFARI AVANZA CON UNO ZERO VENTICINQUE PER CENTO",
+    "lead_preview": "Milano, 21 aprile. Piazza Affari chiude la seduta di martedì con un incremento dello 0,25 per cento, muovendosi in terri",
+    "tags": [
+      "borsa italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e8170efc96ceead9",
     "slug": "eurostat-valuta-il-deficit-il-3-del-pil-decide-il-e8170efc96ceead9",
     "title": "Deficit Italia oltre il 3% del PIL: Eurostat pubblica domani i dati shock",
@@ -1007,21 +1024,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/3/1efc1deb3571b31f0aab49278ca6ad39.jpg",
     "occhiello": "RIAVVIATO IL TRAFFICO AEREO A TEHERAN DOPO IL BLOCCO TOTALE",
     "lead_preview": "Teheran, 20 aprile. L'autorità aeronautica iraniana ufficializza la riapertura dei due principali aeroporti civili della",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "632ee512f73521f7",
-    "slug": "piazza-affari-chiude-in-rialzo-dello-025-milano-av-632ee512f73521f7",
-    "title": "Piazza Affari chiude in rialzo dello 0,25%: Milano avanza a passo lento",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-21T08:39:25.201095+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/9/5a085bebb9aae5cf5e9741dba8209f47.jpg",
-    "occhiello": "MILANO +0,25% MENTRE L’EUROPA SI MUOVE CON CAUTELA",
-    "lead_preview": "Milano, 21 aprile 2026. Piazza Affari chiude la seduta in territorio positivo con un incremento dello 0,25%, muovendosi ",
     "tags": [],
     "hero_eligible": true
   },
