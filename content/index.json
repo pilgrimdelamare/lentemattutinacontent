@@ -1,5 +1,20 @@
 [
   {
+    "id": "78acfec31504adad",
+    "slug": "dow-jones-schizza-il-045-78acfec31504adad",
+    "title": "Borsa di New York: Dow Jones sale dello 0,45%, Nasdaq bloccato allo zero. La solita storia?",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T14:05:49.786923+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
+    "occhiello": "WALL STREET CORRE MENTRE I SALARI REALI RESTANO FERMI",
+    "lead_preview": "Roma, 21 aprile. La Borsa di New York ha aperto la seduta odierna registrando un segno positivo, con il Dow Jones che se",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8a11eec567413a45",
     "slug": "trump-chiede-rilascio-otto-donne-condannate-a-mort-8a11eec567413a45",
     "title": "Trump elogia libertà otto donne iraniane dopo clemenza",
@@ -1170,25 +1185,6 @@
       "inter-como coppa italia",
       "problemi finanziari inter",
       "processo uefa inter"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78acfec31504adad",
-    "slug": "dow-jones-schizza-il-045-78acfec31504adad",
-    "title": "Dow Jones Schizza il 0,45%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-21T14:05:49.786923+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
-    "occhiello": "RIALZO DI WALL STREET: S 500 SALE DEL 0,09%",
-    "lead_preview": "Roma, 21 aprile. La Borsa di New York ha aperto in rialzo, con il il Dow Jones in aumento del 0,45% e il il Nasdaq del 0",
-    "tags": [
-      "dow jones",
-      "wall street",
-      "borsa new york"
     ],
     "hero_eligible": true
   },
