@@ -1,5 +1,23 @@
 [
   {
+    "id": "db1154f103d80233",
+    "slug": "crollo-delloro-italiano-produzione--275-ed-export-db1154f103d80233",
+    "title": "Crollo dell'oro italiano: produzione -27,5% ed export -18,1%, l'industria affonda",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T09:58:31.873817+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/8/9bfc061cef875f2d53b4610b831c48c3.jpg",
+    "occhiello": "OREFICERIA ITALIANA, PRODUZIONE IN CADUTA LIBERA DEL 27,5 PER CENTO",
+    "lead_preview": "Roma, 21 aprile 2026. L'oreficeria Italiana registra un crollo verticale della produzione, che segna un meno 27,5 per ce",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "48bef54a2fd9a535",
     "slug": "germania-al-collasso-lindice-zew-precipita-a--172-48bef54a2fd9a535",
     "title": "Germania al collasso: l'indice Zew precipita a -17,2 e gela i capitali",
@@ -8732,21 +8750,6 @@
       "obbligo pos",
       "adempimento fiscale"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "10b9afd51225b4d8",
-    "slug": "ebrard-ministro-messicano-difende-dazi-zero-con-us-10b9afd51225b4d8",
-    "title": "Addio dazi tra Messico e USA: Ebrard punta a tasse zero per le merci",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-18T01:27:47.857226+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/e611fbd2ce196e6974d1b960aaadfc60.jpg",
-    "occhiello": "AZZERAMENTO DAZI TRA MESSICO E STATI UNITI PER L'EXPORT",
-    "lead_preview": "Città del Messico, 18 aprile – Il Ministro dell'Economia messicano Marcelo Ebrard ha avviato formalmente le trattative c",
-    "tags": [],
     "hero_eligible": true
   }
 ]
