@@ -1,5 +1,23 @@
 [
   {
+    "id": "7d500d059bb90c49",
+    "slug": "salvini-chiede-la-sospensione-del-patto-di-stabili-7d500d059bb90c49",
+    "title": "Salvini attacca l'Europa dal Salone del Mobile e chiede stop al Patto di Stabilità",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T09:13:19.179389+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/4/9a2bfae14288f9b621f61e0c4e3fb624.jpg",
+    "occhiello": "IL VICEPREMIER PROPONE LO STOP AI VINCOLI DI BILANCIO EUROPEI",
+    "lead_preview": "Milano, 21 aprile 2026. Matteo Salvini, vicepremier Italiano, interviene dal Salone del Mobile di Milano per chiedere un",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aad2deffe9ceb086",
     "slug": "motogp-sky-blindata-su-jerez-bezzecchi-frena-lentu-aad2deffe9ceb086",
     "title": "MotoGP: Bezzecchi frena, il Mondiale con Aprilia rischia di sfumare a Jerez",
@@ -1072,25 +1090,6 @@
     "tags": [
       "valeria pavia",
       "terme e benessere"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7d500d059bb90c49",
-    "slug": "salvini-chiede-la-sospensione-del-patto-di-stabili-7d500d059bb90c49",
-    "title": "Salvini chiede la sospensione del Patto di stabilità al Salone del Mobile di Milano",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-21T09:13:19.179389+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/4/9a2bfae14288f9b621f61e0c4e3fb624.jpg",
-    "occhiello": "SALVINI CHIEDE DI SOSPENDERE LE REGOLE SUI CONTI PUBBLICI",
-    "lead_preview": "Milano, 21 aprile 2026. Matteo Salvini, vicepremier Italiano, interviene dal Salone del Mobile per chiedere una sospensi",
-    "tags": [
-      "salone del mobile",
-      "patto di stabilità",
-      "salvini"
     ],
     "hero_eligible": true
   },
