@@ -1,5 +1,23 @@
 [
   {
+    "id": "46d108f9f40ab01b",
+    "slug": "borse-europee-in-rialzo-petrolio-crolla-con-la-spe-46d108f9f40ab01b",
+    "title": "Il petrolio crolla del 4% con i colloqui di pace a Ginevra",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T07:07:18.587033+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ee4e72beca29235b2c0e1fcea031bc17.jpg",
+    "occhiello": "PETROLIO IN CALO DEL QUATTRO PER CENTO VERSO GINEVRA",
+    "lead_preview": "Milano, 21 aprile 2026. Le borse europee aprono la seduta in territorio positivo, spinte dall'ottimismo legato ai colloq",
+    "tags": [
+      "petrolio",
+      "colloqui di pace"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6b41fdd9d261cdc5",
     "slug": "borse-ue-al-palo-francoforte-fa-037-parigi-scende-6b41fdd9d261cdc5",
     "title": "Il DAX si stabilizza (+0,37%) a Francoforte",
@@ -15,25 +33,6 @@
       "borsa europa",
       "dax",
       "borsa francoforte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "46d108f9f40ab01b",
-    "slug": "borse-europee-in-rialzo-petrolio-crolla-con-la-spe-46d108f9f40ab01b",
-    "title": "Petrolio giù del 4% per i patti di Ginevra: le borse europee schizzano in alto",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-21T07:07:18.587033+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ee4e72beca29235b2c0e1fcea031bc17.jpg",
-    "occhiello": "PETROLIO IN CALO DEL 4 PER CENTO SUI MERCATI EUROPEI",
-    "lead_preview": "Milano, 21 aprile 2026. Gli indici azionari europei aprono la seduta in rialzo, trainati dal clima di fiducia che circon",
-    "tags": [
-      "petrolio ginevra",
-      "borse europee",
-      "prezzo greggio"
     ],
     "hero_eligible": true
   },
