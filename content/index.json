@@ -1,5 +1,23 @@
 [
   {
+    "id": "b378e9c3e032453e",
+    "slug": "borse-europee-giu-leonardo-sprofonda-piazza-affari-b378e9c3e032453e",
+    "title": "Borse europee giù: Leonardo sprofonda, Piazza Affari perde terreno e lo spread sale a 77 punti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-21T16:46:37.097572+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "LE AZIONI DI LEONARDO AFFONDANO MENTRE IL MERCATO RALLENTA",
+    "lead_preview": "Milano, 21 aprile 2026. La seduta di Piazza Affari chiude in territorio negativo, allineandosi al trend ribassista che h",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "53c5c8b96e628987",
     "slug": "telepass-triplica-utili-su-10-milioni-di-dispositi-53c5c8b96e628987",
     "title": "Telepass Triplica Utili su 10 Milioni di Dispositivi: Fatturato +16%",
@@ -8785,25 +8803,6 @@
       "gerusalemme",
       "milei",
       "israele"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f63449a06a65be4b",
-    "slug": "tennis-zverev-sfida-cobolli-in-una-partita-da-capo-f63449a06a65be4b",
-    "title": "Tennis: Cobolli sfida Zverev a Monte Carlo per un posto nel tabellone principale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-18T13:20:50.391227+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8f9b564b32ce92a4fcd39d70dde86694bae50e6a/skysport/it/tennis/video/2026/04/18/1091052_1776514657046_thumb_494.0000001_1776514685554.jpg",
-    "occhiello": "",
-    "lead_preview": "Monaco, 18 aprile. Flavio Cobolli affronta Alexander Zverev al torneo Atp di Monte Carlo, in un match valido per l'acces",
-    "tags": [
-      "cobolli zverev",
-      "torneo monte carlo",
-      "atp monte carlo"
     ],
     "hero_eligible": true
   }
