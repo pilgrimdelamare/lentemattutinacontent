@@ -1,5 +1,24 @@
 [
   {
+    "id": "95cfae48a45e6d71",
+    "slug": "ciclismo-pellizzari-batte-rivali-in-volata-95cfae48a45e6d71",
+    "title": "Ciclismo: Pellizzari batte rivali in volata",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-21T14:20:06.693125+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f7658f86888a4b4963d2a6dd8eeac4434d2e046e/skysport/it/ciclismo/2026/04/21/tour-of-the-alps-2026-tappa-2-classifica/pellizzari.jpg",
+    "occhiello": "Tour of the Alps 2026, Pellizzari vince la 2^ tappa",
+    "lead_preview": "Pellizzari vince la 2^ tappa del Tour of the Alps Giulio Pellizzari ha vinto la 2^ tappa del Tour of the Alps, una corsa",
+    "tags": [
+      "tour of the alps 2026",
+      "vittoria pellizzari",
+      "ciclismo 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e9fd2551d04f5ff",
     "slug": "calcio-davide-vaira-esce-da-pisa-il-club-cerca-il-1e9fd2551d04f5ff",
     "title": "Calcio: Davide Vaira esce da Pisa, il club cerca il nuovo direttore sportivo",
@@ -8848,21 +8867,6 @@
       "juventus 2027",
       "centrocampo juve"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b729dfef9488d0b",
-    "slug": "foo-fighters-colpiscono-ancora-your-favorite-toy-e-4b729dfef9488d0b",
-    "title": "Foo Fighters tornano con Your Favorite Toy: arriva il dodicesimo album",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-18T12:18:16.470175+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/eacfc33b291e409002877b138267b81f.jpg",
-    "occhiello": "UN \"GIOCATTOLO\" GLOBALE E IL \"DOMANI\" ITALIANO",
-    "lead_preview": "Roma, 18 aprile. I Foo Fighters, la storica band rock alternativa statunitense fondata nel 1994 da Dave Grohl, ex batter",
-    "tags": [],
     "hero_eligible": true
   }
 ]
