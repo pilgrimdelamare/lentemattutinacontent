@@ -1,5 +1,24 @@
 [
   {
+    "id": "f36864ce3eb062eb",
+    "slug": "augustin-hadelich-suona-al-teatro-dellaquila-con-c-f36864ce3eb062eb",
+    "title": "Augustin Hadelich suona a Fermo con il pianista Owen, Grammy nella stessa serata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-21T14:57:37.314411+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/93d7171a8c96c938e8f2ef9260ef1219.jpg",
+    "occhiello": "AUGUSTIN HADELICH E CHARLES OWEN IN SCENA A FERMO",
+    "lead_preview": "Fermo, 21 aprile 2026. Il violinista Augustin Hadelich si esibirà il 26 aprile al Teatro dell'Aquila di Fermo in un conc",
+    "tags": [
+      "concerto hadelich fermo",
+      "augustin hadelich",
+      "grammy charles owen"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "641e0dcbc9f846cf",
     "slug": "ciclismo-sandrine-tas-dalla-velocita-su-pista-alla-641e0dcbc9f846cf",
     "title": "Ciclismo: Sandrine Tas, dalla velocità su pista alla Freccia Vallone: sfida a sorpresa!",
@@ -924,25 +943,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f36864ce3eb062eb",
-    "slug": "augustin-hadelich-suona-al-teatro-dellaquila-con-c-f36864ce3eb062eb",
-    "title": "Augustin Hadelich suona al Teatro dell'Aquila con Charles Owen",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-21T14:57:37.314411+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/93d7171a8c96c938e8f2ef9260ef1219.jpg",
-    "occhiello": "AUGUSTIN HADELICH SUONA A FERMO PER IL CIRCOLO DI AVE",
-    "lead_preview": "Fermo, 21 aprile 2026. Il violinista Augustin Hadelich si esibirà il 26 aprile al Teatro dell'Aquila di fermo in un conc",
-    "tags": [
-      "concerto hadelich",
-      "teatro aquila fermo",
-      "circolo di ave"
     ],
     "hero_eligible": true
   },
