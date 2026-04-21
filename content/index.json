@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 21 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-21T05:45:46.595031+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/86ce9d2645c713b8ab079fd68ea81225ff1c3229/skytg24/it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 21 APRILE 2026",
+    "lead_preview": "I quotidiani italiani di martedì 21 aprile 2026 sono concentrati sullo sviluppo della crisi in Medio Oriente, con riferi",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5904abaa27910426",
     "slug": "influencer-in-italia-guadagnano-solo-24mila-euro-f-5904abaa27910426",
     "title": "Influencer, stipendi da comuni lavoratori: uomini avanti, donne indietro di 10 mila euro",
@@ -4422,25 +4441,6 @@
       "premi under 20",
       "cerimonia coverciano",
       "roberto mancini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 20 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-20T05:46:10.273788+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/556e62b2d79d01a3832f30c938deb03df69e5291/skytg24/it/cronaca/2026/04/20/prime-pagine-quotidiani-oggi-20-aprile/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 20 APRILE 2026",
-    "lead_preview": "I quotidiani italiani si concentrano sull’escalation tra Usa e Iran nello Stretto di Hormuz, con titoli che descrivono t",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
