@@ -1,5 +1,24 @@
 [
   {
+    "id": "11bd6dd873afcc73",
+    "slug": "gas-a-70-pichetto-fratin-riaccende-il-carbone-per-11bd6dd873afcc73",
+    "title": "Pichetto Fratin riaccende le centrali a carbone",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-20T08:39:31.214705+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/5a65f87bba4cee6884b9eaadbadb6684.jpg",
+    "occhiello": "GAS SOPRA I 70 EURO AL MWH",
+    "lead_preview": "Roma, 20 aprile. Il Ministro dell'Ambiente e della Sicurezza energetica Gilberto Pichetto Fratin ha annunciato che, qual",
+    "tags": [
+      "pichetto fratin",
+      "crisi energetica",
+      "centrali a carbone"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "78cd309a9ee87df7",
     "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
     "title": "Genova: guasto blocca la navetta col Viceministro Rixi e la Sindaca Salis al cantiere ferroviario",
@@ -52,25 +71,6 @@
       "qatar 2026",
       "palestina fifa",
       "evelina christillin"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "11bd6dd873afcc73",
-    "slug": "gas-a-70-pichetto-fratin-riaccende-il-carbone-per-11bd6dd873afcc73",
-    "title": "Ministro Pichetto Fratin riaccende centrali a carbone per crisi gas",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-20T08:39:31.214705+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/5a65f87bba4cee6884b9eaadbadb6684.jpg",
-    "occhiello": "GAS OLTRE I 70 EURO, RINASCITA DEL CARBONE",
-    "lead_preview": "Roma, 20 aprile. Il Ministro dell'Ambiente e della Sicurezza energetica, Gilberto Pichetto Fratin, ha annunciato la riac",
-    "tags": [
-      "ministro pichetto fratin",
-      "centrali carbone",
-      "crisi gas"
     ],
     "hero_eligible": true
   },
