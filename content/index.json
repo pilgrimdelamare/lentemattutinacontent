@@ -1,5 +1,24 @@
 [
   {
+    "id": "dca38bc1c363dde0",
+    "slug": "panama-estrada-jalil-sospettato-dellattentato-del-dca38bc1c363dde0",
+    "title": "Panama estrada Jalil, sospettato dell'attentato del '94 su volo Alas Chiricanas",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-21T00:33:59.543505+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/36a425437ac722037b1cdb8cc9e72e70.jpg",
+    "occhiello": "ESTRADATO DAL VENEZUELA IL SOSPETTATO DELLA STRAGE ALAS CHIRICANAS",
+    "lead_preview": "Panama, 21 aprile 2026. Le autorità di Panama hanno ottenuto l’estradizione dal Venezuela di un uomo accusato di essere ",
+    "tags": [
+      "estradizione jalil",
+      "attentato alas chiricanas",
+      "hezbollah panama"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "36b85278ecd8d51e",
     "slug": "marina-usa-sequestra-nave-touska-nel-golfo-di-oman-36b85278ecd8d51e",
     "title": "Marina USA confisca il cargo Touska nel Golfo di Oman: l'Iran grida alla pirateria",
@@ -8648,25 +8667,6 @@
       "fiera del libro",
       "marcello fois",
       "bianca berlinguer"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2cac39cc937cb54",
-    "slug": "ex-procuratore-di-bari-giuseppe-volpe-svela-i-segr-b2cac39cc937cb54",
-    "title": "Giuseppe Volpe pubblica il suo libro di confidenze sulla giustizia Italiana",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-17T15:24:03.009991+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/e7ade3b14fd57dc90094a833d7c3abb2.jpg",
-    "occhiello": "VOLPE RIVELA SECRETI DELLA GIOSTI IN LIBRO",
-    "lead_preview": "Bari, 17 aprile. ex procuratore della Repubblica Giuseppe Volpe ha pubblicato il suo primo libro, promettendo di svelare",
-    "tags": [
-      "giustizia italiana",
-      "libro volpe",
-      "procuratore volpe"
     ],
     "hero_eligible": true
   }
