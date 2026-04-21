@@ -1,5 +1,24 @@
 [
   {
+    "id": "78cd309a9ee87df7",
+    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
+    "title": "Genova: guasto blocca la navetta col Viceministro Rixi e la Sindaca Salis al cantiere ferroviario",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-20T11:30:16.041695+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
+    "occhiello": "NAVETTA BLOCCATA AL CANTIERE",
+    "lead_preview": "Genova, 20 aprile. Un guasto tecnico ha bloccato oggi la navetta utilizzata per il sopralluogo istituzionale al cantiere",
+    "tags": [
+      "sestuplicamento ferroviario",
+      "rixi salis",
+      "genova cantiere"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e933feaaed28385b",
     "slug": "calcio-julian-nagelsmann-guida-il-bayern-a-161-gol-e933feaaed28385b",
     "title": "Calcio: Lewandowski segna al 23'",
@@ -3303,25 +3322,6 @@
       "negoziati cuba-usa",
       "diplomazia avana",
       "cuba 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78cd309a9ee87df7",
-    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
-    "title": "Bloccata la navetta di Mauceri e Rixi",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-20T11:30:16.041695+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
-    "occhiello": "GUASTO ALLA NAVETTA DEL CANTIERE FERROVIARIO DI GENOVA",
-    "lead_preview": "Genova, 20 aprile. Un guasto tecnico ha bloccato oggi la navetta utilizzata per il sopralluogo istituzionale al cantiere",
-    "tags": [
-      "guasto navetta genova",
-      "sestuplicamento nodo genova",
-      "mauceri rixi bloccati"
     ],
     "hero_eligible": true
   },
