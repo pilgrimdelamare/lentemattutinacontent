@@ -1,5 +1,24 @@
 [
   {
+    "id": "ba5e899445a0a92c",
+    "slug": "libano-hezbollah-abbatte-la-linea-gialla-al-confin-ba5e899445a0a92c",
+    "title": "Libano: Hezbollah sfida Israele e promette di abbattere la \"linea gialla\" al confine",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-20T13:52:35.146662+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/ba398b69996908e7de49ce09f63ae14d.jpg",
+    "occhiello": "HEZBOLLAH SFIDA LA ZONA CUSCINETTO ISRAELIANA IN LIBANO",
+    "lead_preview": "Beirut, 20 aprile. Hezbollah ha annunciato di voler abbattere la \"linea gialla\" tracciata da Israele lungo il confine me",
+    "tags": [
+      "conflitto israele libano",
+      "hezbollah",
+      "crisi libano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Blackout dell'intelligenza artificiale di anthropic a san francisco",
@@ -3016,21 +3035,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/3/1efc1deb3571b31f0aab49278ca6ad39.jpg",
     "occhiello": "RIAVVIATO IL TRAFFICO AEREO NELLA CAPITALE IRANIANA",
     "lead_preview": "Teheran, 20 aprile. L'autorità aeronautica iraniana ha comunicato la riapertura dei due principali aeroporti civili dell",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ba5e899445a0a92c",
-    "slug": "libano-hezbollah-abbatte-la-linea-gialla-al-confin-ba5e899445a0a92c",
-    "title": "Hezbollah abbatte la linea gialla in Libano: sfida aperta a Israele",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-20T13:52:35.146662+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/ba398b69996908e7de49ce09f63ae14d.jpg",
-    "occhiello": "HEZBOLLAH DEMOLISCE LA LINEA GIALLA AL CONFINE CON ISRAELE",
-    "lead_preview": "Beirut, 20 aprile. Hezbollah ha annunciato di voler abbattere la \"linea gialla\" tracciata da Israele lungo il confine me",
     "tags": [],
     "hero_eligible": true
   },
