@@ -1,5 +1,23 @@
 [
   {
+    "id": "299fb55c8c1d6782",
+    "slug": "ursula-von-der-leyen-valuta-la-fine-del-patto-di-s-299fb55c8c1d6782",
+    "title": "Von der Leyen cancella i limiti a debito e deficit: addio al Patto di Stabilità",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-21T14:18:32.765451+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5d4bbc4e0529353a1ca704b1bb58e80e.jpg",
+    "occhiello": "BRUXELLES VALUTA LA SOSPENSIONE DELLE REGOLE DI BILANCIO EUROPEE",
+    "lead_preview": "Roma, 21 aprile. Ursula von der Leyen, Presidente della Commissione Europea, starebbe valutando la sospensione del Patto",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c286fec7d73b6935",
     "slug": "bilawal-bhutto-zardari-chiede-supporto-statunitens-c286fec7d73b6935",
     "title": "Pakistan chiede aiuti Usa per combattere inflazione e instabilità",
@@ -1224,25 +1242,6 @@
       "dimissioni davide vaira",
       "pisa serie a",
       "cambio ds pis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "299fb55c8c1d6782",
-    "slug": "ursula-von-der-leyen-valuta-la-fine-del-patto-di-s-299fb55c8c1d6782",
-    "title": "Ursula von der Leyen valuta la fine del Patto di Stabilità se la guerra continua",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-21T14:18:32.765451+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5d4bbc4e0529353a1ca704b1bb58e80e.jpg",
-    "occhiello": "TAJANI: \"L'UE VALUTA STOP AL PATTO SE LA GUERRA CONTINUA\"",
-    "lead_preview": "Roma, 21 aprile. Il Presidente della Commissione Europea, Ursula von der Leyen, avrebbe valutato di porre fine al Patto ",
-    "tags": [
-      "patto di stabilità",
-      "guerra ucraina",
-      "von der leyen"
     ],
     "hero_eligible": true
   },
