@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 20 aprile 2026",
+  "title": "Le prime pagine di oggi, martedì 21 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 20 aprile 2026",
-    "Le prime pagine di oggi, lunedì 20 aprile 2026",
-    "Le prime pagine di oggi, lunedì 20 aprile 2026"
+    "Le prime pagine di oggi, martedì 21 aprile 2026",
+    "Le prime pagine di oggi, martedì 21 aprile 2026",
+    "Le prime pagine di oggi, martedì 21 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 20 APRILE 2026",
-  "lead": "I quotidiani italiani si concentrano sull’escalation tra Usa e Iran nello Stretto di Hormuz, con titoli che descrivono tensioni diplomatiche, minacce reciproche e richieste di mediazione internazionale. Sky Go promuove offerte per i decoder, mentre Gazzetta dello Sport e Corriere dello Sport dedicano spazio alla vittoria della Juventus in campionato.",
-  "corpo1": "Sky Go in apertura annuncia la prova gratuita del decoder Sky Stream. Repubblica, La Stampa, Corriere della Sera e Il Messaggero titolano sull’intensificarsi del conflitto Usa-Iran, con focus sulle minacce di Trump e sulle posizioni iraniane. Il Fatto Quotidiano descrive lo “stallo” tra le due parti e l’atteggiamento dell’Onu. Gazzetta dello Sport e Corriere dello Sport dedicano le prime pagine alla vittoria in campionato di Milan e Juventus, anticipando la Champions League. Il Sole 24 Ore menziona l’intervista a Giuseppe Conte sul ruolo dell’Italia nello Stretto. L’Unità e Avvenire si concentrano su cronache nazionali e dibattiti politici.",
-  "corpo2": "I quotidiani regionali e la stampa sportiva approfondiscono i risultati calcistici e i dettagli delle partite. La cronaca locale accompagna le analisi geopolitiche. Il tema dominante rimane la crescente instabilità nel Medio Oriente, con un focus su interventi militari e negoziati falliti.",
+  "occhiello": "LE PRIME PAGINE 21 APRILE 2026",
+  "lead": "I quotidiani italiani di martedì 21 aprile 2026 sono concentrati sullo sviluppo della crisi in Medio Oriente, con riferimento ai negoziati tra Stati Uniti e Iran in corso in Pakistan e alle dichiarazioni di Trump. Contestualmente, l’inchiesta sulla cosiddetta \"fabbrica dei dossieraggi\" e il coinvolgimento dell’ex numero due dei Servizi, Del Deo, occupa ampio spazio. Qualche giornale dedica il verticale alla politica interna e al Salone del Mobile, mentre altri aprono sulla semifinale di Coppa Italia.",
+  "corpo1": "La prima pagina di 3 titola sulla guerra in Medio Oriente con \"L'Iran frena sui negoziati\" e riporta le parole di Trump: \"Intesa o bombardo\". In Italia, si parla di perquisizioni a Roma e Milano nell’ambito dell’inchiesta sui servizi segreti, con Del Deo indagato per peculato. Quella di 4 apre con \"Iran, il giorno della verità\", riferendosi al secondo round di colloqui in Pakistan tra Usa e rappresentanti iraniani, mentre Trump minaccia attacchi aerei in caso di mancato accordo. Anche qui si segnala l’indagine su Del Deo per spionaggio illegale. Il quotidiano torinese 5 titola \"Oggi faccio la pace\" attribuendo la frase a Trump, e rileva la contraddizione interna ai Pasdaran; Vance è in viaggio per il Pakistan. Tra gli altri temi, Schlein sulla dipendenza energetica da Putin e l’inchiesta su Del Deo. 6 dedica il verticale all’inchiesta sulla \"fabbrica dei dossieraggi\", con perquisizioni all’ex dirigente del Dis e l’ipotesi di una rete clandestina di ex 007. 7 titola \"Patto Ue-Israele, il bluff di Meloni\", sottolineando il no dell’Italia a una revoca del memorandum, contrariamente a Francia, Spagna e altri 18 paesi. 8 e 9 aprono sulla semifinale di Coppa Italia tra Inter e Como, con Chivu e Fabregas al centro delle cronache calcistiche. 11 riporta il titolo \"Iran richiesto lo Scritto\", senza ulteriori dettagli.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-20T05:46:10.273788+00:00",
+  "published_at": "2026-04-21T05:45:46.595031+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/556e62b2d79d01a3832f30c938deb03df69e5291/skytg24/it/cronaca/2026/04/20/prime-pagine-quotidiani-oggi-20-aprile/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/86ce9d2645c713b8ab079fd68ea81225ff1c3229/skytg24/it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/20/prime-pagine-quotidiani-oggi-20-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 20 aprile 2026",
+      "title": "Oroscopo di oggi, martedì 21 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Roma: esercenti a rischio blocco Pos se non collegano i registratori entro lunedì",
-      "url": "/economia/pos-e-cassa-telematici-domani-scade-il-termine-per-5ea98d97461cb4d4",
-      "id": "5ea98d97461cb4d4",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/17/111756731-96a86390-de15-4bc4-906e-8434985a08ca.jpg",
+      "title": "USA sequestrano nave Touska con lista di 3165 pagine: Iran sfida Washington",
+      "url": "/esteri/iran-negozia-a-islamabad-mentre-gli-usa-sequestran-a440d01b7b98543c",
+      "id": "a440d01b7b98543c",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/7/11/cb65fa3c10e770b851f9cd5db4a9e468.jpg",
       "image_type": "image"
     },
     {
-      "title": "Il Delitto del Terzo Piano arriva in 427 sale italiane da oggi",
-      "url": "/cultura/esce-il-delitto-del-3-piano-il-thriller-alla-hitch-fa8c14c5938829f1",
-      "id": "fa8c14c5938829f1",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/17/7fffc75770fea216e141d084d5d8d604.jpg",
-      "image_type": "image"
+      "title": "Basket: Playoff NBA, Boston, OKC, Orlando e San Antonio vincono le prime sfide!",
+      "url": "/sport/basket-boston-oklahoma-orlando-e-san-antonio-vinco-046065a4743c8bf0",
+      "id": "046065a4743c8bf0",
+      "image_url": "https://sport.sky.it/assets/images/06c44eb381424b5021cb8e6beb4797a33ef76f82/skysport/it/nba/video/2026/04/20/1091619_1776690463212_thumb_494.0000001_1776690879999.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
