@@ -1,5 +1,23 @@
 [
   {
+    "id": "e8170efc96ceead9",
+    "slug": "eurostat-valuta-il-deficit-il-3-del-pil-decide-il-e8170efc96ceead9",
+    "title": "Italia supera il 3% di deficit: Eurostat avvisa Roma, ora serve un piano di rientro",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T08:55:34.290467+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/4/8273e421ef0bc0d6f708c689a5f8da7a.jpg",
+    "occhiello": "IL DEFICIT ITALIANO SUPERA LA SOGLIA DEL TRE PER CENTO",
+    "lead_preview": "Roma, 22 aprile 2026. Eurostat, l'ufficio statistico dell'Unione Europea – pubblica domani i dati definitivi relativi al",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f3f13188d1ed8111",
     "slug": "sagitta-alter-addio-alla-compagna-di-gigi-proietti-f3f13188d1ed8111",
     "title": "Sagitta Alter, compagna di Gigi Proietti, muore a Roma a 85 anni",
@@ -3171,23 +3189,6 @@
     "lead_preview": "Milano, 21 aprile. Piazza Affari chiude la seduta di martedì con un incremento dello 0,25 per cento, muovendosi in terri",
     "tags": [
       "borsa italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e8170efc96ceead9",
-    "slug": "eurostat-valuta-il-deficit-il-3-del-pil-decide-il-e8170efc96ceead9",
-    "title": "Deficit Italia oltre il 3% del PIL: Eurostat pubblica domani i dati shock",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-21T08:55:34.290467+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/4/8273e421ef0bc0d6f708c689a5f8da7a.jpg",
-    "occhiello": "DEFICIT ITALIA SOPRA IL 3% DEL PIL",
-    "lead_preview": "Roma, 22 aprile 2026. L'ufficio statistico dell'Unione Europea, Eurostat, pubblica domani i dati definitivi sul deficit ",
-    "tags": [
-      "deficit italia"
     ],
     "hero_eligible": true
   },
