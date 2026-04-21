@@ -1,5 +1,24 @@
 [
   {
+    "id": "d9566946a1fc7c3d",
+    "slug": "cuba-e-usa-aprono-negoziati-a-lavana-dialogo-tecni-d9566946a1fc7c3d",
+    "title": "La Cuba offre all'America un piano per cancellare i debiti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-20T19:55:30.127579+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/6872497009fa5cdb75ac3da9188a8679.jpg",
+    "occhiello": "Cuba negozia con gli Stati Uniti",
+    "lead_preview": "L'Avana, 20 aprile.",
+    "tags": [
+      "cuba debiti",
+      "cuba stati uniti",
+      "negoziazione cuba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e8085ed7f87d260a",
     "slug": "50-diorami-lego-invadono-il-municipio-di-cagliari-e8085ed7f87d260a",
     "title": "Lego Diorami invadono Municipio di Cagliari, 50 nuove abitanti",
@@ -2988,23 +3007,6 @@
       "premio acepi 2026",
       "comunicazione finanziaria",
       "educazione finanziaria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9566946a1fc7c3d",
-    "slug": "cuba-e-usa-aprono-negoziati-a-lavana-dialogo-tecni-d9566946a1fc7c3d",
-    "title": "Cuba negozia con Usa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-20T19:55:30.127579+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/6872497009fa5cdb75ac3da9188a8679.jpg",
-    "occhiello": "CUBA E STATI UNITI RIAPRONO DIALOGO",
-    "lead_preview": "L'Avana, 20 aprile. Cuba ha confermato ufficialmente l'avvio di negoziati diretti con gli Stati Uniti.",
-    "tags": [
-      "cuba usa"
     ],
     "hero_eligible": true
   },
