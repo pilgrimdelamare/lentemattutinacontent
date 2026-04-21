@@ -1,5 +1,20 @@
 [
   {
+    "id": "ec3ef41ff1f97902",
+    "slug": "rio-sparatoria-in-favela-blocca-i-turisti-operazio-ec3ef41ff1f97902",
+    "title": "Rio, scontro a fuoco a Vidigal: polizia colpisce i narcos e blocca i turisti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-20T14:14:39.440116+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/18/db525c470f480e7a6c6886ba95c66eac.jpg",
+    "occhiello": "TURISTI BLOCCATI NEL FUOCO INCROCIATO DELLA FAVELA VIDIGAL",
+    "lead_preview": "Rio de Janeiro, 20 aprile. Un blitz della polizia brasiliana contro gruppi legati al narcotraffico ha bloccato diversi t",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT si blocca per 85 minuti, milioni di utenti fuori gioco",
@@ -3204,25 +3219,6 @@
     "occhiello": "DOSSIER E INTERESSI PRIVATI GESTITI DALL'UOMO DEI SERVIZI",
     "lead_preview": "Roma, 20 aprile 2026. Del Deo, figura di primo piano dei Servizi segreti italiani, è al centro di un’analisi investigati",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ec3ef41ff1f97902",
-    "slug": "rio-sparatoria-in-favela-blocca-i-turisti-operazio-ec3ef41ff1f97902",
-    "title": "Rio, sparatoria in favela blocca turisti: polizia contro narcotrafficanti a Vidigal",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-20T14:14:39.440116+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/18/db525c470f480e7a6c6886ba95c66eac.jpg",
-    "occhiello": "TURISTI BLOCCATI NEL FUOCO INCROCIATO DELLE FAVELAS BRASILIANE",
-    "lead_preview": "Rio de Janeiro, 20 aprile. Un blitz della polizia contro gruppi legati al narcotraffico ha bloccato diversi turisti nell",
-    "tags": [
-      "sparatoria rio",
-      "favela vidigal",
-      "narcotraffico brasil"
-    ],
     "hero_eligible": true
   },
   {
