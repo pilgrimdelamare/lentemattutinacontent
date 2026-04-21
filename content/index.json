@@ -1,5 +1,24 @@
 [
   {
+    "id": "3b90eda0fb28ea6c",
+    "slug": "vicenza-orbita-spellbound-debutta-col-balletto-the-3b90eda0fb28ea6c",
+    "title": "La Sleeping Queen tocca terra a Vicenza",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-21T17:32:20.474005+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/1cc537531b0b0ad365b6023541410c6e.jpg",
+    "occhiello": "IL TEATRO COMUNALE DI VICENZA OSPITA L'ORBITA SPELLBOUND",
+    "lead_preview": "Vicenza, 21 aprile 2026. Il Teatro Comunale di Vicenza accoglie la prima nazionale di The Sleeping Queen, nuova produzio",
+    "tags": [
+      "teatro vicenza",
+      "sleeping queen",
+      "orbita spellbound"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c44eb3af82a91b0c",
     "slug": "torino-resta-senza-asfalto-la-crisi-in-iran-blocca-c44eb3af82a91b0c",
     "title": "Torino ferma i cantieri: il Sindaco incolpa l'Iran, ma i ritardi erano già in arrivo",
@@ -1064,25 +1083,6 @@
     "tags": [
       "artevento",
       "cervia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3b90eda0fb28ea6c",
-    "slug": "vicenza-orbita-spellbound-debutta-col-balletto-the-3b90eda0fb28ea6c",
-    "title": "Vicenza: Orbita Spellbound debutta col balletto The Sleeping Queen al Comunale",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-21T17:32:20.474005+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/1cc537531b0b0ad365b6023541410c6e.jpg",
-    "occhiello": "LA DANZA CONTEMPORANEA DEBUTTA A VICENZA TRA PUBBLICO E MARKETING",
-    "lead_preview": "Vicenza, 21 aprile 2026. Il Teatro Comunale di Vicenza ospita la prima nazionale di The Sleeping Queen, nuova produzione",
-    "tags": [
-      "the sleeping queen",
-      "orbita spellbound",
-      "teatro comunale vicenza"
     ],
     "hero_eligible": true
   },
