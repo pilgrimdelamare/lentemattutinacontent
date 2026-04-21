@@ -1,5 +1,23 @@
 [
   {
+    "id": "a8e3d8c35a55b3c8",
+    "slug": "il-poligrafico-presenta-una-medaglia-darte-per-il-a8e3d8c35a55b3c8",
+    "title": "Roma: lo Stato conia una Medaglia inutile mentre le famiglie affogano nell'inflazione",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T12:07:56.798879+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/e2008e16666aac0932525a0c8b33f950.jpg",
+    "occhiello": "IL POLIGRAFICO CELEBRA ROMA MENTRE IL POTERE D'ACQUISTO CROLLA",
+    "lead_preview": "Roma, 21 aprile. Il Poligrafico dello Stato ha presentato una Medaglia d'arte in occasione del 2779° compleanno della ci",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e8c264117bfe43b6",
     "slug": "rai3-trasmette-il-documentario-she-sulle-operaie-v-e8c264117bfe43b6",
     "title": "Documentario She su Rai3 svela lo sfruttamento di operaie vietnamite in Italia",
@@ -2813,25 +2831,6 @@
       "sanremo junior",
       "gran prix 2026",
       "russa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a8e3d8c35a55b3c8",
-    "slug": "il-poligrafico-presenta-una-medaglia-darte-per-il-a8e3d8c35a55b3c8",
-    "title": "Poligrafico dello Stato presenta Medaglia d'Arte per il 2779° compleanno di Roma",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-21T12:07:56.798879+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/e2008e16666aac0932525a0c8b33f950.jpg",
-    "occhiello": "LA POLIGRAFICA PRESENTE UNA MEDAGLIA D'ARTE PER ROMA",
-    "lead_preview": "Roma, 21 aprile. Il Poligrafico dello Stato ha presentato una Medaglia d'arte per il 2779° compleanno della capitale.",
-    "tags": [
-      "roma",
-      "medaglia d'arte",
-      "poligrafico dello stato"
     ],
     "hero_eligible": true
   },
