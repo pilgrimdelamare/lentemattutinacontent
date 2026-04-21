@@ -1,5 +1,24 @@
 [
   {
+    "id": "78acfec31504adad",
+    "slug": "dow-jones-schizza-il-045-78acfec31504adad",
+    "title": "Dow Jones Schizza il 0,45%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-21T14:05:49.786923+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
+    "occhiello": "RIALZO DI WALL STREET: S 500 SALE DEL 0,09%",
+    "lead_preview": "Roma, 21 aprile. La Borsa di New York ha aperto in rialzo, con il il Dow Jones in aumento del 0,45% e il il Nasdaq del 0",
+    "tags": [
+      "dow jones",
+      "wall street",
+      "borsa new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "92b0ac631f5239dd",
     "slug": "randall-goosby-debutta-con-la-filarmonica-romana-a-92b0ac631f5239dd",
     "title": "Randall Goosby debutta con la Filarmonica Romana al Teatro Argentina",
@@ -8831,24 +8850,6 @@
       "minacce online bruzzone",
       "educazione affettiva genova",
       "assessora bruzzone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0192b5462e10a76c",
-    "slug": "calcio-allegri-punta-solo-sulla-champions-rinvia-o-0192b5462e10a76c",
-    "title": "Allegri blocca il mercato del Milan in attesa della qualificazione all'Europa League",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-18T12:03:25.249542+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/5a99447f8b13e490a719da2116bbe34f2c9894fd/skysport/it/calcio/serie-a/video/2026/04/18/1091047_1776510777340_thumb_494.0000001_1776511380994.jpg",
-    "occhiello": "ALLEGHI IN ATTESA: NESSUN MERCATO SENZA EUROPA",
-    "lead_preview": "Roma, 18 aprile 2026. Massimiliano Allegri ha chiarito le sue priorità in merito al mercato del Milan durante un incontr",
-    "tags": [
-      "mercato milan",
-      "europa league"
     ],
     "hero_eligible": true
   }
