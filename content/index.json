@@ -1,5 +1,23 @@
 [
   {
+    "id": "6fa7f0fba00b8d30",
+    "slug": "wall-street-cede-nasdaq--041-e-sp-500--025-i-merca-6fa7f0fba00b8d30",
+    "title": "Nasdaq perde lo 0,41% e trascina Wall Street in rosso",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-20T14:18:53.400568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
+    "occhiello": "NASDAQ E S&P 500 IN ROSSO A NEW YORK",
+    "lead_preview": "New York, 20 aprile 2026. Wall Street ha aperto la seduta odierna in territorio negativo, segnando un avvio di contratta",
+    "tags": [
+      "wall street",
+      "borsa new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9883e4c9a2868e6e",
     "slug": "gheorghe-hagi-prende-il-comando-della-romania-per-9883e4c9a2868e6e",
     "title": "Hagi prende il comando della Romania per salvare una nazionale in crisi",
@@ -3171,21 +3189,6 @@
     "image_url": "https://sport.sky.it/assets/images/0cb2e035b936c999d2f65cece85b31246050bcae/skysport/it/nba/video/2026/04/20/1091626_1776691416960_thumb_494.0000001_1776691452467.jpg",
     "occhiello": "WEMBANYAMA DOMINA E I SAN ANTONIO SPURS IPOTECANO IL PASSAGGIO",
     "lead_preview": "San Antonio, 20 aprile 2026 Victor Wembanyama ha trascinato i San Antonio Spurs al successo in Gara-1 dei playoff NBA co",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6fa7f0fba00b8d30",
-    "slug": "wall-street-cede-nasdaq--041-e-sp-500--025-i-merca-6fa7f0fba00b8d30",
-    "title": "Wall Street crolla: Nasdaq perde lo 0,41% e l'S&P 500 precipita a New York",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-20T14:18:53.400568+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
-    "occhiello": "WALL STREET IN ROSSO: NASDAQ E S&P 500 SOTTO PRESSIONE",
-    "lead_preview": "New York, 20 aprile 2026 – Wall Street ha aperto la seduta odierna in territorio negativo, segnando un avvio di contratt",
     "tags": [],
     "hero_eligible": true
   },
