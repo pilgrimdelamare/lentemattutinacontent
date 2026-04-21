@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT si blocca per 85 minuti, milioni di utenti fuori gioco",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-20T16:49:25.343238+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE PER OLTRE UN'ORA",
+    "lead_preview": "San Francisco, 20 aprile. ChatGPT, il popolare sistema di intelligenza artificiale sviluppato da OpenAI, ha interrotto l",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4344c24e4afd3159",
     "slug": "milei-a-gerusalemme-sostegno-totale-a-israele-cont-4344c24e4afd3159",
     "title": "Milei vola a Gerusalemme: patto d'acciaio con Israele contro Hezbollah",
@@ -3204,23 +3222,6 @@
       "sparatoria rio",
       "favela vidigal",
       "narcotraffico brasil"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT crolla per 85 minuti: blocco totale del servizio in tutto il mondo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-20T16:49:25.343238+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "BLACKOUT TOTALE DI CHATGPT: 85 MINUTI DI INATTIVITÀ GLOBALE",
-    "lead_preview": "San Francisco, 20 aprile. Il sistema di intelligenza artificiale ChatGPT ha smesso di rispondere alle richieste degli ut",
-    "tags": [
-      "blackout chatgpt"
     ],
     "hero_eligible": true
   },
