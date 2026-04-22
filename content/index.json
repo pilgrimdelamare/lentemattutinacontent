@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 22 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-22T05:51:37.240709+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/503eec80c4d317d10bd1f70477201e45751c9b5b/skytg24/it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile/Composite_22_aprile.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 22 APRILE 2026",
+    "lead_preview": "I quotidiani di oggi si concentrano in gran parte sullo scontro diplomatico tra Italia e Russia, scatenato dagli insulti",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3658e04f9b2bf9ec",
     "slug": "basket-philadelphia-travolge-boston-111-97-e-ipote-3658e04f9b2bf9ec",
     "title": "Basket: Philadelphia travolge Boston 111-97 e ipoteca la Serie playoff al TD Garden",
@@ -4547,25 +4566,6 @@
       "autostrada asti-cuneo",
       "cirio annuncia taglio",
       "progetto bloccato piemonte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 21 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-21T05:45:46.595031+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/86ce9d2645c713b8ab079fd68ea81225ff1c3229/skytg24/it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 21 APRILE 2026",
-    "lead_preview": "I quotidiani italiani di martedì 21 aprile 2026 sono concentrati sullo sviluppo della crisi in Medio Oriente, con riferi",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
