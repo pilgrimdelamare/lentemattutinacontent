@@ -1,5 +1,24 @@
 [
   {
+    "id": "1f3dc6c787e9bd64",
+    "slug": "essilorluxottica-lancia-a-montecarlo-gli-occhiali-1f3dc6c787e9bd64",
+    "title": "EssilorLuxottica presenta a Monte Carlo occhiali con intelligenza artificiale integrata",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-21T14:54:25.923909+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e787f0d0c39b0a34de8e2d/16:9/w_1280,c_limit/1693897618",
+    "occhiello": "ESSILORLUXOTTICA PRESENTA IL PROGETTO SWITCH NEL PRINCIPATO DI MONACO",
+    "lead_preview": "Monte Carlo, 21 aprile 2026. Il gruppo EssilorLuxottica ha presentato la propria visione tecnologica durante l’evento Sw",
+    "tags": [
+      "essilorluxottica",
+      "progetto switch",
+      "occhiali intelligenza artificiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "601bb31251141600",
     "slug": "milei-annuncia-la-fine-delle-primarie-in-argentina-601bb31251141600",
     "title": "Milei cancella le primarie in Argentina: meno costi, più riforme",
@@ -3054,25 +3073,6 @@
       "tour of the alps",
       "giulio pellizzari",
       "ciclismo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1f3dc6c787e9bd64",
-    "slug": "essilorluxottica-lancia-a-montecarlo-gli-occhiali-1f3dc6c787e9bd64",
-    "title": "EssilorLuxottica sfida gli smartphone: nuovi occhiali AI rivoluzionano la vista a Monte Carlo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-21T14:54:25.923909+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e787f0d0c39b0a34de8e2d/16:9/w_1280,c_limit/1693897618",
-    "occhiello": "ESSILORLUXOTTICA PRESENTA A MONTECARLO IL PROGETTO PER SOSTITUIRE GLI SMARTPHONE",
-    "lead_preview": "Monte Carlo, 21 aprile 2026. Il gruppo EssilorLuxottica ha presentato la sua visione tecnologica durante l’evento Switch",
-    "tags": [
-      "essilorluxottica",
-      "occhiali ai",
-      "evento switch"
     ],
     "hero_eligible": true
   },
