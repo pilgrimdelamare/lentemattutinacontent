@@ -1,29 +1,26 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut",
+  "title": "200 Famiglie al gelo: cyberattacco blocca il gas in Lombardia e Veneto",
   "titles": [
-    "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut",
-    "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut",
-    "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut"
+    "200 Famiglie al gelo: cyberattacco blocca il gas in Lombardia e Veneto",
+    "Cyberterroristi in azione: tre arresti dopo il blackout che paralizza il gas",
+    "500Mila euro bruciati: l’attacco al gas costringe lo Stato a rimborsare cittadini e aziende"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RITORNATO ONLINE DOPO 151 MINUTI DI INTERRUZIONE",
-  "lead": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avuto inizio alle 14:30 e si è conclusa alle 17:41. L'accesso è ora pienamente ripristinato per tutti gli utenti.",
-  "corpo1": "Il disservizio di ChatGPT è iniziato alle 14:30, causando un'interruzione del servizio per un totale di 151 minuti. Dopo una serie di interventi tecnici mirati a risolvere il problema, il servizio è stato ripristinato alle 17:41. L'interruzione è stata dovuta a un problema tecnico imprevisto che ha richiesto un'attenta analisi e correzione da parte dell'equipe di supporto tecnico. Tutti gli utenti possono ora accedere nuovamente al servizio senza alcuna limitazione. L'azienda ringrazia gli utenti per la pazienza e si impegna a migliorare ulteriormente la resilienza del sistema per prevenire future interruzioni.",
-  "corpo2": "",
+  "occhiello": "ARRESTI DOPO ATTACCO SABOTAGGIO RETE GAS, 200 CLIENTI SENZA FORNITURA",
+  "lead": "Roma, 22 aprile 2026, quando il Paese si sveglia con un blackout digitale che brucia anche le vene del gas. Un attacco informatico ha paralizzato la rete di distribuzione del gas nazionale, lasciando al buio 200 famiglie tra Lombardia e Veneto il 21 aprile. L'attacco, definito sabotaggio da chi dovrebbe proteggerci, ha portato a tre arresti dopo un’indagine lampo delle forze dell’ordine.",
+  "corpo1": "Secondo la polizia postale, l’attacco ha sfruttato una falla nel sistema di gestione delle pompe di compressione, bloccando l’erogazione del gas come un rubinetto chiuso a chiave. Le ripercussioni sono state immediate per i cittadini di Lombardia e Veneto, rimasti senza gas per ore mentre le istituzioni si affannavano a trovare una soluzione. L’Autorità per l’energia ha calcolato una perdita economica diretta di 500.000 euro, tra costi di riparazione e rimborsi ai clienti — una cifra che peserà sulle spalle di chi già fatica ad arrivare a fine mese.\n\nLe indagini hanno portato all’arresto di tre cybercriminali, membri di un gruppo già noto per le sue operazioni di cybercrime, ma che nessuno sembra in grado di fermare prima che sia troppo tardi. L’operazione è stata possibile grazie al supporto tecnico dell’ENISA, l’agenzia UE per la cybersecurity, che ha analizzato il traffico dati durante l’attacco — ma a cosa serve se poi il danno è già fatto? L’ENISA ha puntato il dito sulla vulnerabilità zero-day sfruttata, chiedendo aggiornamenti urgenti per la sicurezza del settore energetico — ma chi ascolta davvero questi avvertimenti?",
+  "corpo2": "Che il settore energetico sia strategico lo sappiamo tutti, ma questo incidente dimostra quanto sia fragile anche di fronte a minacce informatiche apparentemente banali, capaci di paralizzare intere regioni. La dipendenza dalle infrastrutture digitali impone una sicurezza informatica senza precedenti, soprattutto in settori come l’energia — ma siamo davvero pronti a pagare il prezzo di questa fragilità? Che un gruppo di cybercriminali comuni sia riuscito a causare danni del genere rivela l’urgenza di investire non solo nella prevenzione, ma anche in una risposta agli incidenti che non arrivi sempre troppo tardi. La Corte d’appello ha confermato la colpevolezza dei tre sospettati, sottolineando quanto siano gravi gli attacchi informatici quando colpiscono infrastrutture critiche — ma la sentenza arriverà prima che qualcuno paghi davvero il conto? Se non verranno adottate misure preventive più stringenti, incidenti del genere non solo si ripeteranno, ma peggioreranno — perché chi dovrebbe proteggerci sembra sempre un passo indietro. Questo arresto dimostra che le forze dell’ordine sanno muoversi in fretta, ma evidenzia anche quanto sia fragile la nostra difesa informatica — e quanto sia inutile correre quando il danno è già fatto. La sicurezza del settore energetico ora dipende da due cose: misure tecnologiche e cooperazione internazionale — ma se queste ultime arrivano sempre dopo il disastro, a cosa servono davvero?",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
-  "published_at": "2026-04-22T03:39:53.760109+00:00",
+  "published_at": "2026-04-22T01:28:36.169209+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -31,33 +28,34 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"200 Famiglie al gelo: cyberattacco blocca il gas in Lombardia e Veneto\",\n  \"description\": \"Roma, 22 aprile 2026, quando il Paese si sveglia con un blackout digitale che brucia anche le vene del gas. Un attacco informatico ha paralizzato la rete di distribuzione del gas nazionale, lasciando al buio 200 famiglie tra Lombardia e Veneto il 21 aprile. L'attacco, definito sabotaggio da chi dovr\",\n  \"articleBody\": \"Roma, 22 aprile 2026, quando il Paese si sveglia con un blackout digitale che brucia anche le vene del gas. Un attacco informatico ha paralizzato la rete di distribuzione del gas nazionale, lasciando al buio 200 famiglie tra Lombardia e Veneto il 21 aprile. L'attacco, definito sabotaggio da chi dovrebbe proteggerci, ha portato a tre arresti dopo un’indagine lampo delle forze dell’ordine. Secondo la polizia postale, l’attacco ha sfruttato una falla nel sistema di gestione delle pompe di compressione, bloccando l’erogazione del gas come un rubinetto chiuso a chiave. Le ripercussioni sono state immediate per i cittadini di Lombardia e Veneto, rimasti senza gas per ore mentre le istituzioni si affannavano a trovare una soluzione. L’Autorità per l’energia ha calcolato una perdita economica diretta di 500.000 euro, tra costi di riparazione e rimborsi ai clienti — una cifra che peserà sulle spalle di chi già fatica ad arrivare a fine mese.\\n\\nLe indagini hanno portato all’arresto di tre cybercriminali, membri di un gruppo già noto per le sue operazioni di cybercrime, ma che nessuno sembra in grado di fermare prima che sia troppo tardi. L’operazione è stata possibile grazie al supporto tecnico dell’ENISA, l’agenzia UE per la cybersecurity, che ha analizzato il traffico dati durante l’attacco — ma a cosa serve se poi il danno è già fatto? L’ENISA ha puntato il dito sulla vulnerabilità zero-day sfruttata, chiedendo aggiornamenti urgenti per la sicurezza del settore energetico — ma chi ascolta davvero questi avvertimenti? Che il settore energetico sia strategico lo sappiamo tutti, ma questo incidente dimostra quanto sia fragile anche di fronte a minacce informatiche apparentemente banali, capaci di paralizzare intere regioni. La dipendenza dalle infrastrutture digitali impone una sicurezza informatica senza precedenti, soprattutto in settori come l’energia — ma siamo davvero pronti a pagare il prezzo di questa fragilità? Che un gruppo di cybercriminali comuni sia riuscito a causare danni del genere rivela l’urgenza di investire non solo nella prevenzione, ma anche in una risposta agli incidenti che non arrivi sempre troppo tardi. La Corte d’appello ha confermato la colpevolezza dei tre sospettati, sottolineando quanto siano gravi gli attacchi informatici quando colpiscono infrastrutture critiche — ma la sentenza arriverà prima che qualcuno paghi davvero il conto? Se non verranno adottate misure preventive più stringenti, incidenti del genere non solo si ripeteranno, ma peggioreranno — perché chi dovrebbe proteggerci sembra sempre un passo indietro. Questo arresto dimostra che le forze dell’ordine sanno muoversi in fretta, ma evidenzia anche quanto sia fragile la nostra difesa informatica — e quanto sia inutile correre quando il danno è già fatto. La sicurezza del settore energetico ora dipende da due cose: misure tecnologiche e cooperazione internazionale — ma se queste ultime arrivano sempre dopo il disastro, a cosa servono davvero?\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-22T01:28:36.169209+00:00\",\n  \"dateModified\": \"2026-04-22T01:28:36.169209+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
-    {
-      "title": "Blackout dell'IA in Italia: milioni di utenti perdono ChatGPT, Gemini e Claude",
-      "url": "/tecnologia/chatgpt-gemini-e-claude-crollano-insieme-miliardi-c03885ef7c35586a",
-      "id": "c03885ef7c35586a",
-      "image_url": "https://media-assets.wired.it/photos/69e63ab9c9c88a05bf4b537b/16:9/w_1280,c_limit/2271123751",
-      "image_type": "image"
-    },
-    {
-      "title": "58% Dei lavoratori italiani usa ChatGPT e finisce per lavorare di più",
-      "url": "/tecnologia/ai-non-riduce-il-lavoro-58-usa-chatgpt-ma-ore-aume-23c3f314d5269872",
-      "id": "23c3f314d5269872",
-      "image_url": "https://media-assets.wired.it/photos/681b707a1161bde4efa98ca4/16:9/w_1280,c_limit/1371866602",
-      "image_type": "image"
-    },
     {
       "title": "EssilorLuxottica presenta a Monte Carlo occhiali con intelligenza artificiale integrata",
       "url": "/tecnologia/essilorluxottica-lancia-a-montecarlo-gli-occhiali-1f3dc6c787e9bd64",
       "id": "1f3dc6c787e9bd64",
       "image_url": "https://media-assets.wired.it/photos/69e787f0d0c39b0a34de8e2d/16:9/w_1280,c_limit/1693897618",
       "image_type": "image"
+    },
+    {
+      "title": "Floky lancia a Roma un dispositivo che riduce del 30% le vibrazioni in campo da Padel",
+      "url": "/tecnologia/padel-il-nuovo-manicotto-floky-riduce-le-vibrazion-8be4317bfe2d8ec0",
+      "id": "8be4317bfe2d8ec0",
+      "image_url": "https://media-assets.wired.it/photos/69b92fe52d82535d82945828/16:9/w_1280,c_limit/no%20strain%20evolution%20-%2006.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Blackout dell'IA in Italia: milioni di utenti perdono ChatGPT, Gemini e Claude",
+      "url": "/tecnologia/chatgpt-gemini-e-claude-crollano-insieme-miliardi-c03885ef7c35586a",
+      "id": "c03885ef7c35586a",
+      "image_url": "https://media-assets.wired.it/photos/69e63ab9c9c88a05bf4b537b/16:9/w_1280,c_limit/2271123751",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-22T01:28:36.169209+00:00"
 }
