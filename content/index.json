@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Gas spento per 200 case tra Veneto e Lombardia: attacco hacker colpisce Italgas",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-22T01:28:36.169209+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "MALWARE VAPOURLOCK DISATTIVA LA DISTRIBUZIONE DEL GAS",
+    "lead_preview": "Roma, 22 aprile 2026. Un attacco informatico ha interrotto il flusso di gas a 200 famiglie residenti in Lombardia e in V",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "00578d87b27e3c6b",
     "slug": "sostenibilita-corsi-di-laurea-schizzano-del-704-ma-00578d87b27e3c6b",
     "title": "Università, iscritti in crescita del 704% dal 2020 ma le assunzioni salgono solo del 2%",
@@ -2982,25 +2997,6 @@
     "tags": [
       "ridefinizione distretti",
       "elezioni virginia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Malware VapourLock colpisce Italgas: 200 famiglie in Lombardia e Veneto",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-22T01:28:36.169209+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CIBERATTACCO BLOCCA IL GAS A 200 FAMIGLIE",
-    "lead_preview": "Roma, 22 aprile 2026. Un attacco informatico ha interrotto il flusso di gas a 200 famiglie in Lombardia e Veneto, colpen",
-    "tags": [
-      "cyberattacco italgas",
-      "malware vapourlock",
-      "interruzione gas lombardia"
     ],
     "hero_eligible": true
   },
