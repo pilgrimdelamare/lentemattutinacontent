@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260422",
+    "slug": "libro-del-giorno-i-giorni-vetrodi-nicoletta-verna-20260422",
+    "title": "Il libro del giorno: «I giorni»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico corale tra fascismo e Resistenza nella Romagna del Novecento",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-22T07:00:22.264643+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170476-1b3df.jpg?1775668714",
+      "alt": "Copertina: I giorni",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170476-1b3df.jpg?1775668714",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "5d5b2f11d72095c3",
     "slug": "bookingcom-sotto-inchiesta-prenotazioni-truccate-p-5d5b2f11d72095c3",
     "title": "Booking.com sotto inchiesta: prenotazioni truccate per commissioni",
@@ -8805,25 +8824,6 @@
       "trattative trump-islamabad",
       "fondi scomparsi 2026",
       "delegazione usa pakistan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1323e4b83c02f0a",
-    "slug": "turchia-annuncia-ottimismo-per-estensione-dellacco-d1323e4b83c02f0a",
-    "title": "Turchia e Siria verso un cessate il fuoco stabile: trattative accelerate per accordo entro il",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-19T12:31:31.248782+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/6e3f57dec5f3bdc9ba9ff9568fa07994.jpg",
-    "occhiello": "ANKARA APRE ALLA PACE CON DAMASCO ENTRO FINE ANNO",
-    "lead_preview": "Ankara, 19 aprile. La Turchia La Turchia ha espresso ottimismo riguardo all'estensione dell'accordo di pace in Siria. Se",
-    "tags": [
-      "cessate il fuoco siria",
-      "trattative turchia-siria",
-      "pace ankaradamasco"
     ],
     "hero_eligible": true
   }
