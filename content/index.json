@@ -1,5 +1,24 @@
 [
   {
+    "id": "7ef3d8eda49733d3",
+    "slug": "tokyo-perde-lo-035-lincertezza-sullo-stretto-di-ho-7ef3d8eda49733d3",
+    "title": "Borsa di Tokyo sprofonda: -0,35% per la paura dello Stretto di Hormuz",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-22T00:48:46.368455+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
+    "occhiello": "TOKYO PERDE LO 0,35 PERCENTO PER I TIMORI DI HORMUZ",
+    "lead_preview": "Tokyo, 22 aprile – La piazza finanziaria giapponese archivia la seduta odierna con una flessione dello 0,35 percento, br",
+    "tags": [
+      "stretto di hormuz",
+      "borsa tokyo",
+      "crisi medio oriente"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5238e2cc1f9cd4f1",
     "slug": "ambasciata-italia-tokyo-celebra-2779-anni-roma-raf-5238e2cc1f9cd4f1",
     "title": "Ambasciata Italia Tokyo celebra 2779 anni Roma, rafforza cultura in Asia",
@@ -825,23 +844,6 @@
       "bronzo perini",
       "caso perini",
       "tribunale sport losanna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7ef3d8eda49733d3",
-    "slug": "tokyo-perde-lo-035-lincertezza-sullo-stretto-di-ho-7ef3d8eda49733d3",
-    "title": "Tokyo perde lo 0,35%: l'incertezza sullo Stretto di Hormuz spaventa i mercati",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-22T00:48:46.368455+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
-    "occhiello": "BORSA DI TOKYO IN CALO PER L'INCERTEZZA SU HORMUZ",
-    "lead_preview": "Tokyo, 22 aprile 2026. La piazza finanziaria giapponese archivia la seduta odierna con una flessione dello 0,35 percento",
-    "tags": [
-      "stretto di hormuz"
     ],
     "hero_eligible": true
   },
