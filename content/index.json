@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "200 Famiglie al gelo: cyberattacco blocca il gas in Lombardia e Veneto",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-22T01:28:36.169209+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "ARRESTI DOPO ATTACCO SABOTAGGIO RETE GAS, 200 CLIENTI SENZA FORNITURA",
+    "lead_preview": "Roma, 22 aprile 2026, quando il Paese si sveglia con un blackout digitale che brucia anche le vene del gas. Un attacco i",
+    "tags": [
+      "cyberattacco gas italia",
+      "sabotaggio rete gas",
+      "blackout digitale 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dca41ec0f806ddec",
     "slug": "virginia-vince-il-si-al-503-i-nuovi-distretti-camb-dca41ec0f806ddec",
     "title": "Virginia a dem: mappa elettorale stravolta, Trump perde 4 seggi",
@@ -17,25 +36,6 @@
       "ridistribuzione seggi"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-22T03:39:53.760109+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RITORNATO ONLINE DOPO 151 MINUTI DI INTERRUZIONE",
-    "lead_preview": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avuto inizio alle 14:30 e si è conclusa alle",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "fb269f06ac7c9f52",
