@@ -1,5 +1,20 @@
 [
   {
+    "id": "933c930694022775",
+    "slug": "tennis-sonego-esce-al-primo-turno-933c930694022775",
+    "title": "Tennis: Sonego esce al primo turno",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-22T15:43:34.902799+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/4e299b618046f67c349537193cd3a100b0a77397/skysport/it/tennis/video/2026/04/22/1092178_1776869678107_thumb_494.0000001_1776869834116.jpg",
+    "occhiello": "LORENZO SONEGO ELIMINATO AL PRIMO TURNO DEL MADRID OPEN",
+    "lead_preview": "Madrid, 22 aprile 2026. Lorenzo Sonego è stato eliminato al primo turno del torneo Madrid Open, battuto dal tennista ser",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7e2a6e56a4f7d1bd",
     "slug": "500-milioni-per-lex-ilva-flacks-esige-il-prestito-7e2a6e56a4f7d1bd",
     "title": "500 Milioni per l'ex ILVA: Flacks esige il prestito ponte per evitare il collasso",
@@ -8864,25 +8879,6 @@
       "tennis",
       "masters 1000",
       "sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ad66cbed36f17dc6",
-    "slug": "calcio-donnarumma-sbaglia-haaland-ne-approfitta-e-ad66cbed36f17dc6",
-    "title": "Calcio: Haaland sigla il gol della vittoria per il Manchester City",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T17:57:05.041361+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/21/19659ae423a89f381155b1608d4b8043.jpg",
-    "occhiello": "HAALAND SEGNA IN CASO DI ERRORE DI DONNARUMMA",
-    "lead_preview": "Manchester, 19 aprile.",
-    "tags": [
-      "calcio",
-      "haaland",
-      "manchester city"
     ],
     "hero_eligible": true
   }
