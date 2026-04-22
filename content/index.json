@@ -1,5 +1,23 @@
 [
   {
+    "id": "28aa1a04988fd788",
+    "slug": "iran-500-milioni-di-dollari-al-giorno-persi-nei-gu-28aa1a04988fd788",
+    "title": "Hormuz bloccato: l'economia globale perde 500 milioni di dollari al giorno",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-22T06:19:23.653078+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/86e672f867362b9ab7d71e85e5f2ebb0.jpg",
+    "occhiello": "CINQUECENTO MILIONI DI DOLLARI AL GIORNO BLOCCATI NELLO STRETTO",
+    "lead_preview": "Teheran, 22 aprile. L'Iran starebbe affrontando un profondo collasso finanziario causato dalla chiusura dello Stretto di",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ddfaeb68dba78ce",
     "slug": "unicredit-la-sede-a-milano-non-si-sposta-anzi-4ddfaeb68dba78ce",
     "title": "Unicredit resta a Milano: la Banca conferma la sede Centrale in Italia e rassicura il mercato",
@@ -2981,24 +2999,6 @@
       "calcio",
       "rigore",
       "orsato-de roon"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "28aa1a04988fd788",
-    "slug": "iran-500-milioni-di-dollari-al-giorno-persi-nei-gu-28aa1a04988fd788",
-    "title": "Iran al collasso: lo Stretto di Hormuz blocca 500 milioni al giorno e strangola l'economia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-22T06:19:23.653078+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/86e672f867362b9ab7d71e85e5f2ebb0.jpg",
-    "occhiello": "TEHERAN PERDE 500 MILIONI DI DOLLARI AL GIORNO NELLO STRETTO",
-    "lead_preview": "Teheran, 22 aprile. L'Iran starebbe affrontando un profondo collasso finanziario causato dalla chiusura dello Stretto di",
-    "tags": [
-      "guerra iran",
-      "stretto di hormuz"
     ],
     "hero_eligible": true
   },
