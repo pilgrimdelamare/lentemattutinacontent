@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avut",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-22T03:39:53.760109+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RITORNATO ONLINE DOPO 151 MINUTI DI INTERRUZIONE",
+    "lead_preview": "ChatGPT è tornato online dopo 151 minuti di interruzione. L'interruzione ha avuto inizio alle 14:30 e si è conclusa alle",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "fb269f06ac7c9f52",
     "slug": "pensioni-in-anticipo-ma-differenze-tra-poste-e-ban-fb269f06ac7c9f52",
     "title": "Pensioni in anticipo, ma differenze tra Poste e banche: chi parte venerdì, chi martedì",
@@ -966,25 +985,6 @@
     "lead_preview": "Richmond, 22 aprile 2026. La Virginia ha approvato la ridefinizione dei distretti elettorali, una manovra che colpisce d",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-22T01:28:36.169209+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PAYMENT SERVICE ISSUES). END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CHATGPT TOTALMENTE IRRAGGIUNGIBILE (5 WORDS) - OK.\n    *   *LEAD:* CHATGPT È OFFLINE DA CIRCA VENTI MINUTI. IL SERVIZIO RISULTA INACCESSIBILE PER MIGLIAIA DI UTENTI IN ITALIA, BLOCCANDO L'ACCESSO SIA VIA WEB CHE TRAMITE APPLICAZIONE MOBILE. (28 WORDS) - OK.\n    *   *CORPO1:* IL BLACKOUT È INIZIATO IMPROVVISAMENTE, RENDENDO IMPOSSIBILE L'INVIO DI PROMPT E LA RICEZIONE DI RISPOSTE. LE FUNZIONALITÀ DI ANALISI DATI E GENERAZIONE IMMAGINI SONO TOTALMENTE COMPROMESSE. PER GLI UTENTI PLUS, L'INTERRUZIONE DEL SERVIZIO A PAGAMENTO RAPPRESENTA UN GRAVE DANNO OPERATIVO, BLOCCANDO FLUSSI DI LAVORO PROFESSIONALI E AUTOMAZIONI AZIENDALI. OPENAI NON HA ANCORA RILASCIATO COMUNICAZIONI UFFICIALI CIRCA LA NATURA DEL GUASTO TECNICO O I TEMPI DI RIPRISTINO DEI SERVER. LA CONNETTIVITÀ RISULTA INSTABILE SU SCALA GLOBALE. STIAMO MONITORANDO LA SITUAZIONE. (88 WORDS) - OK.\n\n    *   CHECK FOR MARKDOWN: NONE.\n    *   CHECK FOR ASTERISKS: NONE.\n    *   CHECK FOR RHETORICAL QUESTIONS: NONE.\n    *   CHECK FOR TONE: TECHNICAL-ALARMIST.\n    *   CHECK FOR XML TAGS: PRESENT.\n    *   CHECK FOR WORD COUNTS:\n        *   OCCHIELLO: 5 WORDS (MAX 6) - PASS.\n        *   LEAD: 28 WORDS (MAX 40) - PASS.\n        *   CORPO1: 88 WORDS (80-100) - PASS.ALERT TECNICO: CHATGPT TOTALMENTE IRRAGGIUNGIBILE",
-    "lead_preview": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        *   ``: 80-100 words, details (what's ha",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "1f3dc6c787e9bd64",
