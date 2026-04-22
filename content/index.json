@@ -1,5 +1,24 @@
 [
   {
+    "id": "1ce401ac5a4115ef",
+    "slug": "bolsonaro-richiede-autorizzazione-per-intervento-o-1ce401ac5a4115ef",
+    "title": "Bolsonaro richiede autorizzazione per intervento ortopedico alla spalla",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-22T14:23:08.549775+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/14/e00e6b4f43f0d6c88d988ffc01a950af.jpg",
+    "occhiello": "",
+    "lead_preview": "Rio de Janeiro, 22 aprile. Jair Messias Bolsonaro ha chiesto al tribunale di autorizzare un intervento chirurgico alla s",
+    "tags": [
+      "bolsonaro",
+      "intervento chirurgico",
+      "polmonite"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ddfaeb68dba78ce",
     "slug": "unicredit-la-sede-a-milano-non-si-sposta-anzi-4ddfaeb68dba78ce",
     "title": "Unicredit: la sede a Milano non si sposta, anzi",
@@ -8839,24 +8858,6 @@
     "tags": [
       "centro albanese",
       "piano albania"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2efaea8476d0747",
-    "slug": "rio-si-riappropria-dei-pappagalli-ara-gialloblu-do-b2efaea8476d0747",
-    "title": "Rio rivede i pappagalli ara gialloblù: tornano i volatili dopo 200 anni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-19T14:48:39.775364+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/5c56d79d891af6038753d07271b951b5.jpg",
-    "occhiello": "ARA GIALLOBLU TORNANO A VOLARE A RIO DOPO DUE SECOLI",
-    "lead_preview": "Rio de Janeiro, 19 aprile. I pappagalli ara gialloblù tornano a solcare i cieli di Rio de Janeiro dopo duecento anni di ",
-    "tags": [
-      "ara gialloblu",
-      "rio de janeiro"
     ],
     "hero_eligible": true
   }
