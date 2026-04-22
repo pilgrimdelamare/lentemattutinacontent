@@ -1,17 +1,17 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 21 aprile 2026",
+  "title": "Le prime pagine di oggi, mercoledì 22 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 21 aprile 2026",
-    "Le prime pagine di oggi, martedì 21 aprile 2026",
-    "Le prime pagine di oggi, martedì 21 aprile 2026"
+    "Le prime pagine di oggi, mercoledì 22 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 22 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 22 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 21 APRILE 2026",
-  "lead": "I quotidiani italiani di martedì 21 aprile 2026 sono concentrati sullo sviluppo della crisi in Medio Oriente, con riferimento ai negoziati tra Stati Uniti e Iran in corso in Pakistan e alle dichiarazioni di Trump. Contestualmente, l’inchiesta sulla cosiddetta \"fabbrica dei dossieraggi\" e il coinvolgimento dell’ex numero due dei Servizi, Del Deo, occupa ampio spazio. Qualche giornale dedica il verticale alla politica interna e al Salone del Mobile, mentre altri aprono sulla semifinale di Coppa Italia.",
-  "corpo1": "La prima pagina di 3 titola sulla guerra in Medio Oriente con \"L'Iran frena sui negoziati\" e riporta le parole di Trump: \"Intesa o bombardo\". In Italia, si parla di perquisizioni a Roma e Milano nell’ambito dell’inchiesta sui servizi segreti, con Del Deo indagato per peculato. Quella di 4 apre con \"Iran, il giorno della verità\", riferendosi al secondo round di colloqui in Pakistan tra Usa e rappresentanti iraniani, mentre Trump minaccia attacchi aerei in caso di mancato accordo. Anche qui si segnala l’indagine su Del Deo per spionaggio illegale. Il quotidiano torinese 5 titola \"Oggi faccio la pace\" attribuendo la frase a Trump, e rileva la contraddizione interna ai Pasdaran; Vance è in viaggio per il Pakistan. Tra gli altri temi, Schlein sulla dipendenza energetica da Putin e l’inchiesta su Del Deo. 6 dedica il verticale all’inchiesta sulla \"fabbrica dei dossieraggi\", con perquisizioni all’ex dirigente del Dis e l’ipotesi di una rete clandestina di ex 007. 7 titola \"Patto Ue-Israele, il bluff di Meloni\", sottolineando il no dell’Italia a una revoca del memorandum, contrariamente a Francia, Spagna e altri 18 paesi. 8 e 9 aprono sulla semifinale di Coppa Italia tra Inter e Como, con Chivu e Fabregas al centro delle cronache calcistiche. 11 riporta il titolo \"Iran richiesto lo Scritto\", senza ulteriori dettagli.",
+  "occhiello": "LE PRIME PAGINE DEL 22 APRILE 2026",
+  "lead": "I quotidiani di oggi si concentrano in gran parte sullo scontro diplomatico tra Italia e Russia, scatenato dagli insulti rivolti alla premier Giorgia Meloni. Corriere della Sera e La Repubblica raccontano la reazione della premier e la convocazione dell'ambasciatore russo. La Stampa segnala un 'pasticcio' del governo sui migranti, mentre Gazzetta dello Sport e Corriere dello Sport celebrano l'impresa dell'Inter in Coppa Italia.",
+  "corpo1": "Il Corriere della Sera apre con l'attacco del conduttore russo Soloviev contro Giorgia Meloni, che risponde definendo le sue parole \"propaganda di regime\". La Repubblica riporta lo stesso tema, con Meloni accusata di tradire gli Stati Uniti e la convocazione dell'ambasciatore russo. La Stampa si concentra sul 'pasticcio' del governo riguardo il decreto Sicurezza e il suo rapporto con il Quirinale. Il Messaggero titola anch'esso sull'offesa alla premier, con Meloni che afferma di non avere padroni. Gazzetta dello Sport e Corriere dello Sport riportano la rimonta dell'Inter in Coppa Italia.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-21T05:45:46.595031+00:00",
+  "published_at": "2026-04-22T05:51:37.240709+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/86ce9d2645c713b8ab079fd68ea81225ff1c3229/skytg24/it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/503eec80c4d317d10bd1f70477201e45751c9b5b/skytg24/it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile/Composite_22_aprile.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/21/prime-pagine-quotidiani-oggi-21-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 21 aprile 2026",
+      "title": "Oroscopo di oggi, mercoledì 22 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "USA sequestrano nave Touska con lista di 3165 pagine: Iran sfida Washington",
-      "url": "/esteri/iran-negozia-a-islamabad-mentre-gli-usa-sequestran-a440d01b7b98543c",
-      "id": "a440d01b7b98543c",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/7/11/cb65fa3c10e770b851f9cd5db4a9e468.jpg",
-      "image_type": "image"
+      "title": "Milano, il 21 aprile 2026 l'inter supera il como",
+      "url": "/sport/linter-supera-il-como-e-raggiunge-la-finale-di-cop-8796b02dee5cadc4",
+      "id": "8796b02dee5cadc4",
+      "image_url": "https://sport.sky.it/assets/images/d617bbb60d9a52004d102641a68fe58a80850370/skysport/it/calcio/coppa-italia/2026/04/21/inter-como-fabregas-intervista-video/fabregas_ipa_4.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Basket: Playoff NBA, Boston, OKC, Orlando e San Antonio vincono le prime sfide!",
-      "url": "/sport/basket-boston-oklahoma-orlando-e-san-antonio-vinco-046065a4743c8bf0",
-      "id": "046065a4743c8bf0",
-      "image_url": "https://sport.sky.it/assets/images/06c44eb381424b5021cb8e6beb4797a33ef76f82/skysport/it/nba/video/2026/04/20/1091619_1776690463212_thumb_494.0000001_1776690879999.jpg",
-      "image_type": "feed_image"
+      "title": "Il Presidente brasiliano minaccia blocco materie prime",
+      "url": "/esteri/brasile-a-hannover-ora-pretende-pari-dignita-econo-1ecfae1f36a36188",
+      "id": "1ecfae1f36a36188",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/c40cc539243d82658d3a7d5bd2a65f7b.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
