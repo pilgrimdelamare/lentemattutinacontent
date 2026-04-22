@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260422",
+    "slug": "libro-del-giorno-i-giorni-vetrodi-nicoletta-verna-20260422",
+    "title": "I giorni arriva in libreria: tutta la lotta tra fascisti e partigiani in Romagna",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-22T07:00:22.264643+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170476-1b3df.jpg?1775668714",
+    "occhiello": "IL ROMANZO STORICO ITALIANO SI RIFUGIA NELLA ROMAGNA DEL NOVECENTO",
+    "lead_preview": "Roma, 22 aprile 2026. Il romanzo corale I giorni ricostruisce le vicende della Romagna le vicende della Romagna tra il f",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5d5b2f11d72095c3",
     "slug": "bookingcom-sotto-inchiesta-prenotazioni-truccate-p-5d5b2f11d72095c3",
     "title": "Antitrust indaga Booking: i risultati di ricerca favoriscono chi paga di più",
@@ -734,25 +752,6 @@
       "teheran aviazione"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260422",
-    "slug": "libro-del-giorno-i-giorni-vetrodi-nicoletta-verna-20260422",
-    "title": "Il libro del giorno: «I giorni»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico corale tra fascismo e Resistenza nella Romagna del Novecento",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-04-22T07:00:22.264643+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170476-1b3df.jpg?1775668714",
-      "alt": "Copertina: I giorni",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170476-1b3df.jpg?1775668714",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "dea360d4fe5ab135",
