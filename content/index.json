@@ -1,5 +1,23 @@
 [
   {
+    "id": "dbb9d31d153d2924",
+    "slug": "tennis-peyton-stearns-spazza-via-boisson-a-madrid-dbb9d31d153d2924",
+    "title": "Tennis: Stearns domina Boisson senza concesioni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-21T19:39:20.047682+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://img.lemde.fr/2026/04/20/112/0/6301/3150/644/322/60/0/fd84c19_ftp-1-1wjada8klczi-5821161-01-06.jpg",
+    "occhiello": "STEARNS TRAVOGLIE BOISSON",
+    "lead_preview": "Madrid, 21 aprile. Peyton Stearns ha superato il primo turno del torneo di tennis a Madrid in 60 minuti, sconfiggendo Lo",
+    "tags": [
+      "tennis",
+      "torneo madrid"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ff484a64d7b88f1f",
     "slug": "tennis-musetti-e-cobolli-si-blindano-a-madrid-per-ff484a64d7b88f1f",
     "title": "Tennis: Musetti e Cobolli si allenano insieme a Madrid per il Masters",
@@ -2597,25 +2615,6 @@
       "crisi costampress",
       "lavoro stampa",
       "acquisizione industriale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dbb9d31d153d2924",
-    "slug": "tennis-peyton-stearns-spazza-via-boisson-a-madrid-dbb9d31d153d2924",
-    "title": "Tennis: Stearns travolge Boisson a Madrid in 60 minuti e vola al secondo turno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-21T19:39:20.047682+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://img.lemde.fr/2026/04/20/112/0/6301/3150/644/322/60/0/fd84c19_ftp-1-1wjada8klczi-5821161-01-06.jpg",
-    "occhiello": "PEYTON MCKENZIE STEARNS AVANZA IN 60 MINUTI",
-    "lead_preview": "PEYTON MCKENZIE STEARNS AVANZA IN 60 MINUTI <madrid, 21 aprile. Peyton Mckenzie Stearns ha superato il primo turno del t",
-    "tags": [
-      "tennis madrid",
-      "stearns boisson",
-      "wta 1000"
     ],
     "hero_eligible": true
   },
