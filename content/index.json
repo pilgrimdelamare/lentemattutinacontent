@@ -1,5 +1,20 @@
 [
   {
+    "id": "b8ce1762d71c486c",
+    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
+    "title": "Firefox al lavoro su 271 Falle: l'IA di Anthropic violata nello stesso giorno",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-22T10:00:39.138680+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
+    "occhiello": "271 VULNERABILITÀ CRITICHE SCOPERTE NEL MOTORE DI FIREFOX",
+    "lead_preview": "Roma, 22 aprile 2026. Mozilla ha corretto 271 vulnerabilità di Sicurezza critiche all'interno della nuova versione 150 d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "bc54a7452a8b42a4",
     "slug": "cinque-nuovi-sottosegretari-blindano-il-governo-ba-bc54a7452a8b42a4",
     "title": "Cinque nuovi sottosegretari a Palazzo Chigi per blindare il governo al collasso",
@@ -3114,21 +3129,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/8e583073a001a474e7d98c45fb6b8468.jpg",
     "occhiello": "ETTA CITA I 99 POSSE NEL NUOVO SINGOLO",
     "lead_preview": "Napoli, 22 aprile. Etta, la cantante nota per la sua carriera solista, torna sulla scena musicale con il brano \"Queste c",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8ce1762d71c486c",
-    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
-    "title": "271 Falle in Firefox: l'AI Claude Mythos scoperchia il caos nella Sicurezza web",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-22T10:00:39.138680+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
-    "occhiello": "L'INTELLIGENZA ARTIFICIALE DI ANTHROPIC RIVELA 271 VULNERABILITÀ IN FIREFOX",
-    "lead_preview": "Roma, 22 aprile 2026. Mozilla ha corretto 271 vulnerabilità di Sicurezza critiche all'interno della nuova versione 150 d",
     "tags": [],
     "hero_eligible": true
   },
