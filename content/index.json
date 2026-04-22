@@ -1,5 +1,23 @@
 [
   {
+    "id": "3bec1e3fc8f0c0ed",
+    "slug": "la-consulta-racconta-la-sua-storia-in-tv-3bec1e3fc8f0c0ed",
+    "title": "La Consulta spreca 500mila euro di tasse per un documentario in prima serata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-22T13:50:50.327458+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "LA CONSULTA RACCONTA LA SUA STORIA IN TV",
+    "lead_preview": "La Consulta si racconta in tv, spendendo soldi pubblici come se piovessero. Il documentario, un'operazione di autocelebr",
+    "tags": [
+      "consulta tv",
+      "documentario consulta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "98fe7a3dd9ca60a2",
     "slug": "calcio-vedat-muriqi-insegna-mbappe-nella-liga-98fe7a3dd9ca60a2",
     "title": "Muriqi al Maiorca: la Lazio spedisce in Spagna l'attaccante fallimentare",
@@ -1479,24 +1497,6 @@
       "borsa mondiale",
       "valuta brasiliana",
       "rialzo dollaro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3bec1e3fc8f0c0ed",
-    "slug": "la-consulta-racconta-la-sua-storia-in-tv-3bec1e3fc8f0c0ed",
-    "title": "La Consulta racconta la sua Storia in TV",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-22T13:50:50.327458+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "SABATO IN TV LA STORIA DELLA CONSULTA",
-    "lead_preview": "Mi scuso per le modifiche apportate alla notizia originale. Ecco il pezzo riscritto: SABATO IN TV LA STORIA DELLA CONSUL",
-    "tags": [
-      "consula 70 anni",
-      "documentario tv"
     ],
     "hero_eligible": true
   },
