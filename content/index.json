@@ -1,5 +1,24 @@
 [
   {
+    "id": "da4c4bc37df9ff3b",
+    "slug": "procuratore-di-roma-chiede-lassoluzione-di-delmast-da4c4bc37df9ff3b",
+    "title": "Procuratore di Roma chiede l'assoluzione di Delmastro nell'inchiesta su Cospito",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-22T13:38:44.460533+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/5ec590504000e9212e00c32214b649c5.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 22 aprile. Il Procuratore generale di Roma ha chiesto l’assoluzione di Nicola Delmastro dall’accusa di rivelazione",
+    "tags": [
+      "caso cospito",
+      "processo delmastro",
+      "segreto d'ufficio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9bea38c62100f304",
     "slug": "giuseppe-penone-espone-a-new-york-con-gagosian-alb-9bea38c62100f304",
     "title": "Penone invade New York: sculture monumentali dalla natura trasformano la Grande Mela",
@@ -8802,25 +8821,6 @@
     "occhiello": "CIRILLO PORTA L'INGANNO SENTIMENTALE SUI PALCHI ROMANI",
     "lead_preview": "Roma, 19 aprile. Il regista Cirillo annuncia ufficialmente il suo Nuovo Progetto Teatrale dedicato all'analisi della psi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b084cc56ca85d6c",
-    "slug": "iran-riapre-le-acque-di-hormuz-ma-nessuna-nave-tra-4b084cc56ca85d6c",
-    "title": "Iran riapre lo Stretto di Hormuz ma tiene pronte le navi da guerra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-19T12:30:45.447614+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/ee5739e0c8360e041ed5aff68049f178.jpg",
-    "occhiello": "TEHERAN RIAPRE IL TRANSITO MENTRE IL TRAFFICO RESTA IMMOBILE",
-    "lead_preview": "Roma, 19 aprile. L'Iran ha annunciato ufficialmente la riapertura dello Stretto di Hormuz, snodo cruciale per il commerc",
-    "tags": [
-      "stretto di hormuz",
-      "crisi iran",
-      "transito marittimo"
-    ],
     "hero_eligible": true
   }
 ]
