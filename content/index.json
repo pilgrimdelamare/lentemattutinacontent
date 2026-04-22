@@ -1,5 +1,23 @@
 [
   {
+    "id": "28aa1a04988fd788",
+    "slug": "iran-500-milioni-di-dollari-al-giorno-persi-nei-gu-28aa1a04988fd788",
+    "title": "Iran al collasso: lo Stretto di Hormuz blocca 500 milioni al giorno e strangola l'economia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-22T06:19:23.653078+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/86e672f867362b9ab7d71e85e5f2ebb0.jpg",
+    "occhiello": "TEHERAN PERDE 500 MILIONI DI DOLLARI AL GIORNO NELLO STRETTO",
+    "lead_preview": "Teheran, 22 aprile. L'Iran starebbe affrontando un profondo collasso finanziario causato dalla chiusura dello Stretto di",
+    "tags": [
+      "guerra iran",
+      "stretto di hormuz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4d8eb5f66e972e43",
     "slug": "linflazione-sale-del-33-nel-regno-unito-4d8eb5f66e972e43",
     "title": "Regno Unito, l'inflazione schizza al 3,3% e morde i risparmi dei cittadini",
@@ -801,24 +819,6 @@
       "farnesina ia",
       "intelligenza artificiale",
       "diplomazia digitale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "28aa1a04988fd788",
-    "slug": "iran-500-milioni-di-dollari-al-giorno-persi-nei-gu-28aa1a04988fd788",
-    "title": "Iran: 500 milioni di dollari al giorno persi nei guai con Trump",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-22T06:19:23.653078+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/86e672f867362b9ab7d71e85e5f2ebb0.jpg",
-    "occhiello": "IRAN AL COLLASSO: 500 MILIONI DI DOLLARI AL GIORNO PERSO",
-    "lead_preview": "Teheran, 22 aprile. L'Iran starebbe affrontando un collasso finanziario a causa della chiusura dello Stretto di Hormuz, ",
-    "tags": [
-      "guerra iran",
-      "crisi economica iran"
     ],
     "hero_eligible": true
   },
