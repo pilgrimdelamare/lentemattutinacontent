@@ -1,5 +1,20 @@
 [
   {
+    "id": "78acfec31504adad",
+    "slug": "dow-jones-schizza-il-045-78acfec31504adad",
+    "title": "New York: Dow Jones vola dello 0,45% e lascia al palo il Nasdaq fermo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-21T14:05:49.786923+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
+    "occhiello": "DIVERGENZA A WALL STREET: DOW JONES SALE, NASDAQ IMMOBILE",
+    "lead_preview": "New York, 21 aprile. La Borsa di New York inaugura la seduta odierna con un movimento divergente che vede il Dow Jones I",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9e8f4b137ecc0a2f",
     "slug": "recessione-e-guerra-lallarme-del-presidente-di-con-9e8f4b137ecc0a2f",
     "title": "Recessione e guerra, l'allarme del presidente di confindustria",
@@ -3177,24 +3192,6 @@
     "tags": [
       "operazione martello di mezzanotte",
       "trump washington"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78acfec31504adad",
-    "slug": "dow-jones-schizza-il-045-78acfec31504adad",
-    "title": "Wall Street: Dow Jones vola dello 0,45% ma il Nasdaq resta gelato a zero",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-21T14:05:49.786923+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/ceb7190bd1bc59a4f2501fa8e6fb4225.jpg",
-    "occhiello": "DOW JONES IN RIALZO MENTRE IL TECH RESTA AL PALO",
-    "lead_preview": "New York, 21 aprile. La Borsa di New York inaugura la sessione con un movimento divergente che vede il Dow Jones Industr",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
