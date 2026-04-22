@@ -1,5 +1,24 @@
 [
   {
+    "id": "b44d1cc9ff946469",
+    "slug": "ospedale-di-campobasso-due-morti-per-intossicazion-b44d1cc9ff946469",
+    "title": "Ospedale di Campobasso: due morti per intossicazione, cercano chi ha comprato ricina in Molise",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-04-22T23:43:49.960073+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/22/202645071-cc870f9a-2548-4952-8e7b-96dce6b8b2bb.jpg",
+    "occhiello": "RICERCHE SULLA RICINA NEI COMPUTER DELL'ISTITUTO AGRARIO DI PIETRACATELLA",
+    "lead_preview": "Pietracatella, 23 aprile 2026. Proseguono le indagini sulla morte di Antonella Di Ielsi e di sua figlia Sara Di Vita, de",
+    "tags": [
+      "intossicazione campobasso",
+      "ricina molise",
+      "indagine di ielsi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "040b5caf3f2b9371",
     "slug": "campobasso-indagini-sulla-ricina-controllano-compu-040b5caf3f2b9371",
     "title": "Campobasso, indagini sulla ricina: controllano computer e cellulari della famiglia Di Vita",
@@ -8701,21 +8720,6 @@
       "intelligenza artificiale",
       "investimento amazon"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "21be3263b073be93",
-    "slug": "abodi-annuncia-modifica-del-decreto-melandri-21be3263b073be93",
-    "title": "Abodi attacca il decreto Melandri: arriva la riforma su diritti TV",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-20T12:14:22.773073+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/2e3085a0bfc08512708ae333fb795ee8.jpg",
-    "occhiello": "IL DECRETO MELANDRI VERSO LA RIFORMA DOPO QUINDICI ANNI",
-    "lead_preview": "Roma, 20 aprile. Andrea Abodi, Ministro per lo Sport e i Giovani, ha annunciato in data 20 aprile la volontà di discuter",
-    "tags": [],
     "hero_eligible": true
   }
 ]
