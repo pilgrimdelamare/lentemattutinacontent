@@ -1,5 +1,20 @@
 [
   {
+    "id": "2b389f7c9aa7d9fb",
+    "slug": "unicredit-pronta-a-lasciare-litalia-in-caso-di-fal-2b389f7c9aa7d9fb",
+    "title": "UniCredit sposta la sede fuori dall'Italia se l'operazione su C non va in porto",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-21T23:33:06.460021+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/21/215932925-81d5bd48-3aa5-4139-b67d-4ba04a7579c3.jpg",
+    "occhiello": "UNICREDIT PRONTA A TRASFERIRE LA SEDE LEGALE FUORI DALL'ITALIA",
+    "lead_preview": "Milano, 22 aprile. Il futuro della sede legale di UniCredit resta appeso all'esito dell'offerta pubblica di scambio su C",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9c379bb17aa32367",
     "slug": "borsa-milano-crolla-dello-05-lo-spread-sale-a-76-p-9c379bb17aa32367",
     "title": "Macchine utensili in picchiata: ordini -30% e Borsa di Milano scende dello 0,5%",
@@ -828,24 +843,6 @@
     "lead_preview": "Washington, 22 aprile. Jerome Powell, Presidente uscente della Federal Reserve, ha completato la sua audizione al Congre",
     "tags": [
       "nomina warsh fed"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2b389f7c9aa7d9fb",
-    "slug": "unicredit-pronta-a-lasciare-litalia-in-caso-di-fal-2b389f7c9aa7d9fb",
-    "title": "Unicredit pronta a lasciare l'italia in caso di fallimento ops",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-21T23:33:06.460021+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/21/215932925-81d5bd48-3aa5-4139-b67d-4ba04a7579c3.jpg",
-    "occhiello": "UNICREDIT PRONTA A LASCIARE L'ITALIA IN CASO DI FALLIMENTO OPS",
-    "lead_preview": "Milano, 22 aprile. Il futuro della sede legale di UniCredit resta appeso all'esito dell'offerta pubblica di scambio su C",
-    "tags": [
-      "unicredit",
-      "ops unicredit"
     ],
     "hero_eligible": true
   },
