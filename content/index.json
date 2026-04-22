@@ -1,5 +1,23 @@
 [
   {
+    "id": "b58848687ae05590",
+    "slug": "leone-xiv-attacca-le-carceri-della-guinea-equatori-b58848687ae05590",
+    "title": "Leone XIV attacca le carceri della Guinea Equatoriale: sono inumane",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-22T10:31:52.501593+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/83e1c29a0f508a7c88fa7abc10803529.jpg",
+    "occhiello": "DIGNITÀ IN CARCERI GUINEANE",
+    "lead_preview": "Malabo, 22 aprile.",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "54b3d476db3c40de",
     "slug": "farnesina-convoca-ambasciatore-russia-per-insulti-54b3d476db3c40de",
     "title": "Farnesina convoca Ambasciatore Russia per insulti anti-Meloni",
@@ -8771,21 +8789,6 @@
       "amstel gold race",
       "remco evenepoel"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f08fe1d83d75b15f",
-    "slug": "basket-i-lakers-battono-i-rockets-112-98-senza-kev-f08fe1d83d75b15f",
-    "title": "Basket: Los Angeles schiaccia Houston 112-98 e domina Gara-1 dei playoff NBA",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-19T07:16:55.243685+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1b59f4be1a1e854e0eee2b1210001f5a2c74f064/skysport/it/nba/2026/04/18/playoff-nba-risultati-notte-video/Alperen_Sengun_Getty_Houston_Rockets.jpg",
-    "occhiello": "DURANT ASSENTE E I ROCKETS SI SCIOLGONO ALLA CRYPTO.COM ARENA",
-    "lead_preview": "Los Angeles, 19 aprile. I Los Angeles Lakers hanno superato i Houston Rockets con il punteggio di 112-98 in Gara-1 dei p",
-    "tags": [],
     "hero_eligible": true
   }
 ]
