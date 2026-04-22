@@ -1,5 +1,20 @@
 [
   {
+    "id": "b8ce1762d71c486c",
+    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
+    "title": "271 Falle in Firefox: l'AI Claude Mythos scoperchia il caos nella Sicurezza web",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-22T10:00:39.138680+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
+    "occhiello": "L'INTELLIGENZA ARTIFICIALE DI ANTHROPIC RIVELA 271 VULNERABILITÀ IN FIREFOX",
+    "lead_preview": "Roma, 22 aprile 2026. Mozilla ha corretto 271 vulnerabilità di Sicurezza critiche all'interno della nuova versione 150 d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "de805b5a47ffc772",
     "slug": "parigi-incorona-le-clezio-il-premio-cino-del-duca-de805b5a47ffc772",
     "title": "Il nobel per la letteratura vince il cino del duca",
@@ -856,21 +871,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/507e1d6c811cc49ff403cbf025aff222.jpg",
     "occhiello": "LOTTIZZAZIONE DI PALAZZO PER SALVARE LA COALIZIONE DI GOVERNO",
     "lead_preview": "Roma, 22 aprile 2026. Il Consiglio dei ministri ha ufficializzato ieri la nomina di cinque nuovi sottosegretari, complet",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8ce1762d71c486c",
-    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
-    "title": "Firefox 150: l'IA Claude Mythos scova 271 falle, 10 volte più del previsto",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-22T10:00:39.138680+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
-    "occhiello": "MOZILLA CORREGGE 271 BUG CON L'INTELLIGENZA ARTIFICIALE ANTHROPIC",
-    "lead_preview": "22 aprile 2026. Mozilla ha corretto 271 vulnerabilità di sicurezza nel rilascio del browser Firefox 150. Il risultato è ",
     "tags": [],
     "hero_eligible": true
   },
