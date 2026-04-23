@@ -1,5 +1,23 @@
 [
   {
+    "id": "dc0ce610d00f001c",
+    "slug": "mestre-si-rianima-apre-il-muvec-nuovo-museo-darte-dc0ce610d00f001c",
+    "title": "Mestre si rianima: apre il Muvec, nuovo museo d'arte contemporanea per 90mila residenti",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-23T12:45:22.491676+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/ba405852950f33e8de0a11ae0695c132.jpg",
+    "occhiello": "MESTRE APRE UN MUSEO MENTRE LA CULTURA RESTA PROVINCIALE",
+    "lead_preview": "Mestre, 23 aprile 2026. L'inaugurazione del Muvec, un evento documentato dall'Ansa, segna La terraferma veneziana inaugu",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1b3069e624eb23f8",
     "slug": "filipe-luis-alla-guida-del-chelsea-il-brasiliano-e-1b3069e624eb23f8",
     "title": "Filipe Luis alla guida del Chelsea: il brasiliano è il favorito per la panchina",
@@ -8793,25 +8811,6 @@
       "pichetto fratin",
       "crisi energetica",
       "centrali a carbone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78cd309a9ee87df7",
-    "slug": "treno-webuild-rotto-blocca-rixi-e-salis-salta-il-s-78cd309a9ee87df7",
-    "title": "Genova: guasto blocca la navetta col Viceministro Rixi e la Sindaca Salis al cantiere ferroviario",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-20T11:30:16.041695+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/20/130759405-a8507898-a071-4a9a-81c2-a75ddceae257.jpg",
-    "occhiello": "NAVETTA BLOCCATA AL CANTIERE",
-    "lead_preview": "Genova, 20 aprile. Un guasto tecnico ha bloccato oggi la navetta utilizzata per il sopralluogo istituzionale al cantiere",
-    "tags": [
-      "sestuplicamento ferroviario",
-      "rixi salis",
-      "genova cantiere"
     ],
     "hero_eligible": true
   }
