@@ -1,5 +1,23 @@
 [
   {
+    "id": "acf697ec854427fb",
+    "slug": "venezia-maggie-gyllenhaal-guida-la-giuria-del-fest-acf697ec854427fb",
+    "title": "Venezia: Maggie Gyllenhaal guida la Giuria del Festival del Cinema, Hollywood arbitra i premi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-23T10:43:44.059900+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/26/e9a4c12f27a44fa051e24f589adfba36.jpg",
+    "occhiello": "MAGGIE GYLLENHAAL GUIDA LA GIURIA DEL FESTIVAL DEL CINEMA",
+    "lead_preview": "Venezia, 23 aprile 2026. L'attrice, regista e sceneggiatrice statunitense Maggie Gyllenhaal presiederà la Giuria Interna",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6c0bf41236811978",
     "slug": "luis-enrique-dichiara-partita-difficile-per-il-psg-6c0bf41236811978",
     "title": "Luis Enrique: \"PSG, ora serve forza mentale\". La pressione schiaccia i campioni?",
@@ -1054,24 +1072,6 @@
     "lead_preview": "Roma, 23 aprile 2026.",
     "tags": [
       "spesa spaziale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "acf697ec854427fb",
-    "slug": "venezia-maggie-gyllenhaal-guida-la-giuria-del-fest-acf697ec854427fb",
-    "title": "Venezia: Maggie Gyllenhaal guida la Giuria del Festival del Cinema",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-23T10:43:44.059900+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/26/e9a4c12f27a44fa051e24f589adfba36.jpg",
-    "occhiello": "MAGGIE GYLLENHAAL GUIDERÀ LA GIURIA DELL'OTTANTATREESIMA MOSTRA DEL CINEMA",
-    "lead_preview": "Venezia, 23 aprile 2026. L'attrice, regista e sceneggiatrice statunitense Maggie Gyllenhaal presiederà la Giuria Interna",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
