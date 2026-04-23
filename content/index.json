@@ -1,5 +1,24 @@
 [
   {
+    "id": "4f1fbbc6b857ae50",
+    "slug": "audit-dellispettore-generale-dipartimento-di-giust-4f1fbbc6b857ae50",
+    "title": "Audit dell'ispettore generale: Dipartimento di Giustizia sotto accusa",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T19:24:52.947307+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/5b5e03d03c792b55f0966a0e90e191c553e5685c/0_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86ba22d94a4f218ca219d1fb53c00c",
+    "occhiello": "L'ISPETTORE GENERALE INDAGA SUL RITARDO NELLA TRASPARENZA EPSTEIN",
+    "lead_preview": "Washington, 23 aprile 2026. L'ufficio dell'ispettore generale del Dipartimento di Giustizia degli Stati Uniti ha annunci",
+    "tags": [
+      "audit dipartimento giustizia",
+      "epstein files transpa",
+      "ispettore generale usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "383400c53b8e411b",
     "slug": "trump-dichiara-in-preda-al-caos-liran-nega-e-tiene-383400c53b8e411b",
     "title": "Trump dichiara in preda al caos, l'Iran nega e tiene unita la leadership a Teheran",
@@ -8895,24 +8914,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3b429084c4b9d825",
-    "slug": "crosetto-apre-al-dispiegamento-in-hormuz-litalia-a-3b429084c4b9d825",
-    "title": "17.000 Soldati italiani nello Stretto di Ormuz per blindare l'energia",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-20T20:21:08.280043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/c962bd4bad8a57eece51ad3f14df68c6.jpg",
-    "occhiello": "DICIASSETTEMILA SOLDATI ITALIANI VERSO LO STRETTO DI ORMUZ",
-    "lead_preview": "Roma, 20 aprile 2026. Il Ministro della Difesa Guido Crosetto ha annunciato ufficialmente l’invio di una forza militare ",
-    "tags": [
-      "stretto di ormuz",
-      "missione ormuz"
     ],
     "hero_eligible": true
   }
