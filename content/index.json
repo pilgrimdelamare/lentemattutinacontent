@@ -1,5 +1,20 @@
 [
   {
+    "id": "a1b02817d8ce249c",
+    "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
+    "title": "Tokyo vola: il Nikkei rompe i 60.000 punti e segna un record storico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T00:58:08.189731+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
+    "occhiello": "IL NIKKEI SUPERA QUOTA 60.000 MENTRE IL MEDIO ORIENTE FRENA",
+    "lead_preview": "Tokyo, 23 aprile 2026. L’indice Nikkei della Borsa di Tokyo ha infranto la barriera psicologica dei 60.000 punti, segnan",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5f87f8b6db6770fb",
     "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
     "title": "FBI indaga reporter del New York Times, ma il Dipartimento di Giustizia blocca il caso",
@@ -8687,24 +8702,6 @@
     "occhiello": "BLACKOUT DELL'INTELLIGENZA ARTIFICIALE DI ANTHROPIC A SAN FRANCISCO",
     "lead_preview": "San Francisco, 20 aprile. Il sistema di intelligenza artificiale Claude, sviluppato dalla società Anthropic, è stato off",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6b2f5ca4fdaed200",
-    "slug": "calcio-wolverhampton-retrocede-dalla-premier-leagu-6b2f5ca4fdaed200",
-    "title": "Calcio: Wolverhampton retrocede in Championship, finisce il sogno Premier",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-20T22:00:38.298190+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/24/2018c3b0fc1273cbd3cd117e80fd66b2.jpg",
-    "occhiello": "WOLVERHAMPTON PRIMA SQUADRA A LASCIARE LA PREMIER LEAGUE 2026",
-    "lead_preview": "Wolverhampton, 20 aprile 2026. Il Wolverhampton Wanderers è ufficialmente la prima squadra a retrocedere dalla Premier L",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   }
 ]
