@@ -1,5 +1,23 @@
 [
   {
+    "id": "acf697ec854427fb",
+    "slug": "venezia-maggie-gyllenhaal-guida-la-giuria-del-fest-acf697ec854427fb",
+    "title": "Venezia: Maggie Gyllenhaal guida la Giuria del Festival del Cinema",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-23T10:43:44.059900+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/26/e9a4c12f27a44fa051e24f589adfba36.jpg",
+    "occhiello": "MAGGIE GYLLENHAAL GUIDERÀ LA GIURIA DELL'OTTANTATREESIMA MOSTRA DEL CINEMA",
+    "lead_preview": "Venezia, 23 aprile 2026. L'attrice, regista e sceneggiatrice statunitense Maggie Gyllenhaal presiederà la Giuria Interna",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a1f0df2d99507b66",
     "slug": "corte-costituzionale-compie-70-anni-amoroso-difend-a1f0df2d99507b66",
     "title": "Corte Costituzionale compie 70 anni: Amoroso difende la Costituzione al Quirinale",
@@ -8792,25 +8810,6 @@
     "tags": [
       "ritiro marchegiani",
       "infortunio calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5d156734de668252",
-    "slug": "revolut-slitta-lapprodo-in-borsa-al-2028-dopo-valu-5d156734de668252",
-    "title": "Revolut rinvia la Borsa: il colosso fintech punta ora al profitto, non alla crescita",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-20T10:20:14.956634+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/2/20014fc8891c17adba068fb8de8c0282.jpg",
-    "occhiello": "IL VALORE DEL FINTECH SCONTRATO CON LA REALTÀ DEI MARGINI",
-    "lead_preview": "Londra, 20 aprile. Il colosso fintech Revolut ha annunciato il rinvio della sua attesa quotazione in Borsa, prevista per",
-    "tags": [
-      "revolut borsa",
-      "fintech profitto",
-      "nikolay storonsky"
     ],
     "hero_eligible": true
   }
