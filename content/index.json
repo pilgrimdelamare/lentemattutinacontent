@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, giovedì 23 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-23T04:02:52.788637+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — GIOVEDÌ 23 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8527058f85802d67",
     "slug": "pentagono-sminamento-nello-stretto-di-hormuz-slitt-8527058f85802d67",
     "title": "Stretto di Hormuz bloccato: il Pentagono prevede sei mesi di sminamento. L'Italia invia navi",
@@ -4746,26 +4766,6 @@
       "crisi iran"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, mercoledì 22 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-22T04:01:55.193261+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — MERCOLEDÌ 22 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "libro-20260421",
