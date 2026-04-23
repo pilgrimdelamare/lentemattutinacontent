@@ -1,5 +1,23 @@
 [
   {
+    "id": "5f87f8b6db6770fb",
+    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
+    "title": "Il dipartimento di giustizia ferma l'fbi su haberman",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T00:54:32.139765+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "IL DIPARTIMENTO DI GIUSTIZIA FERMA L'FBI SU HABERMAN",
+    "lead_preview": "Washington, 23 aprile. Il Dipartimento di Giustizia americano ha bloccato un'indagine dell'FBI avviata nei confronti di ",
+    "tags": [
+      "caso habermand",
+      "fbi habermand"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3e0f81cc8319ba45",
     "slug": "90-miliardi-allucraina-lungheria-cede-e-sblocca-il-3e0f81cc8319ba45",
     "title": "Veto ungherese caduto sui fondi per kiev",
@@ -3198,25 +3216,6 @@
       "fuga fordham",
       "incidente stradale ghana",
       "frode finanziaria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5f87f8b6db6770fb",
-    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
-    "title": "FBI blocca indagine su Maggie Haberman per rischio di violazione della libertà di stampa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-23T00:54:32.139765+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "",
-    "lead_preview": "Washington, 23 aprile. Il Dipartimento di Giustizia ha bloccato un’indagine dell’FBI avviata nei confronti di Maggie Hab",
-    "tags": [
-      "fbi",
-      "maggie haberman",
-      "libertà di stampa"
     ],
     "hero_eligible": true
   },
