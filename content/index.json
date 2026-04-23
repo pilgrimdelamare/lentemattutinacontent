@@ -1,5 +1,20 @@
 [
   {
+    "id": "903d4c2c2881845c",
+    "slug": "john-phelan-si-dimette-da-segretario-alla-marina-u-903d4c2c2881845c",
+    "title": "John Phelan si dimette da Segretario alla Marina USA in piena guerra contro l'Iran",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T01:00:32.873406+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://img.lemde.fr/2026/04/22/70/0/7584/3792/644/322/60/0/5afe657_ftp-1-ij8zmjjx8yyb-5840375-01-06.jpg",
+    "occhiello": "DIMISSIONI IMMEDIATE AL PENTAGONO MENTRE IL CONFLITTO SI INFIAMMA",
+    "lead_preview": "Washington, 23 aprile 2026. John Phelan, 79° Segretario alla Marina degli Stati Uniti, ha rassegnato le proprie dimissio",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a1b02817d8ce249c",
     "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
     "title": "Tokyo vola: il Nikkei rompe i 60.000 punti e segna un record storico",
@@ -8687,21 +8702,6 @@
       "hezbollah",
       "crisi libano"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Blackout dell'intelligenza artificiale di anthropic a san francisco",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-20T06:39:47.947206+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "BLACKOUT DELL'INTELLIGENZA ARTIFICIALE DI ANTHROPIC A SAN FRANCISCO",
-    "lead_preview": "San Francisco, 20 aprile. Il sistema di intelligenza artificiale Claude, sviluppato dalla società Anthropic, è stato off",
-    "tags": [],
     "hero_eligible": true
   }
 ]
