@@ -1,5 +1,24 @@
 [
   {
+    "id": "5f87f8b6db6770fb",
+    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
+    "title": "FBI indaga reporter del New York Times, ma il Dipartimento di Giustizia blocca il caso",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T00:54:32.139765+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "FBI INDAGA SU UNA GIORNALISTA DEL NEW YORK TIMES",
+    "lead_preview": "Washington, 23 aprile 2026. L'agenzia federale americana FBI ha condotto un'indagine su una reporter del New York Times ",
+    "tags": [
+      "fbi indaga giornalista",
+      "nytimes caso fbi",
+      "indagine giornalismo usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7446d68d4e2e5f79",
     "slug": "russia-colpisce-grattacielo-a-dnipro-7-feriti-tra-7446d68d4e2e5f79",
     "title": "Russia colpisce grattacielo a Dnipro: 7 feriti, tra cui due bambine",
@@ -8685,25 +8704,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "72c23f92f812921c",
-    "slug": "donzelli-lancia-dissonanze-la-rivista-online-che-d-72c23f92f812921c",
-    "title": "Donzelli lancia Dissonanze, nuova testata online per il dibattito culturale",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-20T13:57:40.199754+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/51a22183a2b99a034ce2a126406cdcef.jpg",
-    "occhiello": "DONZELLI RICICLA IL NOME DI UN MITICO FESTIVAL ELETTRONICO",
-    "lead_preview": "Roma, 20 aprile 2026. La casa editrice Donzelli inaugura Dissonanze, una nuova testata online dedicata al dibattito cult",
-    "tags": [
-      "dissonanze donzelli",
-      "festival elettronico",
-      "dibattito culturale"
     ],
     "hero_eligible": true
   }
