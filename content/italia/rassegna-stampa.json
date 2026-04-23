@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 22 aprile 2026",
+  "title": "Le prime pagine di oggi, giovedì 23 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 22 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 22 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 22 aprile 2026"
+    "Le prime pagine di oggi, giovedì 23 aprile 2026",
+    "Le prime pagine di oggi, giovedì 23 aprile 2026",
+    "Le prime pagine di oggi, giovedì 23 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 22 APRILE 2026",
-  "lead": "I quotidiani di oggi si concentrano in gran parte sullo scontro diplomatico tra Italia e Russia, scatenato dagli insulti rivolti alla premier Giorgia Meloni. Corriere della Sera e La Repubblica raccontano la reazione della premier e la convocazione dell'ambasciatore russo. La Stampa segnala un 'pasticcio' del governo sui migranti, mentre Gazzetta dello Sport e Corriere dello Sport celebrano l'impresa dell'Inter in Coppa Italia.",
-  "corpo1": "Il Corriere della Sera apre con l'attacco del conduttore russo Soloviev contro Giorgia Meloni, che risponde definendo le sue parole \"propaganda di regime\". La Repubblica riporta lo stesso tema, con Meloni accusata di tradire gli Stati Uniti e la convocazione dell'ambasciatore russo. La Stampa si concentra sul 'pasticcio' del governo riguardo il decreto Sicurezza e il suo rapporto con il Quirinale. Il Messaggero titola anch'esso sull'offesa alla premier, con Meloni che afferma di non avere padroni. Gazzetta dello Sport e Corriere dello Sport riportano la rimonta dell'Inter in Coppa Italia.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE DEL 23 APRILE 2026",
+  "lead": "Oggi i quotidiani italiani si concentrano principalmente sulla situazione economica del paese, con particolare riferimento al deficit e alla procedura di infrazione dell'Unione Europea. Il tema della sicurezza è presente con dibattiti in Aula. Alcuni giornali dedicano spazio al calciomercato e agli sport, mentre altri si occupano di dichiarazioni politiche e misure governative.",
+  "corpo1": "Il Corriere della Sera apre con \"Deficit, l'Italia (con 9 Paesi) resta sotto procedura\", evidenziando le accuse della Meloni a Conte riguardo al superbonus. La Repubblica titola \"Conti, obiettivo fallito\" e riporta le parole di Giorgetti sul futuro dell'Italia in relazione al deficit. La Stampa, con \"Il deficit sopra il 3%, Giorgetti sfida la Ue\", sottolinea la posizione del ministro e l'ira della Meloni. Il Fatto Quotidiano si focalizza su Nordio e la proposta di \"modica quantità anche per le mazzette\". Il Giornale riporta \"Sì alla fiducia, ancora scontro in Aula\", indicando un clima teso in Parlamento.",
+  "corpo2": "Tra gli altri titoli di rilievo, il tema del calciomercato è presente su diverse testate, con notizie su Calhanoglu, Alisson e Goretzka. Ancora, si segnala l'invio di navi militari italiane in Medio Oriente a seguito del sequestro di cargo da parte dell'Iran. Oggi, la situazione economica e le tensioni politiche dominano le prime pagine dei giornali italiani.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-22T05:51:37.240709+00:00",
+  "published_at": "2026-04-23T05:46:11.247356+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/503eec80c4d317d10bd1f70477201e45751c9b5b/skytg24/it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile/Composite_22_aprile.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/a1d3fb201eb1a46a519f4386dd435590c577a65b/skytg24/it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,14 +35,21 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 22 aprile 2026",
+      "title": "Oroscopo di oggi, giovedì 23 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "Sei milioni di pensionati divisi in due: metà riceve la pensione a fine aprile, metà a inizio maggio",
+      "url": "/economia/pensioni-in-anticipo-ma-differenze-tra-poste-e-ban-fb269f06ac7c9f52",
+      "id": "fb269f06ac7c9f52",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/21/211637101-325a02f9-e7f4-4409-8395-d0ba24149ca0.jpg",
+      "image_type": "image"
     },
     {
       "title": "Milano, il 21 aprile 2026 l'inter supera il como",
@@ -50,13 +57,6 @@
       "id": "8796b02dee5cadc4",
       "image_url": "https://sport.sky.it/assets/images/d617bbb60d9a52004d102641a68fe58a80850370/skysport/it/calcio/coppa-italia/2026/04/21/inter-como-fabregas-intervista-video/fabregas_ipa_4.jpg",
       "image_type": "feed_image"
-    },
-    {
-      "title": "Il Presidente brasiliano minaccia blocco materie prime",
-      "url": "/esteri/brasile-a-hannover-ora-pretende-pari-dignita-econo-1ecfae1f36a36188",
-      "id": "1ecfae1f36a36188",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/9/c40cc539243d82658d3a7d5bd2a65f7b.jpg",
-      "image_type": "image"
     }
   ],
   "hero_eligible": true
