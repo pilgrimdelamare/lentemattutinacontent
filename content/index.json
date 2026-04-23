@@ -1,5 +1,23 @@
 [
   {
+    "id": "8fdc45d0c6f7aab3",
+    "slug": "shakespeare-studia-il-clima-a-verona-il-congresso-8fdc45d0c6f7aab3",
+    "title": "Shakespeare sotto accusa: a Verona il congresso che lo lega al clima",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-23T11:32:11.740847+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/f94f3a5fbad624597beeba67313db88b.jpg",
+    "occhiello": "SHAKESPEARE DIVENTA IL TESTIMONE DI ACCUSA PER IL CLIMA",
+    "lead_preview": "Verona, 23 aprile. Centinaia di relatori provenienti da ogni parte del mondo si riuniscono a Verona per un congresso ded",
+    "tags": [
+      "congresso shakespeare verona",
+      "shakespeare e clima"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f3a40053d66403f7",
     "slug": "tajani-salvini-e-foti-assediano-il-senato-in-un-bl-f3a40053d66403f7",
     "title": "Tajani, Salvini e Foti assediano il Senato in un blitz parlamentare senza preavviso",
@@ -975,24 +993,6 @@
     "tags": [
       "maratona di roma",
       "infront corriere dello sport"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8fdc45d0c6f7aab3",
-    "slug": "shakespeare-studia-il-clima-a-verona-il-congresso-8fdc45d0c6f7aab3",
-    "title": "Shakespeare studia il clima: a Verona il congresso che lega il Bardo all'Antropocene",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-23T11:32:11.740847+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/f94f3a5fbad624597beeba67313db88b.jpg",
-    "occhiello": "CENTINAIA DI RELATORI A VERONA PER SHAKESPEARE E IL CLIMA",
-    "lead_preview": "Verona, 23 aprile. Centinaia di relatori provenienti da ogni parte del mondo si riuniscono a Verona per un congresso ded",
-    "tags": [
-      "shakespeare e clima",
-      "congresso shakespeare verona"
     ],
     "hero_eligible": true
   },
