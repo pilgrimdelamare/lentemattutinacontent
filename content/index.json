@@ -1,5 +1,23 @@
 [
   {
+    "id": "af25e86418f9f37e",
+    "slug": "catalogna-il-potere-del-libro-tra-identita-e-merca-af25e86418f9f37e",
+    "title": "Barcellona incassa 100 milioni di euro con la festa di San Jordi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T11:06:44.414676+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/c3a06fdb262142c6919708e847abcbb7.jpg",
+    "occhiello": "BARCELLONA PUNTA 100 MILIONI SUL SOFT POWER EDITORIALE",
+    "lead_preview": "Barcellona, 23 aprile. La città catalana celebra oggi la festa di San Jordi, trasformandosi in un distretto a cielo aper",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2fe4adca19d7b7db",
     "slug": "calcio-mariani-arbitra-torino-inter-doveri-a-napol-2fe4adca19d7b7db",
     "title": "Calcio: Arbitri esperti per le sfide decisive, l'AIA punta sulla gestione del campo",
@@ -3331,24 +3349,6 @@
       "moto gp",
       "bagnaia vince",
       "jerez"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "af25e86418f9f37e",
-    "slug": "catalogna-il-potere-del-libro-tra-identita-e-merca-af25e86418f9f37e",
-    "title": "Barcellona: 100 milioni di euro per i libri di San Jordi, boom per le case editrici catalane",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T11:06:44.414676+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/c3a06fdb262142c6919708e847abcbb7.jpg",
-    "occhiello": "BARCELLONA CELEBRA SAN JORDI TRA VENDITE E RIVENDICAZIONI POLITICHE",
-    "lead_preview": "Barcellona, 23 aprile. La città si trasforma in una distesa di libri e rose per la festa di San Jordi, un appuntamento c",
-    "tags": [
-      "san jordi",
-      "libri catalani"
     ],
     "hero_eligible": true
   },
