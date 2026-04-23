@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260423",
+    "slug": "libro-del-giorno-tutto-viscontidi-jean-a-gili-e-piero-s-20260423",
+    "title": "Il libro del giorno: «Tutto Viscontidi Jean A. Gili e Piero Spila (a cura di)»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio collettivo su Luchino Visconti, regista-caposaldo della cinematografia del secolo scorso",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-23T07:01:08.460796+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/71ewndyb8hl__sl1418_-17611.jpg?1776524440",
+      "alt": "Copertina: Tutto Viscontidi Jean A. Gili e Piero Spila (a cura di)",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/71ewndyb8hl__sl1418_-17611.jpg?1776524440",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "8b1ebee85d76adbc",
     "slug": "basket-gilgeous-alexander-umilia-brooks-con-37-pun-8b1ebee85d76adbc",
     "title": "Basket: Gilgeous-Alexander umilia Brooks con 37 punti e gesto da re",
@@ -8807,25 +8826,6 @@
       "esordio juli",
       "album juli",
       "juli featuring"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bb448e1361689303",
-    "slug": "ice-lancia-startup-e-pmi-innovative-in-kenya-al-gi-bb448e1361689303",
-    "title": "ICE lancia l'offensiva tech in Kenya: le Pmi italiane conquistano Nairobi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-20T14:14:25.209831+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/675f889d6c1ed54b7ba906a50a611173.jpg",
-    "occhiello": "MISSIONE TECNOLOGICA A NAIROBI CON SOLDI PUBBLICI ITALIANI",
-    "lead_preview": "Roma, 20 aprile. L'ICE, nota come ICE, ha lanciato ufficialmente una nuova offensiva commerciale per proiettare le picco",
-    "tags": [
-      "kenya",
-      "ice",
-      "pmi italiane"
     ],
     "hero_eligible": true
   }
