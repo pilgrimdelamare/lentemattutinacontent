@@ -1,5 +1,24 @@
 [
   {
+    "id": "7446d68d4e2e5f79",
+    "slug": "russia-colpisce-grattacielo-a-dnipro-7-feriti-tra-7446d68d4e2e5f79",
+    "title": "Sette feriti e grattacielo semidistrutto a Dnipro dopo attacco russo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T00:53:52.556455+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/6/f23d9a884222deead8626be7c5420a81.jpg",
+    "occhiello": "DRONE RUSSO CENTRA IL CENTRO DIREZIONALE DI DNIPRO",
+    "lead_preview": "Dnipro, 23 aprile. Un attacco condotto da forze russe ha colpito un grattacielo nel centro di Dnipro, causando il ferime",
+    "tags": [
+      "attacco russo dnipro",
+      "drone russo",
+      "grattacielo dnipro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b53acc62d081fdc8",
     "slug": "navi-sequestrate-e-dimissioni-al-pentagono-b53acc62d081fdc8",
     "title": "Iran ferma 3 navi mercantili",
@@ -3201,25 +3220,6 @@
       "serie a basket",
       "playoff serie a",
       "basket venezia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7446d68d4e2e5f79",
-    "slug": "russia-colpisce-grattacielo-a-dnipro-7-feriti-tra-7446d68d4e2e5f79",
-    "title": "Russia colpisce un grattacielo a Dnipro: 7 feriti e crollo parziale in centro città",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T00:53:52.556455+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/6/f23d9a884222deead8626be7c5420a81.jpg",
-    "occhiello": "",
-    "lead_preview": "Dnipro, 23 aprile. Un attacco condotto da forze russe ha colpito un grattacielo nel centro di Dnipro, causando il ferime",
-    "tags": [
-      "guerra ucraina",
-      "attacco russo",
-      "dnipro"
     ],
     "hero_eligible": true
   },
