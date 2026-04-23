@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub KO: Microsoft blocca il codice di milioni di sviluppatori per 50 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-23T17:05:05.863023+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "CINQUANTA MINUTI DI BUIO PER IL CUORE DEL CODICE MONDIALE",
+    "lead_preview": "San Francisco, 23 aprile. GitHub, la piattaforma di proprietà di Microsoft che ospita la maggior parte dello sviluppo so",
+    "tags": [
+      "github ko",
+      "interruzione servizi",
+      "microsoft github"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "305a57ac7b153b3c",
     "slug": "antitrust-e-finanza-perquisiscono-vorwerk-per-inga-305a57ac7b153b3c",
     "title": "Vorwerk sotto Inchiesta per Dati Truccati sui Robot Aspirapolvere",
@@ -937,25 +956,6 @@
     "lead_preview": "Roma, 23 aprile. L'euro si attesta a 1,1704 sul dollaro e a 186,79 sullo yen, un equilibrio che, secondo le informazioni",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 50 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-23T17:05:05.863023+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 50 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c72e2815af0e1edd",
