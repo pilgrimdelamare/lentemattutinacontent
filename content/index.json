@@ -1,5 +1,24 @@
 [
   {
+    "id": "a1b02817d8ce249c",
+    "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
+    "title": "Nikkei a 60.013 punti: Tokyo supera per la prima volta la soglia dei 60.000",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T00:58:08.189731+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
+    "occhiello": "NIKKEI SFONDA I 60.000",
+    "lead_preview": "Tokyo, 23 aprile. L’indice Nikkei della Borsa di Tokyo ha superato per la prima volta la soglia psicologica dei 60.000 p",
+    "tags": [
+      "nikkei 60000",
+      "borsa tokyo",
+      "mercato azionario giappone"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2e22d6d2cc19b902",
     "slug": "basket-venezia-milano-in-diretta-sky-sfida-crucial-2e22d6d2cc19b902",
     "title": "Basket: Venezia-Milano in diretta su Sky, duello da 400mila euro per i playoff",
@@ -3679,21 +3698,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a1b02817d8ce249c",
-    "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
-    "title": "Borsa di Tokyo spacca tutto: Nikkei vola oltre i 60.000 punti in un record storico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-23T00:58:08.189731+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
-    "occhiello": "NIKKEI OLTRE I 60.000 PUNTI: IL RECORD STORICO DI TOKYO",
-    "lead_preview": "Tokyo, 23 aprile. L’indice Nikkei della Borsa di Tokyo ha infranto la barriera psicologica dei 60.000 punti, segnando un",
-    "tags": [],
     "hero_eligible": true
   },
   {
