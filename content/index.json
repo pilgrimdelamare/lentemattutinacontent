@@ -1,5 +1,24 @@
 [
   {
+    "id": "741998e8940c5ef9",
+    "slug": "la-polizia-carica-i-docenti-in-sciopero-a-la-paz-f-741998e8940c5ef9",
+    "title": "Bolivia: Docenti in rivolta a La Paz, scontri con la polizia paralizzano la città",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T01:17:36.252496+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/d881a2ab11bab5beb346f1deddca3407.jpg",
+    "occhiello": "SCONTRI A LA PAZ PER GLI STIPENDI DEI DOCENTI",
+    "lead_preview": "La Paz, 23 aprile. I docenti boliviani in sciopero hanno marciato per le strade della capitale, scontrandosi violentemen",
+    "tags": [
+      "bolivia docenti",
+      "proteste la paz",
+      "sciopero bolivia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "179c25473db1d887",
     "slug": "11-aziende-in-crisi-e-7000-posti-a-rischio-lindust-179c25473db1d887",
     "title": "+5% Fallimenti in Italia: 50mila lavoratori rischiano il licenziamento",
@@ -3422,25 +3441,6 @@
       "sinner madrid",
       "masters 1000",
       "bonzi sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "741998e8940c5ef9",
-    "slug": "la-polizia-carica-i-docenti-in-sciopero-a-la-paz-f-741998e8940c5ef9",
-    "title": "Bolivia: Docenti in rivolta a La Paz, scontri con la polizia per gli stipendi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T01:17:36.252496+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/d881a2ab11bab5beb346f1deddca3407.jpg",
-    "occhiello": "SCONTRI TRA DOCENTI E POLIZIA A LA PAZ PER SALARI",
-    "lead_preview": "La Paz, 23 aprile. I docenti boliviani in sciopero hanno marciato per le strade della capitale, scontrandosi violentemen",
-    "tags": [
-      "bolivia docenti",
-      "sciopero bolivia",
-      "la paz scontri"
     ],
     "hero_eligible": true
   },
