@@ -1,5 +1,23 @@
 [
   {
+    "id": "3c3904c626ba72e1",
+    "slug": "jovanotti-sale-sul-palco-al-circo-massimo-per-un-c-3c3904c626ba72e1",
+    "title": "Jovanotti sale sul palco al Circo Massimo per un concerto gratuito in agosto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-23T15:49:30.642807+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/9b41d9bbc07077e97df45bf60013d821.jpg",
+    "occhiello": "JOVANOTTI SI PREPARA PER IL SUO CONCERTO A ROMA",
+    "lead_preview": "Jovanotti si prepara per il suo concerto a Roma È stata annunciata la partenza di Jovanotti dal Circo Massimo il 9 agost",
+    "tags": [
+      "jovanotti",
+      "concerto roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "609a085ca2e15bcf",
     "slug": "ciclismo-jasch-travolge-lultima-salita-per-vincere-609a085ca2e15bcf",
     "title": "Ciclismo: Jasch travolge l'ultima salita per vincere la quarta tappa",
@@ -8890,25 +8908,6 @@
       "crisi globali",
       "premi nobel",
       "ministri europei"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e0d28ad0361bc032",
-    "slug": "poste-italiane-attacca-lantitrust-ricorso-al-tar-p-e0d28ad0361bc032",
-    "title": "Poste Italiane ricorre al Tar Lazio contro la multa da 12,5 milioni dell'Antitrust",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-20T18:19:21.422309+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/27/c428dc83570cd55cd931ac60c1c2655f.jpg",
-    "occhiello": "POSTE RICORRE CONTRO MULTA DA 12,5 MILIONI",
-    "lead_preview": "Roma, 20 aprile. Poste Italiane ha depositato un ricorso formale presso il Tribunale amministrativo regionale del Lazio ",
-    "tags": [
-      "ricorso poste antitrust",
-      "multa 12,5 milioni",
-      "tar lazio poste"
     ],
     "hero_eligible": true
   }
