@@ -1,5 +1,24 @@
 [
   {
+    "id": "e023b3917684c696",
+    "slug": "nasa-lancia-il-roman-space-telescope-a-settembre-d-e023b3917684c696",
+    "title": "Nasa conferma lancio del Roman Space Telescope a settembre",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-23T11:28:14.556893+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/23/131932361-52245b38-bc0a-46bd-bb3e-3d5de23a24ba.jpg",
+    "occhiello": "IL TELESCOPIO ROMAN DECOLLA DA CAPE CANAVERAL CON SPACEX",
+    "lead_preview": "Cape Canaveral, 23 aprile 2026 La Nasa ha confermato il Programma di lancio del Roman Space Telescope, fissato per sette",
+    "tags": [
+      "lancio spaziale",
+      "telescopio spaziale",
+      "nasa spazio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8fdc45d0c6f7aab3",
     "slug": "shakespeare-studia-il-clima-a-verona-il-congresso-8fdc45d0c6f7aab3",
     "title": "Shakespeare sotto accusa: a Verona il congresso che lo lega al clima",
@@ -1012,25 +1031,6 @@
       "apertura archivi ungheresi",
       "magyar premier",
       "segreto comunista ungheria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e023b3917684c696",
-    "slug": "nasa-lancia-il-roman-space-telescope-a-settembre-d-e023b3917684c696",
-    "title": "Nasa lancia il Roman Space Telescope a settembre dal Kennedy Space Center con Falcon Heavy",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-23T11:28:14.556893+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/23/131932361-52245b38-bc0a-46bd-bb3e-3d5de23a24ba.jpg",
-    "occhiello": "SPACEX LANCERÀ IL TELESCOPIO NASA A SETTEMBRE DA CAPE CANAVERAL",
-    "lead_preview": "Cape Canaveral, 23 aprile 2026. La Nasa ha confermato il programma di lancio del Roman Space Telescope, fissato per il m",
-    "tags": [
-      "lancio roman telescope",
-      "nasa falcon heavy",
-      "spacex cape canaveral"
     ],
     "hero_eligible": true
   },
