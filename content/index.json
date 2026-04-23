@@ -1,5 +1,24 @@
 [
   {
+    "id": "8c7590c39db185dd",
+    "slug": "trump-smentisce-la-scadenza-sulla-tregua-con-liran-8c7590c39db185dd",
+    "title": "La Casa Bianca Smentisce Trump, Nessuna Scadenza per il Cessate il Fuoco",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-22T20:16:07.915088+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/93aab4f26d081dbada22ce37b2886eec.jpg",
+    "occhiello": "WASHINGTON SMENTISCE ULTIMATUM ALL'IRAN: TREGUA SENZA SCADENZA",
+    "lead_preview": "Washington, 22 aprile 2026. La Casa Bianca ha smentito che esista una scadenza tassativa per il cessate il fuoco tra Sta",
+    "tags": [
+      "cessate il fuoco",
+      "iran usa",
+      "trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c8e08db88ef1512e",
     "slug": "pallavolo-haak-spegne-egonu-e-porta-conegliano-al-c8e08db88ef1512e",
     "title": "Pallavolo: la Doc Imoco Conegliano vince il nono scudetto con tre giornate d'anticipo",
@@ -5204,25 +5223,6 @@
       "tregua iran trump",
       "crisi stretto hormuz",
       "minacce raid iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8c7590c39db185dd",
-    "slug": "trump-smentisce-la-scadenza-sulla-tregua-con-liran-8c7590c39db185dd",
-    "title": "Washington smentisce ultimatum all'Iran: no data fine tregua e vertice bloccato",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-22T20:16:07.915088+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/93aab4f26d081dbada22ce37b2886eec.jpg",
-    "occhiello": "TRUMP SMENTISCE LA SCADENZA SULLA TREGUA CON L'IRAN",
-    "lead_preview": "Washington, 22 aprile 2026. La Casa Bianca precisa che non esiste alcuna scadenza tassativa per il cessate il fuoco tra ",
-    "tags": [
-      "tregua iran",
-      "ultimatum iran",
-      "trump iran"
     ],
     "hero_eligible": true
   },
