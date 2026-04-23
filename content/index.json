@@ -1,5 +1,24 @@
 [
   {
+    "id": "c6a6afed2f341435",
+    "slug": "wall-street-apre-in-rosso-nasdaq-perde-lo-042-sp-5-c6a6afed2f341435",
+    "title": "Wall Street apre in calo: S&P 500 -0,27%, Dow Jones -0,26%, Nasdaq -0,42%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-23T14:06:12.203031+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/ee351792e56fbbaed8021400d99d4d12.jpg",
+    "occhiello": "WALL STREET IN ROSO: NASDAQ PERDE LO 0,42%",
+    "lead_preview": "Roma, 23 aprile. L'S&P 500 ha perso lo 0,27%, il Dow Jones lo 0,26% e il Nasdaq lo 0,42% nell'apertura di Borsa di Wall ",
+    "tags": [
+      "wall street calo",
+      "borsa new york",
+      "s&p 500"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dfa1ed867e62c540",
     "slug": "maxxi-espone-il-murale-inedito-di-pazienza-fino-a-dfa1ed867e62c540",
     "title": "Maxxi espone Murale di Pazienza, capolavoro del 1985 mai visto dal pubblico",
@@ -1435,24 +1454,6 @@
       "spettacolo burn roma",
       "danze israeliane auditorium",
       "funding mic spettacoli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6a6afed2f341435",
-    "slug": "wall-street-apre-in-rosso-nasdaq-perde-lo-042-sp-5-c6a6afed2f341435",
-    "title": "Wall Street apre in rosso: Nasdaq perde lo 0,42%, S&P 500 scende dello 0,27%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T14:06:12.203031+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/14/ee351792e56fbbaed8021400d99d4d12.jpg",
-    "occhiello": "CROLLO A WALL STREET DOPO L'APERTURA",
-    "lead_preview": "Wall Street, 23 aprile. L’S&P 500 ha perso lo 0,27%, il Dow Jones lo 0,26% e il Nasdaq lo 0,42% nell’apertura di Borsa d",
-    "tags": [
-      "borsa wall street",
-      "crisi finanziaria"
     ],
     "hero_eligible": true
   },
