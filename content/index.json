@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-23T16:29:53.086903+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "94644ed6a34f1474",
     "slug": "iran-giustizia-sommaria-per-masoud-zare-accusato-d-94644ed6a34f1474",
     "title": "Iran giustizia a morte uomo accusato di collaborare con Mossad",
@@ -8895,25 +8914,6 @@
       "crisi energetica",
       "mulino bianco",
       "prezzi alimentari"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ca0b6e69f657b353",
-    "slug": "carlos-alcaraz-eletto-sportivo-dellanno-ai-laureus-ca0b6e69f657b353",
-    "title": "Tennis: Alcaraz è il nuovo dominatore",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-20T18:48:03.959627+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/9ede0b9e98d48567ef6511362cd76a22.jpg",
-    "occhiello": "ALCARAZ VINCE IL LAUREUS 2025",
-    "lead_preview": "Carlos Alcaraz Garfia è stato insignito del premio Laureus come sportivo dell’anno 2025.",
-    "tags": [
-      "laureus 2025",
-      "premio alcaraz",
-      "tennis alcaraz"
     ],
     "hero_eligible": true
   }
