@@ -1,5 +1,24 @@
 [
   {
+    "id": "f3a40053d66403f7",
+    "slug": "tajani-salvini-e-foti-assediano-il-senato-in-un-bl-f3a40053d66403f7",
+    "title": "Tajani e Salvini approvano legge con fondi per sviluppo economico",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-23T13:35:37.188584+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/7d571022f583ac40748e43ed758ecc3a.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO",
+    "lead_preview": "Roma, 23 aprile 2026. L'aula del Senato si è trasformata oggi in un palcoscenico per la maggioranza, impegnata in un bli",
+    "tags": [
+      "legge sviluppo",
+      "fondi scomparsi",
+      "senato approva"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b44ea03278054d75",
     "slug": "la-costa-davorio-crea-un-fondo-sovrano-b44ea03278054d75",
     "title": "Costa d'Avorio lancia un Fondo sovrano da 17 miliardi di franchi CFA per lo sviluppo",
@@ -1340,25 +1359,6 @@
     "tags": [
       "congresso shakespeare verona",
       "shakespeare e clima"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f3a40053d66403f7",
-    "slug": "tajani-salvini-e-foti-assediano-il-senato-in-un-bl-f3a40053d66403f7",
-    "title": "Tajani, Salvini e Foti assediano il Senato in un blitz parlamentare senza preavviso",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-23T13:35:37.188584+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/22/7d571022f583ac40748e43ed758ecc3a.jpg",
-    "occhiello": "TAJANI, SALVINI E FOTI IN SCENA PER IL QUESTION TIME",
-    "lead_preview": "Roma, 23 aprile 2026. L'aula del Senato si è trasformata oggi in un palcoscenico per la maggioranza, impegnata nel Quest",
-    "tags": [
-      "question time senato",
-      "tajani salvini foti",
-      "blitz parlamentare 2026"
     ],
     "hero_eligible": true
   },
