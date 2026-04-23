@@ -1,5 +1,24 @@
 [
   {
+    "id": "604c499d02d18600",
+    "slug": "calcio-la-citta-di-buenos-aires-vieta-i-papelitos-604c499d02d18600",
+    "title": "Calcio: La città di Buenos Aires vieta i papelitos",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-23T08:41:28.271171+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/2420a408ea667aa1f65e3e2c8d5098e4.jpg",
+    "occhiello": "STOP AI PAPELITOS NEGLI STADI DI BUENOS AIRES",
+    "lead_preview": "Buenos Aires, 23 aprile 2026. L'amministrazione cittadina della capitale Argentina ha ufficialmente vietato l'utilizzo d",
+    "tags": [
+      "vietati papelitos buenos aires",
+      "tifosi calcio argentina",
+      "divieto coriandoli stadi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4aeac0b527d819c4",
     "slug": "benzina-a-1737-e-gasolio-a-2067-dopo-quattordici-g-4aeac0b527d819c4",
     "title": "Benzina a 1,737 e gasolio a 2,067 dopo quattordici giorni",
@@ -8803,21 +8822,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e61e0bc02125f8a0",
-    "slug": "bru-zane-a-venezia-rilancia-lopera-di-charles-silv-e61e0bc02125f8a0",
-    "title": "Palazzetto Bru Zane lancia cofanetto di La Belle au bois dormant di Charles Silver",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-20T13:35:43.268731+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/7b4896e63f20e693bf2468388366a578.jpg",
-    "occhiello": "CHARLES SILVER RIESUMATO DALLA POLVERE DELLA MUSICA FRANCESE",
-    "lead_preview": "Venezia, 20 aprile 2026. Il Palazzetto Bru Zane amplia la propria collana dedicata all'opera francese con la pubblicazio",
-    "tags": [],
     "hero_eligible": true
   }
 ]
