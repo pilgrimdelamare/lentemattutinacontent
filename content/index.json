@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 50 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-23T17:05:05.863023+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 50 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c72e2815af0e1edd",
     "slug": "basket-jaden-ivey-e-cade-cunningham-trascinano-i-p-c72e2815af0e1edd",
     "title": "Basket: Ivey e Cunningham guidano Detroit alla vittoria: Orlando in crisi offensiva",
@@ -375,25 +394,6 @@
       "classifica calcio"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-23T16:29:53.086903+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "94644ed6a34f1474",
