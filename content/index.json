@@ -1,5 +1,24 @@
 [
   {
+    "id": "b8ce1762d71c486c",
+    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
+    "title": "Firefox blindato: 271 Falle chiuse, ma l'IA di Anthropic è sotto attacco!",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-22T10:00:39.138680+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
+    "occhiello": "Mozilla corregge 271 falle: ANTHROPIC, scandalo svelato con IA sfruttata",
+    "lead_preview": "Roma, 22 aprile 2026. Mozilla ha corretto 271 vulnerabilità critiche nella nuova versione 150 di Firefox. L'annuncio arr",
+    "tags": [
+      "firefox 150",
+      "anthropic scandalo",
+      "vulnerabilità firefox"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "249eee9c5e058920",
     "slug": "iran-blocca-i-negoziati-niente-trattative-finche-d-249eee9c5e058920",
     "title": "Iran blocca i negoziati: 'Niente trattative finché dura l’embargo USA'",
@@ -3048,21 +3067,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8ce1762d71c486c",
-    "slug": "firefox-150-lia-claude-mythos-scova-271-falle-10-v-b8ce1762d71c486c",
-    "title": "Firefox al lavoro su 271 Falle: l'IA di Anthropic violata nello stesso giorno",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-22T10:00:39.138680+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e8946a2438ef2066781c5c/16:9/w_1280,c_limit/2239767271",
-    "occhiello": "271 VULNERABILITÀ CRITICHE SCOPERTE NEL MOTORE DI FIREFOX",
-    "lead_preview": "Roma, 22 aprile 2026. Mozilla ha corretto 271 vulnerabilità di Sicurezza critiche all'interno della nuova versione 150 d",
-    "tags": [],
     "hero_eligible": true
   },
   {
