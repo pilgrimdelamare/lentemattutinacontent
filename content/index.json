@@ -1,5 +1,23 @@
 [
   {
+    "id": "28b17ac3d83590f6",
+    "slug": "i-corti-arca-e-rukeli-vincono-il-nastro-dargento-28b17ac3d83590f6",
+    "title": "I corti 'Arca' e 'Rukeli' vincono il Nastro d'Argento",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-23T14:37:29.729830+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/a89e318b9983a7ddff98959beafcab41.jpg",
+    "occhiello": "PREMI AI CORTI AL NASTRO 2026",
+    "lead_preview": "Roma, 23 aprile. I cortometraggi ‘Arca’ di Tommaso Quagliozzi e ‘Rukeli’ di Arben Rak hanno vinto il Nastro d’Argento 20",
+    "tags": [
+      "nastro d'argento",
+      "cortometraggi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c59824461f66f1f0",
     "slug": "sestri-levante-frears-modine-e-morante-al-festival-c59824461f66f1f0",
     "title": "Sestri Levante: Frears, Modine e Morante al Festival sul Premier Orbán",
@@ -8811,21 +8829,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "53f3f5f8713b4048",
-    "slug": "ministro-abodi-50-dei-giovani-italiani-avra-access-53f3f5f8713b4048",
-    "title": "Abodi sblocca 500 milioni: la Croce Rossa rifà gli impianti sportivi d'Italia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-20T12:13:28.642420+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/3/e238f5d08f9f1ded4841555d585f2d68.jpg",
-    "occhiello": "FONDI SPORTIVI ALLA CROCE ROSSA: LA SVOLTA DI ABODI",
-    "lead_preview": "Roma, 20 aprile. Il Ministro per lo sport e i giovani, Andrea Abodi, ha annunciato un piano di finanziamenti straordinar",
-    "tags": [],
     "hero_eligible": true
   }
 ]
