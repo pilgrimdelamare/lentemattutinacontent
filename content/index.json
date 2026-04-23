@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 23 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-23T05:46:11.247356+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/a1d3fb201eb1a46a519f4386dd435590c577a65b/skytg24/it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 23 APRILE 2026",
+    "lead_preview": "Oggi i quotidiani italiani si concentrano principalmente sulla situazione economica del paese, con particolare riferimen",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6e0a296d8669807d",
     "slug": "basket-portland-vince-106-103-san-antonio-crolla-s-6e0a296d8669807d",
     "title": "Basket: Victor Wembanyama esce infortunato e i Spurs perdono in casa contro i Trail Blazers",
@@ -4539,25 +4558,6 @@
       "sfide europee",
       "kombouaré",
       "paris fc"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 22 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-22T05:51:37.240709+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/503eec80c4d317d10bd1f70477201e45751c9b5b/skytg24/it/cronaca/2026/04/22/prime-pagine-quotidiani-oggi-22-aprile/Composite_22_aprile.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 22 APRILE 2026",
-    "lead_preview": "I quotidiani di oggi si concentrano in gran parte sullo scontro diplomatico tra Italia e Russia, scatenato dagli insulti",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
