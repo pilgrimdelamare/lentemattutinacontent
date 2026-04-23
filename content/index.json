@@ -1,5 +1,24 @@
 [
   {
+    "id": "5f87f8b6db6770fb",
+    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
+    "title": "FBI blocca indagine su Maggie Haberman per rischio di violazione della libertà di stampa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T00:54:32.139765+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "",
+    "lead_preview": "Washington, 23 aprile. Il Dipartimento di Giustizia ha bloccato un’indagine dell’FBI avviata nei confronti di Maggie Hab",
+    "tags": [
+      "fbi",
+      "maggie haberman",
+      "libertà di stampa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a1b02817d8ce249c",
     "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
     "title": "Nikkei a 60.013 punti: Tokyo supera per la prima volta la soglia dei 60.000",
@@ -3680,24 +3699,6 @@
     "occhiello": "DAL TITOLO PREMIER ALLA LEAGUE ONE IN DIECI ANNI",
     "lead_preview": "Leicester, 22 aprile. Il Leicester City è ufficialmente retrocesso in League One, la terza divisione del calcio inglese,",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5f87f8b6db6770fb",
-    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
-    "title": "Washington: il Dipartimento di Giustizia ferma l'indagine FBI su giornalista NYT",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T00:54:32.139765+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "FBI INDAGA UNA REPORTER, IL DIPARTIMENTO DI GIUSTIZIA BLOCCA IL CASO",
-    "lead_preview": "Washington, 23 aprile 2026. L'agenzia federale americana FBI ha condotto un'indagine su una reporter del New York Times,",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   },
   {
