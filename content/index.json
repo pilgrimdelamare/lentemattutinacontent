@@ -1,5 +1,23 @@
 [
   {
+    "id": "eeffe45c21889c7d",
+    "slug": "due-treni-si-scontrano-a-kagerup-eeffe45c21889c7d",
+    "title": "Due treni si scontrano a Kagerup",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-23T06:29:53.223145+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/6bc54e821ee522b8ea2139dabf62d3ae.jpg",
+    "occhiello": "SCOMPARSO CONTROLLO SUI BINARI",
+    "lead_preview": "Due treni regionali si sono scontrati questa mattina a kagerup, a circa 50 km a nord da copenaghen in danimarca. secondo",
+    "tags": [
+      "incidente ferroviario",
+      "kagerup"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f533fb055114a497",
     "slug": "oro-cala-a-4715-dollari-loncia-f533fb055114a497",
     "title": "Oro cala a 4.715 dollari l'oncia",
@@ -8824,25 +8842,6 @@
     "occhiello": "APPALTI CYBER E FONDI INTELLIGENCE: INDAGATO L'EX NUMERO DUE DEL DIS",
     "lead_preview": "Roma, 21 aprile 2026. L'imprenditore attivo nel settore della cyber Sicurezza, noto alle cronache giudiziarie come Salad",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "349354e12b70926f",
-    "slug": "iran-trasforma-lo-stretto-di-hormuz-in-pedaggio-pe-349354e12b70926f",
-    "title": "Iran trasforma il controllo di Hormuz in leva per negoziati a Islamabad",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-20T23:10:42.172701+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/20/204851194-c232f7bc-ae48-4a3a-8548-3eef2532e101.jpg",
-    "occhiello": "L'IRAN TRASFORMA LO STRETTO IN PEDAGGIO PER LA RICOSTRUZIONE",
-    "lead_preview": "Teheran, 21 aprile 2026. Mentre si intensificano i contatti per un nuovo incontro di pace, l'analista Ali Vaez delinea l",
-    "tags": [
-      "controllo hormuz",
-      "negoziati islamabad",
-      "priorità iran"
-    ],
     "hero_eligible": true
   }
 ]
