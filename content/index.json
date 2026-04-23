@@ -1,5 +1,23 @@
 [
   {
+    "id": "5f87f8b6db6770fb",
+    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
+    "title": "Washington: il Dipartimento di Giustizia ferma l'indagine FBI su giornalista NYT",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T00:54:32.139765+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "FBI INDAGA UNA REPORTER, IL DIPARTIMENTO DI GIUSTIZIA BLOCCA IL CASO",
+    "lead_preview": "Washington, 23 aprile 2026. L'agenzia federale americana FBI ha condotto un'indagine su una reporter del New York Times,",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7446d68d4e2e5f79",
     "slug": "russia-colpisce-grattacielo-a-dnipro-7-feriti-tra-7446d68d4e2e5f79",
     "title": "Un attacco russo colpisce il cuore logistico dell'ucraina",
@@ -847,25 +865,6 @@
     "occhiello": "DIMISSIONI IMMEDIATE AL PENTAGONO MENTRE IL CONFLITTO SI INFIAMMA",
     "lead_preview": "Washington, 23 aprile 2026. John Phelan, 79° Segretario alla Marina degli Stati Uniti, ha rassegnato le proprie dimissio",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5f87f8b6db6770fb",
-    "slug": "fbi-indaga-reporter-del-new-york-times-ma-il-dipar-5f87f8b6db6770fb",
-    "title": "FBI indaga reporter del New York Times, ma il Dipartimento di Giustizia blocca il caso",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-23T00:54:32.139765+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "FBI INDAGA SU UNA GIORNALISTA DEL NEW YORK TIMES",
-    "lead_preview": "Washington, 23 aprile 2026. L'agenzia federale americana FBI ha condotto un'indagine su una reporter del New York Times ",
-    "tags": [
-      "fbi indaga giornalista",
-      "nytimes caso fbi",
-      "indagine giornalismo usa"
-    ],
     "hero_eligible": true
   },
   {
