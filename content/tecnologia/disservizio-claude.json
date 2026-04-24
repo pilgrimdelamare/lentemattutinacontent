@@ -1,27 +1,24 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti.",
+  "title": "Claude riprende servizio dopo un guasto breve",
   "titles": [
-    "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti.",
-    "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti.",
-    "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti."
+    "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE",
+    "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE",
+    "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO CLAUDE RIPRISTINATO",
-  "lead": "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti. L'accesso alla piattaforma è stato completamente ripristinato per tutti gli utenti.",
-  "corpo1": "Alle ore 10:17 CET si è verificata un'interruzione del servizio Claude, dovuta a un problema di infrastruttura. I nostri team tecnici hanno immediatamente avviato le procedure di diagnostica e risoluzione. Il servizio è stato completamente ripristinato alle ore 10:53 CET. Abbiamo monitorato attentamente la stabilizzazione del sistema per garantire un ritorno operativo ottimale. Si scusano gli utenti per il disagio causato.",
-  "corpo2": "",
+  "occhiello": "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE",
+  "lead": "Milano, 24 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato operativo dopo un'interruzione di servizio durata 36 minuti. L'accesso alla piattaforma è stato momentaneamente compromesso, generando disagi per gli utenti.",
+  "corpo1": "Il malfunzionamento è stato segnalato agli utenti intorno alle 3:00 ora Italiana, causando difficoltà nell'accesso alla piattaforma. Secondo quanto riferito, l'interruzione è stata risolta rapidamente dalla squadra tecnica di Anthropic, che ha lavorato per ripristinare il servizio. La società ha comunicato che il problema è stato dovuto a un errore di sistema, senza fornire ulteriori dettagli tecnici. Claude, lanciato nel 2023, è un modello di linguaggio che compete con altri sistemi simili, come quelli di OpenAI e Google, e ha guadagnato popolarità per la sua capacità di generare contenuti scritti in modo coerente e contestualmente rilevante. La ripresa del servizio è fondamentale per gli utenti e le aziende che dipendono dall'accesso continuo a questa tecnologia.",
+  "corpo2": "Questo breve downtime evidenzia la vulnerabilità delle piattaforme di intelligenza artificiale nel contesto di un mercato in rapida espansione. Claude, come altri modelli di linguaggio, si basa su enormi quantità di dati e richiede infrastrutture robuste per funzionare in modo efficiente. La dipendenza da server fisici, che devono essere costantemente operativi, solleva interrogativi sulla resilienza delle aziende tech. I modelli di linguaggio, infatti, non sono solo strumenti di automazione, ma anche componenti cruciali per molte aziende che li utilizzano per la generazione di contenuti, assistenza clienti e analisi di dati. La fiducia degli utenti è essenziale per il successo a lungo termine di Claude. In passato, altre piattaforme hanno subito interruzioni più gravi, ma la rapidità con cui Anthropic ha gestito questo incidente potrebbe contribuire a mantenere la sua reputazione nel settore. Infine, la questione della stabilità e dell'affidabilità dei servizi di IA è diventata Centrale, poiché un'interruzione, anche se breve, può influenzare l'esperienza degli utenti e il panorama competitivo. La capacità di riprendersi rapidamente da tali eventi è vitale per il mantenimento della leadership nel campo dell'intelligenza artificiale.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-24T03:34:57.225000+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE\",\n  \"description\": \"Milano, 24 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato operativo dopo un'interruzione di servizio durata 36 minuti. L'accesso alla piattaforma è stato momentaneamente compromesso, generando disagi per gli utenti.\",\n  \"articleBody\": \"Milano, 24 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato operativo dopo un'interruzione di servizio durata 36 minuti. L'accesso alla piattaforma è stato momentaneamente compromesso, generando disagi per gli utenti. Il malfunzionamento è stato segnalato agli utenti intorno alle 3:00 ora Italiana, causando difficoltà nell'accesso alla piattaforma. Secondo quanto riferito, l'interruzione è stata risolta rapidamente dalla squadra tecnica di Anthropic, che ha lavorato per ripristinare il servizio. La società ha comunicato che il problema è stato dovuto a un errore di sistema, senza fornire ulteriori dettagli tecnici. Claude, lanciato nel 2023, è un modello di linguaggio che compete con altri sistemi simili, come quelli di OpenAI e Google, e ha guadagnato popolarità per la sua capacità di generare contenuti scritti in modo coerente e contestualmente rilevante. La ripresa del servizio è fondamentale per gli utenti e le aziende che dipendono dall'accesso continuo a questa tecnologia. Questo breve downtime evidenzia la vulnerabilità delle piattaforme di intelligenza artificiale nel contesto di un mercato in rapida espansione. Claude, come altri modelli di linguaggio, si basa su enormi quantità di dati e richiede infrastrutture robuste per funzionare in modo efficiente. La dipendenza da server fisici, che devono essere costantemente operativi, solleva interrogativi sulla resilienza delle aziende tech. I modelli di linguaggio, infatti, non sono solo strumenti di automazione, ma anche componenti cruciali per molte aziende che li utilizzano per la generazione di contenuti, assistenza clienti e analisi di dati. La fiducia degli utenti è essenziale per il successo a lungo termine di Claude. In passato, altre piattaforme hanno subito interruzioni più gravi, ma la rapidità con cui Anthropic ha gestito questo incidente potrebbe contribuire a mantenere la sua reputazione nel settore. Infine, la questione della stabilità e dell'affidabilità dei servizi di IA è diventata Centrale, poiché un'interruzione, anche se breve, può influenzare l'esperienza degli utenti e il panorama competitivo. La capacità di riprendersi rapidamente da tali eventi è vitale per il mantenimento della leadership nel campo dell'intelligenza artificiale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-24T03:34:57.225000+00:00\",\n  \"dateModified\": \"2026-04-24T03:34:57.225000+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Github fuori uso per cinquanta minuti: sviluppo digitale fermo",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Un software al 99,98% preciso smaschera come fake i post social attribuiti a Papa Leone XIV",
+      "url": "/tecnologia/un-software-al-9998-preciso-smaschera-come-fake-i-434a095837b6f67e",
+      "id": "434a095837b6f67e",
+      "image_url": "https://media-assets.wired.it/photos/69e9cabccfb3863839e9a43b/16:9/w_1280,c_limit/042126-ai-written-content.jpg",
       "image_type": "image"
     },
     {
-      "title": "Nasa lancia il Roman Telescope a settembre con un Falcon Heavy di SpaceX",
-      "url": "/tecnologia/nasa-lancia-il-roman-space-telescope-a-settembre-d-e023b3917684c696",
-      "id": "e023b3917684c696",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/23/131932361-52245b38-bc0a-46bd-bb3e-3d5de23a24ba.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Sony AI sfida campioni con Ace, robot table tennis a Roma",
+      "title": "Sony sfida i campioni: a Roma il robot Ace domina il ping-pong",
       "url": "/tecnologia/robot-ace-di-sony-batte-i-campioni-di-ping-pong-la-76c8176315084f3f",
       "id": "76c8176315084f3f",
       "image_url": "https://media-assets.wired.it/photos/69e9e603354ffa834a88ff71/16:9/w_1280,c_limit/178826162",
       "image_type": "image"
+    },
+    {
+      "title": "Apple: Ternus guiderà il colosso da 3 trilioni, Cook lascia nel",
+      "url": "/tecnologia/john-ternus-assumera-il-ruolo-di-ceo-di-apple-72441c57e70198cd",
+      "id": "72441c57e70198cd",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/23/110514895-a8217e1f-b81a-47a2-ba77-413f12aba28d.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-24T03:34:57.225000+00:00"
 }
