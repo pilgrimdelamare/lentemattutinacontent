@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude riprende servizio dopo un guasto breve",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-24T03:34:57.225000+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE",
+    "lead_preview": "Milano, 24 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato operativo dopo un'interruzione di",
+    "tags": [
+      "guasto claude",
+      "interruzione servizio",
+      "claude ripresa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2fe4adca19d7b7db",
     "slug": "calcio-mariani-arbitra-torino-inter-doveri-a-napol-2fe4adca19d7b7db",
     "title": "Arbitri: AIA sceglie esperti per sfide decisive in Serie A",
@@ -789,25 +808,6 @@
       "rissa in campo"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-24T03:34:57.225000+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è nuovamente operativo dopo un'interruzione di servizio durata 36 minuti. L'accesso alla piattaforma è stato comp",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6f3ab4f4a9fd4dcd",
