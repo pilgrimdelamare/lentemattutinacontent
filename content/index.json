@@ -1,5 +1,24 @@
 [
   {
+    "id": "52c6f2ecaad292f9",
+    "slug": "tornatore-filma-litaloamericano-che-sfido-wall-str-52c6f2ecaad292f9",
+    "title": "Tornatore filma Giannini a Wall Street: il regista racconta la sfida Italiana alla finanza globale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-24T11:15:47.356338+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/d8e9ccc98c9e3da63f84466dfcabaf1d.jpg",
+    "occhiello": "TORNATORE PORTA AL GALA NIAF LA VITA DI GIANNINI",
+    "lead_preview": "New York, 24 aprile 2026. Giuseppe Tornatore ha scelto la cornice del Gala Niaf per annunciare ufficialmente la produzio",
+    "tags": [
+      "giuseppe tornatore",
+      "enrico giannini",
+      "the first"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dec28484a3a85df4",
     "slug": "ai-riduce-infortuni-del-35-in-cantieri-grandi-dec28484a3a85df4",
     "title": "Intelligenza artificiale riduce del 35% gli infortuni nei cantieri di Roma",
@@ -34,24 +53,6 @@
       "celestino v",
       "michele placido",
       "rai fiction"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "52c6f2ecaad292f9",
-    "slug": "tornatore-filma-litaloamericano-che-sfido-wall-str-52c6f2ecaad292f9",
-    "title": "Tornatore annuncia The First: il film sull'italiano che sfida Wall Street",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-24T11:15:47.356338+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/d8e9ccc98c9e3da63f84466dfcabaf1d.jpg",
-    "occhiello": "GIANNINI, L'ITALOAMERICANO CHE SFIDÒ WALL STREET",
-    "lead_preview": "GIANNINI, L'ITALOAMERICANO CHE SFIDÒ WALL STREET Giuseppe Tornatore ha scelto la cornice del Gala Niaf per annunciare uf",
-    "tags": [
-      "film the first",
-      "giuseppe tornatore"
     ],
     "hero_eligible": true
   },
