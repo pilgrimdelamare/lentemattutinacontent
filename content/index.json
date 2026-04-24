@@ -1,5 +1,24 @@
 [
   {
+    "id": "ce118e4f9f64c540",
+    "slug": "pasta-made-in-italy-oltre-il-60-va-allestero-il-me-ce118e4f9f64c540",
+    "title": "Pasta Italiana Inarrestabile: Esportazioni a 4 Miliardi, Quasi un Quarto del Mondo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-23T10:32:05.586290+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/3427f27e150bc7f2f5b1164728b152ae.jpg",
+    "occhiello": "EXPORT PASTA: RECORD DA 2,46 MILIONI DI TONNELLATE",
+    "lead_preview": "Roma, 23 aprile. L'industria Italiana della Pasta ha chiuso il 2025 polverizzando ogni precedente primato e piazzando su",
+    "tags": [
+      "export pasta",
+      "industria alimentare",
+      "record 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4cfd79dbe5d68b60",
     "slug": "decaro-insiste-emiliano-consulente-per-lex-ilva-cs-4cfd79dbe5d68b60",
     "title": "Decaro insiste: nomina un suo consulente a ILVA, ma la magistratura resiste",
@@ -2954,24 +2973,6 @@
       "sharing tecnico f1",
       "zak brown",
       "regole f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ce118e4f9f64c540",
-    "slug": "pasta-made-in-italy-oltre-il-60-va-allestero-il-me-ce118e4f9f64c540",
-    "title": "Pasta Italiana Inarrestabile: Esporta 2,46 Milioni di Tonnellate e Vale Quasi 4 Miliardi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T10:32:05.586290+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/3427f27e150bc7f2f5b1164728b152ae.jpg",
-    "occhiello": "QUATTRO MILIARDI DI EURO DI FATTURATO PER LA PASTA ITALIANA",
-    "lead_preview": "Roma, 23 aprile. L'industria italiana della pasta ha raggiunto un nuovo primato produttivo nel 2025 ed esportando 2.456.",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
