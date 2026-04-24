@@ -1,5 +1,24 @@
 [
   {
+    "id": "4230d79f02ada7c9",
+    "slug": "gounod-debutta-a-roma-dopo-150-anni-con-romeo-et-j-4230d79f02ada7c9",
+    "title": "Gounod debutta a Roma dopo 150 anni con Roméo et Juliette all'Opera",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-24T15:25:59.952731+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/c883e184b9f0bc14adad5706ea72b297.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 28 aprile. Roméo et Juliette di Charles-François Gounod va in scena per la prima volta all’Opera di Roma, con la r",
+    "tags": [
+      "gounod roma",
+      "roméo et juliette",
+      "opera di roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cdee2f2dad1080c1",
     "slug": "ciclismo-pellizzari-trionfa-in-malesia-il-21enne-d-cdee2f2dad1080c1",
     "title": "Ciclismo: Pellizzari trionfa in Malesia! Il 21enne di Pecetto batte i campioni mondiali",
@@ -8931,24 +8950,6 @@
       "liscio patrimonio ue",
       "fisarmonica italiana",
       "fondo culturale ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d308dfac6d4e55cb",
-    "slug": "atletica-perini-riprende-il-bronzo-a-parigi-dopo-e-d308dfac6d4e55cb",
-    "title": "Atletica: Riconsegna medaglia di bronzo dopo 8 anni e mezzo di battaglie legali a Losanna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-21T14:34:24.504161+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/1/ad9f8a3c66cb8d603a941d34b28adc6c.jpg",
-    "occhiello": "IL TASSO DI CORREZIONE DEL TASSELLO BRONZEO VALE OTTO ANNI",
-    "lead_preview": "Losanna, 21 aprile 2026. Il Tribunale Arbitrale dello Sport ha disposto la riconsegna della medaglia di bronzo al campio",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
