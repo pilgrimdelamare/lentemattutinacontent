@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 24 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-24T05:45:29.618951+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b63ac4a1d2c672985b1969ff7b8767e94f143412/skytg24/it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile/rassegna24aprile.jpg?im=Resize,width=375",
+    "occhiello": "",
+    "lead_preview": "I quotidiani italiani di venerdì 24 aprile 2026 si concentrano prevalentemente sulla tensione crescente nello Stretto di",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9d12bd7fc2ba38b8",
     "slug": "milano-pineta-sotto-inchiesta-200mila-euro-di-affa-9d12bd7fc2ba38b8",
     "title": "Pineta, indagine choc: calciatori e star nel club dell'Escort da un milione",
@@ -4417,25 +4436,6 @@
       "de pascale",
       "resistenza emilia",
       "finanziamenti regionali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 23 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-23T05:46:11.247356+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/a1d3fb201eb1a46a519f4386dd435590c577a65b/skytg24/it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 23 APRILE 2026",
-    "lead_preview": "Oggi i quotidiani italiani si concentrano principalmente sulla situazione economica del paese, con particolare riferimen",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
