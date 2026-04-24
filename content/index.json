@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub giù per 50 minuti, sviluppatori bloccati in tutto il mondo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-23T17:05:05.863023+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "",
+    "lead_preview": "San Francisco, 23 aprile. La piattaforma GitHub, servizio di hosting per codice controllato da Microsoft, è rimasta irra",
+    "tags": [
+      "guasto github",
+      "disservizio github",
+      "blackout github"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "23ddc3cf36658839",
     "slug": "bruno-bozzetto-riceve-il-david-speciale-a-maggio-p-23ddc3cf36658839",
     "title": "Bruno Bozzetto riceve il David Speciale a maggio per la carriera nell'animazione",
@@ -3832,25 +3851,6 @@
     "occhiello": "GIORNALISTA DETENUTO IN KUWAIT PER UN VIDEO SU GAZA",
     "lead_preview": "Kuwait City, 23 Aprile. Ahmed Shihab-Eldin, giornalista kuwaitiano-americano e docente all'Università di Bari, è tornato",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Github fuori uso per cinquanta minuti: sviluppo digitale fermo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-23T17:05:05.863023+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB FUORI USO PER CINQUANTA MINUTI: SVILUPPO DIGITALE FERMO",
-    "lead_preview": "San Francisco, 23 aprile. La piattaforma GitHub, la piattaforma di proprietà di Microsoft, ha subito un blocco operativo",
-    "tags": [
-      "github outage",
-      "sviluppo digitale",
-      "microsoft github"
-    ],
     "hero_eligible": true
   },
   {
