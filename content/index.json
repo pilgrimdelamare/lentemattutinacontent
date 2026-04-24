@@ -1,5 +1,24 @@
 [
   {
+    "id": "98186e4eccb90cee",
+    "slug": "greenpeace-attacca-trump-a-madrid-installazione-ch-98186e4eccb90cee",
+    "title": "Greenpeace allestisce raffineria a Madrid per denunciare guerra e petrolio",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T11:01:43.948745+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/9ec19846e1ce6d4e5079a3cdddc91a81.jpg",
+    "occhiello": "INSTALLAZIONE CHOC SULLA GUERRA DEL PETROLIO",
+    "lead_preview": "Greenpeace ha lanciato una provocazione visiva nel centro di Madrid, esponendo una grande installazione che simboleggia ",
+    "tags": [
+      "guerra medio oriente",
+      "greenpeace madrid",
+      "petrolio e guerra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4911e79e3f0ae7f2",
     "slug": "spagna-popolari-e-vox-stringono-la-mano-sullimmigr-4911e79e3f0ae7f2",
     "title": "Il Partito Popolare riprende i patti con Podemos in Spagna per cercare stabilità",
@@ -2988,25 +3007,6 @@
     "lead_preview": "Roma, 23 aprile 2026. L'Associazione Italiana Arbitri ha ufficializzato le designazioni per le gare del prossimo turno d",
     "tags": [
       "designazioni aia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "98186e4eccb90cee",
-    "slug": "greenpeace-attacca-trump-a-madrid-installazione-ch-98186e4eccb90cee",
-    "title": "Greenpeace accusa Trump: petrolio e guerre, installazione choc a Madrid",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T11:01:43.948745+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/9ec19846e1ce6d4e5079a3cdddc91a81.jpg",
-    "occhiello": "GREENPEACE TRASFORMA MADRID IN UN CAMPO DI BATTAGLIA PETROLIFERO",
-    "lead_preview": "Madrid, 23 aprile 2026 – L'Organizzazione non governativa Greenpeace ha lanciato una provocazione visiva nel centro di M",
-    "tags": [
-      "greenpeace trump",
-      "petrolio e guerre",
-      "installazione madrid"
     ],
     "hero_eligible": true
   },
