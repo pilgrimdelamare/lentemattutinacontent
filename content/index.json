@@ -1,5 +1,23 @@
 [
   {
+    "id": "a7e083da7d16d348",
+    "slug": "pil-2026-a-rischio-i-tecnici-parlamentari-allertan-a7e083da7d16d348",
+    "title": "Il Parlamento riduce a 0,7% le proiezioni di crescita del PIL",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-23T21:54:54.436776+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/23/233706857-a3349a8d-4d48-4bd7-8cee-743bd5e2d381.jpg",
+    "occhiello": "IL PASTO DA 1,50 EURO NON È UNA PROMESSA",
+    "lead_preview": "Roma, 23 aprile. il Parlamento italiano ha approvato un emendamento alla legge di bilancio che riduce le proiezioni di c",
+    "tags": [
+      "legge di bilancio",
+      "proiezioni pil"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c6d8df048665a15a",
     "slug": "decreto-sicurezza-bis-il-governo-cambia-le-regole-c6d8df048665a15a",
     "title": "Meloni approva in 76 minuti la nuova norma sui rimpatri, senza difensore obbligatorio",
@@ -3102,25 +3120,6 @@
       "eni buyback",
       "bollette energia",
       "azioni eni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a7e083da7d16d348",
-    "slug": "pil-2026-a-rischio-i-tecnici-parlamentari-allertan-a7e083da7d16d348",
-    "title": "Il Parlamento ridimensiona le proiezioni di crescita del PIL Italiano al ribasso",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-23T21:54:54.436776+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/23/233706857-a3349a8d-4d48-4bd7-8cee-743bd5e2d381.jpg",
-    "occhiello": "PIL ITALIANO SOTTO LE ATTESE: TECNICI PARLAMENTARI TAGLIANO LE PROIEZIONI",
-    "lead_preview": "Roma, 23 aprile. Il prodotto interno lordo Italiano per il 2026 entra ufficialmente in una fase di incertezza struttural",
-    "tags": [
-      "pil italiano",
-      "proiezioni economiche",
-      "crescita pil"
     ],
     "hero_eligible": true
   },
