@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 23 aprile 2026",
+  "title": "Le prime pagine di oggi, venerdì 24 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 23 aprile 2026",
-    "Le prime pagine di oggi, giovedì 23 aprile 2026",
-    "Le prime pagine di oggi, giovedì 23 aprile 2026"
+    "Le prime pagine di oggi, venerdì 24 aprile 2026",
+    "Le prime pagine di oggi, venerdì 24 aprile 2026",
+    "Le prime pagine di oggi, venerdì 24 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 23 APRILE 2026",
-  "lead": "Oggi i quotidiani italiani si concentrano principalmente sulla situazione economica del paese, con particolare riferimento al deficit e alla procedura di infrazione dell'Unione Europea. Il tema della sicurezza è presente con dibattiti in Aula. Alcuni giornali dedicano spazio al calciomercato e agli sport, mentre altri si occupano di dichiarazioni politiche e misure governative.",
-  "corpo1": "Il Corriere della Sera apre con \"Deficit, l'Italia (con 9 Paesi) resta sotto procedura\", evidenziando le accuse della Meloni a Conte riguardo al superbonus. La Repubblica titola \"Conti, obiettivo fallito\" e riporta le parole di Giorgetti sul futuro dell'Italia in relazione al deficit. La Stampa, con \"Il deficit sopra il 3%, Giorgetti sfida la Ue\", sottolinea la posizione del ministro e l'ira della Meloni. Il Fatto Quotidiano si focalizza su Nordio e la proposta di \"modica quantità anche per le mazzette\". Il Giornale riporta \"Sì alla fiducia, ancora scontro in Aula\", indicando un clima teso in Parlamento.",
-  "corpo2": "Tra gli altri titoli di rilievo, il tema del calciomercato è presente su diverse testate, con notizie su Calhanoglu, Alisson e Goretzka. Ancora, si segnala l'invio di navi militari italiane in Medio Oriente a seguito del sequestro di cargo da parte dell'Iran. Oggi, la situazione economica e le tensioni politiche dominano le prime pagine dei giornali italiani.",
+  "occhiello": "",
+  "lead": "I quotidiani italiani di venerdì 24 aprile 2026 si concentrano prevalentemente sulla tensione crescente nello Stretto di Hormuz, con le dichiarazioni di Donald Trump al centro dell’attenzione. Il presidente Mattarella torna sul tema della pace nel giorno della Liberazione, mentre Giorgia Meloni interviene al vertice Ue di Cipro. Alcuni giornali dedicano ampio spazio a temi economici e giudiziari, mentre altri puntano su cronaca e sport.",
+  "corpo1": "Il quotidiano 3 apre con “Hormuz, la sfida di Trump”, riportando le dichiarazioni del tycoon secondo cui gli Stati Uniti controllano lo Stretto e minacciano azioni contro chi vi piazza mine. Affianca l’intervista a Papa Leone XIV dal titolo “Pellegrino di pace” e le parole di Mattarella che condanna la “legge del più forte”. Il quotidiano 4 titola “Conti, Meloni controlla la Ue”, riprendendo l’intervento della premier a Cipro dove parla di coraggio e non esclude uno scostamento di bilancio. Mattarella è presente anche qui con un richiamo al rifiuto della barbarie. Il quotidiano 5 dedica la prima pagina all’appello di Meloni con “Meloni sfida Bruxelles ‘Energia fuori dal Patto’”, mentre segnala il via libera Ue ai 90 miliardi per Kiev e la denuncia di D’Urso contro Mediaset. Il quotidiano 6 torna sulla guerra in Iran con “Hormuz, la minaccia di Trump”, inserisce Mattarella sul 25 aprile e dà spazio allo sport con l’esonero di Ranieri dalla Roma. Il quotidiano 7 apre con dati fiscali: “Irpef zero per 11,3 milioni di contribuenti”, mentre in taglio parla del buco da 6,1 miliardi del superbonus e del coinvolgimento di Trump nel conflitto iraniano. Il quotidiano 8 punta su sport con “Guardiola l'italiano”, ipotizzando il suo approdo alla guida della Nazionale, e segnala il caos in casa Roma. Il quotidiano 9 si concentra sui temi giudiziari con “Gli avvocati rossi bloccano i rimpatri” e segnala la data del 1° maggio come possibile svolta nella guerra con Trump, oltre a un caso di avvelenamento in taglio basso.",
+  "corpo2": "Altri titoli rilevanti includono il “Modello Albania” promosso in Europa per i rimpatri, il pressing di Meloni sui conti Ue, e l’inchiesta sul cellulare della sorella nel caso di avvelenamento di madre e figlia. La giornata è dominata dalla crisi internazionale nello Stretto di Hormuz e dalle reazioni politiche in Italia e in Europa.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-23T05:46:11.247356+00:00",
+  "published_at": "2026-04-24T05:45:29.618951+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/a1d3fb201eb1a46a519f4386dd435590c577a65b/skytg24/it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/b63ac4a1d2c672985b1969ff7b8767e94f143412/skytg24/it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile/rassegna24aprile.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/23/prime-pagine-quotidiani-oggi-23-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 23 aprile 2026",
+      "title": "Oroscopo di oggi, venerdì 24 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
