@@ -1,5 +1,24 @@
 [
   {
+    "id": "40201bd368e9e1a3",
+    "slug": "sindaco-lo-russo-accanto-al-popolo-40201bd368e9e1a3",
+    "title": "Sindaco Lo Russo accanto al popolo",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-24T18:47:13.666222+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/09596cef4b77087eaad39c4fd0da1649.jpg",
+    "occhiello": "LA SINDACA DI TORINO ALLE MANI LIBERE",
+    "lead_preview": "Torino, 24 aprile 2026. La Sindaca di Torino, Stefano Lo Russo, ha partecipato alla manifestazione del 25 aprile, un eve",
+    "tags": [
+      "25 aprile",
+      "stefano lo russo",
+      "torino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dbe5ae071993e428",
     "slug": "milei-riceve-peter-thiel-a-porte-chiuse-a-buenos-a-dbe5ae071993e428",
     "title": "Milei riceve Peter Thiel a porte chiuse a Buenos Aires per un vertice sull'anarco-capitalismo",
@@ -8989,25 +9008,6 @@
       "serie c",
       "calcio",
       "spettatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "53c5c8b96e628987",
-    "slug": "telepass-triplica-utili-su-10-milioni-di-dispositi-53c5c8b96e628987",
-    "title": "Telepass sfodera un primo trimestre da 1,2 miliardi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-21T16:44:20.141823+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/3/10/eccee6795bc42066a4a136fdc7e3a738.jpg",
-    "occhiello": "Mundys guadagna 1,2 miliardi",
-    "lead_preview": "Mundys guadagna 1,2 miliardi Telepass, controllata al 100% da Mundys, ha registrato un utile di 1,2 miliardi di euro nel",
-    "tags": [
-      "telepass",
-      "miglioramenti",
-      "mudys"
     ],
     "hero_eligible": true
   }
