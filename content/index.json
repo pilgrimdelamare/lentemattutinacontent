@@ -1,5 +1,24 @@
 [
   {
+    "id": "f30632592d97730b",
+    "slug": "usa-a-secco-di-missili-il-conflitto-in-iran-prosci-f30632592d97730b",
+    "title": "Usa a rischio, scorte di missili in calo per la guerra con l'Iran",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-24T11:31:54.045935+00:00",
+    "image_type": "image",
+    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDQvMjQvMTEwMTM3NDMwLTJiNGY1NzgyLWM2NWEtNGZkMC05ZmJhLTFiOTJhMmQ3NmZlNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
+    "occhiello": "GLI STATI UNITI ESAURISCONO LE SCORTE DI MISSILI STRATEGICI",
+    "lead_preview": "Washington, 24 aprile 2026. Gli Stati Uniti si trovano a corto di armamenti strategici a causa del conflitto in corso co",
+    "tags": [
+      "guerra iran",
+      "scorte missili usa",
+      "conflitto iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude, l'IA di Anthropic, torna online dopo il blackout: utenti di nuovo connessi",
@@ -1275,24 +1294,6 @@
       "f1 istanbul",
       "formula 1",
       "gp turchia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f30632592d97730b",
-    "slug": "usa-a-secco-di-missili-il-conflitto-in-iran-prosci-f30632592d97730b",
-    "title": "USA a secco di missili: il conflitto in Iran prosciuga gli arsenali strategici",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-24T11:31:54.045935+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDQvMjQvMTEwMTM3NDMwLTJiNGY1NzgyLWM2NWEtNGZkMC05ZmJhLTFiOTJhMmQ3NmZlNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "LE SCORTE DI MISSILI USA ESAURITE DALLA GUERRA IN IRAN",
-    "lead_preview": "Washington, 24 aprile 2026. Gli Stati Uniti si trovano a corto di armamenti strategici a causa del conflitto con l'Iran,",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
