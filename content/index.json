@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260424",
+    "slug": "libro-del-giorno-tra-le-ombre-romadi-pier-luigi-villari-20260424",
+    "title": "Il libro del giorno: «Tra le ombre»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una storia documentata della resistenza romana durante l'occupazione tedesca, con focus sul Fronte Militare Clandestino",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-24T07:02:04.666011+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L221xH312/tra_le_ombre_di_roma-76cff.jpg?1775711370",
+      "alt": "Copertina: Tra le ombre",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L221xH312/tra_le_ombre_di_roma-76cff.jpg?1775711370",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "f98bdc1eb34093ea",
     "slug": "trump-rifiuta-accordo-rapido-con-liran-vertice-a-i-f98bdc1eb34093ea",
     "title": "Trump Minaccia l'Iran: 'Hormuz Blindata'",
@@ -8895,24 +8914,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "19bfb6060cd00812",
-    "slug": "trump-operazione-martello-di-mezzanotte-distrugge-19bfb6060cd00812",
-    "title": "Trump dichiara completata l'Operazione Martello di Mezzanotte a Washington",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-21T05:46:50.954392+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDQvMTUvMDYwMjI4MTYwLTQyODE2Yjc5LTU3OTItNDNiOS05NjIzLTk2YTkwMzQyZDU5Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "TRUMP ANNUNCIA LA CONCLUSIONE DELL'OPERAZIONE MARTELLO DI MEZZANOTTE",
-    "lead_preview": "Washington, 21 aprile. l'Operazione Martello di Mezzanotte ha portato alla completa neutralizzazione degli obiettivi pre",
-    "tags": [
-      "operazione martello di mezzanotte",
-      "trump washington"
     ],
     "hero_eligible": true
   }
