@@ -1,5 +1,24 @@
 [
   {
+    "id": "4e9d307b2722f9d6",
+    "slug": "polittico-mormile-fine-di-una-dispersione-lo-stato-4e9d307b2722f9d6",
+    "title": "Ministero della Cultura riunisce le due tavole mancanti del Polittico Mormile a Firenze",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-24T12:07:21.393474+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/68703a98776335123bfe7f6fabc9414a.jpg",
+    "occhiello": "IL POLITTICO MORMILE TORNA UNITARIO DOPO L'ACQUISTO STATALE",
+    "lead_preview": "Firenze, 24 aprile 2026. Il Ministero della Cultura ha presentato al Cenacolo del Fuligno le due tavole mancanti che ric",
+    "tags": [
+      "polittico mormile",
+      "ministero cultura",
+      "opera d'arte ritrovata"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f8cfe103f13d6520",
     "slug": "aura-satz-presenta-one-spaceone-sound-a-roma-f8cfe103f13d6520",
     "title": "Aura Satz esegue One Space/One Sound all'Auditorium Parco della Musica",
@@ -1212,23 +1231,6 @@
       "indagine epstein",
       "usa-regno unito",
       "prove epstein"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e9d307b2722f9d6",
-    "slug": "polittico-mormile-fine-di-una-dispersione-lo-stato-4e9d307b2722f9d6",
-    "title": "Polittico Mormile, fine di una dispersione: lo Stato riunisce le tavole e le espone a Firenze",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-24T12:07:21.393474+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/68703a98776335123bfe7f6fabc9414a.jpg",
-    "occhiello": "IL MINISTERO DELLA CULTURA RICOMPONE IL POLITTICO MORMILE A FIRENZE",
-    "lead_preview": "Firenze, 24 aprile 2026. Il Ministero della Cultura ha presentato al Cenacolo del Fuligno le due tavole mancanti che ric",
-    "tags": [
-      "polittico mormile"
     ],
     "hero_eligible": true
   },
