@@ -1,5 +1,23 @@
 [
   {
+    "id": "4a98d5d12b017647",
+    "slug": "un-terzo-dei-pagamenti-europei-passa-per-portafogl-4a98d5d12b017647",
+    "title": "Un quarto delle transazioni europee è già elettronico",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-23T15:48:57.499824+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/f1d95406ad8f3366f0f95e1c1157093b.jpg",
+    "occhiello": "IL 25 PER CENTO DEI PAGAMENTI EUROPEI È DIGITALE",
+    "lead_preview": "Bruxelles, 23 aprile. Uno su quattro tra i pagamenti effettuati in Europa viene oggi finalizzato attraverso un portafogl",
+    "tags": [
+      "pagamenti elettronici",
+      "economia europea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "609a085ca2e15bcf",
     "slug": "ciclismo-jasch-travolge-lultima-salita-per-vincere-609a085ca2e15bcf",
     "title": "Ciclismo: Lennart Jasch trionfa a Trento e vince la quarta tappa del Tour of the Alps",
@@ -2934,25 +2952,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a98d5d12b017647",
-    "slug": "un-terzo-dei-pagamenti-europei-passa-per-portafogl-4a98d5d12b017647",
-    "title": "Un pagamento su quattro viaggia su portafoglio digitale",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T15:48:57.499824+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/f1d95406ad8f3366f0f95e1c1157093b.jpg",
-    "occhiello": "UN PAGAMENTO SU QUATTRO VIAGGIA SU PORTAFOGLIO DIGITALE",
-    "lead_preview": "Bruxelles, 23 aprile. Uno su quattro tra i pagamenti effettuati in Europa viene oggi finalizzato attraverso un portafogl",
-    "tags": [
-      "pagamenti digitali",
-      "portafoglio digitale",
-      "europei pagamenti digitali"
     ],
     "hero_eligible": true
   },
