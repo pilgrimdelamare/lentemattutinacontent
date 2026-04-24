@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude, l'IA di Anthropic, torna online dopo il blackout: utenti di nuovo connessi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-24T03:34:57.225000+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "IL BLACKOUT DI CLAUDE MOSTRA LA FRAGILITÀ DELLE INFRASTRUTTURE CENTRALIZZATE",
+    "lead_preview": "Milano, 24 aprile. Il modello di linguaggio Claude, sviluppato dalla società Anthropic, è tornato operativo dopo una int",
+    "tags": [
+      "blackout claude",
+      "anthropic claude",
+      "intelligenza artificiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d7b9e32dbf901ef3",
     "slug": "bruxelles-crea-un-piano-militare-comune-per-rispon-d7b9e32dbf901ef3",
     "title": "Bruxelles crea un piano militare comune per rispondere agli attacchi esterni",
@@ -2608,25 +2627,6 @@
     "tags": [
       "pensione anticipata",
       "lavori usuranti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude riprende servizio dopo un guasto breve",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-24T03:34:57.225000+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRENDE SERVIZIO DOPO UN GUASTO BREVE",
-    "lead_preview": "Milano, 24 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato operativo dopo un'interruzione di",
-    "tags": [
-      "guasto claude",
-      "interruzione servizio",
-      "claude ripresa"
     ],
     "hero_eligible": true
   },
