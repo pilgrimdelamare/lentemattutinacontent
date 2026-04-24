@@ -1,5 +1,23 @@
 [
   {
+    "id": "10acebda58aa11ce",
+    "slug": "prezzo-del-petrolio-wti-sale-del-406-per-tensioni-10acebda58aa11ce",
+    "title": "Petrolio WTI schizza del 4%: la benzina pesa sulle tasche degli italiani",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-23T05:24:41.271402+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/f4cb493a30deae8935381dd546769238.jpg",
+    "occhiello": "PETROLIO WTI: IL BALZO DEL QUATTRO PER CENTO IN SEDUTA",
+    "lead_preview": "Roma, 23 aprile. Il prezzo del petrolio WTI ha registrato un balzo del 4,06 per cento in una sola seduta. La quotazione ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a7e083da7d16d348",
     "slug": "pil-2026-a-rischio-i-tecnici-parlamentari-allertan-a7e083da7d16d348",
     "title": "PIL italiano sotto le attese: i tecnici parlamentari tagliano le proiezioni",
@@ -3093,24 +3111,6 @@
       "indagine ricina campobasso",
       "morte di ielsi",
       "sequestro computer scolastici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "10acebda58aa11ce",
-    "slug": "prezzo-del-petrolio-wti-sale-del-406-per-tensioni-10acebda58aa11ce",
-    "title": "In ballo il petrolio, il prezzo sale del 4 per cento",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T05:24:41.271402+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/f4cb493a30deae8935381dd546769238.jpg",
-    "occhiello": "PETROLIO WTI SCHIZZA DEL 4%: LA BENZINA COSTA GIÀ DI PIÙ",
-    "lead_preview": "Roma, 23 aprile. Il prezzo del petrolio WTI ha registrato un balzo del 4,06 per cento in una sola seduta, reagendo viole",
-    "tags": [
-      "petrolio",
-      "guerra iran"
     ],
     "hero_eligible": true
   },
