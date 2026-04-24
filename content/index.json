@@ -1,5 +1,23 @@
 [
   {
+    "id": "ceb21dea3d78d36f",
+    "slug": "basket-timberwolves-dominano-ceb21dea3d78d36f",
+    "title": "Basket: Timberwolves dominano",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-24T06:18:35.937623+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/44b6075ed0e3804faf8ab010848a1b4769502520/skysport/it/nba/video/2026/04/24/1092515_1777009630239_thumb_494.0000001_1777009799409.jpg",
+    "occhiello": "NBA, MINNESOTA STOPPA DENVER",
+    "lead_preview": "Minnesota, 24 aprile. La Serie tra Minnesota e Denver è in perfetta parità sull'1-1 dopo le prime due partite giocate a ",
+    "tags": [
+      "nba",
+      "timberwolves denver"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "10b21a2528a43f6b",
     "slug": "sinner-affina-la-risposta-tecnica-in-vista-del-mad-10b21a2528a43f6b",
     "title": "Tennis: Sinner sfida l'altitudine a Madrid",
@@ -8866,25 +8884,6 @@
     "occhiello": "ESTRADATO DAL VENEZUELA IL SOSPETTATO DELL'ATTENTATO DEL 1994",
     "lead_preview": "Panama, 21 aprile 2026. Le autorità di Panama hanno ottenuto l'estradizione dal Venezuela di un uomo accusato di essere ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ddcb31e42ee5fc97",
-    "slug": "tokyo-vola-dello-031-ma-il-petrolio-brent-schizza-ddcb31e42ee5fc97",
-    "title": "Tokyo sale dello 0,31%, ma il petrolio Brent schizza a 95 dollari al barile",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-21T00:35:47.949516+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/23/38b008dbcbec98699ab6f2e80c0920fb.jpg",
-    "occhiello": "IL BRENT A 95 DOLLARI ANNULLA L'OTTIMISMO DI TOKYO",
-    "lead_preview": "Tokyo, 21 aprile 2026. La Borsa di Tokyo chiude la seduta in territorio positivo con un rialzo dello 0,31 percento, ma i",
-    "tags": [
-      "borsa tokyo",
-      "prezzo petrolio",
-      "brent 95 dollari"
-    ],
     "hero_eligible": true
   }
 ]
