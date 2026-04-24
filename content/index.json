@@ -1,5 +1,23 @@
 [
   {
+    "id": "fa70cd55126d4b61",
+    "slug": "robot-cani-e-droni-cinesi-gestiranno-lordine-a-tai-fa70cd55126d4b61",
+    "title": "Cina: Università di Polizia sviluppa IA per reprimere disordini senza intervento umano diretto",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-24T09:24:03.994171+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/24/105414842-f2874af4-b2ec-4247-97b4-50f16e92ef61.jpg",
+    "occhiello": "IA E CANI ROBOT PER CONTROLLARE LE PIAZZE CINESI",
+    "lead_preview": "Pechino, 24 aprile 2026. Un nuovo studio accademico, firmato da ricercatori dell'Università di Ingegneria della Polizia,",
+    "tags": [
+      "ia cina",
+      "universita polizia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cabeaf0ceee2de6c",
     "slug": "charlize-theron-sfida-eroicamente-la-perdita-in-un-cabeaf0ceee2de6c",
     "title": "Netflix scommette su Charlize Theron: nuovo action movie tra lutto e adrenalina",
@@ -3475,25 +3493,6 @@
     "tags": [
       "intervento haiti",
       "missione onu haiti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa70cd55126d4b61",
-    "slug": "robot-cani-e-droni-cinesi-gestiranno-lordine-a-tai-fa70cd55126d4b61",
-    "title": "Cina: l'intelligenza artificiale comanda cani robot per bloccare le piazze",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-24T09:24:03.994171+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/24/105414842-f2874af4-b2ec-4247-97b4-50f16e92ef61.jpg",
-    "occhiello": "INTELLIGENZA ARTIFICIALE APPLICATA AL CONTROLLO DI PIAZZA A PECHINO",
-    "lead_preview": "Pechino, 24 aprile 2026. Un nuovo studio accademico, firmato da ricercatori dell'Università di Ingegneria della Polizia,",
-    "tags": [
-      "intelligenza artificiale",
-      "cani robot",
-      "cina controllo"
     ],
     "hero_eligible": true
   },
