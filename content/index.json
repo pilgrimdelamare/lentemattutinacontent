@@ -1,5 +1,20 @@
 [
   {
+    "id": "434a095837b6f67e",
+    "slug": "un-software-al-9998-preciso-smaschera-come-fake-i-434a095837b6f67e",
+    "title": "Algoritmo al 99,98% di precisione contro il falso papale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-24T05:06:01.368086+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e9cabccfb3863839e9a43b/16:9/w_1280,c_limit/042126-ai-written-content.jpg",
+    "occhiello": "ALGORITMO AL 99,98% DI PRECISIONE CONTRO IL FALSO PAPALE",
+    "lead_preview": "Roma, 24 aprile. Un software con una precisione certificata del 99,98% ha identificato come falsi i post diffusi sui soc",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e0003d4481981b63",
     "slug": "tunisi-lancia-la-fiera-del-libro-349-editori-e-184-e0003d4481981b63",
     "title": "Tunisi: Fiera del Libro punta a 184mila visitatori e 349 editori in mostra",
@@ -2737,25 +2752,6 @@
       "muvec mestre",
       "fondi pubblici cultura",
       "apertura muvec"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "434a095837b6f67e",
-    "slug": "un-software-al-9998-preciso-smaschera-come-fake-i-434a095837b6f67e",
-    "title": "Un software al 99,98% preciso smaschera falsi messaggi del Papa su AI",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-24T05:06:01.368086+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e9cabccfb3863839e9a43b/16:9/w_1280,c_limit/042126-ai-written-content.jpg",
-    "occhiello": "UN SOFTWARE AL 99,98% SMASCHERA POST FAKE DEL PAPA",
-    "lead_preview": "Roma, 24 aprile. Un software con una precisione certificata del 99,98% ha identificato come falsi i post diffusi sui soc",
-    "tags": [
-      "fake news papa",
-      "software anti-frode",
-      "disinformazione intelligenza artificiale"
     ],
     "hero_eligible": true
   },
