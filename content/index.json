@@ -1,5 +1,24 @@
 [
   {
+    "id": "af25e86418f9f37e",
+    "slug": "catalogna-il-potere-del-libro-tra-identita-e-merca-af25e86418f9f37e",
+    "title": "Barcellona incassa 100 milioni con la festa di San Jordi tra libri e rose",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-23T11:06:44.414676+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/c3a06fdb262142c6919708e847abcbb7.jpg",
+    "occhiello": "BARCELLONA INCASSA 100 MILIONI DI EURO",
+    "lead_preview": "Barcellona, 23 aprile. La città catalana celebra oggi la festa di San Jordi, trasformandosi in un distretto a cielo aper",
+    "tags": [
+      "festa san jordi",
+      "barcellona libri rose",
+      "economia catalana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1f603686b607d757",
     "slug": "g20-la-russia-invitata-al-vertice-in-florida-press-1f603686b607d757",
     "title": "G20: La Russia invitata al vertice in Florida presso il resort Trump",
@@ -2991,24 +3010,6 @@
       "moto gp bagnaia",
       "bagnaia jerez 2026",
       "classifica moto gp"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "af25e86418f9f37e",
-    "slug": "catalogna-il-potere-del-libro-tra-identita-e-merca-af25e86418f9f37e",
-    "title": "Barcellona incassa 100 milioni di euro con la festa di San Jordi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T11:06:44.414676+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/c3a06fdb262142c6919708e847abcbb7.jpg",
-    "occhiello": "BARCELLONA PUNTA 100 MILIONI SUL SOFT POWER EDITORIALE",
-    "lead_preview": "Barcellona, 23 aprile. La città catalana celebra oggi la festa di San Jordi, trasformandosi in un distretto a cielo aper",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
