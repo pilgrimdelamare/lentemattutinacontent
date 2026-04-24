@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "Github fuori uso per cinquanta minuti: sviluppo digitale fermo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-23T17:05:05.863023+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB FUORI USO PER CINQUANTA MINUTI: SVILUPPO DIGITALE FERMO",
+    "lead_preview": "San Francisco, 23 aprile. La piattaforma GitHub, la piattaforma di proprietà di Microsoft, ha subito un blocco operativo",
+    "tags": [
+      "github outage",
+      "sviluppo digitale",
+      "microsoft github"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2d6ae3e6d2a6004a",
     "slug": "max-mara-sfila-a-shanghai-per-i-75-anni-il-lusso-i-2d6ae3e6d2a6004a",
     "title": "Max Mara festeggia 75 anni a Shanghai con un evento a Pudong",
@@ -2872,25 +2891,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub KO: Microsoft blocca il codice di milioni di sviluppatori per 50 minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-23T17:05:05.863023+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "CINQUANTA MINUTI DI BUIO PER IL CUORE DEL CODICE MONDIALE",
-    "lead_preview": "San Francisco, 23 aprile. GitHub, la piattaforma di proprietà di Microsoft che ospita la maggior parte dello sviluppo so",
-    "tags": [
-      "github ko",
-      "interruzione servizi",
-      "microsoft github"
     ],
     "hero_eligible": true
   },
