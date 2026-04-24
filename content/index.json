@@ -1,5 +1,24 @@
 [
   {
+    "id": "c67fb155c534ee10",
+    "slug": "dave-grohl-torna-a-milano-con-foo-fighters-c67fb155c534ee10",
+    "title": "Foo Fighters a Milano: unico concerto in Italia, scatta la corsa ai biglietti",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-24T12:03:30.713664+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/ca588f81a06943af3228f68f538fcc8f.jpg",
+    "occhiello": "I FOO FIGHTERS TORNANO IN ITALIA PER UN SOLO CONCERTO",
+    "lead_preview": "Milano, 24 aprile 2026. La band statunitense guidata dal frontman Dave Grohl, i Foo Fighters, ha annunciato un'unica dat",
+    "tags": [
+      "foo fighters milano",
+      "concerto foo fighters",
+      "dave grohl italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aeee1da948a03448",
     "slug": "wall-street-divisa-dow-jones-cala-nasdaq-sale-la-t-aeee1da948a03448",
     "title": "Wall Street divisa: Dow Jones cala, Nasdaq sale. La tecnologia guida il mercato?",
@@ -1224,25 +1243,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c67fb155c534ee10",
-    "slug": "dave-grohl-torna-a-milano-con-foo-fighters-c67fb155c534ee10",
-    "title": "Dave Grohl torna a Milano con Foo Fighters",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-24T12:03:30.713664+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/ca588f81a06943af3228f68f538fcc8f.jpg",
-    "occhiello": "I FOO FIGHTERS TORNANO A MILANO CON UN DISCO CASALINGO",
-    "lead_preview": "Milano, 24 aprile 2026. La band statunitense guidata da Dave Grohl, i Foo Fighters, ha annunciato un’unica data Italiana",
-    "tags": [
-      "foo fighters",
-      "dave grohl",
-      "milano concerti"
     ],
     "hero_eligible": true
   },
