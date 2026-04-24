@@ -1,5 +1,24 @@
 [
   {
+    "id": "bce36b22db4a1f1a",
+    "slug": "blocco-allo-stretto-di-hormuz-compromette-disponib-bce36b22db4a1f1a",
+    "title": "Stretto di Hormuz bloccato: petrolio schizza del 18%, rischio crisi energetica globale",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-24T10:28:51.605742+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/d45f2d370d9aa1a55d5df52cb3f41fbc.jpg",
+    "occhiello": "PETROLIO, IL BLOCCO DI HORMUZ FA BALZARE IL PREZZO DEL 18%",
+    "lead_preview": "Teheran, 24 aprile 2026. Il blocco navale e militare imposto nello stretto di Hormuz sta paralizzando il transito delle ",
+    "tags": [
+      "stretto di hormuz",
+      "crisi energetica",
+      "petrolio iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dbe5ae071993e428",
     "slug": "milei-riceve-peter-thiel-a-porte-chiuse-a-buenos-a-dbe5ae071993e428",
     "title": "Milei stringe accordi con Thiel: l'Argentina verso un'economia ultra-liberale",
@@ -3446,24 +3465,6 @@
       "premier league",
       "manchester city",
       "arsenal ko"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bce36b22db4a1f1a",
-    "slug": "blocco-allo-stretto-di-hormuz-compromette-disponib-bce36b22db4a1f1a",
-    "title": "Petrolio: l'Iran chiude lo stretto di Hormuz e i prezzi schizzano del 18%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-24T10:28:51.605742+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/d45f2d370d9aa1a55d5df52cb3f41fbc.jpg",
-    "occhiello": "CHIUSO LO STRETTO DI HORMUZ, IL PETROLIO VOLA VERSO L'ALTO",
-    "lead_preview": "Teheran, 24 aprile 2026. Il blocco navale e militare imposto nello stretto di Hormuz sta paralizzando il transito delle ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
