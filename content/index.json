@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude torna operativo dopo il blackout dei server della Anthropic",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-24T03:34:57.225000+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "BLACKOUT TECNICO: IL MODELLO CLAUDE TORNA ATTIVO DOPO L'INTERRUZIONE",
+    "lead_preview": "Milano, 24 aprile. Il modello di linguaggio Claude, sviluppato dalla società Anthropic, è tornato operativo in seguito a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f30632592d97730b",
     "slug": "usa-a-secco-di-missili-il-conflitto-in-iran-prosci-f30632592d97730b",
     "title": "USA a secco di armi: conflitto con l'Iran svuota i magazzini strategici, rischio paralisi nel Golfo",
@@ -3513,25 +3528,6 @@
       "pensione usuranti",
       "inps",
       "lavori usuranti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude, l'IA di Anthropic, torna online dopo il blackout: utenti di nuovo connessi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-24T03:34:57.225000+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "IL BLACKOUT DI CLAUDE MOSTRA LA FRAGILITÀ DELLE INFRASTRUTTURE CENTRALIZZATE",
-    "lead_preview": "Milano, 24 aprile. Il modello di linguaggio Claude, sviluppato dalla società Anthropic, è tornato operativo dopo una int",
-    "tags": [
-      "blackout claude",
-      "anthropic claude",
-      "intelligenza artificiale"
     ],
     "hero_eligible": true
   },
