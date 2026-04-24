@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, venerdì 24 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-24T04:02:03.405323+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — VENERDÌ 24 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "72441c57e70198cd",
     "slug": "john-ternus-assumera-il-ruolo-di-ceo-di-apple-72441c57e70198cd",
     "title": "Apple: Ternus guiderà il colosso da 3 trilioni, Cook lascia nel",
@@ -4897,26 +4917,6 @@
       "tag2"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, giovedì 23 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-23T04:02:52.788637+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — GIOVEDÌ 23 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "9e8f4b137ecc0a2f",
