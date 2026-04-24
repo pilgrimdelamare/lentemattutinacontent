@@ -1,5 +1,24 @@
 [
   {
+    "id": "cf2ca83f0dc7bafd",
+    "slug": "calcio-manfredi-uscito-de-gennaro-nuovo-presidente-cf2ca83f0dc7bafd",
+    "title": "Calcio: Manfredi uscito, De Gennaro nuovo Presidente dei marassi",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-24T18:30:32.635691+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/28/4aeb62893e0aac40ddb9b7262c57c1d1.jpg",
+    "occhiello": "DE GEMMARO PRESIDENTE DELLA SAMPIERDARENA",
+    "lead_preview": "Torino, 24 aprile. Il Presidente del Sampdoria Manfredi si è dimesso dal suo incarico, sostituito da Gennaro De Gennaro,",
+    "tags": [
+      "calcio",
+      "sampdoria",
+      "de gennaro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "00c78f76726dc4e3",
     "slug": "rodriguez-e-petro-si-vedono-a-caracas-per-blindare-00c78f76726dc4e3",
     "title": "Delcy Rodríguez incontra la von der Leyen per discutere del conflitto venezuelano-colombiano",
@@ -8989,25 +9008,6 @@
       "papa leone xiv",
       "fabbricazione verità",
       "élite politiche"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2396326c464cbeb1",
-    "slug": "tennis-sinner-scende-in-campo-a-madrid-per-conquis-2396326c464cbeb1",
-    "title": "Tennis: Jannik Sinner torna in Campo!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-21T16:00:01.841271+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8985310a7b67bd27d188bc2da1839a1b64066bf8/skysport/it/tennis/video/2026/04/21/sinner-cahill-atp-madrid-allenamento-news-video-1091932/sinner_cahill_screen.jpg",
-    "occhiello": "JANNIK SINNER TROVA LA FORZA",
-    "lead_preview": "Madrid, 21 aprile 2026. Jannik Sinner ha tornato in Campo al Madrid Open. Jannik Sinner ha tornato in Campo al Madrid Op",
-    "tags": [
-      "tennis",
-      "madrid open",
-      "jannik sinner"
     ],
     "hero_eligible": true
   }
