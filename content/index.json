@@ -1,5 +1,24 @@
 [
   {
+    "id": "f8cfe103f13d6520",
+    "slug": "aura-satz-presenta-one-spaceone-sound-a-roma-f8cfe103f13d6520",
+    "title": "Aura Satz esegue One Space/One Sound all'Auditorium Parco della Musica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-24T12:00:34.676516+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/cfaf00f52e08426b9a832b4ea4f3fc70.jpg",
+    "occhiello": "L'ESTETICA DEL COSMO CINESE ALL'AUDITORIUM PARCO DELLA MUSICA",
+    "lead_preview": "Roma, 24 aprile. L'artista spagnola-britannica Aura Satz presenta all'Auditorium Parco della Musica il progetto One Spac",
+    "tags": [
+      "one space one sound",
+      "aura satz",
+      "auditorium parco della musica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c67fb155c534ee10",
     "slug": "dave-grohl-torna-a-milano-con-foo-fighters-c67fb155c534ee10",
     "title": "Foo Fighters a Milano: unico concerto in Italia, scatta la corsa ai biglietti",
@@ -1243,24 +1262,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f8cfe103f13d6520",
-    "slug": "aura-satz-presenta-one-spaceone-sound-a-roma-f8cfe103f13d6520",
-    "title": "Aura Satz presenta One Space/One Sound a Roma",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-24T12:00:34.676516+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/cfaf00f52e08426b9a832b4ea4f3fc70.jpg",
-    "occhiello": "AURA SATZ PORTA LA TECNOLOGIA DI GENERE ALL'AUDITORIUM DI ROMA",
-    "lead_preview": "Roma, 24 aprile. L'artista spagnola-britannica Aura Satz presenta il progetto One Space/One Sound all'Auditorium Parco d",
-    "tags": [
-      "aura satz",
-      "one space one sound"
     ],
     "hero_eligible": true
   },
