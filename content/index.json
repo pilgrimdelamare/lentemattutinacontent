@@ -1,5 +1,24 @@
 [
   {
+    "id": "c6641f895ceac094",
+    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
+    "title": "Otto morti a Dnipro dopo raid russo con droni e missili su quartiere residenziale",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-25T17:42:00.648118+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
+    "occhiello": "",
+    "lead_preview": "Dnipro, 25 aprile. Otto persone sono state uccise e almeno 56 ferite a seguito di un raid aereo russo sulla città Ucrain",
+    "tags": [
+      "raid russo dnipro",
+      "guerra ucraina",
+      "attacco droni russi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "48f9792a9a617c15",
     "slug": "calcio-nesta-elphege-decide-il-match-contro-il-pis-48f9792a9a617c15",
     "title": "Calcio: Elphège segna e salva il Parma in Serie A con tre giornate d'anticipo",
@@ -8917,25 +8936,6 @@
       "william donovan",
       "chicago bulls",
       "nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "147ca420572feb66",
-    "slug": "procura-identifica-killer-di-filippo-ceravolo-dopo-147ca420572feb66",
-    "title": "Identificati i colpevoli dell'omicidio di Filippo Ceravolo a Catanzaro",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-22T09:12:32.957156+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/22/105002523-a654d816-529b-46aa-8875-276f17912433.jpg",
-    "occhiello": "INDIVIDUATI I RESPONSABILI DELL'OMICIDIO CERAVOLO",
-    "lead_preview": "Catanzaro, 22 aprile. La Procura di Catanzaro ha identificato i presunti responsabili dell'omicidio di Filippo Ceravolo,",
-    "tags": [
-      "omicidio ceravolo",
-      "catanzaro criminalità",
-      "mafia calabrese"
     ],
     "hero_eligible": true
   }
