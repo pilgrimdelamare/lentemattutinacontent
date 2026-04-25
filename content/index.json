@@ -1,5 +1,23 @@
 [
   {
+    "id": "d1359aea4f809892",
+    "slug": "tennis-sorana-cirstea-supera-krueger-in-due-set-d1359aea4f809892",
+    "title": "Tennis: Cîrstea spazza via Krueger a Madrid e vola ai sedicesimi del WTA",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-24T16:11:10.021255+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/7/5a4433e01e5cd9fd7bfc53163c01c2a4.jpg",
+    "occhiello": "SORANA CÎRSTEA AVANZA A MADRID ELIMINANDO LA GIOVANE ASHLYN KRUEGER",
+    "lead_preview": "Madrid, 24 aprile. Sorana Cîrstea ha superato il secondo turno del torneo WTA 1000 di Madrid, sconfiggendo la diciottenn",
+    "tags": [
+      "wta madrid",
+      "sorana cîrstea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b05481e36070fa63",
     "slug": "meryl-streep-torna-come-miranda-priestly-nel-seque-b05481e36070fa63",
     "title": "Miranda Priestly è di nuovo in redazione: Streep guida il sequel del film cult sulla moda",
@@ -3459,25 +3477,6 @@
       "spagna nato",
       "falkland malvinas",
       "pentagono leaks"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1359aea4f809892",
-    "slug": "tennis-sorana-cirstea-supera-krueger-in-due-set-d1359aea4f809892",
-    "title": "Tennis: Sorana Cîrstea batte Ashlyn Krueger e accede ai sedicesimi a Madrid",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-24T16:11:10.021255+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/7/5a4433e01e5cd9fd7bfc53163c01c2a4.jpg",
-    "occhiello": "CÎRSTEA ELIMINA KRUEGER: L'ESPERIENZA BATTE IL POTENZIALE A MADRID",
-    "lead_preview": "Madrid, 24 aprile. Sorana Cîrstea ha superato il secondo turno del torneo WTA 1000 di Madrid sconfiggendo la diciottenne",
-    "tags": [
-      "madrid wta 1000",
-      "sorana cîrstea",
-      "ashlyn krueger"
     ],
     "hero_eligible": true
   },
