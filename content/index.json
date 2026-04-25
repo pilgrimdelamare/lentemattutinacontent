@@ -1,5 +1,23 @@
 [
   {
+    "id": "c6641f895ceac094",
+    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
+    "title": "Dnipro, 8 morti e 56 feriti in un raid russo su palazzi residenziali",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-25T17:42:00.648118+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
+    "occhiello": "",
+    "lead_preview": "Dnipro, 25 aprile. Otto persone sono state uccise e almeno 56 ferite in un raid aereo russo sulla città Ucraina di Dnipr",
+    "tags": [
+      "raid russo",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "367b806c62c84c5b",
     "slug": "rocca-fdi-minimizza-la-resistenza-memoria-condivis-367b806c62c84c5b",
     "title": "Rocca definisce liberazione \"patrimonio comune\": opposizioni in lotta",
@@ -624,25 +642,6 @@
       "calcio",
       "premier league",
       "west ham"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6641f895ceac094",
-    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
-    "title": "Otto morti a Dnipro dopo raid russo con droni e missili su quartiere residenziale",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-25T17:42:00.648118+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
-    "occhiello": "",
-    "lead_preview": "Dnipro, 25 aprile. Otto persone sono state uccise e almeno 56 ferite a seguito di un raid aereo russo sulla città Ucrain",
-    "tags": [
-      "raid russo dnipro",
-      "guerra ucraina",
-      "attacco droni russi"
     ],
     "hero_eligible": true
   },
