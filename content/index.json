@@ -1,5 +1,23 @@
 [
   {
+    "id": "f0c4f8252bb8e123",
+    "slug": "fumarola-a-paese-la-liberta-si-difende-ogni-giorno-f0c4f8252bb8e123",
+    "title": "Fumarola a Paese: 'La libertà si difende ogni giorno, non è un dato acquisito'",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-25T15:10:31.518132+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/cce6e7902141b420317b1ca1dd806362.jpg",
+    "occhiello": "IL 25 APRILE RICORDATO A PAESE CON 22.234 ABITANTI",
+    "lead_preview": "Paese, 25 aprile 2026. Durante le celebrazioni per l'anniversario della Liberazione, Fumarola ha ribadito l'importanza d",
+    "tags": [
+      "liberazione",
+      "25aprile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1f8724f8f89a9a77",
     "slug": "cannes-scommette-sui-colossi-howard-e-soderbergh-g-1f8724f8f89a9a77",
     "title": "Ron Howard e Soderbergh portano a Cannes documentari su Avedon e Lennon",
@@ -8882,25 +8900,6 @@
       "firefox 150",
       "anthropic scandalo",
       "vulnerabilità firefox"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f09351ff69f94555",
-    "slug": "venezia-e-roma-celebrano-guggenheim-e-pazienza-mos-f09351ff69f94555",
-    "title": "Venezia spende 180mila euro per un video di una 25enne: aiuti tagliati agli Uffizi calano del 12%",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-22T09:51:33.628295+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/b68378c6ac42e7a4a8d5675f40fa8636.jpg",
-    "occhiello": "IL GUGGENHEIM CHE NON VUOLE ASPETTARE",
-    "lead_preview": "Roma, 22 aprile. Il weekend culturale italiano si spacca in due poli opposti: a Venezia la 60ma Biennale apre con 17.000",
-    "tags": [
-      "biennale venezia",
-      "uffizi tagli",
-      "video venezia"
     ],
     "hero_eligible": true
   }
