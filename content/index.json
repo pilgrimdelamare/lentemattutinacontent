@@ -1,5 +1,24 @@
 [
   {
+    "id": "fd42a346d2d0c30d",
+    "slug": "nasa-punta-sul-privato-per-le-tute-lunari-ma-risch-fd42a346d2d0c30d",
+    "title": "Artemis a rischio: 3,5 miliardi di dollari e le tute spaziali non sono pronte",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-25T05:07:52.211081+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e8adca2438ef2066782597/16:9/w_1280,c_limit/GettyImages-2178003155.jpg",
+    "occhiello": "TUTE SPAZIALI, NASA DIPENDE DAL PRIVATO",
+    "lead_preview": "Roma, 25 aprile. Ritardi significativi nella produzione delle tute spaziali di nuova generazione, essenziali per il prog",
+    "tags": [
+      "artemis",
+      "tute spaziali",
+      "nasa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "75ec2250b894f170",
     "slug": "geppi-cucciari-entra-nel-cast-di-gialappashow-75ec2250b894f170",
     "title": "Geppi Cucciari salta Lo Show dei record: non firma il contratto per la stagione",
@@ -947,25 +966,6 @@
       "banche e ia",
       "credito e algoritmi",
       "mutui e investimenti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fd42a346d2d0c30d",
-    "slug": "nasa-punta-sul-privato-per-le-tute-lunari-ma-risch-fd42a346d2d0c30d",
-    "title": "NASA punta sul privato per le tute lunari ma rischia slittamento a",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-25T05:07:52.211081+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e8adca2438ef2066782597/16:9/w_1280,c_limit/GettyImages-2178003155.jpg",
-    "occhiello": "TUTE SPAZIALI NASA IN RITARDO PER L'OUTSOURCING",
-    "lead_preview": "Roma, 25 aprile. I ritardi nella produzione delle tute spaziali di nuova generazione, fondamentali per il programma luna",
-    "tags": [
-      "tute spaziali nasa",
-      "programma artemis",
-      "outsourcing nasa"
     ],
     "hero_eligible": true
   },
