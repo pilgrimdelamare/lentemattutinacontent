@@ -1,5 +1,24 @@
 [
   {
+    "id": "aeee1da948a03448",
+    "slug": "wall-street-divisa-dow-jones-cala-nasdaq-sale-la-t-aeee1da948a03448",
+    "title": "Nasdaq sale dello 0,3% a Wall Street mentre Dow Jones perde terreno",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-24T14:12:50.825047+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
+    "occhiello": "WALL STREET PREMIA IL TECH MENTRE IL MERCATO TRADIZIONALE RALLENTA",
+    "lead_preview": "New York, 24 aprile. Il Dow Jones registra una flessione all’apertura delle contrattazioni a Wall Street, mentre il Nasd",
+    "tags": [
+      "andamento wall street",
+      "borsa tecnologici",
+      "dow jones nasdaq"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b205c75fd3221094",
     "slug": "campiello-giovani-verona-svela-i-5-finalisti-pront-b205c75fd3221094",
     "title": "Verona: cinque Giovani scrittori in lizza per il Campiello e 30.000 euro",
@@ -3173,25 +3192,6 @@
     "tags": [
       "mostra floreancig",
       "museo revoltella"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "aeee1da948a03448",
-    "slug": "wall-street-divisa-dow-jones-cala-nasdaq-sale-la-t-aeee1da948a03448",
-    "title": "Nasdaq vola a New York, tech come Nvidia e Apple salgono tra l'1,2% e il 2,1%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-24T14:12:50.825047+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
-    "occhiello": "TECNOLOGIA SU, INDUSTRIA GIÙ",
-    "lead_preview": "New York, 24 aprile. Il Dow Jones scende all’apertura delle contrattazioni a Wall Street, mentre il nasdaq guadagna lo 0",
-    "tags": [
-      "nasdaq",
-      "wall street",
-      "nvidia apple"
     ],
     "hero_eligible": true
   },
