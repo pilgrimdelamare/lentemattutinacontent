@@ -1,5 +1,24 @@
 [
   {
+    "id": "84313cb386acac72",
+    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
+    "title": "Teatro San Carlo celebra Donizetti, Verdi e Puccini con un concerto per archi a Napoli",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-25T09:16:37.881159+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
+    "occhiello": "SERATA DEDICATA A DONIZETTI E AI SUOI CONFRONTI",
+    "lead_preview": "Napoli, 25 aprile 2026. Il Teatro San Carlo accoglie la musica da camera, con un programma che presenta opere di Gaetano",
+    "tags": [
+      "concerto san carlo",
+      "donizetti verdi puccini",
+      "musica da camera napoli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94a0cb58ad6cd9cb",
     "slug": "muore-rocco-lino-il-genio-che-porta-bruce-springst-94a0cb58ad6cd9cb",
     "title": "Muore Rocco Lino: il promoter di Bruce Springsteen e i suoi 100 milioni di incassi",
@@ -660,21 +679,6 @@
       "torino fc",
       "urbano cairo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "84313cb386acac72",
-    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
-    "title": "Donizetti, verdi e puccini in un programma per archi",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-25T09:16:37.881159+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
-    "occhiello": "DONIZETTI, VERDI E PUCCINI IN UN PROGRAMMA PER ARCHI",
-    "lead_preview": "Napoli, 25 aprile 2026. Il Teatro San Carlo accoglie la musica da camera in una serata dedicata al repertorio per archi,",
-    "tags": [],
     "hero_eligible": true
   },
   {
