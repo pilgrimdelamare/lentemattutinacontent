@@ -1,5 +1,24 @@
 [
   {
+    "id": "a2f4523b82f33e23",
+    "slug": "tennis-darderi-travolge-cerundolo-e-vola-a-madrid-a2f4523b82f33e23",
+    "title": "Darderi rompe Cerúndolo: 6 gare e 23 minuti per la prima sfida del torneo!",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-25T14:29:00.872608+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/aaade5233936e40ab43c9ff14efc215b.jpg",
+    "occhiello": "DARDERI TRAVOLGE CERÚNDILO 6-1, 6-",
+    "lead_preview": "Madrid, 25 aprile. L’italiano Luciano Darderi ha sconfitto l’argentino Juan Manuel Cerúndolo con il punteggio di 6-1, 6-",
+    "tags": [
+      "tennis",
+      "torneo",
+      "darderi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c9a536eb16de8244",
     "slug": "basket-varese-school-cup-infiamma-litelyum-arena-c-c9a536eb16de8244",
     "title": "Basket: Varese domina la finale scolastica con overtime trionfale al palazzetto",
@@ -633,23 +652,6 @@
     "tags": [
       "sequel diavolo veste prada",
       "meryl streep miranda priestly"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a2f4523b82f33e23",
-    "slug": "tennis-darderi-travolge-cerundolo-e-vola-a-madrid-a2f4523b82f33e23",
-    "title": "Tennis: Darderi travolge Cerúndolo e vola a Madrid! Prossimo avversario il fratello",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-25T14:29:00.872608+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/7/aaade5233936e40ab43c9ff14efc215b.jpg",
-    "occhiello": "DARDERI BIONDA SFIDA IL FRATELLO CERUNDOLO",
-    "lead_preview": "Madrid, 25 aprile. L'italiano Luciano Darderi ha sconfitto l'argentino Juan Manuel Cerúndolo con il punteggio di 6-1, 6-",
-    "tags": [
-      "torneo madrid"
     ],
     "hero_eligible": true
   },
