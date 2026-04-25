@@ -1,5 +1,24 @@
 [
   {
+    "id": "20a0b501fb026410",
+    "slug": "calcio-nesta-e-chiellini-parlano-chiaro-io-non-son-20a0b501fb026410",
+    "title": "Calcio: Nesta e Chiellini svelano i segreti del difensore moderno",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-24T10:04:27.668783+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/4/c63ee736dcc4b060e2bf3904130fd90a.jpg",
+    "occhiello": "LA RIVOLUZIONE TATTICA PARTE DAI DATI STATISTICI",
+    "lead_preview": "Roma, 24 aprile 2026. Alessandro Nesta, un allenatore di calcio e ex calciatore italiano e Giorgio Chiellini, un ex calc",
+    "tags": [
+      "rivoluzione tattica calcio",
+      "nesta chiellini",
+      "difesa moderna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b1ed6574bc194507",
     "slug": "calcio-city-rimonta-e-accelera-arsenal-trema-contr-b1ed6574bc194507",
     "title": "Calcio: City campione d'Inghilterra! Arsenal ko e crolla sotto pressione a Londra",
@@ -53,25 +72,6 @@
       "blocco hormuz",
       "prezzo petrolio",
       "crisi iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "20a0b501fb026410",
-    "slug": "calcio-nesta-e-chiellini-parlano-chiaro-io-non-son-20a0b501fb026410",
-    "title": "Nesta e Chiellini rivoluzionano la difesa: un nuovo modello tra tecnica e tradizione",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-24T10:04:27.668783+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/4/c63ee736dcc4b060e2bf3904130fd90a.jpg",
-    "occhiello": "VECCHIE GLORIE DELLA NAZIONALE ITALIANA SI RIVOLUZIONANO IL RUOLO DEL DIFENSORE MODERNO",
-    "lead_preview": "Roma, 24 aprile 2026. Alessandro Nesta e Giorgio Chiellini, simboli storici del reparto arretrato della nazionale Italia",
-    "tags": [
-      "nesta chiellini",
-      "difesa italiana",
-      "nuovo modello difesa"
     ],
     "hero_eligible": true
   },
