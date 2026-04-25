@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260425",
+    "slug": "libro-del-giorno-buiodi-vera-buck-20260425",
+    "title": "Alessandro Satta presenta 'Buiodi Vera Buck' alla Festa della Letteratura di Roma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-25T07:00:22.370763+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
+    "occhiello": "UN THRILLER PSICOLOGICO CON BUIODI VERA BUCK",
+    "lead_preview": "Il libro del giorno è \"Buiodi\", di Vera Buck, un thriller psicologico ambientato nell'entroterra sardo, radicato nel fol",
+    "tags": [
+      "buiodi vera buck",
+      "alessandro satta",
+      "festa letteratura roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9ebae14c166b0f40",
     "slug": "schlein-sbarca-a-santanna-di-stazzema-per-lomaggio-9ebae14c166b0f40",
     "title": "Schlein sbarca a Sant'Anna di Stazzema per l'omaggio alle vittime naziste",
@@ -874,25 +893,6 @@
       "sicurezza belucistan"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260425",
-    "slug": "libro-del-giorno-buiodi-vera-buck-20260425",
-    "title": "Il libro del giorno: «Buiodi Vera Buck»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un thriller psicologico ambientato nell’entroterra sardo, radicato nel folclore e nelle ombre della tradizione",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-04-25T07:00:22.370763+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
-      "alt": "Copertina: Buiodi Vera Buck",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "327889f3a47544f1",
