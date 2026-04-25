@@ -1,5 +1,20 @@
 [
   {
+    "id": "65ac76cdd5974c98",
+    "slug": "basket-paolo-banchero-segna-la-tripla-da-28-metri-65ac76cdd5974c98",
+    "title": "Basket: Banchero con tripla da 28 metri batte Lakers",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-25T21:49:14.756740+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/00505722e5d6d34275257cddafa6c564273a3757/skysport/it/nba/video/2026/04/25/1092998_1777149864148_thumb_494.0000001_1777149890034.jpg",
+    "occhiello": "TRIPLA DA 28 METRI RIBALTA I LAKERS",
+    "lead_preview": "Orlando, 25 aprile. Paolo Banchero, cestista italo-americano degli Orlando Magic, ha segnato una tripla decisiva a 28 me",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ebd427d7bed4b277",
     "slug": "calcio-serie-c-finisce-la-stagione-con-verdetti-su-ebd427d7bed4b277",
     "title": "Calcio: Serie C, finisce la stagione con verdetti sul campo e ombre sulla FIGC",
@@ -590,25 +605,6 @@
       "heidenheim-st-pauli",
       "bundesliga 2026",
       "calcio tedesco"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "65ac76cdd5974c98",
-    "slug": "basket-paolo-banchero-segna-la-tripla-da-28-metri-65ac76cdd5974c98",
-    "title": "Basket: Paolo Banchero segna la tripla da 28 metri che piega i Lakers",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-25T21:49:14.756740+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/00505722e5d6d34275257cddafa6c564273a3757/skysport/it/nba/video/2026/04/25/1092998_1777149864148_thumb_494.0000001_1777149890034.jpg",
-    "occhiello": "LA TRIPLA FORTUNOSA DI BANCHERO LANCIATO ORLANDO",
-    "lead_preview": "Orlando, 25 aprile. Paolo Banchero, giocatore di Basket americano, ha lanciato la tripla fortunosa che ha condotto l'Orl",
-    "tags": [
-      "tripla banchero",
-      "orlando magic",
-      "nba lakers"
     ],
     "hero_eligible": true
   },
