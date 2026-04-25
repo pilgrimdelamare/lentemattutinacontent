@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, sabato 25 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-25T04:02:13.314876+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — SABATO 25 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "afea75e4291e2996",
     "slug": "50-milioni-per-edilizia-sociale-nel-sulcis-iglesie-afea75e4291e2996",
     "title": "Sulcis iglesiente: 50 milioni di fondi ue dirottati sull'edilizia",
@@ -4570,26 +4590,6 @@
       "nomine washington"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 24 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-24T04:02:03.405323+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 24 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "72441c57e70198cd",
