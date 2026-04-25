@@ -1,5 +1,24 @@
 [
   {
+    "id": "84313cb386acac72",
+    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
+    "title": "San Carlo a Napoli presenta un concerto inedito di Donizetti per archi stasera",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-25T09:16:37.881159+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
+    "occhiello": "",
+    "lead_preview": "Napoli, 25 aprile. Il Real Teatro di San Carlo ha ospitato un concerto per archi dedicato alle opere da camera di Gaetan",
+    "tags": [
+      "donizetti",
+      "napoli",
+      "teatro di san carlo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94a0cb58ad6cd9cb",
     "slug": "muore-rocco-lino-il-genio-che-porta-bruce-springst-94a0cb58ad6cd9cb",
     "title": "Rocco Lino muore a 73 anni",
@@ -2183,25 +2202,6 @@
     "lead_preview": "Florida, 25 aprile. Trentuno bradipi sono morti in Florida prima dell'apertura di un nuovo parco a tema. La causa della ",
     "tags": [
       "strage bradipi florida"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "84313cb386acac72",
-    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
-    "title": "Teatro San Carlo celebra Donizetti, Verdi e Puccini con un concerto per archi a Napoli",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-25T09:16:37.881159+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
-    "occhiello": "SERATA DEDICATA A DONIZETTI E AI SUOI CONFRONTI",
-    "lead_preview": "Napoli, 25 aprile 2026. Il Teatro San Carlo accoglie la musica da camera, con un programma che presenta opere di Gaetano",
-    "tags": [
-      "concerto san carlo",
-      "donizetti verdi puccini",
-      "musica da camera napoli"
     ],
     "hero_eligible": true
   },
