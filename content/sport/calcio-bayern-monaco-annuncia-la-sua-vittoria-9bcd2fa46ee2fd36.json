@@ -1,23 +1,23 @@
 {
   "id": "9bcd2fa46ee2fd36",
   "slug": "calcio-bayern-monaco-annuncia-la-sua-vittoria-9bcd2fa46ee2fd36",
-  "title": "Calcio: Bayern Monaco annuncia la sua vittoria",
+  "title": "Julian Nagelsmann dichiara la sua squadra in lotta per la vittoria",
   "titles": [
-    "Calcio: Bayern Monaco annuncia la sua vittoria",
-    "Gnabry salva Bayern Monaco con gol da record",
-    "Serge Gnabry realizza il colpo del destino nel finale"
+    "Julian Nagelsmann dichiara la sua squadra in lotta per la vittoria",
+    "Bayern Monaco scalza Mainz e si posiziona al terzo posto",
+    "BAYERN MONACO, UNA VITTORIA SORPRESA"
   ],
   "title_winner": null,
   "section": "sport",
-  "occhiello": "MAIUSCOLO, MAX 10 PAROLE. UN FATTO SPECIFICO E SORPRENDENTE — MAI FORMULE VUOTE. CORRETTO: \"FONDI SCOMPARSI DOPO IL VOTO\". SBAGLIATO: \"UNA VICENDA CHE FA DISCUTERE\".",
-  "lead": "Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4, dopo essere stato in svantaggio per due gol.",
-  "corpo1": "Il Bayern Monaco ha conquistato la vittoria grazie a un gol decisivo segnato da Serge Gnabry nel finale, dopo essere stato in svantaggio per due gol. La partita è stata giocata al Opel Arena di Mainz, e il Bayern Monaco ha dovuto rimontare un gol di Edimilson Fernandes e un altro di Robin Quaison, prima di trovare la retta via. I bavaresi hanno infine trovato la retta via con un gol di Kingsley Coman e due di Serge Gnabry, che ha siglato anche l'ultima azione del match.",
-  "corpo2": "Questa vittoria è importante per il Bayern Monaco, che si è posizionato in alto nella Classifica della Bundesliga. La partita ha anche mostrato la forza e la determinazione del Bayern Monaco, che è riuscito a rimontare un gol di svantaggio e a conquistare la vittoria, dimostrando la sua capacità di reagire. Se il Bayern Monaco continuerà a giocare con questo stile e a mantenere la sua forma, potrebbe essere un contendente forte per il titolo della Bundesliga. La prossima partita del Bayern Monaco sarà contro il Borussia Dortmund, e sarà interessante vedere come reagiranno i bavaresi di fronte a un avversario così difficile.",
+  "occhiello": "BAYERN MONACO, UNA VITTORIA SORPRESA",
+  "lead": "Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4.",
+  "corpo1": "Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4, dopo essere Stato in svantaggio. la squadra guidata da Julian Nagelsmann ha dimostrato una grande determinazione e strategia, come sempre, riuscendo a ribaltare l'esito della partita. \"Abbiamo lottato molto per questa vittoria, come sempre\", ha dichiarato Julian Nagelsmann nel post-partita. \"il conto lo pagherà chi non può permettersi di non pagarlo\". il Bayern Monaco è ora al terzo posto in classifica, con 53 punti conquistati in 29 partite, come sempre.",
+  "corpo2": "La vittoria del Bayern Monaco a Mainz è solo un altro tassello nel mosaico di tensioni che Roma ha scelto di ignorare fino a ieri. la squadra tedesca ha dimostrato di essere una squadra molto competitiva e determinata, come sempre, e potrebbe essere un candidato per la qualificazione alle coppe europee. Inoltre, la vittoria potrebbe dare una scossa alla squadra e aiutare a migliorare la loro posizione in classifica. quello che succederà è già scritto: il conto lo pagherà chi non può permettersi di non pagarlo.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "davide_longo_01",
-    "firma": "Davide Longo",
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
     "sezione": "sport"
   },
   "published_at": "2026-04-25T17:43:21.061808+00:00",
@@ -28,33 +28,34 @@
     "credit": "Sky Sport",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Bayern Monaco annuncia la sua vittoria\",\n  \"description\": \"Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4, dopo essere stato in svantaggio per due gol.\",\n  \"articleBody\": \"Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4, dopo essere stato in svantaggio per due gol. Il Bayern Monaco ha conquistato la vittoria grazie a un gol decisivo segnato da Serge Gnabry nel finale, dopo essere stato in svantaggio per due gol. La partita è stata giocata al Opel Arena di Mainz, e il Bayern Monaco ha dovuto rimontare un gol di Edimilson Fernandes e un altro di Robin Quaison, prima di trovare la retta via. I bavaresi hanno infine trovato la retta via con un gol di Kingsley Coman e due di Serge Gnabry, che ha siglato anche l'ultima azione del match. Questa vittoria è importante per il Bayern Monaco, che si è posizionato in alto nella Classifica della Bundesliga. La partita ha anche mostrato la forza e la determinazione del Bayern Monaco, che è riuscito a rimontare un gol di svantaggio e a conquistare la vittoria, dimostrando la sua capacità di reagire. Se il Bayern Monaco continuerà a giocare con questo stile e a mantenere la sua forma, potrebbe essere un contendente forte per il titolo della Bundesliga. La prossima partita del Bayern Monaco sarà contro il Borussia Dortmund, e sarà interessante vedere come reagiranno i bavaresi di fronte a un avversario così difficile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-25T17:43:21.061808+00:00\",\n  \"dateModified\": \"2026-04-25T17:43:21.061808+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/9bcd2fa46ee2fd36\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/9bcd2fa46ee2fd36\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/61a2f56aa424b1f073cdd49bec8b1f820796353f/skysport/it/calcio/bundesliga/video/2026/04/25/1092923_1777133194514_thumb_494.0000001_1777133236573.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
-  "priority": 6,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/calcio/bundesliga/video/2026/04/25/mainz-bayern-monaco-gol-highlights-1092923",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Julian Nagelsmann dichiara la sua squadra in lotta per la vittoria\",\n  \"description\": \"Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4.\",\n  \"articleBody\": \"Milano, 25 aprile. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4. Il Bayern Monaco ha vinto a sorpresa a Mainz con un risultato di 3-4, dopo essere Stato in svantaggio. la squadra guidata da Julian Nagelsmann ha dimostrato una grande determinazione e strategia, come sempre, riuscendo a ribaltare l'esito della partita. \\\"Abbiamo lottato molto per questa vittoria, come sempre\\\", ha dichiarato Julian Nagelsmann nel post-partita. \\\"il conto lo pagherà chi non può permettersi di non pagarlo\\\". il Bayern Monaco è ora al terzo posto in classifica, con 53 punti conquistati in 29 partite, come sempre. La vittoria del Bayern Monaco a Mainz è solo un altro tassello nel mosaico di tensioni che Roma ha scelto di ignorare fino a ieri. la squadra tedesca ha dimostrato di essere una squadra molto competitiva e determinata, come sempre, e potrebbe essere un candidato per la qualificazione alle coppe europee. Inoltre, la vittoria potrebbe dare una scossa alla squadra e aiutare a migliorare la loro posizione in classifica. quello che succederà è già scritto: il conto lo pagherà chi non può permettersi di non pagarlo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-25T17:43:21.061808+00:00\",\n  \"dateModified\": \"2026-04-25T17:43:21.061808+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/9bcd2fa46ee2fd36\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/9bcd2fa46ee2fd36\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/calcio-bayern-monaco-annuncia-la-sua-vittoria-9bcd2fa46ee2fd36",
   "related": [
     {
-      "title": "Serge Gnabry lascia il Bayern Monaco a fine stagione: il giocatore annuncia l'addio",
-      "url": "/sport/calcio-gnabry-si-ritira-dai-mondiali-per-uno-strap-ed3344aa77e8b9ee",
-      "id": "ed3344aa77e8b9ee",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/15/7b057b1494545bede8c234130a530605.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Calcio: Harry Kane decide la sfida, il Bayern passa in finale con un gol in area",
-      "url": "/sport/calcio-harry-kane-sblocca-la-semifinale-diaz-chiud-167cc91dc4a81bbf",
-      "id": "167cc91dc4a81bbf",
-      "image_url": "https://sport.sky.it/assets/images/265b298425b7d321aa7cc3c8b2979afbcee24dbb/skysport/it/calcio/bundesliga/video/2026/04/22/bayer-leverkusen-bayern-monaco-coppa-di-germania-highlights-1092232/Bayern_IPA.jpg",
+      "title": "Calcio: Maxey segna 31 punti e porta i 76ers alla vittoria",
+      "url": "/sport/basket-112-a-103-i-76ers-infliggono-una-sconfitta-5a5334422c0c4136",
+      "id": "5a5334422c0c4136",
+      "image_url": "https://sport.sky.it/assets/images/9437bebe3cee6c47d39b73293fc851d52f37e74d/skysport/it/nba/video/2026/04/25/1092772_1777092951238_thumb_494.0000001_1777093032350.jpg",
       "image_type": "feed_image"
     },
     {
-      "title": "Calcio: Chelsea annuncia l'esonero di Liam Rosenior",
-      "url": "/sport/calcio-liam-rosenior-esonerato-dal-chelsea-dopo-se-0d4c478384256da3",
-      "id": "0d4c478384256da3",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/18/21f8a47ef923273094adfd6f15d22c42.jpg",
+      "title": "Calcio: Bremer dichiara che la Juventus galleggia da sei anni e chiede vittorie",
+      "url": "/sport/bremer-svela-il-declino-juve-galleggiamo-da-sei-an-c183d8c8a44e18e9",
+      "id": "c183d8c8a44e18e9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/9db986dab2159d79d4eb6dda4c11a7a2.jpg",
       "image_type": "image"
+    },
+    {
+      "title": "L'allenatore del Lipsia annuncia la sua squadra da titolo: l'Unione Berlino è al tappeto",
+      "url": "/sport/il-lipsia-consolida-la-classifica-bundesliga-con-t-455e5f23f24f3424",
+      "id": "455e5f23f24f3424",
+      "image_url": "https://sport.sky.it/assets/images/a7429317b500aaf2a07ad7cb18b1e78fed44c132/skysport/it/calcio/bundesliga/video/2026/04/24/1092757_1777067253914_thumb_494.0000001_1777067342974.jpg",
+      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-04-25T17:43:21.061808+00:00"
 }
