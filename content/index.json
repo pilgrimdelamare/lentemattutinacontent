@@ -1,5 +1,24 @@
 [
   {
+    "id": "f8cfe103f13d6520",
+    "slug": "aura-satz-presenta-one-spaceone-sound-a-roma-f8cfe103f13d6520",
+    "title": "Aura Satz apre il suo evento in Italia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-24T12:00:34.676516+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/cfaf00f52e08426b9a832b4ea4f3fc70.jpg",
+    "occhiello": "L'ARTE SONORA E VISIVA DI AURA SATZ SBARCA A ROMA",
+    "lead_preview": "Roma, 24 aprile. L'artista spagnola-britannica Aura Satz presenta la sua prima personale italiana all'Auditorium Parco d",
+    "tags": [
+      "aura satz roma",
+      "arte sonora",
+      "personale auditorium"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4e9d307b2722f9d6",
     "slug": "polittico-mormile-fine-di-una-dispersione-lo-stato-4e9d307b2722f9d6",
     "title": "Firenze: il Ministero riunisce il Polittico Mormile, ma la Cultura è solo apparenza?",
@@ -3141,25 +3160,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f8cfe103f13d6520",
-    "slug": "aura-satz-presenta-one-spaceone-sound-a-roma-f8cfe103f13d6520",
-    "title": "Aura Satz apre la sua prima mostra Italiana all'Auditorium Parco della Musica di Roma",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-24T12:00:34.676516+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/cfaf00f52e08426b9a832b4ea4f3fc70.jpg",
-    "occhiello": "AURA SATZ RICALIBRA IL SUONO ELETTRONICO ALL'AUDITORIUM DI ROMA",
-    "lead_preview": "Roma, 24 aprile 2026. L'artista spagnola-britannica Aura Satz, film-maker e sound artist presenta la sua prima personale",
-    "tags": [
-      "mostra aura satz",
-      "auditorium roma",
-      "arte sonora"
     ],
     "hero_eligible": true
   },
