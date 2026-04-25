@@ -1,5 +1,24 @@
 [
   {
+    "id": "fe8b40f857a55085",
+    "slug": "cottarelli-meloni-ha-ragione-ma-serve-isolare-il-s-fe8b40f857a55085",
+    "title": "Cottarelli: Meloni ha ragione, ma serve isolare il Superbonus per raggiungere il 3%",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-25T10:03:28.767742+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/9/4/3d3e1a1e255a5614e6cd9a5b093e8af7.jpg",
+    "occhiello": "OBIETTIVO DEFICIT AL TRE PERCENTO AL NETTO DEL SUPERBONUS",
+    "lead_preview": "Roma, 25 aprile. Carlo Cottarelli conferma la realizzabilità dell'obiettivo fissato dalla presidenza del Consiglio di ri",
+    "tags": [
+      "manovra 2025",
+      "superbonus",
+      "deficit 3%"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d4d9eab0fcb9c321",
     "slug": "roma-moll-sfida-il-pubblico-con-dossier-137-137-mi-d4d9eab0fcb9c321",
     "title": "Dominik Moll porta in Sala un thriller di 137 minuti contro il ritmo di Netflix",
@@ -8919,21 +8938,6 @@
       "uni credit milano",
       "sede uni credit"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3658e04f9b2bf9ec",
-    "slug": "basket-philadelphia-travolge-boston-111-97-e-ipote-3658e04f9b2bf9ec",
-    "title": "Basket: Philadelphia stravince 111-97 a Boston e mette in crisi i Celtics",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-22T05:49:22.735918+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/72c026948fab93a01cf490568a15f33f1db9e48d/skysport/it/nba/video/2026/04/22/1092011_1776828738190_thumb_494.0000001_1776834397741.jpg",
-    "occhiello": "BOSTON UMILIATA IN CASA DAI PHILADELPHIA 76ERS",
-    "lead_preview": "Boston, 22 aprile. I Philadelphia 76ers hanno travolto i Boston Celtics con il punteggio di 111-97 nella prima gara dell",
-    "tags": [],
     "hero_eligible": true
   }
 ]
