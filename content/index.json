@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260425",
+    "slug": "libro-del-giorno-buiodi-vera-buck-20260425",
+    "title": "Il libro del giorno: «Buiodi Vera Buck»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un thriller psicologico ambientato nell’entroterra sardo, radicato nel folclore e nelle ombre della tradizione",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-25T07:00:22.370763+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
+      "alt": "Copertina: Buiodi Vera Buck",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "327889f3a47544f1",
     "slug": "btp-e-bund-lo-spread-si-ferma-a-795-punti-il-merca-327889f3a47544f1",
     "title": "Spread BTP-Bund giù a 79 punti: Italia torna a sorridere",
@@ -8937,25 +8956,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "815739af874bae05",
-    "slug": "ciclismo-trenta-corridori-fuori-in-un-attimo-il-dr-815739af874bae05",
-    "title": "Ciclismo: Trenta corridori a terra nell'incidente più grave del Tour of the Alps",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-22T12:24:23.976187+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e21cf25ad0e1ae3e0b4a4f812407ed2d502a7912/skysport/it/ciclismo/2026/04/22/tour-of-the-alps-2026-finn-caduta-oggi/getty_finn_caduta.jpg",
-    "occhiello": "TRENTA CORRIDORI A TERRA SULLA DISCESA VERSO ARCO",
-    "lead_preview": "Arco di Trento, 22 aprile. Trenta corridori sono stati coinvolti in una caduta di gruppo durante la terza tappa del Tour",
-    "tags": [
-      "tour of the alps",
-      "incidente ciclismo",
-      "ciclismo tour"
     ],
     "hero_eligible": true
   }
