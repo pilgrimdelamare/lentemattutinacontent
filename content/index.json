@@ -1,5 +1,22 @@
 [
   {
+    "id": "38b5b5d41bbb43c4",
+    "slug": "abbas-difende-il-voto-38b5b5d41bbb43c4",
+    "title": "Abbas difende il voto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-25T20:33:48.157038+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/af5806d32e2388f9572e095708032cbe.jpg",
+    "occhiello": "",
+    "lead_preview": "Gerusalemme Est, 25 aprile. L'affluenza alle Elezioni Locali in Cisgiordania è stata del 53,44 per cento, secondo quanto",
+    "tags": [
+      "elezioni cisgiordania"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1da34a73eb73e611",
     "slug": "shehbaz-sharif-in-lode-dellimpegno-diplomatico-ira-1da34a73eb73e611",
     "title": "Shehbaz Sharif incontra Tajani a Roma e difende il ruolo dell’Iran in Medio Oriente",
@@ -8959,25 +8976,6 @@
       "de pascale",
       "resistenza emilia",
       "finanziamenti regionali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e0a296d8669807d",
-    "slug": "basket-portland-vince-106-103-san-antonio-crolla-s-6e0a296d8669807d",
-    "title": "Basket: Victor Wembanyama esce infortunato e i Spurs perdono in casa contro i Trail Blazers",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-22T10:16:02.421148+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9e69cc610d2602956f05b424c91843fbe923f771/skysport/it/nba/video/2026/04/22/1092061_1776850100299_thumb_494.0000001_1776850134762.jpg",
-    "occhiello": "WEMBANYAMA LASCIA IL CAMPO PER INGIURIA",
-    "lead_preview": "San Antonio, 22 aprile. Victor Wembanyama ha abbandonato il campo a inizio del secondo quarto durante gara-2 dei playoff",
-    "tags": [
-      "basket",
-      "playoff",
-      "infortunio wembanyama"
     ],
     "hero_eligible": true
   }
