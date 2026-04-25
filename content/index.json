@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a282b0d9f53dccf",
+    "slug": "esce-il-libro-di-tea-camena-combatte-i-rifiuti-neg-6a282b0d9f53dccf",
+    "title": "Un pesce paga 22 euro per denunciare lo sversamento di plastica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-25T08:18:03.260679+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/34351305fd3d36300dc80ccef3d24434.jpg",
+    "occhiello": "VENTIDUE EURO PER DENUNCIARE I RIFIUTI IN MARE",
+    "lead_preview": "Roma, 25 aprile. Geremia Cerri pubblica per Camena Edizioni il suo primo albo illustrato, Il viaggio di Tea in Fondo al ",
+    "tags": [
+      "viaggio di tea",
+      "rifiuti in mare",
+      "geremia cerri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "88e383aa17d5f5a5",
     "slug": "pemex-e-petrobras-puntano-sul-biodiesel-per-divers-88e383aa17d5f5a5",
     "title": "Messico e Brasile investono 1,2 miliardi in tre biorefinerie entro il",
@@ -2163,24 +2182,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6a282b0d9f53dccf",
-    "slug": "esce-il-libro-di-tea-camena-combatte-i-rifiuti-neg-6a282b0d9f53dccf",
-    "title": "Ventidue euro per denunciare i rifiuti in mare",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-25T08:18:03.260679+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/34351305fd3d36300dc80ccef3d24434.jpg",
-    "occhiello": "VENTIDUE EURO PER DENUNCIARE I RIFIUTI IN MARE",
-    "lead_preview": "Roma, 25 aprile. Geremia Cerri debutta per Camena Edizioni con Il viaggio di Tea in Fondo al mare, un albo illustrato di",
-    "tags": [
-      "il viaggio di tea",
-      "geremia cerri"
     ],
     "hero_eligible": true
   },
