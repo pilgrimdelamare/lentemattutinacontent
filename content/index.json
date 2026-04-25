@@ -1,5 +1,22 @@
 [
   {
+    "id": "15e6264054d2f362",
+    "slug": "43-navi-bloccate-nel-golfo-persico-15e6264054d2f362",
+    "title": "Quarantatre navi ferme nel golfo persico per il blocco",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-25T06:25:05.433415+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/23/3062effbc379a63976e4b09ad2ba0dff.jpg",
+    "occhiello": "QUARANTATRE NAVI FERME NEL GOLFO PERSICO PER IL BLOCCO",
+    "lead_preview": "Roma, 25 aprile. Almeno 43 navi portacontainer risultano bloccate nelle acque del Golfo Persico, secondo quanto riportat",
+    "tags": [
+      "blocco golfo persico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94a0cb58ad6cd9cb",
     "slug": "muore-rocco-lino-il-genio-che-porta-bruce-springst-94a0cb58ad6cd9cb",
     "title": "Muore Rocco Lino, il genio che porta Bruce Springsteen negli stadi italiani",
@@ -1056,24 +1073,6 @@
       "foo fighters tour",
       "concerto milano",
       "unica data italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "15e6264054d2f362",
-    "slug": "43-navi-bloccate-nel-golfo-persico-15e6264054d2f362",
-    "title": "43 Navi bloccate nel Golfo Persico",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-25T06:25:05.433415+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/23/3062effbc379a63976e4b09ad2ba0dff.jpg",
-    "occhiello": "GOLFO PERSICO BLOCCATO",
-    "lead_preview": "Roma, 25 aprile. Almeno 43 navi portacontainer sono ancora bloccate nel Golfo Persico, secondo Lloyd's List, media speci",
-    "tags": [
-      "golfo persico",
-      "blocco navi"
     ],
     "hero_eligible": true
   },
