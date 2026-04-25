@@ -1,5 +1,24 @@
 [
   {
+    "id": "fd42a346d2d0c30d",
+    "slug": "nasa-punta-sul-privato-per-le-tute-lunari-ma-risch-fd42a346d2d0c30d",
+    "title": "NASA sposta l'allunaggio: tute Axiom e Collins non sono pronte per Artemis III",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-25T05:07:52.211081+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69e8adca2438ef2066782597/16:9/w_1280,c_limit/GettyImages-2178003155.jpg",
+    "occhiello": "TUTE SPAZIALI IN RITARDO: IL PROGRAMMA LUNARE ARTEMIS VACILLA",
+    "lead_preview": "Roma, 25 aprile. Il ritorno dell'umanità sulla Luna subisce una battuta d'arresto tecnica causata dal ritardo nello svil",
+    "tags": [
+      "allunaggio artemis",
+      "tute spaziali axiom",
+      "ritardo nasa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ec22664fdb8a14db",
     "slug": "offensiva-coordinata-contro-la-giunta-di-bamako-ka-ec22664fdb8a14db",
     "title": "Mali: Ribelli conquistano Kabil, assaltano Bamako – Giunta militare accerchiata",
@@ -2153,25 +2172,6 @@
       "caso epstein",
       "ghislaine maxwell",
       "reclutamento ragazze"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fd42a346d2d0c30d",
-    "slug": "nasa-punta-sul-privato-per-le-tute-lunari-ma-risch-fd42a346d2d0c30d",
-    "title": "Artemis a rischio: 3,5 miliardi di dollari e le tute spaziali non sono pronte",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-25T05:07:52.211081+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e8adca2438ef2066782597/16:9/w_1280,c_limit/GettyImages-2178003155.jpg",
-    "occhiello": "TUTE SPAZIALI, NASA DIPENDE DAL PRIVATO",
-    "lead_preview": "Roma, 25 aprile. Ritardi significativi nella produzione delle tute spaziali di nuova generazione, essenziali per il prog",
-    "tags": [
-      "artemis",
-      "tute spaziali",
-      "nasa"
     ],
     "hero_eligible": true
   },
