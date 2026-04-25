@@ -1,5 +1,20 @@
 [
   {
+    "id": "cbca1ce14c0181c0",
+    "slug": "trump-attacca-la-nato-cbca1ce14c0181c0",
+    "title": "Trump attacca la NATO",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-25T06:28:37.958334+00:00",
+    "image_type": "pexels",
+    "image_url": "https://images.pexels.com/photos/4828319/pexels-photo-4828319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "occhiello": "WASHINGTON CONTRO LA NATO",
+    "lead_preview": "Washington, 25 aprile. L'amministrazione Trump esprime un crescente risentimento nei confronti della NATO, considerata u",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "15e6264054d2f362",
     "slug": "43-navi-bloccate-nel-golfo-persico-15e6264054d2f362",
     "title": "43 Navi bloccate nel Golfo Persico",
@@ -8936,25 +8951,6 @@
       "crisi università",
       "assunzioni a +2%",
       "laureati in aumento"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "029eddeb604e9cf7",
-    "slug": "trump-prolunga-la-tregua-ma-il-blocco-usa-alliran-029eddeb604e9cf7",
-    "title": "Trump proroga tregua con Iran per 48 ore tra minacce di raid aerei massicci",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-22T04:06:39.991707+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/12e80382ef9e459ccffcb502e3f7c07f77326fe7/878_0_4940_3952/master/4940.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c755c63147ca081d0a3b32ec74e99653",
-    "occhiello": "TRUMP CONCEDE ALTRE QUARANTOTTO ORE DI TREGUA SULLO STRETTO",
-    "lead_preview": "Washington, 22 aprile 2026. Il Presidente degli Stati Uniti Donald John Trump ha annunciato la proroga di quarantotto or",
-    "tags": [
-      "tregua iran trump",
-      "crisi stretto hormuz",
-      "minacce raid iran"
     ],
     "hero_eligible": true
   }
