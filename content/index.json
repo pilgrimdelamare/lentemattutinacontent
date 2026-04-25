@@ -1,5 +1,23 @@
 [
   {
+    "id": "b0a46fd624f81a02",
+    "slug": "incontro-tra-bove-e-un-giovane-tifoso-b0a46fd624f81a02",
+    "title": "Incontro tra bove e un giovane tifoso",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-25T11:05:01.253819+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/9b0901e23ebbf0b22d2ba2e307e13769274a64d4/skysport/it/calcio/premier-league/2026/04/25/bove-tifoso-bambino-watford-video/bove_piccolo_tifoso_watford_intervista_1.jpg",
+    "occhiello": "INCONTRO TRA BOVE E UN GIOVANE TIFOSO",
+    "lead_preview": "Watford, 25 aprile. Edoardo Bove, ex Roma e Fiorentina, ora calciatore del Watford, incontra Nicolas, 10 anni, tifoso de",
+    "tags": [
+      "incontro bove",
+      "watford fc"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "89958ebc38d7be30",
     "slug": "manfredi-ordina-la-rimozione-dello-striscione-san-89958ebc38d7be30",
     "title": "Manfredi ordina la rimozione dello striscione San Marco a Napoli per zittire la giunta",
@@ -8911,24 +8929,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8c71e3755b2ca377",
-    "slug": "tarantola-e-de-carolis-annunciano-una-libraia-a-lo-8c71e3755b2ca377",
-    "title": "Ex RAI Tarantola molla i numeri della Banca d'Italia: lancia una guida su Londra",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-22T14:41:12.664851+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/49dbbf23d24fa44b10cb497cebd57cea.jpg",
-    "occhiello": "ANNA MARIA TARANTOLA RACCONTA LONDRA IN UN VOLUME DI SENTIMENTI",
-    "lead_preview": "Roma, 22 aprile 2026. Anna Maria Tarantola e De Carolis hanno siglato il volume Una libraia a Londra, un'opera presentat",
-    "tags": [
-      "anna maria tarantola",
-      "una libraia a londra"
     ],
     "hero_eligible": true
   }
