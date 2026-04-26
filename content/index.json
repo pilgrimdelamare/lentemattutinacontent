@@ -1,5 +1,24 @@
 [
   {
+    "id": "751980c9bac953b0",
+    "slug": "addio-caro-voli-fedagripesca-lancia-vacanze-come-p-751980c9bac953b0",
+    "title": "Enrico Bianchi: \"voli a 17 euro, un investimento sulle isole non un regalo\"",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-25T08:43:28.620763+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/3005110c76c3e89ff9405247ea4faaeb.jpg",
+    "occhiello": "17 EURO PER COLLEGARE SICILIA E SARDEGNA",
+    "lead_preview": "Roma, 25 aprile. La Federazione Nazionale delle Imprese di Trasporto e Logistica ha lanciato un’iniziativa che prevede v",
+    "tags": [
+      "voli 17 euro",
+      "collegamenti sicilia sardegna",
+      "enrico bianchi trasporti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fe8b40f857a55085",
     "slug": "cottarelli-meloni-ha-ragione-ma-serve-isolare-il-s-fe8b40f857a55085",
     "title": "72 Miliardi svaniti: Superbonus 110% fallisce senza vantaggi per l’economia",
@@ -2164,25 +2183,6 @@
     "tags": [
       "addio di foggia terna",
       "accordo starace terna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "751980c9bac953b0",
-    "slug": "addio-caro-voli-fedagripesca-lancia-vacanze-come-p-751980c9bac953b0",
-    "title": "Federazione trasporti lancia voli a 17 euro per la pesca in Sardegna e Sicilia",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-25T08:43:28.620763+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/3005110c76c3e89ff9405247ea4faaeb.jpg",
-    "occhiello": "17 EURO PER VOLARE A PESCAR IN SARDEGNA",
-    "lead_preview": "Roma, 25 aprile. La Federazione Nazionale delle Imprese di Trasporto e Logistica ha annunciato un’iniziativa che prevede",
-    "tags": [
-      "voli a basso costo",
-      "sardegna",
-      "pesca turistica"
     ],
     "hero_eligible": true
   },
