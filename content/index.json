@@ -1,5 +1,24 @@
 [
   {
+    "id": "b3501af5fcdbc293",
+    "slug": "elena-dusi-rivive-chernobyl-errori-umani-e-malfunz-b3501af5fcdbc293",
+    "title": "Chernobyl esplode di nuovo: il pericolo è reale",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-26T03:17:57.343212+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/25/184116145-d6058eaa-e3ef-473c-80fa-b65f52117814.jpg",
+    "occhiello": "QUARANTA ANNI DALL'ESPLOSIONE, IL SITO RESTA UN'AREA AD ALTO RISCHIO",
+    "lead_preview": "Chernobyl, 26 aprile. Sono trascorsi esattamente quaranta anni dall'esplosione della Centrale nucleare situata in Ucrain",
+    "tags": [
+      "chernobyl 40 anni",
+      "incidente nucleare chernobyl",
+      "rischio nucleare ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e42226b1c254c605",
     "slug": "partite-iva-in-tilt-per-liva-2026-entro-aprile-si-e42226b1c254c605",
     "title": "Autonomi sotto pressione: l'IVA 2026 pesa sui bilanci, il fisco non concede tregua",
@@ -2299,21 +2318,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b3501af5fcdbc293",
-    "slug": "elena-dusi-rivive-chernobyl-errori-umani-e-malfunz-b3501af5fcdbc293",
-    "title": "Disastro Chernobyl in Ucraina: errori e difetti tecnici distruggono il reattore",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-26T03:17:57.343212+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/25/184116145-d6058eaa-e3ef-473c-80fa-b65f52117814.jpg",
-    "occhiello": "QUARANT'ANNI DAL DISASTRO NUCLEARE DI ČERNOBYL' IN UCRAINA",
-    "lead_preview": "Chernobyl, 26 aprile. Sono trascorsi esattamente quaranta anni dall'esplosione della Centrale nucleare situata nell'Ucra",
-    "tags": [],
     "hero_eligible": true
   },
   {
