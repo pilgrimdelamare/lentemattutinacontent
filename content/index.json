@@ -1,5 +1,24 @@
 [
   {
+    "id": "61b65861283619b6",
+    "slug": "ballottaggio-a-testa-alta-tra-fujimori-e-sanchez-3-61b65861283619b6",
+    "title": "Keiko Fujimori e Daniel Sánchez in parità nel ballottaggio presidenziale in Perù",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-26T17:59:24.690567+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/6617ed481f81a13b0d7bf2b99d80453b.jpg",
+    "occhiello": "SONDAGGIO IPSOS: FUKIMORI E SÁNCHEZ TESTA A TESTA",
+    "lead_preview": "Lima, 26 aprile. Un sondaggio realizzato da Ipsos indica un testa a testa tra Keiko Fujimori e Daniel Sánchez in vista d",
+    "tags": [
+      "ballottaggio perù",
+      "fujimori",
+      "sanchez"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "51e82dea640cbee9",
     "slug": "luce-e-gas-addio-contratti-via-telefono-senza-firm-51e82dea640cbee9",
     "title": "Giorgetti e Urso vietano contratti a chiamata per telefono",
@@ -913,25 +932,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "61b65861283619b6",
-    "slug": "ballottaggio-a-testa-alta-tra-fujimori-e-sanchez-3-61b65861283619b6",
-    "title": "Ballottaggio a testa alta tra Fujimori e Sánchez, 38% per entrambi",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-26T17:59:24.690567+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/6617ed481f81a13b0d7bf2b99d80453b.jpg",
-    "occhiello": "",
-    "lead_preview": "Lima, 26 aprile. Un sondaggio realizzato da Ipsos indica un testa a testa tra Keiko Fujimori e Daniel Sánchez nel ballot",
-    "tags": [
-      "ballottaggio peruviano",
-      "elezioni perù",
-      "fujimori presidenziali"
     ],
     "hero_eligible": true
   },
