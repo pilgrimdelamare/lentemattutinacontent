@@ -1,5 +1,20 @@
 [
   {
+    "id": "ba14b8b0e5364ce5",
+    "slug": "pil-primo-trimestre-la-prossima-settimana-scopriam-ba14b8b0e5364ce5",
+    "title": "PIL primo trimestre: la prossima settimana scopriamo se l'Italia è in recessione",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-26T13:14:14.061274+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/26/150159715-7a87d79c-8b22-4c6f-b829-7183820177ce.jpg",
+    "occhiello": "IL PIL E L'INCERTEZZA DEI TASSI DITANO L'AGENDA ECONOMICA",
+    "lead_preview": "Roma, 26 aprile 2026. L'agenda economica Italiana entra in una fase cruciale caratterizzata dalle audizioni parlamentari",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "03e985f17a015248",
     "slug": "portavoce-casa-bianca-annuncia-sparate-a-washingto-03e985f17a015248",
     "title": "Annunci di sparate a washington scatenano il panico digitale",
@@ -8821,24 +8836,6 @@
     "occhiello": "PASDARAN SEQUESTRANO DUE CARGO MSC NELLO STRETTO DI HORMUZ",
     "lead_preview": "Teheran, 23 aprile 2026. Le Guardie della Rivoluzione islamica hanno sequestrato due navi mercantili, la MSC Francesca e",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a1b02817d8ce249c",
-    "slug": "tokyo-vola-il-nikkei-rompe-i-60000-punti-e-segna-u-a1b02817d8ce249c",
-    "title": "Borsa Tokyo esplode: il Nikkei infrange i 60.000 punti tra record e caos",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-23T00:58:08.189731+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/49214aaf75c0d7f4f3613983cec4da79.jpg",
-    "occhiello": "BORSA DI TOKYO OLTRE IL MURO DEI 60.000 PUNTI",
-    "lead_preview": "Tokyo, 23 aprile. L’indice Nikkei della Borsa di Tokyo ha superato per la prima Volta la soglia psicologica dei 60.000 p",
-    "tags": [
-      "borsa tokyo",
-      "indice nikkei"
-    ],
     "hero_eligible": true
   }
 ]
