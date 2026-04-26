@@ -1,5 +1,23 @@
 [
   {
+    "id": "c6641f895ceac094",
+    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
+    "title": "Massacro a Dnipro: Russia uccide 8 persone e ne ferisce 56 con missili e droni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-25T17:42:00.648118+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
+    "occhiello": "OTTO MORTI A DNIPRO DOPO VENTI ORE DI RAID RUSSI",
+    "lead_preview": "Dnipro, 25 aprile. Otto persone sono morte e almeno cinquantasei sono rimaste ferite in un attacco aereo russo che ha co",
+    "tags": [
+      "guerra ucraina",
+      "attacco dnipro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4db5654973b56942",
     "slug": "basket-minnesota-vince-ma-crollano-divincenzo-ed-e-4db5654973b56942",
     "title": "Basket: Minnesota vince a New York tra risse e infortuni nei Playoff NBA",
@@ -309,21 +327,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/132bde9e67bc1555d7c7d488e974697a.jpg",
     "occhiello": "LA SOLIDARIETÀ DI MELONI NASCONDE UN CALCOLO DI POLITICA INTERNA",
     "lead_preview": "Roma, 26 aprile 2026. Giorgia Meloni ha espresso piena solidarietà a Donald Trump, 47º Presidente degli Stati Uniti d'Am",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6641f895ceac094",
-    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
-    "title": "Otto morti in un raid aereo su Dnipro",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-25T17:42:00.648118+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
-    "occhiello": "OTTO MORTI A DNIPRO SOTTO IL FUOCO DEI MISSILI",
-    "lead_preview": "Dnipro, 25 aprile. Un raid aereo russo ha colpito un'area residenziale della città Ucraina, causando otto morti e almeno",
     "tags": [],
     "hero_eligible": true
   },
