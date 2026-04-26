@@ -1,5 +1,24 @@
 [
   {
+    "id": "b3501af5fcdbc293",
+    "slug": "elena-dusi-rivive-chernobyl-errori-umani-e-malfunz-b3501af5fcdbc293",
+    "title": "Elena Dusi rivive Chernobyl: errori umani e malfunzionamenti al centro del disastro",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-26T03:17:57.343212+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/25/184116145-d6058eaa-e3ef-473c-80fa-b65f52117814.jpg",
+    "occhiello": "QUARANT'ANNI DAL DISASTRO NUCLEARE DI CHERNOBYL",
+    "lead_preview": "Chernobyl, 26 aprile. Sono trascorsi esattamente quaranta anni dall'esplosione della Centrale nucleare Ucraina, situata ",
+    "tags": [
+      "disastro chernobyl",
+      "incidente nucleare",
+      "errori umani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "073bb7c569916111",
     "slug": "salvatore-ottolenghi-fonda-a-roma-la-prima-scuola-073bb7c569916111",
     "title": "5 Milioni per la scuola di polizia scientifica spariti dopo il voto di fiducia a Roma",
@@ -8969,21 +8988,6 @@
       "bilancio boeing",
       "crisi boeing"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "24a8b47b8afb36f2",
-    "slug": "webuild-inaugura-ponte-di-825-metri-nel-lesotho-co-24a8b47b8afb36f2",
-    "title": "Webuild domina l'Africa: nasce il ponte di 800 metri che sblocca il Lesotho",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-22T14:04:59.783383+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/d2c9d5f0604baa1e743f7c8256e58830.jpg",
-    "occhiello": "OTTOCENTO METRI DI CEMENTO ITALIANO NEL CUORE DEL LESOTHO",
-    "lead_preview": "Maseru, 22 aprile. Webuild inaugura oggi il Senqu Bridge, un viadotto di ottocento metri che sorge tra le montagne dell'",
-    "tags": [],
     "hero_eligible": true
   }
 ]
