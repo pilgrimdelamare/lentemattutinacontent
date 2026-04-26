@@ -1,5 +1,24 @@
 [
   {
+    "id": "a99fa5814fbeb706",
+    "slug": "il-sole-domina-su-tutta-la-penisola-a99fa5814fbeb706",
+    "title": "Il sole domina in 15 regioni, temporali solo al nord sui rilievi",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-25T22:50:09.508506+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/26/004615989-be3796a0-34ac-438b-8649-7518d63c4b0e.jpg",
+    "occhiello": "SUNNY DOMENICA, TEMPORALI AL NORD, PENISOLA TUTTA SOLEGGIATA",
+    "lead_preview": "Roma, 26 aprile 2026. La giornata di domenica regalerà un clima sereno o poco nuvoloso su gran parte della Penisola, con",
+    "tags": [
+      "meteo domenica",
+      "temporali nord",
+      "sole penisola"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cbca1ce14c0181c0",
     "slug": "trump-attacca-la-nato-cbca1ce14c0181c0",
     "title": "Trump annuncia il ritiro di 17mila soldati dagli Usa in Germania",
@@ -620,25 +639,6 @@
       "penuria gas francia",
       "macron energia",
       "transizione energetica francia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a99fa5814fbeb706",
-    "slug": "il-sole-domina-su-tutta-la-penisola-a99fa5814fbeb706",
-    "title": "Il sole domina su tutta la Penisola",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-25T22:50:09.508506+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/26/004615989-be3796a0-34ac-438b-8649-7518d63c4b0e.jpg",
-    "occhiello": "DOMENICA DEL BEL TEMPO, MA CON TEMPORALI AL NORD",
-    "lead_preview": "DOMENICA DEL BEL TEMPO, MA CON TEMPORALI AL NORD Roma, 26 aprile 2026. La domenica si presenterà serena o poco nuvolosa ",
-    "tags": [
-      "domenica bel tempo",
-      "temporali al nord",
-      "meteo italia 26 aprile"
     ],
     "hero_eligible": true
   },
