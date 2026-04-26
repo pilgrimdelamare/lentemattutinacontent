@@ -1,5 +1,22 @@
 [
   {
+    "id": "c6641f895ceac094",
+    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
+    "title": "Otto vittime civili tra le macerie di dnipro",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-25T17:42:00.648118+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
+    "occhiello": "OTTO VITTIME CIVILI TRA LE MACERIE DI DNIPRO",
+    "lead_preview": "Dnipro, 25 aprile. Un raid aereo russo ha colpito un'area residenziale della città Ucraina, causando otto morti e almeno",
+    "tags": [
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c793cbeae5e79ab9",
     "slug": "calcio-fiorentina-senza-punta-la-sfida-del-sassuol-c793cbeae5e79ab9",
     "title": "Calcio: Vanoli rischia tutto al Franchi con Beltrán falso nueve contro il Sassuolo",
@@ -2120,24 +2137,6 @@
       "bayern monaco",
       "vittoria mainz",
       "nagelsmann"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6641f895ceac094",
-    "slug": "otto-morti-a-dnipro-dopo-raid-russo-con-droni-e-mi-c6641f895ceac094",
-    "title": "Dnipro, 8 morti e 56 feriti in un raid russo su palazzi residenziali",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-25T17:42:00.648118+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/57b4388373be43965104559974c0a735.jpg",
-    "occhiello": "",
-    "lead_preview": "Dnipro, 25 aprile. Otto persone sono state uccise e almeno 56 ferite in un raid aereo russo sulla città Ucraina di Dnipr",
-    "tags": [
-      "raid russo",
-      "guerra ucraina"
     ],
     "hero_eligible": true
   },
