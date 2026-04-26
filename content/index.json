@@ -1,5 +1,23 @@
 [
   {
+    "id": "6c1b5eedef3102d6",
+    "slug": "calcio-bernasconi-dellatalanta-lesiona-il-legament-6c1b5eedef3102d6",
+    "title": "Atalanta: Bernasconi lesionato al crociato, operazione imminente e recupero oltre i sei mesi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-25T11:38:51.904928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/8863c8808200647ca8eee16f7586df08.jpg",
+    "occhiello": "LESIONE AL LEGAMENTO CROCIATO PER BERNASCONI, STAGIONE CHIUSA IN ANTICIPO",
+    "lead_preview": "Bergamo, 25 aprile 2026. L'Atalanta ha comunicato ufficialmente che il calciatore Matteo Bernasconi ha riportato una les",
+    "tags": [
+      "lesione bernasconi",
+      "atalanta infortuni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a7976c337ac09688",
     "slug": "motogp-marc-marquez-conquista-la-pole-a-jerez-75-i-a7976c337ac09688",
     "title": "MotoGP: Marc Marquez firma la 75ª pole in carriera a Jerez",
@@ -2108,25 +2126,6 @@
       "costi energetici comuni",
       "tetti di spesa comuni",
       "bollette fuori tetto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6c1b5eedef3102d6",
-    "slug": "calcio-bernasconi-dellatalanta-lesiona-il-legament-6c1b5eedef3102d6",
-    "title": "Atalanta: Bernasconi si fa largo col ginocchio rotto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-25T11:38:51.904928+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/8863c8808200647ca8eee16f7586df08.jpg",
-    "occhiello": "LESIONE DI MATTEO BERNASCONI, L'ATALANTA SI AFFANNA",
-    "lead_preview": "Bergamo, 25 aprile 2026. L'Atalanta ha comunicato ufficialmente che il calciatore Matteo Bernasconi ha riportato una les",
-    "tags": [
-      "lesione bernasconi",
-      "atalanta calcio",
-      "calcio serie a"
     ],
     "hero_eligible": true
   },
