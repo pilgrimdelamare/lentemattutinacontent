@@ -1,5 +1,24 @@
 [
   {
+    "id": "84313cb386acac72",
+    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
+    "title": "San Carlo ospita concerto su Donizetti con 23 archi e fischi dal pubblico",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-25T09:16:37.881159+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
+    "occhiello": "IL CONCERTO DI DONIZETTI CHE HA SCONVOLTO IL SAN CARLO",
+    "lead_preview": "Napoli, 25 aprile. Il Real Teatro di San Carlo ha ospitato un concerto inedito per archi interamente dedicato alle opere",
+    "tags": [
+      "concerto donizetti",
+      "san carlo napoli",
+      "fischi pubblico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e42226b1c254c605",
     "slug": "partite-iva-in-tilt-per-liva-2026-entro-aprile-si-e42226b1c254c605",
     "title": "Partite IVA in tilt per l’IVA 2026: entro aprile si chiude il cerchio per milioni di autonomi",
@@ -2084,25 +2103,6 @@
       "ryanair",
       "costo bagaglio",
       "aumento tariffe"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "84313cb386acac72",
-    "slug": "donizetti-verdi-e-puccini-in-un-programma-per-arch-84313cb386acac72",
-    "title": "San Carlo a Napoli presenta un concerto inedito di Donizetti per archi stasera",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-25T09:16:37.881159+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/6fb0550a5b7731402c0aee40eabe80e4.jpg",
-    "occhiello": "",
-    "lead_preview": "Napoli, 25 aprile. Il Real Teatro di San Carlo ha ospitato un concerto per archi dedicato alle opere da camera di Gaetan",
-    "tags": [
-      "donizetti",
-      "napoli",
-      "teatro di san carlo"
     ],
     "hero_eligible": true
   },
