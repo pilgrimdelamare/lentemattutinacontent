@@ -1,5 +1,24 @@
 [
   {
+    "id": "61b65861283619b6",
+    "slug": "ballottaggio-a-testa-alta-tra-fujimori-e-sanchez-3-61b65861283619b6",
+    "title": "Ballottaggio a testa alta tra Fujimori e Sánchez, 38% per entrambi",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-26T17:59:24.690567+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/6617ed481f81a13b0d7bf2b99d80453b.jpg",
+    "occhiello": "",
+    "lead_preview": "Lima, 26 aprile. Un sondaggio realizzato da Ipsos indica un testa a testa tra Keiko Fujimori e Daniel Sánchez nel ballot",
+    "tags": [
+      "ballottaggio peruviano",
+      "elezioni perù",
+      "fujimori presidenziali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1aeee7bd07c975ba",
     "slug": "meloni-sospende-il-patto-di-stabilita-ue-sfida-dir-1aeee7bd07c975ba",
     "title": "Governo Meloni annuncia via libera alla sospensione del Patto di Stabilità",
@@ -8819,25 +8838,6 @@
     "occhiello": "LENNART JASCH VINCE A TRENTO CON UN ATTEGGIAMENTO DA PROFESSIONISTA",
     "lead_preview": "Trento, 23 aprile. Lennart Jasch ha vinto la quarta tappa del Tour of the Alps, tagliando il traguardo di Trento in soli",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d06f24522a63fe8d",
-    "slug": "londra-crolla-dello-05-madrid-segue-il-trend-al-ri-d06f24522a63fe8d",
-    "title": "Londra e Madrid crollano entrambe:",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T07:32:07.522446+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/5/19/463ceab4b6539d0095d956b1dc3b9502.jpg",
-    "occhiello": "LONDRA E MADRID GIÙ DELLO 0,5%",
-    "lead_preview": "Londra, 23 aprile. La piazza finanziaria di Londra ha aperto in ribasso dello 0,5 per cento nelle prime battute della gi",
-    "tags": [
-      "londra madrid crollo",
-      "borsa londra",
-      "borsa madrid"
-    ],
     "hero_eligible": true
   }
 ]
