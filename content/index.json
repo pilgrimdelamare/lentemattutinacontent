@@ -1,5 +1,24 @@
 [
   {
+    "id": "e7c6620459d20a17",
+    "slug": "5mila-persone-scendono-in-piazza-a-cagliari-boom-d-e7c6620459d20a17",
+    "title": "Cinque migliaia in piazza contro la riduzione di 120 milioni per il piano sanitario sardo",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-25T10:45:24.401737+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/fb598b544aa02d6a7469734b7521624f.jpg",
+    "occhiello": "TAGLIATI 120 MILIONI DALLA SANITÀ SARDA IN SEI MESI",
+    "lead_preview": "Cagliari, 25 aprile. Circa cinquemila persone hanno sfilato lungo le vie del capoluogo sardo per protestare contro la ri",
+    "tags": [
+      "tagli sanità sardegna",
+      "protesta cagliari",
+      "piano sanitario sardo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "801e18b42529d167",
     "slug": "coni-e-ministero-chiedono-spiegazioni-alla-figc-su-801e18b42529d167",
     "title": "Abodi e Coni pretendono trasparenza da Gravina sull'esposto chiuso",
@@ -2168,25 +2187,6 @@
       "attacco conte la russa",
       "ignazio la russa",
       "movimento 5 stelle"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e7c6620459d20a17",
-    "slug": "5mila-persone-scendono-in-piazza-a-cagliari-boom-d-e7c6620459d20a17",
-    "title": "Cinque mila persone in piazza a Cagliari contro i tagli alla Sanità",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-25T10:45:24.401737+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/fb598b544aa02d6a7469734b7521624f.jpg",
-    "occhiello": "Circa cinquemila MANIFESTANTI CONTRO I TAGLI ALLA SANITÀ A CAGLIARI",
-    "lead_preview": "Cagliari, 25 aprile. Circa circa cinquemila persone hanno sfilato tra le vie del capoluogo sardo per manifestare contro ",
-    "tags": [
-      "tagli sanità cagliari",
-      "manifestazione cagliari",
-      "sanità sarda"
     ],
     "hero_eligible": true
   },
