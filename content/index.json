@@ -1,5 +1,20 @@
 [
   {
+    "id": "fb7fa05bb7bc0a98",
+    "slug": "attentato-a-washington-durante-la-cena-dei-corrisp-fb7fa05bb7bc0a98",
+    "title": "Attentato a Trump a Washington: caos e terrore alla cena dei corrispondenti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-26T12:38:36.128544+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/21/189518394c07bbc44f38bfa824e78b3f.jpg",
+    "occhiello": "SPARI CONTRO DONALD TRUMP DURANTE LA CENA DEI CORRISPONDENTI A WASHINGTON",
+    "lead_preview": "Washington, 26 aprile 2026 – Donald Trump è stato vittima di un attentato nel corso della tradizionale cena dei corrispo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e717cd800cf16f71",
     "slug": "17-droni-iraniani-abbattuti-da-israele-nello-stret-e717cd800cf16f71",
     "title": "Israele abbattere 17 droni iraniani nel Mar Rosso per proteggere le rotte",
@@ -907,25 +922,6 @@
     "tags": [
       "droni russi chernobyl",
       "terrorismo nucleare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fb7fa05bb7bc0a98",
-    "slug": "attentato-a-washington-durante-la-cena-dei-corrisp-fb7fa05bb7bc0a98",
-    "title": "Attentato a washington durante la cena dei corrispondenti",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-26T12:38:36.128544+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/21/189518394c07bbc44f38bfa824e78b3f.jpg",
-    "occhiello": "ATTENTATO A WASHINGTON DURANTE LA CENA DEI CORRISPONDENTI",
-    "lead_preview": "Washington, 26 aprile 2026. Donald Trump è stato vittima di un attentato durante la cena dei corrispondenti nella capita",
-    "tags": [
-      "attentato trump",
-      "cena corrispondenti",
-      "washington attentato"
     ],
     "hero_eligible": true
   },
