@@ -1,5 +1,24 @@
 [
   {
+    "id": "4dceea6491b4b9de",
+    "slug": "martinez-e-il-re-della-serie-a-4dceea6491b4b9de",
+    "title": "Martinez è il re della Serie A",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-27T21:05:03.720157+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/6df0e5abd8225dd4d3b0e8b58bff3cd7e313a94a/skysport/it/calcio/serie-a/inter-classifica-marcatori/ansa_inter_lautaro_2_.jfif",
+    "occhiello": "LAUTARO MARTINEZ LEADER DEI MARCATORI",
+    "lead_preview": "Roma, 27 aprile. Lautaro Martinez, leader dei Marcatori con 16 gol, è il protagonista della Classifica Marcatori della S",
+    "tags": [
+      "lautaro martinez",
+      "classifica marcatori",
+      "serie a 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0eaa6d11d7b42601",
     "slug": "calcio-venezia-va-a-prendersi-la-promozione-0eaa6d11d7b42601",
     "title": "Calcio: Venezia va a prendersi la promozione!",
@@ -8832,21 +8851,6 @@
       "onu haiti",
       "port-au-prince"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa70cd55126d4b61",
-    "slug": "robot-cani-e-droni-cinesi-gestiranno-lordine-a-tai-fa70cd55126d4b61",
-    "title": "Cina, IA controlla la folla: Pechino schiera il software anti-sommosse autonomo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-24T09:24:03.994171+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/24/105414842-f2874af4-b2ec-4247-97b4-50f16e92ef61.jpg",
-    "occhiello": "IA DI POLIZIA GESTISCE L'ORDINE PUBBLICO SENZA SUPERVISIONE UMANA",
-    "lead_preview": "Pechino, 24 aprile 2026. Un nuovo studio accademico, firmato da ricercatori dell'Università di Ingegneria della Polizia,",
-    "tags": [],
     "hero_eligible": true
   }
 ]
