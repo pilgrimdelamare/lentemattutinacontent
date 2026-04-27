@@ -1,5 +1,24 @@
 [
   {
+    "id": "730c5c4b0f7895e3",
+    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
+    "title": "Chatbot aziendali: dati sanitari e bilanci a rischio, multe da miliardi in arrivo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-27T04:50:42.229868+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
+    "occhiello": "DATI AZIENDALI FINITI NEI MODELLI LINGUISTICI DI CHATBOT AI",
+    "lead_preview": "Roma, 27 aprile 2026. Diverse aziende stanno trasmettendo dati finanziari, sanitari e anagrafici verso chatbot basati su",
+    "tags": [
+      "chatbot aziendali",
+      "dati sanitari",
+      "intelligenza artificiale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d92a21f249de2240",
     "slug": "morandi-torna-a-cantare-cera-un-ragazzo-12-concert-d92a21f249de2240",
     "title": "Gianni Morandi torna a cantare l'estate Italiana: 12 concerti in tutta la penisola!",
@@ -2409,24 +2428,6 @@
       "attentato trump",
       "cena corrispondenti",
       "trump usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "730c5c4b0f7895e3",
-    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
-    "title": "Servizi di chat AI: le imprese rischiano multe milionarie per la fuga di dati sensibili",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-27T04:50:42.229868+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
-    "occhiello": "AZIENDE ESPONGONO DATI SENSIBILI AI SERVER ESTERNI",
-    "lead_preview": "Roma, 27 aprile 2026. Secondo recenti report, diverse aziende stanno trasmettendo dati finanziari, sanitari e anagrafici",
-    "tags": [
-      "chat ai",
-      "fuga dati"
     ],
     "hero_eligible": true
   },
