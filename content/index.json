@@ -1,5 +1,23 @@
 [
   {
+    "id": "08e75ef02f509ab0",
+    "slug": "biennale-di-venezia-larte-guarisce-le-ferite-del-m-08e75ef02f509ab0",
+    "title": "Grenada apre il suo primo Padiglione alla Biennale Arte di Venezia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-27T14:44:59.964869+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/fe63bd6f39318559c564b85c9a9faa15.jpg",
+    "occhiello": "IL PADIGLIONE GRENADA DEBUTTA ALLA BIENNALE ARTE DI VENEZIA",
+    "lead_preview": "Venezia, 27 aprile 2026. La poetica della corrispondenza inaugura il percorso espositivo del Padiglione Grenada all’inte",
+    "tags": [
+      "biennale arte venezia",
+      "padiglione grenada"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28278c65926bba2f",
     "slug": "il-secolo-xix-apre-il-suo-archivio-storico-a-genov-28278c65926bba2f",
     "title": "Genova, 27 aprile",
@@ -62,25 +80,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "08e75ef02f509ab0",
-    "slug": "biennale-di-venezia-larte-guarisce-le-ferite-del-m-08e75ef02f509ab0",
-    "title": "Il Padiglione Grenada inaugura a Venezia con 'poetica della corrispondenza'",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-27T14:44:59.964869+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/fe63bd6f39318559c564b85c9a9faa15.jpg",
-    "occhiello": "IL PADIGLIONE GRENADA PORTA LA POETICA DELLA CORRISPONDENZA A VENEZIA",
-    "lead_preview": "Venezia, 27 aprile 2026. La poetica della corrispondenza debutta ufficialmente al Padiglione Grenada, inserito nel circu",
-    "tags": [
-      "padiglione grenada",
-      "biennale arte 2026",
-      "poetica corrispondenza"
     ],
     "hero_eligible": true
   },
