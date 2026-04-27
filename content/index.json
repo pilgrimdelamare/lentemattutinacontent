@@ -1,5 +1,24 @@
 [
   {
+    "id": "730c5c4b0f7895e3",
+    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
+    "title": "5 Banche e 3 aziende sanitarie trasmettono dati sensibili a chatbot non autorizzati",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-27T04:50:42.229868+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
+    "occhiello": "CHATBOTS AZIENDALI: DATI SANITARI E BILANCIO A RISCHIO",
+    "lead_preview": "Roma, 27 aprile 2026. Diverse aziende stanno trasmettendo dati finanziari, sanitari, anagrafici e altri dati sensibili v",
+    "tags": [
+      "chatbot aziendali",
+      "dati sensibili",
+      "privacy banche"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28a49cba5cc7f11c",
     "slug": "ong-in-rivolta-032-euro-di-danni-per-ogni-euro-spe-28a49cba5cc7f11c",
     "title": "Roma: 32 centesimi di danno all'ambiente per ogni euro di combustibili fossili",
@@ -3041,25 +3060,6 @@
       "calcio monopoli",
       "manzari monopoli",
       "pareggio potenza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "730c5c4b0f7895e3",
-    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
-    "title": "Chatbot aziendali: dati sanitari e bilanci a rischio, multe da miliardi in arrivo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-27T04:50:42.229868+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
-    "occhiello": "DATI AZIENDALI FINITI NEI MODELLI LINGUISTICI DI CHATBOT AI",
-    "lead_preview": "Roma, 27 aprile 2026. Diverse aziende stanno trasmettendo dati finanziari, sanitari e anagrafici verso chatbot basati su",
-    "tags": [
-      "chatbot aziendali",
-      "dati sanitari",
-      "intelligenza artificiale"
     ],
     "hero_eligible": true
   },
