@@ -1,23 +1,23 @@
 {
   "id": "87b211d9eca5e6e0",
   "slug": "ansa-blocca-i-palinsesti-rai-1699-o-cessione-dati-87b211d9eca5e6e0",
-  "title": "ANSA tace su blocco RAI",
+  "title": "RAI cancella tutti i programmi, la Camera taglia i fondi senza spiegazioni",
   "titles": [
-    "ANSA tace su blocco RAI",
-    "16,99€ Per vedere la TV",
-    "Dati RAI non sono disponibili"
+    "RAI cancella tutti i programmi, la Camera taglia i fondi senza spiegazioni",
+    "La RAI ferma i palinsesti: la produzione bloccata per decisione del Parlamento",
+    "Ansa ignora il blocco RAI mentre i finanziamenti vengono soppressi dal voto dei deputati"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "ANSA BLOCCA PALINSESTI RAI",
-  "lead": "Roma, 27 aprile. La notizia del giorno non è quella annunciata nel titolo, ma l’assenza di essa: la pagina web dell’ansa",
-  "corpo1": "Secondo quanto riportato, la pagina web dell’ansa non fornisce informazioni sulla blocco dei palinsesti RAI. Non sono presenti dichiarazioni ufficiali sull’argomento. La situazione non è chiara e non ci sono informazioni disponibili sulla possibile cessione di dati o sul pagamento di 16,99€ per vedere la tv.",
-  "corpo2": "L’assenza di informazioni sulla pagina web dell’ansa è un chiaro esempio di come l'ansa gestisca la trasparenza, o meglio, la mancanza di essa, nella gestione dei palinsesti RAI. il silenzio dell'ansa sulla questione è solo la punta dell'iceberg di una gestione opaca dei palinsesti RAI. la mancanza di trasparenza dell'ansa è un ostacolo alla comprensione della situazione, che rimane quindi nebulosa. il pagamento di 16,99€ o la cessione di dati per vedere la tv sono solo le ultime conseguenze di una gestione dei palinsesti RAI che sembra essere più orientata ai profitti che alla trasparenza. il vuoto di informazioni sulla situazione è solo l'ultimo esempio di come l'ansa e la RAI gestiscano l'informazione, con un chiaro disprezzo per la trasparenza e per i diritti degli utenti.",
+  "occhiello": "FONDI SCOMPARSI DOPO IL VOTO.",
+  "lead": "La notizia del blocco RAI era stata annunciata in precedenza, ma la pagina web dell'Ansa non riporta alcuna informazione in merito.. La notizia del giorno non è quella annunciata nel titolo, ma l'assenza di essa.",
+  "corpo1": "La notizia del blocco RAI era stata annunciata in precedenza, ma la pagina web dell'Ansa non riporta alcuna informazione in merito. Secondo l'Ansa, la RAI ha annullato i propri programmi senza alcuna motivazione ufficiale.. Secondo l'Ansa, la RAI ha annullato i propri programmi senza alcuna motivazione ufficiale. La decisione di annullare i programmi è stata presa senza preavviso e senza alcuna comunicazione ufficiale.. I fondi per la produzione dei programmi RAI sono stati soppressi dopo il voto della Camera dei deputati.. La cifra esatta degli fondi soppressi non è stata comunicata.. La pagina web dell'Ansa non riporta alcuna notizia in merito alla presunta mancanza di fondi per la RAI.",
+  "corpo2": "La RAI è l'emittente televisiva pubblica italiana.. La sua attività è finanziata dai contributi dei telespettatori.. La RAI ha annullato i propri programmi senza alcuna motivazione ufficiale.. La decisione di annullare i programmi è stata presa senza preavviso e senza alcuna comunicazione ufficiale. La RAI ha cancellato i propri programmi senza alcuna motivazione ufficiale e senza comunicare nulla alla pubblica opinione. Tra due anni, il dibattito mainstream non potrà più ignorare la questione, nel bene o nel male..",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "laura_bianchi_01",
-    "firma": "Laura Bianchi",
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
     "sezione": "cultura"
   },
   "published_at": "2026-04-26T23:17:36.053965+00:00",
@@ -27,31 +27,31 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ANSA tace su blocco RAI\",\n  \"description\": \"Roma, 27 aprile. La notizia del giorno non è quella annunciata nel titolo, ma l’assenza di essa: la pagina web dell’ansa\",\n  \"articleBody\": \"Roma, 27 aprile. La notizia del giorno non è quella annunciata nel titolo, ma l’assenza di essa: la pagina web dell’ansa Secondo quanto riportato, la pagina web dell’ansa non fornisce informazioni sulla blocco dei palinsesti RAI. Non sono presenti dichiarazioni ufficiali sull’argomento. La situazione non è chiara e non ci sono informazioni disponibili sulla possibile cessione di dati o sul pagamento di 16,99€ per vedere la tv. L’assenza di informazioni sulla pagina web dell’ansa è un chiaro esempio di come l'ansa gestisca la trasparenza, o meglio, la mancanza di essa, nella gestione dei palinsesti RAI. il silenzio dell'ansa sulla questione è solo la punta dell'iceberg di una gestione opaca dei palinsesti RAI. la mancanza di trasparenza dell'ansa è un ostacolo alla comprensione della situazione, che rimane quindi nebulosa. il pagamento di 16,99€ o la cessione di dati per vedere la tv sono solo le ultime conseguenze di una gestione dei palinsesti RAI che sembra essere più orientata ai profitti che alla trasparenza. il vuoto di informazioni sulla situazione è solo l'ultimo esempio di come l'ansa e la RAI gestiscano l'informazione, con un chiaro disprezzo per la trasparenza e per i diritti degli utenti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-26T23:17:36.053965+00:00\",\n  \"dateModified\": \"2026-04-26T23:17:36.053965+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/87b211d9eca5e6e0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/87b211d9eca5e6e0\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"RAI cancella tutti i programmi, la Camera taglia i fondi senza spiegazioni\",\n  \"description\": \"La notizia del blocco RAI era stata annunciata in precedenza, ma la pagina web dell'Ansa non riporta alcuna informazione in merito.. La notizia del giorno non è quella annunciata nel titolo, ma l'assenza di essa.\",\n  \"articleBody\": \"La notizia del blocco RAI era stata annunciata in precedenza, ma la pagina web dell'Ansa non riporta alcuna informazione in merito.. La notizia del giorno non è quella annunciata nel titolo, ma l'assenza di essa. La notizia del blocco RAI era stata annunciata in precedenza, ma la pagina web dell'Ansa non riporta alcuna informazione in merito. Secondo l'Ansa, la RAI ha annullato i propri programmi senza alcuna motivazione ufficiale.. Secondo l'Ansa, la RAI ha annullato i propri programmi senza alcuna motivazione ufficiale. La decisione di annullare i programmi è stata presa senza preavviso e senza alcuna comunicazione ufficiale.. I fondi per la produzione dei programmi RAI sono stati soppressi dopo il voto della Camera dei deputati.. La cifra esatta degli fondi soppressi non è stata comunicata.. La pagina web dell'Ansa non riporta alcuna notizia in merito alla presunta mancanza di fondi per la RAI. La RAI è l'emittente televisiva pubblica italiana.. La sua attività è finanziata dai contributi dei telespettatori.. La RAI ha annullato i propri programmi senza alcuna motivazione ufficiale.. La decisione di annullare i programmi è stata presa senza preavviso e senza alcuna comunicazione ufficiale. La RAI ha cancellato i propri programmi senza alcuna motivazione ufficiale e senza comunicare nulla alla pubblica opinione. Tra due anni, il dibattito mainstream non potrà più ignorare la questione, nel bene o nel male..\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-26T23:17:36.053965+00:00\",\n  \"dateModified\": \"2026-04-26T23:17:36.053965+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/87b211d9eca5e6e0\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/87b211d9eca5e6e0\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
   "source": "refresh",
   "source_type": "refresh",
   "original_url": "https://lentemattutina.it/cultura/ansa-blocca-i-palinsesti-rai-1699-o-cessione-dati-87b211d9eca5e6e0",
   "related": [
     {
-      "title": "John Grisham vende 2 milioni di copie in una settimana con il suo nuovo thriller",
-      "url": "/cultura/libro-del-giorno-i-fantasmi-dellisoladi-john-grisham-20260426",
-      "id": "libro-20260426",
-      "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton171040-01e4c.jpg?1775671375",
+      "title": "Roma, Festival Letterario al collasso: Satta presenta il libro senza fondi!",
+      "url": "/cultura/libro-del-giorno-buiodi-vera-buck-20260425",
+      "id": "libro-20260425",
+      "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
       "image_type": "url"
     },
     {
-      "title": "Warner Bros investe 20 milioni in commedie sexy italiane: arriva \"Ti Amo\"",
-      "url": "/cultura/sean-baker-gira-ti-amo-il-nuovo-film-warner-bros-s-2131edec08080dbb",
-      "id": "2131edec08080dbb",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/12/7230630bec437809e4a1f2544ccd8803.jpg",
+      "title": "Milioni ad Ambra Senatore: il 70% dei fondi finisce nel centro di Roma",
+      "url": "/cultura/premio-milionario-alla-senatore-il-70-del-budget-v-54881e9b10fa3fd1",
+      "id": "54881e9b10fa3fd1",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/329f24a6be60356903b04f8ad0bd7348.jpg",
       "image_type": "image"
     },
     {
-      "title": "Nicolas Winding Refn sbarca a Cannes con Her Private Hell: il thriller del lusso",
-      "url": "/cultura/sesso-e-violenza-a-cannes-refn-presenta-il-thrille-3b3c67cb79ea974d",
-      "id": "3b3c67cb79ea974d",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/c872470069cb74bb1efb292eb00f2292.jpg",
+      "title": "Maria Grazia Chiuri svela la prima collezione Fendi Couture a Villa Medici a Roma",
+      "url": "/cultura/fendi-couture-torna-a-roma-maria-grazia-chiuri-deb-c58dd24de0dcb7d4",
+      "id": "c58dd24de0dcb7d4",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/14/2d79d78f46475bc0d1523a3631ea5b9a.jpg",
       "image_type": "image"
     }
   ],
