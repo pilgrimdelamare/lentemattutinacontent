@@ -1,5 +1,22 @@
 [
   {
+    "id": "61b65861283619b6",
+    "slug": "ballottaggio-a-testa-alta-tra-fujimori-e-sanchez-3-61b65861283619b6",
+    "title": "Perù: Fujimori e Sánchez a testa a testa nei sondaggi. La sfida per il 2026 si fa incerta",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-26T17:59:24.690567+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/6617ed481f81a13b0d7bf2b99d80453b.jpg",
+    "occhiello": "PERU AL VOTO, FUJIMORI SFIDA SANCHEZ NEI SONDAGGI",
+    "lead_preview": "Lima, 26 aprile. Un sondaggio realizzato da Ipsos indica un testa a testa tra Keiko Fujimori e Daniel Sánchez in vista d",
+    "tags": [
+      "elezioni perù 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c610c5a73c833fe2",
     "slug": "rufus-du-sol-a-bologna-il-trio-australiano-infiamm-c610c5a73c833fe2",
     "title": "Rufus Du Sol: Bologna unica data Italiana del tour Mondiale. Prevendite già in corsa!",
@@ -2372,25 +2389,6 @@
       "attentato trump",
       "hotel washington",
       "fallita sicurezza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "61b65861283619b6",
-    "slug": "ballottaggio-a-testa-alta-tra-fujimori-e-sanchez-3-61b65861283619b6",
-    "title": "Keiko Fujimori e Daniel Sánchez in testa a testa nel sondaggio nazionale in Perù",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-26T17:59:24.690567+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/13/6617ed481f81a13b0d7bf2b99d80453b.jpg",
-    "occhiello": "PERU AL BIVIO TRA IL FUJIMORISMO E L'INCERTEZZA",
-    "lead_preview": "Lima, 26 aprile. Un sondaggio realizzato da Ipsos indica un testa a testa tra Keiko Fujimori e Daniel Sánchez in vista d",
-    "tags": [
-      "elezioni perù",
-      "keiko fujimori",
-      "daniel sánchez"
     ],
     "hero_eligible": true
   },
