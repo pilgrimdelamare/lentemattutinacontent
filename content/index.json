@@ -1,5 +1,24 @@
 [
   {
+    "id": "aa72e59c2833866d",
+    "slug": "basket-spurs-dominano-portland-114-93-al-moda-cent-aa72e59c2833866d",
+    "title": "Basket: Spurs dominano Portland 114-93 al Moda Center",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-27T06:13:52.686986+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/454cf777b91435b0557976bfe4dbac20e77e2b4b/skysport/it/nba/video/2026/04/27/1093299_1777251963542_thumb_494.0000001_1777265067346.jpg",
+    "occhiello": "PORTLAND SCONFITTA DA SAN ANTONIO IN NBA",
+    "lead_preview": "San Antonio, 27 aprile. I San Antonio Spurs hanno sconfitto i Portland Trail Blazers con un punteggio di 114-93, consoli",
+    "tags": [
+      "spurs vs portland",
+      "nba playoffs",
+      "moda center"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2f517745ee709609",
     "slug": "basket-celtics-demoliscono-sixers-128-96-con-diffe-2f517745ee709609",
     "title": "Basket: Celtics demoliscono Sixers 128-96 con differenza record. Philadelphia imploda ai Playoff",
@@ -8819,25 +8838,6 @@
       "f1 zak brown",
       "scuderie satellite",
       "regole f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "76c8176315084f3f",
-    "slug": "robot-ace-di-sony-batte-i-campioni-di-ping-pong-la-76c8176315084f3f",
-    "title": "Sony sfida i campioni: a Roma il robot Ace domina il ping-pong",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-23T10:27:24.107004+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69e9e603354ffa834a88ff71/16:9/w_1280,c_limit/178826162",
-    "occhiello": "ROBOT SFIDA CAMPIONI DI PING PONG CON TECNOLOGIA SONY",
-    "lead_preview": "Roma, 23 aprile. Sony AI ha presentato Ace, un sistema robotico avanzato progettato per competere a ping-pong ai massimi",
-    "tags": [
-      "robot ace sony",
-      "ping-pong robot",
-      "sony ai roma"
     ],
     "hero_eligible": true
   }
