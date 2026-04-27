@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 27 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-27T05:45:46.774700+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/c4fe743aa4a35ccb277738c1bd08d913469ce417/skytg24/it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile/rassegna27aprile.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 27 APRILE 2026",
+    "lead_preview": "I principali quotidiani italiani si concentrano sulla sparatoria avvenuta durante un gala a Washington con la presenza d",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4e7454163d9535d1",
     "slug": "musk-contro-altman-a-oakland-processo-su-openai-da-4e7454163d9535d1",
     "title": "Elon Musk contro Sam Altman: 15 miliardi al centro della battaglia sull'IA a Oakland",
@@ -8554,25 +8573,6 @@
     "tags": [
       "hall of fame milan",
       "ancelotti gullit kaká"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 24 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-24T05:45:29.618951+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/b63ac4a1d2c672985b1969ff7b8767e94f143412/skytg24/it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile/rassegna24aprile.jpg?im=Resize,width=375",
-    "occhiello": "",
-    "lead_preview": "I quotidiani italiani di venerdì 24 aprile 2026 si concentrano prevalentemente sulla tensione crescente nello Stretto di",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
