@@ -1,5 +1,23 @@
 [
   {
+    "id": "191aafe025efcef3",
+    "slug": "polizia-identifica-aggressore-in-albergo-191aafe025efcef3",
+    "title": "La polizia ha catturato il colpevole dell'aggressione",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-26T06:24:00.637254+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/19aed46f86654d5e95ce0cd34ea960db.jpg",
+    "occhiello": "AGGRESSIONE IN HOTEL A NORD AMERICA",
+    "lead_preview": "Nord America, 26 aprile - le autorità di polizia hanno confermato ufficialmente di aver identificato l'autore dell'aggre",
+    "tags": [
+      "aggressione in hotel",
+      "cattura colpevole"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "010460dd4ddb8200",
     "slug": "il-439-dei-lavoratori-ignora-comunicazioni-fuori-o-010460dd4ddb8200",
     "title": "6 Giovani lavoratori su 10 in Italia rivendicano il diritto a staccare fuori orario",
@@ -2545,25 +2563,6 @@
       "meloni 25 aprile",
       "disordini roma",
       "festa liberazione 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "191aafe025efcef3",
-    "slug": "polizia-identifica-aggressore-in-albergo-191aafe025efcef3",
-    "title": "Polizia ferma l'uomo dell'aggressione in hotel a Nord America",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-26T06:24:00.637254+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/19aed46f86654d5e95ce0cd34ea960db.jpg",
-    "occhiello": "IDENTIFICATO L'AUTORE DELL'AGGRESSIONE IN UN HOTEL NORDAMERICANO",
-    "lead_preview": "Nord America, 26 aprile 2026 – Le autorità di polizia hanno confermato ufficialmente di aver identificato l'autore dell'",
-    "tags": [
-      "aggressione nordamerica",
-      "hotel aggressione",
-      "identificato aggressore"
     ],
     "hero_eligible": true
   },
