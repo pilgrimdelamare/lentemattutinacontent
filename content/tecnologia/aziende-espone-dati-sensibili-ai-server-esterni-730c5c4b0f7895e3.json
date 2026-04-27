@@ -1,0 +1,59 @@
+{
+  "id": "730c5c4b0f7895e3",
+  "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
+  "title": "Aziende espone dati sensibili ai server esterni",
+  "titles": [
+    "Aziende espone dati sensibili ai server esterni",
+    "Servizi cloud violano la privacy aziendale",
+    "Utenti inviano documenti a server terze parti"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "LA SCELTA TRA PRIVACY E COMODITÀ NELL'USO QUOTIDIANO DELL'AI",
+  "lead": "Roma, 27 aprile. Quando si incolla un testo in una chat AI generativa per riassumerlo o migliorarlo, si sta inviando quel documento a un server di terze parti per l'elaborazione. Questo processo, per quanto comodo, espone i dati a rischi di privacy e violazione del GDPR, Per aziende e professionisti che trattano informazioni sensibili, l'uso di questi strumenti cloud è come lasciare una finestra aperta sulla propria rete aziendale, permettendo al vicino di leggere le proprie email.",
+  "corpo1": "La paura della condivisione di dati sensibili non è infondata. L'architettura standard della maggior parte dei Large Language Models (LLM) basati su cloud prevede che i prompt e le risposte viaggino attraverso server esterni, dove possono essere archiviati e, in teoria, utilizzati per addestrare ulteriormente il modello. La normativa GDPR, impone l'obbligo di notifica in caso di data breach, ma molte aziende, come dimostrano i recenti casi di data breach scoperti da giornalisti e ricercatori, tendono a minimizzare il problema e a non avvisare il Garante. La prima contromisura tecnica, suggerita dagli esperti di Sicurezza, è l'esecuzione locale dell'AI. Strumenti come Ollama o LM Studio permettono di scaricare il modello linguistico direttamente sul proprio computer. In questo modo, il calcolo avviene interamente sul dispositivo dell'utente, eliminando la necessità di inviare i dati a terzi. Il limite di questa soluzione è hardware: i modelli più grandi richiedono una Potenza di calcolo significativa (GPU e RAM) che non tutti i computer possiedono, rendendo l'esperienza lenta su macchine datate. Per chi utilizza Mac, per esempio, strumenti di conversione audio-testo come MacWhisper sono fluidi solo a partire dai processori M1, mentre risultano lentissimi sulle versioni precedenti.",
+  "corpo2": "Una seconda strategia, più accessibile anche per chi non può permettersi hardware potenti, è l'anonimizzazione dei dati prima dell'invio. Si tratta di utilizzare software che agiscono come filtri, identificando ed eliminando informazioni sensibili dal testo prima che venga copiato nel prompt. Librerie open source come Presidio, sviluppata da Microsoft, sono in grado di riconoscere pattern specifici come nomi, cognomi, indirizzi, numeri di telefono, IBAN e numeri di carte di credito. Questo processo, chiamato Named Entity Recognition (NER), sostituisce i dati reali con placeholder generici, come 'NOME' o 'INDIRIZZO'. Il documento arriva al cloud AI già depurato, riducendo drasticamente il rischio di violazione della privacy. Per un professionista che deve riassumere un contratto o una cartella clinica, questo passaggio è essenziale per rimanere conformi al GDPR, La comodità dell'AI generativa cloud ha un costo implicito: la rinuncia alla sovranità sul proprio dato. La scelta non è tra Usare l'AI o non usarla, ma tra accettare il rischio di esporre dati sensibili a un terzo o investire tempo e risorse in strumenti di protezione che rendano l'uso dello strumento compatibile con la normativa e la privacy.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-04-27T04:50:42.229868+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Aziende espone dati sensibili ai server esterni\",\n  \"description\": \"Roma, 27 aprile. Quando si incolla un testo in una chat AI generativa per riassumerlo o migliorarlo, si sta inviando quel documento a un server di terze parti per l'elaborazione. Questo processo, per quanto comodo, espone i dati a rischi di privacy e violazione del GDPR, Per aziende e professionisti\",\n  \"articleBody\": \"Roma, 27 aprile. Quando si incolla un testo in una chat AI generativa per riassumerlo o migliorarlo, si sta inviando quel documento a un server di terze parti per l'elaborazione. Questo processo, per quanto comodo, espone i dati a rischi di privacy e violazione del GDPR, Per aziende e professionisti che trattano informazioni sensibili, l'uso di questi strumenti cloud è come lasciare una finestra aperta sulla propria rete aziendale, permettendo al vicino di leggere le proprie email. La paura della condivisione di dati sensibili non è infondata. L'architettura standard della maggior parte dei Large Language Models (LLM) basati su cloud prevede che i prompt e le risposte viaggino attraverso server esterni, dove possono essere archiviati e, in teoria, utilizzati per addestrare ulteriormente il modello. La normativa GDPR, impone l'obbligo di notifica in caso di data breach, ma molte aziende, come dimostrano i recenti casi di data breach scoperti da giornalisti e ricercatori, tendono a minimizzare il problema e a non avvisare il Garante. La prima contromisura tecnica, suggerita dagli esperti di Sicurezza, è l'esecuzione locale dell'AI. Strumenti come Ollama o LM Studio permettono di scaricare il modello linguistico direttamente sul proprio computer. In questo modo, il calcolo avviene interamente sul dispositivo dell'utente, eliminando la necessità di inviare i dati a terzi. Il limite di questa soluzione è hardware: i modelli più grandi richiedono una Potenza di calcolo significativa (GPU e RAM) che non tutti i computer possiedono, rendendo l'esperienza lenta su macchine datate. Per chi utilizza Mac, per esempio, strumenti di conversione audio-testo come MacWhisper sono fluidi solo a partire dai processori M1, mentre risultano lentissimi sulle versioni precedenti. Una seconda strategia, più accessibile anche per chi non può permettersi hardware potenti, è l'anonimizzazione dei dati prima dell'invio. Si tratta di utilizzare software che agiscono come filtri, identificando ed eliminando informazioni sensibili dal testo prima che venga copiato nel prompt. Librerie open source come Presidio, sviluppata da Microsoft, sono in grado di riconoscere pattern specifici come nomi, cognomi, indirizzi, numeri di telefono, IBAN e numeri di carte di credito. Questo processo, chiamato Named Entity Recognition (NER), sostituisce i dati reali con placeholder generici, come 'NOME' o 'INDIRIZZO'. Il documento arriva al cloud AI già depurato, riducendo drasticamente il rischio di violazione della privacy. Per un professionista che deve riassumere un contratto o una cartella clinica, questo passaggio è essenziale per rimanere conformi al GDPR, La comodità dell'AI generativa cloud ha un costo implicito: la rinuncia alla sovranità sul proprio dato. La scelta non è tra Usare l'AI o non usarla, ma tra accettare il rischio di esporre dati sensibili a un terzo o investire tempo e risorse in strumenti di protezione che rendano l'uso dello strumento compatibile con la normativa e la privacy.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-27T04:50:42.229868+00:00\",\n  \"dateModified\": \"2026-04-27T04:50:42.229868+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/730c5c4b0f7895e3\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/730c5c4b0f7895e3\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/come-usare-ai-senza-condividere-dati-sensibili/",
+  "related": [
+    {
+      "title": "Claude torna operativo dopo il blackout dei server della Anthropic",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Musk e Altman sotto processo a Oakland per i 15 miliardi privati in OpenAI",
+      "url": "/tecnologia/musk-contro-altman-a-oakland-processo-su-openai-da-4e7454163d9535d1",
+      "id": "4e7454163d9535d1",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/26/210127692-bb9e9a4c-6b04-447b-9d56-c98de9ae8955.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "NASA sposta allunaggio Artemis III",
+      "url": "/tecnologia/nasa-punta-sul-privato-per-le-tute-lunari-ma-risch-fd42a346d2d0c30d",
+      "id": "fd42a346d2d0c30d",
+      "image_url": "https://media-assets.wired.it/photos/69e8adca2438ef2066782597/16:9/w_1280,c_limit/GettyImages-2178003155.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
