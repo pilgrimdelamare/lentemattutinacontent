@@ -1,5 +1,24 @@
 [
   {
+    "id": "aaa1b9d4a56584a2",
+    "slug": "giampiero-dellagiovanna-in-el-salvador-nuovo-nunzi-aaa1b9d4a56584a2",
+    "title": "Papa Leone XIV nomina nunzio a San Salvador",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-27T02:44:14.809093+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/6b5700c000013bede878316d8dd526f0.jpg",
+    "occhiello": "VATICANO SPOSTA PEDINA: DELL'OLIO NUNZIO A SAN SALVADOR",
+    "lead_preview": "San Salvador, 27 aprile. L'arcivescovo Giampiero Dell'Olio, fino a ieri nunzio apostolico in Nicaragua, è stato nominato",
+    "tags": [
+      "nomina dell'olio",
+      "nunzio san salvador",
+      "vaticano nicaragua"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aaf9c7e8652ba639",
     "slug": "federica-gentile-e-niccolo-agliardi-condurranno-il-aaf9c7e8652ba639",
     "title": "RaiPlay lancia 'Il Club', talk musicale con Federica Gentile e Pietro Aglieri",
@@ -3015,25 +3034,6 @@
       "petrolio",
       "iva",
       "conti eni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "aaa1b9d4a56584a2",
-    "slug": "giampiero-dellagiovanna-in-el-salvador-nuovo-nunzi-aaa1b9d4a56584a2",
-    "title": "Vaticano muove pedina: arcivescovo Dell'Olio nunzio a San Salvador al posto di Pezzuto",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-27T02:44:14.809093+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/6b5700c000013bede878316d8dd526f0.jpg",
-    "occhiello": "IL VATICANO SPOSTA LE PEDINE A SAN SALVADOR",
-    "lead_preview": "San Salvador, 27 aprile. L'arcivescovo Giampiero Dell'Olio, fino a ieri nunzio apostolico in Nicaragua, è stato nominato",
-    "tags": [
-      "nomina vaticano salvador",
-      "arcivescovo dell'olio",
-      "cambio nunzio san salvador"
     ],
     "hero_eligible": true
   },
