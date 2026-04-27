@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260427",
+    "slug": "libro-del-giorno-lopera-delle-streghedi-francesca-thell-20260427",
+    "title": "Il libro del giorno: «L’opera delle streghedi Francesca Thellung»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nel XVI secolo tra Parigi, Venezia e Roma",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-27T07:01:41.053281+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
+      "alt": "Copertina: L’opera delle streghedi Francesca Thellung",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "71723d07c5ea6e51",
     "slug": "basket-durant-non-scendera-in-campo-per-gara-4-71723d07c5ea6e51",
     "title": "Kevin durant non gioca, l'avversario sfrutta l'occasione",
@@ -8806,25 +8825,6 @@
       "spagna autonomia",
       "partito popolare",
       "indipendentisti catalani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "98186e4eccb90cee",
-    "slug": "greenpeace-attacca-trump-a-madrid-installazione-ch-98186e4eccb90cee",
-    "title": "Greenpeace allestisce raffineria a Madrid per denunciare guerra e petrolio",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-23T11:01:43.948745+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/9ec19846e1ce6d4e5079a3cdddc91a81.jpg",
-    "occhiello": "INSTALLAZIONE CHOC SULLA GUERRA DEL PETROLIO",
-    "lead_preview": "Greenpeace ha lanciato una provocazione visiva nel centro di Madrid, esponendo una grande installazione che simboleggia ",
-    "tags": [
-      "guerra medio oriente",
-      "greenpeace madrid",
-      "petrolio e guerra"
     ],
     "hero_eligible": true
   }
