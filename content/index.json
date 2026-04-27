@@ -1,5 +1,20 @@
 [
   {
+    "id": "d3f4ffabb04cc6ed",
+    "slug": "quattordicenne-accoltellato-in-strada-a-milano-d3f4ffabb04cc6ed",
+    "title": "Ferito con cocci di vetro in via amoretti",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-27T06:41:43.155131+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/04/27/081830585-fb6ab988-c643-448f-bb35-c7321948c489.jpg",
+    "occhiello": "FERITO CON COCCI DI VETRO IN VIA AMORETTI",
+    "lead_preview": "Milano, 27 aprile. Un quattordicenne è stato ricoverato in gravi condizioni al ospedale Niguarda dopo essere Stato aggre",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260427",
     "slug": "libro-del-giorno-lopera-delle-streghedi-francesca-thell-20260427",
     "title": "Thellung svela “L’opera delle streghe”: intrighi di potere tra Roma, Parigi e Venezia",
@@ -2591,24 +2606,6 @@
     "occhiello": "LAKERS SPRECANO IL MATCH POINT CON VENTITRÉ PALLE PERSE",
     "lead_preview": "Los Angeles, 27 aprile. I Los Angeles Lakers hanno fallito il colpo del ko nella Serie contro gli Houston Rockets, perde",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d3f4ffabb04cc6ed",
-    "slug": "quattordicenne-accoltellato-in-strada-a-milano-d3f4ffabb04cc6ed",
-    "title": "Quarto Oggiaro, 14enne ferito con cocci di vetro: indaga la polizia, lotta per la vita in ospedale",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-27T06:41:43.155131+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-milano/2026/04/27/081830585-fb6ab988-c643-448f-bb35-c7321948c489.jpg",
-    "occhiello": "QUATTORDICENNE ACCOLLETTELATO IN STRADA A MILANO.",
-    "lead_preview": "Milano, 27 aprile. Un quattordicenne è stato ricoverato in gravi condizioni all'ospedale Niguarda dopo essere Stato feri",
-    "tags": [
-      "agguato milano",
-      "quarto oggiaro"
-    ],
     "hero_eligible": true
   },
   {
