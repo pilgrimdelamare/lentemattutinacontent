@@ -1,5 +1,24 @@
 [
   {
+    "id": "c44b488abb3949b7",
+    "slug": "borsa-di-milano-sale-dello-07-saipem-vola-e-traina-c44b488abb3949b7",
+    "title": "Saipem vola in Borsa a Milano, trascina il Ftse Mib in rialzo dello 0,7%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-27T12:19:06.719747+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/2/24/9f09080fe77164b881e845ec3c29e940.jpg",
+    "occhiello": "SAIPEM VOLA IN BORSA MENTRE AVIO PERDE QUOTA",
+    "lead_preview": "Milano, 27 aprile. La Borsa di Milano chiude la seduta odierna con un rialzo dello 0,7 per cento, spinta principalmente ",
+    "tags": [
+      "saipem borsa",
+      "ftse mib",
+      "avio perdite"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "557984597ca851e2",
     "slug": "lino-banfi-si-confessa-il-libro-che-racconta-90-an-557984597ca851e2",
     "title": "Lino Banfi si confessa: il libro che racconta 90 anni di risate italiane",
@@ -1254,25 +1273,6 @@
       "giffoni film festival 2025",
       "giurati internazionali",
       "cinema under 30"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c44b488abb3949b7",
-    "slug": "borsa-di-milano-sale-dello-07-saipem-vola-e-traina-c44b488abb3949b7",
-    "title": "Borsa di Milano sale dello 0,7%: Saipem vola e traina il listino. Avio frena",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-27T12:19:06.719747+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/2/24/9f09080fe77164b881e845ec3c29e940.jpg",
-    "occhiello": "MILANO ALLUNGA IL PASSO CON LO SPRINT DI SAIPEM",
-    "lead_preview": "Milano, 27 aprile.",
-    "tags": [
-      "borsa milano",
-      "saipem",
-      "avio"
     ],
     "hero_eligible": true
   },
