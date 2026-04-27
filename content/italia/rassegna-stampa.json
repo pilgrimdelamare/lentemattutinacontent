@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 24 aprile 2026",
+  "title": "Le prime pagine di oggi, lunedì 27 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 24 aprile 2026",
-    "Le prime pagine di oggi, venerdì 24 aprile 2026",
-    "Le prime pagine di oggi, venerdì 24 aprile 2026"
+    "Le prime pagine di oggi, lunedì 27 aprile 2026",
+    "Le prime pagine di oggi, lunedì 27 aprile 2026",
+    "Le prime pagine di oggi, lunedì 27 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "",
-  "lead": "I quotidiani italiani di venerdì 24 aprile 2026 si concentrano prevalentemente sulla tensione crescente nello Stretto di Hormuz, con le dichiarazioni di Donald Trump al centro dell’attenzione. Il presidente Mattarella torna sul tema della pace nel giorno della Liberazione, mentre Giorgia Meloni interviene al vertice Ue di Cipro. Alcuni giornali dedicano ampio spazio a temi economici e giudiziari, mentre altri puntano su cronaca e sport.",
-  "corpo1": "Il quotidiano 3 apre con “Hormuz, la sfida di Trump”, riportando le dichiarazioni del tycoon secondo cui gli Stati Uniti controllano lo Stretto e minacciano azioni contro chi vi piazza mine. Affianca l’intervista a Papa Leone XIV dal titolo “Pellegrino di pace” e le parole di Mattarella che condanna la “legge del più forte”. Il quotidiano 4 titola “Conti, Meloni controlla la Ue”, riprendendo l’intervento della premier a Cipro dove parla di coraggio e non esclude uno scostamento di bilancio. Mattarella è presente anche qui con un richiamo al rifiuto della barbarie. Il quotidiano 5 dedica la prima pagina all’appello di Meloni con “Meloni sfida Bruxelles ‘Energia fuori dal Patto’”, mentre segnala il via libera Ue ai 90 miliardi per Kiev e la denuncia di D’Urso contro Mediaset. Il quotidiano 6 torna sulla guerra in Iran con “Hormuz, la minaccia di Trump”, inserisce Mattarella sul 25 aprile e dà spazio allo sport con l’esonero di Ranieri dalla Roma. Il quotidiano 7 apre con dati fiscali: “Irpef zero per 11,3 milioni di contribuenti”, mentre in taglio parla del buco da 6,1 miliardi del superbonus e del coinvolgimento di Trump nel conflitto iraniano. Il quotidiano 8 punta su sport con “Guardiola l'italiano”, ipotizzando il suo approdo alla guida della Nazionale, e segnala il caos in casa Roma. Il quotidiano 9 si concentra sui temi giudiziari con “Gli avvocati rossi bloccano i rimpatri” e segnala la data del 1° maggio come possibile svolta nella guerra con Trump, oltre a un caso di avvelenamento in taglio basso.",
-  "corpo2": "Altri titoli rilevanti includono il “Modello Albania” promosso in Europa per i rimpatri, il pressing di Meloni sui conti Ue, e l’inchiesta sul cellulare della sorella nel caso di avvelenamento di madre e figlia. La giornata è dominata dalla crisi internazionale nello Stretto di Hormuz e dalle reazioni politiche in Italia e in Europa.",
+  "occhiello": "LE PRIME PAGINE 27 APRILE 2026",
+  "lead": "I principali quotidiani italiani si concentrano sulla sparatoria avvenuta durante un gala a Washington con la presenza di Donald Trump, evento che domina le aperture di più testate. Alcuni giornali approfondiscono il contesto politico e mediatico dell’episodio, mentre altri dedicano spazio a temi economici e sportivi. Le cronache dall’Iran e le polemiche arbitrali nel calcio italiano compaiono in diversi giornali, così come richiami a temi fiscali e tecnologici.",
+  "corpo1": "La Repubblica apre con “Spari alla cena con Trump”, affiancato dall’editoriale “Assedio alla verità”, e dedica spazio ai dubbi circolati online e a un’intervista a Richard Ford. Il Corriere della Sera titola “Trump, cena con sparatoria” e include il commento “L’America dell’odio”, oltre a un focus sull’attentato definito “diverso dagli altri”, e riporta le tensioni tra Anpi e Brigata ebraica. Sky TG24 dà ampio rilievo a “Terzo agguato a Trump nell’America dell’odio” e al commento “La parabola Donald vittima di sé stesso”, con approfondimenti sulla guerra in Iran e sullo sport. Il Giornale apre con “Trump sotto tiro”, inserendo la lettera di Cole, analisi sul complotto e valutazioni sull’effetto elettorale, mentre in alto parla del sistema arbitri sotto inchiesta. Il Sole 24 Ore titola “Imprese, ai vertici il 15% è sopra i 70 anni”, con richiami a fisco e cripto-attività. Tuttosport apre con “Inter è tuo” e la rimonta del Torino, inserendo anche il record di Sawe nella maratona e un aggiornamento sulla MotoGp.",
+  "corpo2": "In alcune prime pagine compaiono temi secondari come il richiamo al 730 e ai documenti digitali, il dibattito sugli arbitri in Serie A, e la guerra in Iran. La data del 25 aprile è presente in alcuni richiami promozionali. Il tema dominante della giornata è la sicurezza degli eventi politici e mediatici negli Stati Uniti.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-24T05:45:29.618951+00:00",
+  "published_at": "2026-04-27T05:45:46.774700+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/b63ac4a1d2c672985b1969ff7b8767e94f143412/skytg24/it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile/rassegna24aprile.jpg?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/c4fe743aa4a35ccb277738c1bd08d913469ce417/skytg24/it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile/rassegna27aprile.jpg?im=Resize,width=375",
+    "source": "25 aprile 2026",
+    "credit": "Prima pagina — 25 aprile 2026",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/24/prime-pagine-quotidiani-oggi-24-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 24 aprile 2026",
+      "title": "Oroscopo di oggi, lunedì 27 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Sei milioni di pensionati divisi in due: metà riceve la pensione a fine aprile, metà a inizio maggio",
-      "url": "/economia/pensioni-in-anticipo-ma-differenze-tra-poste-e-ban-fb269f06ac7c9f52",
-      "id": "fb269f06ac7c9f52",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/21/211637101-325a02f9-e7f4-4409-8395-d0ba24149ca0.jpg",
+      "title": "Epstein, 6 milioni di pagine rivelano nomi del potere",
+      "url": "/esteri/audit-dellispettore-generale-dipartimento-di-giust-4f1fbbc6b857ae50",
+      "id": "4f1fbbc6b857ae50",
+      "image_url": "https://i.guim.co.uk/img/media/5b5e03d03c792b55f0966a0e90e191c553e5685c/0_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86ba22d94a4f218ca219d1fb53c00c",
       "image_type": "image"
     },
     {
-      "title": "Milano, il 21 aprile 2026 l'inter supera il como",
-      "url": "/sport/linter-supera-il-como-e-raggiunge-la-finale-di-cop-8796b02dee5cadc4",
-      "id": "8796b02dee5cadc4",
-      "image_url": "https://sport.sky.it/assets/images/d617bbb60d9a52004d102641a68fe58a80850370/skysport/it/calcio/coppa-italia/2026/04/21/inter-como-fabregas-intervista-video/fabregas_ipa_4.jpg",
-      "image_type": "feed_image"
+      "title": "Elon Musk contro Sam Altman: 15 miliardi al centro della battaglia sull'IA a Oakland",
+      "url": "/tecnologia/musk-contro-altman-a-oakland-processo-su-openai-da-4e7454163d9535d1",
+      "id": "4e7454163d9535d1",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/26/210127692-bb9e9a4c-6b04-447b-9d56-c98de9ae8955.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
