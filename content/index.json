@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-27T18:44:27.171227+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES), CLOSE WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN.\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: GITHUB DOWN GLOBALE (4 WORDS) - OK.\n    *   *LEAD:* GITHUB È ATTUALMENTE IRRAGGIUNGIBILE DA CIRCA 15 MINUTI. IL BLACKOUT COLPISCE L'INTERA INFRASTRUTTURA, BLOCCANDO L'ACCESSO AI REPOSITORY E I FLUSSI DI LAVORO DI MIGLIAIA DI SVILUPPATORI E AZIENDE IN ITALIA. (31 WORDS) - OK.\n    *   *CORPO1:* L'INTERRUZIONE DEL SERVIZIO È INIZIATA IMPROVVISAMENTE, RENDENDO IMPOSSIBILE IL PUSH E IL PULL DEL CODICE. LE FUNZIONALITÀ DI GITHUB ACTIONS E I SERVIZI DI CI/CD SONO COMPLETAMENTE OFFLINE, PARALIZZANDO I PROCESSI DI DEPLOYMENT. L'IMPOSSIBILITÀ DI ACCEDERE ALLE PIATTAFORME DI VERSIONAMENTO IMPEDISCE L'AGGIORNAMENTO DI SOFTWARE CRITICI E LA GESTIONE DI PROGETTI COLLABORATIVI IN TEMPO REALE. IL BLOCCO TOTALE DEI SERVER IMPEDISCE OGNI OPERAZIONE DI COMMIT, CREANDO UN RISTAGNO PRODUTTIVO IMMEDIATO PER TUTTI I TEAM TECNICI COINVOLTI. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   CORRECT ITALIAN? YES.\n    *   ZERO MARKDOWN? YES.\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   TAGS USED CORRECTLY? YES.\n    *   WORD COUNTS RESPECTED?\n        *   OCCHIELLO: 4 WORDS (ALERT TECNICO: GITHUB DOWN GLOBALE",
+    "lead_preview": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        *   ``: 80-100 words, details (what's ha",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "ef26dfc9999cf36e",
     "slug": "calcio-psg-e-bayern-si-scontrano-per-il-posto-in-f-ef26dfc9999cf36e",
     "title": "Calcio: PSG e Bayern si sfidano a Budapest per un posto in finale e 200 milioni di ricavi",
@@ -8749,25 +8768,6 @@
       "prezzi carburanti",
       "diesel in calo",
       "carburanti in calo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "242a1a97d594f53b",
-    "slug": "f1-istanbul-torna-nel-calendario-mondiale-dal-2027-242a1a97d594f53b",
-    "title": "F1: La Turchia ritorna nel calendario del Mondiale dopo l'accordo di lungo termine con Liberty Media",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-24T09:09:28.099624+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/27/074936b545ebea5e2e7ef896bf1fc357.jpg",
-    "occhiello": "IL CIRCUITO DI ISTANBUL RIENTRA NEL CALENDARIO DELLA FORMULA 1",
-    "lead_preview": "Istanbul, 24 aprile 2026. La Formula 1 ha ufficializzato il rientro della Turchia nel calendario del campionato Mondiale",
-    "tags": [
-      "f1 turchia",
-      "formula 1 2026",
-      "circuito istanbul"
     ],
     "hero_eligible": true
   }
