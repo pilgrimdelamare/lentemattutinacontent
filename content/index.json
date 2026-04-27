@@ -1,5 +1,24 @@
 [
   {
+    "id": "aaa1b9d4a56584a2",
+    "slug": "giampiero-dellagiovanna-in-el-salvador-nuovo-nunzi-aaa1b9d4a56584a2",
+    "title": "Vaticano muove pedina: arcivescovo Dell'Olio nunzio a San Salvador al posto di Pezzuto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-27T02:44:14.809093+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/6b5700c000013bede878316d8dd526f0.jpg",
+    "occhiello": "IL VATICANO SPOSTA LE PEDINE A SAN SALVADOR",
+    "lead_preview": "San Salvador, 27 aprile. L'arcivescovo Giampiero Dell'Olio, fino a ieri nunzio apostolico in Nicaragua, è stato nominato",
+    "tags": [
+      "nomina vaticano salvador",
+      "arcivescovo dell'olio",
+      "cambio nunzio san salvador"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7a4add479848e12d",
     "slug": "nissan-chiude-in-rosso-perdita-netta-di-550-miliar-7a4add479848e12d",
     "title": "Nissan affonda: 550 miliardi di perdita in un anno, la colpa è dei modelli italiani",
@@ -2323,25 +2342,6 @@
       "putin e iran",
       "asse militare",
       "diktat occidente"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "aaa1b9d4a56584a2",
-    "slug": "giampiero-dellagiovanna-in-el-salvador-nuovo-nunzi-aaa1b9d4a56584a2",
-    "title": "Giampiero Dellagiovanna nuovo nunzio apostolico in El Salvador",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-27T02:44:14.809093+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/6b5700c000013bede878316d8dd526f0.jpg",
-    "occhiello": "NUOVO NUNZIO APOSTOLICO IN EL SALVADOR",
-    "lead_preview": "San Salvador, 27 aprile. L'arcivescovo Giampiero Dellagiovanna è stato nominato nuovo nunzio apostolico in El Salvador. ",
-    "tags": [
-      "nunzio apostolico el salvador",
-      "giampiero dellagiovanna",
-      "nomina vaticana"
     ],
     "hero_eligible": true
   },
