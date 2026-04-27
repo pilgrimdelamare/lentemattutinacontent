@@ -1,5 +1,24 @@
 [
   {
+    "id": "c610c5a73c833fe2",
+    "slug": "rufus-du-sol-a-bologna-il-trio-australiano-infiamm-c610c5a73c833fe2",
+    "title": "Rufus Du Sol a Bologna: il trio australiano infiamma la notte Italiana",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-27T09:31:58.183663+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/666df1f66bac79ddc93533f543a6a868.jpg",
+    "occhiello": "UNICA DATA ITALIANA PER IL TRIO CHE HA SPOSTATO L'ASSE DELLA CLUB CULTURE",
+    "lead_preview": "Roma, 27 aprile. Il trio elettronico australiano Rufus du Sol ha annunciato l'unica data Italiana del loro tour, fissata",
+    "tags": [
+      "rufus du sol",
+      "bologna concerti",
+      "musica elettronica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fb2844b473f4e16b",
     "slug": "rocchi-si-autosospende-ulivieri-minimizza-ma-laia-fb2844b473f4e16b",
     "title": "Rocchi si autosospende: Ulivieri minimizza, ma l'Aia cerca scudo dall'inchiesta",
@@ -8785,21 +8804,6 @@
       "filipe luís",
       "chelsea flamengo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2e22d6d2cc19b902",
-    "slug": "basket-venezia-milano-in-diretta-sky-sfida-crucial-2e22d6d2cc19b902",
-    "title": "Basket: Reyer Venezia e Olimpia Milano lottano per 400mila euro",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-23T13:01:37.626627+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c6a7a6c95bb32b4bd82000caca30ee6c844b619f/skysport/it/basket/serie-a/video/2026/04/23/1092326_1776947126807_thumb_494.0000001_1776947213253.jpg",
-    "occhiello": "QUATTROCENTOMILA EURO: IL VALORE DI UN PLAYOFF NEL BASKET",
-    "lead_preview": "Venezia, 23 aprile. La sfida di basket tra la Reyer Venezia e l'Olimpia Milano, valida per il ventottesimo turno di Seri",
-    "tags": [],
     "hero_eligible": true
   }
 ]
