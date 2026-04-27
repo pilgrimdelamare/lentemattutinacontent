@@ -1,5 +1,24 @@
 [
   {
+    "id": "12b2d92c790eb4ca",
+    "slug": "michael-incassa-53-milioni-in-italia-il-biopic-bat-12b2d92c790eb4ca",
+    "title": "Michael incassa 5,3 milioni in Italia: il biopic batte Dune e Godzilla",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-27T11:23:22.791714+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/48a3cb1c5e21338a347b86924d48ce23.jpg",
+    "occhiello": "5,3 MILIONI IN UN WEEKEND PER \"MICHAEL\"",
+    "lead_preview": "Il biopic Michael, diretto da Antoine Fuqua e prodotto da Lionsgate insieme alla casa di produzione di Michael Jackson, ",
+    "tags": [
+      "biopic michael jackson",
+      "incassi cinema italia",
+      "film antoine fuqua"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6b962d41f74e9a9d",
     "slug": "windows-11-rimanda-gli-aggiornamenti-per-35-giorni-6b962d41f74e9a9d",
     "title": "Microsoft ritarda gli aggiornamenti di Sicurezza di Windows 11 di 35 giorni",
@@ -8817,25 +8836,6 @@
       "ahmed shihab-eldin",
       "kuwait offshore",
       "kabul detenzione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub giù per 50 minuti, sviluppatori bloccati in tutto il mondo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-23T17:05:05.863023+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "",
-    "lead_preview": "San Francisco, 23 aprile. La piattaforma GitHub, servizio di hosting per codice controllato da Microsoft, è rimasta irra",
-    "tags": [
-      "guasto github",
-      "disservizio github",
-      "blackout github"
     ],
     "hero_eligible": true
   }
