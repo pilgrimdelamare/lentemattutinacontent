@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        ",
+  "title": "GitHub è tornato online dopo 100 minuti di interruzione.",
   "titles": [
-    "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        ",
-    "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        ",
-    "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        "
+    "GitHub è tornato online dopo 100 minuti di interruzione.",
+    "GitHub è tornato online dopo 100 minuti di interruzione.",
+    "GitHub è tornato online dopo 100 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES), CLOSE WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN.\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: GITHUB DOWN GLOBALE (4 WORDS) - OK.\n    *   *LEAD:* GITHUB È ATTUALMENTE IRRAGGIUNGIBILE DA CIRCA 15 MINUTI. IL BLACKOUT COLPISCE L'INTERA INFRASTRUTTURA, BLOCCANDO L'ACCESSO AI REPOSITORY E I FLUSSI DI LAVORO DI MIGLIAIA DI SVILUPPATORI E AZIENDE IN ITALIA. (31 WORDS) - OK.\n    *   *CORPO1:* L'INTERRUZIONE DEL SERVIZIO È INIZIATA IMPROVVISAMENTE, RENDENDO IMPOSSIBILE IL PUSH E IL PULL DEL CODICE. LE FUNZIONALITÀ DI GITHUB ACTIONS E I SERVIZI DI CI/CD SONO COMPLETAMENTE OFFLINE, PARALIZZANDO I PROCESSI DI DEPLOYMENT. L'IMPOSSIBILITÀ DI ACCEDERE ALLE PIATTAFORME DI VERSIONAMENTO IMPEDISCE L'AGGIORNAMENTO DI SOFTWARE CRITICI E LA GESTIONE DI PROGETTI COLLABORATIVI IN TEMPO REALE. IL BLOCCO TOTALE DEI SERVER IMPEDISCE OGNI OPERAZIONE DI COMMIT, CREANDO UN RISTAGNO PRODUTTIVO IMMEDIATO PER TUTTI I TEAM TECNICI COINVOLTI. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   CORRECT ITALIAN? YES.\n    *   ZERO MARKDOWN? YES.\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   TAGS USED CORRECTLY? YES.\n    *   WORD COUNTS RESPECTED?\n        *   OCCHIELLO: 4 WORDS (ALERT TECNICO: GITHUB DOWN GLOBALE",
-  "lead": "`: Max 40 words, dry facts (down, since when, impact on Italian users).\n        *   ``: 80-100 words, details (what's happening, start time, compromised features), close with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown.\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: GITHUB DOWN GLOBALE (4 words) - OK.\n    *   *Lead:* GitHub è attualmente irraggiungibile da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, bloccando l'accesso ai repository e i flussi di lavoro di migliaia di sviluppatori e aziende in Italia. (31 words) - OK.\n    *   *Corpo1:* L'interruzione del servizio è iniziata improvvisamente, rendendo impossibile il push e il pull del codice. Le funzionalità di GitHub Actions e i servizi di CI/CD sono completamente offline, paralizzando i processi di deployment. L'impossibilità di accedere alle piattaforme di versionamento impedisce l'aggiornamento di software critici e la gestione di progetti collaborativi in tempo reale. Il blocco totale dei server impedisce ogni operazione di commit, creando un ristagno produttivo immediato per tutti i team tecnici coinvolti. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Correct Italian? Yes.\n    *   Zero markdown? Yes.\n    *   Zero asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Tags used correctly? Yes.\n    *   Word counts respected?\n        *   Occhiello: 4 words (ALERT TECNICO: GITHUB DOWN GLOBALE\n\nGitHub è attualmente irraggiungibile da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, bloccando l'accesso ai repository e i flussi di lavoro di migliaia di sviluppatori e aziende in Italia.",
-  "corpo1": "`: 80-100 words, details (what's happening, start time, compromised features), close with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown.\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: GITHUB DOWN GLOBALE (4 words) - OK.\n    *   *Lead:* GitHub è attualmente irraggiungibile da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, bloccando l'accesso ai repository e i flussi di lavoro di migliaia di sviluppatori e aziende in Italia. (31 words) - OK.\n    *   *Corpo1:* L'interruzione del servizio è iniziata improvvisamente, rendendo impossibile il push e il pull del codice. Le funzionalità di GitHub Actions e i servizi di CI/CD sono completamente offline, paralizzando i processi di deployment. L'impossibilità di accedere alle piattaforme di versionamento impedisce l'aggiornamento di software critici e la gestione di progetti collaborativi in tempo reale. Il blocco totale dei server impedisce ogni operazione di commit, creando un ristagno produttivo immediato per tutti i team tecnici coinvolti. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Correct Italian? Yes.\n    *   Zero markdown? Yes.\n    *   Zero asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Tags used correctly? Yes.\n    *   Word counts respected?\n        *   Occhiello: 4 words (ALERT TECNICO: GITHUB DOWN GLOBALE\n\nGitHub è attualmente irraggiungibile da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, bloccando l'accesso ai repository e i flussi di lavoro di migliaia di sviluppatori e aziende in Italia.\n\nL'interruzione del servizio è iniziata improvvisamente, rendendo impossibile il push e il pull del codice. Le funzionalità di GitHub Actions e i servizi di CI/CD sono completamente offline, paralizzando i processi di deployment. L'impossibilità di accedere alle piattaforme di versionamento impedisce l'aggiornamento di software critici e la gestione di progetti collaborativi in tempo reale. Il blocco totale dei server impedisce ogni operazione di commit, creando un ristagno produttivo immediato per tutti i team tecnici coinvolti. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 100 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 100 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-27T18:44:27.171227+00:00",
+  "published_at": "2026-04-27T20:10:14.033319+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "OpenAI crea l'IA che sostituisce l'uomo nel lavoro e corre in Borsa",
+      "title": "App UE Hacked: 23 Milioni di Profili Rubati in 2 Minuti",
+      "url": "/tecnologia/app-ue-per-leta-online-hacker-la-sicurezza-in-2-mi-adf4810f08a5e995",
+      "id": "adf4810f08a5e995",
+      "image_url": "https://media-assets.wired.it/photos/6733323faf7173bbed60aa21/16:9/w_1280,c_limit/How-to-Screenshot-On-Any-Phone-Gear-GettyImages-1183385807.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Microsoft ritarda aggiornamenti Windows 11 di 35 giorni",
+      "url": "/tecnologia/windows-11-rimanda-gli-aggiornamenti-per-35-giorni-6b962d41f74e9a9d",
+      "id": "6b962d41f74e9a9d",
+      "image_url": "https://media-assets.wired.it/photos/69ee84377e724f54bba59151/16:9/w_1280,c_limit/1233639876",
+      "image_type": "image"
+    },
+    {
+      "title": "OpenAI annuncia un passaggio strategico nella gestione dell'IA generativa",
       "url": "/tecnologia/openai-crea-lia-che-sostituisce-luomo-nel-lavoro-e-e28d5f67f7600e1a",
       "id": "e28d5f67f7600e1a",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/27/183357699-f45b2091-d58d-4129-80fb-3a00e81cab6e.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Chatbot aziendali: dati sanitari e bilanci a rischio, multe da miliardi in arrivo",
-      "url": "/tecnologia/aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
-      "id": "730c5c4b0f7895e3",
-      "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
-      "image_type": "image"
-    },
-    {
-      "title": "Apple punta sull'OLED: il nuovo iPhone celebrativo arriva nel",
-      "url": "/tecnologia/apple-lancia-iphone-20-con-display-oled-6b63b2731c3fbcbd",
-      "id": "6b63b2731c3fbcbd",
-      "image_url": "https://media-assets.wired.it/photos/69ee76517bb336c9ac71301f/16:9/w_1280,c_limit/2263889003",
       "image_type": "image"
     }
   ],
