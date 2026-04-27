@@ -1,5 +1,23 @@
 [
   {
+    "id": "bf07c64b699e39c2",
+    "slug": "il-como-eguaglia-la-roma-nella-corsa-alla-champion-bf07c64b699e39c2",
+    "title": "Calcio: Quagliarella e Moutinho trascinano il Como alla vittoria sul Genoa",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-26T16:01:06.276796+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8f102e9fc8c29f1a8e28186a60dff767bc39cb1b/skysport/it/calcio/serie-a/partite/2025/giornata-34/genoa-como/ansa_douvikas_genoa_como_02.jpg",
+    "occhiello": "COMO VINCE CONTRO IL GENOA IN SERIE A",
+    "lead_preview": "Genova, 26 aprile. Il Como ha battuto il Genoa per 2-0 nella trentaquattresima giornata di Serie A, portandosi a quota 6",
+    "tags": [
+      "como vs genoa",
+      "quagliarella decisivo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f42cd18e59c06be9",
     "slug": "corte-dei-conti-attacca-la-riforma-foti-ricorso-al-f42cd18e59c06be9",
     "title": "La Corte dei Conti attacca la riforma Foti",
@@ -2465,21 +2483,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/1/9f3eacda4f0eeeb4cad1e57762cc324e.jpg",
     "occhiello": "MAROTTA AMMETTE CONTI IN ROSSO PER 200 MILIONI",
     "lead_preview": "Milano, 26 aprile. Giuseppe Marotta, Presidente del Football Club Internazionale Milano, ha accolto le critiche riguardo",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "bf07c64b699e39c2",
-    "slug": "il-como-eguaglia-la-roma-nella-corsa-alla-champion-bf07c64b699e39c2",
-    "title": "Calcio: Quagliarella e Moutinho decidono",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-26T16:01:06.276796+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8f102e9fc8c29f1a8e28186a60dff767bc39cb1b/skysport/it/calcio/serie-a/partite/2025/giornata-34/genoa-como/ansa_douvikas_genoa_como_02.jpg",
-    "occhiello": "COMO TRASCINA GENOA",
-    "lead_preview": "Genova, 26 aprile. Il Como batte il Genoa per 2-0 nella trentaquattresima giornata di Serie A, portandosi a quota 60 pun",
     "tags": [],
     "hero_eligible": true
   },
