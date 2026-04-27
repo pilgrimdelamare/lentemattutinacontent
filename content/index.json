@@ -1,5 +1,24 @@
 [
   {
+    "id": "62db67e143dc50d8",
+    "slug": "re-carlo-negli-stati-uniti-con-scorta-rafforzata-62db67e143dc50d8",
+    "title": "Re Carlo a Washington: esplosione alla Casa Bianca, 3 morti, Trump in pericolo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-27T09:14:28.792479+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/17/305ea3d9397a51bf538276de73afa522.jpg",
+    "occhiello": "VISITA REALE TRA LE BOMBE",
+    "lead_preview": "Londra, 27 aprile: Re Carlo III e la regina Camilla sono decollati stamane da RAF Brize Norton con un Boeing 777 della R",
+    "tags": [
+      "attentato casa bianca",
+      "visita re carlo",
+      "trump in pericolo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b5b68b3244ef55b9",
     "slug": "pompei-lia-svela-lagonia-di-un-fuggiasco-del-vesuv-b5b68b3244ef55b9",
     "title": "Intelligenza Artificiale svela l’ultimo istante di un fuggiasco di Pompei",
@@ -1075,25 +1094,6 @@
       "gianluca rocchi",
       "aiac",
       "inchiesta calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "62db67e143dc50d8",
-    "slug": "re-carlo-negli-stati-uniti-con-scorta-rafforzata-62db67e143dc50d8",
-    "title": "Re carlo negli stati uniti con scorta rafforzata",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-27T09:14:28.792479+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/17/305ea3d9397a51bf538276de73afa522.jpg",
-    "occhiello": "RE CARLO NEGLI STATI UNITI CON SCORTA RAFFORZATA",
-    "lead_preview": "Londra, 27 aprile 2026. Re Carlo è partito per una visita negli Stati Uniti, poche ore dopo l'attacco subito dal Preside",
-    "tags": [
-      "re carlo",
-      "viaggio re carlo",
-      "attentato trump"
     ],
     "hero_eligible": true
   },
