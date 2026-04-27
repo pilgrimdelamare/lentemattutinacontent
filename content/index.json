@@ -1,5 +1,24 @@
 [
   {
+    "id": "e3c96afd2359726d",
+    "slug": "gerusalemme-il-cardinale-pizzaballa-rompe-il-silen-e3c96afd2359726d",
+    "title": "Gerusalemme: il Cardinale Pizzaballa rompe il silenzio e parla di occupazione",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-27T09:26:52.413840+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/eb378e29a6166cd0deb2d22c192c2cd4.jpg",
+    "occhiello": "DOLORE UNIVERSALE NON ANNULLA CHI OCCUPA",
+    "lead_preview": "Gerusalemme, 27 aprile. Il Cardinale Pierbattista Pizzaballa, Patriarca Latino di Gerusalemme, ha rilasciato una dichiar",
+    "tags": [
+      "cardinale pizzaballa",
+      "gerusalemme occupazione",
+      "conflitto israele"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2e7ef9a775350a75",
     "slug": "kim-jong-un-proclama-guerra-sacra-in-ucraina-e-giu-2e7ef9a775350a75",
     "title": "Kim Jong Un proclama guerra sacra in Ucraina e giura fedeltà a Putin",
@@ -8776,23 +8795,6 @@
       "muvec mestre",
       "fondi pubblici cultura",
       "apertura muvec"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1090a6936741493c",
-    "slug": "f1-norris-prevede-un-futuro-senza-verstappen-una-p-1090a6936741493c",
-    "title": "F1: Norris analizza addio Verstappen",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-23T12:14:16.138157+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/942a6c7660921d0731cd8c2e19653c720550df96/skysport/it/motori/formula-1/video/2026/04/23/f1-norris-verstappen-intervista-video-1092307/frame_lando_norris.jpg",
-    "occhiello": "VERSTAPPEN LASCIA LA F1",
-    "lead_preview": "Londra, 23 aprile - Lando Norris, campione del mondo in carica con la McLaren, analizza le persistenti indiscrezioni sul",
-    "tags": [
-      "addio verstappen"
     ],
     "hero_eligible": true
   }
