@@ -1,5 +1,23 @@
 [
   {
+    "id": "730c5c4b0f7895e3",
+    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
+    "title": "Servizi di chat AI: le imprese rischiano multe milionarie per la fuga di dati sensibili",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-27T04:50:42.229868+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
+    "occhiello": "AZIENDE ESPONGONO DATI SENSIBILI AI SERVER ESTERNI",
+    "lead_preview": "Roma, 27 aprile 2026. Secondo recenti report, diverse aziende stanno trasmettendo dati finanziari, sanitari e anagrafici",
+    "tags": [
+      "chat ai",
+      "fuga dati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8d42c8c44e3a5b99",
     "slug": "calcio-potenza-e-monopoli-si-confrontano-in-un-mat-8d42c8c44e3a5b99",
     "title": "Giuseppe Manzari e la difesa del Monopoli lasciano capire il segnale",
@@ -805,21 +823,6 @@
       "giampiero dellagiovanna",
       "nomina vaticana"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "730c5c4b0f7895e3",
-    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
-    "title": "Aziende espone dati sensibili ai server esterni",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-27T04:50:42.229868+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
-    "occhiello": "LA SCELTA TRA PRIVACY E COMODITÀ NELL'USO QUOTIDIANO DELL'AI",
-    "lead_preview": "Roma, 27 aprile. Quando si incolla un testo in una chat AI generativa per riassumerlo o migliorarlo, si sta inviando que",
-    "tags": [],
     "hero_eligible": true
   },
   {
