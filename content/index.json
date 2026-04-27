@@ -1,5 +1,24 @@
 [
   {
+    "id": "fb7fa05bb7bc0a98",
+    "slug": "attentato-a-washington-durante-la-cena-dei-corrisp-fb7fa05bb7bc0a98",
+    "title": "Trump nel mirino: spari all'Hilton durante la cena con la stampa a Washington",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-26T12:38:36.128544+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/21/189518394c07bbc44f38bfa824e78b3f.jpg",
+    "occhiello": "ATTENTATO AL PRESIDENTE USA DURANTE CENA DI CORRISPONDENTI",
+    "lead_preview": "Washington, 26 aprile. Il 47° Presidente degli Stati Uniti, Donald Trump, è stato vittima di un attentato durante la cen",
+    "tags": [
+      "attentato trump",
+      "cena corrispondenti",
+      "trump usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2bd09bffc590fe20",
     "slug": "calcio-siracusa-guadagna-punto-donore-in-sicilia-2bd09bffc590fe20",
     "title": "Pareggio amaro per trapani e siracusa",
@@ -2501,25 +2520,6 @@
     "occhiello": "DRONI IRANIANI INTERCETTATI SUL MAR ROSSO.",
     "lead_preview": "Roma, 26 aprile. Diciassette droni di fabbricazione iraniana sono Stati intercettati e abbattuti nella giornata odierna ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "fb7fa05bb7bc0a98",
-    "slug": "attentato-a-washington-durante-la-cena-dei-corrisp-fb7fa05bb7bc0a98",
-    "title": "Trump sotto tiro a Washington durante la cena dei giornalisti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-26T12:38:36.128544+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/21/189518394c07bbc44f38bfa824e78b3f.jpg",
-    "occhiello": "ATTENTATO A TRUMP: CAOS E SOSPETTI A WASHINGTON",
-    "lead_preview": "Washington, 26 aprile. Donald Trump, 47° Presidente degli Stati Uniti, è stato vittima di un attentato durante la cena a",
-    "tags": [
-      "attentato trump",
-      "cena giornalisti",
-      "trump washington"
-    ],
     "hero_eligible": true
   },
   {
