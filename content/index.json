@@ -1,5 +1,23 @@
 [
   {
+    "id": "87b211d9eca5e6e0",
+    "slug": "ansa-blocca-i-palinsesti-rai-1699-o-cessione-dati-87b211d9eca5e6e0",
+    "title": "ANSA tace su blocco RAI",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-26T23:17:36.053965+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "ANSA BLOCCA PALINSESTI RAI",
+    "lead_preview": "Roma, 27 aprile. La notizia del giorno non è quella annunciata nel titolo, ma l’assenza di essa: la pagina web dell’ansa",
+    "tags": [
+      "ansa rai",
+      "blocco rai"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9178faf25079fa77",
     "slug": "lega-spinge-per-labbandono-unilaterale-del-patto-d-9178faf25079fa77",
     "title": "Borghi Lega chiede all'Italia di abbandonare unilateralmente il Patto di Stabilità",
@@ -531,21 +549,6 @@
       "szczesny para leao",
       "juventus-milan 2025"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "87b211d9eca5e6e0",
-    "slug": "ansa-blocca-i-palinsesti-rai-1699-o-cessione-dati-87b211d9eca5e6e0",
-    "title": "ANSA blocca i palinsesti RAI: 16,99€ o cessione dati per vedere la TV",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-26T23:17:36.053965+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "UN TITOLO PER NASCONDERE IL VERO PRODOTTO: IL DATO PERSONALE",
-    "lead_preview": "Roma, 27 aprile. La notizia del giorno non è quella annunciata nel titolo, ma l’assenza di essa: la pagina web dell’ANSA",
-    "tags": [],
     "hero_eligible": true
   },
   {
