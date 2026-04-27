@@ -1,5 +1,24 @@
 [
   {
+    "id": "d8edf83e55f3a690",
+    "slug": "vaticano-papa-leone-xiv-riceve-la-primate-anglican-d8edf83e55f3a690",
+    "title": "Papa Leone XIV riceve la primate anglicana Sarah Mullay in un incontro storico",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-27T11:04:18.595298+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/55058adff611254fa21a9a1ef95c9fe4.jpg",
+    "occhiello": "PAPA LEONE XIV STRINGE LA MANO ALL'ANGLICANESIMO",
+    "lead_preview": "<Roma, 27 aprile 2026. Papa Leone XIV ha ricevuto in Vaticano la primate anglicana Sarah Mullay, in un incontro ufficial",
+    "tags": [
+      "incontro papa mullay",
+      "dialogo cattolico-anglicano",
+      "visita primate vaticano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e4c1063d181511eb",
     "slug": "calcio-pareggio-tra-milan-e-juventus-modric-esce-p-e4c1063d181511eb",
     "title": "Crollo di Modrić al San Siro, la Juventus e il Milan si dividono i punti",
@@ -3032,25 +3051,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d8edf83e55f3a690",
-    "slug": "vaticano-papa-leone-xiv-riceve-la-primate-anglican-d8edf83e55f3a690",
-    "title": "Papa Leone XIV stringe la mano all'anglicanesimo: unità immediata richiesta in Vaticano",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-27T11:04:18.595298+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/3/55058adff611254fa21a9a1ef95c9fe4.jpg",
-    "occhiello": "LEONE XIV APRE IL VATICANO ALLA PRIMATE ANGLICANA SARAH MULLAY",
-    "lead_preview": "Roma, 27 aprile 2026. papa Leone XIV ha ricevuto in Vaticano la primate anglicana Sarah Mullay, in un incontro ufficiale",
-    "tags": [
-      "papa leone xiv",
-      "sarah mullay",
-      "anglicanesimo vaticano"
     ],
     "hero_eligible": true
   },
