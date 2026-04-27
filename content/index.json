@@ -1,5 +1,24 @@
 [
   {
+    "id": "af565199dd2e83c5",
+    "slug": "messico-il-treno-dellaria-taglia-i-tempi-per-laero-af565199dd2e83c5",
+    "title": "Città del Messico: il Treno dell'Aria taglia il tragitto aereoporto-Città",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-27T06:25:50.662789+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/d80094de225a184f61a63ea52d67e20d.jpg",
+    "occhiello": "IL TRENO CHE RICONCILIA L'AEROPORTO CON LA CAPITALE",
+    "lead_preview": "Città del Messico, 27 aprile. La capitale messicana ha inaugurato oggi il nuovo collegamento ferroviario per l'aeroporto",
+    "tags": [
+      "treno dell'aria",
+      "aeroporto cdmx",
+      "aifa messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ca2c28b38e5498e7",
     "slug": "siria-processo-a-damasco-atef-najib-paga-le-tortur-ca2c28b38e5498e7",
     "title": "Atef Najib sul banco degli imputati a Damasco",
@@ -828,24 +847,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "af565199dd2e83c5",
-    "slug": "messico-il-treno-dellaria-taglia-i-tempi-per-laero-af565199dd2e83c5",
-    "title": "Messico, il \"Treno dell'Aria\" taglia i tempi per l'aeroporto: 40 minuti in meno!",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-27T06:25:50.662789+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/d80094de225a184f61a63ea52d67e20d.jpg",
-    "occhiello": "CITTÀ DEL MESSICO, IN AGGIORNAMENTO: 40MIN AL Terminal Voli via treno",
-    "lead_preview": "Città del Messico, 27 aprile 2026 — Inaugurato il treno per l'aeroporto Felipe Ángeles, che promette di ridurre il viagg",
-    "tags": [
-      "treno dell'aria",
-      "aeroporto messico"
     ],
     "hero_eligible": true
   },
