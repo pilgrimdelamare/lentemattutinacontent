@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub giù 100 minuti: attacco DDoS blocca 73 milioni di utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-27T20:10:14.033319+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB TORNA ONLINE DOPPO 100 MINUTI DI INTERRUZIONE",
+    "lead_preview": "GitHub è tornato online dopo 100 minuti di interruzione. La piattaforma, utilizzata da oltre 73 milioni di utenti, è sta",
+    "tags": [
+      "attacco ddos github",
+      "interruzione github",
+      "github giù"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c579ea5eade8cc18",
     "slug": "tennis-sinner-norrie-domani-alle-16-493mila-euro-i-c579ea5eade8cc18",
     "title": "Tennis: Sinner sfida Norrie a Madrid per un premio di 240mila euro in palio",
@@ -713,25 +732,6 @@
       "ia ricostruisce fuga"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 100 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-27T20:10:14.033319+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 100 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "ca1dabd1d78361e4",
