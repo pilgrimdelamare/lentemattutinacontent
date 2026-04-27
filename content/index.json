@@ -1,5 +1,23 @@
 [
   {
+    "id": "af565199dd2e83c5",
+    "slug": "messico-il-treno-dellaria-taglia-i-tempi-per-laero-af565199dd2e83c5",
+    "title": "Messico, il \"Treno dell'Aria\" taglia i tempi per l'aeroporto: 40 minuti in meno!",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-27T06:25:50.662789+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/d80094de225a184f61a63ea52d67e20d.jpg",
+    "occhiello": "CITTÀ DEL MESSICO, IN AGGIORNAMENTO: 40MIN AL Terminal Voli via treno",
+    "lead_preview": "Città del Messico, 27 aprile 2026 — Inaugurato il treno per l'aeroporto Felipe Ángeles, che promette di ridurre il viagg",
+    "tags": [
+      "treno dell'aria",
+      "aeroporto messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ee0604f3c86e3300",
     "slug": "salis-rifiuta-le-primarie-del-pd-e-m5s-boicotta-il-ee0604f3c86e3300",
     "title": "Sindaca Maria Rossi boicotta primarie PD-M5S, disunisce coalizione a Salis",
@@ -8810,24 +8828,6 @@
       "protocollo italia-albania",
       "cpr albanesi",
       "meloni migranti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e18801051fc46a5",
-    "slug": "la-spazza-italiana-fa-45-mld-boom-di-investimenti-6e18801051fc46a5",
-    "title": "Italia scommette 4,5 miliardi sullo spazio per sfidare giganti globali",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-23T10:44:07.353199+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/29/f669efceb3b7a8cc284d1ce2855170de.jpg",
-    "occhiello": "QUATTRO MILIARDI E MEZZO PER LA CORSA ALLO SPAZIO",
-    "lead_preview": "Roma, 23 aprile. L'industria spaziale italiana mette sul tavolo un piano di investimenti da 4,5 miliardi di euro per con",
-    "tags": [
-      "investimenti spazio",
-      "industria spaziale italiana"
     ],
     "hero_eligible": true
   }
