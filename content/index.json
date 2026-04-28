@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260428",
+    "slug": "libro-del-giorno-giovani-liberi-partigianidi-michela-po-20260428",
+    "title": "Il libro del giorno: «Giovani, liberi, partigianidi Michela Ponzani»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un racconto corale di giovani ribelli durante la Resistenza italiana",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-28T07:00:21.685317+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L209xH312/714k6ru4zwl__sl1491_-d0cb7.jpg?1777107779",
+      "alt": "Copertina: Giovani, liberi, partigianidi Michela Ponzani",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L209xH312/714k6ru4zwl__sl1491_-d0cb7.jpg?1777107779",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "283412e2b5d481d2",
     "slug": "basket-jokic-domina-minnesota-e-trascina-denver-ve-283412e2b5d481d2",
     "title": "Basket: Jokić domina Minnesota e trascina Denver verso la decisiva gara 6",
@@ -8781,24 +8800,6 @@
       "guerra iran",
       "pentagono allarme",
       "armi usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "59a08f8ff0e2563d",
-    "slug": "motogp-bezzecchi-sfida-il-tabu-di-jerez-per-blinda-59a08f8ff0e2563d",
-    "title": "MotoGP: Bezzecchi affronta la sfida di Jerez per sfruttare gli aggiornamenti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-24T10:37:53.856581+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/ebed8c7d2cd483584344f309b55a3aec.jpg",
-    "occhiello": "BEZZECCHI IN LOTTA CONTRO LE DIFFICOLTÀ TECNICHE",
-    "lead_preview": "Jerez de la Frontera, 24 aprile. Marco Bezzecchi, pilota italiano di MotoGP per Aprilia Racing, affronta il weekend di g",
-    "tags": [
-      "motogp jerez",
-      "bezzecchi aggiornamenti"
     ],
     "hero_eligible": true
   }
