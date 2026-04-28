@@ -1,5 +1,24 @@
 [
   {
+    "id": "f4e5988a07dcee50",
+    "slug": "inflazione-al-280-e-pil-in-calo-largentina-nega-la-f4e5988a07dcee50",
+    "title": "Luis Caputo: 'Nessuna recessione, solo aggiustamento strutturale'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-28T18:22:30.193571+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/12/5/c4fed7b0665c77f50e6e86a81bf0277e.jpg",
+    "occhiello": "INFLAZIONE AL 280%, PIL IN CALO MA NON È RECESSIONE",
+    "lead_preview": "Buenos Aires, 28 aprile. Il Ministro dell’Economia argentino Luis Caputo ha escluso che il Paese sia in recessione, malg",
+    "tags": [
+      "inflazione argentina",
+      "pil calo",
+      "caputo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9de069bdd10083e1",
     "slug": "motogp-gigi-dalligna-annuncia-novita-aerodinamiche-9de069bdd10083e1",
     "title": "MotoGP: Gigi Dall'Igna annuncia novità aerodinamiche per i test lunedì",
@@ -323,24 +342,6 @@
       "giustizia egitto",
       "casi giulia malak",
       "tajani egitto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f4e5988a07dcee50",
-    "slug": "inflazione-al-280-e-pil-in-calo-largentina-nega-la-f4e5988a07dcee50",
-    "title": "Inflazione al 280% e PIL in calo: l'Argentina nega la recessione",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-28T18:22:30.193571+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/12/5/c4fed7b0665c77f50e6e86a81bf0277e.jpg",
-    "occhiello": "MINISTRO: \"NON C'È RECESSIONE\"",
-    "lead_preview": "Il Ministro dell'Economia argentino Luis Caputo ha escluso che il Paese sia in recessione, nonostante i dati del FMI e d",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
