@@ -1,5 +1,23 @@
 [
   {
+    "id": "3a4b95f57947cd89",
+    "slug": "iswap-uccide-29-persone-3a4b95f57947cd89",
+    "title": "Iswap uccide 29 persone",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-28T03:25:42.230610+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/28/050714430-7f7a3922-f806-45f7-8d36-5bdef4ff4699.jpg",
+    "occhiello": "AGGUATO ISLAMISTA NIGERIA",
+    "lead_preview": "Abuja, 28 aprile. Almeno 29 morti e una chiesa bruciata in un agguato di uomini armati nell'instabile Stato di Adamawa, ",
+    "tags": [
+      "attacco iswap",
+      "nigeria iswap"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4a8af29bdab4617e",
     "slug": "carlo-iii-vola-negli-usa-per-blindare-lalleanza-tr-4a8af29bdab4617e",
     "title": "Re Carlo III atterra a Washington",
@@ -8848,25 +8866,6 @@
       "rivoluzione tattica calcio",
       "nesta chiellini",
       "difesa moderna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1ed6574bc194507",
-    "slug": "calcio-city-rimonta-e-accelera-arsenal-trema-contr-b1ed6574bc194507",
-    "title": "Calcio: City campione d'Inghilterra! Arsenal ko e crolla sotto pressione a Londra",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-24T10:33:07.277421+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/19/acbf74f340530825610e7087758dcfc9.jpg",
-    "occhiello": "ARSENAL CROLLA ANCORA SUL PIÙ BELLO",
-    "lead_preview": "Londra, 24 aprile. La Premier League vede un colpo di scena: Il Manchester City ha conquistato il titolo inglese di Prem",
-    "tags": [
-      "premier league",
-      "manchester city",
-      "arsenal ko"
     ],
     "hero_eligible": true
   }
