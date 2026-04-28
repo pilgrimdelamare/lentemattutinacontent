@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-27T20:10:14.033319+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "ATTACCO DDOS BLOCCA PIATTAFORMA PER 100 MINUTI",
+    "lead_preview": "San Francisco, 27 aprile. GitHub, la popolare piattaforma di sviluppo software utilizzata da oltre 73 milioni di utenti,",
+    "tags": [
+      "attacco ddos",
+      "blackout github"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57385dcd69e336f9",
     "slug": "messico-export-record-lindustria-esplode-e-travolg-57385dcd69e336f9",
     "title": "Messico, export record: l'industria esplode e travolge ogni primato",
@@ -2960,25 +2978,6 @@
       "coppa italia",
       "calhanoglu milan",
       "festa milan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub giù 100 minuti: attacco DDoS blocca 73 milioni di utenti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-27T20:10:14.033319+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB TORNA ONLINE DOPPO 100 MINUTI DI INTERRUZIONE",
-    "lead_preview": "GitHub è tornato online dopo 100 minuti di interruzione. La piattaforma, utilizzata da oltre 73 milioni di utenti, è sta",
-    "tags": [
-      "attacco ddos github",
-      "interruzione github",
-      "github giù"
     ],
     "hero_eligible": true
   },
