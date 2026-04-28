@@ -1,5 +1,24 @@
 [
   {
+    "id": "42bb9001b0395c3e",
+    "slug": "leonardo-vola-sp-conferma-rating-bbb-e-sposta-lout-42bb9001b0395c3e",
+    "title": "Roberto Cingolani Sbatte Il Pignone: Leonardo SpA Aggiunge 480 Milioni",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-28T14:55:15.554176+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5cae930378a3f15aebe9b3e38e4ec4c4.jpg",
+    "occhiello": "L'ITALIA VOLA CON LEONARDO",
+    "lead_preview": "Roma, 28 aprile. A S&P piace Leonardo Spa. L'agenzia di rating americana ha confermato il giudizio BBB+ sul colosso ital",
+    "tags": [
+      "rating leonardo spa",
+      "cingolani pignone",
+      "difesa italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "72dc93a8cdcc145b",
     "slug": "ministro-tajani-chiede-giustizia-per-madre-e-figli-72dc93a8cdcc145b",
     "title": "Tajani sbotta: \"Egitto garantisca giustizia rapida per Giulia e Malak\"",
@@ -520,24 +539,6 @@
       "grazia minetti",
       "nordio chigi",
       "caso minetti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "42bb9001b0395c3e",
-    "slug": "leonardo-vola-sp-conferma-rating-bbb-e-sposta-lout-42bb9001b0395c3e",
-    "title": "Leonardo vola: S&P conferma rating BBB+ e sposta l'outlook a positivo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-28T14:55:15.554176+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5cae930378a3f15aebe9b3e38e4ec4c4.jpg",
-    "occhiello": "STANDARD & POOR'S SORRIDE A LEONARDO",
-    "lead_preview": "Roma, 28 aprile. La società guidata da Roberto Cingolani ottiene il bollino blu dell'agenzia di rating: S&P conferma il ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
