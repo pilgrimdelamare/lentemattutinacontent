@@ -1,5 +1,23 @@
 [
   {
+    "id": "08e75ef02f509ab0",
+    "slug": "biennale-di-venezia-larte-guarisce-le-ferite-del-m-08e75ef02f509ab0",
+    "title": "Grenada sbanca Venezia con 120.000 dollari: la sua Arte sbarca in Laguna",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-27T14:44:59.964869+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/fe63bd6f39318559c564b85c9a9faa15.jpg",
+    "occhiello": "PRIMO PADIGLIONE GRENADA A VENEZIA",
+    "lead_preview": "Venezia, 27 aprile. Il Padiglione di Grenada alla Biennale Arte di Venezia è stato inaugurato oggi con una mostra che po",
+    "tags": [
+      "biennale arte venezia",
+      "padiglione grenada"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
@@ -3281,24 +3299,6 @@
     "tags": [
       "bce",
       "tassi interesse"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "08e75ef02f509ab0",
-    "slug": "biennale-di-venezia-larte-guarisce-le-ferite-del-m-08e75ef02f509ab0",
-    "title": "Grenada apre il suo primo Padiglione alla Biennale Arte di Venezia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-27T14:44:59.964869+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/fe63bd6f39318559c564b85c9a9faa15.jpg",
-    "occhiello": "IL PADIGLIONE GRENADA DEBUTTA ALLA BIENNALE ARTE DI VENEZIA",
-    "lead_preview": "Venezia, 27 aprile 2026. La poetica della corrispondenza inaugura il percorso espositivo del Padiglione Grenada all’inte",
-    "tags": [
-      "biennale arte venezia",
-      "padiglione grenada"
     ],
     "hero_eligible": true
   },
