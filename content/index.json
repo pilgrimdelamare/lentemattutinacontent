@@ -1,5 +1,23 @@
 [
   {
+    "id": "4a185f214db62a7a",
+    "slug": "ciclismo-elia-viviani-loda-la-forma-degli-italiani-4a185f214db62a7a",
+    "title": "Ciclismo: Viviani vede l'Italia tornare competitiva in Coppa del Mondo con i giovani",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-28T11:01:24.339739+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/26/83a215d28bf7440cf3328367eb5d2e73.jpg",
+    "occhiello": "IL RITIRO DI VIVIANI NON FRENA L'OTTIMISMO SULLA NAZIONALE",
+    "lead_preview": "Roma, 28 aprile 2026. Elia Viviani, ex professionista ritiratosi dalle competizioni nel 2025, traccia un bilancio positi",
+    "tags": [
+      "coppa del mondo ciclismo",
+      "elia viviani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c61aa6e9d38e6fe7",
     "slug": "belve-santarelli-denuncia-un-licenziamento-per-ave-c61aa6e9d38e6fe7",
     "title": "Elena Santarelli: licenziamento forzato da progetto RAI dopo rifiuto cena con esponente tv",
@@ -1052,24 +1070,6 @@
       "calcio",
       "fifa",
       "cartellini gialli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a185f214db62a7a",
-    "slug": "ciclismo-elia-viviani-loda-la-forma-degli-italiani-4a185f214db62a7a",
-    "title": "Ciclismo: Elia Viviani loda la forma degli italiani dopo la Coppa del Mondo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-28T11:01:24.339739+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/26/83a215d28bf7440cf3328367eb5d2e73.jpg",
-    "occhiello": "CRESCITA CICLISTICA CONFERMATA DAI RISULTATI IN COPPA DEL MONDO",
-    "lead_preview": "Roma, 28 aprile 2026. Elia Viviani traccia un bilancio positivo sull'attuale Stato di forma del movimento ciclistico ita",
-    "tags": [
-      "coppa del mondo ciclismo",
-      "elia viviani"
     ],
     "hero_eligible": true
   },
