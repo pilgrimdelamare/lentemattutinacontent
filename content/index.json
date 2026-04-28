@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 28 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-28T05:46:04.617545+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/ec7e5f88e270a08dff5bc5461547d77022ec4eeb/skytg24/it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 28 APRILE 2026",
+    "lead_preview": "La giornata è dominata dalla notizia del caso Minetti e dalla vicenda arbitri, con molti giornali che titolano su questi",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b4c7297c27921ac",
     "slug": "ateez-al-circo-massimo-350mila-euro-per-la-sicurez-9b4c7297c27921ac",
     "title": "Samsung e hyundai versano 350mila euro per sicurezza artisti a roma",
@@ -3928,25 +3947,6 @@
       "commissariamento figc",
       "crisi figc",
       "coni figc"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 27 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-27T05:45:46.774700+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/c4fe743aa4a35ccb277738c1bd08d913469ce417/skytg24/it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile/rassegna27aprile.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 27 APRILE 2026",
-    "lead_preview": "I principali quotidiani italiani si concentrano sulla sparatoria avvenuta durante un gala a Washington con la presenza d",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
