@@ -1,5 +1,23 @@
 [
   {
+    "id": "0f5291297c13780a",
+    "slug": "archivio-giffoni-patrimonio-culturale-0f5291297c13780a",
+    "title": "Giffoni Film Festival: l'archivio di Salerno diventa tesoro nazionale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-28T11:13:51.326210+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/47a6947a4f96d829cc03b6a091a0bbf0.jpg",
+    "occhiello": "L'ARCHIVIO DEL GIFFONI FILM FESTIVAL DIVENTA PATRIMONIO CULTURALE",
+    "lead_preview": "Giffoni Valle Piana, 28 aprile. Il Ministero della Cultura ha ufficialmente riconosciuto l'archivio del Giffoni Film Fes",
+    "tags": [
+      "giffoni film festival",
+      "archivio giffoni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f5f8072d6f345b60",
     "slug": "calcio-atletico-madrid-affronta-larsenal-per-il-po-f5f8072d6f345b60",
     "title": "Calcio: Atletico Madrid affronta l'Arsenal per il posto in finale di Champions",
@@ -986,23 +1004,6 @@
     "tags": [
       "libro poletti",
       "calcio poletti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f5291297c13780a",
-    "slug": "archivio-giffoni-patrimonio-culturale-0f5291297c13780a",
-    "title": "Archivio giffoni patrimonio culturale",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-28T11:13:51.326210+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/47a6947a4f96d829cc03b6a091a0bbf0.jpg",
-    "occhiello": "ARCHIVIO GIFFONI PATRIMONIO CULTURALE",
-    "lead_preview": "Giffoni Valle Piana, 28 aprile.",
-    "tags": [
-      "archivio giffoni"
     ],
     "hero_eligible": true
   },
