@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare crolla per 15 minuti: navigazione in tilt in Europa e Usa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-28T18:49:32.453431+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "IL DNS DI CLOUDFLARE SCENDE PER 15 MINUTI",
+    "lead_preview": "IL DNS DI CLOUDFLARE SCENDE PER 15 MINUTI Roma, 28 aprile. Alle 18:49 di oggi, ora italiana, il servizio DNS globale di ",
+    "tags": [
+      "crollo cloudflare",
+      "disservizio dns",
+      "interruzione internet"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "24dc390e8755b546",
     "slug": "gasolio-governo-taglia-le-accise-di-12-centesimi-a-24dc390e8755b546",
     "title": "Meloni taglia le accise sul gasolio per riscaldamento e trasporti di 12 centesimi al litro",
@@ -489,25 +508,6 @@
       "rafael jodar"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compr",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-28T18:49:32.453431+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE DOWN DA 15 MINUTI",
-    "lead_preview": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compromesso, con impatto su milioni di siti w",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "8a66201ec18fa3cc",
