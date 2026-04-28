@@ -1,5 +1,23 @@
 [
   {
+    "id": "a8ae513882e32998",
+    "slug": "temporali-colpiscono-il-nord-il-centro-sud-resta-c-a8ae513882e32998",
+    "title": "Temporali colpiscono il Nord: il Centro-Sud resta caldo",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-04-28T23:42:11.226059+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/28/221657317-b9a6fe3c-c1d9-44cf-b27d-0b3696cf4ce3.jpg",
+    "occhiello": "ITALIA SPACCATA IN DUE PRIMA DEL 1° MAGGIO",
+    "lead_preview": "ITALIA SPACCATA IN DUE PRIMA DEL 1° MAGGIO Roma, 29 aprile. Il Nord è interessato da temporali provenienti dai Balcani, ",
+    "tags": [
+      "temporali nord",
+      "primavera calda"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "98e89d66b97642a1",
     "slug": "ue-approva-bozza-accordo-mercosur-via-il-91-dei-da-98e89d66b97642a1",
     "title": "UE approva bozza accordo Mercosur: via il 91% dei dazi su prodotti agricoli",
@@ -8729,21 +8747,6 @@
       "cambio fornitore energia",
       "bollette luce e gas"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5361946016166fe9",
-    "slug": "calcio-chivu-studia-il-torino-i-bilanci-nerazzurri-5361946016166fe9",
-    "title": "Calcio: Inter, Chivu in tribuna con auricolare per guidare Inzaghi in tempo reale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-25T09:31:46.074537+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/504161e81168493fa53be57fd19835df4330e00b/skysport/it/calcio/serie-a/video/2026/04/25/1092791_1777108169653_thumb_494.0000001_1777108483103.jpg",
-    "occhiello": "CHIVU IN TRIBUNA CON AURICOLARE PER CORREGGERE INZAGHI",
-    "lead_preview": "Milano, 25 aprile 2026. L’Inter si prepara alla trasferta contro il Torino con Cristian Chivu incaricato di supervisiona",
-    "tags": [],
     "hero_eligible": true
   }
 ]
