@@ -1,5 +1,20 @@
 [
   {
+    "id": "f2d52a1a76e2ff62",
+    "slug": "premio-elsa-morante-a-napoli-titti-marrone-e-giova-f2d52a1a76e2ff62",
+    "title": "Premio Elsa Morante al Teatro Diana: Titti Marrone e Giovanni Taranto trionfano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-28T11:48:01.904110+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/c155141c5d9b4907071f52aa5b8a8fd1.jpg",
+    "occhiello": "PREMIO ELSA MORANTE ASSEGNATO A TITTI MARRONE E GIOVANNI TARANTO",
+    "lead_preview": "Napoli, 28 aprile 2026 – Il premio Elsa Morante Narrativa viene assegnato a Titti Marrone per l'opera Primmammore, mentr",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1c578e3351a51b28",
     "slug": "reggio-emilia-licarus-ensemble-porta-ravel-sul-pal-1c578e3351a51b28",
     "title": "Reggio Emilia: L'Icarus Ensemble porta Ravel sul palco del Festival Aperto",
@@ -972,25 +987,6 @@
       "zubin mehta 90",
       "mehta anti netanyahu",
       "politica israele musica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f2d52a1a76e2ff62",
-    "slug": "premio-elsa-morante-a-napoli-titti-marrone-e-giova-f2d52a1a76e2ff62",
-    "title": "Premio Elsa Morante a Napoli: Titti Marrone e Giovanni Taranto trionfano al Diana",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-28T11:48:01.904110+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/c155141c5d9b4907071f52aa5b8a8fd1.jpg",
-    "occhiello": "PREMI LETTERARI IN CERIMONIA AL TEATRO DIANA DI NAPOLI",
-    "lead_preview": "Napoli, 28 aprile 2026. Il premio Elsa Morante Narrativa viene assegnato a Titti Marrone per l'opera Primmammore, second",
-    "tags": [
-      "premio elsa morante",
-      "titti marrone",
-      "primmammore"
     ],
     "hero_eligible": true
   },
