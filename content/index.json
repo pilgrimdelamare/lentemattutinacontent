@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Blackout di Claude per 71 minuti: l'AI di Anthropic crolla senza spiegazioni",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-04-28T19:00:20.355308+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "ANTHROPIC CONFERMA UN OUTAGE DI 71 MINUTI",
+    "lead_preview": "San Francisco, 28 aprile. Il modello di intelligenza artificiale Claude di Anthropic è stato offline per 71 minuti, dall",
+    "tags": [
+      "blackout claude"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0f5291297c13780a",
     "slug": "archivio-giffoni-patrimonio-culturale-0f5291297c13780a",
     "title": "Il Ministero della Cultura tutela l'archivio del Giffoni Film Festival come bene nazionale",
@@ -438,25 +455,6 @@
       "taglia tasse"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-28T19:00:20.355308+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RISOLTO.",
-    "lead_preview": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripristinato e funziona regolarmente.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "e10ebb8c76fdf7ca",
