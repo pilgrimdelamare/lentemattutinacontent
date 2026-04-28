@@ -1,5 +1,22 @@
 [
   {
+    "id": "b5b68b3244ef55b9",
+    "slug": "pompei-lia-svela-lagonia-di-un-fuggiasco-del-vesuv-b5b68b3244ef55b9",
+    "title": "Un ricordo dal passato rivivi in tempo reale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-27T09:28:50.695232+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/11/36a08619126b6edfa7160e13c8512d34.jpg",
+    "occhiello": "UN RICORDO DAL PASSATO RIVIVI IN TEMPO REALE",
+    "lead_preview": "Pompei, 27 aprile 2026. Un uomo vittima dell'eruzione del Vesuvio nel 79 d.C. È stato identificato grazie all'intelligen",
+    "tags": [
+      "eruzione vesuvio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e28d5f67f7600e1a",
     "slug": "openai-crea-lia-che-sostituisce-luomo-nel-lavoro-e-e28d5f67f7600e1a",
     "title": "OpenAI ridefinisce i propri principi guida sull'IA generativa",
@@ -2527,25 +2544,6 @@
       "trump iran",
       "dialogo bloccato",
       "attivita nucleare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b5b68b3244ef55b9",
-    "slug": "pompei-lia-svela-lagonia-di-un-fuggiasco-del-vesuv-b5b68b3244ef55b9",
-    "title": "Un uomo di Pompei muore nel 79 d.C.: l'IA ricostruisce la sua fuga in tempo reale",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-27T09:28:50.695232+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/11/36a08619126b6edfa7160e13c8512d34.jpg",
-    "occhiello": "",
-    "lead_preview": "Pompei, 27 aprile 2026. Un uomo vittima dell'eruzione del Vesuvio nel 79 d.C. È stato identificato nei suoi ultimi istan",
-    "tags": [
-      "morte pompei",
-      "eruzione vesuvio",
-      "ia ricostruisce fuga"
     ],
     "hero_eligible": true
   },
