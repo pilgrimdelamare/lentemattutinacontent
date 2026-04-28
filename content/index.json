@@ -1,5 +1,23 @@
 [
   {
+    "id": "42bb9001b0395c3e",
+    "slug": "leonardo-vola-sp-conferma-rating-bbb-e-sposta-lout-42bb9001b0395c3e",
+    "title": "Leonardo vola: S&P conferma rating BBB+ e sposta l'outlook a positivo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-28T14:55:15.554176+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/5cae930378a3f15aebe9b3e38e4ec4c4.jpg",
+    "occhiello": "STANDARD & POOR'S SORRIDE A LEONARDO",
+    "lead_preview": "Roma, 28 aprile. La società guidata da Roberto Cingolani ottiene il bollino blu dell'agenzia di rating: S&P conferma il ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57687bc1f523e4a6",
     "slug": "coni-boccia-il-commissariamento-figc-malago-non-so-57687bc1f523e4a6",
     "title": "CONI boccia il commissariamento FIGC: Malagò, 'non sono uno sceriffo'",
@@ -8665,21 +8683,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260425",
-    "slug": "libro-del-giorno-buiodi-vera-buck-20260425",
-    "title": "Roma, Festival Letterario al collasso: Satta presenta il libro senza fondi!",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-25T07:00:22.370763+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/IMG/logo/61t693yvo8l__sl1417_.jpg?1776321041",
-    "occhiello": "FONDI SCOMPARSI DOPO IL VOTO PER L'EVENTO LETTERARIO",
-    "lead_preview": "Alessandro Satta ha presentato a Roma il thriller psicologico \"Buiodi Vera Buck\" alla Festa della Letteratura di Roma (F",
-    "tags": [],
     "hero_eligible": true
   }
 ]
