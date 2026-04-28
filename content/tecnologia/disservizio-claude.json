@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *",
+  "title": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
   "titles": [
-    "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *",
-    "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *",
-    "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *"
+    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
+    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
+    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, FACTUAL (CLAUDE DOWN, WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM IF PAYMENT-RELATED - THOUGH CLAUDE IS PRIMARILY AN AI, I SHOULD FOCUS ON THE SERVICE INTERRUPTION), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE (4 WORDS) - OK.\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE DA CIRCA 15 MINUTI. IL DISSERVIZIO COLPISCE L'INTERA UTENZA, INCLUSI I PROFESSIONISTI E GLI SVILUPPATORI ITALIANI CHE DIPENDONO DALL'INTELLIGENZA ARTIFICIALE PER LE ATTIVITÀ QUOTIDIANE. (31 WORDS) - OK.\n    *   *CORPO1:* IL SISTEMA HA RILEVATO UN'INTERRUZIONE TOTALE DELLA CONNETTIVITÀ VERSO I SERVER DI ANTHROPIC A PARTIRE DALLE ORE 10:45. L'ACCESSO ALL'INTERFACCIA CHAT È BLOCCATO E LE CHIAMATE API RESTITUISCONO ERRORI DI TIMEOUT. QUESTO BLACKOUT IMPEDISCE LA GENERAZIONE DI CONTENUTI E L'ANALISI DI DOCUMENTI IN TEMPO REALE, PARALIZZANDO I FLUSSI DI LAVORO AUTOMATIZZATI. PER GLI UTENTI IN ABBONAMENTO PRO, IL SERVIZIO A PAGAMENTO RISULTA TOTALMENTE INUTILIZZABILE NONOSTANTE IL RINNOVO ATTIVO. IL MALFUNZIONAMENTO SEMBRA ESSERE DI NATURA INFRASTRUTTURALE. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   CHECK FOR MARKDOWN: NONE.\n    *   CHECK FOR ASTERISKS: NONE.\n    *   CHECK FOR RHETORICAL QUESTIONS: NONE.\n    *   CHECK FOR CAPS IN ``: YES.\n    *   CHECK FOR WORD COUNTS:\n        *   OCCHIELLO: 4 WORDS (ALERT TECNICO: CLAUDE NON RISPONDE",
-  "lead": "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *   ``: 80-100 words, details (what's happening, start time, compromised features, practical problem if payment-related - though Claude is primarily an AI, I should focus on the service interruption), end with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown (no bold, italics, etc.).\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE (4 words) - OK.\n    *   *Lead:* Claude è attualmente irraggiungibile da circa 15 minuti. Il disservizio colpisce l'intera utenza, inclusi i professionisti e gli sviluppatori italiani che dipendono dall'intelligenza artificiale per le attività quotidiane. (31 words) - OK.\n    *   *Corpo1:* Il sistema ha rilevato un'interruzione totale della connettività verso i server di Anthropic a partire dalle ore 10:45. L'accesso all'interfaccia chat è bloccato e le chiamate API restituiscono errori di timeout. Questo blackout impedisce la generazione di contenuti e l'analisi di documenti in tempo reale, paralizzando i flussi di lavoro automatizzati. Per gli utenti in abbonamento Pro, il servizio a pagamento risulta totalmente inutilizzabile nonostante il rinnovo attivo. Il malfunzionamento sembra essere di natura infrastrutturale. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Check for markdown: None.\n    *   Check for asterisks: None.\n    *   Check for rhetorical questions: None.\n    *   Check for caps in ``: Yes.\n    *   Check for word counts:\n        *   Occhiello: 4 words (ALERT TECNICO: CLAUDE NON RISPONDE\n    Claude è attualmente irraggiungibile da circa 15 minuti. Il disservizio colpisce l'intera utenza, inclusi i professionisti e gli sviluppatori italiani che dipendono dall'intelligenza artificiale per le attività quotidiane.",
-  "corpo1": "`: 80-100 words, details (what's happening, start time, compromised features, practical problem if payment-related - though Claude is primarily an AI, I should focus on the service interruption), end with \"Stiamo monitorando la situazione.\"\n\n        *   Correct Italian.\n        *   Zero markdown (no bold, italics, etc.).\n        *   Zero asterisks.\n        *   Technical-alarmist tone.\n        *   No rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE (4 words) - OK.\n    *   *Lead:* Claude è attualmente irraggiungibile da circa 15 minuti. Il disservizio colpisce l'intera utenza, inclusi i professionisti e gli sviluppatori italiani che dipendono dall'intelligenza artificiale per le attività quotidiane. (31 words) - OK.\n    *   *Corpo1:* Il sistema ha rilevato un'interruzione totale della connettività verso i server di Anthropic a partire dalle ore 10:45. L'accesso all'interfaccia chat è bloccato e le chiamate API restituiscono errori di timeout. Questo blackout impedisce la generazione di contenuti e l'analisi di documenti in tempo reale, paralizzando i flussi di lavoro automatizzati. Per gli utenti in abbonamento Pro, il servizio a pagamento risulta totalmente inutilizzabile nonostante il rinnovo attivo. Il malfunzionamento sembra essere di natura infrastrutturale. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Check for markdown: None.\n    *   Check for asterisks: None.\n    *   Check for rhetorical questions: None.\n    *   Check for caps in ``: Yes.\n    *   Check for word counts:\n        *   Occhiello: 4 words (ALERT TECNICO: CLAUDE NON RISPONDE\n    Claude è attualmente irraggiungibile da circa 15 minuti. Il disservizio colpisce l'intera utenza, inclusi i professionisti e gli sviluppatori italiani che dipendono dall'intelligenza artificiale per le attività quotidiane.\n    Il sistema ha rilevato un'interruzione totale della connettività verso i server di Anthropic a partire dalle ore 10:45. L'accesso all'interfaccia chat è bloccato e le chiamate API restituiscono errori di timeout. Questo blackout impedisce la generazione di contenuti e l'analisi di documenti in tempo reale, paralizzando i flussi di lavoro automatizzati. Per gli utenti in abbonamento Pro, il servizio a pagamento risulta totalmente inutilizzabile nonostante il rinnovo attivo. Il malfunzionamento sembra essere di natura infrastrutturale. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RISOLTO.",
+  "lead": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripristinato e funziona regolarmente.",
+  "corpo1": "Il problema è iniziato alle ore 06:00, quando Claude ha registrato un'anomalia tecnica. Dopo 71 minuti di disservizio, il team di manutenzione è riuscito a risolvere il problema e ripristinare il funzionamento normale del sistema. Claude è ora disponibile e funziona regolarmente. Il team di manutenzione è impegnato per garantire la stabilità e la sicurezza del sistema.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-28T18:03:48.185839+00:00",
+  "published_at": "2026-04-28T19:00:20.355308+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,25 +38,25 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
+      "title": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compr",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
       "title": "Microsoft taglia del 30% i profitti richiesti a Xbox per frenare i licenziamenti",
       "url": "/tecnologia/microsoft-gaming-scompare-in-xbox-centralizza-tutt-031cf96fa15e13fe",
       "id": "031cf96fa15e13fe",
       "image_url": "https://images.unsplash.com/photo-1758641682181-1a817db17df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBHYW1pbmclMjBkaXZpc2lvbiUyMGNvcnBvcmF0ZSUyMG9mZmljZXxlbnwwfDB8fHwxNzc3MzcwODIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "image_type": "unsplash"
-    },
-    {
-      "title": "OpenAI crea lo smartphone nativo per l'IA: addio alle app tradizionali",
-      "url": "/tecnologia/addio-app-openai-crea-lo-smartphone-gestito-intera-9a5cb053042d9dc3",
-      "id": "9a5cb053042d9dc3",
-      "image_url": "https://media-assets.wired.it/photos/69f04d4ab76da742ce9d1c4c/16:9/w_1280,c_limit/2271722472",
-      "image_type": "image"
-    },
-    {
-      "title": "Apple punta sull'iPhone nostalgia: nel 2027 vent'anni di storia in un nuovo modello",
-      "url": "/tecnologia/apple-lancia-iphone-20-con-display-oled-6b63b2731c3fbcbd",
-      "id": "6b63b2731c3fbcbd",
-      "image_url": "https://media-assets.wired.it/photos/69ee76517bb336c9ac71301f/16:9/w_1280,c_limit/2263889003",
-      "image_type": "image"
     }
   ],
   "hero_eligible": false
