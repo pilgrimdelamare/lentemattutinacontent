@@ -1,5 +1,22 @@
 [
   {
+    "id": "7d5a9ed35e12b7fc",
+    "slug": "due-treni-si-scontrano-in-indonesia-14-morti-e-84-7d5a9ed35e12b7fc",
+    "title": "Terrore a Giacarta: scontro tra treni a Cikarang fa 14 morti e 84 feriti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-28T04:41:49.900699+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/4d7ae6930fa35943198c3c2eba460e72.jpg",
+    "occhiello": "TRAGEDIA FERROVIARIA A GIACARTA",
+    "lead_preview": "Jakarta, 28 aprile. Due treni si sono scontrati a Cikarang, a est di Giacarta, provocando la morte di 14 persone e 84 fe",
+    "tags": [
+      "scontro treni giacarta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1a3675642b729502",
     "slug": "basket-schio-conquista-14-scudetto-in-finale-al-ca-1a3675642b729502",
     "title": "Pallavolo: Schio conquista il 14° scudetto sconfiggendo Venezia",
@@ -1018,24 +1035,6 @@
       "poligrafico foggia",
       "targhe monopattini",
       "ministero interno"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7d5a9ed35e12b7fc",
-    "slug": "due-treni-si-scontrano-in-indonesia-14-morti-e-84-7d5a9ed35e12b7fc",
-    "title": "Due treni si scontrano in Indonesia: 14 morti e 84 feriti, sotto inchiesta Prabowo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-28T04:41:49.900699+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/4d7ae6930fa35943198c3c2eba460e72.jpg",
-    "occhiello": "SCONTRO TRA TRENI IN INDONESIA: 14 MORTI, 84 FERITI",
-    "lead_preview": "Jakarta, 28 aprile 2026. Un tragico incidente ferroviario ha colpito le periferie di Giacarta, uccidendo 14 persone e fe",
-    "tags": [
-      "incidente treni indonesia",
-      "inchiesta prabowo"
     ],
     "hero_eligible": true
   },
