@@ -1,5 +1,24 @@
 [
   {
+    "id": "24dc390e8755b546",
+    "slug": "gasolio-governo-taglia-le-accise-di-12-centesimi-a-24dc390e8755b546",
+    "title": "Gasolio: governo taglia le accise di 12 centesimi a litro",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-28T19:11:21.523018+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/8f1324b705e51f967c20139fcf0aa026.jpg",
+    "occhiello": "IL GOVERNO TAGLIA LE ACCISE SOLO A CHI USA IL GASOLIO",
+    "lead_preview": "Roma, 28 aprile Il governo taglia le accise sul carburante, ma solo per chi utilizza il gasolio. Non per la benzina. Non",
+    "tags": [
+      "gasolio",
+      "accise",
+      "taglia tasse"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
@@ -8691,25 +8710,6 @@
       "concerto donizetti",
       "san carlo napoli",
       "fischi pubblico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b013bd312f92c51d",
-    "slug": "miliardi-di-euro-dai-data-center-le-pmi-italiane-r-b013bd312f92c51d",
-    "title": "Data center esteri assorbono il 5,4% dell'energia Italiana, Lombardia sotto pressione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-25T09:03:56.162415+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/4e1b97b98fca12dfb4b3072fea35ef1c.jpg",
-    "occhiello": "FONDI STRANIERI IN LOMBARDIA: L'ENERGIA DEI DATA CENTER",
-    "lead_preview": "Roma, 25 aprile 2026. I data center gestiti da soggetti esteri assorbono una quota significativa dell'energia Italiana, ",
-    "tags": [
-      "data center esteri",
-      "energia lombardia",
-      "investimenti stranieri"
     ],
     "hero_eligible": true
   }
