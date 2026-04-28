@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 27 aprile 2026",
+  "title": "Le prime pagine di oggi, martedì 28 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 27 aprile 2026",
-    "Le prime pagine di oggi, lunedì 27 aprile 2026",
-    "Le prime pagine di oggi, lunedì 27 aprile 2026"
+    "Le prime pagine di oggi, martedì 28 aprile 2026",
+    "Le prime pagine di oggi, martedì 28 aprile 2026",
+    "Le prime pagine di oggi, martedì 28 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 27 APRILE 2026",
-  "lead": "I principali quotidiani italiani si concentrano sulla sparatoria avvenuta durante un gala a Washington con la presenza di Donald Trump, evento che domina le aperture di più testate. Alcuni giornali approfondiscono il contesto politico e mediatico dell’episodio, mentre altri dedicano spazio a temi economici e sportivi. Le cronache dall’Iran e le polemiche arbitrali nel calcio italiano compaiono in diversi giornali, così come richiami a temi fiscali e tecnologici.",
-  "corpo1": "La Repubblica apre con “Spari alla cena con Trump”, affiancato dall’editoriale “Assedio alla verità”, e dedica spazio ai dubbi circolati online e a un’intervista a Richard Ford. Il Corriere della Sera titola “Trump, cena con sparatoria” e include il commento “L’America dell’odio”, oltre a un focus sull’attentato definito “diverso dagli altri”, e riporta le tensioni tra Anpi e Brigata ebraica. Sky TG24 dà ampio rilievo a “Terzo agguato a Trump nell’America dell’odio” e al commento “La parabola Donald vittima di sé stesso”, con approfondimenti sulla guerra in Iran e sullo sport. Il Giornale apre con “Trump sotto tiro”, inserendo la lettera di Cole, analisi sul complotto e valutazioni sull’effetto elettorale, mentre in alto parla del sistema arbitri sotto inchiesta. Il Sole 24 Ore titola “Imprese, ai vertici il 15% è sopra i 70 anni”, con richiami a fisco e cripto-attività. Tuttosport apre con “Inter è tuo” e la rimonta del Torino, inserendo anche il record di Sawe nella maratona e un aggiornamento sulla MotoGp.",
-  "corpo2": "In alcune prime pagine compaiono temi secondari come il richiamo al 730 e ai documenti digitali, il dibattito sugli arbitri in Serie A, e la guerra in Iran. La data del 25 aprile è presente in alcuni richiami promozionali. Il tema dominante della giornata è la sicurezza degli eventi politici e mediatici negli Stati Uniti.",
+  "occhiello": "LE PRIME PAGINE 28 APRILE 2026",
+  "lead": "La giornata è dominata dalla notizia del caso Minetti e dalla vicenda arbitri, con molti giornali che titolano su questi due argomenti. Il Corriere della Sera e La Repubblica convergono su entrambi i temi, mentre Il Fatto Quotidiano si concentra sullo scandalo Minetti. Gazzetta dello Sport e La Gazzetta Italiana titolano invece sul calcio e l'inchiesta arbitri. La Stampa e il Sole 24 Ore trattano anche la visita del reale britannico in America. Il Post e il quotidiano torinese titolano su argomenti diversi.",
+  "corpo1": "Il Corriere della Sera titola \"Minetti, il caso Colle-Nordio\" con la notizia della grazia all'ex igienista dentale e la richiesta di verifiche urgenti del Quirinale. La Repubblica converge su questo tema con \"Grazia, il Quirinale contro Nordio\". Il Fatto Quotidiano si concentra su \"Grazia e disgrazia\" con la notizia della lettera del Colle al ministero di Giustizia. Gazzetta dello Sport titola invece \"Il calcio in bilico\" con l'inchiesta arbitri e la notizia che l'Inter non è coinvolta. La Gazzetta Italiana converge su questo tema con \"Nessun club è indagato\". La Stampa titola \"Re Carlo d'America\" con la visita del reale britannico in America. Il Sole 24 Ore trattato anch'esso la visita del sovrano britannico con \"Re Carlo negli Usa\".",
+  "corpo2": "Altro titolo di rilievo è \"Hormuz, i dubbi Usa sull'offerta dell'Iran\" su La Repubblica, che si occupa della vicenda in Medio Oriente. Il quotidiano torinese titola invece \"Jessica fugge e spintona i ragazzi\" con la ricostruzione esclusiva della vicenda di Crans-Montana. La Stampa e il Sole 24 Ore trattano anche la visita del reale britannico in America.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-27T05:45:46.774700+00:00",
+  "published_at": "2026-04-28T05:46:04.617545+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/c4fe743aa4a35ccb277738c1bd08d913469ce417/skytg24/it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile/rassegna27aprile.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/ec7e5f88e270a08dff5bc5461547d77022ec4eeb/skytg24/it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile/collage_hero.jpg?im=Resize,width=375",
     "source": "25 aprile 2026",
     "credit": "Prima pagina — 25 aprile 2026",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/27/prime-pagine-quotidiani-oggi-27-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 27 aprile 2026",
+      "title": "Oroscopo di oggi, martedì 28 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Epstein, 6 milioni di pagine rivelano nomi del potere",
-      "url": "/esteri/audit-dellispettore-generale-dipartimento-di-giust-4f1fbbc6b857ae50",
-      "id": "4f1fbbc6b857ae50",
-      "image_url": "https://i.guim.co.uk/img/media/5b5e03d03c792b55f0966a0e90e191c553e5685c/0_0_4167_3335/master/4167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86ba22d94a4f218ca219d1fb53c00c",
+      "title": "Nicolas Cage entra nel catalogo Prime Video",
+      "url": "/cultura/nicolas-cage-veste-i-panni-di-spider-noir-nella-nu-203f97082acf09e4",
+      "id": "203f97082acf09e4",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/8c3cd25103bcd774c312ad64ca24c57a.jpg",
       "image_type": "image"
     },
     {
-      "title": "Elon Musk contro Sam Altman: 15 miliardi al centro della battaglia sull'IA a Oakland",
-      "url": "/tecnologia/musk-contro-altman-a-oakland-processo-su-openai-da-4e7454163d9535d1",
-      "id": "4e7454163d9535d1",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/26/210127692-bb9e9a4c-6b04-447b-9d56-c98de9ae8955.jpg",
+      "title": "Carmen Russo sbarca su Prime Video in La sobrietà tra i soliti volti noti",
+      "url": "/cultura/carmen-russo-entra-nel-mockumentary-la-sobrieta-su-77f3e695f04a3d93",
+      "id": "77f3e695f04a3d93",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/5939b1c3de96c976d424c233a446698a.jpg",
       "image_type": "image"
     }
   ],
