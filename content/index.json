@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-28T19:00:20.355308+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RISOLTO.",
+    "lead_preview": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripristinato e funziona regolarmente.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "e10ebb8c76fdf7ca",
     "slug": "tennis-sinner-sfida-jodar-a-madrid-per-un-posto-in-e10ebb8c76fdf7ca",
     "title": "Tennis: Jodar, 18 anni, spazza via tre top 20 e scrive la storia a Madrid",
@@ -184,25 +203,6 @@
       "attacchi beirut"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-28T18:03:48.185839+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, FACTUAL (CLAUDE DOWN, WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM IF PAYMENT-RELATED - THOUGH CLAUDE IS PRIMARILY AN AI, I SHOULD FOCUS ON THE SERVICE INTERRUPTION), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE (4 WORDS) - OK.\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE DA CIRCA 15 MINUTI. IL DISSERVIZIO COLPISCE L'INTERA UTENZA, INCLUSI I PROFESSIONISTI E GLI SVILUPPATORI ITALIANI CHE DIPENDONO DALL'INTELLIGENZA ARTIFICIALE PER LE ATTIVITÀ QUOTIDIANE. (31 WORDS) - OK.\n    *   *CORPO1:* IL SISTEMA HA RILEVATO UN'INTERRUZIONE TOTALE DELLA CONNETTIVITÀ VERSO I SERVER DI ANTHROPIC A PARTIRE DALLE ORE 10:45. L'ACCESSO ALL'INTERFACCIA CHAT È BLOCCATO E LE CHIAMATE API RESTITUISCONO ERRORI DI TIMEOUT. QUESTO BLACKOUT IMPEDISCE LA GENERAZIONE DI CONTENUTI E L'ANALISI DI DOCUMENTI IN TEMPO REALE, PARALIZZANDO I FLUSSI DI LAVORO AUTOMATIZZATI. PER GLI UTENTI IN ABBONAMENTO PRO, IL SERVIZIO A PAGAMENTO RISULTA TOTALMENTE INUTILIZZABILE NONOSTANTE IL RINNOVO ATTIVO. IL MALFUNZIONAMENTO SEMBRA ESSERE DI NATURA INFRASTRUTTURALE. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   CHECK FOR MARKDOWN: NONE.\n    *   CHECK FOR ASTERISKS: NONE.\n    *   CHECK FOR RHETORICAL QUESTIONS: NONE.\n    *   CHECK FOR CAPS IN ``: YES.\n    *   CHECK FOR WORD COUNTS:\n        *   OCCHIELLO: 4 WORDS (ALERT TECNICO: CLAUDE NON RISPONDE",
-    "lead_preview": "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *   ``: 80-100 words, details (what's hap",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "57687bc1f523e4a6",
