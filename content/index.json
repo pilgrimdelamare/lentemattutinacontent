@@ -1,5 +1,24 @@
 [
   {
+    "id": "c7d1a1405f806d37",
+    "slug": "amazzoni-di-gribaudi-debutta-a-moncalieri-danza-ch-c7d1a1405f806d37",
+    "title": "Piero Gribaudi rivoluziona la danza: domani debutta 'Amazzoni' a Moncalieri",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-27T17:53:44.514125+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/eec4225735d51df5a25fad157656358d.jpg",
+    "occhiello": "PIERO GRIBAUDI SBARCA NELLA DANZA CONTEMPORANEA ALLE FONDERIE LIMONE",
+    "lead_preview": "Moncalieri, 27 aprile. Il 5 maggio alle Fonderie Limone di Moncalieri debutta \"Amazzoni\", nuova produzione della casa ed",
+    "tags": [
+      "danza contemporanea",
+      "fonderie limone",
+      "amazzoni piero gribaudi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, martedì 28 aprile 2026",
@@ -2546,25 +2565,6 @@
       "szczęsny juventus",
       "milan juventus",
       "serie a 2025"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c7d1a1405f806d37",
-    "slug": "amazzoni-di-gribaudi-debutta-a-moncalieri-danza-ch-c7d1a1405f806d37",
-    "title": "Piero Gribaudi sbarca nella danza contemporanea con 'Amazzoni' alle Fonderie Limone",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-27T17:53:44.514125+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/eec4225735d51df5a25fad157656358d.jpg",
-    "occhiello": "DEBUTTO A MONCALIERI DELLA NUOVA PRODUZIONE DI GRIBAUDI",
-    "lead_preview": "Moncalieri, 27 aprile. Il 5 maggio alle Fonderie Limone di Moncalieri debutterà Amazzoni, nuova produzione della casa ed",
-    "tags": [
-      "danza contemporanea",
-      "moncalieri",
-      "piero gribaudi"
     ],
     "hero_eligible": true
   },
