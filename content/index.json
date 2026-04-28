@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compr",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-28T18:49:32.453431+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE DOWN DA 15 MINUTI",
+    "lead_preview": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compromesso, con impatto su milioni di siti w",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8a66201ec18fa3cc",
     "slug": "il-collegio-di-garanzia-del-coni-decide-sul-caso-z-8a66201ec18fa3cc",
     "title": "Roma: il Collegio di Garanzia del Coni decide in 48 ore se annullare i due punti di penalità",
@@ -8691,25 +8710,6 @@
       "data center esteri",
       "energia lombardia",
       "investimenti stranieri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ebae14c166b0f40",
-    "slug": "schlein-sbarca-a-santanna-di-stazzema-per-lomaggio-9ebae14c166b0f40",
-    "title": "Elly Schlein canta Bella ciao a Sant'Anna di Stazzema tra le vittime della strage",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-25T09:04:01.675583+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/3c510f3253d5f69f98512ff20535f9d2.jpg",
-    "occhiello": "SCHLEIN CANTA BELLA CIAO MENTRE MELONI EVITA L'ANPI",
-    "lead_preview": "Sant'Anna di Stazzema, 25 aprile 2026. Elly Schlein, segretaria del Partito Democratico, ha reso omaggio alle 560 vittim",
-    "tags": [
-      "schlein canta bella ciao",
-      "strage santanna",
-      "25 aprile 2026"
     ],
     "hero_eligible": true
   }
