@@ -1,5 +1,23 @@
 [
   {
+    "id": "5a6966d210d99017",
+    "slug": "beirut-sotto-i-droni-due-militari-feriti-e-le-vitt-5a6966d210d99017",
+    "title": "Beirut sotto i droni: due militari feriti e le vittime totali superano",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-28T18:04:20.237541+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/f540f1902a4347b474940a7a6341d44d.jpg",
+    "occhiello": "ISRAELE COLPISCE A BEIRUT DUE SOLDATI",
+    "lead_preview": "Beirut, 28 aprile — due militari libanesi sono stati feriti in un attacco aereo israeliano nella zona di Bourj Hammoud, ",
+    "tags": [
+      "conflitto israele libano",
+      "attacchi beirut"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "`: Max 40 words, factual (Claude down, when, impact on Italian users).\n        *",
@@ -8682,24 +8700,6 @@
       "albo geremia cerri",
       "inquinamento marino",
       "viaggio di tea"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eef54eb11b88e074",
-    "slug": "il-sindaco-di-palermo-diventa-nuovo-bersaglio-poli-eef54eb11b88e074",
-    "title": "Palermo, i cittadini contestano Lagalla: urla e striscioni contro il Sindaco",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-25T08:13:54.105688+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/17/36f20a8c025108d600549eb13ba0bfed.jpg",
-    "occhiello": "SINDACO DI PALERMO PROTESTATO: 25 APRILE, UNA TERRA DI SCONTRO",
-    "lead_preview": "Palermo, 25 aprile — Durante la cerimonia di commemorazione del 25 aprile, il Sindaco Roberto Lagalla è stato contestato",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
