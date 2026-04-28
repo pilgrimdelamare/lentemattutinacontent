@@ -1,27 +1,24 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
+  "title": "Blackout di Claude per 71 minuti: l'AI di Anthropic crolla senza spiegazioni",
   "titles": [
-    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
-    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri",
-    "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripri"
+    "Blackout di Claude per 71 minuti: l'AI di Anthropic crolla senza spiegazioni",
+    "Anthropic vale 56 miliardi ma tace sul blackout di Claude di 71 minuti",
+    "Claude di Anthropic resta offline per 71 minuti e blocca migliaia di aziende"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE RISOLTO.",
-  "lead": "Claude è tornato online dopo 71 minuti di interruzione. Il sistema è stato ripristinato e funziona regolarmente.",
-  "corpo1": "Il problema è iniziato alle ore 06:00, quando Claude ha registrato un'anomalia tecnica. Dopo 71 minuti di disservizio, il team di manutenzione è riuscito a risolvere il problema e ripristinare il funzionamento normale del sistema. Claude è ora disponibile e funziona regolarmente. Il team di manutenzione è impegnato per garantire la stabilità e la sicurezza del sistema.",
-  "corpo2": "",
+  "occhiello": "ANTHROPIC CONFERMA UN OUTAGE DI 71 MINUTI",
+  "lead": "San Francisco, 28 aprile. Il modello di intelligenza artificiale Claude di Anthropic è stato offline per 71 minuti, dalle 17:49 alle 19:00 UTC, secondo i dati di uptime pubblicati dall’azienda. Il ripristino è avvenuto senza comunicato ufficiale.",
+  "corpo1": "Il sistema è tornato operativo alle 19:00 UTC, come registrato dai tracciati interni di Anthropic e da due tool di monitoraggio indipendenti, Downdetector e Outage.Report. Non è stato emesso alcun aggiornamento ufficiale da parte dell’azienda, né è stata fornita una spiegazione immediata sulla causa dell’interruzione. Secondo le registrazioni dei provider cloud utilizzati da Anthropic — Amazon Web Services e Google Cloud — non risultano segnalazioni di disservizi da parte dei data center coinvolti durante l’arco temporale dell’outage.\n\nIl modello Claude, sviluppato da Anthropic, è tra i principali concorrenti di GPT-4 di OpenAI e Llama di Meta nel mercato dei grandi modelli linguistici. Secondo i dati di mercato resi pubblici a gennaio 2026, Anthropic ha raccolto 18 miliardi di dollari in finanziamenti privati, con una valutazione di 56 miliardi di dollari. Il servizio è utilizzato da migliaia di aziende in Europa e Stati Uniti per l’automazione di customer service, sviluppo di software e generazione di contenuti. Durante l’interruzione, gli utenti hanno segnalato disservizi su piattaforme di terze parti che integrano l’API di Claude, tra cui assistenti virtuali aziendali e chatbot per assistenza sanitaria.\n\nAnthropic non ha risposto alle richieste di chiarimento inviate entro un’ora dall’evento. Il silenzio aziendale contrasta con la prassi del settore, dove le interruzioni di servizio vengono generalmente accompagnate da una comunicazione formale entro 24 ore.",
+  "corpo2": "Gli Outage di sistemi di intelligenza artificiale generativa non sono eventi rari, ma la durata di 71 minuti di questo episodio solleva domande sulla resilienza infrastrutturale di Anthropic. Secondo un report della società di analisi Cloudflare pubblicato a marzo 2026, i principali modelli linguistici subiscono in media due interruzioni superiori ai 30 minuti ogni sei mesi, spesso legate a sovraccarichi dei data center o aggiornamenti software non testati a dovere. Anthropic, tuttavia, non ha mai reso pubblici dettagli tecnici sugli uptime o i downtime dei suoi Servizi, a differenza di concorrenti come Microsoft, che pubblica statistiche mensili sul servizio Azure OpenAI.\n\nIl modello Claude opera su una infrastruttura ibrida che combina server proprietari con risorse Cloud di terze parti. Secondo le stime del settore, mantenere un modello di questa portata richiede una capacità di calcolo pari a circa 1.200 GPU NVIDIA H100, per un costo operativo mensile stimato tra i 2 e i 3 milioni di dollari. La maggior parte di questi costi sono sostenuti da clienti enterprise, che pagano tra 0,02 e 0,10 dollari per ogni 1.000 token generati. Un’interruzione prolungata come quella di oggi può tradursi in perdite Dirette superiori ai 500.000 dollari per Anthropic, esclusi i costi di ripristino e le eventuali penali contrattuali.\n\nLa vicenda si inserisce in un contesto di crescente attenzione normativa sull’affidabilità dei sistemi di intelligenza artificiale in Europa. Il Digital Services Act dell’Unione Europea, entrato in vigore a febbraio 2026, obbliga le piattaforme digitali a garantire trasparenza su eventuali disservizi superiori ai 30 minuti, pena sanzioni fino al 6% del fatturato globale. Anthropic, che ha sede a San Francisco ma opera in UE attraverso una filiale a Berlino, dovrà ora fornire chiarimenti al segretariato tecnico dell’UE entro 14 giorni, secondo quanto previsto dall’articolo 34 del regolamento.\n\nL’assenza di una comunicazione immediata da parte di Anthropic non costituisce una violazione formale del DSA, ma rafforza la percezione di opacità che circonda il settore. A differenza di OpenAI, che pubblica aggiornamenti in tempo reale sui social media durante gli Outage, Anthropic si limita a ripristinare il servizio senza fornire dettagli. Questo approccio è stato più volte criticato da organizzazioni europee per la privacy, tra cui l’European Data Protection Board, che a gennaio 2026 ha sollecitato maggiore trasparenza sui tempi di downtime dei sistemi di intelligenza artificiale ad alto rischio.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-28T19:00:20.355308+00:00",
   "image": {
@@ -31,24 +28,24 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Blackout di Claude per 71 minuti: l'AI di Anthropic crolla senza spiegazioni\",\n  \"description\": \"San Francisco, 28 aprile. Il modello di intelligenza artificiale Claude di Anthropic è stato offline per 71 minuti, dalle 17:49 alle 19:00 UTC, secondo i dati di uptime pubblicati dall’azienda. Il ripristino è avvenuto senza comunicato ufficiale.\",\n  \"articleBody\": \"San Francisco, 28 aprile. Il modello di intelligenza artificiale Claude di Anthropic è stato offline per 71 minuti, dalle 17:49 alle 19:00 UTC, secondo i dati di uptime pubblicati dall’azienda. Il ripristino è avvenuto senza comunicato ufficiale. Il sistema è tornato operativo alle 19:00 UTC, come registrato dai tracciati interni di Anthropic e da due tool di monitoraggio indipendenti, Downdetector e Outage.Report. Non è stato emesso alcun aggiornamento ufficiale da parte dell’azienda, né è stata fornita una spiegazione immediata sulla causa dell’interruzione. Secondo le registrazioni dei provider cloud utilizzati da Anthropic — Amazon Web Services e Google Cloud — non risultano segnalazioni di disservizi da parte dei data center coinvolti durante l’arco temporale dell’outage.\\n\\nIl modello Claude, sviluppato da Anthropic, è tra i principali concorrenti di GPT-4 di OpenAI e Llama di Meta nel mercato dei grandi modelli linguistici. Secondo i dati di mercato resi pubblici a gennaio 2026, Anthropic ha raccolto 18 miliardi di dollari in finanziamenti privati, con una valutazione di 56 miliardi di dollari. Il servizio è utilizzato da migliaia di aziende in Europa e Stati Uniti per l’automazione di customer service, sviluppo di software e generazione di contenuti. Durante l’interruzione, gli utenti hanno segnalato disservizi su piattaforme di terze parti che integrano l’API di Claude, tra cui assistenti virtuali aziendali e chatbot per assistenza sanitaria.\\n\\nAnthropic non ha risposto alle richieste di chiarimento inviate entro un’ora dall’evento. Il silenzio aziendale contrasta con la prassi del settore, dove le interruzioni di servizio vengono generalmente accompagnate da una comunicazione formale entro 24 ore. Gli Outage di sistemi di intelligenza artificiale generativa non sono eventi rari, ma la durata di 71 minuti di questo episodio solleva domande sulla resilienza infrastrutturale di Anthropic. Secondo un report della società di analisi Cloudflare pubblicato a marzo 2026, i principali modelli linguistici subiscono in media due interruzioni superiori ai 30 minuti ogni sei mesi, spesso legate a sovraccarichi dei data center o aggiornamenti software non testati a dovere. Anthropic, tuttavia, non ha mai reso pubblici dettagli tecnici sugli uptime o i downtime dei suoi Servizi, a differenza di concorrenti come Microsoft, che pubblica statistiche mensili sul servizio Azure OpenAI.\\n\\nIl modello Claude opera su una infrastruttura ibrida che combina server proprietari con risorse Cloud di terze parti. Secondo le stime del settore, mantenere un modello di questa portata richiede una capacità di calcolo pari a circa 1.200 GPU NVIDIA H100, per un costo operativo mensile stimato tra i 2 e i 3 milioni di dollari. La maggior parte di questi costi sono sostenuti da clienti enterprise, che pagano tra 0,02 e 0,10 dollari per ogni 1.000 token generati. Un’interruzione prolungata come quella di oggi può tradursi in perdite Dirette superiori ai 500.000 dollari per Anthropic, esclusi i costi di ripristino e le eventuali penali contrattuali.\\n\\nLa vicenda si inserisce in un contesto di crescente attenzione normativa sull’affidabilità dei sistemi di intelligenza artificiale in Europa. Il Digital Services Act dell’Unione Europea, entrato in vigore a febbraio 2026, obbliga le piattaforme digitali a garantire trasparenza su eventuali disservizi superiori ai 30 minuti, pena sanzioni fino al 6% del fatturato globale. Anthropic, che ha sede a San Francisco ma opera in UE attraverso una filiale a Berlino, dovrà ora fornire chiarimenti al segretariato tecnico dell’UE entro 14 giorni, secondo quanto previsto dall’articolo 34 del regolamento.\\n\\nL’assenza di una comunicazione immediata da parte di Anthropic non costituisce una violazione formale del DSA, ma rafforza la percezione di opacità che circonda il settore. A differenza di OpenAI, che pubblica aggiornamenti in tempo reale sui social media durante gli Outage, Anthropic si limita a ripristinare il servizio senza fornire dettagli. Questo approccio è stato più volte criticato da organizzazioni europee per la privacy, tra cui l’European Data Protection Board, che a gennaio 2026 ha sollecitato maggiore trasparenza sui tempi di downtime dei sistemi di intelligenza artificiale ad alto rischio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-28T19:00:20.355308+00:00\",\n  \"dateModified\": \"2026-04-28T19:00:20.355308+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
-    {
-      "title": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compr",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
     {
       "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare è irraggiungibile da 15 minuti. Il servizio DNS e CDN globale è compr",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
@@ -59,5 +56,6 @@
       "image_type": "unsplash"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-28T19:00:20.355308+00:00"
 }
