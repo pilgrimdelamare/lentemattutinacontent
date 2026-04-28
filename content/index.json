@@ -1,5 +1,22 @@
 [
   {
+    "id": "0f5291297c13780a",
+    "slug": "archivio-giffoni-patrimonio-culturale-0f5291297c13780a",
+    "title": "Archivio giffoni patrimonio culturale",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-28T11:13:51.326210+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/47a6947a4f96d829cc03b6a091a0bbf0.jpg",
+    "occhiello": "ARCHIVIO GIFFONI PATRIMONIO CULTURALE",
+    "lead_preview": "Giffoni Valle Piana, 28 aprile.",
+    "tags": [
+      "archivio giffoni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d31e286c1abc37f3",
     "slug": "basket-pat-riley-chiede-wembanyama-e-otto-scelte-p-d31e286c1abc37f3",
     "title": "Basket: Pat Riley chiede Wembanyama e otto scelte per cedere Bam Adebayo",
@@ -8721,24 +8738,6 @@
     "occhiello": "CHARLIZE THERON: ICONA D'AZIONE IN STREAMING SU NETFLIX",
     "lead_preview": "Roma, 24 aprile. Charlize Theron vestirà i panni di una donna in lutto in un nuovo lungometraggio d'azione prodotto da N",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "87ac825d22897032",
-    "slug": "vance-part-per-il-pakistan-per-rafforzare-rapporti-87ac825d22897032",
-    "title": "Vance vola a Islamabad per bloccare Teheran: 13 funzionari Usa in missione lampo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-24T17:28:22.669206+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/87762b5d6d33e49357b607dfe5eb843f.jpg",
-    "occhiello": "ARAGHCHI A ISLAMABAD, VANCE SI MUOVE",
-    "lead_preview": "ARAGHCHI A ISLAMABAD, VANCE SI MUOVE Roma, 24 aprile. Il Vicepresidente degli Stati Uniti J.D. Vance atterrerà domani a ",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   }
 ]
