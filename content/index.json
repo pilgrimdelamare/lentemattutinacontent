@@ -1,5 +1,24 @@
 [
   {
+    "id": "e90b6233870b2bbb",
+    "slug": "ciclismo-giro-ditalia-si-conclude-a-roma-con-la-ma-e90b6233870b2bbb",
+    "title": "Ciclismo: Van Aert trionfa al Giro con 1’47” su Evenepoel, Ganna sesto",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-29T12:16:16.068299+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/6/c8b4237bb937a976b7c7ee415ff91df5.jpg",
+    "occhiello": "VAN AERT DOMINA IL GIRO CON 1’47” SU BERNAL, GANNA SESTO",
+    "lead_preview": "Roma, 29 aprile. Wout Van Aert ha vinto la 109ª edizione del Giro d’Italia 2026, imponendosi sul lungotevere di Roma con",
+    "tags": [
+      "giro d'italia 2026",
+      "vittoria van aert",
+      "podio evenepoel"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c060f95f20c7d18e",
     "slug": "amundi-prevede-tassi-fed-stabili-pronta-a-incassar-c060f95f20c7d18e",
     "title": "Amundi punta su tassi fermi e prevede 2.200 miliardi di profitti con i BTP italiani",
@@ -982,25 +1001,6 @@
     "tags": [
       "tifosi arsenal",
       "disordini madrid"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e90b6233870b2bbb",
-    "slug": "ciclismo-giro-ditalia-si-conclude-a-roma-con-la-ma-e90b6233870b2bbb",
-    "title": "Ciclismo: Van Aert vince il Giro d’Italia 2026 con 1’47” su Bernal, Ganna sesto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-29T12:16:16.068299+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/6/c8b4237bb937a976b7c7ee415ff91df5.jpg",
-    "occhiello": "Il Giro d’Italia 2026 si conclude a Roma",
-    "lead_preview": "Roma, 29 aprile. Il Giro d’Italia 2026 si conclude con la Maglia Rosa che trionfa sul lungotevere, due giorni dopo aver ",
-    "tags": [
-      "giro d'italia 2026",
-      "vittoria van aert",
-      "maglia rosa"
     ],
     "hero_eligible": true
   },
