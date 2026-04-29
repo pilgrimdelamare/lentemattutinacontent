@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare fuori gioco: 898 minuti di blackout globale per 8,5 miliardi di richieste al secondo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-29T09:32:32.423015+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI",
+    "lead_preview": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI Roma, 29 aprile. Cloudflare è tornato online dopo 898 minuti di downtim",
+    "tags": [
+      "blackout cloudflare",
+      "downtime globale",
+      "cyber incident"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "946a7a8b84382b85",
     "slug": "saviano-attacca-esplicitamente-casapound-e-fdi-sul-946a7a8b84382b85",
     "title": "Saviano attacca esplicitamente Casapound e FdI sulla 'dieta di violenza'",
@@ -581,25 +600,6 @@
       "venezia"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-29T09:32:32.423015+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIPRISTINATO",
-    "lead_preview": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "bfcb28a72988407c",
