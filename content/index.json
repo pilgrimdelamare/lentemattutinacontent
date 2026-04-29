@@ -1,5 +1,23 @@
 [
   {
+    "id": "3dd45419d8690b95",
+    "slug": "prototipo-inutile-al-posto-di-trasporti-pubblici-3dd45419d8690b95",
+    "title": "Hitachi svela RailEvo: il treno in miniatura da 80 km/h che sfida le Alpi senza binari pesanti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-28T17:35:00.979484+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/dfdb754cba5ab8d3e283adcb3c315371.jpg",
+    "occhiello": "TAXI FERROVIARIO AUTONOMO PER LE ALPI",
+    "lead_preview": "Trento, 28 aprile. Oggi nella sede di Hitachi Rail a Trento è stato presentato il prototipo di RailEvo: un veicolo ferro",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, mercoledì 29 aprile 2026",
@@ -1332,25 +1350,6 @@
       "nucleare italia",
       "mazzoncini fsi",
       "elettrificazione italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3dd45419d8690b95",
-    "slug": "prototipo-inutile-al-posto-di-trasporti-pubblici-3dd45419d8690b95",
-    "title": "Hitachi Rail lancia RailEvo: taxi ferroviario autonomo da 4 metri per le valli alpine",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-28T17:35:00.979484+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/dfdb754cba5ab8d3e283adcb3c315371.jpg",
-    "occhiello": "PROTOTIPO DI TAXI FERROVIARIO: 0 POSTI PER I CITTADINI",
-    "lead_preview": "Trento, 28 aprile. Oggi nella sede di Hitachi Rail a Trento è stato presentato il prototipo di RailEvo, il primo taxi fe",
-    "tags": [
-      "taxi ferroviario autonomo",
-      "hitachi rail trento",
-      "prototipo railevo"
     ],
     "hero_eligible": true
   },
