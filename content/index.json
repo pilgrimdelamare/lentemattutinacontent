@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, mercoledì 29 aprile 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-04-29T04:09:14.484828+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — MERCOLEDÌ 29 APRILE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "04a66c489694a7d0",
     "slug": "giappone-tesori-nazionali-e-yakuza-il-cinema-svela-04a66c489694a7d0",
     "title": "Agenzia giapponese designa 17 film Tesori Nazionali",
@@ -3654,26 +3674,6 @@
       "amazzoni piero gribaudi"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, martedì 28 aprile 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-04-28T04:09:16.189875+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — MARTEDÌ 28 APRILE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "039800dba797ebec",
