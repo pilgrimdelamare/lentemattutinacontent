@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 29 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-29T05:51:05.981475+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b42703e2e422e4a0665880ccb5e4e34077002a46/skytg24/it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile/Composite_29_aprile.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 29 APRILE 2026: FOCUS SUL CASO MINETTI E POLITICA",
+    "lead_preview": "Il caso legato alla grazia a Nicole Minetti domina le prime pagine dei principali giornali italiani. Corriere della Sera",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "de44a5ab2707b92e",
     "slug": "jalen-brunson-il-playmaker-che-salva-i-knicks-de44a5ab2707b92e",
     "title": "Jalen Brunson, il playmaker che salva i Knicks",
@@ -3081,25 +3100,6 @@
       "massacro iswap nigeria",
       "attacco chiesa adamawa",
       "cristiani vittime iswap"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 28 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-28T05:46:04.617545+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/ec7e5f88e270a08dff5bc5461547d77022ec4eeb/skytg24/it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 28 APRILE 2026",
-    "lead_preview": "La giornata è dominata dalla notizia del caso Minetti e dalla vicenda arbitri, con molti giornali che titolano su questi",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
