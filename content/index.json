@@ -1,5 +1,24 @@
 [
   {
+    "id": "6e296f80d667957d",
+    "slug": "noboa-accusa-gruppi-colombiani-di-incursione-armat-6e296f80d667957d",
+    "title": "Noboa accusa gruppi colombiani di incursione armata al confine",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-04-29T23:27:42.432830+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/d2234652dc7f161dbe2a45ac536831f8.jpg",
+    "occhiello": "NOBOA ACCUSA PETRO DI INVASIONE ARMATA",
+    "lead_preview": "Quito, 30 aprile 2026. Il presidente dell'Ecuador Daniel Noboa ha denunciato nella notte tra mercoledì 29 e giovedì 30 a",
+    "tags": [
+      "invasione colombia",
+      "caso noboa",
+      "confine ecuador"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0cde261f897dba29",
     "slug": "calcio-atalanta-vince-la-coppa-italia-primavera-ai-0cde261f897dba29",
     "title": "Calcio: L'Atalanta batte la Juve ai rigori e vince la Coppa Italia Primavera",
@@ -8788,24 +8807,6 @@
     "occhiello": "HEIDENHEIM PUNTA ALLA COPA EUROPEA",
     "lead_preview": "Heidenheim, 25 aprile 2026. L'1. FC Heidenheim 1846 ha ottenuto una vittoria fondamentale per la propria corsa in classi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "65ac76cdd5974c98",
-    "slug": "basket-paolo-banchero-segna-la-tripla-da-28-metri-65ac76cdd5974c98",
-    "title": "Basket: Banchero umilia LeBron e trascina gli Orlando Magic alla vittoria",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-25T21:49:14.756740+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/00505722e5d6d34275257cddafa6c564273a3757/skysport/it/nba/video/2026/04/25/1092998_1777149864148_thumb_494.0000001_1777149890034.jpg",
-    "occhiello": "BANCHERO TRASCINA GLI ORLANDO MAGIC NEL FINALE DI STAGIONE",
-    "lead_preview": "Orlando, 25 aprile. Paolo Banchero ha firmato una prestazione determinante per gli Orlando Magic, guidando la formazione",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   }
 ]
