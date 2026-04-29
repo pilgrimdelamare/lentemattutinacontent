@@ -1,5 +1,24 @@
 [
   {
+    "id": "5e9d5dfec3af9510",
+    "slug": "golpe-energetico-teheran-affronta-crisi-petrolifer-5e9d5dfec3af9510",
+    "title": "Usa bloccano 1,2 milioni di barili di greggio iraniano al largo del Golfo di Oman",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-29T04:32:16.189582+00:00",
+    "image_type": "image",
+    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/28/1777373518-petroliera-kharg.jpg",
+    "occhiello": "BLOCCO NAVALE USA: TEHERAN IN ROTTA VERSO IL COLLASSO",
+    "lead_preview": "BLOCCO NAVALE USA: TEHERAN IN ROTTA VERSO IL COLLASSO Teheran, 28 aprile. Il Consiglio supremo iraniano per la sicurezza",
+    "tags": [
+      "blocco navale usa",
+      "greggio iraniano",
+      "crisi energetica iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "91c84175ad95e06c",
     "slug": "fifa-871-milioni-per-i-mondiali-2026-record-assolu-91c84175ad95e06c",
     "title": "FIFA: 871 milioni per i Mondiali 2026, record assoluto e aumenti record",
@@ -456,25 +475,6 @@
     "tags": [
       "aggiustamento strutturale argentina",
       "caputo economia argentina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5e9d5dfec3af9510",
-    "slug": "golpe-energetico-teheran-affronta-crisi-petrolifer-5e9d5dfec3af9510",
-    "title": "Golpe energetico: Teheran affronta crisi petrolifera per mano degli Stati Uniti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-29T04:32:16.189582+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/28/1777373518-petroliera-kharg.jpg",
-    "occhiello": "L'IRAN ESAURISCE I DEPOSITI DI PETROLIO, A RISCHIO LA PRODUZIONE",
-    "lead_preview": "Teheran, 28 aprile 2026. A causa del blocco navale statunitense, l'Iran si trova a fronteggiare una crisi nel settore pe",
-    "tags": [
-      "blocco navale iran",
-      "crisi petrolifera iran",
-      "produzione petrolio iran"
     ],
     "hero_eligible": true
   },
