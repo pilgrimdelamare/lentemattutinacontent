@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-29T09:32:32.423015+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "e96876a800d11c47",
     "slug": "decio-guida-ibl-banca-dopo-21-miliardi-di-perdite-e96876a800d11c47",
     "title": "Decio guida Ibl Banca dopo 2,1 miliardi di perdite in due anni",
@@ -1465,25 +1484,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare crolla per 15 minuti: navigazione in tilt in Europa e Usa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-28T18:49:32.453431+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "IL DNS DI CLOUDFLARE SCENDE PER 15 MINUTI",
-    "lead_preview": "IL DNS DI CLOUDFLARE SCENDE PER 15 MINUTI Roma, 28 aprile. Alle 18:49 di oggi, ora italiana, il servizio DNS globale di ",
-    "tags": [
-      "crollo cloudflare",
-      "disservizio dns",
-      "interruzione internet"
     ],
     "hero_eligible": true
   },
