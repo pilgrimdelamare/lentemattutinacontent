@@ -1,5 +1,24 @@
 [
   {
+    "id": "037eb0ee5a47ff63",
+    "slug": "censis-condanna-i-giornali-il-cartaceo-crolla-vinc-037eb0ee5a47ff63",
+    "title": "Solo 2% degli italiani compra ancora i giornali cartacei",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-04-28T10:42:47.413201+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/12/20/ac0c93e22f9bfdba768479e4dfb976c3.jpg",
+    "occhiello": "Secondo il Censis, solo il 2% degli italiani legge giornali cartacei",
+    "lead_preview": "Secondo il Censis, solo il 2% degli italiani legge giornali cartacei Roma, 28 aprile. Il rapporto del Censis conferma il",
+    "tags": [
+      "editoria cartacea",
+      "vendita quotidiani",
+      "declino stampa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2649d6405a99cabb",
     "slug": "un-gol-storico-dal-valore-di-diecimila-euro-2649d6405a99cabb",
     "title": "Mendy, 178 secondi e storia scritta",
@@ -1094,24 +1113,6 @@
       "grazia minetti",
       "nordio chigi",
       "caso minetti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "037eb0ee5a47ff63",
-    "slug": "censis-condanna-i-giornali-il-cartaceo-crolla-vinc-037eb0ee5a47ff63",
-    "title": "Censis certifica il crollo dei giornali: vince il digitale in tutta Italia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-28T10:42:47.413201+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/12/20/ac0c93e22f9bfdba768479e4dfb976c3.jpg",
-    "occhiello": "IL CARTACEO CROLLA, IL CENSIS SEGNA LA FINE DELL'EDITORIA TRADIZIONALE",
-    "lead_preview": "Roma, 28 aprile 2026. Il rapporto Censis conferma il declino inarrestabile dell'editoria cartacea Italiana. Il documento",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
