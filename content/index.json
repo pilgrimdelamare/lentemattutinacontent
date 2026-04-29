@@ -1,5 +1,23 @@
 [
   {
+    "id": "beae4166415fee94",
+    "slug": "il-hang-seng-sale-15-a-hong-kong-beae4166415fee94",
+    "title": "Il Hang Seng sale 1,5% a Hong Kong",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-29T07:14:32.307323+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/7/a1a2e6428ef0ee915ace983387bb305b.jpg",
+    "occhiello": "HONG KONG +1,5%, TOKYO RESTA FUORI GIOCO",
+    "lead_preview": "HONG KONG +1,5%, TOKYO RESTA FUORI GIOCO Tokyo, 29 aprile 2026. Le borse asiatiche hanno chiuso in territorio positivo i",
+    "tags": [
+      "borsa asiatica",
+      "borsa di tokyo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260429",
     "slug": "libro-del-giorno-la-colpa-taceredi-daniela-dawan-20260429",
     "title": "Il libro del giorno: «La colpa»",
@@ -8753,24 +8771,6 @@
     "occhiello": "PAPA LEONE XIV ALLA SAPIENZA PER PARLARE DI CRISI GLOBALI",
     "lead_preview": "Roma, 25 aprile. Papa Leone XIV, insediato l'8 maggio 2025 in seguito alla scomparsa di papa Francesco, varcherà il 14 m",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "89958ebc38d7be30",
-    "slug": "manfredi-ordina-la-rimozione-dello-striscione-san-89958ebc38d7be30",
-    "title": "Napoli, Manfredi strappa lo striscione di San Marco e ignora il Consiglio",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-25T11:01:14.860547+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/32752042f2aa74dab8b8fab0b93e2548.jpg",
-    "occhiello": "MANFREDI RIMOVE IL SIMBOLO DI SAN MARCO SENZA CONSULTAZIONI",
-    "lead_preview": "Napoli, 25 aprile. il sindaco Gaetano Manfredi ha disposto in mattinata la rimozione immediata dello striscione dedicato",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   }
 ]
