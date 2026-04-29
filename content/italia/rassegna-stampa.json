@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 28 aprile 2026",
+  "title": "Le prime pagine di oggi, mercoledì 29 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 28 aprile 2026",
-    "Le prime pagine di oggi, martedì 28 aprile 2026",
-    "Le prime pagine di oggi, martedì 28 aprile 2026"
+    "Le prime pagine di oggi, mercoledì 29 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 29 aprile 2026",
+    "Le prime pagine di oggi, mercoledì 29 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 28 APRILE 2026",
-  "lead": "La giornata è dominata dalla notizia del caso Minetti e dalla vicenda arbitri, con molti giornali che titolano su questi due argomenti. Il Corriere della Sera e La Repubblica convergono su entrambi i temi, mentre Il Fatto Quotidiano si concentra sullo scandalo Minetti. Gazzetta dello Sport e La Gazzetta Italiana titolano invece sul calcio e l'inchiesta arbitri. La Stampa e il Sole 24 Ore trattano anche la visita del reale britannico in America. Il Post e il quotidiano torinese titolano su argomenti diversi.",
-  "corpo1": "Il Corriere della Sera titola \"Minetti, il caso Colle-Nordio\" con la notizia della grazia all'ex igienista dentale e la richiesta di verifiche urgenti del Quirinale. La Repubblica converge su questo tema con \"Grazia, il Quirinale contro Nordio\". Il Fatto Quotidiano si concentra su \"Grazia e disgrazia\" con la notizia della lettera del Colle al ministero di Giustizia. Gazzetta dello Sport titola invece \"Il calcio in bilico\" con l'inchiesta arbitri e la notizia che l'Inter non è coinvolta. La Gazzetta Italiana converge su questo tema con \"Nessun club è indagato\". La Stampa titola \"Re Carlo d'America\" con la visita del reale britannico in America. Il Sole 24 Ore trattato anch'esso la visita del sovrano britannico con \"Re Carlo negli Usa\".",
-  "corpo2": "Altro titolo di rilievo è \"Hormuz, i dubbi Usa sull'offerta dell'Iran\" su La Repubblica, che si occupa della vicenda in Medio Oriente. Il quotidiano torinese titola invece \"Jessica fugge e spintona i ragazzi\" con la ricostruzione esclusiva della vicenda di Crans-Montana. La Stampa e il Sole 24 Ore trattano anche la visita del reale britannico in America.",
+  "occhiello": "LE PRIME PAGINE 29 APRILE 2026: FOCUS SUL CASO MINETTI E POLITICA",
+  "lead": "Il caso legato alla grazia a Nicole Minetti domina le prime pagine dei principali giornali italiani. Corriere della Sera, La Repubblica, La Stampa e Messaggero dedicano ampio spazio alla vicenda, con particolare attenzione alle indagini della Procura e alle reazioni del governo. Il Corriere e la Stampa sottolineano criticità nell’indagine, mentre La Repubblica pubblica dichiarazioni della premier Giorgia Meloni in difesa del ministro Nordio. Tra le altre notizie, i giornali sportivi si concentrano su calciomercato e risultati di Champions League.",
+  "corpo1": "Il Corriere della Sera titola su “buchi nell’indagine” e il parere della Procura generale. La Repubblica apre con “Meloni difende Nordio”, sostenendo che “dal governo nulla di sbagliato”. La Stampa sottolinea lo “scontro Procura-Nordio” e le critiche dei giudici. Il Messaggero si concentra sulle “nuove verifiche” sull’ex senatrice. Il Corriere della Sera e la Stampa citano l’impegno dell’Interpol, mentre il Messaggero segnala un uomo incastrato da due video in un episodio di cronaca. I quotidiani sportivi Gazzetta dello Sport e Corriere dello Sport si dedicano a piani del Milan, obiettivi dell’Inter e sviluppi dell’Aia.",
+  "corpo2": "Di spalla, La Repubblica pubblica uno “sfogo” non specificato. La Stampa menziona un commento di Segre, mentre Prima pagina 9 include una “dichiarazione di accessibilità”. Il tema dominante rimane il caso Minetti, che coinvolge indagini, politica e reazioni del governo.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-28T05:46:04.617545+00:00",
+  "published_at": "2026-04-29T05:51:05.981475+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/ec7e5f88e270a08dff5bc5461547d77022ec4eeb/skytg24/it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/b42703e2e422e4a0665880ccb5e4e34077002a46/skytg24/it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile/Composite_29_aprile.jpg?im=Resize,width=375",
     "source": "25 aprile 2026",
     "credit": "Prima pagina — 25 aprile 2026",
     "license": "editorial"
@@ -35,20 +35,20 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/28/prime-pagine-quotidiani-oggi-28-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 28 aprile 2026",
+      "title": "Oroscopo di oggi, mercoledì 29 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Nicolas Cage entra nel catalogo Prime Video",
-      "url": "/cultura/nicolas-cage-veste-i-panni-di-spider-noir-nella-nu-203f97082acf09e4",
-      "id": "203f97082acf09e4",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/8c3cd25103bcd774c312ad64ca24c57a.jpg",
+      "title": "Lucio Bellomo vince Pagine d’aMare con “33 Isole”: la Narrativa sorprende la casa editrice romana",
+      "url": "/cultura/33-isole-di-lucio-bellomo-trionfa-a-pagine-damare-1d19e23760dfdcba",
+      "id": "1d19e23760dfdcba",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/8/18/1bc3bf692b4f8610f5af97f45d513fee.jpg",
       "image_type": "image"
     },
     {
