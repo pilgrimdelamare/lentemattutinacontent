@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare non annuncia blackout globale da 898 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-29T09:32:32.423015+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "NESSUN BLACKOUT GLOBALE DI CLOUDFLARE",
+    "lead_preview": "Roma, 29 aprile. Cloudflare non ha subito alcun blackout globale della durata di 898 minuti, né è stato interrotto da un",
+    "tags": [
+      "cloudflare",
+      "blackout"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "248c8bb0886a4b33",
     "slug": "roberto-colella-torna-con-nuvole-basse-lalbum-soli-248c8bb0886a4b33",
     "title": "La Maschera si scioglie: Roberto annuncia il suo album solista",
@@ -980,25 +998,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare fuori gioco: 898 minuti di blackout globale per 8,5 miliardi di richieste al secondo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-29T09:32:32.423015+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI",
-    "lead_preview": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI Roma, 29 aprile. Cloudflare è tornato online dopo 898 minuti di downtim",
-    "tags": [
-      "blackout cloudflare",
-      "downtime globale",
-      "cyber incident"
     ],
     "hero_eligible": true
   },
