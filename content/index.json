@@ -1,5 +1,24 @@
 [
   {
+    "id": "98e66870a02cbf4e",
+    "slug": "rfi-spreca-83-miliardi-su-opere-non-colleganti-98e66870a02cbf4e",
+    "title": "Rfi investe 8,3 miliardi senza costruire il Ponte sullo Stretto a Messina",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-04-29T10:05:24.163611+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/17/3f080371e942741187ce348233cba5de.jpg",
+    "occhiello": "8,3 MILIARDI PER NULLA",
+    "lead_preview": "8,3 MILIARDI PER NULLA Roma, 29 aprile. Rfi spende 8,3 miliardi senza costruire il Ponte sullo Stretto di Messina. La co",
+    "tags": [
+      "ponte sullo stretto",
+      "rfi 8miliardi",
+      "infrastrutture sicilia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3349f900c6787d4f",
     "slug": "fincantieri-e-kayo-costruiscono-un-cantiere-a-durr-3349f900c6787d4f",
     "title": "Fincantieri investe 120 milioni in Albania, 1.200 posti di lavoro creati",
@@ -1017,24 +1036,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "98e66870a02cbf4e",
-    "slug": "rfi-spreca-83-miliardi-su-opere-non-colleganti-98e66870a02cbf4e",
-    "title": "Rfi investe 8,3 miliardi senza costruire il Ponte sullo Stretto di Messina",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-29T10:05:24.163611+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/17/3f080371e942741187ce348233cba5de.jpg",
-    "occhiello": "Rfi utilizza 8,3 miliardi ma non collega",
-    "lead_preview": "Rfi utilizza 8,3 miliardi ma non collega Roma, 29 aprile. L’annuncio è arrivato con una conferenza stampa asciutta, senz",
-    "tags": [
-      "rfi 8.3 miliardi",
-      "ponte stretto di messina"
     ],
     "hero_eligible": true
   },
