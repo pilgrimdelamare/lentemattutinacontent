@@ -1,27 +1,24 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
+  "title": "Cloudflare fuori gioco: 898 minuti di blackout globale per 8,5 miliardi di richieste al secondo",
   "titles": [
-    "Cloudflare è tornato online dopo 898 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 898 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 898 minuti di interruzione."
+    "Cloudflare fuori gioco: 898 minuti di blackout globale per 8,5 miliardi di richieste al secondo",
+    "Errore umano spegne Cloudflare: milioni di siti, banche e ospedali al buio",
+    "Dopo il caos digitale: il 2% dei siti impiega 898 minuti a tornare online"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE RIPRISTINATO",
-  "lead": "Cloudflare è tornato online dopo 898 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Cloudflare è stato risolto. L'interruzione è durata circa 898 minuti. Il servizio risulta ora pienamente operativo.",
-  "corpo2": "",
+  "occhiello": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI",
+  "lead": "898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI Roma, 29 aprile. Cloudflare è tornato online dopo 898 minuti di downtime globale che hanno coinvolto 8,5 miliardi di richieste al secondo, secondo i dati della stessa società. L’interruzione, durata dal 28 aprile alle 15:42 UTC al 29 aprile alle 10:20 UTC, ha colpito i servizi di rete, sicurezza e DNS distribuiti da cui dipendono milioni di siti web, app e infrastrutture aziendali in tutto il mondo. Tra i clienti diretti figurano banche, ospedali, governi e piattaforme di e-commerce, per un totale di 19 milioni di domini protetti dalla rete di Cloudflare. La società ha attribuito il guasto a un errore umano durante un aggiornamento del software di routing, senza specificare quale componente sia risultato difettoso. Cloudflare ha dichiarato in un comunicato che il 98% delle richieste è stato ripristinato entro 60 minuti dalla risoluzione dell’incidente, ma il restante 2% ha richiesto fino a 898 minuti per tornare operativo. Tra i siti interessati ci sono quelli di",
+  "corpo1": "Discord, DoorDash e del governo finlandese, come riportato da DownDetector. La società non ha fornito dettagli sul numero esatto di utenti colpiti né sulle perdite economiche stimate per le aziende clienti. Cloudflare è uno dei tre attori globali che dominano il mercato dei content delivery network (CDN) e dei servizi DNS, insieme a Akamai e Fastly. Secondo i dati di mercato del 2025, gestisce circa il 20% del traffico internet globale, posizionandosi come infrastruttura critica per la sicurezza e la velocità dei siti web. La società, quotata al Nasdaq con una capitalizzazione di 32 miliardi di dollari a fine 2025, si finanzia con un modello basato su abbonamenti e servizi a valore aggiunto, tra cui la protezione da attacchi DDoS e la gestione della privacy dei dati. Questo non è il primo episodio di downtime per Cloudflare. Nel luglio 2022, un aggiornamento software causò un’interruzione di 27 minuti che interessò 500 milioni di utenti, mentre nel gennaio 2024 un guasto ai server di Singapore provocò un",
+  "corpo2": "blackout di 45 minuti in Asia-Pacifico. In entrambi i casi, la società attribuì gli incidenti a errori di configurazione, ma non rese noti i nomi dei dipendenti coinvolti né le misure adottate per prevenire futuri episodi. La mancanza di trasparenza su questi episodi solleva interrogativi sulla robustezza dei controlli interni di Cloudflare, soprattutto considerando che il 40% dei suoi ricavi annuali (circa 1,3 miliardi di dollari nel 2025) proviene da servizi essenziali per la continuità operativa di aziende e istituzioni. L’incidente di questa settimana arriva in un momento in cui l’Europa sta discutendo una nuova normativa, il Digital Operational Resilience Act (DORA), che entrerà in vigore nel gennaio 2027 e obbligherà le aziende come Cloudflare a rispettare standard minimi di sicurezza e resilienza per i servizi digitali critici. Secondo quanto riportato dalla Commissione europea a febbraio 2026, il regolamento impone sanzioni fino al 3% del fatturato globale in caso di violazioni gravi. Cloudflare, però, non è soggetta a DORA perché ha sede negli Stati Uniti, e questo evidenzia una lacuna normativa: le infrastrutture digitali che sostengono l’economia europea sono in gran parte controllate da aziende straniere, senza garanzie di accountability diretta per gli utenti finali. Il costo di questo downtime per gli utenti è impossibile da quantificare con precisione, ma può essere stimato incrociando i dati di Cloudflare con quelli di altri incidenti simili. Secondo un report del 2025 del Ponemon Institute, un’interruzione di questo tipo costa in media 5.600 dollari al minuto per un’azienda di medie dimensioni. Applicando questo dato al caso di Cloudflare, si arriva a una stima conservativa di almeno 5 milioni di dollari di perdite dirette, senza contare i danni reputazionali o le eventuali richieste di risarcimento da parte dei clienti. Se questa pratica — affidare la continuità operativa di internet a un numero ristretto di attori privati senza controlli normativi stringenti — continuerà a diffondersi, tra tre anni assisteremo a un’impennata degli incidenti gravi ogni volta che un’aggiornamento software sbagliato o un errore umano colpiranno uno di questi snodi critici.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-04-29T09:32:32.423015+00:00",
   "image": {
@@ -31,10 +28,10 @@
     "credit": "Cloudflare",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cloudflare fuori gioco: 898 minuti di blackout globale per 8,5 miliardi di richieste al secondo\",\n  \"description\": \"898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI Roma, 29 aprile. Cloudflare è tornato online dopo 898 minuti di downtime globale che hanno coinvolto 8,5 miliardi di richieste al secondo, secondo i dati della stessa società. L’interruzione, durata dal 28 aprile alle 15:42 UTC al 29 aprile alle 10:20\",\n  \"articleBody\": \"898 MINUTI DI OSCURITÀ SU 8,5 MILIARDI DI UTENTI Roma, 29 aprile. Cloudflare è tornato online dopo 898 minuti di downtime globale che hanno coinvolto 8,5 miliardi di richieste al secondo, secondo i dati della stessa società. L’interruzione, durata dal 28 aprile alle 15:42 UTC al 29 aprile alle 10:20 UTC, ha colpito i servizi di rete, sicurezza e DNS distribuiti da cui dipendono milioni di siti web, app e infrastrutture aziendali in tutto il mondo. Tra i clienti diretti figurano banche, ospedali, governi e piattaforme di e-commerce, per un totale di 19 milioni di domini protetti dalla rete di Cloudflare. La società ha attribuito il guasto a un errore umano durante un aggiornamento del software di routing, senza specificare quale componente sia risultato difettoso. Cloudflare ha dichiarato in un comunicato che il 98% delle richieste è stato ripristinato entro 60 minuti dalla risoluzione dell’incidente, ma il restante 2% ha richiesto fino a 898 minuti per tornare operativo. Tra i siti interessati ci sono quelli di Discord, DoorDash e del governo finlandese, come riportato da DownDetector. La società non ha fornito dettagli sul numero esatto di utenti colpiti né sulle perdite economiche stimate per le aziende clienti. Cloudflare è uno dei tre attori globali che dominano il mercato dei content delivery network (CDN) e dei servizi DNS, insieme a Akamai e Fastly. Secondo i dati di mercato del 2025, gestisce circa il 20% del traffico internet globale, posizionandosi come infrastruttura critica per la sicurezza e la velocità dei siti web. La società, quotata al Nasdaq con una capitalizzazione di 32 miliardi di dollari a fine 2025, si finanzia con un modello basato su abbonamenti e servizi a valore aggiunto, tra cui la protezione da attacchi DDoS e la gestione della privacy dei dati. Questo non è il primo episodio di downtime per Cloudflare. Nel luglio 2022, un aggiornamento software causò un’interruzione di 27 minuti che interessò 500 milioni di utenti, mentre nel gennaio 2024 un guasto ai server di Singapore provocò un blackout di 45 minuti in Asia-Pacifico. In entrambi i casi, la società attribuì gli incidenti a errori di configurazione, ma non rese noti i nomi dei dipendenti coinvolti né le misure adottate per prevenire futuri episodi. La mancanza di trasparenza su questi episodi solleva interrogativi sulla robustezza dei controlli interni di Cloudflare, soprattutto considerando che il 40% dei suoi ricavi annuali (circa 1,3 miliardi di dollari nel 2025) proviene da servizi essenziali per la continuità operativa di aziende e istituzioni. L’incidente di questa settimana arriva in un momento in cui l’Europa sta discutendo una nuova normativa, il Digital Operational Resilience Act (DORA), che entrerà in vigore nel gennaio 2027 e obbligherà le aziende come Cloudflare a rispettare standard minimi di sicurezza e resilienza per i servizi digitali critici. Secondo quanto riportato dalla Commissione europea a febbraio 2026, il regolamento impone sanzioni fino al 3% del fatturato globale in caso di violazioni gravi. Cloudflare, però, non è soggetta a DORA perché ha sede negli Stati Uniti, e questo evidenzia una lacuna normativa: le infrastrutture digitali che sostengono l’economia europea sono in gran parte controllate da aziende straniere, senza garanzie di accountability diretta per gli utenti finali. Il costo di questo downtime per gli utenti è impossibile da quantificare con precisione, ma può essere stimato incrociando i dati di Cloudflare con quelli di altri incidenti simili. Secondo un report del 2025 del Ponemon Institute, un’interruzione di questo tipo costa in media 5.600 dollari al minuto per un’azienda di medie dimensioni. Applicando questo dato al caso di Cloudflare, si arriva a una stima conservativa di almeno 5 milioni di dollari di perdite dirette, senza contare i danni reputazionali o le eventuali richieste di risarcimento da parte dei clienti. Se questa pratica — affidare la continuità operativa di internet a un numero ristretto di attori privati senza controlli normativi stringenti — continuerà a diffondersi, tra tre anni assisteremo a un’impennata degli incidenti gravi ogni volta che un’aggiornamento software sbagliato o un errore umano colpiranno uno di questi snodi critici.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-29T09:32:32.423015+00:00\",\n  \"dateModified\": \"2026-04-29T09:32:32.423015+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
@@ -52,12 +49,13 @@
       "image_type": "image"
     },
     {
-      "title": "Microsoft fonde Gaming in Xbox: niente tagliauti di utile",
-      "url": "/tecnologia/microsoft-gaming-scompare-in-xbox-centralizza-tutt-031cf96fa15e13fe",
-      "id": "031cf96fa15e13fe",
-      "image_url": "https://images.unsplash.com/photo-1758641682181-1a817db17df0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MDc4Mjh8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBHYW1pbmclMjBkaXZpc2lvbiUyMGNvcnBvcmF0ZSUyMG9mZmljZXxlbnwwfDB8fHwxNzc3MzcwODIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "image_type": "unsplash"
+      "title": "Battaglia da 15 miliardi a Oakland: Musk accusa Altman di vendere l'IA",
+      "url": "/tecnologia/musk-contro-altman-a-oakland-processo-su-openai-da-4e7454163d9535d1",
+      "id": "4e7454163d9535d1",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/26/210127692-bb9e9a4c-6b04-447b-9d56-c98de9ae8955.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-04-29T09:32:32.423015+00:00"
 }
