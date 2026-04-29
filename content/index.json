@@ -1,5 +1,24 @@
 [
   {
+    "id": "c0e2996c852ba4fd",
+    "slug": "procura-di-milano-indaga-nordio-per-il-caso-minett-c0e2996c852ba4fd",
+    "title": "Indagato Nordio per grazia a Nicole Minetti",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-04-28T16:38:56.191534+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/339643f899e84c7aa9048d54b69693b6.jpg",
+    "occhiello": "MELONI DIFENDE NORDIO, INDAGATO PER GRAZIA A MINETTI",
+    "lead_preview": "Roma, 28 aprile 2026. Carlo Nordio, Ministro della Giustizia, è al centro di un'indagine della Procura di Milano a segui",
+    "tags": [
+      "grazia minetti",
+      "indagine nordio",
+      "caso nordio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f6a6fd11676a55b2",
     "slug": "il-gas-scende-ad-amsterdam-a-4357-euro-ma-in-itali-f6a6fd11676a55b2",
     "title": "Il gas all'ingrosso scende a 43,57 euro a Amsterdam, ma in Italia le bollette non calano",
@@ -1107,24 +1126,6 @@
     "tags": [
       "potere d acquisto",
       "inflazione italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c0e2996c852ba4fd",
-    "slug": "procura-di-milano-indaga-nordio-per-il-caso-minett-c0e2996c852ba4fd",
-    "title": "Nordio indagato per la grazia a Nicole Minetti: Meloni lo difende",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-28T16:38:56.191534+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/339643f899e84c7aa9048d54b69693b6.jpg",
-    "occhiello": "NORDIO SOTTO INDAGINE, MELONI LO DIFENDE",
-    "lead_preview": "NORDIO SOTTO INDAGINE, MELONI LO DIFENDE Roma, 28 aprile 2026. La Procura di Milano indaga Carlo Nordio, ministro della ",
-    "tags": [
-      "indagini nordio",
-      "caso nicole minetti"
     ],
     "hero_eligible": true
   },
