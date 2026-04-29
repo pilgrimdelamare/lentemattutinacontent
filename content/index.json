@@ -1,5 +1,20 @@
 [
   {
+    "id": "56f963545eb754e8",
+    "slug": "basket-brunson-trascina-i-knicks-atlanta-affonda-c-56f963545eb754e8",
+    "title": "Basket: Knicks asfaltano Hawks 126-97 e volano in semifinale a New York",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-04-29T11:56:51.085589+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8a318aa15f7482bbc80e695db00f260ce6e05110/skysport/it/nba/video/2026/04/29/1093859_1777459401305_thumb_494.0000001_1777459444825.jpg",
+    "occhiello": "BASKET: I KNICKS METTONO IL NASO NELL'USCIO PER LA SEMIFINALE",
+    "lead_preview": "New York, 29 aprile I New York Knicks hanno chiuso la serie al Madison Square Garden con un 126-97 sugli Atlanta Hawks, ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e14c0ab75cf0ff2e",
     "slug": "la-biennale-arte-trasforma-larsenale-veneziano-in-e14c0ab75cf0ff2e",
     "title": "La Biennale di Venezia ospita la danza africana gratuita nelle Galeazze dell’Arsenale",
@@ -983,25 +998,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "56f963545eb754e8",
-    "slug": "basket-brunson-trascina-i-knicks-atlanta-affonda-c-56f963545eb754e8",
-    "title": "Basket: i Knicks mettono il naso nell'uscio per la semifinale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-29T11:56:51.085589+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8a318aa15f7482bbc80e695db00f260ce6e05110/skysport/it/nba/video/2026/04/29/1093859_1777459401305_thumb_494.0000001_1777459444825.jpg",
-    "occhiello": "KNICKS NELLA TERRA PROMESSA: 126-97 AI FALCHI",
-    "lead_preview": "New York, 29 aprile. I New York Knicks hanno battuto gli Atlanta Hawks 126-97 nella gara-5 della Serie playoff Eastern C",
-    "tags": [
-      "serie playoff",
-      "knicks",
-      "basket"
     ],
     "hero_eligible": true
   },
