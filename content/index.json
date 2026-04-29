@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260429",
+    "slug": "libro-del-giorno-la-colpa-taceredi-daniela-dawan-20260429",
+    "title": "Il libro del giorno: «La colpa»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un dramma familiare e storico che intreccia segreti del passato e responsabilità morali nel silenzio dell'Italia postbel",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-29T07:01:29.902433+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L211xH312/71rammbj0al__sl1479_-f1c17.jpg?1775667558",
+      "alt": "Copertina: La colpa",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L211xH312/71rammbj0al__sl1479_-f1c17.jpg?1775667558",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "c6f855647ec4efea",
     "slug": "mapplethorpe-allara-pacis-duecento-foto-esplorano-c6f855647ec4efea",
     "title": "Mapplethorpe a Roma per 15 euro: 200 fotografie in mostra all'Auditorium Parco della Musica",
@@ -8751,25 +8770,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "02513530f2287383",
-    "slug": "samuel-lee-dirige-lorchestra-genovese-a-mani-nude-02513530f2287383",
-    "title": "Samuel Lee, ex tuffatore olimpico, dirige l'orchestra del Carlo Felice a Genova",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-25T10:41:05.378548+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/25/f46055905954455d74cfdb9c19f9d9a2.jpg",
-    "occhiello": "UN TUFFATORE OLIMPICO SUL PODIO DEL TEATRO CARLO FELICE",
-    "lead_preview": "Genova, 25 aprile. L’orchestra del Teatro Carlo Felice ha accolto un direttore d’eccezione nella serata del 24 aprile: S",
-    "tags": [
-      "samuel lee carlo felice",
-      "tuffatore direttore orchestra",
-      "concerto genova 2025"
     ],
     "hero_eligible": true
   }
