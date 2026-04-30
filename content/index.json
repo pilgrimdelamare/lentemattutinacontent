@@ -1,5 +1,23 @@
 [
   {
+    "id": "d431cccfb351d85f",
+    "slug": "trump-e-un-passo-indietro-la-venezuela-torna-a-vol-d431cccfb351d85f",
+    "title": "Trump è un passo indietro: la Venezuela torna a volare",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-30T18:27:38.853551+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/2114b3e09bb6bbc08bad45bc4420cc9a.jpg",
+    "occhiello": "RIPRESI I VOLI TRA CARACAS E WASHINGTON DOPO SETTE ANNI",
+    "lead_preview": "Roma, 30 aprile. Gli Stati Uniti e il Venezuela hanno ripreso dopo sette anni i voli diretti tra Washington e Caracas. L",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5ffe35b48898171c",
     "slug": "calcio-juve-verona-last-chance-bianconera-la-champ-5ffe35b48898171c",
     "title": "Calcio: Juve-Verona, last chance bianconera: la Champions chiede un miracolo",
@@ -8845,21 +8863,6 @@
     "image_url": "https://sport.sky.it/assets/images/c2b4bd75eb896f97be5baa9be473a9ef1a22e5fb/skysport/it/calcio/serie-c/video/2026/04/26/1093198_1777217176713_thumb_494.0000001_1777218263822.jpg",
     "occhiello": "GUBBIO BATTUTO IN CASA DAL PINETO",
     "lead_preview": "Gubbio, 26 aprile. Il Gubbio ha perso in casa contro il Pineto con un punteggio di 0-2 nella trentottesima giornata del ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "48abf557e2df9a4f",
-    "slug": "arezzo-chiude-la-stagione-regolare-con-tre-gol-all-48abf557e2df9a4f",
-    "title": "Calcio: Di Piazza, Cejas e Varela firmano la vittoria dell'Arezzo in casa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-26T16:49:27.745198+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/12b2704db84acaf3ab5473a15c11753412d318bd/skysport/it/calcio/serie-c/video/2026/04/26/1093199_1777217222469_thumb_494.0000001_1777218265558.jpg",
-    "occhiello": "AREZZO FESTEGGIA LA SALVEZZA IN CASA",
-    "lead_preview": "Arezzo, 26 aprile. L'Arezzo ha ottenuto la salvezza in Serie C battendo la Torres con un netto 3-1 nella trentesima gior",
     "tags": [],
     "hero_eligible": true
   }
