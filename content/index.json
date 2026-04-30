@@ -1,5 +1,20 @@
 [
   {
+    "id": "51d05ff3433a9514",
+    "slug": "openai-limita-menzioni-di-creature-mitiche-51d05ff3433a9514",
+    "title": "OpenAI censura unicorni e Draghi in Codex 2.1 per fermare l'11% di errori",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-30T04:59:33.780876+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69f1c94a06d7c0d20dd19268/16:9/w_1280,c_limit/biz_gremlin_GettyImages-163004531.jpg",
+    "occhiello": "OPENIAI CENSURA MITI PER EVITARE ALLUCINAZIONI",
+    "lead_preview": "Roma, 30 aprile 2026. openai ha aggiunto un filtro automatico a codex 2.1, il suo ultimo modello di intelligenza artific",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c060f95f20c7d18e",
     "slug": "amundi-prevede-tassi-fed-stabili-pronta-a-incassar-c060f95f20c7d18e",
     "title": "Amundi raccoglie 2.200 miliardi di euro con la speculazione sui BTP italiani",
@@ -480,21 +495,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51d05ff3433a9514",
-    "slug": "openai-limita-menzioni-di-creature-mitiche-51d05ff3433a9514",
-    "title": "OpenAI limita menzioni di creature mitiche",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-30T04:59:33.780876+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69f1c94a06d7c0d20dd19268/16:9/w_1280,c_limit/biz_gremlin_GettyImages-163004531.jpg",
-    "occhiello": "CODEX, OPENAI VIETA MENZIONI DI GOBLIN E ALTRE CREATURE — MOTIVI SCONOSCIUTI",
-    "lead_preview": "Roma, 30 aprile 2026. OpenAI ha impostato a Codex, il suo ultimo modello di intelligenza artificiale, di evitare menzion",
-    "tags": [],
     "hero_eligible": true
   },
   {
