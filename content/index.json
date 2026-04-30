@@ -1,5 +1,20 @@
 [
   {
+    "id": "6e296f80d667957d",
+    "slug": "noboa-accusa-gruppi-colombiani-di-incursione-armat-6e296f80d667957d",
+    "title": "Noboa denuncia incursione armata al confine",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-29T23:27:42.432830+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/d2234652dc7f161dbe2a45ac536831f8.jpg",
+    "occhiello": "GRUPPI COLOMBIANI A FUOCO IN ECUADOR",
+    "lead_preview": "Quito, 30 aprile. Il Presidente dell’Ecuador Daniel Noboa ha denunciato nella notte tra mercoledì 29 e giovedì 30 aprile",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "`: Max 40 words, dry facts (Claude down, when, impact on Italian users).\n       ",
@@ -421,25 +436,6 @@
       "elezioni bengala occidentale",
       "schieramento forze armate",
       "modi voto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e296f80d667957d",
-    "slug": "noboa-accusa-gruppi-colombiani-di-incursione-armat-6e296f80d667957d",
-    "title": "Noboa accusa gruppi colombiani di incursione armata al confine",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-29T23:27:42.432830+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/11/d2234652dc7f161dbe2a45ac536831f8.jpg",
-    "occhiello": "NOBOA ACCUSA PETRO DI INVASIONE ARMATA",
-    "lead_preview": "Quito, 30 aprile 2026. Il presidente dell'Ecuador Daniel Noboa ha denunciato nella notte tra mercoledì 29 e giovedì 30 a",
-    "tags": [
-      "invasione colombia",
-      "caso noboa",
-      "confine ecuador"
     ],
     "hero_eligible": true
   },
