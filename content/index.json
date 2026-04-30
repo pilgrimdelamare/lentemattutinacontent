@@ -1,5 +1,24 @@
 [
   {
+    "id": "055f46646b331868",
+    "slug": "udinese-in-campo-con-la-maglia-del-ricordo-200mila-055f46646b331868",
+    "title": "Calcio: L'Udinese indossa la maglia del ricordo per il Friuli",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-04-30T11:22:05.916290+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/28927b8842fb52bd1ddcc3c5f41a8e8e.jpg",
+    "occhiello": "UDINE SPENDE 200MILA PER IL FRIULI",
+    "lead_preview": "UDINE SPENDE 200MILA PER IL FRIULI Roma, 30 aprile — L'Udinese ha scelto il campo per un gesto che non si limita ai conf",
+    "tags": [
+      "udinese maglia ricordo",
+      "friuli terremoto memoria",
+      "calcio solidarietà udinese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4cfda772bcde2393",
     "slug": "chiara-camoni-alla-biennale-2026-una-foresta-di-pi-4cfda772bcde2393",
     "title": "Chiara Camoni alla Biennale 2026: una foresta di pietre occupa il Padiglione Italia",
@@ -539,23 +558,6 @@
       "calcio",
       "finali",
       "terza categoria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "055f46646b331868",
-    "slug": "udinese-in-campo-con-la-maglia-del-ricordo-200mila-055f46646b331868",
-    "title": "Udinese in campo con la maglia del ricordo: 200mila euro per il Friuli ferito",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-30T11:22:05.916290+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/28927b8842fb52bd1ddcc3c5f41a8e8e.jpg",
-    "occhiello": "UDINE RICORDA IL SISMA IN MAGLIA SPECIALE",
-    "lead_preview": "Udine ricorda il sisma in maglia speciale Roma, 30 aprile Il terremoto del Friuli del 1976 ha lasciato un segno indelebi",
-    "tags": [
-      "terremoto friuli"
     ],
     "hero_eligible": true
   },
