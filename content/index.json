@@ -1,5 +1,20 @@
 [
   {
+    "id": "7214c79561e56e96",
+    "slug": "powell-mantiene-tassi-al-375-7214c79561e56e96",
+    "title": "Powell mantiene tassi al 3,75%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-30T02:58:32.956610+00:00",
+    "image_type": "image",
+    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjUvMDgvMjIvMTc0ODIxMjI0LWNjMzAyYTc0LTc3MWUtNDUxZi1iNGE1LTA2ZGZmMTFiMWRhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
+    "occhiello": "POWELL RESTA A GUARDIA, MA I CONTI LI PAGANO GLI ITALIANI",
+    "lead_preview": "Washington, 30 aprile. Jerome Powell ha chiuso l'era dei tassi al 3,75% lasciando il testimone a Kevin Warsh, ma senza m",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c1169af54bb99901",
     "slug": "motogp-bezzecchi-firma-autografo-che-diventa-tatua-c1169af54bb99901",
     "title": "MotoGP: Bezzecchi scrive su pelle di fan con pennarello indelebile",
@@ -8786,21 +8801,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "803042d06f5384b8",
-    "slug": "calcio-heidenheim-batte-st-pauli-con-due-reti-nett-803042d06f5384b8",
-    "title": "Calcio: St. Pauli perde a Heidenheim",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-25T21:49:53.506813+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9156c904b6a3e4b5f1cd7fa1caba19a28ef175d4/skysport/it/calcio/bundesliga/video/2026/04/25/1092993_1777149003969_thumb_494.0000000_1777149066007.jpg",
-    "occhiello": "HEIDENHEIM PUNTA ALLA COPA EUROPEA",
-    "lead_preview": "Heidenheim, 25 aprile 2026. L'1. FC Heidenheim 1846 ha ottenuto una vittoria fondamentale per la propria corsa in classi",
-    "tags": [],
     "hero_eligible": true
   }
 ]
