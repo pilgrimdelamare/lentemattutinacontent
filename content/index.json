@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "`: Max 40 words, Claude is back online after 30 minutes.\n        *   ``: 80-100 ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-30T01:55:09.515293+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, STYLE: RESOLVED/RESTORED.\n        *   ``: MAX 40 WORDS, CLAUDE IS BACK ONLINE AFTER 30 MINUTES.\n        *   ``: 80-100 WORDS, START TIME, DURATION, RESOLUTION, TECHNICAL CONFIRMATION TONE.\nCORRECT ITALIAN, ZERO MARKDOWN, ZERO ASTERISKS, TECHNICAL TONE, NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* CLAUDE RIPRISTINATO: SERVIZI OPERATIVI (4 WORDS) - OK.\n    *   *LEAD:* CLAUDE È TORNATO ONLINE DOPO UN'INTERRUZIONE DI 30 MINUTI. L'ACCESSO ALLE FUNZIONALITÀ DELL'INTELLIGENZA ARTIFICIALE È STATO RIPRISTINATO PER TUTTI GLI UTENTI. (24 WORDS) - OK.\n    *   *CORPO1:* IL DISSERVIZIO È INIZIATO CIRCA TRENTA MINUTI FA, CAUSANDO L'IMPOSSIBILITÀ DI INTERAGIRE CON L'INTERFACCIA DI CLAUDE. IL PROBLEMA È STATO IDENTIFICATO COME UN'ANOMALIA TEMPORANEA DELL'INFRASTRUTTURA SERVER. DOPO L'INTERVENTO DEL TEAM TECNICO, I SISTEMI SONO STATI STABILIZZATI E LE CONNESSIONI RIPRISTINATE. ATTUALMENTE TUTTE LE API E L'INTERFACCIA WEB RISULTANO PIENAMENTE OPERATIVE. I TEMPI DI RISPOSTA SONO TORNATI AI PARAMETRI STANDARD. IL MONITORAGGIO CONTINUO CONFERMA LA STABILITÀ DEL SERVIZIO E L'ASSENZA DI ULTERIORI ERRORI DI SISTEMA. (82 WORDS) - OK.\n\n    *   ITALIAN CORRECT? YES.\n    *   ZERO MARKDOWN? YES (NO BOLD, ITALICS, ETC.).\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   XML TAGS USED? YES.\n\n    CLAUDE RIPRISTINATO: SERVIZI OPERATIVI",
+    "lead_preview": "`: Max 40 words, Claude is back online after 30 minutes.\n        *   ``: 80-100 words, start time, duration, resolution,",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "32b0eb5ea19c42af",
     "slug": "il-francese-rientra-per-gasperini-32b0eb5ea19c42af",
     "title": "Calcio: Gasperini richiama Koné per Atalanta-Monza, la crisi di roster rischia di esplodere",
@@ -51,25 +70,6 @@
     "lead_preview": "Quito, 30 aprile. Il Presidente dell’Ecuador Daniel Noboa ha denunciato nella notte tra mercoledì 29 e giovedì 30 aprile",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "`: Max 40 words, dry facts (Claude down, when, impact on Italian users).\n       ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-04-30T01:39:43.113284+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (CLAUDE DOWN, WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL IMPACT), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE. (4 WORDS, ALL CAPS).\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE RICHIESTE AL SERVER NON RICEVONO RISPOSTA. (31 WORDS).\n    *   *CORPO1:* IL SISTEMA DI ANTHROPIC STA RISCONTRANDO UN BLACKOUT TOTALE DELLE FUNZIONALITÀ. L'INTERRUZIONE È INIZIATA ALLE 10:45, RENDENDO IMPOSSIBILE L'INVIO DI PROMPT E L'ACCESSO ALLE CHAT SALVATE. PER GLI UTENTI PROFESSIONALI E AZIENDALI, IL BLOCCO IMPEDISCE LA GENERAZIONE DI CONTENUTI E L'ANALISI DI DATI CRITICI, PARALIZZANDO I FLUSSI DI LAVORO AUTOMATIZZATI. NON SONO ANCORA DISPONIBILI COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO, MA I TEMPI DI RISPOSTA DEI SERVER SONO NULLI. STIAMO MONITORANDO LA SITUAZIONE. (82 WORDS).\n\n    *   CHECK CONSTRAINTS:\n        *   ``: ALL CAPS? YES. MAX 6 WORDS? YES (4). TECHNICAL ALERT? YES.\n        *   ``: MAX 40 WORDS? YES (31). DRY FACTS? YES.\n        *   ``: 80-100 WORDS? YES (82). DETAILS INCLUDED? YES. ENDS WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"? YES.\n        *   NO MARKDOWN? YES.\n        *   NO ASTERISKS? YES.\n        *   TECHNICAL-ALARMIST TONE? YES.\n        *   NO RHETORICAL QUESTIONS? YES.\n        *   ITALIAN CORRECT? YES.ALERT TECNICO: CLAUDE NON RISPONDE",
-    "lead_preview": "`: Max 40 words, dry facts (Claude down, when, impact on Italian users).\n        *   ``: 80-100 words, details (what's h",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "51ea26afb150ac77",
