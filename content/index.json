@@ -1,5 +1,23 @@
 [
   {
+    "id": "09ba497a3a1911d8",
+    "slug": "fiamma-tricolore-torna-in-5-citta-liste-pronte-a-r-09ba497a3a1911d8",
+    "title": "Fiamma Tricolore si ripresenta nel 2026: Roma, Napoli e Milano in lista",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-04-30T07:36:28.482006+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/30/091717648-9fb0885e-7ea2-4761-9514-095682badb05.jpg",
+    "occhiello": "FIAMMA TRICOLORE TORNA A SBARRARE",
+    "lead_preview": "Roma, 30 aprile. Fiamma Tricolore scende in campo alle amministrative del 2026 in cinque città: Roma, Napoli, Milano, To",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9684f8fe7c077a87",
     "slug": "ciclismo-pogacar-trionfa-a-losanna-e-allunga-in-cl-9684f8fe7c077a87",
     "title": "Ciclismo: Pogačar stacca di un minuto Martínez e vince a Losanna in volata solitaria",
@@ -939,24 +957,6 @@
       "mondiale pallavolo",
       "semifinale serbia",
       "nazionale pallavolo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "09ba497a3a1911d8",
-    "slug": "fiamma-tricolore-torna-in-5-citta-liste-pronte-a-r-09ba497a3a1911d8",
-    "title": "Fiamma tricolore ritorna nelle capitali del nord e del sud",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-30T07:36:28.482006+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/30/091717648-9fb0885e-7ea2-4761-9514-095682badb05.jpg",
-    "occhiello": "FIAMMA TRICOLORE RITORNA NELLE CAPITALI DEL NORD E DEL SUD",
-    "lead_preview": "Roma, 30 aprile. Fiamma Tricolore correrà alle prossime elezioni amministrative del 2026 in cinque città: Roma, Napoli, ",
-    "tags": [
-      "fiamma tricolore",
-      "elezioni amministrative 2026"
     ],
     "hero_eligible": true
   },
