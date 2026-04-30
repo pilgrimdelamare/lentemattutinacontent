@@ -1,0 +1,60 @@
+{
+  "id": "76932622d1ba571b",
+  "slug": "calcio-galloppa-tuona-fermi-i-giovani-bravi-litali-76932622d1ba571b",
+  "title": "Calcio: Galloppa tuona: \"Fermi i giovani bravi, l'Italia non li merita\"",
+  "titles": [
+    "Calcio: Galloppa tuona: \"Fermi i giovani bravi, l'Italia non li merita\"",
+    "Calcio: Primavera, Galloppa sbotta: \"Il nostro Calcio soffoca i talenti\"",
+    "Calcio: Senza i nostri campioni l'Italia affonda: la denuncia del tecnico della Fiorentina"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "FIORENTINA, SERVE TENERE IN ITALIA I GIOVANI BRAVI",
+  "lead": "Firenze, 30 aprile L'allenatore della Primavera della Fiorentina, Daniele Galloppa, ha rilasciato un'intervista in diretta su Sky Sport 24: \"Serve tenere in Italia i giovani bravi\".",
+  "corpo1": "Daniele Galloppa, allenatore della Primavera della Fiorentina, ha espresso la sua opinione in diretta su Sky Sport 24: \"Se consiglierei un'esperienza all'estero? Dire ai ragazzi di andar via dall'Italia è un messaggio che non mi piacerebbe mandare perché serve ricostruire a casa nostra\". Secondo Galloppa, \"abbiamo tanto bisogno di tenere con noi i ragazzi bravi\" e ha aggiunto che \"a livello culturale il modo in cui viviamo il calcio non aiuta un giovane\" \"A livello culturale il modo in cui viviamo il Calcio non aiuta un giovane, se lo facciamo giocare due partite lo si etichetta magari come non pronto\", ha commentato.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-04-30T13:52:02.950384+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/4b810474a580af6d6942ac116b471d43a13dc88a/skysport/it/calcio/serie-a/video/2026/04/30/fiorentina-galloppa-intervista-news-1094110/sky_sport_galloppa_fiorentina.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Calcio: Galloppa tuona: \\\"Fermi i giovani bravi, l'Italia non li merita\\\"\",\n  \"description\": \"Firenze, 30 aprile L'allenatore della Primavera della Fiorentina, Daniele Galloppa, ha rilasciato un'intervista in diretta su Sky Sport 24: \\\"Serve tenere in Italia i giovani bravi\\\".\",\n  \"articleBody\": \"Firenze, 30 aprile L'allenatore della Primavera della Fiorentina, Daniele Galloppa, ha rilasciato un'intervista in diretta su Sky Sport 24: \\\"Serve tenere in Italia i giovani bravi\\\". Daniele Galloppa, allenatore della Primavera della Fiorentina, ha espresso la sua opinione in diretta su Sky Sport 24: \\\"Se consiglierei un'esperienza all'estero? Dire ai ragazzi di andar via dall'Italia è un messaggio che non mi piacerebbe mandare perché serve ricostruire a casa nostra\\\". Secondo Galloppa, \\\"abbiamo tanto bisogno di tenere con noi i ragazzi bravi\\\" e ha aggiunto che \\\"a livello culturale il modo in cui viviamo il calcio non aiuta un giovane\\\" \\\"A livello culturale il modo in cui viviamo il Calcio non aiuta un giovane, se lo facciamo giocare due partite lo si etichetta magari come non pronto\\\", ha commentato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-30T13:52:02.950384+00:00\",\n  \"dateModified\": \"2026-04-30T13:52:02.950384+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/76932622d1ba571b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/76932622d1ba571b\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/4b810474a580af6d6942ac116b471d43a13dc88a/skysport/it/calcio/serie-a/video/2026/04/30/fiorentina-galloppa-intervista-news-1094110/sky_sport_galloppa_fiorentina.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 5,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/calcio/serie-a/video/2026/04/30/fiorentina-galloppa-intervista-news-1094110",
+  "related": [
+    {
+      "title": "Calcio: L'Atalanta batte la Juve ai rigori e vince la Coppa Italia Primavera",
+      "url": "/sport/calcio-atalanta-vince-la-coppa-italia-primavera-ai-0cde261f897dba29",
+      "id": "0cde261f897dba29",
+      "image_url": "https://sport.sky.it/assets/images/e14f22b6156b10218a464f4aa4fb9f471cab7edd/skysport/it/calcio/coppa-italia/2026/04/29/atalanta-juventus-finale-coppa-italia-primavera-risultato-gol/atalanta_primavera_coppa_italia.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Calcio: Upamecano e un talento locale aiutano i giovani di Évreux a sognare in grande",
+      "url": "/sport/calcio-dembele-e-upamecano-portano-i-ragazzi-di-ev-5c84a3106c589173",
+      "id": "5c84a3106c589173",
+      "image_url": "https://sport.sky.it/assets/images/722a3f86a357a8a5b4aa9e5c799328327e900e62/skysport/it/calcio/champions-league/2026/04/28/psg-bayern-monaco-dembele-upamecano-invito-giovani-quartiere/ipa_bayern_dembele_upamecano_psg.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Calcio: Hakan Çalhanoğlu alza la Coppa Italia nel ventesimo anniversario dell'Inter",
+      "url": "/sport/calhanoglu-si-porta-apresso-la-coppa-italia-be3f3bf172d94a8a",
+      "id": "be3f3bf172d94a8a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/66c4e52727c1430599a9b7a0fd90e294.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
