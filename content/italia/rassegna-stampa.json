@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 29 aprile 2026",
+  "title": "Le prime pagine di oggi, giovedì 30 aprile 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 29 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 29 aprile 2026",
-    "Le prime pagine di oggi, mercoledì 29 aprile 2026"
+    "Le prime pagine di oggi, giovedì 30 aprile 2026",
+    "Le prime pagine di oggi, giovedì 30 aprile 2026",
+    "Le prime pagine di oggi, giovedì 30 aprile 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 29 APRILE 2026: FOCUS SUL CASO MINETTI E POLITICA",
-  "lead": "Il caso legato alla grazia a Nicole Minetti domina le prime pagine dei principali giornali italiani. Corriere della Sera, La Repubblica, La Stampa e Messaggero dedicano ampio spazio alla vicenda, con particolare attenzione alle indagini della Procura e alle reazioni del governo. Il Corriere e la Stampa sottolineano criticità nell’indagine, mentre La Repubblica pubblica dichiarazioni della premier Giorgia Meloni in difesa del ministro Nordio. Tra le altre notizie, i giornali sportivi si concentrano su calciomercato e risultati di Champions League.",
-  "corpo1": "Il Corriere della Sera titola su “buchi nell’indagine” e il parere della Procura generale. La Repubblica apre con “Meloni difende Nordio”, sostenendo che “dal governo nulla di sbagliato”. La Stampa sottolinea lo “scontro Procura-Nordio” e le critiche dei giudici. Il Messaggero si concentra sulle “nuove verifiche” sull’ex senatrice. Il Corriere della Sera e la Stampa citano l’impegno dell’Interpol, mentre il Messaggero segnala un uomo incastrato da due video in un episodio di cronaca. I quotidiani sportivi Gazzetta dello Sport e Corriere dello Sport si dedicano a piani del Milan, obiettivi dell’Inter e sviluppi dell’Aia.",
-  "corpo2": "Di spalla, La Repubblica pubblica uno “sfogo” non specificato. La Stampa menziona un commento di Segre, mentre Prima pagina 9 include una “dichiarazione di accessibilità”. Il tema dominante rimane il caso Minetti, che coinvolge indagini, politica e reazioni del governo.",
+  "occhiello": "LE PRIME PAGINE 30 APRILE 2026",
+  "lead": "Oggi, le prime pagine dei principali quotidiani italiani convergono su due grandi storie: la confessione di Eitan Bondi, accusato di sparare ai due iscritti all'Anpi a Roma il 25 aprile, e l'attenzione sulla Guerra Ucraina-Russia. Le vicende relative a Nicole Minetti e i commenti sul mercato calcistico completano il quadro informativo.",
+  "corpo1": "Il Corriere della Sera e Repubblica offrono dettagli sulla confessione di Eitan Bondi, il 21enne che ha ammesso di aver sparato il 25 aprile a Roma. Il Corriere fa notare il fermo di Bondi, accusato di tentato omicidio, e sottolinea le distanze della comunità ebraica. Repubblica evidenzia la confessione di Bondi e descrive l'armamento trovato nella sua abitazione. La Stampa, invece, si concentra sull'allarme lanciato dall'Ue riguardo ai 'costi insostenibili della guerra' tra Ucraina e Russia, citando le parole di Von der Leyen. Il Messaggero parla ulteriormente del caso Bondi, con particolare attenzione alle smentite sulla sua adesione alla Brigata ebraica, e dedica spazio alle indagini su Nicole Minetti. La Gazzetta dello Sport presenta un'intervista esclusiva a Simone Inzaghi, ex tecnico dell'Inter, mentre il Corriere dello Sport si concentra sul mercato dell'Inter e sul futuro di José Mourinho.",
+  "corpo2": "La Gazzetta dello Sport dedica spazio anche al possibile interesse della Juventus per Bernardo Silva, mentre il Messaggero continua a seguire il caso Minetti. Il tema dominante della giornata risulta essere la confessione di Eitan Bondi e le sue implicazioni, con ulteriore attenzione sulla situazione geopolitica legata alla Guerra Ucraina-Russia.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,22 +23,22 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-04-29T05:51:05.981475+00:00",
+  "published_at": "2026-04-30T05:45:47.837048+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/b42703e2e422e4a0665880ccb5e4e34077002a46/skytg24/it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile/Composite_29_aprile.jpg?im=Resize,width=375",
-    "source": "25 aprile 2026",
-    "credit": "Prima pagina — 25 aprile 2026",
+    "url": "https://tg24.sky.it/assets/images/5e29b39d8fe555b3094961f8a96cd1b9c171c59e/skytg24/it/cronaca/2026/04/30/prime-pagine-quotidiani-oggi-30-aprile/Composite_30_aprile.jpg?im=Resize,width=375",
+    "source": "Nicole Minetti a passeggio in centro a Milano",
+    "credit": "Prima pagina — Nicole Minetti a passeggio in centro a Milano",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile",
+  "original_url": "https://tg24.sky.it/cronaca/2026/04/30/prime-pagine-quotidiani-oggi-30-aprile",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 29 aprile 2026",
+      "title": "Oroscopo di oggi, giovedì 30 aprile 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
