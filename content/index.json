@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260430",
+    "slug": "libro-del-giorno-come-isole-nel-maredi-nuria-perez-20260430",
+    "title": "Il libro del giorno: «Come isole nel maredi Nuria Pérez»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo corale che intreccia tre vite femminili attraverso il tempo, legate da un oggetto e dal peso della colpa",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-04-30T07:00:21.520918+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788842936336_0_0_464_0_75-e8795.jpg?1775676086",
+      "alt": "Copertina: Come isole nel maredi Nuria Pérez",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788842936336_0_0_464_0_75-e8795.jpg?1775676086",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "a54f84d3be2963fa",
     "slug": "leuro-si-scambia-a-11662-dollari-a-roma-stabile-su-a54f84d3be2963fa",
     "title": "L'euro si scambia a 1,1662 dollari a Roma, stabile sui mercati",
@@ -8797,24 +8816,6 @@
       "serie b",
       "calcio",
       "debiti sportivi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c0667d01791e533b",
-    "slug": "crollo-della-pro-vercelli-larzignano-vince-tre-a-z-c0667d01791e533b",
-    "title": "Matteo Scappini sfonda la partita con il primo gol all'11'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-25T23:40:55.384658+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/91c348991117655455a109fbee438cb68dd9de27/skysport/it/calcio/serie-c/video/2026/04/26/1093007_1777151426355_thumb_494.0000001_1777155545564.jpg",
-    "occhiello": "",
-    "lead_preview": "Arzignano, 26 aprile. L’Arzignano ha battuto 4-0 il Vercelli nella trentottesima giornata del girone A di Serie C, chiud",
-    "tags": [
-      "serie c",
-      "calcio"
     ],
     "hero_eligible": true
   }
