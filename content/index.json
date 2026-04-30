@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 30 aprile 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-04-30T05:45:47.837048+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5e29b39d8fe555b3094961f8a96cd1b9c171c59e/skytg24/it/cronaca/2026/04/30/prime-pagine-quotidiani-oggi-30-aprile/Composite_30_aprile.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 30 APRILE 2026",
+    "lead_preview": "Oggi, le prime pagine dei principali quotidiani italiani convergono su due grandi storie: la confessione di Eitan Bondi,",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e538868396c44664",
     "slug": "tennis-sinner-annulla-palla-break-con-passante-lun-e538868396c44664",
     "title": "Tennis: Sinner dà una lezione di tecnica a Alcaraz",
@@ -1435,25 +1454,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 29 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-29T05:51:05.981475+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/b42703e2e422e4a0665880ccb5e4e34077002a46/skytg24/it/cronaca/2026/04/29/prime-pagine-quotidiani-oggi-29-aprile/Composite_29_aprile.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 29 APRILE 2026: FOCUS SUL CASO MINETTI E POLITICA",
-    "lead_preview": "Il caso legato alla grazia a Nicole Minetti domina le prime pagine dei principali giornali italiani. Corriere della Sera",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
