@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare smentisce blackout di 898 minuti: calma dopo l'allarme globale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-29T09:32:32.423015+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "NO BLACKOUT GLOBALI: CLARIFICA DI CLOUDFLARE",
+    "lead_preview": "Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout g",
+    "tags": [
+      "blackout cloudflare"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, giovedì 30 aprile 2026",
@@ -1288,24 +1305,6 @@
       "errori arbitrali serie a",
       "abete uefa",
       "serie a 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare non annuncia blackout globale da 898 minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-29T09:32:32.423015+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "NESSUN BLACKOUT GLOBALE DI CLOUDFLARE",
-    "lead_preview": "Roma, 29 aprile. Cloudflare non ha subito alcun blackout globale della durata di 898 minuti, né è stato interrotto da un",
-    "tags": [
-      "cloudflare",
-      "blackout"
     ],
     "hero_eligible": true
   },
