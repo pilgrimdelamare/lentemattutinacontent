@@ -1,5 +1,24 @@
 [
   {
+    "id": "51ea26afb150ac77",
+    "slug": "teatro-san-carlo-raccoglie-fondi-per-sannazaro-con-51ea26afb150ac77",
+    "title": "San Carlo spende 300mila euro per salvare la scuola della Sanità: il concerto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-29T14:17:35.310896+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/18/9c9b804aeac9c591c8393bd6fd36ab9c.jpg",
+    "occhiello": "300.000 euro per un concerto a favore del Sannazaro",
+    "lead_preview": "300.000 euro per un teatro che muore Napoli, 29 aprile 2026 — Il Teatro San Carlo ospiterà un concerto da 300.000 euro a",
+    "tags": [
+      "concerto san carlo",
+      "scuola sanità napoli",
+      "sannazaro teatro napoli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e96876a800d11c47",
     "slug": "decio-guida-ibl-banca-dopo-21-miliardi-di-perdite-e96876a800d11c47",
     "title": "Ibl Banca perde 2,1 miliardi in un anno e nomina Decio Presidente",
@@ -1126,25 +1145,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51ea26afb150ac77",
-    "slug": "teatro-san-carlo-raccoglie-fondi-per-sannazaro-con-51ea26afb150ac77",
-    "title": "San Carlo si mobilita: concerto da 300mila euro a favore del Sannazaro in agonia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-29T14:17:35.310896+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/18/9c9b804aeac9c591c8393bd6fd36ab9c.jpg",
-    "occhiello": "IL SAN CARLO PIANGE, IL SANNAZARO SE NE VA",
-    "lead_preview": "IL SAN CARLO PIANGE, IL SANNAZARO SE NE VA Napoli, 29 aprile 2026. Il Teatro San Carlo ospiterà il 9 maggio un concerto ",
-    "tags": [
-      "concerto san carlo",
-      "sannazaro in agonia",
-      "raccolta fondi napoli"
     ],
     "hero_eligible": true
   },
