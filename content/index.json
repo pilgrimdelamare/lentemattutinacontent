@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "`: Max 40 words, dry facts (Claude down, when, impact on Italian users).\n       ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-04-30T01:39:43.113284+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (CLAUDE DOWN, WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL IMPACT), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\n\n        *   CORRECT ITALIAN.\n        *   ZERO MARKDOWN (NO BOLD, ITALICS, ETC.).\n        *   ZERO ASTERISKS.\n        *   TECHNICAL-ALARMIST TONE.\n        *   NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE. (4 WORDS, ALL CAPS).\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO CIRCA 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER MIGLIAIA DI UTENTI IN ITALIA. LE RICHIESTE AL SERVER NON RICEVONO RISPOSTA. (31 WORDS).\n    *   *CORPO1:* IL SISTEMA DI ANTHROPIC STA RISCONTRANDO UN BLACKOUT TOTALE DELLE FUNZIONALITÀ. L'INTERRUZIONE È INIZIATA ALLE 10:45, RENDENDO IMPOSSIBILE L'INVIO DI PROMPT E L'ACCESSO ALLE CHAT SALVATE. PER GLI UTENTI PROFESSIONALI E AZIENDALI, IL BLOCCO IMPEDISCE LA GENERAZIONE DI CONTENUTI E L'ANALISI DI DATI CRITICI, PARALIZZANDO I FLUSSI DI LAVORO AUTOMATIZZATI. NON SONO ANCORA DISPONIBILI COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO, MA I TEMPI DI RISPOSTA DEI SERVER SONO NULLI. STIAMO MONITORANDO LA SITUAZIONE. (82 WORDS).\n\n    *   CHECK CONSTRAINTS:\n        *   ``: ALL CAPS? YES. MAX 6 WORDS? YES (4). TECHNICAL ALERT? YES.\n        *   ``: MAX 40 WORDS? YES (31). DRY FACTS? YES.\n        *   ``: 80-100 WORDS? YES (82). DETAILS INCLUDED? YES. ENDS WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"? YES.\n        *   NO MARKDOWN? YES.\n        *   NO ASTERISKS? YES.\n        *   TECHNICAL-ALARMIST TONE? YES.\n        *   NO RHETORICAL QUESTIONS? YES.\n        *   ITALIAN CORRECT? YES.ALERT TECNICO: CLAUDE NON RISPONDE",
+    "lead_preview": "`: Max 40 words, dry facts (Claude down, when, impact on Italian users).\n        *   ``: 80-100 words, details (what's h",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "51ea26afb150ac77",
     "slug": "teatro-san-carlo-raccoglie-fondi-per-sannazaro-con-51ea26afb150ac77",
     "title": "Napoli, il San Carlo offre 300mila euro per salvare il Liceo Sannazaro a rischio crollo",
@@ -2296,23 +2315,6 @@
       "regolamento tariffario ue",
       "perdite produttori riso",
       "preferenze tariffarie 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Blackout di Claude per 71 minuti: l'AI di Anthropic crolla senza spiegazioni",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-28T19:00:20.355308+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "ANTHROPIC CONFERMA UN OUTAGE DI 71 MINUTI",
-    "lead_preview": "San Francisco, 28 aprile. Il modello di intelligenza artificiale Claude di Anthropic è stato offline per 71 minuti, dall",
-    "tags": [
-      "blackout claude"
     ],
     "hero_eligible": true
   },
