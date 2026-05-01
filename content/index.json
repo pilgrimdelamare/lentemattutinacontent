@@ -1,5 +1,24 @@
 [
   {
+    "id": "4e121e86674c48f0",
+    "slug": "ucraina-perde-17mila-soldati-in-3-mesi-berlino-acc-4e121e86674c48f0",
+    "title": "Ucraina perde 17mila soldati in due mesi: metà delle truppe al fronte fuori combattimento",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-30T14:36:09.296945+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/7c2561629134ecfa69863016dd0f887a.jpg",
+    "occhiello": "KIEV CONTA 17MILA CADUTI IN DUE MESI",
+    "lead_preview": "KIEV CONTA 17MILA CADUTI IN DUE MESI Kiev, 30 aprile. Il ministero della Difesa ucraino ha comunicato questa mattina la ",
+    "tags": [
+      "guerra ucraina",
+      "perdite militari ucraina",
+      "caduti fronte ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9d5e2280a8ca0301",
     "slug": "caparezza-annuncia-la-tournee-orbit-orbit-arrivera-9d5e2280a8ca0301",
     "title": "Caparezza vende 250mila biglietti in 72 ore per il tour Orbit Orbit a Napoli",
@@ -961,24 +980,6 @@
       "champions league",
       "arsenal fuori",
       "var annulla"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e121e86674c48f0",
-    "slug": "ucraina-perde-17mila-soldati-in-3-mesi-berlino-acc-4e121e86674c48f0",
-    "title": "Ucraina: Kiev ammette 17mila morti al fronte, reparti sotto il 50% della forza",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-30T14:36:09.296945+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/7c2561629134ecfa69863016dd0f887a.jpg",
-    "occhiello": "BERLINO SPENDE PER DIFENDERSI DA SOLI",
-    "lead_preview": "Washington, 30 aprile. L'esercito ucraino avrebbe perso 17mila soldati tra febbraio e aprile, mentre il governo tedesco ",
-    "tags": [
-      "guerra ucraina",
-      "difesa germania"
     ],
     "hero_eligible": true
   },
