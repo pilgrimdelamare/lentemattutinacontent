@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 1 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-01T05:46:01.346163+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b7c558a7b3ce8b3cde1b59936233dbb3791fe1a1/skytg24/it/cronaca/2026/05/01/prime-pagine-quotidiani-oggi-1-maggio/collage_2.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 1 MAGGIO 2026",
+    "lead_preview": "La maggior parte dei quotidiani concentra l'attenzione sulle tensioni internazionali, in particolare la situazione in Me",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dc05f9483c355526",
     "slug": "basket-rissa-a-new-york-robinson-e-daniels-espulsi-dc05f9483c355526",
     "title": "Basket: Rissa a New York, Robinson e Daniels espulsi al Madison Square Garden",
@@ -1725,25 +1744,6 @@
     "lead_preview": "Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout g",
     "tags": [
       "blackout cloudflare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 30 aprile 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-04-30T05:45:47.837048+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5e29b39d8fe555b3094961f8a96cd1b9c171c59e/skytg24/it/cronaca/2026/04/30/prime-pagine-quotidiani-oggi-30-aprile/Composite_30_aprile.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 30 APRILE 2026",
-    "lead_preview": "Oggi, le prime pagine dei principali quotidiani italiani convergono su due grandi storie: la confessione di Eitan Bondi,",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
