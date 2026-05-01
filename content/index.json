@@ -1,5 +1,24 @@
 [
   {
+    "id": "d9d51338f111989b",
+    "slug": "86-dos-torna-su-github-il-codice-che-sta-alla-base-d9d51338f111989b",
+    "title": "Microsoft su GitHub pubblica codice originale di MS-DOS: il sistema operativo che rese ricca America",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-04-30T14:40:10.312086+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/30/162459869-be945d6c-7d02-42f6-91d3-1eddd815f046.jpg",
+    "occhiello": "Microsoft pubblica il codice sorgente originale di 86-DOS su GitHub",
+    "lead_preview": "Microsoft pubblica il codice sorgente originale di 86-DOS su GitHub Redmond, 30 aprile. Microsoft ha pubblicato su GitHu",
+    "tags": [
+      "ms-dos github",
+      "storia informatica",
+      "86-dos originale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1789d7889013a9bf",
     "slug": "gabriele-gravina-minaccia-le-dimissioni-se-malago-1789d7889013a9bf",
     "title": "Gravina minaccia di dimettersi se AIC e AIAC bloccano la riforma TV",
@@ -1137,24 +1156,6 @@
       "the factory film",
       "andy warhol film",
       "marco bianchi regia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9d51338f111989b",
-    "slug": "86-dos-torna-su-github-il-codice-che-sta-alla-base-d9d51338f111989b",
-    "title": "Microsoft pubblica codice 86-DOS",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-30T14:40:10.312086+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/30/162459869-be945d6c-7d02-42f6-91d3-1eddd815f046.jpg",
-    "occhiello": "MICROSOFT PUBBLICA IL CODICE ORIGINALE DI 86-DOS SU GITHUB",
-    "lead_preview": "Redmond, 30 aprile. Microsoft ha reso pubblico il codice sorgente originale di 86-DOS, il sistema operativo sviluppato n",
-    "tags": [
-      "codice 86-dos",
-      "microsoft github"
     ],
     "hero_eligible": true
   },
