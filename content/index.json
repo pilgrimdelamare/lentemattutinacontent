@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260501",
+    "slug": "libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
+    "title": "Felicia Kingsley lancia il nuovo romanzo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-01T07:01:09.822386+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
+    "occhiello": "IL ROMANZO DI KINGSLEY PARLA SOLO DI PARIGI",
+    "lead_preview": "Roma, 1 maggio. Parigi, 30 aprile 2026 (fonte originale non specifica la data): Felicia Kingsley ha pubblicato Mezzanott",
+    "tags": [
+      "romanzo kingsley",
+      "mezzanotte a parigi",
+      "felicia kingsley"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "49f2c19804ac3f78",
     "slug": "lagarde-detta-le-regole-tassi-bce-fermi-al-2-ma-fr-49f2c19804ac3f78",
     "title": "Tassi BCE immutati: Intesa Sanpaolo incassa 1,2 miliardi, Italiani 18 euro in meno per ogni mutuo",
@@ -474,25 +493,6 @@
       "mondadori editoria"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260501",
-    "slug": "libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
-    "title": "Il libro del giorno: «Mezzanotte a Parigidi Felicia Kingsley»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che intreccia arte, storia e romance nella Parigi notturna",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-01T07:01:09.822386+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
-      "alt": "Copertina: Mezzanotte a Parigidi Felicia Kingsley",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "5ffe35b48898171c",
