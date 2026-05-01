@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260501",
+    "slug": "libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
+    "title": "Il libro del giorno: «Mezzanotte a Parigidi Felicia Kingsley»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che intreccia arte, storia e romance nella Parigi notturna",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-01T07:01:09.822386+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
+      "alt": "Copertina: Mezzanotte a Parigidi Felicia Kingsley",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "5ffe35b48898171c",
     "slug": "calcio-juve-verona-last-chance-bianconera-la-champ-5ffe35b48898171c",
     "title": "Juventus, Zunino guarda avanti: \"Meritiamo la Conference League, il Verona non regala nulla\"",
@@ -8851,21 +8870,6 @@
       "discorso san pietro",
       "tensione europea"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0436f62957031390",
-    "slug": "i-buddha-di-bamiyan-tornano-in-vita-con-unopera-co-0436f62957031390",
-    "title": "Artista Usa-Vietnamita Nguyen presenta scultura ispirata ai Buddha di Bamiyan sulla High Line",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-26T09:46:42.197050+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/44eb9f5836fb0f62e96c778fa21e228d.jpg",
-    "occhiello": "SCULTURA IN ONORE DEI BUDDHA DI BAMYAN",
-    "lead_preview": "New York, 26 aprile. L'artista vietnamita-americano Tuan Andrew Nguyen ha installato una scultura ispirata ai Buddha di ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
