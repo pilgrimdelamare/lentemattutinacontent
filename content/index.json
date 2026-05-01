@@ -1,5 +1,23 @@
 [
   {
+    "id": "1805122b6bb5b71c",
+    "slug": "dow-jones-sale-dell059-1805122b6bb5b71c",
+    "title": "Dow Jones sale a 41.785 punti ma i salari reali calano dello 0,1%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-04-30T14:01:36.388822+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/2d19b2e788cd43afbd11335c46d8dcc3.jpg",
+    "occhiello": "DOW JONES A 41.785: IL RIMBALZO È SOLO PER GLI AZIONISTI",
+    "lead_preview": "New York, 30 aprile. Il Dow Jones Industrial Average ha chiuso la seduta a +0,18%, fermandosi a quota 41.785 punti — un ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "70ee64c45b3df971",
     "slug": "circo-massimo-diventa-luogo-di-attesa-per-aggiorna-70ee64c45b3df971",
     "title": "Il Viminale apre 500 appuntamenti al giorno al Circo Massimo per rilasciare la CIE",
@@ -937,25 +955,6 @@
       "codice 86-dos",
       "github",
       "microsoft"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1805122b6bb5b71c",
-    "slug": "dow-jones-sale-dell059-1805122b6bb5b71c",
-    "title": "Dow Jones a quota 41.785: rimbalzo fragile sotto i 42.000 punti",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-30T14:01:36.388822+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/2d19b2e788cd43afbd11335c46d8dcc3.jpg",
-    "occhiello": "IL DOW JONES RIMBALZA, MA NON PER VOI",
-    "lead_preview": "IL DOW JONES RIMbalza, ma non per voi New York, 30 aprile. Il Dow Jones Industrial Average ha chiuso la seduta con un +0",
-    "tags": [
-      "dow jones 41.785",
-      "borsa new york",
-      "rimbalzo fragile mercati"
     ],
     "hero_eligible": true
   },
