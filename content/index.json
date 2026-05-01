@@ -1,5 +1,23 @@
 [
   {
+    "id": "4cfda772bcde2393",
+    "slug": "chiara-camoni-alla-biennale-2026-una-foresta-di-pi-4cfda772bcde2393",
+    "title": "Padiglione Italia alla Biennale: Camoni porta 1.872 pietre per Pasolini",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-04-30T14:45:31.820883+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/10/cb9bd0f29686e4415fbfc216f6b056a4.jpg",
+    "occhiello": "1.872 PIETRE PER PAOLO",
+    "lead_preview": "Venezia, 30 aprile. Il Padiglione Italia alla 60ª Biennale d’Arte trasforma lo spazio in un atto di resistenza culturale",
+    "tags": [
+      "biennale arte venezia",
+      "padiglione italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "df803a3afb1f7d79",
     "slug": "maersk-genova-licenzia-e-reintegra-in-2-ore-un-giu-df803a3afb1f7d79",
     "title": "Maersk Genova deve riassumere subito la dipendente licenziata in due ore",
@@ -959,24 +977,6 @@
       "vivo azzurro tv",
       "finali calcio base",
       "diritti streaming figc"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4cfda772bcde2393",
-    "slug": "chiara-camoni-alla-biennale-2026-una-foresta-di-pi-4cfda772bcde2393",
-    "title": "1.872 Pietre e la voce negata: Camoni riscrive Pasolini in mostra a Venezia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-30T14:45:31.820883+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/10/cb9bd0f29686e4415fbfc216f6b056a4.jpg",
-    "occhiello": "UNA FORESTA DI PIETRE TRAVERSA IL PADIGLIONE ITALIA",
-    "lead_preview": "Venezia, 30 aprile. Padiglione Italia della 60ª Biennale d’Arte, ore 11:33. Chiara Camoni ha trasformato lo spazio in un",
-    "tags": [
-      "biennale arte venezia",
-      "chiara camoni"
     ],
     "hero_eligible": true
   },
