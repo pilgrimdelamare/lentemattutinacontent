@@ -1,5 +1,24 @@
 [
   {
+    "id": "42745d78868cebb2",
+    "slug": "tuapse-paralizzata-droni-ucraini-bruciano-la-raffi-42745d78868cebb2",
+    "title": "Un drone ucraino colpisce la raffineria di Tuapse, 23mila sfollati e 1,2 miliardi in danni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-01T08:46:29.366246+00:00",
+    "image_type": "image",
+    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/30/1777577362-AP26119394394263.jpg",
+    "occhiello": "RAFFINERIA ROSNEFT A TUA PSE IN FIAMME",
+    "lead_preview": "Tuapse, 30 aprile. Alle 3:17 ora locale un attacco con droni ucraini ha colpito la raffineria Rosneft di Tuapse, in Russ",
+    "tags": [
+      "guerra ucraina",
+      "raffineria incendiata",
+      "droni ucraini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7179e13f1d48a4a9",
     "slug": "pensione-milionaria-a-cristina-kirchner-85300-peso-7179e13f1d48a4a9",
     "title": "La Corte Suprema Argentina restituisce 85mila pesos a Cristina Fernández de Kirchner",
@@ -1013,25 +1032,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "42745d78868cebb2",
-    "slug": "tuapse-paralizzata-droni-ucraini-bruciano-la-raffi-42745d78868cebb2",
-    "title": "Drone ucraino devasta raffineria Russa: 23mila sfollati e 1,2 miliardi bruciati a Tuapse",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-01T08:46:29.366246+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/30/1777577362-AP26119394394263.jpg",
-    "occhiello": "DRONI UCRAINI ALIMENTANO IL FUMO DI GUERRA",
-    "lead_preview": "Tuapse, 30 aprile. Alle 3:17 ora locale un attacco con droni ucraini ha colpito la raffineria Rosneft di Tuapse, in Russ",
-    "tags": [
-      "attacco droni ucraina",
-      "incendio raffineria tuapse",
-      "sfollati guerra russia"
     ],
     "hero_eligible": true
   },
