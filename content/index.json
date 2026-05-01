@@ -1,5 +1,24 @@
 [
   {
+    "id": "c56d3ba71fc131eb",
+    "slug": "maradona-era-bipolare-lo-rivela-uno-psicologo-al-p-c56d3ba71fc131eb",
+    "title": "Maradona muore per negligenza: 72 ore senza monitoraggio in clinica",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-04-30T23:48:07.925080+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/1/755c4b30bd41dc0a8af915e0b383eab1.jpg",
+    "occhiello": "MEDICI SENZA MONITOR PER 72 ORE",
+    "lead_preview": "MEDICI SENZA MONITOR PER 72 ORE Buenos Aires, 30 aprile. Il tribunale federale numero 5 di Buenos Aires ha depositato og",
+    "tags": [
+      "morte maradona",
+      "perizia clinica",
+      "negligenza medica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c38591cbf975d3ab",
     "slug": "annalisa-corrado-denuncia-abusi-subiti-da-minorenn-c38591cbf975d3ab",
     "title": "Annalisa Corrado, Eurodeputata PD, rivela abusi di un prete gesuita a 16 anni",
@@ -888,25 +907,6 @@
       "madrid open 2024",
       "sinner semifinale",
       "tennis maschile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c56d3ba71fc131eb",
-    "slug": "maradona-era-bipolare-lo-rivela-uno-psicologo-al-p-c56d3ba71fc131eb",
-    "title": "Maradona muore per overdose: i medici non l’hanno monitorato per 72 ore",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-30T23:48:07.925080+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/1/755c4b30bd41dc0a8af915e0b383eab1.jpg",
-    "occhiello": "PERIZIA SULLA MORTE DI MARADONA / UN RACCONTO DI NEGLIGENZA",
-    "lead_preview": "PERIZIA SULLA MORTE DI MARADONA / UN RACCONTO DI NEGLIGENZA Secondo la perizia depositata oggi presso il tribunale di Bu",
-    "tags": [
-      "perizia morte maradona",
-      "overdose maradona",
-      "negligenza medica"
     ],
     "hero_eligible": true
   },
