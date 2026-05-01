@@ -1,5 +1,24 @@
 [
   {
+    "id": "9be7e0a4536bcb85",
+    "slug": "tennis-berrettini-si-ferma-a-cagliari-hurkacz-vola-9be7e0a4536bcb85",
+    "title": "Tennis: Berrettini si ferma a causa di un infortunio muscolare",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-01T19:10:00.872286+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/c40a34a3ba8d9bc71420eafadce4f861.jpg",
+    "occhiello": "BERRETTINI FERMO, HURKACZ IN TOP 10",
+    "lead_preview": "Cagliari, 1 maggio. Matteo Berrettini si ferma in Sardegna per un problema muscolare alla coscia destra durante il torne",
+    "tags": [
+      "infortunio berrettini",
+      "torneo cagliari",
+      "ranking hurkacz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c56d3ba71fc131eb",
     "slug": "maradona-era-bipolare-lo-rivela-uno-psicologo-al-p-c56d3ba71fc131eb",
     "title": "Maradona muore per negligenza: 72 ore senza monitoraggio in clinica",
@@ -146,25 +165,6 @@
       "mezzanott kingsley",
       "saga nick montecristo",
       "felicia kingsley libri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9be7e0a4536bcb85",
-    "slug": "tennis-berrettini-si-ferma-a-cagliari-hurkacz-vola-9be7e0a4536bcb85",
-    "title": "Tennis: Berrettini si ferma a Cagliari, Hurkacz vola al settimo posto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-01T19:10:00.872286+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/c40a34a3ba8d9bc71420eafadce4f861.jpg",
-    "occhiello": "TENNIS: BERRETTINI BATTUTO AI QUARTI DA HURKACZ A CAGLIARI",
-    "lead_preview": "Cagliari, 1 maggio.",
-    "tags": [
-      "tennis cagliari",
-      "berrettini hurkacz",
-      "atp tour sardegna"
     ],
     "hero_eligible": true
   },
