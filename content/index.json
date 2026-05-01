@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260501",
+    "slug": "libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
+    "title": "Felicia Kingsley: il Libro \"Mezzanott\" sbarca in libreria con 120.000 copie",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-01T07:01:09.822386+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
+    "occhiello": "IL NUOVO KINGSLEY PUNTA SU LADRI E SHAKESPEARE",
+    "lead_preview": "Roma, 1 maggio. Felicia Kingsley ha appena pubblicato Mezzanott, l'ultimo capitolo della saga di Nick Montecristo: un la",
+    "tags": [
+      "mezzanott kingsley",
+      "saga nick montecristo",
+      "felicia kingsley libri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9be7e0a4536bcb85",
     "slug": "tennis-berrettini-si-ferma-a-cagliari-hurkacz-vola-9be7e0a4536bcb85",
     "title": "Tennis: Berrettini si ferma a Cagliari, Hurkacz vola al settimo posto",
@@ -1033,25 +1052,6 @@
       "prada",
       "borsa",
       "crollo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260501",
-    "slug": "libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
-    "title": "Felicia Kingsley lancia il nuovo romanzo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-01T07:01:09.822386+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
-    "occhiello": "IL ROMANZO DI KINGSLEY PARLA SOLO DI PARIGI",
-    "lead_preview": "Roma, 1 maggio. Parigi, 30 aprile 2026 (fonte originale non specifica la data): Felicia Kingsley ha pubblicato Mezzanott",
-    "tags": [
-      "romanzo kingsley",
-      "mezzanotte a parigi",
-      "felicia kingsley"
     ],
     "hero_eligible": true
   },
