@@ -1,5 +1,20 @@
 [
   {
+    "id": "044b1bc586daff2c",
+    "slug": "ciclismo-ballerini-rompe-lastinenza-e-vince-la-tur-044b1bc586daff2c",
+    "title": "Ballerini spezza la turchia",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T11:10:19.572373+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/10/3/c3d2981f9a9f629242390286c318fa34.jpg",
+    "occhiello": "BALLERINI SPEZZA LA TURCHIA",
+    "lead_preview": "Antalya, 2 maggio.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "63f46922d22f173c",
     "slug": "israele-sfrutta-la-credibilita-dellorganizzazione-63f46922d22f173c",
     "title": "Israele spende 3 milioni per manipolare l’Europa: task force contro BDS e Arabia Saudita",
@@ -14,25 +29,6 @@
     "tags": [
       "propaganda israele",
       "movimento bds"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "044b1bc586daff2c",
-    "slug": "ciclismo-ballerini-rompe-lastinenza-e-vince-la-tur-044b1bc586daff2c",
-    "title": "Ciclismo: Ballerini taglia il traguardo prima degli sprinter",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-02T11:10:19.572373+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/10/3/c3d2981f9a9f629242390286c318fa34.jpg",
-    "occhiello": "BALLERINI SCONFIGGE LO STATUS QUO",
-    "lead_preview": "Roma, 2 maggio. Davide Ballerini ha vinto la Turchia Tour con una rimonta sorprendente. Non quella del gregario che si p",
-    "tags": [
-      "ciclismo",
-      "turchia tour",
-      "ballerini"
     ],
     "hero_eligible": true
   },
