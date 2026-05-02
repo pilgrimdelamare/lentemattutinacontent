@@ -1,5 +1,23 @@
 [
   {
+    "id": "87fd50d92f8bf1f6",
+    "slug": "torinoboia-imbrattano-le-pietre-dinciampo-il-gover-87fd50d92f8bf1f6",
+    "title": "Torino, via Sant'Agostino: tre pietre d'inciampo vandalizzate",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-05-02T18:17:48.631600+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/13/0e861a472a0a9baf4dd9eb34346a0db8.jpg",
+    "occhiello": "VERNICE SUI SIMBOLI DELLA MEMORIA",
+    "lead_preview": "Torino, 2 maggio. Tre pietre d'inciampo imbrattate con bombolette spray sull'asfalto di via Sant'Agostino, nel centro di",
+    "tags": [
+      "pietre d'inciampo",
+      "vandalismo torino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4c895066b87f45f9",
     "slug": "calcio-napoli-si-chiude-in-zona-europa-league-4c895066b87f45f9",
     "title": "Calcio: Napoli si chiude in zona Europa League",
@@ -227,25 +245,6 @@
       "energia cara",
       "governo meloni",
       "piano energia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "87fd50d92f8bf1f6",
-    "slug": "torinoboia-imbrattano-le-pietre-dinciampo-il-gover-87fd50d92f8bf1f6",
-    "title": "Torinoboia: imbrattano le pietre d’inciampo, il governo li lascia soli",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-05-02T18:17:48.631600+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/13/0e861a472a0a9baf4dd9eb34346a0db8.jpg",
-    "occhiello": "VANDALISMO A TORINO, L'OPPOSIZIONE SFODERA LA MEMORIA",
-    "lead_preview": "VANDALISMO A TORINO, L'OPPOSIZIONE SFODERA LA MEMORIA Torino, 2 maggio. Tre pietre d'inciampo imbrattate con vernice spr",
-    "tags": [
-      "pietre d'inciampo torino",
-      "vandalismo memoria",
-      "torinoboia"
     ],
     "hero_eligible": true
   },
