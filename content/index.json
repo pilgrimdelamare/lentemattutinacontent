@@ -1,5 +1,24 @@
 [
   {
+    "id": "42745d78868cebb2",
+    "slug": "tuapse-paralizzata-droni-ucraini-bruciano-la-raffi-42745d78868cebb2",
+    "title": "Droni ucraini distruggono raffineria Rosneft a Tuapse: danni 1,2 mld",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-01T08:46:29.366246+00:00",
+    "image_type": "image",
+    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/30/1777577362-AP26119394394263.jpg",
+    "occhiello": "DRONE UCRAINO COLPISCE RAFFINERIA",
+    "lead_preview": "Tuapse, 30 aprile. Un attacco con droni ucraini ha colpito la raffineria Rosneft di Tuapse, in Russia, causando danni in",
+    "tags": [
+      "attacco tuapse",
+      "droni ucraini",
+      "raffineria rosneft"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fbe7a3c772a9b078",
     "slug": "prezzi-case-in-uk-volano-al-3-valore-medio-sale-a-fbe7a3c772a9b078",
     "title": "Il prezzo medio delle case nel Regno Unito raggiunge 278.880 sterline",
@@ -552,25 +571,6 @@
     "tags": [
       "europa league",
       "calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "42745d78868cebb2",
-    "slug": "tuapse-paralizzata-droni-ucraini-bruciano-la-raffi-42745d78868cebb2",
-    "title": "Un drone ucraino colpisce la raffineria di Tuapse, 23mila sfollati e 1,2 miliardi in danni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-01T08:46:29.366246+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/30/1777577362-AP26119394394263.jpg",
-    "occhiello": "RAFFINERIA ROSNEFT A TUA PSE IN FIAMME",
-    "lead_preview": "Tuapse, 30 aprile. Alle 3:17 ora locale un attacco con droni ucraini ha colpito la raffineria Rosneft di Tuapse, in Russ",
-    "tags": [
-      "guerra ucraina",
-      "raffineria incendiata",
-      "droni ucraini"
     ],
     "hero_eligible": true
   },
