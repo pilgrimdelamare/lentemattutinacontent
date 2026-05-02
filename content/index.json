@@ -1,5 +1,24 @@
 [
   {
+    "id": "f84bcbc9c55a7a12",
+    "slug": "francia-belgio-e-svizzera-omaggiano-saba-il-poeta-f84bcbc9c55a7a12",
+    "title": "Francia, Belgio e Svizzera distribuiscono 12.500 copie di Saba nelle librerie e università",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-02T10:06:58.709742+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/739ddf86608a4a547a65d6a3792b81c8.jpg",
+    "occhiello": "TRIESTE IN CENTRO A PARIGI, BRUXELLES, GINEVRA",
+    "lead_preview": "Parigi, 2 maggio. Francia, Belgio e Svizzera celebrano il poeta triestino Umberto Saba distribuendo 12.500 copie delle s",
+    "tags": [
+      "saba",
+      "poesia",
+      "trieste"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "656d051f1c90c6d6",
     "slug": "narges-mohammadi-trasferita-in-ospedale-per-proble-656d051f1c90c6d6",
     "title": "Narges Mohammadi ricoverata in terapia intensiva a Evin",
@@ -716,25 +735,6 @@
       "uranio 60% iran",
       "sanzioni nucleari iran",
       "aiea uranio iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f84bcbc9c55a7a12",
-    "slug": "francia-belgio-e-svizzera-omaggiano-saba-il-poeta-f84bcbc9c55a7a12",
-    "title": "Francia, Belgio e Svizzera omaggiano Saba con 12.500 libri regalati",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-02T10:06:58.709742+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/739ddf86608a4a547a65d6a3792b81c8.jpg",
-    "occhiello": "TRIESTE IN PORTO FRANCESE",
-    "lead_preview": "Parigi, 2 maggio. Francia, Belgio e Svizzera celebrano il poeta triestino Umberto Saba nel decennale della Fête de la li",
-    "tags": [
-      "omaggio a umberto saba",
-      "fête de la librairie indépendante",
-      "libri trieste francia"
     ],
     "hero_eligible": true
   },
