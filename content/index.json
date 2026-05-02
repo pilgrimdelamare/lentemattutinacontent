@@ -1,5 +1,24 @@
 [
   {
+    "id": "9ed0e0b7694c7dcd",
+    "slug": "tre-feriti-a-pemba-in-attacco-contro-chiesa-incend-9ed0e0b7694c7dcd",
+    "title": "Tre feriti a Pemba in attacco contro chiesa, incendi e danni da oltre 200.000 dollari",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-02T16:18:48.437218+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/5bace2d674a7591f52f238bc7be69f24.jpg",
+    "occhiello": "CHIESA CATTOLICA BRUCIATA NEL NORD DEL MOZAMBICO",
+    "lead_preview": "Pemba, 2 maggio.",
+    "tags": [
+      "attacco pemba",
+      "chiesa cattolica",
+      "incendi mozambico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5131e49ae2c5a332",
     "slug": "f1-mclaren-beffa-red-bull-a-miami-doppietta-consec-5131e49ae2c5a332",
     "title": "Mclaren ruba il sogno di verstappen con 97 punti in due gare",
@@ -8841,24 +8860,6 @@
     "occhiello": "GUITASSY PERDE LA TESTA E GUADAGNA 17 MILIONI",
     "lead_preview": "SERHOU GUIRASSY PERDE LA TESTA E GUADAGNA 17 MILIONI Stoccarda, 26 aprile — Stoccarda e Werder Brema hanno pareggiato 1-",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "260ece3f3ad07f3c",
-    "slug": "sauto-dichiara-dobbiamo-continuare-a-lavorare-e-mi-260ece3f3ad07f3c",
-    "title": "Calcio: Salernitana espugna Foggia e vola in Serie C, la prudenza detta legge",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-26T20:19:21.253594+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c9fa00af9665e94dd8e3dd6011e2b7c190364739/skysport/it/calcio/serie-c/video/2026/04/26/1093252_1777230406405_thumb_494.0000001_1777232098627.jpg",
-    "occhiello": "SALERNITANA VITTORIOSA A FOGGIA IN UN CLIMA DI TENSIONE TECNICA",
-    "lead_preview": "Foggia, 26 aprile, La Salernitana ha espugnato lo stadio di Foggia il 26 aprile 2026 ottenendo un successo esterno che c",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
     "hero_eligible": true
   }
 ]
