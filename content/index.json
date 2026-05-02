@@ -1,5 +1,24 @@
 [
   {
+    "id": "4f0570acd28f0550",
+    "slug": "shakira-spopolo-a-rio-con-2-milioni-di-fan-4f0570acd28f0550",
+    "title": "Shakira spopolò a Rio con 2 milioni di fan",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-02T15:43:17.819357+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/33d2b1d356eae1728b55507479aa9f31.jpg",
+    "occhiello": "",
+    "lead_preview": "Rio de Janeiro, 2 maggio. Shakira ha tenuto un concerto gratuito sulla spiaggia di Copacabana davanti a oltre due milion",
+    "tags": [
+      "shakira",
+      "concerto",
+      "rio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "59de65f2c0577c17",
     "slug": "fisichella-ricorda-zanardi-59de65f2c0577c17",
     "title": "Fisichella ricorda Zanardi",
@@ -8845,24 +8864,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a47135214ad2a9e5",
-    "slug": "calcio-atalanta-under-23-bloccata-nella-serie-c-a47135214ad2a9e5",
-    "title": "L'atalanta under 23 si ferma sull'1-1 contro il catania",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-26T20:20:44.331692+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e4c574afff4312ed186d2931c425586d5f527ce3/skysport/it/calcio/serie-c/video/2026/04/26/1093244_1777229860733_thumb_494.0000001_1777232099776.jpg",
-    "occhiello": "L'ATALANTA UNDER 23 SI FERMA SULL'1-1 CONTRO IL CATANIA",
-    "lead_preview": "Roma, 26 aprile 2026. L'Atalanta Under 23 e il Catania hanno pareggiato 1-1 nella gara di andata dei play-off di Serie C",
-    "tags": [
-      "atalanta under 23",
-      "playoff serie c"
     ],
     "hero_eligible": true
   }
