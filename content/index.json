@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260502",
+    "slug": "libro-del-giorno-estinzionedi-francesco-mazza-20260502",
+    "title": "Il libro del giorno: «Estinzionedi Francesco Mazza»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo duro e feroce, consapevolmente sgradevole a tratti, con al centro una riflessione sull’uomo contemporaneo",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-02T07:00:19.194812+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/61pv_odn25l__sl1425_-f548f.jpg?1775693398",
+      "alt": "Copertina: Estinzionedi Francesco Mazza",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/61pv_odn25l__sl1425_-f548f.jpg?1775693398",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "725479e4482e3c53",
     "slug": "tennis-sinner-raggiunge-la-finale-del-madrid-open-725479e4482e3c53",
     "title": "Tennis: Sinner raggiunge la finale del Madrid Open",
@@ -8854,25 +8873,6 @@
     "occhiello": "RIBELLI TUAREG CONQUISTANO KIDAL IN DUE ORE",
     "lead_preview": "Roma, 26 aprile. I ribelli tuareg del Movimento per la Salvezza dell'Azawad (MSA) hanno conquistato Kidal in meno di due",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f65e9ebeac60063b",
-    "slug": "peru-5-civili-uccisi-dallesercito-la-magistratura-f65e9ebeac60063b",
-    "title": "Perù, Forze Armate indagate: Procura apre fascicolo su irregolarità nell'operazione 'Libertad'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-26T13:57:15.703844+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/330081cb56378fb54b35b474ec031957.jpg",
-    "occhiello": "MAGISTRATURA PERUVIANA INDAGA SULLE FORZE ARMATE",
-    "lead_preview": "Lima, 26 aprile. La magistratura del Perù avrebbe avviato formalmente un fascicolo d'inchiesta nei confronti delle Forze",
-    "tags": [
-      "indagine forze armate perù",
-      "operazione libertad",
-      "procura perù"
-    ],
     "hero_eligible": true
   }
 ]
