@@ -1,5 +1,24 @@
 [
   {
+    "id": "044b1bc586daff2c",
+    "slug": "ciclismo-ballerini-rompe-lastinenza-e-vince-la-tur-044b1bc586daff2c",
+    "title": "Ciclismo: Davide Ballerini sfonda la gara!",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T11:10:19.572373+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/10/3/c3d2981f9a9f629242390286c318fa34.jpg",
+    "occhiello": "DAVIDE BALLERINI VINCE LA TURCHIA CON UNO SCATTO VINCENTE",
+    "lead_preview": "La gara di ciclismo della Turchia ha visto una strepitosa vittoria di Davide Ballerini, il quale ha interrotto una stris",
+    "tags": [
+      "ciclismo",
+      "davide ballerini",
+      "turchia tour"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "97786e256b82bebe",
     "slug": "zanardi-e-sfide-ercolani-amava-la-vita-come-nessun-97786e256b82bebe",
     "title": "Zanardi spacca RAI 2: 1,2 milioni di spettatori per il tributo di Sfide",
@@ -234,25 +253,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "044b1bc586daff2c",
-    "slug": "ciclismo-ballerini-rompe-lastinenza-e-vince-la-tur-044b1bc586daff2c",
-    "title": "Ciclismo: Ballerini rompe l’astinenza e vince la Turchia con uno scatto vincente",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-02T11:10:19.572373+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/10/3/c3d2981f9a9f629242390286c318fa34.jpg",
-    "occhiello": "ITALIA IN VOLATA NEL GIR0 DI TURCHIA",
-    "lead_preview": "ITALIA IN VOLATA NEL GIR0 DI TURCHIA Roma, 2 maggio 2026. Davide Ballerini ha interrotto una striscia negativa durata tr",
-    "tags": [
-      "giro di turchia",
-      "davide ballerini",
-      "ciclismo 2026"
     ],
     "hero_eligible": true
   },
