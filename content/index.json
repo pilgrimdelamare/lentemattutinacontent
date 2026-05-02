@@ -1,5 +1,23 @@
 [
   {
+    "id": "03d5164b890d439b",
+    "slug": "newcastle-piange-a-brighton-con-trionfo-dei-magpie-03d5164b890d439b",
+    "title": "Newcastle piange a brighton con trionfo dei magpie",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T17:35:53.442967+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/032c57560cdee5e457eba3ece3836532d1f00084/skysport/it/calcio/premier-league/video/2026/05/02/1094606_1777739190068_thumb_494.0000001_1777739410458.jpg",
+    "occhiello": "NEWCASTLE PIANGE A BRIGHTON CON TRIONFO DEI MAGPIE",
+    "lead_preview": "Newcastle, 2 maggio 2026. Newcastle United batte Brighton & Hove Albion 3-1 in Premier League allo St James' Park, porta",
+    "tags": [
+      "newcastle united",
+      "premier league"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "44809b8da79bf424",
     "slug": "f1-mercedes-stravince-a-miami-e-distacca-ferrari-p-44809b8da79bf424",
     "title": "F1: Mercedes stravince a Miami e distacca Ferrari per 45 punti nei Costruttori",
@@ -8838,25 +8856,6 @@
       "bukele",
       "ergastolo",
       "gangs el salvador"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ee0604f3c86e3300",
-    "slug": "salis-rifiuta-le-primarie-del-pd-e-m5s-boicotta-il-ee0604f3c86e3300",
-    "title": "Maria Rossi boicotta le primarie del centrosinistra a Salis",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-04-26T19:47:59.437865+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/10/213737a9e0461070c47b2e5782358ebd.jpg",
-    "occhiello": "BOICOTTAGGIO DELLE PRIMARIE PER POTERE LOCALE",
-    "lead_preview": "Salis, 26 aprile. La Sindaca di Salis, Maria Rossi, ha boicottato le primarie del centrosinistra promosse dal PD e dal M",
-    "tags": [
-      "primarie salis",
-      "boicottaggio pd",
-      "elezioni locali"
     ],
     "hero_eligible": true
   }
