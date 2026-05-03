@@ -1,5 +1,23 @@
 [
   {
+    "id": "f7ae04592b76a094",
+    "slug": "rubio-al-vaticano-per-colloqui-riservati-con-parol-f7ae04592b76a094",
+    "title": "Marco Rubio sbarca a Roma: Sicurezza globale e accordi con Meloni e Parolin",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-03T08:31:28.936695+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://images.agi.it/pictures/agi/agi/2026/02/14/083652232-3eff561f-b5d3-48ca-90e8-12fddc3ed71f.jpg",
+    "occhiello": "RUBIO A ROMA PER SICUREZZA E DIALOGO SUL MEDIORIENTE",
+    "lead_preview": "Roma, 3 maggio. Il Segretario di Stato degli Stati Uniti Marco Rubio atterrerà a Roma giovedì 5 maggio per una visita is",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dccede6c831e5c21",
     "slug": "17-miliardi-di-euro-spariscono-ogni-anno-in-sardeg-dccede6c831e5c21",
     "title": "Sardegna perde 1,7 miliardi l’anno: lo svuotamento brucia l’economia locale",
@@ -239,25 +257,6 @@
     "tags": [
       "mclaren",
       "formula1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f7ae04592b76a094",
-    "slug": "rubio-al-vaticano-per-colloqui-riservati-con-parol-f7ae04592b76a094",
-    "title": "Rubio al Vaticano per colloqui riservati con Parolin su Sicurezza e Politica estera",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-03T08:31:28.936695+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2026/02/14/083652232-3eff561f-b5d3-48ca-90e8-12fddc3ed71f.jpg",
-    "occhiello": "RUBIO A ROMA: IL VATICANO SCEGLIE IL SILENZIO",
-    "lead_preview": "Roma, 3 maggio. Il Segretario di Stato americano Marco Rubio atterrerà in Italia giovedì per una visita istituzionale di",
-    "tags": [
-      "rubio vaticano",
-      "politica estera",
-      "santfedele"
     ],
     "hero_eligible": true
   },
