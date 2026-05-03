@@ -1,5 +1,23 @@
 [
   {
+    "id": "42da616ccab595bc",
+    "slug": "ciclismo-porcellato-racconta-lincontro-storico-con-42da616ccab595bc",
+    "title": "Handbike: l'Italia piange Zanardi, l'eroe Paralimpico che trasformava il dolore in forza",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T14:00:42.840394+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/9/20/690493fd279d550ecb7edcb353e10a95.jpg",
+    "occhiello": "ZANARDI: PORCELLATO ONORA IL MENTORE",
+    "lead_preview": "Padova, 2 maggio.",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9e92ecd5cf51d788",
     "slug": "pallavolo-scandicci-brucia-400mila-euro-e-crolla-d-9e92ecd5cf51d788",
     "title": "Scandicci spreca 400mila euro per evento finale scudetto senza entrate",
@@ -1071,24 +1089,6 @@
       "tennis",
       "mutua madrid open",
       "jannik sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "42da616ccab595bc",
-    "slug": "ciclismo-porcellato-racconta-lincontro-storico-con-42da616ccab595bc",
-    "title": "Francesca Porcellato: il coraggio è la mia eredità di Alessandro Zanardi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-02T14:00:42.840394+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/9/20/690493fd279d550ecb7edcb353e10a95.jpg",
-    "occhiello": "FRANCESCA PORCELLATO CELEBRA ZANARDI",
-    "lead_preview": "Francesca Porcellato, sei volte campionessa del mondo di atletica leggera, ha espresso un tributo unico al suo mentore, ",
-    "tags": [
-      "atletica leggera",
-      "alessandro zanardi"
     ],
     "hero_eligible": true
   },
