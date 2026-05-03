@@ -1,5 +1,23 @@
 [
   {
+    "id": "e78cd758582ce477",
+    "slug": "fia-fornisce-allusioni-sulla-gestione-della-pioggi-e78cd758582ce477",
+    "title": "FIA: Fornisce allusioni sulla gestione della pioggia a Miami",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-03T00:00:20.516483+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/b41733c083aa7f69132c5ae9056ceb9e406121d7/skysport/it/motori/formula-1/video/2026/05/03/1094744_1777762164942_thumb_494.0000001_1777762832510.jpg",
+    "occhiello": "RAIN HAZARD ATTIVATO PER LA PRIMA VOLTA IN F1",
+    "lead_preview": "Miami, 3 maggio.",
+    "tags": [
+      "rain hazard",
+      "miami gp"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "508d3c80e1e59760",
     "slug": "amburgo-si-prende-la-salvezza-sul-fil-di-rosa-508d3c80e1e59760",
     "title": "Amburgo si prende la salvezza sul fil di rosa",
@@ -8841,25 +8859,6 @@
       "promozione venezia",
       "serie b 2025",
       "venezia serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "81ee92c6eee289a0",
-    "slug": "sostituzione-automatica-nuova-regola-per-la-figc-81ee92c6eee289a0",
-    "title": "Calcio!: FIGC approva nuova regola",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-27T21:05:09.478552+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/791f3467e59e045ed92695211846fc3c0d8af379/skysport/it/calcio/serie-a/2024/12/02/gran-gala-calcio-2024-vincitori-premi/ansa_gala_calcio_marani.jpg",
-    "occhiello": "NUOVA REGOLA PER LA FIGC, FONDI SCOMPARSI DOPO IL VOTO",
-    "lead_preview": "Roma, 27 aprile. La Federazione Italiana Giuoco Calcio (FIGC) ha approvato, con un voto di 17 a 5, una nuova regola che ",
-    "tags": [
-      "calcio",
-      "figc",
-      "fondi calcio"
     ],
     "hero_eligible": true
   }
