@@ -1,0 +1,59 @@
+{
+  "id": "d5c1364ff6f358a4",
+  "slug": "sas-lancia-quantum-lab-su-viya-entro-il-2026-per-d-d5c1364ff6f358a4",
+  "title": "SaS lancia Quantum Lab su Viya entro il 2026 per democratizzare il calcolo quantistico",
+  "titles": [
+    "SaS lancia Quantum Lab su Viya entro il 2026 per democratizzare il calcolo quantistico",
+    "Marinela Profi, giovane romana, guida la strategia AI di SaS nel nuovo Quantum Lab",
+    "Quantum Lab di SaS punta a risolvere problemi industriali come quello del commesso viaggiatore"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "QUANTUM LAB DI SAS",
+  "lead": "Roma, 3 maggio. Secondo quanto riportato da Wired Italia, SAS sta provando a rendere il Quantum computing più accessibile con un nuovo toolkit chiamato Quantum Lab.",
+  "corpo1": "Il Quantum Lab di SAS, come descritto da Wired Italia, è un toolkit che potrebbe abbattere le barriere del computing quantistico ibrido. Secondo l'articolo, questo strumento sarà disponibile entro fine 2026 sulla piattaforma Viya di SAS, pensata per data scientist e analisti enterprise che non hanno un dottorato in fisica quantistica né budget da laboratorio nazionale. Il problema del commesso viaggiatore, un esempio scolastico diventato industriale, è stato citato come un caso in cui il Quantum computing può essere utile. Secondo Wired Italia, Marinela Profi, una ragazza di Roma, guiderà la strategia di AI agentica di SAS. L'azienda ha presentato il suo nuovo Quantum Lab durante la conferenza annuale SAS Innovate 2026 a Grapevine, in Texas.",
+  "corpo2": "La notizia del Quantum Lab di SAS solleva interrogativi sulla accessibilità del Quantum computing per le imprese. Secondo quanto riportato da Wired Italia, il toolkit potrebbe offrire ottimizzazioni avanzate, machine learning su hardware quantistico e simulazioni con accelerazioni superiori fino a cento volte rispetto ai metodi classici. Tuttavia, non ci sono informazioni indipendenti che confermino le caratteristiche e le prestazioni del Quantum Lab. Inoltre, non è chiaro come il Quantum Lab di SAS si posiziona rispetto agli investimenti miliardari in ricerca e sviluppo fatti da altre aziende come IBM e Google. La strategia di AI agentica guidata da Marinela Profi potrebbe essere un fattore importante per il successo del Quantum Lab, ma non ci sono informazioni sufficienti per valutare il suo impatto. In ogni caso, il Quantum Lab di SAS rappresenta un tentativo di rendere il Quantum computing più accessibile alle imprese, e il suo successo potrebbe dipendere dalla capacità di SAS di offrire un toolkit efficace e facile da usare. Il fatto che il Quantum Lab sarà disponibile entro fine 2026 sulla piattaforma Viya di SAS suggerisce che l'azienda è seria nel suo intento di rendere il Quantum computing più accessibile.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-05-03T04:40:09.564129+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/69f252009b0a6077e8b615ad/16:9/w_1280,c_limit/2026SASINNOVATE-3956.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SaS lancia Quantum Lab su Viya entro il 2026 per democratizzare il calcolo quantistico\",\n  \"description\": \"Roma, 3 maggio. Secondo quanto riportato da Wired Italia, SAS sta provando a rendere il Quantum computing più accessibile con un nuovo toolkit chiamato Quantum Lab.\",\n  \"articleBody\": \"Roma, 3 maggio. Secondo quanto riportato da Wired Italia, SAS sta provando a rendere il Quantum computing più accessibile con un nuovo toolkit chiamato Quantum Lab. Il Quantum Lab di SAS, come descritto da Wired Italia, è un toolkit che potrebbe abbattere le barriere del computing quantistico ibrido. Secondo l'articolo, questo strumento sarà disponibile entro fine 2026 sulla piattaforma Viya di SAS, pensata per data scientist e analisti enterprise che non hanno un dottorato in fisica quantistica né budget da laboratorio nazionale. Il problema del commesso viaggiatore, un esempio scolastico diventato industriale, è stato citato come un caso in cui il Quantum computing può essere utile. Secondo Wired Italia, Marinela Profi, una ragazza di Roma, guiderà la strategia di AI agentica di SAS. L'azienda ha presentato il suo nuovo Quantum Lab durante la conferenza annuale SAS Innovate 2026 a Grapevine, in Texas. La notizia del Quantum Lab di SAS solleva interrogativi sulla accessibilità del Quantum computing per le imprese. Secondo quanto riportato da Wired Italia, il toolkit potrebbe offrire ottimizzazioni avanzate, machine learning su hardware quantistico e simulazioni con accelerazioni superiori fino a cento volte rispetto ai metodi classici. Tuttavia, non ci sono informazioni indipendenti che confermino le caratteristiche e le prestazioni del Quantum Lab. Inoltre, non è chiaro come il Quantum Lab di SAS si posiziona rispetto agli investimenti miliardari in ricerca e sviluppo fatti da altre aziende come IBM e Google. La strategia di AI agentica guidata da Marinela Profi potrebbe essere un fattore importante per il successo del Quantum Lab, ma non ci sono informazioni sufficienti per valutare il suo impatto. In ogni caso, il Quantum Lab di SAS rappresenta un tentativo di rendere il Quantum computing più accessibile alle imprese, e il suo successo potrebbe dipendere dalla capacità di SAS di offrire un toolkit efficace e facile da usare. Il fatto che il Quantum Lab sarà disponibile entro fine 2026 sulla piattaforma Viya di SAS suggerisce che l'azienda è seria nel suo intento di rendere il Quantum computing più accessibile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-03T04:40:09.564129+00:00\",\n  \"dateModified\": \"2026-05-03T04:40:09.564129+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/d5c1364ff6f358a4\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/d5c1364ff6f358a4\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/69f252009b0a6077e8b615ad/16:9/w_1280,c_limit/2026SASINNOVATE-3956.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/sas-quantum-computing-lab-viya-ai-agentica/",
+  "related": [
+    {
+      "title": "Apple TV+ lancia il thriller Widow’s Bay con Matthew Rhys e Jodie Comer",
+      "url": "/tecnologia/matthew-rhys-rivive-il-mistero-a-widows-bay-minise-c24d4a29755575b6",
+      "id": "c24d4a29755575b6",
+      "image_url": "https://media-assets.wired.it/photos/69ede6e8a492b76193dfd9de/16:9/w_1280,c_limit/Widows_Bay_First_Look_Photo_010101.jpg.photo_modal_show_home_large_2x.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Amazon Ring condivide 150 milioni di video con forze dell'ordine USA",
+      "url": "/tecnologia/ring-annuncia-accordi-con-le-forze-dellordine-per-55cae609087c7877",
+      "id": "55cae609087c7877",
+      "image_url": "https://media-assets.wired.it/photos/69b7e7379450318e5ce68864/16:9/w_1280,c_limit/How%20to%20Use%20a%20Video%20Doorbell%20Without%20Feeding%20the%20Surveillance%20State.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Microsoft su GitHub pubblica codice originale di MS-DOS: il sistema operativo che rese ricca America",
+      "url": "/tecnologia/86-dos-torna-su-github-il-codice-che-sta-alla-base-d9d51338f111989b",
+      "id": "d9d51338f111989b",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/30/162459869-be945d6c-7d02-42f6-91d3-1eddd815f046.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
