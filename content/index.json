@@ -1,5 +1,24 @@
 [
   {
+    "id": "678e9d4ffc32b1b7",
+    "slug": "il-monte-mayon-espelle-grandi-quantita-di-cenere-a-678e9d4ffc32b1b7",
+    "title": "Mayon esplode: 200mila evacuati, soldati in strada, aeroporto chiuso",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-03T00:45:08.003894+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/18/e12847626a56ac56f1e0c96ad8b14cb7.jpg",
+    "occhiello": "EVACUAZIONI DI MASSA AL MAYON TRA INCERTEZZE",
+    "lead_preview": "Legazpi, 3 maggio. Il Mayon, stratovulcano attivo delle Filippine, ha eruttato alle 4:12 di questa mattina, costringendo",
+    "tags": [
+      "eruzione mayon",
+      "evacuazione filippine",
+      "allerta vulcano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "742497a55883d1f8",
     "slug": "stones-tradiscono-la-decca-per-20-milioni-arriva-i-742497a55883d1f8",
     "title": "I Rolling Stones pagano 20 milioni per un nuovo contratto",
@@ -976,23 +995,6 @@
     "tags": [
       "david di donatello",
       "vittorio storaro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "678e9d4ffc32b1b7",
-    "slug": "il-monte-mayon-espelle-grandi-quantita-di-cenere-a-678e9d4ffc32b1b7",
-    "title": "17M soldati evacuano 200m da Mayon: allerta al Massimo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-03T00:45:08.003894+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/18/e12847626a56ac56f1e0c96ad8b14cb7.jpg",
-    "occhiello": "CENERE SULLE PIAZZE DI MANILA",
-    "lead_preview": "Legazpi, 3 maggio. Il Mayon, stratovulcano attivo nella Provincia di Albay, è entrato in eruzione alle 4:12 di questa ma",
-    "tags": [
-      "eruzione mayon"
     ],
     "hero_eligible": true
   },
