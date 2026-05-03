@@ -1,5 +1,23 @@
 [
   {
+    "id": "4f0570acd28f0550",
+    "slug": "shakira-spopolo-a-rio-con-2-milioni-di-fan-4f0570acd28f0550",
+    "title": "Shakira si esibisce davanti a 1 milione di spettatori sulla spiaggia di Copacabana",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-02T15:43:17.819357+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/33d2b1d356eae1728b55507479aa9f31.jpg",
+    "occhiello": "UN MILIONE DI SPETTATORI PER IL GRATIS DI SHAKIRA",
+    "lead_preview": "Rio de Janeiro, 2 maggio. Shakira Isabel Mebarak Ripoll si è esibita ieri sera per un milione di spettatori sulla spiagg",
+    "tags": [
+      "shakira",
+      "concerto copacabana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "63b8c641c393236d",
     "slug": "trump-valuta-la-proposta-iraniana-difficile-accett-63b8c641c393236d",
     "title": "Trump valuta accordo Iran su ritiro delle portaerei USA",
@@ -963,24 +981,6 @@
       "incendio chiesa",
       "pemba",
       "attacco notturno"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4f0570acd28f0550",
-    "slug": "shakira-spopolo-a-rio-con-2-milioni-di-fan-4f0570acd28f0550",
-    "title": "Shakira infiamma la spiaggia di Copacabana con concerto gratuito",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-02T15:43:17.819357+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/33d2b1d356eae1728b55507479aa9f31.jpg",
-    "occhiello": "SHAKIRA RIENZA LA SPIAGGIA DI COPACABANA",
-    "lead_preview": "Rio de Janeiro, 2 maggio. Shakira ha tenuto un concerto gratuito per due milioni di spettatori alla spiaggia di Copacaba",
-    "tags": [
-      "shakira",
-      "concerto gratuito"
     ],
     "hero_eligible": true
   },
