@@ -1,5 +1,24 @@
 [
   {
+    "id": "508d3c80e1e59760",
+    "slug": "amburgo-si-prende-la-salvezza-sul-fil-di-rosa-508d3c80e1e59760",
+    "title": "Calcio: Rischiosa addio Europa per l'Eintracht Francoforte",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T23:35:10.699495+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ccfd6dd503b7c3fc24f4829c2e10853e6607383f/skysport/it/calcio/bundesliga/video/2026/05/02/1094727_1777758374556_thumb_494.0000001_1777758927092.jpg",
+    "occhiello": "AMBURGO CONQUISTA LA SALVEZZA NEL DRAMMA",
+    "lead_preview": "Frankfurt am Main, 2 maggio. L'Amburgo ha evitato la retrocessione in Zweite Bundesliga battendo 2-1 l'Eintracht Francof",
+    "tags": [
+      "calcio",
+      "eintracht francoforte",
+      "amburgo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5d2607d891c7bbae",
     "slug": "meloni-esulta-per-sinner-orgoglio-italiano-ma-tagl-5d2607d891c7bbae",
     "title": "Meloni esulta per Sinner: \"Orgoglio italiano\", ma taglia le borse di studio per il merito",
@@ -1004,25 +1023,6 @@
     "lead_preview": "Chignolo Po, 2 maggio. Il 19 e 20 settembre il primo EICMA Riding X Fest si svolgerà a Chignolo Po, in provincia di Pavi",
     "tags": [
       "eicma riding x fest"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "508d3c80e1e59760",
-    "slug": "amburgo-si-prende-la-salvezza-sul-fil-di-rosa-508d3c80e1e59760",
-    "title": "Calcio: Eintracht Francoforte sconfitto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-02T23:35:10.699495+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ccfd6dd503b7c3fc24f4829c2e10853e6607383f/skysport/it/calcio/bundesliga/video/2026/05/02/1094727_1777758374556_thumb_494.0000001_1777758927092.jpg",
-    "occhiello": "CALCIO: L'AMBURGO GUADAGNA LA SALVEZZA CON UNA VITTORIA 2-1 CONTRO L'EINTRACHT FRANCOFORTE",
-    "lead_preview": "Frankfurt am Main, 2 maggio. L'Amburgo ha ottenuto la permanenza nella massima serie tedesca battendo l'Eintracht Franco",
-    "tags": [
-      "calcio",
-      "salvezza",
-      "amburgo"
     ],
     "hero_eligible": true
   },
