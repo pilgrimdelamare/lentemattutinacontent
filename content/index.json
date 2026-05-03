@@ -1,5 +1,24 @@
 [
   {
+    "id": "bee899a9a88c11eb",
+    "slug": "f1-antonelli-domina-a-miami-la-russa-lo-paragona-a-bee899a9a88c11eb",
+    "title": "F1: Antonelli conquista la pole a Miami con il tempo record",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-02T21:54:38.787089+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/615856996e35c703f3651a5abed9fd62.jpg",
+    "occhiello": "ANTONELLI TAGLIA IL MURO DEI 1'27 A MIAMI",
+    "lead_preview": "Miami, 2 maggio. Filippo Antonelli ha realizzato la quarta pole position della sua carriera in Formula 1, la prima sul t",
+    "tags": [
+      "formula 1",
+      "pole position",
+      "miami gp"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7bdd55af1e73bda3",
     "slug": "paraciclismo-fallisce-12-milioni-di-deficit-promes-7bdd55af1e73bda3",
     "title": "Il paraciclismo italiano va in rosso per 1,2 milioni di euro",
@@ -873,25 +892,6 @@
     "tags": [
       "mclaren",
       "formula1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bee899a9a88c11eb",
-    "slug": "f1-antonelli-domina-a-miami-la-russa-lo-paragona-a-bee899a9a88c11eb",
-    "title": "F1: Antonelli conquista la pole a Miami e spezza il muro dei 1'27",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-02T21:54:38.787089+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/615856996e35c703f3651a5abed9fd62.jpg",
-    "occhiello": "QUARTA POLE IN CARRIERA PER ANTONELLI A MIAMI",
-    "lead_preview": "Miami, 2 maggio. Filippo Antonelli ha ottenuto la quarta pole position della carriera in Formula 1, la prima a Miami, du",
-    "tags": [
-      "pole position miami",
-      "antonelli f1",
-      "gp stati uniti 2024"
     ],
     "hero_eligible": true
   },
