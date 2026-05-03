@@ -1,5 +1,22 @@
 [
   {
+    "id": "678e9d4ffc32b1b7",
+    "slug": "il-monte-mayon-espelle-grandi-quantita-di-cenere-a-678e9d4ffc32b1b7",
+    "title": "17M soldati evacuano 200m da Mayon: allerta al Massimo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-03T00:45:08.003894+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/18/e12847626a56ac56f1e0c96ad8b14cb7.jpg",
+    "occhiello": "CENERE SULLE PIAZZE DI MANILA",
+    "lead_preview": "Legazpi, 3 maggio. Il Mayon, stratovulcano attivo nella Provincia di Albay, è entrato in eruzione alle 4:12 di questa ma",
+    "tags": [
+      "eruzione mayon"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ba3d75942427aa7a",
     "slug": "nato-europa-in-guerra-senza-usa-le-truppe-impiegan-ba3d75942427aa7a",
     "title": "Esercito UE in rotta: 17.000 soldati in meno in dieci anni",
@@ -15,25 +32,6 @@
       "esercito ue",
       "difesa europea",
       "crisi militare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "678e9d4ffc32b1b7",
-    "slug": "il-monte-mayon-espelle-grandi-quantita-di-cenere-a-678e9d4ffc32b1b7",
-    "title": "Il Mayon erutta in Filippine, 200mila in fuga",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-03T00:45:08.003894+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/18/e12847626a56ac56f1e0c96ad8b14cb7.jpg",
-    "occhiello": "Mayon erutta nelle Filippine, cenere verso Manila",
-    "lead_preview": "Mayon erutta nelle Filippine, cenere verso Manila Roma, 3 maggio. Il Mayon, vulcano attivo nella provincia di Albay, nel",
-    "tags": [
-      "eruzione mayon",
-      "filippine",
-      "alluvione"
     ],
     "hero_eligible": true
   },
