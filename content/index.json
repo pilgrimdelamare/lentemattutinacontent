@@ -1,5 +1,20 @@
 [
   {
+    "id": "40ec6ae2cc53ce58",
+    "slug": "chivu-unico-nel-calcio-italiano-40ec6ae2cc53ce58",
+    "title": "Chivu, unico nel calcio italiano",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-03T22:04:21.401959+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d5cf559ff1182a54f12be40e11800124b31c7d23/skysport/it/calcio/serie-a/serie-a-scudetto-calciatore-allenatore/getty_chivu_allenatore_giocatore.jpg",
+    "occhiello": "CHIVU, UNICO NEL CALCIO ITALIANO",
+    "lead_preview": "Milano, 3 maggio.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a841a59868c42e15",
     "slug": "calcio-esposito-il-ventenne-che-linter-paga-12-mil-a841a59868c42e15",
     "title": "Calcio: Esposito, il ventenne che l'Inter paga 1,2 milioni l'anno",
@@ -8872,25 +8887,6 @@
     "occhiello": "BORSA DI TOKYO IN FERMENTO PER L'APERTURA DIPLOMATICA IRANIANA",
     "lead_preview": "Tokyo, 27 aprile. Il Nikkei 225, indice principale della Borsa di Tokyo, ha chiuso la seduta odierna, 27 aprile, con un ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2f517745ee709609",
-    "slug": "basket-celtics-demoliscono-sixers-128-96-con-diffe-2f517745ee709609",
-    "title": "Basket: Boston domina Philadelphia 128-96 e chiude la serie con supremazia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-27T06:10:45.105458+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/48ea5f32c1672bfbdcd5ac4bc025ab65424ebaf2/skysport/it/nba/video/2026/04/27/1093302_1777263480682_thumb_494.0000001_1777265076215.jpg",
-    "occhiello": "BOSTON DOMINA PHILADELPHIA CON UN DISTACCO DI TRENTASEI PUNTI",
-    "lead_preview": "Philadelphia, 27 aprile. I Boston Celtics hanno sconfitto i Philadelphia 76ers nella notte tra il 26 e il 27 aprile 2026",
-    "tags": [
-      "boston celtics",
-      "philadelphia 76ers",
-      "nba playoffs"
-    ],
     "hero_eligible": true
   }
 ]
