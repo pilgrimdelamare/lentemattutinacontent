@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, domenica 3 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-03T06:17:00.302706+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8057d0933992b22c25d4ded90fea6b4ec9ea7202/skytg24/it/cronaca/2026/05/03/prime-pagine-quotidiani-oggi-3-maggio/hero-giornali-3-maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 3 MAGGIO 2026: ALEX E GUERRA NEL FOCCO",
+    "lead_preview": "La stampa italiana si divide tra l’omaggio a Alex Zanardi e l’aggiornamento sul conflitto Ucraina-Russia. Le testate più",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "63f46922d22f173c",
     "slug": "israele-sfrutta-la-credibilita-dellorganizzazione-63f46922d22f173c",
     "title": "Tel Aviv: 3 milioni per contrastare il BDS, l'Europa è sulle sue",
@@ -2466,25 +2485,6 @@
       "senato ignorato",
       "documento di finanza",
       "consiglio dei ministri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 1 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-01T05:46:01.346163+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/b7c558a7b3ce8b3cde1b59936233dbb3791fe1a1/skytg24/it/cronaca/2026/05/01/prime-pagine-quotidiani-oggi-1-maggio/collage_2.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 1 MAGGIO 2026",
-    "lead_preview": "La maggior parte dei quotidiani concentra l'attenzione sulle tensioni internazionali, in particolare la situazione in Me",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
