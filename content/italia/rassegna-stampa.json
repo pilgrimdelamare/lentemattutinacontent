@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 1 maggio 2026",
+  "title": "Le prime pagine di oggi, domenica 3 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 1 maggio 2026",
-    "Le prime pagine di oggi, venerdì 1 maggio 2026",
-    "Le prime pagine di oggi, venerdì 1 maggio 2026"
+    "Le prime pagine di oggi, domenica 3 maggio 2026",
+    "Le prime pagine di oggi, domenica 3 maggio 2026",
+    "Le prime pagine di oggi, domenica 3 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 1 MAGGIO 2026",
-  "lead": "La maggior parte dei quotidiani concentra l'attenzione sulle tensioni internazionali, in particolare la situazione in Medio Oriente con il blocco della Flotilla e le reazioni internazionali, e le dichiarazioni di Donald Trump riguardo al possibile ritiro delle truppe statunitensi dall'Italia. Diversi giornali dedicano spazio anche alle misure economiche del governo, come il piano casa e la proroga del taglio delle accise. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sul calcio.",
-  "corpo1": "I quotidiani aprono ampiamente sulla crisi internazionale. La situazione in Medio Oriente è in evidenza, con il blocco degli attivisti italiani da parte di Israele e la conseguente condanna della premier Meloni. Parallelamente, le dichiarazioni di Donald Trump sul possibile ritiro delle truppe statunitensi dall'Italia dominano le prime pagine. Il piano casa varato dal governo e la proroga del taglio alle accise ricevono spazio su diversi giornali. La Gazzetta dello Sport titola sulla possibile permanenza di Modric al Milan, mentre il Corriere dello Sport si concentra sulle prossime finali di Champions League.",
-  "corpo2": "L'Istat pubblica i dati sull'inflazione, con un impatto stimato di mille euro a famiglia. Il governo Meloni punta a velocizzare le procedure di sfratto e ad alleggerire gli oneri burocratici. La giornata è caratterizzata da una forte attenzione alle dinamiche geopolitiche e alle scelte economiche del governo.",
+  "occhiello": "LE PRIME PAGINE 3 MAGGIO 2026: ALEX E GUERRA NEL FOCCO",
+  "lead": "La stampa italiana si divide tra l’omaggio a Alex Zanardi e l’aggiornamento sul conflitto Ucraina-Russia. Le testate più diffuse propongono titoli a tema sportivo e geopolitico, con un focus su Trump e la crisi abitativa. Sky Go e le sue iniziative digitali appaiono su due pagine, mentre altri quotidiani dedicano spazio a questioni nazionali.",
+  "corpo1": "La prima pagina 1 e la 2 dedicano a Zanardi titoli legati a iniziative promozionali (Prova 30 giorni, Decoder Sky Stream), mentre la 5, la 6 e la 7 lo celebrano con omaggi storici e tributi emotivi. Sky Go, con due pagine, affronta la guerra Russia-Ucraina e una nota sull’accessibilità digitale. La prima pagina 9 concentra l’attenzione su dichiarazioni di Trump contro l’Europa, mentre la 10 discute il piano casa e i tempi ridotti per gli sfratti. Temi complementari appaiono in altri quotidiani, ma il doppio binario Zanardi e conflitto è dominante.",
+  "corpo2": "Altri titoli secondari includono riflessioni su Zanardi come “Lezione per sempre” e richiami al suo “Supereroe” nella vita. La guerra Russia-Ucraina e le tensioni Usa-Europa restano in testata. Il tema dominante oggi è il parallelismo tra celebrazioni sportive e crisi internazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,39 +23,39 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-01T05:46:01.346163+00:00",
+  "published_at": "2026-05-03T06:17:00.302706+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/b7c558a7b3ce8b3cde1b59936233dbb3791fe1a1/skytg24/it/cronaca/2026/05/01/prime-pagine-quotidiani-oggi-1-maggio/collage_2.png?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/8057d0933992b22c25d4ded90fea6b4ec9ea7202/skytg24/it/cronaca/2026/05/03/prime-pagine-quotidiani-oggi-3-maggio/hero-giornali-3-maggio.jpg?im=Resize,width=375",
+    "source": "Alex Zanardi",
+    "credit": "Prima pagina — Alex Zanardi",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/01/prime-pagine-quotidiani-oggi-1-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/03/prime-pagine-quotidiani-oggi-3-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 1 maggio 2026",
+      "title": "Oroscopo di oggi, domenica 3 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Maccio Capatonda annuncia il nuovo LOL Halloween Special su Amazon Prime Video",
+      "title": "Miami, 3 maggio",
+      "url": "/sport/fia-fornisce-allusioni-sulla-gestione-della-pioggi-e78cd758582ce477",
+      "id": "e78cd758582ce477",
+      "image_url": "https://sport.sky.it/assets/images/b41733c083aa7f69132c5ae9056ceb9e406121d7/skysport/it/motori/formula-1/video/2026/05/03/1094744_1777762164942_thumb_494.0000001_1777762832510.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Prime Video piazza Maccio Capatonda nel LOL Halloween 2026: la sfida comica che spopola",
       "url": "/cultura/prime-video-lancia-il-cast-di-lol-halloween-specia-eda316a2ef068d2c",
       "id": "eda316a2ef068d2c",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/08788f2d815c04724484b220dbb14dba.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Arisa, BigMama e Spollon conducono domani il Concertone del 1° Maggio su RAI 3",
-      "url": "/cultura/concertone-del-primo-maggio-sul-palco-ci-saranno-a-2baa349b61d4f3b7",
-      "id": "2baa349b61d4f3b7",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/75e887666b7483f32758fa87165c06a6.jpg",
       "image_type": "image"
     }
   ],
