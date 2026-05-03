@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260503",
+    "slug": "libro-del-giorno-ci-hanno-nascosto-danilo-dolcidi-giuse-20260503",
+    "title": "Il libro del giorno: «Ci hanno nascosto Danilo Dolcidi Giuseppe Maurizio Piscopo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un tributo emozionante a Danilo Dolci, un libro che rivaluta la figura di un grande intellettuale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-03T07:01:43.125620+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L196xH312/piscopo_dolci-81638.jpg?1775851306",
+      "alt": "Copertina: Ci hanno nascosto Danilo Dolcidi Giuseppe Maurizio Piscopo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L196xH312/piscopo_dolci-81638.jpg?1775851306",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "1866e8806537c8d1",
     "slug": "calcio-bologna-cagliari-in-diretta-dazn-sbarca-su-1866e8806537c8d1",
     "title": "Calcio: Bologna-Cagliari in diretta, DAZN sbarca su Sky col canale 214",
@@ -8865,25 +8884,6 @@
     "tags": [
       "guerra alle gang",
       "tatuaggi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "730c5c4b0f7895e3",
-    "slug": "aziende-espone-dati-sensibili-ai-server-esterni-730c5c4b0f7895e3",
-    "title": "5 Banche e 3 aziende sanitarie trasmettono dati sensibili a chatbot non autorizzati",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-27T04:50:42.229868+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69de319c1ebc6c6bc48e82d8/16:9/w_1280,c_limit/2235759925",
-    "occhiello": "CHATBOTS AZIENDALI: DATI SANITARI E BILANCIO A RISCHIO",
-    "lead_preview": "Roma, 27 aprile 2026. Diverse aziende stanno trasmettendo dati finanziari, sanitari, anagrafici e altri dati sensibili v",
-    "tags": [
-      "chatbot aziendali",
-      "dati sensibili",
-      "privacy banche"
     ],
     "hero_eligible": true
   }
