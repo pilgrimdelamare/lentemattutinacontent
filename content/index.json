@@ -1,5 +1,24 @@
 [
   {
+    "id": "d5c1364ff6f358a4",
+    "slug": "sas-lancia-quantum-lab-su-viya-entro-il-2026-per-d-d5c1364ff6f358a4",
+    "title": "SaS lancia Quantum Lab su Viya entro il 2026 per democratizzare il calcolo quantistico",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-05-03T04:40:09.564129+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/69f252009b0a6077e8b615ad/16:9/w_1280,c_limit/2026SASINNOVATE-3956.jpg",
+    "occhiello": "QUANTUM LAB DI SAS",
+    "lead_preview": "Roma, 3 maggio. Secondo quanto riportato da Wired Italia, SAS sta provando a rendere il Quantum computing più accessibil",
+    "tags": [
+      "quantum computing",
+      "sas",
+      "viya"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "03d5164b890d439b",
     "slug": "newcastle-piange-a-brighton-con-trionfo-dei-magpie-03d5164b890d439b",
     "title": "Calcio: Magpies trionfano su Seagulls",
@@ -8865,25 +8884,6 @@
       "morte günter pichler",
       "alban berg quartett",
       "musica classica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c44b488abb3949b7",
-    "slug": "borsa-di-milano-sale-dello-07-saipem-vola-e-traina-c44b488abb3949b7",
-    "title": "Saipem vola in Borsa a Milano con un +0,85% e supera 1,2 euro ad azione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-27T12:19:06.719747+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2020/2/24/9f09080fe77164b881e845ec3c29e940.jpg",
-    "occhiello": "SAIPEM VOLA IN BORSA A MILANO",
-    "lead_preview": "Milano, 27 aprile. La Borsa di Milano chiude la seduta odierna con un rialzo dello 0,7 per cento per cento, spinta princ",
-    "tags": [
-      "borsa milano",
-      "saipem",
-      "borsa italiana"
     ],
     "hero_eligible": true
   }
