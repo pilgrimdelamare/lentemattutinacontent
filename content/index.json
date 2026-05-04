@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 4 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-04T05:58:13.389056+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/7769cdf3e51b9dedffbee6f0a3e13e353b74feec/skytg24/it/cronaca/2026/05/04/prime-pagine-quotidiani-oggi-4-maggio/Composite_4_maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL MONDO IN CRISI",
+    "lead_preview": "Lo scudetto dell'Inter, la guerra in Ucraina e le dichiarazioni di Donald Trump dominano le prime pagine dei giornali it",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6d6039ddc3cadc62",
     "slug": "atletica-italia-in-gara-alla-staffetta-4x100-mista-6d6039ddc3cadc62",
     "title": "Atletica: l'Italia presenta il quartetto under 23 per i Mondiali di Tokyo",
@@ -1599,25 +1618,6 @@
       "saba",
       "libri",
       "francia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, domenica 3 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-03T06:17:00.302706+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/8057d0933992b22c25d4ded90fea6b4ec9ea7202/skytg24/it/cronaca/2026/05/03/prime-pagine-quotidiani-oggi-3-maggio/hero-giornali-3-maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 3 MAGGIO 2026: ALEX E GUERRA NEL FOCCO",
-    "lead_preview": "La stampa italiana si divide tra l’omaggio a Alex Zanardi e l’aggiornamento sul conflitto Ucraina-Russia. Le testate più",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
