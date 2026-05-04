@@ -1,5 +1,24 @@
 [
   {
+    "id": "25f3457d7057cb3b",
+    "slug": "unicredit-annuncia-piano-di-fusione-per-commerzban-25f3457d7057cb3b",
+    "title": "Unicredit Annuncia Piano di Fusione per Commerzbank",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-04T08:37:30.399773+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/85dfbf9c998e62b530c5bc7c29a608e5.jpg",
+    "occhiello": "ORCEL MINACCIA SMANTELLO PER COMMERZBANK",
+    "lead_preview": "Roma, 4 maggio — Jean-Pierre Mustier non c'è più, ma l'ombra di UniCredit incombe su Francoforte. Oggi la Faz ha fatto s",
+    "tags": [
+      "fusione bancaria",
+      "orcel minaccia",
+      "unicredit comerzbank"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57281061f85454c2",
     "slug": "danilo-rea-spiazza-il-san-carlo-puccini-e-bizet-di-57281061f85454c2",
     "title": "Danilo Rea spiazza il San Carlo: Puccini e Bizet diventano jazz e la Sala si spacca",
@@ -8898,24 +8917,6 @@
       "morti manager russi",
       "misteri putin",
       "elite russa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9c43cd06fdd5144a",
-    "slug": "rio-incassa-150-milioni-col-record-di-shakira-ma-m-9c43cd06fdd5144a",
-    "title": "Shakira incassa 150 milioni a Rio in un colpo: nuovo record Mondiale!",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-27T17:33:58.330297+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/2/02008070d16781b4065602d6ece3ae7c.jpg",
-    "occhiello": "SHAKIRA INCASSA 150 MILIONI A RIO, STABILISCE RECORD",
-    "lead_preview": "Rio de Janeiro, 27 aprile. Shakira, la celebre cantautrice colombiana, ha raccolto 150 milioni di euro in una sola serat",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
