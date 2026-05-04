@@ -1,5 +1,24 @@
 [
   {
+    "id": "8454971f21e7a32d",
+    "slug": "calcio-arsenal-allunga-con-un-punto-di-vantaggio-8454971f21e7a32d",
+    "title": "Calcio: Arsenal allunga con un punto di vantaggio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-04T22:27:58.077504+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/02017491625465098136b2110ee4e6a609d2ea30/skysport/it/calcio/premier-league/video/2026/05/04/1095345_1777931468348_thumb_494.0000001_1777931522514.jpg",
+    "occhiello": "ERRORE CITY, HAALAND SALVA IL PUNTO — MA ARSENAL GUADAGNA",
+    "lead_preview": "Manchester, 4 maggio. Il Manchester City ha perso due punti fondamentali nella corsa al titolo di Premier League dopo il",
+    "tags": [
+      "premier league",
+      "arsenal manchester",
+      "haaland everton"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "316c2811dc03fde7",
     "slug": "tennis-cobolli-promette-sacrificio-totale-per-la-d-316c2811dc03fde7",
     "title": "Tennis: Luca Cobolli e Lorenzo Fortunato si giocano la qualificazione alla Davis Cup",
@@ -8926,24 +8945,6 @@
     "tags": [
       "governo meloni",
       "decreto carburanti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7a4add479848e12d",
-    "slug": "nissan-chiude-in-rosso-perdita-netta-di-550-miliar-7a4add479848e12d",
-    "title": "Nissan perde 4,5 miliardi: calo vendite e costi ristrutturazione colpiscono il gruppo giapponese",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-27T10:53:11.174712+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/5/13/577a8253abb5ac8451eab3f9a4f750f1.jpg",
-    "occhiello": "NISSAN PERDE 4,5 MILIARDI NEL PRIMO TRIMESTRE DEL 2026",
-    "lead_preview": "Roma, 27 aprile. La casa automobilistica giapponese Nissan, seconda solo alla Toyota nel panorama automobilistico nippon",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
