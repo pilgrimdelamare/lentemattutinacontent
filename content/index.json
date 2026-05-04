@@ -1,5 +1,24 @@
 [
   {
+    "id": "57281061f85454c2",
+    "slug": "danilo-rea-spiazza-il-san-carlo-puccini-e-bizet-di-57281061f85454c2",
+    "title": "Danilo Rea spiazza il San Carlo: Puccini e Bizet diventano jazz e la Sala si spacca",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-04T08:34:20.376950+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/040fe077ae4d904430d6ac07f733812c.jpg",
+    "occhiello": "JAZZ SU PUCCINI E VERDI CHE DIVIDE",
+    "lead_preview": "Napoli, 4 maggio. Il pianista Danilo Rea ha eseguito una versione jazz di arie pucciniane, verdiane e da Carmen di Bizet",
+    "tags": [
+      "jazz puccini",
+      "san carlo napoli",
+      "danilo rea concerto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d365235995a902c4",
     "slug": "merz-rifiuta-lo-scontro-con-trump-per-blindare-las-d365235995a902c4",
     "title": "Merz respinge Trump: Germania non alza il 2,5%",
@@ -8897,25 +8916,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e3c96afd2359726d",
-    "slug": "gerusalemme-il-cardinale-pizzaballa-rompe-il-silen-e3c96afd2359726d",
-    "title": "Pizzaballa accusa Israele: annessione di Gerusalemme Est viola diritto Internazionale",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-27T09:26:52.413840+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/5/eb378e29a6166cd0deb2d22c192c2cd4.jpg",
-    "occhiello": "GERUSALEMME EST: IL CARDINALE PIZZABALLA ATTACCA NETANYAHU",
-    "lead_preview": "Gerusalemme, 27 aprile. Pierbattista Pizzaballa, Patriarca Latino di Gerusalemme, ha accusato il governo israeliano di v",
-    "tags": [
-      "annessione gerusalemme est",
-      "pizzaballa accusa israele",
-      "diritto internazionale violato"
     ],
     "hero_eligible": true
   }
