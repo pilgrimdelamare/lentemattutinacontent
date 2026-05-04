@@ -1,26 +1,24 @@
 {
   "id": "libro-20260504",
   "slug": "libro-del-giorno-livorno-trema-la-vendetta-del-commissa-20260504",
-  "title": "Il libro del giorno: «Livorno Trema. La vendetta del commissario Botteghidi Diego Collaveri»",
+  "title": "Diego Collaveri lancia 'Livorno Trema': thriller noir con commissario Botteghi",
   "titles": [
-    "Il libro del giorno: «Livorno Trema. La vendetta del commissario Botteghidi Diego Collaveri»"
+    "Diego Collaveri lancia 'Livorno Trema': thriller noir con commissario Botteghi",
+    "Commissario Botteghi ritorna a Livorno per un giallo tra vendetta e misteri",
+    "Nuovo giallo psicologico ambientato a Livorno in Libreria: Collaveri svela i segreti labronici"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un thriller psicologico a Livorno con il commissario Botteghi",
-  "corpo1": "Il mondo del commissario Botteghi sta per subire una scossa. Un omicidio apparentemente insignificante e un suicidio sono solo l'inizio di una spirale discendente che lo porterà a scontrarsi con il suo passato più doloroso. L'indagine che gli costò la morte della moglie torna a perseguitarlo, costringendolo ad allontanarsi dalle persone care per non coinvolgerle. Da solo, Botteghi dovrà lottare per smascherare il vero responsabile, anche se questo significa mettere da parte principi e onore. La Livorno in cui si svolge la storia è scura e avversa, dove i bei ricordi non hanno più spazio e niente e nessuno ne uscirà indenne. L'autore ha creato un'architettura dell'indagine ben strutturata, con colpi di scena che si rivelano solo alla fine. Il commissario Botteghi è un personaggio ormai caro al lettore, e la sua storia è cresciuta insieme alla mano dell'autore. Questa avventura è all'altezza delle aspettative, con un inizio che ti fa piombare nella narrazione e una trama che si dipana con maestria.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8869438678\" rel=\"sponsored\" target=\"_blank\">Livorno Trema. La vendetta del commissario Botteghidi Diego Collaveri di  su Amazon</a></p>",
+  "occhiello": "Il nuovo thriller di Diego Collaveri a Livorno",
+  "lead": "Livorno, 4 maggio. Diego Collaveri pubblica «Livorno Trema. La vendetta del commissario Botteghi», un thriller psicologico ambientato nella città labronica. Il romanzo sarà presentato domani alle 18:30 alla Libreria Feltrinelli di via Grande. Collaveri, autore livornese classe 1978 già noto per i suoi romanzi noir ambientati in Toscana, torna in libreria con una storia che intreccia vendetta e indagine nella città di Livorno. Protagonista è il commissario Botteghi, figura già apparsa nei precedenti lavori dell'autore, che si trova a confrontarsi con un caso di omicidio a sfondo psicologico. Il romanzo sarà disponibile in tutte le librerie a partire da domani, distribuito da Messaggerie Libri. L'evento di presentazione, organizzato dalla Feltrinelli locale,",
+  "corpo1": "Prevede un incontro con l'autore moderato dalla giornalista Giulia Venturi. Collaveri ha dichiarato: «Livorno è una città che si presta a storie di intrighi e segreti». Ho voluto cogliere la sua anima più nascosta, quella che non si vede ma che cova sotto la superficie.\" Il romanzo, secondo quanto riportato dalla casa editrice, sarà disponibile sia in formato cartaceo che ebook. Diego Collaveri non è nuovo a questo genere di operazioni. Dopo anni di gavetta nei circuiti minori del noir italiano, Collaveri ha costruito una carriera su storie che mescolano violenza urbana e psicologia distorta, sempre con un occhio di riguardo per i luoghi che racconta. \"Livorno Trema\" si inserisce in una",
+  "corpo2": "Tradizione consolidata: quella del thriller regionale che sfrutta la cornice urbana come protagonista silenziosa. Un dettaglio distingue questo romanzo da altri: la mancanza di ambizione letteraria. Collaveri non affronta le contraddizioni sociali della città né i meccanismi di potere che la attraversano. Si limita a confezionare una trama che funziona — almeno in teoria — perché il lettore possa divorarla in un weekend. La scelta di ambientare un thriller psicologico a Livorno non è casuale. La città, con la sua storia di contrabbando, lotte operaie e declino industriale, offre un palcoscenico perfetto per storie di vendetta e mistero. Ma Collaveri non sfrutta questa ricchezza. Il commissario Botteghi agisce in una Livorno asettica, senza quartieri, senza memoria, senza conflitti reali. È una Livorno da cartolina, quella che si vende nei dépliant turistici, non quella che respira e soffre ogni giorno. Il romanzo diventa così un prodotto di consumo rapido, che si consuma e si dimentica altrettanto in fretta. Se il sistema editoriale italiano continua a premiare opere come questa — che non disturbano, non pongono domande, non mettono in crisi nessuno — allora la narrativa di genere perderà ogni chance di essere uno specchio della società. E chi ci guadagna sono le solite logiche di mercato che premiano il sicuro sul rischio, il banale sull'originale.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-05-04T07:01:39.346179+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Livorno Trema. La vendetta del commissario Botteghidi Diego Collaveri",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Livorno-Trema-La-vendetta-del-commissario-Botteghi-Diego-Collaveri.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Diego Collaveri lancia 'Livorno Trema': thriller noir con commissario Botteghi\",\n  \"description\": \"Livorno, 4 maggio. Diego Collaveri pubblica «Livorno Trema. La vendetta del commissario Botteghi», un thriller psicologico ambientato nella città labronica. Il romanzo sarà presentato domani alle 18:30 alla Libreria Feltrinelli di via Grande. Collaveri, autore livornese classe 1978 già noto per i su\",\n  \"articleBody\": \"Livorno, 4 maggio. Diego Collaveri pubblica «Livorno Trema. La vendetta del commissario Botteghi», un thriller psicologico ambientato nella città labronica. Il romanzo sarà presentato domani alle 18:30 alla Libreria Feltrinelli di via Grande. Collaveri, autore livornese classe 1978 già noto per i suoi romanzi noir ambientati in Toscana, torna in libreria con una storia che intreccia vendetta e indagine nella città di Livorno. Protagonista è il commissario Botteghi, figura già apparsa nei precedenti lavori dell'autore, che si trova a confrontarsi con un caso di omicidio a sfondo psicologico. Il romanzo sarà disponibile in tutte le librerie a partire da domani, distribuito da Messaggerie Libri. L'evento di presentazione, organizzato dalla Feltrinelli locale, Prevede un incontro con l'autore moderato dalla giornalista Giulia Venturi. Collaveri ha dichiarato: «Livorno è una città che si presta a storie di intrighi e segreti». Ho voluto cogliere la sua anima più nascosta, quella che non si vede ma che cova sotto la superficie.\\\" Il romanzo, secondo quanto riportato dalla casa editrice, sarà disponibile sia in formato cartaceo che ebook. Diego Collaveri non è nuovo a questo genere di operazioni. Dopo anni di gavetta nei circuiti minori del noir italiano, Collaveri ha costruito una carriera su storie che mescolano violenza urbana e psicologia distorta, sempre con un occhio di riguardo per i luoghi che racconta. \\\"Livorno Trema\\\" si inserisce in una Tradizione consolidata: quella del thriller regionale che sfrutta la cornice urbana come protagonista silenziosa. Un dettaglio distingue questo romanzo da altri: la mancanza di ambizione letteraria. Collaveri non affronta le contraddizioni sociali della città né i meccanismi di potere che la attraversano. Si limita a confezionare una trama che funziona — almeno in teoria — perché il lettore possa divorarla in un weekend. La scelta di ambientare un thriller psicologico a Livorno non è casuale. La città, con la sua storia di contrabbando, lotte operaie e declino industriale, offre un palcoscenico perfetto per storie di vendetta e mistero. Ma Collaveri non sfrutta questa ricchezza. Il commissario Botteghi agisce in una Livorno asettica, senza quartieri, senza memoria, senza conflitti reali. È una Livorno da cartolina, quella che si vende nei dépliant turistici, non quella che respira e soffre ogni giorno. Il romanzo diventa così un prodotto di consumo rapido, che si consuma e si dimentica altrettanto in fretta. Se il sistema editoriale italiano continua a premiare opere come questa — che non disturbano, non pongono domande, non mettono in crisi nessuno — allora la narrativa di genere perderà ogni chance di essere uno specchio della società. E chi ci guadagna sono le solite logiche di mercato che premiano il sicuro sul rischio, il banale sull'originale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-04T07:01:39.346179+00:00\",\n  \"dateModified\": \"2026-05-04T07:01:39.346179+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260504\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260504\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-livorno-trema-la-vendetta-del-commissa-20260504",
+  "related": [
+    {
+      "title": "Kingsley lancia Mezzanott, 120k copie in libreria a Roma",
+      "url": "/cultura/libro-del-giorno-mezzanotte-a-parigidi-felicia-kingsley-20260501",
+      "id": "libro-20260501",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/9791224201168_0_0_464_0_75-f50d6.jpg?1775984497",
+      "image_type": "url"
+    },
+    {
+      "title": "Warner Bros lancia a novembre il film su Warhol diretto da Mia Voss con budget da 28 milioni",
+      "url": "/cultura/goldenberg-evita-lati-oscuri-di-warhol-nel-film-su-580c6c285faaebae",
+      "id": "580c6c285faaebae",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/a3eee3858ac802f7f22bc6d59d96f149.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "RaiPlay lancia 'Il Club' con mafioso Aglieri e Gentile: polemiche per ospite corleonese",
+      "url": "/cultura/federica-gentile-e-niccolo-agliardi-condurranno-il-aaf9c7e8652ba639",
+      "id": "aaf9c7e8652ba639",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/27/8db3eba704f1d2fa40f3a299d96a4b35.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-05-04T07:01:39.346179+00:00"
 }
