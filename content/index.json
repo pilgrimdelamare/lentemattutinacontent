@@ -1,5 +1,23 @@
 [
   {
+    "id": "8f153cbbe59b8ab7",
+    "slug": "fiorini-al-suolo-a-olimpico-8f153cbbe59b8ab7",
+    "title": "Fiorini al suolo a olimpico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-04T22:29:45.342939+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/86b1e212f69d789b4321af6c2f0e4e8aecef5f33/skysport/it/calcio/serie-a/video/2026/05/04/1095346_1777928043253_thumb_494.0000001_1777928114637.jpg",
+    "occhiello": "FIORINI AL SUOLO A OLIMPICO",
+    "lead_preview": "Roma, 4 maggio. La Roma liquida la Fiorentina 4-0 al 37esimo turno di Serie A, umiliando i viola a distanza di tre setti",
+    "tags": [
+      "roma fiorentina",
+      "serie a"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8454971f21e7a32d",
     "slug": "calcio-arsenal-allunga-con-un-punto-di-vantaggio-8454971f21e7a32d",
     "title": "Calcio: Arsenal allunga con un punto di vantaggio",
@@ -8927,24 +8945,6 @@
       "papa leone xiv",
       "sarah mullay",
       "incontro vaticano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "52dab3ffb042c544",
-    "slug": "petrolio-su-e-voli-5-borsa-festeggia-mentre-i-pass-52dab3ffb042c544",
-    "title": "Governo Meloni sbaglia la mossa: taglio IVA sui carburanti sparito da decreto",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-27T10:50:52.105446+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/29/798cd5d2bf98648477d9e8e45f9b5a1a.jpg",
-    "occhiello": "PROMESSA ELETTORALE SUI CARBURANTI SCOMPARSA DAL DECRETO",
-    "lead_preview": "Roma, 27 aprile. Il taglio dell'IVA sui carburanti, promesso dal governo Meloni con un risparmio medio di circa 5 euro p",
-    "tags": [
-      "governo meloni",
-      "decreto carburanti"
     ],
     "hero_eligible": true
   }
