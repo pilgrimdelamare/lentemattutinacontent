@@ -1,5 +1,24 @@
 [
   {
+    "id": "8ebf3247a866f63a",
+    "slug": "trump-minaccia-dazi-sulle-auto-tedesche-merz-contr-8ebf3247a866f63a",
+    "title": "Trump dichiara Dazi del 45% su Auto Tedesche, costo per Berlino fino a 15 miliardi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-03T18:51:00.878698+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/cc350214de113a76c47404bce9a5bfa7.jpg",
+    "occhiello": "TRUMP MINACCIA, DAZI DA 15 MILIARDI SU AUTO TEDESCHE",
+    "lead_preview": "BERLINO, 3 maggio. Il Presidente degli Stati Uniti Donald Trump ha annunciato l'intenzione di imporre Dazi del 45% su Au",
+    "tags": [
+      "dazi auto tedesche",
+      "trump minaccia",
+      "costo per berlino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, lunedì 4 maggio 2026",
@@ -926,25 +945,6 @@
       "accordo witkoff",
       "russia",
       "teheran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8ebf3247a866f63a",
-    "slug": "trump-minaccia-dazi-sulle-auto-tedesche-merz-contr-8ebf3247a866f63a",
-    "title": "Trump Impone Dazi del 45% su Auto Tedesche Valico di 15 Miliardi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-03T18:51:00.878698+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/cc350214de113a76c47404bce9a5bfa7.jpg",
-    "occhiello": "TRUMP MINACCIA DIAZI DA 15 MILIARDI SU AUTO TEDESCHE",
-    "lead_preview": "TRUMP MINACCIA DIAZI DA 15 MILIARDI SU AUTO TEDESCHE Berlino, 3 maggio. La Germania ha dato mandato all'Unione Europea d",
-    "tags": [
-      "dazi trump",
-      "guerra commerciale",
-      "auto tedesche"
     ],
     "hero_eligible": true
   },
