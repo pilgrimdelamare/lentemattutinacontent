@@ -1,5 +1,23 @@
 [
   {
+    "id": "191461f2028d514e",
+    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
+    "title": "Il PMI manifatturiero sale a 52,1, il valore più alto da 18 mesi in Italia",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-04T09:33:22.727651+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
+    "occhiello": "IL PMI A 52,1 MA IL PIL NON BALLERÀ",
+    "lead_preview": "IL PMI A 52,1 MA IL PIL NON BALLERÀ Il PMI manifatturiero italiano ha raggiunto 52,1, il valore più alto da diciotto mes",
+    "tags": [
+      "pmi manifatturiero",
+      "pil italiano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57d0b4264320e756",
     "slug": "calcio-calhanoglu-sfida-i-tifosi-bilancio-inter-a-57d0b4264320e756",
     "title": "Çalhanoğlu chiede la rescissione dall'Inter e pretende 14 milioni di buonuscita",
@@ -886,24 +904,6 @@
     "tags": [
       "tour de france",
       "ciclismo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "191461f2028d514e",
-    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
-    "title": "Il PMI Italiano Sfonda i 52, superando quota storica",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-04T09:33:22.727651+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
-    "occhiello": "52,1 IL BOOM CHE NON BASTA",
-    "lead_preview": "52,1 IL BOOM CHE NON BASTA roma, 4 maggio. Il PMI manifatturiero italiano ha sfondato quota 52,1, il valore più alto da ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
