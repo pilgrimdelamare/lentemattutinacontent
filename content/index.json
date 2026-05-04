@@ -1,5 +1,24 @@
 [
   {
+    "id": "bafe82a69ce33d18",
+    "slug": "washington-minaccia-nuove-misure-commerciali-contr-bafe82a69ce33d18",
+    "title": "Washington minaccia nuove misure commerciali contro l'Unione Europea",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-04T12:02:44.645216+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/24/3457beb5f30c01c4be4feb90c2596670.jpg",
+    "occhiello": "EUROPEA NEL MIRINO DELLA CASA BIANCA",
+    "lead_preview": "La Commissione Europea conferma che Washington ha minacciato nuove misure commerciali contro prodotti europei in rispost",
+    "tags": [
+      "dazi veicoli",
+      "unione cina",
+      "usa europa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "316c2811dc03fde7",
     "slug": "tennis-cobolli-promette-sacrificio-totale-per-la-d-316c2811dc03fde7",
     "title": "Tennis: Cobolli promette sacrificio totale per la Davis 2026 a Malaga",
@@ -8911,24 +8930,6 @@
       "openai aggiornamento principi",
       "ia generativa",
       "cambio strategico openai"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a52032d4beb83e2",
-    "slug": "nuove-indagini-su-stragi-di-mafia-a-palermo-metton-4a52032d4beb83e2",
-    "title": "Palermo: Antimafia chiede riapertura indagini sulle Stragi, dubbi sulla verità giudiziaria",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-04-27T17:51:42.988226+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-palermo/2026/04/27/193059720-70dd5cad-a902-427f-b2d4-341827e5f3b6.jpg",
-    "occhiello": "NUOVE INDAGINI SULLE STRAGI DI PALERMO",
-    "lead_preview": "Palermo, 27 aprile. La Commissione parlamentare antimafia chiede di riaprire le indagini sulle Stragi di mafia a Palermo",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
