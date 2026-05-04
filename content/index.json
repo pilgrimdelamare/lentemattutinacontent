@@ -1,5 +1,24 @@
 [
   {
+    "id": "8ebf3247a866f63a",
+    "slug": "trump-minaccia-dazi-sulle-auto-tedesche-merz-contr-8ebf3247a866f63a",
+    "title": "Trump impone dazi al 45% sulle auto tedesche: 15 miliardi di danni immediati",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-03T18:51:00.878698+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/cc350214de113a76c47404bce9a5bfa7.jpg",
+    "occhiello": "BERLINO PRENDE TEMPO SU DAZI TRUMP",
+    "lead_preview": "Berlino, 3 maggio. Il presidente degli Stati Uniti Donald J. Trump ha comunicato in una nota ufficiale diffusa dalla Cas",
+    "tags": [
+      "dazi trump auto",
+      "tensioni usa germania",
+      "politica commerciale trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bafe82a69ce33d18",
     "slug": "washington-minaccia-nuove-misure-commerciali-contr-bafe82a69ce33d18",
     "title": "Usa minacciano dazi fino al 35% su acciaio e formaggi europei, Bruxelles pronta a colpire",
@@ -944,25 +963,6 @@
       "serie a1",
       "basket",
       "croswell"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8ebf3247a866f63a",
-    "slug": "trump-minaccia-dazi-sulle-auto-tedesche-merz-contr-8ebf3247a866f63a",
-    "title": "Trump dichiara Dazi del 45% su Auto Tedesche, costo per Berlino fino a 15 miliardi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-03T18:51:00.878698+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/cc350214de113a76c47404bce9a5bfa7.jpg",
-    "occhiello": "TRUMP MINACCIA, DAZI DA 15 MILIARDI SU AUTO TEDESCHE",
-    "lead_preview": "BERLINO, 3 maggio. Il Presidente degli Stati Uniti Donald Trump ha annunciato l'intenzione di imporre Dazi del 45% su Au",
-    "tags": [
-      "dazi auto tedesche",
-      "trump minaccia",
-      "costo per berlino"
     ],
     "hero_eligible": true
   },
