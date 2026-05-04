@@ -1,5 +1,24 @@
 [
   {
+    "id": "1d9f914811f1dc42",
+    "slug": "tre-iraniani-giustiziati-dopo-attentato-a-stazione-1d9f914811f1dc42",
+    "title": "Tre uomini impiccati in Iran per l'attentato del 2025 a Khuzestan",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-04T13:23:34.838912+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/4482702ad6c9407c499f5556d945043166e51b69/914_0_6411_5129/master/6411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e910b4f432f44ea5cb40beaca3c44388",
+    "occhiello": "TEHERAN ESEGUE TRE CONDANNE A MORTE",
+    "lead_preview": "Teheran, 4 maggio. Tre uomini identificati come Saeed Hashemi, Mohammad Karami e Majid Kazemi sono stati impiccati quest",
+    "tags": [
+      "iran",
+      "condanne a morte",
+      "attentato khuzestan"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1aa36fbfa3b367c7",
     "slug": "calcio-9-squadre-vanno-in-serie-c-dopo-la-chiusura-1aa36fbfa3b367c7",
     "title": "Serie C allargata a 64 club: 9 promosse dalla D portano budget da 1,2 milioni",
@@ -538,25 +557,6 @@
     "tags": [
       "musicastelle",
       "concerti roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1d9f914811f1dc42",
-    "slug": "tre-iraniani-giustiziati-dopo-attentato-a-stazione-1d9f914811f1dc42",
-    "title": "Tre iraniani giustiziati dopo 'attentato' a stazione petrolifera",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-04T13:23:34.838912+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/4482702ad6c9407c499f5556d945043166e51b69/914_0_6411_5129/master/6411.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e910b4f432f44ea5cb40beaca3c44388",
-    "occhiello": "TEHERAN PENDE SU TRE PROTESTATARI",
-    "lead_preview": "Teheran, 4 maggio.",
-    "tags": [
-      "iran",
-      "proteste",
-      "processo"
     ],
     "hero_eligible": true
   },
