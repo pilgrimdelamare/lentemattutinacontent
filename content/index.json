@@ -1,5 +1,24 @@
 [
   {
+    "id": "04ff35d8ebbc6da5",
+    "slug": "cuba-usa-stringe-lassedio-blocca-il-petrolio-dal-v-04ff35d8ebbc6da5",
+    "title": "Washington Blocka 90% delle Esportazioni di Petrolio Venezuelano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-05T16:12:58.749090+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/18/ef78fcc851ed0fac1288aff5dbd6875e.jpg",
+    "occhiello": "WASHINGTON BLOCCA IL 90% DEL PETROLIO VENEZUELANO",
+    "lead_preview": "L'Avana, 5 maggio. Il governo di Miguel Díaz-Canel ha definito \"ciniche e ipocrite\" le dichiarazioni della Casa Bianca s",
+    "tags": [
+      "petrolio venezuelano",
+      "blocchi washington",
+      "crisi venezuela"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c487d356f67f84d5",
     "slug": "haiti-alza-il-salario-a-650-euro-non-basta-per-la-c487d356f67f84d5",
     "title": "Gouverno Haitiano fissa salario minimo a 6,5 euro a Port-au-Prince",
@@ -414,24 +433,6 @@
       "arera",
       "tariffa gas",
       "risparmio energia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "04ff35d8ebbc6da5",
-    "slug": "cuba-usa-stringe-lassedio-blocca-il-petrolio-dal-v-04ff35d8ebbc6da5",
-    "title": "Cuba, Usa stringe l'assedio: blocca il petrolio dal Venezuela e minaccia l'economia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-05T16:12:58.749090+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/18/ef78fcc851ed0fac1288aff5dbd6875e.jpg",
-    "occhiello": "CUBA RISPONDE CON LE SANZIONI",
-    "lead_preview": "L'Avana, 5 maggio. Il governo cubano ha definito \"ciniche e ipocrite\" le allusioni statunitensi a un intervento militare",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
