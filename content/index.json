@@ -1,5 +1,24 @@
 [
   {
+    "id": "b23b56bc8978dff8",
+    "slug": "firenze-salva-gli-affreschi-di-masaccio-con-17-sen-b23b56bc8978dff8",
+    "title": "Firenze salva gli affreschi di Masaccio con 17 sensori e un algoritmo",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-05T17:39:30.535669+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/72c00b5faaafbc0bdde7916ef7a291c9.jpg",
+    "occhiello": "Monitoraggio nella Cappella Brancacci per la conservazione degli affreschi di Masaccio",
+    "lead_preview": "Firenze, 5 maggio 2026. La soprintendenza di Firenze ha avviato un sistema di monitoraggio con 17 sensori per rilevare u",
+    "tags": [
+      "masaccio affreschi",
+      "cappella brancacci",
+      "monitoraggio sensoriale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0a586b4780d7ac5d",
     "slug": "machado-fissa-un-anno-per-le-elezioni-in-venezuela-0a586b4780d7ac5d",
     "title": "Machado fissa un anno per le elezioni in Venezuela: Maduro risponde secco",
@@ -8949,24 +8968,6 @@
       "shai gilgeous-alexander",
       "oklahoma city thunder",
       "nba playoffs"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "57385dcd69e336f9",
-    "slug": "messico-export-record-lindustria-esplode-e-travolg-57385dcd69e336f9",
-    "title": "Record storico in Messico: le esportazioni industriali volano oltre ogni limite",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-28T06:33:33.836384+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/c99f0c88d16c4267a723fcccce59e4d5.jpg",
-    "occhiello": "MESSICO, L'INDUSTRIA MANIFATTURIERA SEGNA UN RECORD STORICO DI EXPORT",
-    "lead_preview": "Città del Messico, 28 aprile. L'economia del Messico ha registrato un'accelerazione senza precedenti, raggiungendo un pi",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
