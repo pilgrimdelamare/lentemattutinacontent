@@ -1,5 +1,23 @@
 [
   {
+    "id": "257326f8bcc5681c",
+    "slug": "tennis-berrettini-e-tornato-in-campo-257326f8bcc5681c",
+    "title": "Tennis: Berrettini è tornato in campo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-05T14:48:20.533209+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/4da8c2ac9076222c5d22cd76e62e8bf8.jpg",
+    "occhiello": "MADRID, BERRETTINI SI SENTE VIVO",
+    "lead_preview": "MADRID, BERRETTINI SI SENTE VIVO Roma, 5 maggio Matteo Berrettini ha smesso di recitare il ruolo del convalescente a Mad",
+    "tags": [
+      "tennis",
+      "berrettini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "97a3e47fbef413fe",
     "slug": "pd-chiede-solidarieta-a-leone-xiv-centrodestra-non-97a3e47fbef413fe",
     "title": "PD chiede solidarietà a Leone XIV, centrodestra non si unisce",
@@ -8949,25 +8967,6 @@
     "occhiello": "GIANNI MORANDI RITORNA SUI PALCHI ITALIANI CON DODICI DATE",
     "lead_preview": "Roma, 27 aprile. Gianni Morandi torna a esibirsi dal vivo in Italia con un tour estivo che prevede dodici concerti distr",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1abc63c9b7703cd0",
-    "slug": "trump-boccia-il-piano-iraniano-per-lo-stretto-di-h-1abc63c9b7703cd0",
-    "title": "Iran: revoca blocco navale per disaccordo nucleare",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-28T05:39:31.327853+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDQvMjQvMTEwMTM3NDMwLTJiNGY1NzgyLWM2NWEtNGZkMC05ZmJhLTFiOTJhMmQ3NmZlNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "IRAN: REVOCA BLOCCO NAVALE PER DISACCORDO NUCLEARE",
-    "lead_preview": "San Pietroburgo, 28 aprile. L'Iran ha proposto di riaprire lo Stretto di Hormuz, snodo cruciale per il transito del petr",
-    "tags": [
-      "iran",
-      "stretto di hormuz",
-      "blocco navale"
-    ],
     "hero_eligible": true
   }
 ]
