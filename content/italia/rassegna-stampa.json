@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 4 maggio 2026",
+  "title": "Le prime pagine di oggi, martedì 5 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 4 maggio 2026",
-    "Le prime pagine di oggi, lunedì 4 maggio 2026",
-    "Le prime pagine di oggi, lunedì 4 maggio 2026"
+    "Le prime pagine di oggi, martedì 5 maggio 2026",
+    "Le prime pagine di oggi, martedì 5 maggio 2026",
+    "Le prime pagine di oggi, martedì 5 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL MONDO IN CRISI",
-  "lead": "Lo scudetto dell'Inter, la guerra in Ucraina e le dichiarazioni di Donald Trump dominano le prime pagine dei giornali italiani oggi. Il Corriere della Sera, La Repubblica, La Stampa e il Messaggero si concentrano sui fatti geopolitici, mentre Gazzetta dello Sport e Corriere dello Sport dedicano spazio allo sport. Stramilano e Corriere dello Sport pubblicano invece offerte speciali e articoli di approfondimento.",
-  "corpo1": "Il Corriere della Sera titola su un'eventuale visita del presidente degli Stati Uniti, Rubio, al Papa e a Meloni. La Repubblica riporta le parole di Trump sui cargo intrappolati nello stretto di Hormuz, con l'annuncio di una nuova operazione, Project Freedom. La Stampa pubblica un titolo critico nei confronti di Trump, che ha dichiarato il suo sostegno a Salvini. Il Messaggero riporta le dichiarazioni di Trump in merito a un piano di pace con l'Iran. Gazzetta dello Sport e Corriere dello Sport dedicano invece le loro prime pagine allo scudetto dell'Inter, vinto contro il Parma con un risultato di 2-0. Stramilano pubblica un'offerta speciale per i suoi iscritti, con una prova gratuita di 30 giorni del decoder Sky Stream.",
-  "corpo2": "Altri titoli di rilievo in prima pagina includono la vittoria di Antonelli al Gp di Miami e l'impresa di Sinner al Masters 1000 di Madrid, pubblicata da Corriere dello Sport. Il tema dominante della giornata è la crisi geopolitica e sportiva.",
+  "occhiello": "LE PRIME PAGINE DI MARTEDÌ 5 MAGGIO 2026: GUERRA IN IRAN, SPORT, POLITICA",
+  "lead": "Oggi, martedì 5 maggio 2026, le prime pagine dei principali quotidiani italiani convergono su diversi eventi di rilievo. La tensione crescente nello Stretto di Hormuz domina le notizie, con numerose testate che riportano gli sviluppi della guerra in Iran. Il mondo dello sport è al centro dell'attenzione, con aggiornamenti particolarmente sulle vicende del campionato di Serie A. Infine, la scena politica italiana è animata da dinamiche interne e rapporti con l'estero, come dimostrano le diverse trattazioni.",
+  "corpo1": "Il quotidiano \"La Lente Mattutina\" apre con la tensione a Hormuz con il titolo \"Battaglia navale a Hormuz\", seguito da un racconto dettagliato di un capitano sulle sue esperienze nello Stretto tra missili e incertezza, accompagnato dalle analisi \"Trappola reciproca\" e \"Il dilemma di Israele\". In taglio alto, si parla del successo della Roma contro la Juventus, che ora si avvicina alla vetta. \"Il Giornale Politico\" si concentra sulla guerra in Iran con \"La battaglia di Hormuz\", evidenziando l'azione degli Stati Uniti contro imbarcazioni iraniane e le dichiarazioni di Trump. Inoltre, riporta la posizione di Meloni su Trump e le sue visite a Rubio. \"La Cronaca\" titola con \"Trump, l'accusa di Meloni\", esplorando le dinamiche tra la premier e l'ex presidente, oltre a un commento su Salvini e una riflessione sullo \"Shock energetico\". \"Il Mattino Economico\" apre con la guerra in Iran e il titolo \"A Hormuz tornano i missili\", offrendo uno spazio a Meloni e alla sua visita a Rubio, insieme a notizie sull'Italtennis. \"La Gazzetta del Lavoro\" si concentra sulle novità delle comunicazioni obbligatorie e sulle politiche economiche europee. \"Il Corriere dello Sport\" apre con il rischio di Milan e Juventus di non qualificarsi per la Champions League, seguito da aggiornamenti sull'Inter e il suo futuro. Infine, \"La Notizia\" apre con la riforma degli sgomberi abitativi e riporta il distacco di Meloni da Trump.",
+  "corpo2": "Altro spazio è dedicato alla cronaca nera, con il decesso di un individuo e le conseguenze per la sua famiglia. In ambito giudiziario, si parla del processo a Garlasco. Il tema dominante della giornata rimane la guerra in Iran e le sue ripercussioni geopolitiche, insieme alle vicende sportive e politiche in Italia.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-04T05:58:13.389056+00:00",
+  "published_at": "2026-05-05T05:45:55.901215+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/7769cdf3e51b9dedffbee6f0a3e13e353b74feec/skytg24/it/cronaca/2026/05/04/prime-pagine-quotidiani-oggi-4-maggio/Composite_4_maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/03b511e1f68feeb2087209655a182e4cf39b3982/skytg24/it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio/rassegnastampa5maggio.jpg?im=Resize,width=375",
     "source": "Stramilano",
     "credit": "Prima pagina — Stramilano",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/04/prime-pagine-quotidiani-oggi-4-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 4 maggio 2026",
+      "title": "Oroscopo di oggi, martedì 5 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
+      "title": "Prime Video investe 3 milioni in Non è un paese per Si",
+      "url": "/cultura/kingsley-svela-il-romance-italiano-vale-3-milioni-115ed066c1171c53",
+      "id": "115ed066c1171c53",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/74915342f5261a5f2a75df0fe33c0a44.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "Prime Video piazza Maccio Capatonda nel LOL Halloween 2026: la sfida comica che spopola",
       "url": "/cultura/prime-video-lancia-il-cast-di-lol-halloween-specia-eda316a2ef068d2c",
       "id": "eda316a2ef068d2c",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/08788f2d815c04724484b220dbb14dba.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Arisa, BigMama e Spollon conducono domani il Concertone del 1° Maggio su RAI 3",
-      "url": "/cultura/concertone-del-primo-maggio-sul-palco-ci-saranno-a-2baa349b61d4f3b7",
-      "id": "2baa349b61d4f3b7",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/75e887666b7483f32758fa87165c06a6.jpg",
       "image_type": "image"
     }
   ],
