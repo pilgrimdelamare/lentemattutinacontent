@@ -1,5 +1,24 @@
 [
   {
+    "id": "9b10959eb4b86262",
+    "slug": "calcio-kappa-annuncia-il-pallone-kombat-per-i-play-9b10959eb4b86262",
+    "title": "Calcio: Kappa lancia il pallone Kombat per i playoff di Serie B a 120 euro",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-05T09:51:17.093865+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/e8084dde11864e9c74981da3f52b78a9.jpg",
+    "occhiello": "IL PALLONE CHE SPARIGIONERÀ LA SERIE A",
+    "lead_preview": "Roma, 5 maggio 2026. Kappa ha presentato il pallone ufficiale dei playoff di Serie B: si chiama Kombat, un riferimento d",
+    "tags": [
+      "playoff serie b",
+      "pallone kappa kombat",
+      "calcio 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8d21c22db4fd93e3",
     "slug": "unicredit-rassicura-generali-solo-investimento-sot-8d21c22db4fd93e3",
     "title": "Orcel blocca la scalata a Generali: Unicredit non supererà mai il 9,9% del capitale",
@@ -370,24 +389,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9b10959eb4b86262",
-    "slug": "calcio-kappa-annuncia-il-pallone-kombat-per-i-play-9b10959eb4b86262",
-    "title": "Calcio: Kappa annuncia il pallone Kombat per i playoff",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-05T09:51:17.093865+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/e8084dde11864e9c74981da3f52b78a9.jpg",
-    "occhiello": "KOMBAT, IL PALLONE CHE DECIDERÀ CHI GIOCA LA SERIE A",
-    "lead_preview": "KOMBAT, IL PALLONE CHE DECIDERÀ CHI GIOCA LA SERIE A Roma, 5 maggio 2026. Il pallone ufficiale dei playoff di Serie B si",
-    "tags": [
-      "serie b",
-      "pallone playoff"
     ],
     "hero_eligible": true
   },
