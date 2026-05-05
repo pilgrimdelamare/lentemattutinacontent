@@ -1,5 +1,23 @@
 [
   {
+    "id": "c487d356f67f84d5",
+    "slug": "haiti-alza-il-salario-a-650-euro-non-basta-per-la-c487d356f67f84d5",
+    "title": "Haiti alza il salario a 6,50 euro: non basta per la cesta alimentare",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-05T16:53:53.547822+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/05d3ece969f1c536c9b44264ce33eaa8.jpg",
+    "occhiello": "6,5 EURO AL GIORNO CONTRO IL 49% DI POVERI",
+    "lead_preview": "6,5 EURO AL GIORNO CONTRO IL 49% DI POVERI Port-au-Prince, 5 maggio. Il governo haitiano ha firmato il decreto che porta",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3238c5d7519b2bff",
     "slug": "urso-firma-decreto-transizione-50-con-tre-mesi-di-3238c5d7519b2bff",
     "title": "Urso firma decreto Transizione 5.0 con tre mesi di ritardo",
@@ -8947,23 +8965,6 @@
       "distruzione infrastrutture gaza",
       "crisi idrica gaza",
       "conflitto israele-gaza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1323a0f9c789c68f",
-    "slug": "basket-infortunio-a-wagner-cain-raccoglie-il-testi-1323a0f9c789c68f",
-    "title": "Basket: Cain salva i Magic con 8 punti e 9 rimbalzi dopo l'infortunio di Wagner",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-28T06:28:58.012672+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/4bf8823f01f66dc896ef65d20a1bcdaf40d3f2d9/skysport/it/nba/video/2026/04/28/1093542_1777351300312_thumb_494.0000001_1777351346560.jpg",
-    "occhiello": "ORLANDO PERDE WAGNER MA TROVA LA REATTIVITÀ DI CAIN",
-    "lead_preview": "Orlando, 28 aprile. La sfida dei Magic contro la difesa avversaria subisce una svolta imprevista dopo l'infortunio occor",
-    "tags": [
-      "nba magic"
     ],
     "hero_eligible": true
   }
