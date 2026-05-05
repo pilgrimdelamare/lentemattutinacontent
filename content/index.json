@@ -1,5 +1,23 @@
 [
   {
+    "id": "191461f2028d514e",
+    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
+    "title": "Boom manifatturiero: il PMI dell'industria Italiana sale a 52,1 punti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-04T09:33:22.727651+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
+    "occhiello": "PMI MANIFATTURIERO SALE A 52,1: IL MIGLIORE DA 18 MESI",
+    "lead_preview": "Roma, 4 maggio 2026. Il Purchasing Managers' Index (PMI) manifatturiero in Italia ha raggiunto quota 52,1, il livello pi",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57281061f85454c2",
     "slug": "danilo-rea-spiazza-il-san-carlo-puccini-e-bizet-di-57281061f85454c2",
     "title": "Jazz vs classicismo: rea fa scalpito",
@@ -1055,24 +1073,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "191461f2028d514e",
-    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
-    "title": "Il PMI manifatturiero sale a 52,1, il valore più alto da 18 mesi in Italia",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-04T09:33:22.727651+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
-    "occhiello": "IL PMI A 52,1 MA IL PIL NON BALLERÀ",
-    "lead_preview": "IL PMI A 52,1 MA IL PIL NON BALLERÀ Il PMI manifatturiero italiano ha raggiunto 52,1, il valore più alto da diciotto mes",
-    "tags": [
-      "pmi manifatturiero",
-      "pil italiano"
     ],
     "hero_eligible": true
   },
