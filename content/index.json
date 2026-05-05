@@ -1,5 +1,24 @@
 [
   {
+    "id": "9063a95bac4c21e6",
+    "slug": "rocha-confinato-il-governatore-messicano-rinchiuso-9063a95bac4c21e6",
+    "title": "Il Governatore di Tamaulipas fermato per estorsione su scala sistemica",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-05T02:02:46.641141+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/b39115e57887a395a94600ac408aa9a8.jpg",
+    "occhiello": "50 MILIONI DI PESOS PER UNA TAGLIA",
+    "lead_preview": "Città del Messico, 5 maggio. Il Governatore dello Stato di Tamaulipas, Américo Villarreal Anaya, sarebbe stato fermato c",
+    "tags": [
+      "governatore tamaulipas",
+      "estorsione sistemica",
+      "arresto villarreal"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77ac6a18ce70a86e",
     "slug": "flavio-bolsonaro-sbarca-a-miami-per-condizionare-i-77ac6a18ce70a86e",
     "title": "Flávio Bolsonaro sbarca a Miami per condizionare il summit tra Lula e Trump",
@@ -856,25 +875,6 @@
       "recovery fund 2024",
       "fondi ue italia",
       "spesa fondi europei"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9063a95bac4c21e6",
-    "slug": "rocha-confinato-il-governatore-messicano-rinchiuso-9063a95bac4c21e6",
-    "title": "Governoatore messicano fermato per estorsione da 50 milioni di pesos",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-05T02:02:46.641141+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/b39115e57887a395a94600ac408aa9a8.jpg",
-    "occhiello": "IL GOVERNATORE DI TAMAULIPAS INDAGATO PER 50 MILIONI DI PESOS",
-    "lead_preview": "IL GOVERNATORE DI TAMAULIPAS INDAGATO PER 50 MILIONI DI PESOS Città del Messico, 5 maggio. Il governatore dello Stato di",
-    "tags": [
-      "estorsione messico",
-      "governatore tamaulipas",
-      "indagine politica"
     ],
     "hero_eligible": true
   },
