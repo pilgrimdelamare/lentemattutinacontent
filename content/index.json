@@ -1,5 +1,24 @@
 [
   {
+    "id": "c487d356f67f84d5",
+    "slug": "haiti-alza-il-salario-a-650-euro-non-basta-per-la-c487d356f67f84d5",
+    "title": "Gouverno Haitiano fissa salario minimo a 6,5 euro a Port-au-Prince",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-05T16:53:53.547822+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/05d3ece969f1c536c9b44264ce33eaa8.jpg",
+    "occhiello": "6,5 EURO AL GIORNO, 49% DI POVERI",
+    "lead_preview": "6,5 EURO AL GIORNO, 49% DI POVERI Port-au-Prince, 5 maggio. Il governo provvisorio haitiano guidato dal premier Garry Co",
+    "tags": [
+      "salario minimo",
+      "haiti",
+      "garry conille"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "052b0a481356e7d5",
     "slug": "gaza-annuncia-172mila-feriti-in-2-anni-4-su-10-col-052b0a481356e7d5",
     "title": "Gaza conta 172.000 feriti, 43.000 colpiti in scuole e ospedali",
@@ -321,24 +340,6 @@
     "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/05/05/162416692-dd156aa8-e15a-43d3-bacc-cf67435eee87.jpg",
     "occhiello": "LEONE XIV OFFESO, IL CENTRODESTRA SI VOLTA",
     "lead_preview": "LEONE XIV OFFESO, IL CENTRODESTRA SI VOLTA Genova, 5 maggio — Il centrosinistra della Liguria ha presentato stamane un o",
-    "tags": [
-      "tag1",
-      "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c487d356f67f84d5",
-    "slug": "haiti-alza-il-salario-a-650-euro-non-basta-per-la-c487d356f67f84d5",
-    "title": "Haiti alza il salario a 6,50 euro: non basta per la cesta alimentare",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-05T16:53:53.547822+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/05d3ece969f1c536c9b44264ce33eaa8.jpg",
-    "occhiello": "6,5 EURO AL GIORNO CONTRO IL 49% DI POVERI",
-    "lead_preview": "6,5 EURO AL GIORNO CONTRO IL 49% DI POVERI Port-au-Prince, 5 maggio. Il governo haitiano ha firmato il decreto che porta",
     "tags": [
       "tag1",
       "tag2"
