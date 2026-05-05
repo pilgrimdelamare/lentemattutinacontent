@@ -1,5 +1,24 @@
 [
   {
+    "id": "191461f2028d514e",
+    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
+    "title": "Italia, industria in ripresa: PMI manifatturiero a quota 52,1 punti dopo diciotto mesi",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-04T09:33:22.727651+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
+    "occhiello": "PMI MANIFATTURIERO A 52,1 IL MASSIMO IN 18 MESI",
+    "lead_preview": "Roma, 4 maggio. Il Purchasing Managers' Index, l'indice che misura la salute del settore manifatturiero, ha registrato u",
+    "tags": [
+      "pmi manifatturiero",
+      "ripresa industria",
+      "indice 52.1"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57d0b4264320e756",
     "slug": "calcio-calhanoglu-sfida-i-tifosi-bilancio-inter-a-57d0b4264320e756",
     "title": "Calciomercato: Hakan Çalhanoğlu vuole rescindere con l'Inter per 14 milioni",
@@ -15,24 +34,6 @@
       "calciomercato inter",
       "çalhanoglu rescissione",
       "contratto inter"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "191461f2028d514e",
-    "slug": "il-pmi-manifatturiero-italiano-sfonda-il-521-recor-191461f2028d514e",
-    "title": "Boom manifatturiero: il PMI dell'industria Italiana sale a 52,1 punti",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-04T09:33:22.727651+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/42f9a2ef34b651da8e96daa7d96902f2.jpg",
-    "occhiello": "PMI MANIFATTURIERO SALE A 52,1: IL MIGLIORE DA 18 MESI",
-    "lead_preview": "Roma, 4 maggio 2026. Il Purchasing Managers' Index (PMI) manifatturiero in Italia ha raggiunto quota 52,1, il livello pi",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
