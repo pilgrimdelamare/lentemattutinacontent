@@ -1,5 +1,24 @@
 [
   {
+    "id": "662895f0eb309c06",
+    "slug": "spread-a-80-punti-btp-decennale-crolla-al-386-ment-662895f0eb309c06",
+    "title": "Spread a 80 e BTP al 3,86%: calano i tassi ma il debito pubblico spaventa",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-05T16:34:36.327207+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/3f35c67985031fd1ccb7e4de52fa315c.jpg",
+    "occhiello": "BANCHE INCASSANO MENTRE IL DEBITO SPARISCE DIETRO L'80",
+    "lead_preview": "Roma, 5 maggio. Il rendimento del BTP decennale italiano è sceso al 3,86%, trascinando lo spread sopra i 70 punti base. ",
+    "tags": [
+      "tassi interessi",
+      "debito pubblico",
+      "btp"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b23b56bc8978dff8",
     "slug": "firenze-salva-gli-affreschi-di-masaccio-con-17-sen-b23b56bc8978dff8",
     "title": "17 sensori salvano gli affreschi di masaccio",
@@ -414,25 +433,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "662895f0eb309c06",
-    "slug": "spread-a-80-punti-btp-decennale-crolla-al-386-ment-662895f0eb309c06",
-    "title": "Spread a 80 punti: BTP decennale crolla al 3,86% mentre le banche intascano la differenza",
-    "section": "economia",
-    "priority": 7,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-05T16:34:36.327207+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/20/3f35c67985031fd1ccb7e4de52fa315c.jpg",
-    "occhiello": "SPREAD A 80 PUNTI: IL BTP DECENNALE SCENDE A 3,86%",
-    "lead_preview": "SPREAD A 80 PUNTI: IL BTP DECENNALE SCENDE A 3,86% Roma, 5 maggio. Il rendimento del Btp decennale italiano è sceso al 3",
-    "tags": [
-      "spread btp bund",
-      "rendimento btp decennale",
-      "banche spread"
     ],
     "hero_eligible": true
   },
