@@ -1,5 +1,24 @@
 [
   {
+    "id": "6c35bc096b2ab8f9",
+    "slug": "trump-ringrazia-il-feldmaresciallo-munir-per-salva-6c35bc096b2ab8f9",
+    "title": "Trump ringrazia il Feldmaresciallo Munir per salvare la caccia all'Iran",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-05T11:14:52.854894+00:00",
+    "image_type": "image",
+    "image_url": "https://imagenes.elpais.com/resizer/v2/E6MW5W5J4NKKNP6E6OIZ4ZL3AQ.jpg?auth=d51e120b535403045e45faf609e8f5b2c3e559c76567a91067074543c1243a08&amp;width=1200",
+    "occhiello": "",
+    "lead_preview": "Teheran, 15 aprile. Il Feldmaresciallo Asim Munir è stato accolto dal Ministro degli Esteri iraniano Abbas Araghchi a Te",
+    "tags": [
+      "cessate il fuoco",
+      "iran",
+      "trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5eb9618fece7fa81",
     "slug": "ghribi-stoppa-la-corsa-non-sono-luomo-della-provvi-5eb9618fece7fa81",
     "title": "Ghribi ritira la candidatura ma 220.000 tunisini lo vogliono Presidente in piazze blindate",
@@ -8922,21 +8941,6 @@
     "tags": [
       "stadio franchi"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "be3f3bf172d94a8a",
-    "slug": "calhanoglu-si-porta-apresso-la-coppa-italia-be3f3bf172d94a8a",
-    "title": "Calcio: Hakan Çalhanoğlu alza la Coppa Italia nel ventesimo anniversario dell'Inter",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-27T11:51:49.655530+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/21/66c4e52727c1430599a9b7a0fd90e294.jpg",
-    "occhiello": "CALHANOGLU SOLLEVA LA COPPA DOPO 20 ANNI",
-    "lead_preview": "Milano, 27 aprile. Hakan Çalhanoğlu, centrocampista dell'Inter e capitano della nazionale turca, ha sollevato la Coppa I",
-    "tags": [],
     "hero_eligible": true
   }
 ]
