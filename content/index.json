@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260505",
+    "slug": "libro-del-giorno-heart-bonesdi-colleen-hoover-20260505",
+    "title": "Colleen hoover vende un cuore di carta",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-05T07:01:42.516436+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170620-f5b9f.jpg?1775673763",
+    "occhiello": "COLLEEN HOOVER VENDE UN CUORE DI CARTA",
+    "lead_preview": "Roma, 5 maggio. Colleen Hoover, l’autrice statunitense da 20 milioni di copie vendute e tra le 100 persone più influenti",
+    "tags": [
+      "colleen hoover",
+      "heart bones"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8d21c22db4fd93e3",
     "slug": "unicredit-rassicura-generali-solo-investimento-sot-8d21c22db4fd93e3",
     "title": "Unicredit rassicura: Generali solo investimento, sotto il 10% non si va",
@@ -405,25 +423,6 @@
       "tag2"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260505",
-    "slug": "libro-del-giorno-heart-bonesdi-colleen-hoover-20260505",
-    "title": "Il libro del giorno: «Heart bonesdi Colleen Hoover»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo d'amore moderno con tinte di dramma e introspezione",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-05T07:01:42.516436+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170620-f5b9f.jpg?1775673763",
-      "alt": "Copertina: Heart bonesdi Colleen Hoover",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170620-f5b9f.jpg?1775673763",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "ce358fd3bf76c44a",
