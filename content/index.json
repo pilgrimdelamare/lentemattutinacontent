@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260505",
+    "slug": "libro-del-giorno-heart-bonesdi-colleen-hoover-20260505",
+    "title": "Il libro del giorno: «Heart bonesdi Colleen Hoover»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo d'amore moderno con tinte di dramma e introspezione",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-05T07:01:42.516436+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170620-f5b9f.jpg?1775673763",
+      "alt": "Copertina: Heart bonesdi Colleen Hoover",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170620-f5b9f.jpg?1775673763",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "ce358fd3bf76c44a",
     "slug": "la-sac-vende-il-51-degli-aeroporti-siciliani-ce358fd3bf76c44a",
     "title": "Sac vende il 51% degli aeroporti di Catania e Palermo al miglior offerente",
@@ -8922,25 +8941,6 @@
       "lba awards 2026",
       "premi basket serie a",
       "miglior giocatore lba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55f6c5b3d289d13f",
-    "slug": "basket-jokic-e-randle-multati-ma-in-campo-stasera-55f6c5b3d289d13f",
-    "title": "Basket: Jokic e Randle multati milioni per scommesse illegali",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-27T11:02:18.784775+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/00c10395b05fe12e6f7317507a0a080155b568d8/skysport/it/nba/2026/04/27/denver-minnesota-nba-playoff-rissa-gara-4-multe/Nikola_Jokic_Getty_Denver_Nuggets.jpg",
-    "occhiello": "NBA, MULTE DA MILIONI PER JOKIĆ E RANDLE",
-    "lead_preview": "NBA, MULTE DA MILIONI PER JOKIĆ E RANDLE New York, 27 aprile — la NBA ha inflitto sanzioni pecuniarie a Nikola Jokić e J",
-    "tags": [
-      "scommesse illegali nba",
-      "multa jokic randle",
-      "violazione regolamento nba"
     ],
     "hero_eligible": true
   }
