@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 5 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-05T05:45:55.901215+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/03b511e1f68feeb2087209655a182e4cf39b3982/skytg24/it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio/rassegnastampa5maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI MARTEDÌ 5 MAGGIO 2026: GUERRA IN IRAN, SPORT, POLITICA",
+    "lead_preview": "Oggi, martedì 5 maggio 2026, le prime pagine dei principali quotidiani italiani convergono su diversi eventi di rilievo.",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "059abfef4594a825",
     "slug": "calcio-friburgo-e-wolfsburg-si-dividono-i-punti-30-059abfef4594a825",
     "title": "Calcio: Friburgo assicura la qualificazione in Europa League con un rocambolesco pareggio",
@@ -1402,25 +1421,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 4 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-04T05:58:13.389056+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/7769cdf3e51b9dedffbee6f0a3e13e353b74feec/skytg24/it/cronaca/2026/05/04/prime-pagine-quotidiani-oggi-4-maggio/Composite_4_maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL MONDO IN CRISI",
-    "lead_preview": "Lo scudetto dell'Inter, la guerra in Ucraina e le dichiarazioni di Donald Trump dominano le prime pagine dei giornali it",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
