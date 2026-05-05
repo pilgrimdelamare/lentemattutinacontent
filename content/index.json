@@ -1,5 +1,24 @@
 [
   {
+    "id": "d086c0a6785bcdaf",
+    "slug": "nave-maersk-attraversa-scortata-dal-pentagono-lo-s-d086c0a6785bcdaf",
+    "title": "USA scorta Maersk nel Golfo, Teheran minaccia attacco",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-05T05:57:26.992050+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/20/c63526a9cae563083412dc1d711a9a86.jpg",
+    "occhiello": "MAERSK SCORTATA DA 17.000 SOLDATI USA",
+    "lead_preview": "Hormuz, 5 maggio. Una nave del gruppo danese A.P. Møller - Mærsk è transitata oggi sotto scorta militare statunitense ne",
+    "tags": [
+      "stretto di hormuz",
+      "maersk",
+      "guerra iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8454971f21e7a32d",
     "slug": "calcio-arsenal-allunga-con-un-punto-di-vantaggio-8454971f21e7a32d",
     "title": "Calcio: Rice segna e domina l'Etihad, Arsenal stende il City per 1 a 0",
@@ -445,25 +464,6 @@
       "jasmine paolini",
       "ranking wta",
       "torneo madrid"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d086c0a6785bcdaf",
-    "slug": "nave-maersk-attraversa-scortata-dal-pentagono-lo-s-d086c0a6785bcdaf",
-    "title": "Nave Maersk attraversa scortata dal Pentagono lo Stretto di Hormuz",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-05T05:57:26.992050+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/20/c63526a9cae563083412dc1d711a9a86.jpg",
-    "occhiello": "MAERSK ESCONDA DA HORMUZ CON SCORTA USA",
-    "lead_preview": "Hormuz, 5 maggio 2026. Una nave della A.P. Møller - Mærsk, gruppo danese leader nel trasporto marittimo, ha lasciato lo ",
-    "tags": [
-      "stretto di hormuz",
-      "maersk",
-      "pentagone"
     ],
     "hero_eligible": true
   },
