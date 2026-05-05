@@ -1,5 +1,24 @@
 [
   {
+    "id": "c371522b69384d78",
+    "slug": "buttafuoco-lex-condannato-parla-di-redenzione-doma-c371522b69384d78",
+    "title": "Buttafuoco parla davanti alla Biennale di Venezia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-05T09:09:46.395088+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/fc9215491ca46b7b9ff34350568fac03.jpg",
+    "occhiello": "BUTTAFUOCO A VENEZIA, TRA ARTE E SCANDALO",
+    "lead_preview": "Venezia, 5 maggio. Joseph A. Buttafuoco, ex proprietario di un'autorimessa statunitense condannato nel 1992 per violenza",
+    "tags": [
+      "biennale venezia",
+      "buttafuoco",
+      "violenza sessuale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "baf90770ba117893",
     "slug": "haaland-batte-mbappe-kane-resta-in-testa-baf90770ba117893",
     "title": "Calcio: Haaland sorpassa Mbappé: 44 a 36, il norvegese è il nuovo cannoniere della Premier",
@@ -263,24 +282,6 @@
       "conflitti interesse",
       "cinecitta",
       "cacciamani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c371522b69384d78",
-    "slug": "buttafuoco-lex-condannato-parla-di-redenzione-doma-c371522b69384d78",
-    "title": "Buttafuoco, l'ex condannato, parla di redenzione domani alla Biennale di Venezia",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-05T09:09:46.395088+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/fc9215491ca46b7b9ff34350568fac03.jpg",
-    "occhiello": "BUTTAFUOCO A VENEZIA PER LA BIENNALE DI ARTE",
-    "lead_preview": "Venezia, 5 maggio — Joseph A. Buttafuoco sarà protagonista domani dei Giardini della Biennale con un talk dal titolo \"L’",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
