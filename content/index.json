@@ -1,5 +1,20 @@
 [
   {
+    "id": "8f153cbbe59b8ab7",
+    "slug": "fiorini-al-suolo-a-olimpico-8f153cbbe59b8ab7",
+    "title": "Roma stendono firenze con un 4-0 che suona d'ultimatum",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-04T22:29:45.342939+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/86b1e212f69d789b4321af6c2f0e4e8aecef5f33/skysport/it/calcio/serie-a/video/2026/05/04/1095346_1777928043253_thumb_494.0000001_1777928114637.jpg",
+    "occhiello": "ROMA STENDONO FIRENZE CON UN 4-0 CHE SUONA D'ULTIMATUM",
+    "lead_preview": "Roma, 4 maggio. La Roma liquida la Fiorentina 4-0 al trentasettesimo turno di Serie A, infliggendo ai viola la peggiore ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e40edcc4863ef4a0",
     "slug": "yen-ai-minimi-dal-92-crolla-contro-il-dollaro-a-18-e40edcc4863ef4a0",
     "title": "Lo Yen crolla a 183 per dollaro: il Giappone non ha più armi",
@@ -405,24 +420,6 @@
     "tags": [
       "museo egizio",
       "cultura digitale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8f153cbbe59b8ab7",
-    "slug": "fiorini-al-suolo-a-olimpico-8f153cbbe59b8ab7",
-    "title": "Fiorini al suolo a olimpico",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-04T22:29:45.342939+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/86b1e212f69d789b4321af6c2f0e4e8aecef5f33/skysport/it/calcio/serie-a/video/2026/05/04/1095346_1777928043253_thumb_494.0000001_1777928114637.jpg",
-    "occhiello": "FIORINI AL SUOLO A OLIMPICO",
-    "lead_preview": "Roma, 4 maggio. La Roma liquida la Fiorentina 4-0 al 37esimo turno di Serie A, umiliando i viola a distanza di tre setti",
-    "tags": [
-      "roma fiorentina",
-      "serie a"
     ],
     "hero_eligible": true
   },
