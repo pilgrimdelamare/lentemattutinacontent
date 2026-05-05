@@ -1,5 +1,23 @@
 [
   {
+    "id": "e9fce612b65d0d5a",
+    "slug": "koyo-kouoh-a-capo-della-60-mostra-di-venezia-e9fce612b65d0d5a",
+    "title": "Koyo Kouoh guida la Mostra di Venezia 2026: prima africana alla direzione artistica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-05T16:43:39.825578+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/244d7a36fb1dbf5bd45129568984f5b6.jpg",
+    "occhiello": "KOYO KOUOH CURATRICE DELLA 60. MOSTRA DI VENEZIA",
+    "lead_preview": "KOYO KOUOH CURATRICE DELLA 60. MOSTRA DI VENEZIA Venezia, 5 maggio. La Biennale di Venezia ha annunciato che Koyo Kouoh ",
+    "tags": [
+      "mostra venezia",
+      "koyo kouoh"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8a9dfc4d1fd3558b",
     "slug": "leonardo-padura-avverte-a-cuba-tutto-puo-cambiare-8a9dfc4d1fd3558b",
     "title": "Leonardo Padura avverte: «A Cuba tutto può cambiare da un momento all’altro»",
@@ -289,24 +307,6 @@
     "tags": [
       "transizione 5.0",
       "decreto trasparenza zero"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e9fce612b65d0d5a",
-    "slug": "koyo-kouoh-a-capo-della-60-mostra-di-venezia-e9fce612b65d0d5a",
-    "title": "Koyo Kouoh a Capo della 60. Mostra di Venezia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-05T16:43:39.825578+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/244d7a36fb1dbf5bd45129568984f5b6.jpg",
-    "occhiello": "KOUOH CURATRICE 600 ARTISTI, ZEITZ CHIUSA IL CONTENZIOSO",
-    "lead_preview": "Venezia, 5 maggio. La Biennale di Venezia annuncia la curatela della 60. Mostra Internazionale d’Arte Cinematografica af",
-    "tags": [
-      "mostra venezia",
-      "biennale arte"
     ],
     "hero_eligible": true
   },
