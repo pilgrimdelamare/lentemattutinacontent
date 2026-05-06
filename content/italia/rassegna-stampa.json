@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 5 maggio 2026",
+  "title": "Le prime pagine di oggi, mercoledì 6 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 5 maggio 2026",
-    "Le prime pagine di oggi, martedì 5 maggio 2026",
-    "Le prime pagine di oggi, martedì 5 maggio 2026"
+    "Le prime pagine di oggi, mercoledì 6 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 6 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 6 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI MARTEDÌ 5 MAGGIO 2026: GUERRA IN IRAN, SPORT, POLITICA",
-  "lead": "Oggi, martedì 5 maggio 2026, le prime pagine dei principali quotidiani italiani convergono su diversi eventi di rilievo. La tensione crescente nello Stretto di Hormuz domina le notizie, con numerose testate che riportano gli sviluppi della guerra in Iran. Il mondo dello sport è al centro dell'attenzione, con aggiornamenti particolarmente sulle vicende del campionato di Serie A. Infine, la scena politica italiana è animata da dinamiche interne e rapporti con l'estero, come dimostrano le diverse trattazioni.",
-  "corpo1": "Il quotidiano \"La Lente Mattutina\" apre con la tensione a Hormuz con il titolo \"Battaglia navale a Hormuz\", seguito da un racconto dettagliato di un capitano sulle sue esperienze nello Stretto tra missili e incertezza, accompagnato dalle analisi \"Trappola reciproca\" e \"Il dilemma di Israele\". In taglio alto, si parla del successo della Roma contro la Juventus, che ora si avvicina alla vetta. \"Il Giornale Politico\" si concentra sulla guerra in Iran con \"La battaglia di Hormuz\", evidenziando l'azione degli Stati Uniti contro imbarcazioni iraniane e le dichiarazioni di Trump. Inoltre, riporta la posizione di Meloni su Trump e le sue visite a Rubio. \"La Cronaca\" titola con \"Trump, l'accusa di Meloni\", esplorando le dinamiche tra la premier e l'ex presidente, oltre a un commento su Salvini e una riflessione sullo \"Shock energetico\". \"Il Mattino Economico\" apre con la guerra in Iran e il titolo \"A Hormuz tornano i missili\", offrendo uno spazio a Meloni e alla sua visita a Rubio, insieme a notizie sull'Italtennis. \"La Gazzetta del Lavoro\" si concentra sulle novità delle comunicazioni obbligatorie e sulle politiche economiche europee. \"Il Corriere dello Sport\" apre con il rischio di Milan e Juventus di non qualificarsi per la Champions League, seguito da aggiornamenti sull'Inter e il suo futuro. Infine, \"La Notizia\" apre con la riforma degli sgomberi abitativi e riporta il distacco di Meloni da Trump.",
-  "corpo2": "Altro spazio è dedicato alla cronaca nera, con il decesso di un individuo e le conseguenze per la sua famiglia. In ambito giudiziario, si parla del processo a Garlasco. Il tema dominante della giornata rimane la guerra in Iran e le sue ripercussioni geopolitiche, insieme alle vicende sportive e politiche in Italia.",
+  "occhiello": "LE PRIME PAGINE 6 MAGGIO 2026: TRUMP PAPA E SPORT",
+  "lead": "Le prime pagine dei principali quotidiani italiani di oggi si concentrano su diversi argomenti di rilievo. La tensione tra Donald Trump e Papa Leone XIV è al centro dell'attenzione, con dichiarazioni incisive da entrambe le parti. Mentre i giornali sportivi celebrano le vittorie e gli eventi del mondo dello sport, la politica internazionale e i misteri nazionali ricevono anche ampio spazio.",
+  "corpo1": "Il Giornale titola con lo \"Scontro tra Trump e Papa Leone XIV\", evidenziando le critiche di Trump al Pontefice e le repliche di Leone. Il Corriere della Sera si concentra sulla \"Guerra Ucraina-Russia\", mettendo in primo piano anche le tensioni tra il tycoon e il Papa, con un focus sull'\"Altolà del Papa a Trump\". La Stampa affronta il \"Nuovo attacco di Trump al Papa\", con dichiarazioni sia del Presidente Usa che del Pontefice, oltre alla dichiarazione di Tajani. La Gazzetta dello Sport si concentra sull'Inter, con il titolo \"Vedo solo Inter\" per celebrare Marcus Thuram, e menziona anche il rientro di Modric al Milan. Il Corriere dello Sport apre con \"Muha, il dispetto\", discutendo lo scontro su Muharemovic tra Inter e Juventus, e segnala la finale di Champions League. Il Sole 24 Ore riporta la \"Battaglia navale a Hormuz\".",
+  "corpo2": "Altri titoli di rilievo includono \"CHE TRIPLETE!\" sulle vittorie sportive e il \"Racconto delle gemelle Cappa\" sul caso Garlasco. La giornata è caratterizzata da una convergenza su temi di politica internazionale, tensione religiosa e sport, con diversi giornali che dedicano spazio a misteri nazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-05T05:45:55.901215+00:00",
+  "published_at": "2026-05-06T05:47:05.952877+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/03b511e1f68feeb2087209655a182e4cf39b3982/skytg24/it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio/rassegnastampa5maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/b9e016db722cc41236090847b326ba5037606e74/skytg24/it/cronaca/2026/05/06/prime-pagine-quotidiani-oggi-6-maggio/collage_1.png?im=Resize,width=375",
     "source": "Stramilano",
     "credit": "Prima pagina — Stramilano",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/06/prime-pagine-quotidiani-oggi-6-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 5 maggio 2026",
+      "title": "Oroscopo di oggi, mercoledì 6 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Prime Video investe 3 milioni in Non è un paese per Si",
+      "title": "Prime Video sostiene il documentario antipopolismo con 3 milioni di euro",
       "url": "/cultura/kingsley-svela-il-romance-italiano-vale-3-milioni-115ed066c1171c53",
       "id": "115ed066c1171c53",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/74915342f5261a5f2a75df0fe33c0a44.jpg",
       "image_type": "image"
     },
     {
-      "title": "Prime Video piazza Maccio Capatonda nel LOL Halloween 2026: la sfida comica che spopola",
-      "url": "/cultura/prime-video-lancia-il-cast-di-lol-halloween-specia-eda316a2ef068d2c",
-      "id": "eda316a2ef068d2c",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/08788f2d815c04724484b220dbb14dba.jpg",
-      "image_type": "image"
+      "title": "Livorno, 4 maggio: diego collaveri pubblica thriller psicologico con protagonista il commissario botteghi",
+      "url": "/cultura/libro-del-giorno-livorno-trema-la-vendetta-del-commissa-20260504",
+      "id": "libro-20260504",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/61b0rugk6rl-9af4e.jpg?1776243673",
+      "image_type": "url"
     }
   ],
   "hero_eligible": true
