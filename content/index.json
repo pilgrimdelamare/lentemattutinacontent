@@ -1,5 +1,22 @@
 [
   {
+    "id": "052b0a481356e7d5",
+    "slug": "gaza-annuncia-172mila-feriti-in-2-anni-4-su-10-col-052b0a481356e7d5",
+    "title": "Gaza conta 172.000 feriti, 43.000 colpiti in scuole e ospedali",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-05T15:10:08.467267+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/f631eb5a0e1b8f576cd81812ac6b0a1c.jpg",
+    "occhiello": "GAZA CONTA 172.000 FERITI, 43.000 COLPITI IN SCUOLE E OSPEDALI",
+    "lead_preview": "OCCHIELLO Gaza: 172.000 feriti e 43.000 scuole e ospedali colpiti LEAD Gaza, 5 maggio. Il ministero della Salute di Gaza",
+    "tags": [
+      "guerra gaza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "04ff35d8ebbc6da5",
     "slug": "cuba-usa-stringe-lassedio-blocca-il-petrolio-dal-v-04ff35d8ebbc6da5",
     "title": "Díaz-Canel colpisce la Casa Bianca: 'Dichiarazioni ciniche e ipocrite'",
@@ -1123,23 +1140,6 @@
       "salario minimo",
       "haiti",
       "garry conille"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "052b0a481356e7d5",
-    "slug": "gaza-annuncia-172mila-feriti-in-2-anni-4-su-10-col-052b0a481356e7d5",
-    "title": "Gaza conta 172.000 feriti, 43.000 colpiti in scuole e ospedali",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-05T15:10:08.467267+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/28/f631eb5a0e1b8f576cd81812ac6b0a1c.jpg",
-    "occhiello": "BILANCIO UFFICIALE DI GAZA CON 172MILA FERITI",
-    "lead_preview": "Gaza, 5 maggio. Il ministero della Salute di Gaza ha reso noto un bilancio dei feriti dall’inizio delle ostilità, senza ",
-    "tags": [
-      "guerra gaza"
     ],
     "hero_eligible": true
   },
