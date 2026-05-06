@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260506",
+    "slug": "libro-del-giorno-battiato-lartistadi-maurizio-di-bona-e-20260506",
+    "title": "Il libro del giorno: «Battiato l’artistadi Maurizio Di Bona e Alessio Cantarella»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un ritratto a più voci dell’artista Franco Battiato, tra fumetti, testimonianze e frammenti di pensiero",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-06T07:00:24.529262+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9791222322858_0_0_424_0_75-67a4c.jpg?1775670575",
+      "alt": "Copertina: Battiato l’artistadi Maurizio Di Bona e Alessio Cantarella",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9791222322858_0_0_424_0_75-67a4c.jpg?1775670575",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "41e2f88633f08949",
     "slug": "record-usa-messico-merci-per-150-miliardi-il-163-d-41e2f88633f08949",
     "title": "Record USA-Messico: merci per 150 miliardi, il 16,3% del totale arriva da sud",
@@ -8955,21 +8974,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/04/27/174741668-aa2f5a94-e3b8-4ab5-9a30-299f525f5695.jpg",
     "occhiello": "POSTE ITALIANE DISTRIBUISCE UN DIVIDENDO DA 1,25 EURO PER AZIONE",
     "lead_preview": "Roma, 27 aprile 2026. Il Consiglio di amministrazione di Poste Italiane ha ufficializzato la distribuzione di un dividen",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "99097a1cb0b9f6ad",
-    "slug": "tennis-sinner-sfida-norrie-a-madrid-per-conquistar-99097a1cb0b9f6ad",
-    "title": "Tennis: Sinner sfida Norrie a Madrid per strappare il pass per i quarti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-28T08:30:02.291648+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f004a3a7cf2755ee7fc75e2db24651bf7d3339ac/skysport/it/tennis/2026/04/28/sinner-norrie-madrid-open-risultato/sinner_ansa_1.jpg",
-    "occhiello": "SINNER A MADRID CERCA IL PASSAGGIO AI QUARTI DI FINALE",
-    "lead_preview": "Madrid, 28 aprile 2026 – Jannik Sinner inaugura il programma odierno sul campo Centrale Manolo Santana, sfidando Cameron",
     "tags": [],
     "hero_eligible": true
   }
