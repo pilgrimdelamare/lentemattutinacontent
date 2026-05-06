@@ -1,5 +1,24 @@
 [
   {
+    "id": "244db46aa37cd9c2",
+    "slug": "morte-a-sao-paulo-manca-il-permesso-per-il-funeral-244db46aa37cd9c2",
+    "title": "Sigillo rosso sull'autorizzazione per la cremazione del 34enne deceduto a São Paulo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-06T02:28:31.938914+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/817981265001bd7697729508f099b271.jpg",
+    "occhiello": "SIGILLO ROSSO SULLE CENERI DI SÃO PAULO",
+    "lead_preview": "SIGILLO ROSSO SULLE CENERI DI SÃO PAULO San Paolo, 6 maggio. Alle 14:37 di oggi, la Polícia Civil dello Stato di São Pau",
+    "tags": [
+      "cremazione san paolo",
+      "sigillo rosso",
+      "polizia civile brasiliana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "46eef2b58be80d3a",
     "slug": "tennis-la-terra-del-foro-italico-inchina-kraus-coc-46eef2b58be80d3a",
     "title": "Tennis: La terra del Foro Italico inchina Kraus: Cocciaretto centra la qualificazione con autorità",
@@ -48,25 +67,6 @@
       "playoff serie c",
       "campobasso pineto",
       "bilancio campobasso"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "244db46aa37cd9c2",
-    "slug": "morte-a-sao-paulo-manca-il-permesso-per-il-funeral-244db46aa37cd9c2",
-    "title": "Morto dopo 16 ore di lavoro Amazon: la salma bloccata perché il certificato non vale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-06T02:28:31.938914+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/817981265001bd7697729508f099b271.jpg",
-    "occhiello": "SIGILLO ROSSO BLOCCA BARA A SAN PAOLO",
-    "lead_preview": "San Paolo, 6 maggio. Il certificato di morte di João Victor da Silva, 34 anni, non vale più nulla. Alle 14:37 di oggi l’",
-    "tags": [
-      "morti amazon",
-      "sigillo rosso",
-      "lavoro usurante"
     ],
     "hero_eligible": true
   },
