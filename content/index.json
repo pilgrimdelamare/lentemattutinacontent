@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n    ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-06T16:25:33.459017+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, FACTUAL: GITHUB DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS.\n        *   ``: 80-100 WORDS, DETAILS OF THE PROBLEM, START TIME, COMPROMISED FEATURES, PRACTICAL IMPACT, END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\nCORRECT ITALIAN, ZERO MARKDOWN, ZERO ASTERISKS, TECHNICAL-ALARMIST TONE, NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE (5 WORDS) - OK.\n    *   *LEAD:* GITHUB È OFFLINE DA CIRCA 15 MINUTI. IL BLACKOUT COLPISCE L'INTERA INFRASTRUTTURA, IMPEDENDO AGLI SVILUPPATORI E ALLE AZIENDE ITALIANE L'ACCESSO AI REPOSITORY E AI SERVIZI DI VERSIONAMENTO DEL CODICE. (31 WORDS) - OK.\n    *   *CORPO1:* IL DISSERVIZIO È INIZIATO IMPROVVISAMENTE, RENDENDO IMPOSSIBILE IL CARICAMENTO DELLE PAGINE E L'ESECUZIONE DI COMANDI GIT VIA SSH E HTTPS. TUTTE LE FUNZIONALITÀ CORE, INCLUSI GITHUB ACTIONS E I PACCHETTI NPM, RISULTANO COMPROMESSI. PER LE AZIENDE CHE DIPENDONO DA PIPELINE DI CI/CD AUTOMATIZZATE, L'IMPATTO È CRITICO, BLOCCANDO OGNI RILASCIO DI SOFTWARE IN PRODUZIONE E INTERROMPENDO IL FLUSSO DI LAVORO DEI TEAM DI SVILUPPO. L'INSTABILITÀ RIGUARDA I SERVER GLOBALI SENZA ECCEZIONI REGIONALI. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   ITALIAN CORRECT? YES.\n    *   ZERO MARKDOWN? YES (NO BOLD, NO ITALICS, NO HEADERS).\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   XML TAGS USED? YES.\n    *   WORD COUNTS RESPECTED?\n        *   OCCHIELLO: 5 WORDS (ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE",
+    "lead_preview": "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n        *   ``: 80-100 words, details of the",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2ae9a4582108ace7",
     "slug": "usa-obbligano-iran-a-congelare-programma-missilist-2ae9a4582108ace7",
     "title": "Usa obbligano Iran a congelare programma missilistico e ad aprire impianti nucleari all'AIEA",
@@ -8988,21 +9007,6 @@
     "image_url": "https://sport.sky.it/assets/images/5b3740dd093594e037896a879247762ecd229530/skysport/it/calcio/mondiale-per-club/tabellone-mondiale-club-2025/ANSA_MONDIALE_PER_CLUB_TROFEO_OK.jpg",
     "occhiello": "FIFA: 3 PUNTI A VITTORIA, ADDIO AL BONUS PER IL RANKING",
     "lead_preview": "Roma, 28 aprile 2026. La FIFA ha approvato il nuovo sistema di assegnazione dei punti per il Ranking Mondiale maschile a",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d91369e9d9e2b096",
-    "slug": "quattro-anni-di-museo-dellemigrazione-tra-rito-e-r-d91369e9d9e2b096",
-    "title": "MEI Genova: 4 anni e un futuro incerto, solo il 30% archivi digitalizzati",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-28T11:18:15.105115+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/22/0386f5d1b4bcbcbcb98fc2093d66ad08.jpg",
-    "occhiello": "IL MEI COMPIE 4 ANNI CON MENO DI UN ANNO DI VITA",
-    "lead_preview": "IL MEI COMPIE 4 ANNI CON MENO DI UN ANNO DI VITA Genova, 28 aprile 2026. Il MEI — Museo Nazionale dell’Emigrazione Itali",
     "tags": [],
     "hero_eligible": true
   }
