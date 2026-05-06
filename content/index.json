@@ -1,5 +1,24 @@
 [
   {
+    "id": "b23b56bc8978dff8",
+    "slug": "firenze-salva-gli-affreschi-di-masaccio-con-17-sen-b23b56bc8978dff8",
+    "title": "Soprintendenza di Firenze installa 17 sensori per proteggere affreschi di Masaccio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-05T17:39:30.535669+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/72c00b5faaafbc0bdde7916ef7a291c9.jpg",
+    "occhiello": "17 SENSORI PROTTEGGONO GLI AFFRESCHI DI MASACCIO",
+    "lead_preview": "Firenze, 5 maggio. La Soprintendenza di Firenze ha installato 17 sensori ad alta precisione per monitorare in tempo real",
+    "tags": [
+      "masaccio",
+      "cappella brancacci",
+      "sensori protezione artistica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, mercoledì 6 maggio 2026",
@@ -1108,25 +1127,6 @@
       "tassi interessi",
       "debito pubblico",
       "btp"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b23b56bc8978dff8",
-    "slug": "firenze-salva-gli-affreschi-di-masaccio-con-17-sen-b23b56bc8978dff8",
-    "title": "17 sensori salvano gli affreschi di masaccio",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-05T17:39:30.535669+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/72c00b5faaafbc0bdde7916ef7a291c9.jpg",
-    "occhiello": "17 SENSORI SALVANO GLI AFFRESCHI DI MASACCIO",
-    "lead_preview": "Firenze, 5 maggio. La Soprintendenza di Firenze ha installato 17 sensori ad alta precisione per monitorare in tempo real",
-    "tags": [
-      "affreschi masaccio",
-      "soprintendenza firenze",
-      "sensori basilica"
     ],
     "hero_eligible": true
   },
