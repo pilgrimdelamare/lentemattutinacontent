@@ -1,5 +1,24 @@
 [
   {
+    "id": "54ea67d1b64f7a21",
+    "slug": "sheinbaum-minaccia-parigi-sul-podio-del-cinque-de-54ea67d1b64f7a21",
+    "title": "Francia minaccia: restituisci il cannone o cancelliamo il Cinco de Mayo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-06T02:56:17.397228+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/4768acb304331e58acc4d56295a921a1.jpg",
+    "occhiello": "",
+    "lead_preview": "Città del Messico, 6 maggio. Claudia Sheinbaum, Presidente del Messico, ha minacciato di ritirare il Podio storico delle",
+    "tags": [
+      "cinco de mayo",
+      "podio storico",
+      "francia-messico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0a586b4780d7ac5d",
     "slug": "machado-fissa-un-anno-per-le-elezioni-in-venezuela-0a586b4780d7ac5d",
     "title": "Machado concede a Maduro un anno per elezioni libere",
@@ -398,24 +417,6 @@
     "tags": [
       "biennale venezia",
       "koyo kouoh"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "54ea67d1b64f7a21",
-    "slug": "sheinbaum-minaccia-parigi-sul-podio-del-cinque-de-54ea67d1b64f7a21",
-    "title": "Sheinbaum Minaccia Parigi sul Podio del Cinque de Mayo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-06T02:56:17.397228+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/4768acb304331e58acc4d56295a921a1.jpg",
-    "occhiello": "CLAUDIA SHEINBAUM SPARA A ZERO SULLA FRANCIA",
-    "lead_preview": "CLAUdia Sheinbaum spara a zero sulla Francia Città del Messico, 6 maggio 2026. Alle celebrazioni del Cinco de Mayo, la p",
-    "tags": [
-      "claudia sheinbaum",
-      "cinco de mayo"
     ],
     "hero_eligible": true
   },
