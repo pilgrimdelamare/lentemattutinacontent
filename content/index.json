@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 6 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-06T05:47:05.952877+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b9e016db722cc41236090847b326ba5037606e74/skytg24/it/cronaca/2026/05/06/prime-pagine-quotidiani-oggi-6-maggio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 6 MAGGIO 2026: TRUMP PAPA E SPORT",
+    "lead_preview": "Le prime pagine dei principali quotidiani italiani di oggi si concentrano su diversi argomenti di rilievo. La tensione t",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "462c891e31160bdd",
     "slug": "trump-sospende-project-freedom-462c891e31160bdd",
     "title": "Trump sospende Project Freedom",
@@ -1696,25 +1715,6 @@
       "nba playoffs",
       "lebron james",
       "conference finals"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 5 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-05T05:45:55.901215+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/03b511e1f68feeb2087209655a182e4cf39b3982/skytg24/it/cronaca/2026/05/05/prime-pagine-quotidiani-oggi-5-maggio/rassegnastampa5maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI MARTEDÌ 5 MAGGIO 2026: GUERRA IN IRAN, SPORT, POLITICA",
-    "lead_preview": "Oggi, martedì 5 maggio 2026, le prime pagine dei principali quotidiani italiani convergono su diversi eventi di rilievo.",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
