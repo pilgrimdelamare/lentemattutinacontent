@@ -1,5 +1,23 @@
 [
   {
+    "id": "36337360cbe66f73",
+    "slug": "petrolio-ancora-sopra-i-100-dollari-brent-a-108-wt-36337360cbe66f73",
+    "title": "Petrolio vola a 108 dollari: le raffinerie incassano, le famiglie piangono",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-06T06:37:36.052775+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/8166b0960c2b0c441f29684bef7b93a7.jpg",
+    "occhiello": "108 DOLLARI PER NON MUOVERSI DAL DIVANO",
+    "lead_preview": "108 DOLLARI PER NON MUOVERSI DAL DIVANO Roma, 6 maggio. Il petrolio Brent chiude a 108,62 dollari al barile, il Wti a 10",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b6065bf4483d7b39",
     "slug": "food-delivery-antitrust-dellantitrust-indaga-glovo-b6065bf4483d7b39",
     "title": "Food delivery, Antitrust dell’Antitrust indaga Glovo e Deliveroo per sfruttamento rider",
@@ -355,23 +373,6 @@
       "blocco prestiti criptovalute",
       "fabio panetta",
       "rischio sistemico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "36337360cbe66f73",
-    "slug": "petrolio-ancora-sopra-i-100-dollari-brent-a-108-wt-36337360cbe66f73",
-    "title": "Petrolio ancora sopra i 100 dollari: Brent a 108, Wti a 100, prezzi alle stelle",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-06T06:37:36.052775+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/8166b0960c2b0c441f29684bef7b93a7.jpg",
-    "occhiello": "IL BARILE RESTA SOPRA I 100",
-    "lead_preview": "Roma, 6 maggio. Il prezzo del petrolio Wti scende a 100,93 dollari al barile, mentre il Brent si attesta a 108,62 dollar",
-    "tags": [
-      "prezzi petrolio"
     ],
     "hero_eligible": true
   },
