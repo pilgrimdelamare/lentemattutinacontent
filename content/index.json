@@ -1,5 +1,24 @@
 [
   {
+    "id": "c5c8d35077eecdbf",
+    "slug": "incontro-a-palazzo-chigi-energia-ma-senza-nucleare-c5c8d35077eecdbf",
+    "title": "Incontro a Palazzo Chigi: energia, ma senza nucleare",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-06T14:36:43.593352+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/163cb856a18dc7792591b7b9c416fd34.jpg",
+    "occhiello": "Incontro a Palazzo Chigi: energia, ma senza nucleare",
+    "lead_preview": "Incontro a Palazzo Chigi: energia, ma senza nucleare Roma, 6 maggio. Matteo Salvini, ministro delle Infrastrutture e vic",
+    "tags": [
+      "incontro palazzo chigi",
+      "energia italia",
+      "governo meloni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "244db46aa37cd9c2",
     "slug": "morte-a-sao-paulo-manca-il-permesso-per-il-funeral-244db46aa37cd9c2",
     "title": "Famiglia di João Victor da Silva bloccata da sigillo rosso su autorizzazione sanitaria a San Paolo",
@@ -8992,21 +9011,6 @@
       "governo meloni",
       "gasolio trasporti"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "71306a9714278279",
-    "slug": "florentino-perez-punta-su-mourinho-per-la-panchina-71306a9714278279",
-    "title": "Pérez punta su Mourinho",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-04-28T19:52:58.234973+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7b5587db9a94e930662ec2dae290a1667d434cc2/skysport/it/calcio/liga/2026/04/28/mourinho-real-madrid-florentino-perez-allenatore-news/mourinho.jpg",
-    "occhiello": "PÉREZ PREME PER IL \"SPECIAL ONE\"",
-    "lead_preview": "PÉREZ PREME PER IL \"SPECIAL ONE\" Madrid, 28 aprile — Florentino Pérez vuole José Mourinho sulla panchina del Real Madrid",
-    "tags": [],
     "hero_eligible": true
   }
 ]
