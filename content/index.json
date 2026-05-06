@@ -1,5 +1,24 @@
 [
   {
+    "id": "5ff67a31de9afa6a",
+    "slug": "meloni-vola-a-washington-per-fermare-il-ritiro-di-5ff67a31de9afa6a",
+    "title": "Meloni e Rubio discutono ritiro 17.000 soldati Usa dall'Italia",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-05-06T01:10:40.939946+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/05/225604124-d3f4073e-9f16-4e2c-80bc-e31aaf8d8231.jpg",
+    "occhiello": "FONDI SCOMPARSI DOPO IL RITIRO DELLE TRUPPE USA?",
+    "lead_preview": "Roma, 6 maggio. La visita di Giorgia Meloni a Washington per discutere con Marco Rubio del potenziale ritiro di 17.000 s",
+    "tags": [
+      "ritiro truppe usa",
+      "visita meloni washington",
+      "sicurezza nazionale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "79a49598848deb4c",
     "slug": "liguria-10-milioni-di-euro-per-il-polo-subacqueo-d-79a49598848deb4c",
     "title": "Liguria: 10 milioni di euro per il polo subacqueo della Spezia",
@@ -335,25 +354,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ff67a31de9afa6a",
-    "slug": "meloni-vola-a-washington-per-fermare-il-ritiro-di-5ff67a31de9afa6a",
-    "title": "Meloni vola a Washington per fermare il ritiro di 17.000 soldati Usa dall'Italia",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-05-06T01:10:40.939946+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/05/225604124-d3f4073e-9f16-4e2c-80bc-e31aaf8d8231.jpg",
-    "occhiello": "MELONI VS TRUMP, IL GIOCO DI RUBIO",
-    "lead_preview": "Roma, 6 maggio. Giorgia Meloni vola a Washington per chiedere a Marco Rubio conto dell’ipotesi Trump di ritirare 17.000 ",
-    "tags": [
-      "meloni rubio",
-      "ritiro soldati usa",
-      "trump italia"
     ],
     "hero_eligible": true
   },
