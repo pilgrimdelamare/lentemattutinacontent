@@ -1,5 +1,23 @@
 [
   {
+    "id": "652d40c57c53970c",
+    "slug": "papa-in-spagna-per-la-settimana-tra-madrid-barcell-652d40c57c53970c",
+    "title": "Papa in spagna per la settimana tra madrid, barcellona e canarie",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-05-06T10:55:51.831107+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/ad77ff7b036b5cd596340620f1ffd25e.jpg",
+    "occhiello": "PAPA IN SPAGNA PER LA SETTIMANA TRA MADRID, BARCELLONA E CANARIE",
+    "lead_preview": "Roma, 6 maggio 2026. Papa Leone XIV, eletto l’8 maggio 2025, sarà in Spagna dal 6 al 12 giugno per una visita ufficiale ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a37d76d3af745648",
     "slug": "ciclismo-pogacar-vince-5-corse-su-6-a37d76d3af745648",
     "title": "Ciclismo: Pogačar vince cinque corse su sei",
@@ -421,25 +439,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "652d40c57c53970c",
-    "slug": "papa-in-spagna-per-la-settimana-tra-madrid-barcell-652d40c57c53970c",
-    "title": "Papa in Spagna per la settimana tra Madrid, Barcellona e Canarie",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-06T10:55:51.831107+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/ad77ff7b036b5cd596340620f1ffd25e.jpg",
-    "occhiello": "LEONE XIV IN SPAGNA A GIUGNO",
-    "lead_preview": "Roma, 6 maggio 2026. Il Vaticano ha annunciato oggi che il Pontefice sarà in Spagna dal 6 al 12 giugno per una visita pa",
-    "tags": [
-      "papa in spagna",
-      "visita papa spagna",
-      "leone xiv spagna"
     ],
     "hero_eligible": true
   },
