@@ -1,5 +1,23 @@
 [
   {
+    "id": "3024be2152e2a3e1",
+    "slug": "lsp-500-salta-il-060-ma-chi-ne-guadagna-3024be2152e2a3e1",
+    "title": "Solo 56 titoli su 503 fanno volare lo S&P 500: +58 miliardi in un giorno",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-05T13:54:15.532722+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
+    "occhiello": "LO 0,60% DELL'S&P 500 È CONCENTRATO IN POCHI TITOLI",
+    "lead_preview": "New York, 5 maggio. Lo S&P 500 ha chiuso la seduta in rialzo dello 0,60%, ma dietro i numeri c'è una concentrazione che ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f3f917ddc3ef24d9",
     "slug": "basket-timberwolves-vincono-con-edwards-f3f917ddc3ef24d9",
     "title": "Basket: Timberwolves sorprendono gli Thunder nei supplementari",
@@ -14,24 +32,6 @@
     "tags": [
       "basket",
       "finali nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3024be2152e2a3e1",
-    "slug": "lsp-500-salta-il-060-ma-chi-ne-guadagna-3024be2152e2a3e1",
-    "title": "I 5 giganti finanziari si spartiscono lo 0,60% di rialzo dello S&P 500",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-05T13:54:15.532722+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
-    "occhiello": "FONDI CHE DIVORANO L'INDICE",
-    "lead_preview": "New York, 5 maggio. Lo S&P 500 ha chiuso in rialzo dello 0,60% a 5.280,34 punti, ma dietro il dato aggregato si nasconde",
-    "tags": [
-      "s&p500",
-      "fondi d'investimento"
     ],
     "hero_eligible": true
   },
