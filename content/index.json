@@ -1,5 +1,23 @@
 [
   {
+    "id": "e9fce612b65d0d5a",
+    "slug": "koyo-kouoh-a-capo-della-60-mostra-di-venezia-e9fce612b65d0d5a",
+    "title": "Koyo Kouoh, la prima curatrice africana a guidare la Biennale di Venezia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-05T16:43:39.825578+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/244d7a36fb1dbf5bd45129568984f5b6.jpg",
+    "occhiello": "PRIMA DONNA AFRICANA ALLA BIENALE",
+    "lead_preview": "Venezia, 5 maggio. La Biennale di Venezia ha nominato Koyo Kouoh direttrice artistica della 60. mostra Internazionale d’",
+    "tags": [
+      "biennale venezia",
+      "koyo kouoh"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "54ea67d1b64f7a21",
     "slug": "sheinbaum-minaccia-parigi-sul-podio-del-cinque-de-54ea67d1b64f7a21",
     "title": "Sheinbaum Minaccia Parigi sul Podio del Cinque de Mayo",
@@ -1102,24 +1120,6 @@
     "tags": [
       "transizione 5.0",
       "urso decreto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e9fce612b65d0d5a",
-    "slug": "koyo-kouoh-a-capo-della-60-mostra-di-venezia-e9fce612b65d0d5a",
-    "title": "Koyo Kouoh guida la Mostra di Venezia 2026: prima africana alla direzione artistica",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-05T16:43:39.825578+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/244d7a36fb1dbf5bd45129568984f5b6.jpg",
-    "occhiello": "KOYO KOUOH CURATRICE DELLA 60. MOSTRA DI VENEZIA",
-    "lead_preview": "KOYO KOUOH CURATRICE DELLA 60. MOSTRA DI VENEZIA Venezia, 5 maggio. La Biennale di Venezia ha annunciato che Koyo Kouoh ",
-    "tags": [
-      "mostra venezia",
-      "koyo kouoh"
     ],
     "hero_eligible": true
   },
