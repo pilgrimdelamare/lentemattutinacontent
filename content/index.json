@@ -1,5 +1,24 @@
 [
   {
+    "id": "c5c8d35077eecdbf",
+    "slug": "incontro-a-palazzo-chigi-energia-ma-senza-nucleare-c5c8d35077eecdbf",
+    "title": "Salvini spinge sul nucleare, ma il governo blocca il piano a Palazzo Chigi",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-06T14:36:43.593352+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/163cb856a18dc7792591b7b9c416fd34.jpg",
+    "occhiello": "SALVINI VS GASPARRI SUL NUCLEARE",
+    "lead_preview": "Roma, 6 maggio. Si è chiuso in un crescendo di sorrisi e strette di mano quello che Palazzo Chigi ha battezzato \"Incontr",
+    "tags": [
+      "salvini vs gasparri",
+      "nucleare italiano",
+      "salvini governo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2bdb7b37560a2064",
     "slug": "weekend-al-cinema-per-litalia-ci-sono-illusione-e-2bdb7b37560a2064",
     "title": "Due film italiani si mangiano l'80% dei fondi cinema con appena 2 su 20",
@@ -540,25 +559,6 @@
       "genova",
       "musei",
       "pagano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c5c8d35077eecdbf",
-    "slug": "incontro-a-palazzo-chigi-energia-ma-senza-nucleare-c5c8d35077eecdbf",
-    "title": "Incontro a Palazzo Chigi: energia, ma senza nucleare",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-06T14:36:43.593352+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/163cb856a18dc7792591b7b9c416fd34.jpg",
-    "occhiello": "Incontro a Palazzo Chigi: energia, ma senza nucleare",
-    "lead_preview": "Incontro a Palazzo Chigi: energia, ma senza nucleare Roma, 6 maggio. Matteo Salvini, ministro delle Infrastrutture e vic",
-    "tags": [
-      "incontro palazzo chigi",
-      "energia italia",
-      "governo meloni"
     ],
     "hero_eligible": true
   },
