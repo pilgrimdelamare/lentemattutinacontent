@@ -1,5 +1,23 @@
 [
   {
+    "id": "c1ff35f37a55a4ba",
+    "slug": "pussy-riot-invade-padiglione-russo-a-venezia-i-fuo-c1ff35f37a55a4ba",
+    "title": "Pussy Riot invade il padiglione russo a Venezia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-06T17:13:43.569129+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/09f7e1393971032840b19a9c091ecf2a0d4d6d7c/0_4_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02b8f515be3ef81520ceaf099f8ff6b5",
+    "occhiello": "PUSSY RIOT ESPUGNA PADIGLIONE RUSSO A VENEZIA",
+    "lead_preview": "Il collettivo Pussy Riot espugna padiglione russo a Venezia Venezia, 6 maggio — Alle 17.00 il padiglione russo alla Bien",
+    "tags": [
+      "pussy riot",
+      "biennale venezia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "750c088f47f4f331",
     "slug": "tennis-djokovic-cena-segreta-a-roma-con-la-figlia-750c088f47f4f331",
     "title": "Tennis: Djokovic a cena a Trastevere con la figlia del calciatore Vujović",
@@ -538,24 +556,6 @@
       "arte",
       "hilmiafklint",
       "mostra"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1ff35f37a55a4ba",
-    "slug": "pussy-riot-invade-padiglione-russo-a-venezia-i-fuo-c1ff35f37a55a4ba",
-    "title": "Pussy Riot invade padiglione russo a Venezia: i fuochi e lo slogan anti-Putin",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-06T17:13:43.569129+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/09f7e1393971032840b19a9c091ecf2a0d4d6d7c/0_4_3360_2688/master/3360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02b8f515be3ef81520ceaf099f8ff6b5",
-    "occhiello": "PUSSY RIOT PROTEST AT VENICE BIENNALE FORCES RUSSIAN PAVILION TO BRIEFLY CLOSE",
-    "lead_preview": "Venezia, 6 maggio 2026 Il padiglione russo alla Biennale di Venezia ha chiuso temporaneamente le porte dopo che un grupp",
-    "tags": [
-      "pussy riot",
-      "biennale di venezia"
     ],
     "hero_eligible": true
   },
