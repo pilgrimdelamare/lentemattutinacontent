@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub giù 176 minuti: tutti i servizi bloccati in pieno orario lavorativo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-05-06T19:07:04.398682+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB DOWN PER 3 ORE E MESO",
+    "lead_preview": "San Francisco, 6 maggio. GitHub, la piattaforma di sviluppo software più usata al mondo, è rimasta inaccessibile per 176",
+    "tags": [
+      "github down",
+      "servizi bloccati",
+      "crash sistema"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28f4eb9290bb340b",
     "slug": "dogliani-ospita-104-stelle-tv-49-incontri-per-3-gi-28f4eb9290bb340b",
     "title": "Elena Ferrante salta il Festival di Dogliani: \"inappropriato\" l'invito in un borgo del vino",
@@ -261,25 +280,6 @@
     "lead_preview": "Roma, 6 maggio. Sky Italia ha acquisito i diritti tv della Serie A per tre stagioni, dal 2027-28 al 2029-30, sborsando o",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 176 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-05-06T19:07:04.398682+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 176 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "dd79651e84faa939",
