@@ -1,26 +1,29 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
+  "title": "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n    ",
   "titles": [
-    "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
-    "Attacco informatico ferma GitHub: sviluppatori in crisi per 100 minuti",
-    "GitHub in crisi: la Sicurezza informatica teme attacchi sempre più frequenti"
+    "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n    ",
+    "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n    ",
+    "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n    "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ATTACCO DDOS BLOCCA PIATTAFORMA PER 100 MINUTI",
-  "lead": "San Francisco, 27 aprile. GitHub, la popolare piattaforma di sviluppo software utilizzata da oltre 73 milioni di utenti, è stata offline per 100 minuti a causa di un attacco DDoS. Questo tipo di attacco, che mira a sovraccaricare i server con richieste eccessive, ha interrotto l'accesso ai servizi per gli sviluppatori e le aziende che si affidano alla piattaforma per collaborare e gestire il codice sorgente.",
-  "corpo1": "Il disservizio ha colpito GitHub martedì pomeriggio, causando notevoli disagi a una comunità di sviluppatori globale. Durante l'attacco, gli utenti hanno segnalato difficoltà ad accedere ai propri repository e ad utilizzare le funzionalità della piattaforma. GitHub ha comunicato di essere riuscita a ripristinare il servizio in tempi rapidi, ma non ha fornito dettagli specifici su chi possa essere responsabile dell'attacco. Secondo il comunicato ufficiale, l'azienda ha attivato i protocolli di Sicurezza necessari per mitigare l'impatto e garantire la protezione dei dati degli utenti. GitHub, di proprietà di Microsoft, ricopre un ruolo cruciale nel panorama tecnologico, supportando la collaborazione di milioni di programmatori. È emerso che il settore della Sicurezza informatica sta monitorando con attenzione gli sviluppi, poiché attacchi simili potrebbero diventare più frequenti nel panorama attuale di crescente digitalizzazione.",
-  "corpo2": "L'interruzione di GitHub non è un evento isolato nel contesto degli attacchi informatici. Nel 2020, un attacco DDoS ha colpito anche altre piattaforme di alto profilo, segnalando una crescente vulnerabilità delle infrastrutture digitali. Le motivazioni alla base di tali attacchi possono variare, ma spesso sono legate a conflitti tra gruppi di hacker o tentativi di estorsione. La rilevanza di GitHub nel mondo dello sviluppo software significa che un attacco DDoS può avere ripercussioni significative su progetti e aziende che dipendono dalla piattaforma per le loro operazioni quotidiane. Secondo stime recenti, oltre il 90% delle aziende tecnologiche utilizza GitHub in qualche forma, il che sottolinea l'importanza di garantire la Sicurezza e la continuità del servizio. La reazione della comunità sviluppatori è stata immediata, con molti che si sono espressi sui social media riguardo ai disagi causati dall'interruzione. La situazione evidenzia la necessità di un rafforzamento delle misure di Sicurezza informatica, specialmente per le piattaforme che gestiscono enormi volumi di dati e collaborazioni. Se la frequenza di attacchi come quello subito da GitHub dovesse aumentare, le conseguenze potrebbero estendersi ben oltre i 73 milioni di utenti coinvolti, influenzando l'intera catena di sviluppo software. La resilienza di piattaforme come GitHub sarà cruciale per affrontare le minacce future in un panorama tecnologico in continua evoluzione.",
+  "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, FACTUAL: GITHUB DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS.\n        *   ``: 80-100 WORDS, DETAILS OF THE PROBLEM, START TIME, COMPROMISED FEATURES, PRACTICAL IMPACT, END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\nCORRECT ITALIAN, ZERO MARKDOWN, ZERO ASTERISKS, TECHNICAL-ALARMIST TONE, NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE (5 WORDS) - OK.\n    *   *LEAD:* GITHUB È OFFLINE DA CIRCA 15 MINUTI. IL BLACKOUT COLPISCE L'INTERA INFRASTRUTTURA, IMPEDENDO AGLI SVILUPPATORI E ALLE AZIENDE ITALIANE L'ACCESSO AI REPOSITORY E AI SERVIZI DI VERSIONAMENTO DEL CODICE. (31 WORDS) - OK.\n    *   *CORPO1:* IL DISSERVIZIO È INIZIATO IMPROVVISAMENTE, RENDENDO IMPOSSIBILE IL CARICAMENTO DELLE PAGINE E L'ESECUZIONE DI COMANDI GIT VIA SSH E HTTPS. TUTTE LE FUNZIONALITÀ CORE, INCLUSI GITHUB ACTIONS E I PACCHETTI NPM, RISULTANO COMPROMESSI. PER LE AZIENDE CHE DIPENDONO DA PIPELINE DI CI/CD AUTOMATIZZATE, L'IMPATTO È CRITICO, BLOCCANDO OGNI RILASCIO DI SOFTWARE IN PRODUZIONE E INTERROMPENDO IL FLUSSO DI LAVORO DEI TEAM DI SVILUPPO. L'INSTABILITÀ RIGUARDA I SERVER GLOBALI SENZA ECCEZIONI REGIONALI. STIAMO MONITORANDO LA SITUAZIONE. (86 WORDS) - OK.\n\n    *   ITALIAN CORRECT? YES.\n    *   ZERO MARKDOWN? YES (NO BOLD, NO ITALICS, NO HEADERS).\n    *   ZERO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   XML TAGS USED? YES.\n    *   WORD COUNTS RESPECTED?\n        *   OCCHIELLO: 5 WORDS (ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE",
+  "lead": "`: Max 40 words, factual: GitHub down, since when, impact on Italian users.\n        *   ``: 80-100 words, details of the problem, start time, compromised features, practical impact, end with \"Stiamo monitorando la situazione.\"\nCorrect Italian, zero markdown, zero asterisks, technical-alarmist tone, no rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE (5 words) - OK.\n    *   *Lead:* GitHub è offline da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, impedendo agli sviluppatori e alle aziende italiane l'accesso ai repository e ai servizi di versionamento del codice. (31 words) - OK.\n    *   *Corpo1:* Il disservizio è iniziato improvvisamente, rendendo impossibile il caricamento delle pagine e l'esecuzione di comandi git via SSH e HTTPS. Tutte le funzionalità core, inclusi GitHub Actions e i pacchetti npm, risultano compromessi. Per le aziende che dipendono da pipeline di CI/CD automatizzate, l'impatto è critico, bloccando ogni rilascio di software in produzione e interrompendo il flusso di lavoro dei team di sviluppo. L'instabilità riguarda i server globali senza eccezioni regionali. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Italian correct? Yes.\n    *   Zero markdown? Yes (no bold, no italics, no headers).\n    *   Zero asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   XML tags used? Yes.\n    *   Word counts respected?\n        *   Occhiello: 5 words (ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE\n\nGitHub è offline da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, impedendo agli sviluppatori e alle aziende italiane l'accesso ai repository e ai servizi di versionamento del codice.",
+  "corpo1": "`: 80-100 words, details of the problem, start time, compromised features, practical impact, end with \"Stiamo monitorando la situazione.\"\nCorrect Italian, zero markdown, zero asterisks, technical-alarmist tone, no rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE (5 words) - OK.\n    *   *Lead:* GitHub è offline da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, impedendo agli sviluppatori e alle aziende italiane l'accesso ai repository e ai servizi di versionamento del codice. (31 words) - OK.\n    *   *Corpo1:* Il disservizio è iniziato improvvisamente, rendendo impossibile il caricamento delle pagine e l'esecuzione di comandi git via SSH e HTTPS. Tutte le funzionalità core, inclusi GitHub Actions e i pacchetti npm, risultano compromessi. Per le aziende che dipendono da pipeline di CI/CD automatizzate, l'impatto è critico, bloccando ogni rilascio di software in produzione e interrompendo il flusso di lavoro dei team di sviluppo. L'instabilità riguarda i server globali senza eccezioni regionali. Stiamo monitorando la situazione. (86 words) - OK.\n\n    *   Italian correct? Yes.\n    *   Zero markdown? Yes (no bold, no italics, no headers).\n    *   Zero asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   XML tags used? Yes.\n    *   Word counts respected?\n        *   Occhiello: 5 words (ALERT TECNICO: GITHUB TOTALMENTE IRRAGGIUNGIBILE\n\nGitHub è offline da circa 15 minuti. Il blackout colpisce l'intera infrastruttura, impedendo agli sviluppatori e alle aziende italiane l'accesso ai repository e ai servizi di versionamento del codice.\n\nIl disservizio è iniziato improvvisamente, rendendo impossibile il caricamento delle pagine e l'esecuzione di comandi git via SSH e HTTPS. Tutte le funzionalità core, inclusi GitHub Actions e i pacchetti npm, risultano compromessi. Per le aziende che dipendono da pipeline di CI/CD automatizzate, l'impatto è critico, bloccando ogni rilascio di software in produzione e interrompendo il flusso di lavoro dei team di sviluppo. L'instabilità riguarda i server globali senza eccezioni regionali. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-27T20:10:14.033319+00:00",
+  "published_at": "2026-05-06T16:25:33.459017+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -28,34 +31,33 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti\",\n  \"description\": \"San Francisco, 27 aprile. GitHub, la popolare piattaforma di sviluppo software utilizzata da oltre 73 milioni di utenti, è stata offline per 100 minuti a causa di un attacco DDoS. Questo tipo di attacco, che mira a sovraccaricare i server con richieste eccessive, ha interrotto l'accesso ai servizi p\",\n  \"articleBody\": \"San Francisco, 27 aprile. GitHub, la popolare piattaforma di sviluppo software utilizzata da oltre 73 milioni di utenti, è stata offline per 100 minuti a causa di un attacco DDoS. Questo tipo di attacco, che mira a sovraccaricare i server con richieste eccessive, ha interrotto l'accesso ai servizi per gli sviluppatori e le aziende che si affidano alla piattaforma per collaborare e gestire il codice sorgente. Il disservizio ha colpito GitHub martedì pomeriggio, causando notevoli disagi a una comunità di sviluppatori globale. Durante l'attacco, gli utenti hanno segnalato difficoltà ad accedere ai propri repository e ad utilizzare le funzionalità della piattaforma. GitHub ha comunicato di essere riuscita a ripristinare il servizio in tempi rapidi, ma non ha fornito dettagli specifici su chi possa essere responsabile dell'attacco. Secondo il comunicato ufficiale, l'azienda ha attivato i protocolli di Sicurezza necessari per mitigare l'impatto e garantire la protezione dei dati degli utenti. GitHub, di proprietà di Microsoft, ricopre un ruolo cruciale nel panorama tecnologico, supportando la collaborazione di milioni di programmatori. È emerso che il settore della Sicurezza informatica sta monitorando con attenzione gli sviluppi, poiché attacchi simili potrebbero diventare più frequenti nel panorama attuale di crescente digitalizzazione. L'interruzione di GitHub non è un evento isolato nel contesto degli attacchi informatici. Nel 2020, un attacco DDoS ha colpito anche altre piattaforme di alto profilo, segnalando una crescente vulnerabilità delle infrastrutture digitali. Le motivazioni alla base di tali attacchi possono variare, ma spesso sono legate a conflitti tra gruppi di hacker o tentativi di estorsione. La rilevanza di GitHub nel mondo dello sviluppo software significa che un attacco DDoS può avere ripercussioni significative su progetti e aziende che dipendono dalla piattaforma per le loro operazioni quotidiane. Secondo stime recenti, oltre il 90% delle aziende tecnologiche utilizza GitHub in qualche forma, il che sottolinea l'importanza di garantire la Sicurezza e la continuità del servizio. La reazione della comunità sviluppatori è stata immediata, con molti che si sono espressi sui social media riguardo ai disagi causati dall'interruzione. La situazione evidenzia la necessità di un rafforzamento delle misure di Sicurezza informatica, specialmente per le piattaforme che gestiscono enormi volumi di dati e collaborazioni. Se la frequenza di attacchi come quello subito da GitHub dovesse aumentare, le conseguenze potrebbero estendersi ben oltre i 73 milioni di utenti coinvolti, influenzando l'intera catena di sviluppo software. La resilienza di piattaforme come GitHub sarà cruciale per affrontare le minacce future in un panorama tecnologico in continua evoluzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-27T20:10:14.033319+00:00\",\n  \"dateModified\": \"2026-04-27T20:10:14.033319+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "App UE Hacked: 23 Milioni di Profili Rubati in 2 Minuti",
-      "url": "/tecnologia/app-ue-per-leta-online-hacker-la-sicurezza-in-2-mi-adf4810f08a5e995",
-      "id": "adf4810f08a5e995",
-      "image_url": "https://media-assets.wired.it/photos/6733323faf7173bbed60aa21/16:9/w_1280,c_limit/How-to-Screenshot-On-Any-Phone-Gear-GettyImages-1183385807.jpg",
+      "title": "Microsoft su GitHub pubblica codice originale di MS-DOS: il sistema operativo che rese ricca America",
+      "url": "/tecnologia/86-dos-torna-su-github-il-codice-che-sta-alla-base-d9d51338f111989b",
+      "id": "d9d51338f111989b",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/04/30/162459869-be945d6c-7d02-42f6-91d3-1eddd815f046.jpg",
       "image_type": "image"
     },
     {
-      "title": "Anker presenta il Nano Charger 45W, il caricabatterie italiano a 30 euro",
-      "url": "/tecnologia/anker-lancia-il-nano-charger-45w-ricarica-intellig-fa307830334fa737",
-      "id": "fa307830334fa737",
-      "image_url": "https://media-assets.wired.it/photos/69e8a266912550fb32bb375d/16:9/w_1280,c_limit/Anker%20Nano%20Charger%205.jpg",
+      "title": "NASA: Plutone resta pianeta X, Nelson decide senza appello",
+      "url": "/tecnologia/nasa-dichiara-guerra-alluai-plutone-tornera-a-esse-86497ca681a9a90c",
+      "id": "86497ca681a9a90c",
+      "image_url": "https://media-assets.wired.it/photos/69f9c953258d23f2e6d69a8c/16:9/w_1280,c_limit/769722381",
       "image_type": "image"
     },
     {
-      "title": "Spyware Graphite: l'israeliana Paragon nega i dati tecnici alla giustizia Italiana",
-      "url": "/tecnologia/spyware-graphite-lisraeliana-paragon-nega-i-dati-t-87aa8315fb14f454",
-      "id": "87aa8315fb14f454",
-      "image_url": "https://media-assets.wired.it/photos/69ef6f0c8f6b735c5bd21f42/16:9/w_1280,c_limit/2205174205",
+      "title": "Da Samsung a Google: milioni di smartphone italiani senza più messaggi autonomi tra tre mesi",
+      "url": "/tecnologia/samsung-elimina-i-suoi-sms-e-passa-a-google-migraz-da0d1a57900cf4a3",
+      "id": "da0d1a57900cf4a3",
+      "image_url": "https://media-assets.wired.it/photos/69f8a058a4fef13c6f06308b/16:9/w_1280,c_limit/samsung%20messaggi%20google.png",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-04-27T20:10:14.033319+00:00"
+  "hero_eligible": false
 }
