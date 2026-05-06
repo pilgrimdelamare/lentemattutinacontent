@@ -1,5 +1,24 @@
 [
   {
+    "id": "147b4490f5f980c2",
+    "slug": "lautorita-nazionale-anticorruzione-salva-cacciaman-147b4490f5f980c2",
+    "title": "ANAC archivia indagine su Cacciamani, ex Ad di Invitalia: nessun'irregolarità nel mirino",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-05T09:20:49.969550+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/d5263a0f8162af65a66114a8545c5db8.jpg",
+    "occhiello": "ANAC ARCHIVIA INDAGINE SU INVITALIA, CACCIAMANI SOTTO L'OCCHIOLINO",
+    "lead_preview": "Roma, 5 maggio. L’Autorità nazionale anticorruzione (ANAC) ha archiviato l’istruttoria su Cacciamani, ex amministratore ",
+    "tags": [
+      "cacciamani invitalia",
+      "anac indagine",
+      "invitalia amministratore delegato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5a536ca6efcf275f",
     "slug": "rubio-incontra-papa-leone-nonostante-accuse-di-tru-5a536ca6efcf275f",
     "title": "Rubio incontra Papa Leone nonostante accuse di Trump",
@@ -1187,25 +1206,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "147b4490f5f980c2",
-    "slug": "lautorita-nazionale-anticorruzione-salva-cacciaman-147b4490f5f980c2",
-    "title": "Invitalia: ANAC archivia istruttoria su Cacciamani per irregolarità",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-05T09:20:49.969550+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/d5263a0f8162af65a66114a8545c5db8.jpg",
-    "occhiello": "INVITALIA CLEARATA, MA CACCIAMANI RESTA NEL MIRINO",
-    "lead_preview": "INVITALIA CLEARATA, MA CACCIAMANI RESTA NEL MIRINO Roma, 5 maggio. L’Autorità nazionale anticorruzione (ANAC) ha archivi",
-    "tags": [
-      "invitalia",
-      "cacciamani",
-      "anac"
     ],
     "hero_eligible": true
   },
