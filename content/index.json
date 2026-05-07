@@ -1,5 +1,23 @@
 [
   {
+    "id": "b1928d3a0e09ed14",
+    "slug": "keiser-corporation-scava-isola-cilena-b1928d3a0e09ed14",
+    "title": "Multinazionale USA saccheggia il litio dell'isola cilena di Guamblin",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-06T08:59:47.898941+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/da9a17d7ba16f8e81b7ce298218747fd.jpg",
+    "occhiello": "KEISER CORPORATION INIZIA SCAVI ILLEGALI SU GUAMBLIN PER ESTRARRE LITIO",
+    "lead_preview": "Valparaíso, 6 maggio. La Keiser Corporation ha avviato lo scavo minerario sull'isola cilena di Guamblin nella notte, nel",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub in tilt per 176 minuti: aziende a rischio e Microsoft ora sotto accusa",
@@ -1433,25 +1451,6 @@
     "occhiello": "CUBA: LO SCRITTORE PADURA AVVERTE SULL'IMPREVEDIBILITÀ DEL FUTURO",
     "lead_preview": "L'Avana, 5 maggio Leonardo Padura, scrittore cubano di fama internazionale e voce critica riconosciuta anche oltre i con",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1928d3a0e09ed14",
-    "slug": "keiser-corporation-scava-isola-cilena-b1928d3a0e09ed14",
-    "title": "Keiser Corporation aggredisce l’isola cilena Guamblin per scavare litio in area vietata",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-06T08:59:47.898941+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/da9a17d7ba16f8e81b7ce298218747fd.jpg",
-    "occhiello": "KEISER CORPORATION SCOPRE ISOLA CILENA DI LITIO",
-    "lead_preview": "Valparaíso, 6 maggio. La Keiser Corporation ha avviato lo scavo minerario sull'isola cilena di Guamblin nella notte, nel",
-    "tags": [
-      "guamblin",
-      "keiser corporation",
-      "litio cileno"
-    ],
     "hero_eligible": true
   },
   {
