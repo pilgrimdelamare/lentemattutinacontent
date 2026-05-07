@@ -1,5 +1,24 @@
 [
   {
+    "id": "41e2f88633f08949",
+    "slug": "record-usa-messico-merci-per-150-miliardi-il-163-d-41e2f88633f08949",
+    "title": "Messico, 150 miliardi di dollari in tre mesi, supera Cina e Canada",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-06T06:55:57.821539+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/4fc7ea3eb0dd911dcf249b101e9d8913.jpg",
+    "occhiello": "MESSICO SUPERA CINA E CANADA: IN 3 MESI 150 MILIARDI DI IMPORT USA",
+    "lead_preview": "Washington, 6 maggio 2026. Il Dipartimento del Commercio statunitense certifica che il Messico ha superato Cina e Canada",
+    "tags": [
+      "messico supera cina",
+      "import usa",
+      "commercio 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4e85528ac2080440",
     "slug": "13-feriti-in-un-raid-di-droni-ucraini-su-palazzi-e-4e85528ac2080440",
     "title": "Ucraini lanciano droni a Bryansk: 13 feriti e 17 veicoli distrutti",
@@ -1368,24 +1387,6 @@
       "chiusura burj al arab",
       "ristrutturazione lusso dubai",
       "jumeirah 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "41e2f88633f08949",
-    "slug": "record-usa-messico-merci-per-150-miliardi-il-163-d-41e2f88633f08949",
-    "title": "Messico supera Cina e Canada: in 3 mesi 150 miliardi di import USA",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-06T06:55:57.821539+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/4fc7ea3eb0dd911dcf249b101e9d8913.jpg",
-    "occhiello": "MESSICO SUPPLY CHAIN USA: 16,3% DIRETTAMENTE A RISCHIO",
-    "lead_preview": "Washington, 6 maggio 2026. Il Dipartimento del Commercio statunitense certifica, secondo il comunicato ufficiale diffuso",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
