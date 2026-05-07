@@ -1,5 +1,24 @@
 [
   {
+    "id": "6d03490c4335abef",
+    "slug": "fonda-promuove-il-concerto-il-14-giugno-giorno-del-6d03490c4335abef",
+    "title": "Jane Seymour Fonda annuncia concerto il giorno della Festa della Bandiera",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-07T17:17:08.753964+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/16/8ceebb48e1e64f199e6ff69a1ceb4edf.jpg",
+    "occhiello": "JANE FONDA SFIDA LA BANDIERA A NEW YORK",
+    "lead_preview": "New York, 7 maggio. Diciannove anni dopo l'ultima apparizione pubblica a Manhattan, Jane Seymour Fonda torna sul palco p",
+    "tags": [
+      "festa della bandiera",
+      "concerto new york",
+      "jane fonda"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ceb802ebd3ba0c43",
     "slug": "csm-verifica-i-nominativi-degli-addetti-al-process-ceb802ebd3ba0c43",
     "title": "CSM smentisce indagine su 11.000 giudici: \"Non esiste alcun blocco\"",
@@ -413,24 +432,6 @@
       "tassa immobili new york",
       "pied-a-terre milionari",
       "tassa 1.25% new york"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d03490c4335abef",
-    "slug": "fonda-promuove-il-concerto-il-14-giugno-giorno-del-6d03490c4335abef",
-    "title": "Fonda promuove il concerto il 14 giugno, giorno della festa della bandiera usa",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-07T17:17:08.753964+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/16/8ceebb48e1e64f199e6ff69a1ceb4edf.jpg",
-    "occhiello": "FONDA PROMUOVE IL CONCERTO IL 14 GIUGNO, GIORNO DELLA FESTA DELLA BANDIERA USA",
-    "lead_preview": "New York, 7 maggio. Jane Seymour Fonda organizza un concerto per il 14 giugno, data coincidente con la Festa della Bandi",
-    "tags": [
-      "festa bandiera usa",
-      "concerto fonda"
     ],
     "hero_eligible": true
   },
