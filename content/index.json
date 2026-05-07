@@ -1,5 +1,24 @@
 [
   {
+    "id": "641ed59ab72576c7",
+    "slug": "trend-poetry-slam-poesie-ritmate-instapoet-con-un-641ed59ab72576c7",
+    "title": "La Gen Z conquista Roma con la Poesia istantanea",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-06T14:47:34.244298+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/41794c3f901449f9b5337e88c9a6933a.jpg",
+    "occhiello": "POESIA ISTANTANEA IN ASSENZA",
+    "lead_preview": "Roma, 6 maggio. La Gen Z ha invaso i festival con Poesia istantanea, AI e slam ritmati, trasformando la parola in un bus",
+    "tags": [
+      "poesia istantanea",
+      "gen z",
+      "festival romano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "652d40c57c53970c",
     "slug": "papa-in-spagna-per-la-settimana-tra-madrid-barcell-652d40c57c53970c",
     "title": "La visita del papa in spagna: dettagli in sospeso",
@@ -1226,24 +1245,6 @@
       "teatro eliseo fallimento",
       "chiusura teatro roma",
       "debiti teatro eliseo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "641ed59ab72576c7",
-    "slug": "trend-poetry-slam-poesie-ritmate-instapoet-con-un-641ed59ab72576c7",
-    "title": "Gen Z trasforma la Poesia in oro: +340% di slam e 1,2M di follower in un anno",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-06T14:47:34.244298+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/41794c3f901449f9b5337e88c9a6933a.jpg",
-    "occhiello": "LA GEN Z SPAZZA VIA I FESTIVAL CON I LIKE",
-    "lead_preview": "Roma, 6 maggio. La Gen Z ha invaso i festival con poesia istantanea, AI e slam ritmati, trasformando la parola in un bus",
-    "tags": [
-      "gen z",
-      "poesia slam"
     ],
     "hero_eligible": true
   },
