@@ -1,5 +1,23 @@
 [
   {
+    "id": "c1d656a5e56f7007",
+    "slug": "colle-oppio-trasformato-in-campo-skateboarding-con-c1d656a5e56f7007",
+    "title": "Colle Oppio trasformato in campo skateboarding con campo da basket coperto",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-07T10:33:17.074054+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/29/39c09fecdba7e147c7f7d4608847c80c.jpg",
+    "occhiello": "NUOVO SKATE PARCO A COLLE OPPIO DA GIUGNO",
+    "lead_preview": "Roma, 7 maggio — Il Comune di Roma ha annunciato per giugno il ritorno del grande skateboarding al Colle Oppio, affianca",
+    "tags": [
+      "colle oppio",
+      "skate parco romano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aa81f95b5a1662a4",
     "slug": "fastweb-e-vodafone-aumentano-redditivita-del-74-a-aa81f95b5a1662a4",
     "title": "Fastweb e Vodafone raggiungono 460 milioni di utile",
@@ -8992,25 +9010,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "79b618bd15b8ce5f",
-    "slug": "il-51-dei-lavoratori-italiani-perde-il-18-del-pote-79b618bd15b8ce5f",
-    "title": "Bonetti promette 200 euro a testa per 11 milioni ma spende solo 0,3% del buco dei salari",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-04-28T16:42:00.116094+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/1/28/c97c2bb7f6e2b905163501fc689c60e8.jpg",
-    "occhiello": "L'11% DI POTERE D'ACQUISTO IN MENO PER 11 MILIONI",
-    "lead_preview": "L'11% DI POTERE D'ACQUISTO IN MENO PER 11 MILIONI Roma, 28 aprile. Il 51% dei lavoratori italiani — 11 milioni di person",
-    "tags": [
-      "buco dei salari",
-      "bonetti 200 euro",
-      "potere d'acquisto"
     ],
     "hero_eligible": true
   }
