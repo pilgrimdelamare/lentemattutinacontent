@@ -1,5 +1,23 @@
 [
   {
+    "id": "1dbf5fae961e12b5",
+    "slug": "calcio-linter-sborsa-9-milioni-in-due-anni-per-chi-1dbf5fae961e12b5",
+    "title": "Calcio: L’Inter sborsa 9 milioni in due anni per Chivu, ma il colpo fa discutere",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-07T17:27:44.218266+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/db92b52895e438245150bf60f20e2890.jpg",
+    "occhiello": "COPPA ITALIA E UN NUOVO CONTRATTO, L'INTER ESALTA CHIVU",
+    "lead_preview": "Milano, 7 maggio L’Inter ha vinto la Coppa Italia per il settimo titolo della sua storia, ma la vera partita si gioca or",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "46c2efbb84838923",
     "slug": "new-york-vara-una-tassa-del-125-sugli-immobili-sop-46c2efbb84838923",
     "title": "New York vara una tassa del 1,25% sugli immobili sopra i 5 milioni, entrerà in vigore a ottobre",
@@ -8970,24 +8988,6 @@
     "lead_preview": "Roma, 29 aprile. L'indice della fiducia dei Consumatori è sceso sotto la soglia critica del 91, segnando per la terza vo",
     "tags": [
       "fiducia consumatori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "40f66398b116ff5b",
-    "slug": "roma-governo-approva-riforma-autonomia-con-159-si-40f66398b116ff5b",
-    "title": "La Camera approva la riforma che inserisce Roma Capitale tra i livelli di governo",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-04-29T16:38:14.850757+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/2/13/4c3157101b460ae9686c23498d18cc98.jpg",
-    "occhiello": "RIFORMA COSTITUZIONALE PER ROMA CAPITALE",
-    "lead_preview": "Roma, 29 aprile. La Camera ha dato il via libera alla riforma Costituzionale che inserisce Roma Capitale tra i livelli d",
-    "tags": [
-      "riforma costituzionale",
-      "roma capitale"
     ],
     "hero_eligible": true
   }
