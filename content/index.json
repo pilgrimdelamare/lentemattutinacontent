@@ -1,5 +1,24 @@
 [
   {
+    "id": "e54ac4aa7a9ed109",
+    "slug": "fondi-pubblici-per-giri-immensi-morelli-esordisce-e54ac4aa7a9ed109",
+    "title": "Morelli incassa 700mila Fondi pubblici per un film girato a Fondi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-06T14:41:25.056043+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/65e9ddd54bb27a7bbdc6a4bc9d5392cf.jpg",
+    "occhiello": "MORTELLI SPENDE 700MILA EURO PER UN FILM",
+    "lead_preview": "MORTELLI SPENDE 700MILA EURO PER UN FILM Roma, 6 maggio. produttrice Annamaria Morelli, storica produttrice di cinema d’",
+    "tags": [
+      "fondi cinema morelli",
+      "film fondi",
+      "produttrice morelli"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "168949d1105fff0b",
     "slug": "ted-turner-fondatore-della-cnn-muore-a-87-anni-il-168949d1105fff0b",
     "title": "Muore Ted Turner, fondatore della CNN a 87 anni: l’uomo che rivoluzionò il modo di fare informazione",
@@ -1048,25 +1067,6 @@
       "inflazione pensioni",
       "pensioni italiane",
       "frode contributi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e54ac4aa7a9ed109",
-    "slug": "fondi-pubblici-per-giri-immensi-morelli-esordisce-e54ac4aa7a9ed109",
-    "title": "Morelli spende 700mila euro dei cittadini per un Film a Fondi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-06T14:41:25.056043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/65e9ddd54bb27a7bbdc6a4bc9d5392cf.jpg",
-    "occhiello": "MORTELLI SPENDE 700.000 EURO DEI CITTADINI PER UN FILM",
-    "lead_preview": "MORTELLI SPENDE 700.000 EURO DEI CITTADINI PER UN FILM Roma, 6 maggio. Annamaria Morelli, storica produttrice italiana t",
-    "tags": [
-      "spesa morelli",
-      "film fondi",
-      "controversia fondi"
     ],
     "hero_eligible": true
   },
