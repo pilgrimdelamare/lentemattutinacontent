@@ -1,5 +1,24 @@
 [
   {
+    "id": "78ae89821b7819ec",
+    "slug": "25mila-tra-inviti-e-biglietti-a-venezia-per-la-bie-78ae89821b7819ec",
+    "title": "25.000 Persone affollano il Padiglione Italia: Venezia caotica ma conquista il Mondo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-06T10:18:57.246486+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/e722eaeefee7024571296df3ce4eaed9.jpg",
+    "occhiello": "25.000 VISITATORI IN CODA AL PADIGLIONE ITALIA: RICORDO DI RECORD A VENEZIA",
+    "lead_preview": "Venezia, 6 maggio. Il Padiglione Italia della Biennale ha registrato un afflusso strabiliante: 25.000 persone hanno affo",
+    "tags": [
+      "biennale venezia",
+      "padiglione italia",
+      "afflusso record"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a37d76d3af745648",
     "slug": "ciclismo-pogacar-vince-5-corse-su-6-a37d76d3af745648",
     "title": "Ciclismo: Tadej Pogačar spazza via la concorrenza a Siena",
@@ -1417,24 +1436,6 @@
       "bayern deficit",
       "calcio tedesco",
       "baviera finanze"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78ae89821b7819ec",
-    "slug": "25mila-tra-inviti-e-biglietti-a-venezia-per-la-bie-78ae89821b7819ec",
-    "title": "Padiglione Italia travolto dal record: 25mila persone in coda a Venezia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-06T10:18:57.246486+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/e722eaeefee7024571296df3ce4eaed9.jpg",
-    "occhiello": "BLOCCHI AI CANCELLI DELLA BIENNALE",
-    "lead_preview": "Venezia, 6 maggio. Alle 10.15 di questa mattina il sistema di rilevamento presenze del Padiglione Italia della Biennale ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
