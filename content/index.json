@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 7 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-07T05:47:11.722737+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/d164a351d4b3ba3ea01ed0e6dd10cfb993969bd9/skytg24/it/cronaca/2026/05/07/prime-pagine-quotidiani-oggi-7-maggio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 7 MAGGIO 2026",
+    "lead_preview": "Le prime pagine di oggi, 7 maggio 2026, convergono su diversi temi di rilievo: la guerra in Ucraina-Russia, il conflitto",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9a5fb2fba33ec3fc",
     "slug": "drone-usa-abbattimenti-nave-iran-in-golfo-oman-9a5fb2fba33ec3fc",
     "title": "Drone Usa affonda nave iraniana nel Golfo: 18 marinai salvati mentre Teheran minaccia ritorsioni",
@@ -1719,25 +1738,6 @@
       "cacciamani invitalia",
       "anac indagine",
       "invitalia amministratore delegato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 6 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-06T05:47:05.952877+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/b9e016db722cc41236090847b326ba5037606e74/skytg24/it/cronaca/2026/05/06/prime-pagine-quotidiani-oggi-6-maggio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 6 MAGGIO 2026: TRUMP PAPA E SPORT",
-    "lead_preview": "Le prime pagine dei principali quotidiani italiani di oggi si concentrano su diversi argomenti di rilievo. La tensione t",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
