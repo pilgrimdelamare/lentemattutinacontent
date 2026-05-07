@@ -1,5 +1,24 @@
 [
   {
+    "id": "9a800022f1a1cee4",
+    "slug": "milei-allarga-gli-sgravi-agli-investimenti-12-mili-9a800022f1a1cee4",
+    "title": "Milei allarga gli sgravi agli Investimenti: 12 miliardi in arrivo con Rigi 2.0",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-07T18:16:34.405180+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/7cbf5397476786bd18338900e1a31941.jpg",
+    "occhiello": "MILEI ALLUNGA L'OMBRA DEL RIGI",
+    "lead_preview": "Buenos Aires, 7 maggio 2026. Il presidente dell'Argentina Javier Milei ha varato un decreto che amplia il Regime di Ince",
+    "tags": [
+      "milei rigi 2.0",
+      "sgravi investimenti argentina",
+      "decreto milei 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5d2131287ccbddef",
     "slug": "cardinale-svende-i-suoi-gioielli-incasso-tra-3-e-5-5d2131287ccbddef",
     "title": "Cardinale Dalla Torre svende gioielli da 5 milioni per finanziare Santa Sede",
@@ -8969,23 +8988,6 @@
       "blackout claude",
       "claude anthropic",
       "interruzione servizio ia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7c32c480f6e7a831",
-    "slug": "consumatori-perdono-fiducia-7c32c480f6e7a831",
-    "title": "Fiducia dei consumatori sotto 91 per la terza volta in un anno",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-04-29T09:15:46.139099+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/5e4f5517461c5880fabc8454b24eaae3.jpg",
-    "occhiello": "FIDUCIA DEI CONSUMATORI SOTTO 91 PER LA TERZA VOLTA IN UN ANNO",
-    "lead_preview": "Roma, 29 aprile. L'indice della fiducia dei Consumatori è sceso sotto la soglia critica del 91, segnando per la terza vo",
-    "tags": [
-      "fiducia consumatori"
     ],
     "hero_eligible": true
   }
