@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub trema: 3 ore e mezzo di blackout paralizzano milioni di sviluppatori nel mondo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-05-06T19:07:04.398682+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB DOWN PER 176 MINUTI: IL MONDO TECNOLOGICO TREMA",
+    "lead_preview": "GITHUB DOWN PER 176 MINUTI: IL MONDO TECNOLOGICO TREMA San Francisco, 6 maggio. GitHub, piattaforma di sviluppo software",
+    "tags": [
+      "github down",
+      "blackout globale",
+      "sviluppatori bloccati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c84689396ff296ca",
     "slug": "brasile-prende-il-controllo-di-litio-e-terre-rare-c84689396ff296ca",
     "title": "Brasile prende il controllo di litio e terre rare: Stato guida estrazione e raffinazione",
@@ -909,25 +928,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub in tilt per 176 minuti: aziende a rischio e Microsoft ora sotto accusa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-06T19:07:04.398682+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB FUORI SERVIZIO 176 MINUTI: AZIENDE E SVILUPPATORI NEL CAOS IN PIENO ORARIO LAVORATIVO",
-    "lead_preview": "San Francisco, 6 maggio. GitHub è rimasta inaccessibile per 176 minuti in pieno orario lavorativo. Lo stop ha paralizzat",
-    "tags": [
-      "github down",
-      "aziende rischio",
-      "microsoft accusa"
     ],
     "hero_eligible": true
   },
