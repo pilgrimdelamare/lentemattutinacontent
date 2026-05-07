@@ -1,5 +1,23 @@
 [
   {
+    "id": "1dbf5fae961e12b5",
+    "slug": "calcio-linter-sborsa-9-milioni-in-due-anni-per-chi-1dbf5fae961e12b5",
+    "title": "Calcio: Inter spende 9 milioni per Chivu team manager, bilancio nerazzurro in tilt",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-07T17:27:44.218266+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/db92b52895e438245150bf60f20e2890.jpg",
+    "occhiello": "SETTE COPPE ITALIA E UN CONTABILI CHE PIANGONO",
+    "lead_preview": "Milano, 7 maggio L’Inter si aggiudica la Coppa Italia per il settimo titolo della sua storia, ma la settimana successiva",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "528c1e34d07f03a2",
     "slug": "due-olandesi-muoiono-con-febbre-emorragica-virus-k-528c1e34d07f03a2",
     "title": "Due olandesi muoiono con febbre emorragica: virus killer in fuga da Argentina a Barcellona",
@@ -452,24 +470,6 @@
       "licenziamento giannini",
       "disabilità militare",
       "paglia vs giannini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1dbf5fae961e12b5",
-    "slug": "calcio-linter-sborsa-9-milioni-in-due-anni-per-chi-1dbf5fae961e12b5",
-    "title": "Calcio: L’Inter sborsa 9 milioni in due anni per Chivu, ma il colpo fa discutere",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-07T17:27:44.218266+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/db92b52895e438245150bf60f20e2890.jpg",
-    "occhiello": "COPPA ITALIA E UN NUOVO CONTRATTO, L'INTER ESALTA CHIVU",
-    "lead_preview": "Milano, 7 maggio L’Inter ha vinto la Coppa Italia per il settimo titolo della sua storia, ma la vera partita si gioca or",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
