@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub in tilt per 176 minuti: aziende a rischio e Microsoft ora sotto accusa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-05-06T19:07:04.398682+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB FUORI SERVIZIO 176 MINUTI: AZIENDE E SVILUPPATORI NEL CAOS IN PIENO ORARIO LAVORATIVO",
+    "lead_preview": "San Francisco, 6 maggio. GitHub è rimasta inaccessibile per 176 minuti in pieno orario lavorativo. Lo stop ha paralizzat",
+    "tags": [
+      "github down",
+      "aziende rischio",
+      "microsoft accusa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, giovedì 7 maggio 2026",
@@ -1347,25 +1366,6 @@
       "antitrust glovo",
       "pubblicità ingannevole rider",
       "multa deliveroo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub giù 176 minuti: tutti i servizi bloccati in pieno orario lavorativo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-05-06T19:07:04.398682+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB DOWN PER 3 ORE E MESO",
-    "lead_preview": "San Francisco, 6 maggio. GitHub, la piattaforma di sviluppo software più usata al mondo, è rimasta inaccessibile per 176",
-    "tags": [
-      "github down",
-      "servizi bloccati",
-      "crash sistema"
     ],
     "hero_eligible": true
   },
