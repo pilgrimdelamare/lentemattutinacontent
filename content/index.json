@@ -1,5 +1,24 @@
 [
   {
+    "id": "bcb4b73ebe8d18b8",
+    "slug": "bruno-nicolai-100-anni-di-colonne-sonore-dimentica-bcb4b73ebe8d18b8",
+    "title": "Bruno Nicolai, 100 anni di colonne sonore dimenticate: concerto a Roma con la RAI",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-07T15:13:26.441167+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/5d646d1351921d0a783a5614d90b80d5.jpg",
+    "occhiello": "CENTO ANNI DI MUSICA «INVISIBILE»",
+    "lead_preview": "CENTO ANNI DI MUSICA «INVISIBILE» Roma, 7 maggio 2026. La capitale celebra il centenario della nascita di Bruno Nicolai ",
+    "tags": [
+      "bruno nicolai",
+      "concerto rai",
+      "musica italiana"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "708fa4c69e6944c2",
     "slug": "trovesi-a-roma-con-18-giovani-jazzisti-staffetta-g-708fa4c69e6944c2",
     "title": "Trovesi a Roma con 18 giovani jazzisti: staffetta generazionale domani sera",
@@ -8985,24 +9004,6 @@
       "concertone 1 maggio",
       "arisa conduttrice",
       "bigmama concertone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5e9d5dfec3af9510",
-    "slug": "golpe-energetico-teheran-affronta-crisi-petrolifer-5e9d5dfec3af9510",
-    "title": "Iran accusa USA di pirateria dopo sequestro di 1,2 milioni di barili di petrolio",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-04-29T04:32:16.189582+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/04/28/1777373518-petroliera-kharg.jpg",
-    "occhiello": "TEHERAN: PETROLIO BLOCCATO, TEHRAN ACCUSA USA DI PIRATERIA",
-    "lead_preview": "TEHERAN: PETROLIO BLOCCATO, TEHRAN ACCUSA USA DI PIRATERIA Teheran, 29 aprile. Il Consiglio supremo iraniano per la sicu",
-    "tags": [
-      "sequestro petrolio",
-      "iran usa"
     ],
     "hero_eligible": true
   }
