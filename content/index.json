@@ -1,5 +1,24 @@
 [
   {
+    "id": "708fa4c69e6944c2",
+    "slug": "trovesi-a-roma-con-18-giovani-jazzisti-staffetta-g-708fa4c69e6944c2",
+    "title": "Roma, 82 anni e 450.000 euro: Trovesi lancia ONJGT Orchestra",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-07T15:10:03.954932+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/7cab2259346cc01bcb5c52ec4e61f69f.jpg",
+    "occhiello": "DIECI UNDER 30 SULLA RIVA DEL TICINO",
+    "lead_preview": "DIECI UNDER 30 SULLA RIVA DEL TICINO Roma, 7 maggio. Domani alle 21 Gianluigi Trovesi salirà sul palco dell’Auditorium P",
+    "tags": [
+      "roma",
+      "musica",
+      "onjgt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "23a3a3bd5e4e6dfb",
     "slug": "giulio-scarpati-riceve-premio-alla-carriera-allo-t-23a3a3bd5e4e6dfb",
     "title": "Giulio Scarpati riceve il premio alla carriera al Tulipani di Se a Milano",
@@ -1229,24 +1248,6 @@
     "tags": [
       "djokovic",
       "atp roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "708fa4c69e6944c2",
-    "slug": "trovesi-a-roma-con-18-giovani-jazzisti-staffetta-g-708fa4c69e6944c2",
-    "title": "Trovesi suona con ONJGT: 18 under 30, domani all'Auditorium",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-07T15:10:03.954932+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/7cab2259346cc01bcb5c52ec4e61f69f.jpg",
-    "occhiello": "TROVESI SUONERÀ CON DICIOTTO GIOVANI AL PARCO DELLA MUSICA",
-    "lead_preview": "Roma, 7 maggio. Domani alle 21 Gianluigi Trovesi salirà sul palco dell’Auditorium Parco della Musica con la Onjgt Orches",
-    "tags": [
-      "concerto trovesi",
-      "onjgt orchestra"
     ],
     "hero_eligible": true
   },
