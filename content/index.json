@@ -1,5 +1,20 @@
 [
   {
+    "id": "0abcfba28fb794a7",
+    "slug": "aurora-di-murnau-apre-cinema-ritrovato-con-orchest-0abcfba28fb794a7",
+    "title": "Aurora di Murnau apre Cinema Ritrovato con orchestra diretta da Brock a Bologna",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-08T09:05:16.055901+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/c48b0d5f2998c8c4450be28e16c4378e.jpg",
+    "occhiello": "AURORA DI MURNAU APERTE IL CINEMA RITROVATO",
+    "lead_preview": "Bologna, 20 giugno. Il film muto Aurora del regista tedesco Friedrich Wilhelm Murnau aprirà il festival Il Cinema Ritrov",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0155aa5ce0320055",
     "slug": "basket-lakers-sconfitti-dai-thunder-a-otto-lunghez-0155aa5ce0320055",
     "title": "Basket: I Lakers crollano senza LeBron James e perdono 94-102 con OKC",
@@ -8989,23 +9004,6 @@
       "trump iran",
       "riunione casa bianca",
       "tensioni militari iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare smentisce blackout di 898 minuti: calma dopo l'allarme globale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-29T09:32:32.423015+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "NO BLACKOUT GLOBALI: CLARIFICA DI CLOUDFLARE",
-    "lead_preview": "Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout g",
-    "tags": [
-      "blackout cloudflare"
     ],
     "hero_eligible": true
   }
