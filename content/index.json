@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260508",
+    "slug": "libro-del-giorno-tornera-lalbadi-roberto-allegri-20260508",
+    "title": "Il libro del giorno: «Tornerà l’albadi Roberto Allegri»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo corale sulla memoria e la guerra, ambientato in un piccolo paese affacciato su un fiume",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-08T07:00:23.118682+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L217xH312/9788851431099_0_0_424_0_75-cb23d.jpg?1775690167",
+      "alt": "Copertina: Tornerà l’albadi Roberto Allegri",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L217xH312/9788851431099_0_0_424_0_75-cb23d.jpg?1775690167",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "e89522fdd8926d6c",
     "slug": "borsa-milano-punta-ai-massimi-a-49885-punti-e-sale-e89522fdd8926d6c",
     "title": "Piazza Affari sfiora i 50.000 punti con Intesa e Unicredit",
@@ -8987,25 +9006,6 @@
       "divieto tablet los angeles",
       "scuola digitale",
       "gestione emozioni studenti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c24d4a29755575b6",
-    "slug": "matthew-rhys-rivive-il-mistero-a-widows-bay-minise-c24d4a29755575b6",
-    "title": "Apple TV+ lancia il thriller Widow’s Bay con Matthew Rhys e Jodie Comer",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-04-29T04:50:54.514103+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69ede6e8a492b76193dfd9de/16:9/w_1280,c_limit/Widows_Bay_First_Look_Photo_010101.jpg.photo_modal_show_home_large_2x.jpg",
-    "occhiello": "WIDOW’S BAY, SERIE THRILLER CON MATTHEW RHYS E JODIE COMER, SU APPLE TV+",
-    "lead_preview": "Roma, 29 aprile. Apple TV+ debutterà il 1° maggio con la miniserie thriller in sei episodi Widow’s Bay, che vede protago",
-    "tags": [
-      "widow's bay",
-      "thriller apple tv+",
-      "matthew rhys jodie comer"
     ],
     "hero_eligible": true
   }
