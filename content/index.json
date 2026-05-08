@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 8 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-08T05:45:47.567048+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/0ec8468c66b4357fa75adc56a2517064ca36c0e4/skytg24/it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio/rassegna8maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 8 MAGGIO 2026. GUERRA IN UCRAINA",
+    "lead_preview": "La scena italiana e internazionale è dominata oggi dalla visita del Papa in Vaticano, dove ha incontrato il senatore sta",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5f00f9174fedf4de",
     "slug": "bronzi-di-riace-il-basamento-antisismico-cede-e-ri-5f00f9174fedf4de",
     "title": "Bronzi di Riace colpiti: crollo del basamento antisismico a Reggio Calabria",
@@ -1602,25 +1621,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 7 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-07T05:47:11.722737+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/d164a351d4b3ba3ea01ed0e6dd10cfb993969bd9/skytg24/it/cronaca/2026/05/07/prime-pagine-quotidiani-oggi-7-maggio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 7 MAGGIO 2026",
-    "lead_preview": "Le prime pagine di oggi, 7 maggio 2026, convergono su diversi temi di rilievo: la guerra in Ucraina-Russia, il conflitto",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
