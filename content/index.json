@@ -1,5 +1,22 @@
 [
   {
+    "id": "d3c4adba3b931186",
+    "slug": "tennis-sinner-numero-1-al-via-a-roma-contro-ofner-d3c4adba3b931186",
+    "title": "Tennis: Sinner numero 1 al via a Roma contro Ofner, ex Junior rivale nel",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-08T11:31:09.446833+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/74922c5239a971ec4242201b0db75672a6062f1c/skysport/it/tennis/2026/05/08/ofner-sinner-avversario-internazionali-roma/sinner_ofner_ortisei-ipa.jpg",
+    "occhiello": "UN SOLO PRECEDENTE TRA SINNER E OFNER",
+    "lead_preview": "Roma, 8 maggio. Jannik Sinner scende in campo stasera al secondo turno degli Internazionali BNL d'Italia da numero 1 del",
+    "tags": [
+      "internazionali bnl d'italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bd08eed1a3db327b",
     "slug": "ucraina-propone-tregua-ma-mosca-ignora-e-minaccia-bd08eed1a3db327b",
     "title": "Massacro in Ucraina: 20 morti in tre città e l'ONU registra il picco di vittime civili",
@@ -8975,21 +8992,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51d05ff3433a9514",
-    "slug": "openai-limita-menzioni-di-creature-mitiche-51d05ff3433a9514",
-    "title": "OpenAI censura unicorni e Draghi in Codex 2.1 per fermare l'11% di errori",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-04-30T04:59:33.780876+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/69f1c94a06d7c0d20dd19268/16:9/w_1280,c_limit/biz_gremlin_GettyImages-163004531.jpg",
-    "occhiello": "OPENIAI CENSURA MITI PER EVITARE ALLUCINAZIONI",
-    "lead_preview": "Roma, 30 aprile 2026. openai ha aggiunto un filtro automatico a codex 2.1, il suo ultimo modello di intelligenza artific",
-    "tags": [],
     "hero_eligible": true
   }
 ]
