@@ -1,5 +1,24 @@
 [
   {
+    "id": "38fbf91b871e336a",
+    "slug": "venezuela-7-famiglie-su-10-mangiano-a-malapena-con-38fbf91b871e336a",
+    "title": "Venezuela: 7 famiglie su 10 vivono con 3 dollari al giorno! La fame bussa, Maduro tace",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-08T08:03:37.978196+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/3/13/262d624ac6ebd1ed85ecc640ca3ce605.jpg",
+    "occhiello": "SETTE FAMIGLIE SU DIECI IN VENEZUELA CON 3 DOLLARI AL GIORNO",
+    "lead_preview": "SETTE FAMIGLIE SU DIECI IN VENEZUELA CON 3 DOLLARI AL GIORNO Caracas, 8 maggio. Sette famiglie su dieci in Venezuela viv",
+    "tags": [
+      "povertà venezuela",
+      "crisi maduro",
+      "fame venezuela"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n ",
@@ -303,25 +322,6 @@
       "sky sport fake",
       "calcio frode",
       "gol pre-registrati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "38fbf91b871e336a",
-    "slug": "venezuela-7-famiglie-su-10-mangiano-a-malapena-con-38fbf91b871e336a",
-    "title": "Venezuela: 7 famiglie su 10 mangiano a malapena con 3 dollari al giorno",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-08T08:03:37.978196+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/3/13/262d624ac6ebd1ed85ecc640ca3ce605.jpg",
-    "occhiello": "VENEZUELA, 7 FAMIGLIE SU 10 SOTTO LA SOGLIA DI POVERTÀ",
-    "lead_preview": "VENEZUELA, 7 FAMIGLIE SU 10 SOTTO LA SOGLIA DI POVERTÀ Caracas, 8 maggio 2026. Il numero che la propaganda ufficiale ven",
-    "tags": [
-      "crisi venezuelana",
-      "povertà venezuela",
-      "carestia venezuela"
     ],
     "hero_eligible": true
   },
