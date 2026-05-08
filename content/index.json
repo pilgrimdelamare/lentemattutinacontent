@@ -1,5 +1,23 @@
 [
   {
+    "id": "2ff2f298a7c3f921",
+    "slug": "convegno-fondazione-cini-poli-come-coperta-di-marm-2ff2f298a7c3f921",
+    "title": "22 Studiosi celebrano Poli ma negano le sue denunce sulla corruzione",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-08T10:04:49.813166+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/3/25/90ff96a14e6cd2ca55aa1559e2586103.jpg",
+    "occhiello": "VENEZIA: VENTIDUE STUDIOSI SVISCERANO IL GENIO DI PAOLO POLI ALLA CINI",
+    "lead_preview": "VENEZIA, 8 maggio Ventidue studiosi, due giorni di incontri alla Fondazione Giorgio Cini, e un nome che non compare in n",
+    "tags": [
+      "paolo poli",
+      "fondazione giorgio cini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "85e17f6b285b221d",
     "slug": "blindati-e-checkpoint-a-venezia-per-la-biennale-85e17f6b285b221d",
     "title": "17Mila soldati blindano Venezia: la Biennale chiude a Mestre per il padiglione israeliano",
@@ -1072,25 +1090,6 @@
       "sinner ofner roma",
       "internazionali bnl d'italia",
       "tennis atp"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2ff2f298a7c3f921",
-    "slug": "convegno-fondazione-cini-poli-come-coperta-di-marm-2ff2f298a7c3f921",
-    "title": "Venezia: ventidue studiosi sviscerano il genio di Paolo Poli alla Cini",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-08T10:04:49.813166+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/3/25/90ff96a14e6cd2ca55aa1559e2586103.jpg",
-    "occhiello": "PAOLO POLI A 10 ANNI DALLA MORTE",
-    "lead_preview": "Venezia, 8 maggio. Ventidue studiosi, un convegno alla Fondazione Giorgio Cini, due giorni di incontri per ricordare Pao",
-    "tags": [
-      "paolo poli",
-      "convegno venezia",
-      "genio teatrale"
     ],
     "hero_eligible": true
   },
