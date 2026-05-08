@@ -1,5 +1,23 @@
 [
   {
+    "id": "1dbf5fae961e12b5",
+    "slug": "calcio-linter-sborsa-9-milioni-in-due-anni-per-chi-1dbf5fae961e12b5",
+    "title": "Calcio: Inter vince Coppa Italia",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-07T17:27:44.218266+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/db92b52895e438245150bf60f20e2890.jpg",
+    "occhiello": "INTER SPENDE 9 MILIONI PER CHIVU",
+    "lead_preview": "Milano, 7 maggio. L'Inter si aggiudica la Coppa Italia per il settimo titolo della sua storia, ma la settimana successiv",
+    "tags": [
+      "coppa italia",
+      "inter campione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, venerdì 8 maggio 2026",
@@ -1224,24 +1242,6 @@
       "kiave",
       "carcere taranto",
       "rap dal carcere"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1dbf5fae961e12b5",
-    "slug": "calcio-linter-sborsa-9-milioni-in-due-anni-per-chi-1dbf5fae961e12b5",
-    "title": "Calcio: Inter spende 9 milioni per Chivu team manager, bilancio nerazzurro in tilt",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-07T17:27:44.218266+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/7/db92b52895e438245150bf60f20e2890.jpg",
-    "occhiello": "SETTE COPPE ITALIA E UN CONTABILI CHE PIANGONO",
-    "lead_preview": "Milano, 7 maggio L’Inter si aggiudica la Coppa Italia per il settimo titolo della sua storia, ma la settimana successiva",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   },
