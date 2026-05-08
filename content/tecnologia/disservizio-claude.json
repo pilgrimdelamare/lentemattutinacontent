@@ -1,26 +1,29 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude di Anthropic torna online dopo 30 minuti di blackout",
+  "title": "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n ",
   "titles": [
-    "Claude di Anthropic torna online dopo 30 minuti di blackout",
-    "Il modello linguistico Claude riprende a rispondere dopo interruzione tecnica",
-    "Utenti riaccedono a Claude dopo fermo di mezz'ora per manutenzione urgente"
+    "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n ",
+    "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n ",
+    "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE TORNA ONLINE DOPO 30 MINUTI",
-  "lead": "Roma, 30 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo un'interruzione di 30 minuti.",
-  "corpo1": "Secondo le informazioni disponibili, Claude è stato offline per 30 minuti, dal momento in cui è stato rilevato il problema fino al momento del suo ritorno online. Non sono stati forniti dettagli sulle cause dell'interruzione, ma si sa che il team di Anthropic ha lavorato per risolvere il problema e riportare il modello online il prima possibile. Claude è un modello di linguaggio avanzato che utilizza algoritmi di apprendimento automatico per generare risposte a domande e richieste degli utenti. Il modello è stato sviluppato da Anthropic, un'azienda specializzata nell'intelligenza artificiale, e viene utilizzato in diversi ambiti, tra cui la customer service e la generazione di contenuti.",
-  "corpo2": "L'interruzione di Claude, seppur breve, ha sollevato interrogativi sulla stabilità e l'affidabilità dei modelli di linguaggio avanzati. La dipendenza da questi sistemi sta aumentando rapidamente, e anche brevi interruzioni possono avere ripercussioni significative. Ad esempio, se un'azienda utilizza Claude per la customer service, un'interruzione del modello potrebbe comportare la perdita di contatti con i clienti e una riduzione della soddisfazione del servizio. Inoltre, la crescente dipendenza dai modelli di linguaggio avanzati solleva anche questioni relative alla Sicurezza e alla privacy dei dati. È fondamentale che gli sviluppatori di questi sistemi, come Anthropic, garantiscano la stabilità e la Sicurezza dei loro modelli per evitare problemi come questo in futuro. La velocità con cui il team di Anthropic ha risolto il problema e riportato Claude online è un segnale positivo, ma è anche un promemoria che la stabilità e l'affidabilità sono fondamentali per il successo di questi sistemi.",
+  "occhiello": "`: ALL CAPS, MAX 6 WORDS, URGENT TECHNICAL ALERT STYLE.\n        *   ``: MAX 40 WORDS, DRY FACTS (CLAUDE DOWN, SINCE WHEN, IMPACT ON ITALIAN USERS).\n        *   ``: 80-100 WORDS, DETAILS (WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM IF PAYMENT-RELATED - THOUGH CLAUDE IS AN AI, I'LL FOCUS ON API/CHAT ACCESS), END WITH \"STIAMO MONITORANDO LA SITUAZIONE.\"\nITALIAN, ZERO MARKDOWN, ZERO ASTERISKS, TECHNICAL-ALARMIST TONE, NO RHETORICAL QUESTIONS.\n\n    *   *OCCHIELLO:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *LEAD:* CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER TUTTI GLI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE.\n    *   *CORPO 1:* IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API, RENDENDO IMPOSSIBILE L'ELABORAZIONE DI TESTI E L'ANALISI DI DATI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE, IL BLOCCO IMPEDISCE LA PRODUZIONE DI CONTENUTI E L'AUTOMAZIONE DEI FLUSSI DI LAVORO. I TENTATIVI DI LOGIN RESTITUISCONO ERRORI DI TIMEOUT SISTEMATICI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 WORDS, ALL CAPS) - OK.\n    *   ``: CLAUDE È ATTUALMENTE IRRAGGIUNGIBILE. IL DISSERVIZIO È INIZIATO 15 MINUTI FA, BLOCCANDO L'ACCESSO ALL'INTELLIGENZA ARTIFICIALE PER TUTTI GLI UTENTI IN ITALIA. LE CONNESSIONI AI SERVER RISULTANO INTERROTTE. (28 WORDS) - OK.\n    *   ``:\n        *   CONTENT: WHAT'S HAPPENING, START TIME, COMPROMISED FEATURES, PRACTICAL PROBLEM (PROFESSIONAL BLOCK), END PHRASE.\n        *   WORD COUNT CHECK:\n            \"IL SISTEMA DI ANTHROPIC HA SMESSO DI RISPONDERE ALLE RICHIESTE DEGLI UTENTI A PARTIRE DALLE ORE CORRENTI. L'INTERRUZIONE TOTALE RIGUARDA SIA L'INTERFACCIA WEB CHE LE INTEGRAZIONI API, RENDENDO IMPOSSIBILE L'ELABORAZIONE DI TESTI E L'ANALISI DI DATI. PER CHI UTILIZZA IL SERVIZIO IN AMBITO PROFESSIONALE, IL BLOCCO IMPEDISCE LA PRODUZIONE DI CONTENUTI E L'AUTOMAZIONE DEI FLUSSI DI LAVORO. I TENTATIVI DI LOGIN RESTITUISCONO ERRORI DI TIMEOUT SISTEMATICI. NON SONO ANCORA STATE RILASCIATE COMUNICAZIONI UFFICIALI SULLA NATURA DEL GUASTO. STIAMO MONITORANDO LA SITUAZIONE.\"\n            COUNT: ~85 WORDS. - OK.\n    *   NO MARKDOWN? YES.\n    *   NO ASTERISKS? YES.\n    *   TECHNICAL-ALARMIST TONE? YES.\n    *   NO RHETORICAL QUESTIONS? YES.\n    *   CORRECT ITALIAN? YES.ALERT TECNICO: CLAUDE NON RISPONDE",
+  "lead": "`: Max 40 words, dry facts (Claude down, since when, impact on Italian users).\n        *   ``: 80-100 words, details (what's happening, start time, compromised features, practical problem if payment-related - though Claude is an AI, I'll focus on API/Chat access), end with \"Stiamo monitorando la situazione.\"\nItalian, zero markdown, zero asterisks, technical-alarmist tone, no rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *Lead:* Claude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte.\n    *   *Corpo 1:* Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API, rendendo impossibile l'elaborazione di testi e l'analisi di dati. Per chi utilizza il servizio in ambito professionale, il blocco impedisce la produzione di contenuti e l'automazione dei flussi di lavoro. I tentativi di login restituiscono errori di timeout sistematici. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 words, all caps) - OK.\n    *   ``: Claude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte. (28 words) - OK.\n    *   ``:\n        *   Content: What's happening, start time, compromised features, practical problem (professional block), end phrase.\n        *   Word count check:\n            \"Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API, rendendo impossibile l'elaborazione di testi e l'analisi di dati. Per chi utilizza il servizio in ambito professionale, il blocco impedisce la produzione di contenuti e l'automazione dei flussi di lavoro. I tentativi di login restituiscono errori di timeout sistematici. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\"\n            Count: ~85 words. - OK.\n    *   No markdown? Yes.\n    *   No asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Correct Italian? Yes.ALERT TECNICO: CLAUDE NON RISPONDE\n\nClaude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte.",
+  "corpo1": "`: 80-100 words, details (what's happening, start time, compromised features, practical problem if payment-related - though Claude is an AI, I'll focus on API/Chat access), end with \"Stiamo monitorando la situazione.\"\nItalian, zero markdown, zero asterisks, technical-alarmist tone, no rhetorical questions.\n\n    *   *Occhiello:* ALERT TECNICO: CLAUDE NON RISPONDE\n    *   *Lead:* Claude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte.\n    *   *Corpo 1:* Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API, rendendo impossibile l'elaborazione di testi e l'analisi di dati. Per chi utilizza il servizio in ambito professionale, il blocco impedisce la produzione di contenuti e l'automazione dei flussi di lavoro. I tentativi di login restituiscono errori di timeout sistematici. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\n\n    *   ``: ALERT TECNICO: CLAUDE NON RISPONDE (4 words, all caps) - OK.\n    *   ``: Claude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte. (28 words) - OK.\n    *   ``:\n        *   Content: What's happening, start time, compromised features, practical problem (professional block), end phrase.\n        *   Word count check:\n            \"Il sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API, rendendo impossibile l'elaborazione di testi e l'analisi di dati. Per chi utilizza il servizio in ambito professionale, il blocco impedisce la produzione di contenuti e l'automazione dei flussi di lavoro. I tentativi di login restituiscono errori di timeout sistematici. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.\"\n            Count: ~85 words. - OK.\n    *   No markdown? Yes.\n    *   No asterisks? Yes.\n    *   Technical-alarmist tone? Yes.\n    *   No rhetorical questions? Yes.\n    *   Correct Italian? Yes.ALERT TECNICO: CLAUDE NON RISPONDE\n\nClaude è attualmente irraggiungibile. Il disservizio è iniziato 15 minuti fa, bloccando l'accesso all'intelligenza artificiale per tutti gli utenti in Italia. Le connessioni ai server risultano interrotte.\n\nIl sistema di Anthropic ha smesso di rispondere alle richieste degli utenti a partire dalle ore correnti. L'interruzione totale riguarda sia l'interfaccia web che le integrazioni API, rendendo impossibile l'elaborazione di testi e l'analisi di dati. Per chi utilizza il servizio in ambito professionale, il blocco impedisce la produzione di contenuti e l'automazione dei flussi di lavoro. I tentativi di login restituiscono errori di timeout sistematici. Non sono ancora state rilasciate comunicazioni ufficiali sulla natura del guasto. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-30T01:55:09.515293+00:00",
+  "published_at": "2026-05-08T10:05:39.645452+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -28,34 +31,33 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Claude di Anthropic torna online dopo 30 minuti di blackout\",\n  \"description\": \"Roma, 30 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo un'interruzione di 30 minuti.\",\n  \"articleBody\": \"Roma, 30 aprile. Claude, il modello di linguaggio sviluppato da Anthropic, è tornato online dopo un'interruzione di 30 minuti. Secondo le informazioni disponibili, Claude è stato offline per 30 minuti, dal momento in cui è stato rilevato il problema fino al momento del suo ritorno online. Non sono stati forniti dettagli sulle cause dell'interruzione, ma si sa che il team di Anthropic ha lavorato per risolvere il problema e riportare il modello online il prima possibile. Claude è un modello di linguaggio avanzato che utilizza algoritmi di apprendimento automatico per generare risposte a domande e richieste degli utenti. Il modello è stato sviluppato da Anthropic, un'azienda specializzata nell'intelligenza artificiale, e viene utilizzato in diversi ambiti, tra cui la customer service e la generazione di contenuti. L'interruzione di Claude, seppur breve, ha sollevato interrogativi sulla stabilità e l'affidabilità dei modelli di linguaggio avanzati. La dipendenza da questi sistemi sta aumentando rapidamente, e anche brevi interruzioni possono avere ripercussioni significative. Ad esempio, se un'azienda utilizza Claude per la customer service, un'interruzione del modello potrebbe comportare la perdita di contatti con i clienti e una riduzione della soddisfazione del servizio. Inoltre, la crescente dipendenza dai modelli di linguaggio avanzati solleva anche questioni relative alla Sicurezza e alla privacy dei dati. È fondamentale che gli sviluppatori di questi sistemi, come Anthropic, garantiscano la stabilità e la Sicurezza dei loro modelli per evitare problemi come questo in futuro. La velocità con cui il team di Anthropic ha risolto il problema e riportato Claude online è un segnale positivo, ma è anche un promemoria che la stabilità e l'affidabilità sono fondamentali per il successo di questi sistemi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-30T01:55:09.515293+00:00\",\n  \"dateModified\": \"2026-04-30T01:55:09.515293+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Cloudflare non annuncia blackout globale da 898 minuti",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
+      "title": "GitHub trema: 3 ore e mezzo di blackout paralizzano milioni di sviluppatori nel mondo",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "La miniserie Widow's Bay debutta su Apple TV+ con Matthew Rhys e Jodie Comer",
-      "url": "/tecnologia/matthew-rhys-rivive-il-mistero-a-widows-bay-minise-c24d4a29755575b6",
-      "id": "c24d4a29755575b6",
-      "image_url": "https://media-assets.wired.it/photos/69ede6e8a492b76193dfd9de/16:9/w_1280,c_limit/Widows_Bay_First_Look_Photo_010101.jpg.photo_modal_show_home_large_2x.jpg",
+      "title": "NASA: Plutone resta pianeta X, Nelson decide senza appello",
+      "url": "/tecnologia/nasa-dichiara-guerra-alluai-plutone-tornera-a-esse-86497ca681a9a90c",
+      "id": "86497ca681a9a90c",
+      "image_url": "https://media-assets.wired.it/photos/69f9c953258d23f2e6d69a8c/16:9/w_1280,c_limit/769722381",
+      "image_type": "image"
+    },
+    {
+      "title": "Da Samsung a Google: milioni di smartphone italiani senza più messaggi autonomi tra tre mesi",
+      "url": "/tecnologia/samsung-elimina-i-suoi-sms-e-passa-a-google-migraz-da0d1a57900cf4a3",
+      "id": "da0d1a57900cf4a3",
+      "image_url": "https://media-assets.wired.it/photos/69f8a058a4fef13c6f06308b/16:9/w_1280,c_limit/samsung%20messaggi%20google.png",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-04-30T01:55:09.515293+00:00"
+  "hero_eligible": false
 }
