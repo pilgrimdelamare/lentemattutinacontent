@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude di Anthropic va giù per 40 minuti: 3.200 utenti in crisi in Europa e USA",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-05-08T10:31:17.818410+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "Anthropic ripristina i servizi di Claude dopo 40 minuti di disservizio",
+    "lead_preview": "San Francisco, 8 maggio 2026. Anthropic ha riattivato i servizi di Claude dopo un disservizio registrato alle 14:17 ora ",
+    "tags": [
+      "disservizio claude",
+      "anthropic",
+      "crisi claude"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5fb22ef406cc7f57",
     "slug": "fuga-di-imprese-180-aziende-tagliano-i-posti-per-i-5fb22ef406cc7f57",
     "title": "180 Licenziamenti in un mese, il verde diventa giallo",
@@ -404,25 +423,6 @@
       "bundesliga sky"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude ha ripreso le operazioni regolari dopo 40 minuti di disservizio. Il monit",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-05-08T10:31:17.818410+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SISTEMA RISOLTO IN TEMPISTICA",
-    "lead_preview": "Claude ha ripreso le operazioni regolari dopo 40 minuti di disservizio. Il monitoraggio è stato ripristinato senza perdi",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "540a5107d39188bb",
