@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude Down per 40 minuti: 3.200 utenti colpiti da disservizio",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-05-08T10:31:17.818410+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "ANTHROPIC SPEGNE CLAUDE PER 40 MINUTI",
+    "lead_preview": "ANTHROPIC SPEGNE CLAUDE PER 40 MINUTI San Francisco, 8 maggio. Alle 14:17 ora locale — corrispondenti alle 23:17 in Ital",
+    "tags": [
+      "anthropic",
+      "disservizio",
+      "claudedown"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8da522725e894eb8",
     "slug": "milly-carlucci-porta-ballando-on-the-road-in-17-ta-8da522725e894eb8",
     "title": "Carlucci investe 4 milioni: Ballando fa il tour in 22 città con 200 ballerini",
@@ -1111,25 +1130,6 @@
     "occhiello": "CITTADINANZA ONORARIA A UN BATTERISTA DI NEW YORK",
     "lead_preview": "Castiglion Fiorentino, 8 maggio. La giunta comunale di Castiglion Fiorentino ha deliberato la concessione della cittadin",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude di Anthropic va giù per 40 minuti: 3.200 utenti in crisi in Europa e USA",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-08T10:31:17.818410+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "Anthropic ripristina i servizi di Claude dopo 40 minuti di disservizio",
-    "lead_preview": "San Francisco, 8 maggio 2026. Anthropic ha riattivato i servizi di Claude dopo un disservizio registrato alle 14:17 ora ",
-    "tags": [
-      "disservizio claude",
-      "anthropic",
-      "crisi claude"
-    ],
     "hero_eligible": true
   },
   {
