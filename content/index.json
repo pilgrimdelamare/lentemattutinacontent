@@ -1,5 +1,24 @@
 [
   {
+    "id": "6610e4934fdd9c5f",
+    "slug": "spalletti-smentisce-i-numeri-lecce-strappa-la-vitt-6610e4934fdd9c5f",
+    "title": "Calcio: Buonanotte doppietta da eroe, Spalletti affossa Allegri e risale la china",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-07T17:13:03.511594+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/355ee57fff167382214618ac6866fc26.jpg",
+    "occhiello": "SPALLETTI FA TAULI JUVE CON BAENA E CAMBIASO",
+    "lead_preview": "Lecce, 7 maggio. Il Lecce di Luciano Spalletti ha battuto 2-1 la Juventus al Via del Mare, affondando con un colpo secco",
+    "tags": [
+      "calcio serie a",
+      "juve lecce",
+      "buonanotte doppietta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a5880fc8c01fabba",
     "slug": "motogp-roglic-ducati-spara-in-cielo-il-marketing-v-a5880fc8c01fabba",
     "title": "MotoGP: Roglič diventa Ducati a 3,2 milioni, debutto alla Pramac",
@@ -1188,25 +1207,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6610e4934fdd9c5f",
-    "slug": "spalletti-smentisce-i-numeri-lecce-strappa-la-vitt-6610e4934fdd9c5f",
-    "title": "Calcio: Baena e Cambiaso umiliano la Juventus da 200 milioni a Via del Mare",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-07T17:13:03.511594+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/355ee57fff167382214618ac6866fc26.jpg",
-    "occhiello": "LECCE, 7 MAGGIO: LA CHAMPIONS PIANGE",
-    "lead_preview": "Lecce, 7 maggio. Il Lecce di Luciano Spalletti ha battuto 2-1 la Juventus al Via del Mare, affondando con un colpo secco",
-    "tags": [
-      "calcio lecce juventus",
-      "via del mare 2-1",
-      "sogni champions juventus"
     ],
     "hero_eligible": true
   },
