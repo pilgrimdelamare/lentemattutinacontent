@@ -1,5 +1,24 @@
 [
   {
+    "id": "16bc92d4f2d128c7",
+    "slug": "al-rossetti-di-trieste-lanteprima-del-musical-il-p-16bc92d4f2d128c7",
+    "title": "Trieste spende 120mila per un musical: 85mila al Rossetti, biglietti da 150 euro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-08T17:29:23.944771+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/e7528eb4b14c27ee3b3c5167a20a77e8.jpg",
+    "occhiello": "TRIESTE AFFIDA ALLA FANTASIA IL RINNOVAMENTO CULTURALE",
+    "lead_preview": "Trieste, 14 maggio. Da oggi al 17 maggio il Teatro Rossetti ospita l’anteprima italiana del musical Il principe d’Egitto",
+    "tags": [
+      "musical principe egitto",
+      "spesa teatro rossetti",
+      "trieste cultura"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "21d7b01f7f6266c1",
     "slug": "calcio-barcellona-campione-per-142-milioni-in-piu-21d7b01f7f6266c1",
     "title": "Barcellona campione per 142 milioni di euro in più del real madrid",
@@ -408,24 +427,6 @@
     "tags": [
       "guerra iran",
       "attacco golfo persico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "16bc92d4f2d128c7",
-    "slug": "al-rossetti-di-trieste-lanteprima-del-musical-il-p-16bc92d4f2d128c7",
-    "title": "Al rossetti di trieste l'anteprima del musical il principe d'egitto",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-08T17:29:23.944771+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/e7528eb4b14c27ee3b3c5167a20a77e8.jpg",
-    "occhiello": "AL ROSSETTI DI TRIESTE L'ANTEPRIMA DEL MUSICAL IL PRINCIPE D'EGITTO",
-    "lead_preview": "TRIESTE, 14 maggio Dal 14 al 17 maggio, il teatro Rossetti di Trieste ospita l’anteprima italiana del musical Il Princip",
-    "tags": [
-      "musical il principe d'egitto trieste",
-      "anteprima teatri rossetti trieste"
     ],
     "hero_eligible": true
   },
