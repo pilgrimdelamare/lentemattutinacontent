@@ -1,5 +1,24 @@
 [
   {
+    "id": "b8ff411f8b7491de",
+    "slug": "gas-naturale-a-rialzo-44-euro-al-megawattora-sul-t-b8ff411f8b7491de",
+    "title": "Gas impenna a 44 euro: la bolletta di casa salga presto di 30 euro al mese",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-08T07:33:16.068053+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/4/22/197c821c96e231f96d7fbea86ec0fbf4.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 8 maggio. Il prezzo del gas naturale ha aperto in rialzo dell’1,1% a 44 euro al megawattora sul TTF di Amsterdam, ",
+    "tags": [
+      "bollette energia",
+      "prezzi gas",
+      "mercato energetico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5fb22ef406cc7f57",
     "slug": "fuga-di-imprese-180-aziende-tagliano-i-posti-per-i-5fb22ef406cc7f57",
     "title": "Fuga di imprese: 180 aziende tagliano i posti per il green, +22% di delocalizzazioni",
@@ -251,25 +270,6 @@
       "prezzi gas",
       "bollette energia",
       "mercato energetico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8ff411f8b7491de",
-    "slug": "gas-naturale-a-rialzo-44-euro-al-megawattora-sul-t-b8ff411f8b7491de",
-    "title": "Gas naturale a rialzo: 44 euro al megawattora sul TTF di Amsterdam, colpi alle bollette",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-08T07:33:16.068053+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/4/22/197c821c96e231f96d7fbea86ec0fbf4.jpg",
-    "occhiello": "GAS IN RIALZO A 44 EURO, L'ULTIMA MAZZATA SULLA BOLLETTA FAMILIARE",
-    "lead_preview": "Roma, 8 maggio. Il prezzo del gas naturale ha aperto in rialzo del 1,1% a 44 euro al megawattora sul TTF di Amsterdam, s",
-    "tags": [
-      "gas naturale rialzo",
-      "bollette energetiche",
-      "prezzo gas"
     ],
     "hero_eligible": true
   },
