@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 7 maggio 2026",
+  "title": "Le prime pagine di oggi, venerdì 8 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 7 maggio 2026",
-    "Le prime pagine di oggi, giovedì 7 maggio 2026",
-    "Le prime pagine di oggi, giovedì 7 maggio 2026"
+    "Le prime pagine di oggi, venerdì 8 maggio 2026",
+    "Le prime pagine di oggi, venerdì 8 maggio 2026",
+    "Le prime pagine di oggi, venerdì 8 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 7 MAGGIO 2026",
-  "lead": "Le prime pagine di oggi, 7 maggio 2026, convergono su diversi temi di rilievo: la guerra in Ucraina-Russia, il conflitto in Medio Oriente e le tensioni tra Usa e Iran, e il caso di Garlasco, con particolare attenzione agli \"audio shock\" di Sempio. Anche il ricordo di Evaristo Beccalossi e la Champions League dominano la scena. Il panorama politico e il calcio italiano completano le notizie principali.",
-  "corpo1": "Il Corriere della Sera apre con il conflitto in Medio Oriente, mettendo in evidenza il piano di Trump per una tregua, mentre Teheran frena, e l'attacco Usa a una petroliera iraniana nel Golfo di Hormuz. Il caso di Garlasco è presente con \"Sempio, gli audio e le accuse\", focalizzandosi sull'intercettazione del 2025 dove l'indagato avrebbe riferito di aver visto i video di Chiara e Stasi. La Stampa titola \"Trump-Iran, prove d'intesa\" con un piano in 14 punti, ma Trump sottolinea l'intenzione di chiudere prima dell'incontro con Xi. L'indagine di Garlasco è al centro anche della Gazzetta dello Sport, che evidenzia l'audio shock contro Sempio e l'intercettazione in auto. Il Sole 24 Ore, invece, dedica spazio al ricordo di Evaristo Beccalossi, definito \"L'ultimo dribbling\", e al futuro di Rafael Leao al Milan. La Repubblica si concentra sui risultati della Champions League con il Psg pronta per la finale e il futuro delle panchine in Serie A, sottolineando anche il lutto per Beccalossi. Il Giornale riporta il futuro del Torino con la possibile triennale per Gattuso e le parole di Pantaleo Corvino su Vlahovic. Il Messaggero mette in evidenza la politica con il governo in difficoltà e il vertice diviso tra Meloni, Salvini e Tajani.",
-  "corpo2": "Il Fatto Quotidiano riporta il colpo di scena di Garlasco con l'audio che mostra Sempio come respinto da Chiara e la grazia a Minetti che porta Nordio ad attaccare Mediaset. La cronaca sportiva è presente con il Milan e Leao, mentre il calcio internazionale è in primo piano con la Champions League. Il tema dominante della giornata è la convergenza su eventi internazionali di rilievo e il caso di Garlasco, con il ricordo di Evaristo Beccalossi a completare il quadro.",
+  "occhiello": "LE PRIME PAGINE 8 MAGGIO 2026. GUERRA IN UCRAINA",
+  "lead": "La scena italiana e internazionale è dominata oggi dalla visita del Papa in Vaticano, dove ha incontrato il senatore statunitense Marco Rubio. I giornali titolano in apertura su questo evento, che si è svolto nel solco della tradizionale politica di dialogo e pace della Chiesa cattolica. Il caso Garlasco, che ha visto la chiusura dell'inchiesta e l'individuazione del colpevole, è un altro tema che occupa ampi spazi sulla stampa nazionale. Alcuni giornali dedicano invece ampio spazio alla guerra in Ucraina e ai suoi sviluppi.",
+  "corpo1": "3 Guerra Ucraina-Russia titola la prima pagina, mentre il caso Garlasco è in apertura su 4 La Repubblica, con l'incontro del Papa e Rubio. Il titolo è \"Leone vede Rubio: dialogo e pace\". Il caso Garlasco è in primo piano anche su 4 La Repubblica, con l'analisi \"Tranquillità (e fermezza). Così il Papa si è 'svelato'\". Sull'argomento del caso Garlasco inoltre, 5 Corriere della Sera titola \"Monito del Papa a Rubio 'Lavorare per la pace'\". In primo piano anche il caso Garlasco con \"Chiusa l'inchiesta 'Ha ucciso Chiara. Sempio a processo'\". Al centro spazio al tennis con \"Sinner, bagno di folla a Roma\". 12 l'Unità titola \"Caso Minetti, una bufala: 'Grazia, tuttavia senza colpe'\".",
+  "corpo2": "Altri titoli di rilievo appaiono su 6 La Stampa, con \"Conti, Bruxelles apre all'Italia\" e \"Perché il Pnrr non ha funzionato\". 9 L'Espresso titola \"Giriamo\", con \"Vingegaard è favorito. Vuole la tripla corona dopo Tour e Vuelta. Pellizzari fa sperare l'Italia dopo 10 anni\". 1 Il Sole 24 Ore titola \"Borse, il Dow Jones tocca 50mila punti\". Il tema dominante della giornata è la guerra in Ucraina e i suoi sviluppi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-07T05:47:11.722737+00:00",
+  "published_at": "2026-05-08T05:45:47.567048+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/d164a351d4b3ba3ea01ed0e6dd10cfb993969bd9/skytg24/it/cronaca/2026/05/07/prime-pagine-quotidiani-oggi-7-maggio/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/0ec8468c66b4357fa75adc56a2517064ca36c0e4/skytg24/it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio/rassegna8maggio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,14 +35,21 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/07/prime-pagine-quotidiani-oggi-7-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 7 maggio 2026",
+      "title": "Oroscopo di oggi, venerdì 8 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "Mosca intimisce dodici Stati: evacuano il personale diplomatico entro venerdì",
+      "url": "/esteri/mosca-minaccia-ambasciate-occidentali-davanti-a-v-557dcb2e33cfe5bc",
+      "id": "557dcb2e33cfe5bc",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/405b66ac05b7549f6f022f586860f6c0.jpg",
+      "image_type": "image"
     },
     {
       "title": "Prime Video sostiene il documentario antipopolismo con 3 milioni di euro",
@@ -50,13 +57,6 @@
       "id": "115ed066c1171c53",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/74915342f5261a5f2a75df0fe33c0a44.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "Livorno, 4 maggio: diego collaveri pubblica thriller psicologico con protagonista il commissario botteghi",
-      "url": "/cultura/libro-del-giorno-livorno-trema-la-vendetta-del-commissa-20260504",
-      "id": "libro-20260504",
-      "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/61b0rugk6rl-9af4e.jpg?1776243673",
-      "image_type": "url"
     }
   ],
   "hero_eligible": true
