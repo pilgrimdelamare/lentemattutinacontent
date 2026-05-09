@@ -1,5 +1,24 @@
 [
   {
+    "id": "5175611e0aafb95a",
+    "slug": "attentato-evitato-al-kremlin-5175611e0aafb95a",
+    "title": "Ordigno disinnescato in piazza Rossa: evacuata via Tverskaja",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-09T00:55:43.491779+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/e006bd055b5d3757c0cbde86627f688d.jpg",
+    "occhiello": "Un ordigno esplosivo disinnescato a Mosca",
+    "lead_preview": "Mosca, 9 maggio. Un ordigno esplosivo è stato disinnescato questa mattina nel sottosuolo della piazza Rossa, a poche cen",
+    "tags": [
+      "ordigno piazza rossa",
+      "disinnesco mosca",
+      "allerta 9 maggio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7a64ad7da47f6920",
     "slug": "femmina-di-42-anni-trasporta-hantavirus-da-un-aere-7a64ad7da47f6920",
     "title": "42Enne di Catalogna a rischio Hantavirus dopo viaggio con vittima",
@@ -377,21 +396,6 @@
       "torino",
       "bologna"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5175611e0aafb95a",
-    "slug": "attentato-evitato-al-kremlin-5175611e0aafb95a",
-    "title": "Attentato evitato al kremlin",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-09T00:55:43.491779+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/e006bd055b5d3757c0cbde86627f688d.jpg",
-    "occhiello": "ATTENTATO EVITATO AL KREMLIN",
-    "lead_preview": "Mosca, 9 maggio.",
-    "tags": [],
     "hero_eligible": true
   },
   {
