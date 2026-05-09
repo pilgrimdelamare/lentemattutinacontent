@@ -1,5 +1,23 @@
 [
   {
+    "id": "017a8ff544dd1ffa",
+    "slug": "mimit-aumenta-benzina-e-gasolio-il-prezzo-sale-a-1-017a8ff544dd1ffa",
+    "title": "Mimit aumenta benzina e gasolio, il prezzo sale a 1,931 euro al litro",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-09T10:55:09.948485+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/26/b3706f41ed732132688c0c80a7999f77.jpg",
+    "occhiello": "CARBURANTI AI PREZZI DEL 2023",
+    "lead_preview": "Roma, 9 maggio 2026. Mimit, benzina a 1,931 euro al litro, gasolio a 2,015. In autostrada la verde self sale a 2,001 eur",
+    "tags": [
+      "carburanti",
+      "prezzi benzina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "23e47f4033e7abf1",
     "slug": "zaccagni-escluso-da-bologna-e-finale-coppa-italia-23e47f4033e7abf1",
     "title": "Zaccagni escluso da Bologna e finale Coppa Italia per infortunio muscolare",
@@ -8985,21 +9003,6 @@
       "tag1",
       "tag2"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e121e86674c48f0",
-    "slug": "ucraina-perde-17mila-soldati-in-3-mesi-berlino-acc-4e121e86674c48f0",
-    "title": "17Mila morti ucraini in due mesi: il massacro al fronte travolge Kiev",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-04-30T14:36:09.296945+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/7c2561629134ecfa69863016dd0f887a.jpg",
-    "occhiello": "DUE MESI DI FURIA COSTANO 17MILA CADUTI",
-    "lead_preview": "DUE MESI DI FURIA COSTANO 17MILA CADUTI Kiev, 30 aprile. Il ministero della Difesa ucraino ha reso noto stamane che in a",
-    "tags": [],
     "hero_eligible": true
   }
 ]
