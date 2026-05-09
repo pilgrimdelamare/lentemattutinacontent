@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa9b488d619fedd3",
+    "slug": "tennis-mertens-batte-paolini-in-3-set-fa9b488d619fedd3",
+    "title": "Tennis: Mertens batte Paolini in 3 set",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-09T14:09:31.309686+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/262f91660cba880594395e86feb43fe9.jpg",
+    "occhiello": "PAOLINI FUORI, MERTENS VINCE E AVANZA",
+    "lead_preview": "PAOLINI FUORI, MERTENS VINCE E AVANZA A Roma, il 9 maggio, Jasmine Paolini è stata eliminata agli Internazionali BNL d'I",
+    "tags": [
+      "tennis roma",
+      "internazionali bnl",
+      "paolini vs mertens"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "21d7b01f7f6266c1",
     "slug": "calcio-barcellona-campione-per-142-milioni-in-piu-21d7b01f7f6266c1",
     "title": "Calcio: Barcellona campione con un punto di vantaggio, Real Madrid secondo per uno",
@@ -8965,25 +8984,6 @@
     "tags": [
       "moto gp",
       "wildcard"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "73c772cb14d697c6",
-    "slug": "tennis-sinner-sfida-fils-in-semifinale-a-madrid-73c772cb14d697c6",
-    "title": "Sinner taglia fils in semifinale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-30T13:57:23.848394+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6ecb421a1e22ed756ffc300432bfeaaf0c13513c/skysport/it/tennis/2026/04/30/fils-sinner-avversario-madrid-open-2026-chi-e/getty_fils.jpg",
-    "occhiello": "SINNER TAGLIA FILS IN SEMIFINALE",
-    "lead_preview": "Madrid, 30 aprile. Jannik Sinner ha battuto Grigor Dimitrov 6-4 6-2 in un’ora e cinquantadue minuti nella semifinale del",
-    "tags": [
-      "madrid open 2024",
-      "sinner semifinale",
-      "tennis maschile"
     ],
     "hero_eligible": true
   }
