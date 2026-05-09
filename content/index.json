@@ -1,5 +1,24 @@
 [
   {
+    "id": "c3fc5ca076453729",
+    "slug": "calcio-fiorentina-e-genoa-si-sfidano-per-la-salvez-c3fc5ca076453729",
+    "title": "Calcio: Vincenzo Italiano sull'orlo del baratro, la Fiorentina va a genetliaca",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-09T17:38:33.662565+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/2ec83a6596b7e053058374dbdad0195c.jpg",
+    "occhiello": "VENTOTTO MINUTI PER EVITARE IL BARATRO",
+    "lead_preview": "Firenze, 9 maggio. Allo stadio Artemio Franchi si gioca l’atto finale di una stagione che la Fiorentina di Vincenzo Ital",
+    "tags": [
+      "calcio",
+      "fiorentina",
+      "italiano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "457999c9dbcb11d0",
     "slug": "calcio-bayern-munich-fuori-dalla-champions-per-la-457999c9dbcb11d0",
     "title": "Calcio: Bayern Munich fuori dalla Champions per la prima volta dopo 15 anni",
@@ -236,25 +255,6 @@
       "vitamina k neonati",
       "salute neonatale",
       "protesta medici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c3fc5ca076453729",
-    "slug": "calcio-fiorentina-e-genoa-si-sfidano-per-la-salvez-c3fc5ca076453729",
-    "title": "Calcio: Fiorentina e Genoa si sfidano per la salvezza allo stadio Franchi",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-09T17:38:33.662565+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/2ec83a6596b7e053058374dbdad0195c.jpg",
-    "occhiello": "FIORENTINA-GENOA, BATTAGLIA PER LA SALVEZZA",
-    "lead_preview": "Firenze, 9 maggio. Fiorentina e Genoa si affrontano al Franchi in una partita che vale un punto salvezza per i padroni d",
-    "tags": [
-      "fiorentina-genova",
-      "salvezza-seriea",
-      "partita-per-la-salvezza"
     ],
     "hero_eligible": true
   },
