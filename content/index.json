@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260509",
+    "slug": "libro-del-giorno-una-brava-ragazzadi-aria-aber-20260509",
+    "title": "Il libro del giorno: «Una brava ragazzadi Aria Aber»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo di formazione che sceglie la via dell’autodistruzione, una storia in bilico tra identità, desiderio e dipende",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-09T07:00:26.794980+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
+      "alt": "Copertina: Una brava ragazzadi Aria Aber",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "38fbf91b871e336a",
     "slug": "venezuela-7-famiglie-su-10-mangiano-a-malapena-con-38fbf91b871e336a",
     "title": "Venezuela, 7 famiglie su 10 con meno di 3 dollari al giorno",
@@ -8978,21 +8997,6 @@
       "carta identità",
       "circo massimo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eda316a2ef068d2c",
-    "slug": "prime-video-lancia-il-cast-di-lol-halloween-specia-eda316a2ef068d2c",
-    "title": "Prime Video piazza Maccio Capatonda nel LOL Halloween 2026: la sfida comica che spopola",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-04-30T12:57:39.719968+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/08788f2d815c04724484b220dbb14dba.jpg",
-    "occhiello": "AMAZON PREMIUM VIDEO SPOSA MACCIO CAPATONDA PER LO SPECIALE DI HALLOWEEN",
-    "lead_preview": "Roma, 30 aprile. Amazon Prime Video ha annunciato il nuovo speciale LOL Halloween Special con Marcello Macchia, in arte ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
