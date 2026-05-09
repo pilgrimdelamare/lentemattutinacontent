@@ -1,5 +1,24 @@
 [
   {
+    "id": "0ecca62368a52231",
+    "slug": "tennis-sorana-cirstea-sbarazza-aryna-sabalenka-da-0ecca62368a52231",
+    "title": "Tennis: Sorana Cîrstea sbarazza Aryna Sabalenka da Roma",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-09T16:42:04.766377+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/26/d5d291cb81474544892f5b5c1b851cb2.jpg",
+    "occhiello": "LA N.1 DEL MONDO ELIMINATA AGLI OTAVI DI FINALE",
+    "lead_preview": "Roma, 9 maggio 2026. Aryna Sjarheeŭna Sabalenka, numero uno del ranking Wta, è stata eliminata agli ottavi di finale deg",
+    "tags": [
+      "tennis",
+      "internazionali d'italia",
+      "sorana cirstea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ccd6c97c2bab51ca",
     "slug": "basket-anthony-edwards-sfiora-il-grand-slam-32-pun-ccd6c97c2bab51ca",
     "title": "Basket: Edwards gioca con 38 minuti e 32 punti nonostante l'influenza, ma i Timberwolves perdono",
@@ -8953,21 +8972,6 @@
       "voto federcalcio",
       "sindacati calcio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9684f8fe7c077a87",
-    "slug": "ciclismo-pogacar-trionfa-a-losanna-e-allunga-in-cl-9684f8fe7c077a87",
-    "title": "Ciclismo: Pogačar distrugge Losanna, vince con 18 secondi di vantaggio su Colbrelli",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-30T16:22:25.824149+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/77bbf940d2f7182afe9a675fe79de930.jpg",
-    "occhiello": "POGAČAR, NESSUNO RESISTE A LOSANNA",
-    "lead_preview": "POGAČAR, NESSUNO RESISTE A LOSANNA Losanna, 30 aprile. Tadej Pogačar ha vinto la prova in linea su strada a Losanna, dom",
-    "tags": [],
     "hero_eligible": true
   }
 ]
