@@ -1,5 +1,24 @@
 [
   {
+    "id": "7a64ad7da47f6920",
+    "slug": "femmina-di-42-anni-trasporta-hantavirus-da-un-aere-7a64ad7da47f6920",
+    "title": "42Enne di Catalogna a rischio Hantavirus dopo viaggio con vittima",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-09T00:43:10.668887+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/422255d0755be23467044c9e819f23f3.jpg",
+    "occhiello": "DONNA DI 42 ANNI INFECTA IN VOLO",
+    "lead_preview": "Barcellona, 9 maggio. Una donna residente in Catalogna è risultata positiva al contatto con l’Hantavirus dopo aver viagg",
+    "tags": [
+      "hantavirus",
+      "volo",
+      "sudafrica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fca550ff0b03b107",
     "slug": "vanzina-stacca-i-giovani-spariti-dal-cinema-italia-fca550ff0b03b107",
     "title": "Vanzina fulmina il cinema: solo 7 giovani su 100 al cinema, i soldi finiscono ai pensionati",
@@ -406,24 +425,6 @@
       "cittadinanza onoraria marky ramone",
       "spesa comunale castiglion fiorentino",
       "tributo a marky ramone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7a64ad7da47f6920",
-    "slug": "femmina-di-42-anni-trasporta-hantavirus-da-un-aere-7a64ad7da47f6920",
-    "title": "Femmina di 42 anni trasporta Hantavirus da un aereo all'altro",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-09T00:43:10.668887+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/422255d0755be23467044c9e819f23f3.jpg",
-    "occhiello": "VIRUS IN VOLO, CONTAGIO TRA BARCELLONA E L’ATLANTICO",
-    "lead_preview": "Barcellona, 9 maggio. Una donna di 42 anni è risultata positiva al contatto con l'Hantavirus a Barcellona, secondo quant",
-    "tags": [
-      "hantavirus",
-      "virus in volo"
     ],
     "hero_eligible": true
   },
