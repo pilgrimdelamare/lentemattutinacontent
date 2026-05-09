@@ -1,5 +1,24 @@
 [
   {
+    "id": "60c8fe9166f7e2a3",
+    "slug": "serie-b-lancia-la-coppa-nexus-tre-vincitori-un-sol-60c8fe9166f7e2a3",
+    "title": "Serie B lancia la Coppa Nexus: tre vincitori, un solo trofeo annuncia Bedin",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-09T12:04:01.368928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/6f46baffae4bd84ec79c0558dd45c6c4.jpg",
+    "occhiello": "COPPA NEXUS, NUOVO TROFEO PER LA SERIE B",
+    "lead_preview": "Roma, 9 maggio 2026. Il Presidente della Lega Serie B, Mauro Bedin, annuncia l’istituzione della Coppa Nexus, nuovo trof",
+    "tags": [
+      "serie b coppa nexus",
+      "lega serie b",
+      "trofeo calcio 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "deac4f201bae8093",
     "slug": "motogp-zarco-domina-le-mans-per-0006-deac4f201bae8093",
     "title": "MotoGP: Zarco batte Martín di 177 millesimi nelle prequalifiche del Gp di Francia",
@@ -8975,24 +8994,6 @@
       "ms-dos github",
       "storia informatica",
       "86-dos originale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1789d7889013a9bf",
-    "slug": "gabriele-gravina-minaccia-le-dimissioni-se-malago-1789d7889013a9bf",
-    "title": "Gravina minaccia di dimettersi se AIC e AIAC bloccano la riforma TV",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-30T16:15:32.422363+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/22/ba503e009329c4bdd2f2984ad6b479d2.jpg",
-    "occhiello": "GRAVINA NEL MIRINO DEI CLUB",
-    "lead_preview": "Roma, 30 aprile. Il Presidente della FIGC Gabriele Gravina avrebbe dichiarato ai vertici delle sue direzioni tecniche di",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
