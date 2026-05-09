@@ -1,5 +1,24 @@
 [
   {
+    "id": "768d7b37e0d5c4cc",
+    "slug": "calcio-daversa-rilancia-il-torino-in-lotta-per-la-768d7b37e0d5c4cc",
+    "title": "Calcio: Torino gioca con il fuoco a d'Aversa",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-08T21:49:44.087380+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/5bae545e324b579429009ff6dc0eb0a6.jpg",
+    "occhiello": "TORINO GIOCA CON IL FUOCO A D’AVERSA",
+    "lead_preview": "TORINO GIOCA CON IL FUOCO A D’AVERSA torino, 8 maggio — Il Torino ha perso 0-2 in casa contro il Bologna, ma la sconfitt",
+    "tags": [
+      "calcio",
+      "torino",
+      "bologna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5175611e0aafb95a",
     "slug": "attentato-evitato-al-kremlin-5175611e0aafb95a",
     "title": "Attentato evitato al kremlin",
@@ -371,25 +390,6 @@
       "calcio",
       "guardiola",
       "arsenal"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "768d7b37e0d5c4cc",
-    "slug": "calcio-daversa-rilancia-il-torino-in-lotta-per-la-768d7b37e0d5c4cc",
-    "title": "Calcio: D’Aversa rilancia il Torino in lotta per la salvezza dopo il -2 con il Bologna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-08T21:49:44.087380+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/5bae545e324b579429009ff6dc0eb0a6.jpg",
-    "occhiello": "D'AVERSA, 'VOGLIAMO PORTARE IL TORINO PIÙ IN ALTO POSSIBILE'",
-    "lead_preview": "Aversa, 8 maggio Il Torino, dopo la sconfitta interna contro il Bologna (0-2) che ha lasciato la squadra granata a due g",
-    "tags": [
-      "salvezza torino",
-      "daversa torino",
-      "torino bologna"
     ],
     "hero_eligible": true
   },
