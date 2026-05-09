@@ -1,5 +1,23 @@
 [
   {
+    "id": "5fb22ef406cc7f57",
+    "slug": "fuga-di-imprese-180-aziende-tagliano-i-posti-per-i-5fb22ef406cc7f57",
+    "title": "Greentech licenzia 180 tra Milano e Napoli",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-08T09:37:32.438360+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/32ce003b9fed38bdafaf697ea320f907.jpg",
+    "occhiello": "GREENTECH TAGLIA 180 POSTI: RIPROFILAMENTO A MILANO E NAPOLI",
+    "lead_preview": "Milano, 8 maggio. La società Greentech annuncia la riduzione di 180 posti di lavoro a tempo indeterminato in sole quattr",
+    "tags": [
+      "greentech",
+      "licenziamenti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "336a782c03c0e8a1",
     "slug": "tennis-con-12-vincenti-per-set-lazzurra-cocciarett-336a782c03c0e8a1",
     "title": "Tennis: Elisabetta Cocciaretto travolge Muguruza con doppio ace",
@@ -1111,25 +1129,6 @@
       "anthropic",
       "disservizio",
       "claudedown"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5fb22ef406cc7f57",
-    "slug": "fuga-di-imprese-180-aziende-tagliano-i-posti-per-i-5fb22ef406cc7f57",
-    "title": "GreenTech taglia 180 posti: chiusure a Milano e Napoli per ‘riposizionamento’",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-08T09:37:32.438360+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/32ce003b9fed38bdafaf697ea320f907.jpg",
-    "occhiello": "180 POSTI TAGLIATI IN UN MESE",
-    "lead_preview": "180 POSTI TAGLIATI IN UN MESE Roma, 8 maggio. Il vento del greenwashing soffia duro sui contratti a tempo indeterminato.",
-    "tags": [
-      "licenziamenti greentech",
-      "greenwashing aziende",
-      "riposizionamento green tech"
     ],
     "hero_eligible": true
   },
