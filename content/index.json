@@ -1,5 +1,24 @@
 [
   {
+    "id": "768d7b37e0d5c4cc",
+    "slug": "calcio-daversa-rilancia-il-torino-in-lotta-per-la-768d7b37e0d5c4cc",
+    "title": "Torino: rosa da 200 milioni di stipendi, ma la squadra fatica a giocare",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-08T21:49:44.087380+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/5bae545e324b579429009ff6dc0eb0a6.jpg",
+    "occhiello": "TORINO TRADITO DALLA PROPRIA SQUADRA",
+    "lead_preview": "Torino, 8 maggio. Il Torino si è arreso 0-2 contro il Bologna in una partita che ha spento ogni residuo sogno Europeo, c",
+    "tags": [
+      "calcio torino",
+      "serie a",
+      "torino bologna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0ecca62368a52231",
     "slug": "tennis-sorana-cirstea-sbarazza-aryna-sabalenka-da-0ecca62368a52231",
     "title": "Tennis: Sorana Cîrstea sbarazza Aryna Sabalenka da Roma",
@@ -938,25 +957,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "768d7b37e0d5c4cc",
-    "slug": "calcio-daversa-rilancia-il-torino-in-lotta-per-la-768d7b37e0d5c4cc",
-    "title": "Calcio: Singo e Praet entrano, Torino senza reazione: il Bologna vola al doppio vantaggio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-08T21:49:44.087380+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/5bae545e324b579429009ff6dc0eb0a6.jpg",
-    "occhiello": "TORINO PERDE A D’AVERSA MA IL VERO TEMA È IL FUTURO SQUADRA",
-    "lead_preview": "Torino, 8 maggio — Il Torino ha subito una sconfitta per 0-2 in casa contro il Bologna, in una partita giocata in condiz",
-    "tags": [
-      "torino vs bologna",
-      "sconfitta torino",
-      "calciomercato torino"
     ],
     "hero_eligible": true
   },
