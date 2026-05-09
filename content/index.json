@@ -1,5 +1,24 @@
 [
   {
+    "id": "1d20a41b0c0aecc9",
+    "slug": "tchouameni-e-valverde-allo-scoperto-arbeloa-parla-1d20a41b0c0aecc9",
+    "title": "Tchouaméni e Valverde allo scoperto: Arbeloa parla",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-09T12:39:51.628461+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/e0e938cf7900e3ef556656415b8b1527.jpg",
+    "occhiello": "ARBELOA \"TCHOUAMENI E VALVERDE NON MERITANO IL ROGO, CASO CHIUSO\"",
+    "lead_preview": "Madrid, 9 maggio 2026 Álvaro Arbeloa ha chiuso la vicenda con una dichiarazione che, se non ha estinto del tutto le tens",
+    "tags": [
+      "real madrid",
+      "tchouameni",
+      "valverde"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8558c86146de35a4",
     "slug": "famiglie-italiane-pagano-1000-in-piu-allanno-per-e-8558c86146de35a4",
     "title": "Italiane in ginocchio: +1.000 euro annui in bollette, l'allarme della Cna",
@@ -8972,25 +8991,6 @@
     "tags": [
       "caparezza",
       "record biglietti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "580c6c285faaebae",
-    "slug": "goldenberg-evita-lati-oscuri-di-warhol-nel-film-su-580c6c285faaebae",
-    "title": "Warner Bros lancia a novembre il film su Warhol diretto da Mia Voss con budget da 28 milioni",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-04-30T12:54:51.865988+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/a3eee3858ac802f7f22bc6d59d96f149.jpg",
-    "occhiello": "UN FILM SU WARHOL PER NOVEMBRE",
-    "lead_preview": "Roma, 30 aprile. Goldenberg Productions annuncia l’uscita del film The Factory nelle sale italiane a novembre con distri",
-    "tags": [
-      "film warhol",
-      "mia voss",
-      "goldenberg productions"
     ],
     "hero_eligible": true
   }
