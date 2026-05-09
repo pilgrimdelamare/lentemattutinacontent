@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, sabato 9 maggio 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-05-09T04:02:17.445511+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — SABATO 9 MAGGIO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c4098a1b5b942f1f",
     "slug": "tennis-zverev-sbroglia-i-cartelli-dingresso-c4098a1b5b942f1f",
     "title": "Tennis: Zverev aggredisce la FIT, montepremi di Roma tagliato del 15% per i giocatori",
@@ -1716,26 +1736,6 @@
     "lead_preview": "Taranto, 7 maggio. Il rapper Kiave e sette detenuti del carcere di Taranto hanno scritto e registrato un brano rap che u",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 8 maggio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-05-08T04:00:27.271872+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 8 MAGGIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6d03490c4335abef",
