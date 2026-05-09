@@ -1,5 +1,20 @@
 [
   {
+    "id": "5175611e0aafb95a",
+    "slug": "attentato-evitato-al-kremlin-5175611e0aafb95a",
+    "title": "Attentato evitato al kremlin",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-09T00:55:43.491779+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/e006bd055b5d3757c0cbde86627f688d.jpg",
+    "occhiello": "ATTENTATO EVITATO AL KREMLIN",
+    "lead_preview": "Mosca, 9 maggio.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "21bdd55dad87faf4",
     "slug": "neonato-su-venti-senza-vitamina-k-a-rischio-emorra-21bdd55dad87faf4",
     "title": "Negli USA un neonato su venti non riceve vitamina K: i medici avvertono «Pericolo emorragie»",
@@ -8975,25 +8990,6 @@
     "occhiello": "17.000 SOLDIERI NELLE FOGNE DI TIJUANA",
     "lead_preview": "17.000 SOLDIERI NELLE FOGNE DI TIJUANA Tijuana, 30 aprile. Le forze armate messicane hanno catturato Audias Flores, noto",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c027bfdc074409bb",
-    "slug": "calcio-parma-mira-alleuropa-league-con-61-punti-lo-c027bfdc074409bb",
-    "title": "Calcio: il Parma si allena per l'Europa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-04-30T11:29:53.852906+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1bb777cb5f68238d60431ea198d0bb18b0b6ea80/skysport/it/calcio/serie-a/video/2026/04/30/1094071_1777546108747_thumb_494.0000001_1777546317195.jpg",
-    "occhiello": "PARMA A UN SOFFIO DALLA QUALIFICAZIONE EUROPEA",
-    "lead_preview": "Parma, 30 aprile. Il Parma Calcio 1913 si allena al Tardini in vista della prossima giornata di campionato con 61 punti,",
-    "tags": [
-      "parma calcio",
-      "qualificazione europa",
-      "campionato serie a"
-    ],
     "hero_eligible": true
   }
 ]
