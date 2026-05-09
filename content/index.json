@@ -1,5 +1,24 @@
 [
   {
+    "id": "16cd8a06b5abde1f",
+    "slug": "iran-accusa-trump-di-avventurismo-tensione-a-golfo-16cd8a06b5abde1f",
+    "title": "Trump minaccia Teheran: \"Stormi di droni kamikaze in 72 ore\"",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-08T17:25:34.061808+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/229a24d55231177f2437e0433fa631bd.jpg",
+    "occhiello": "",
+    "lead_preview": "Teheran, 8 maggio. Il Presidente degli Stati Uniti, Donald John Trump, ha minacciato un attacco con droni kamikaze contr",
+    "tags": [
+      "minacce trump teheran",
+      "droni kamikaze iran",
+      "tensione usa iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2ff2f298a7c3f921",
     "slug": "convegno-fondazione-cini-poli-come-coperta-di-marm-2ff2f298a7c3f921",
     "title": "Venezia celebra Paolo Poli con 22 relazioni",
@@ -1074,25 +1093,6 @@
       "biennale arte venezia",
       "sicurezza padiglione israeliano",
       "militarizzazione laguna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "16cd8a06b5abde1f",
-    "slug": "iran-accusa-trump-di-avventurismo-tensione-a-golfo-16cd8a06b5abde1f",
-    "title": "Trump minaccia Teheran con droni kamikaze: l’Iran smentisce e ride",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-08T17:25:34.061808+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/229a24d55231177f2437e0433fa631bd.jpg",
-    "occhiello": "TRUMP MINACCIA TEHERAN, MA TEHERAN RIDE",
-    "lead_preview": "TRUMP MINACCIA TEHERAN, MA TEHERAN RIDE Teheran, 8 maggio. Il portavoce del ministero degli Esteri iraniano, Hossein Bag",
-    "tags": [
-      "trump iran",
-      "droni kamikaze",
-      "minacce teheran"
     ],
     "hero_eligible": true
   },
