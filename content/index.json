@@ -1,5 +1,24 @@
 [
   {
+    "id": "7a64ad7da47f6920",
+    "slug": "femmina-di-42-anni-trasporta-hantavirus-da-un-aere-7a64ad7da47f6920",
+    "title": "Una donna a Barcellona si infetta con l'hantavirus, caso raro in zona non endemica",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-09T00:43:10.668887+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/422255d0755be23467044c9e819f23f3.jpg",
+    "occhiello": "VIRUS RARO IN CATALOGNA, UN CASO SENZA ORIGINE",
+    "lead_preview": "VIRUS RARO IN CATALOGNA, UN CASO SENZA ORIGINE Barcellona, 9 maggio. Una donna di 42 anni residente a Barcellona è risul",
+    "tags": [
+      "hantavirus barcellona",
+      "infezione rara catalogna",
+      "caso zoonotico spagna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fa9b488d619fedd3",
     "slug": "tennis-mertens-batte-paolini-in-3-set-fa9b488d619fedd3",
     "title": "La belga Elise Mertens annuncia il suo pass per i quarti di finale",
@@ -799,25 +818,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7a64ad7da47f6920",
-    "slug": "femmina-di-42-anni-trasporta-hantavirus-da-un-aere-7a64ad7da47f6920",
-    "title": "La donna di Catalogna contagiata dall'Hantavirus su una nave da crociera",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-09T00:43:10.668887+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/422255d0755be23467044c9e819f23f3.jpg",
-    "occhiello": "42ENNE DI CATALOGNA A RISCHIO HANTAVIRUS DOPO VIAGGIO CON VITTIMA",
-    "lead_preview": "Barcellona, 9 maggio. Una donna di 42 anni residente in Catalogna è risultata positiva all’Hantavirus dopo essere entrat",
-    "tags": [
-      "hantavirus",
-      "navigazione",
-      "covid"
     ],
     "hero_eligible": true
   },
