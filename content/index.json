@@ -1,5 +1,24 @@
 [
   {
+    "id": "8d0bf447a2c062da",
+    "slug": "parigi-dichiara-di-avere-un-segreto-ma-si-rivela-u-8d0bf447a2c062da",
+    "title": "Parigi dichiara di avere un segreto, ma si rivela un libro banale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-10T16:08:48.138051+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/9894284b3368cb0d4bcae1853cd4f40e.jpg",
+    "occhiello": "UN ATLASSE DI PARIGI CHE NON ESISTE",
+    "lead_preview": "Parigi, 10 maggio 2026. Arriva un libro intitolato Atlante dei luoghi segreti di Parigi, promosso su Ansa con la formula",
+    "tags": [
+      "parigi",
+      "libro",
+      "segreti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "74def37b6c7b6a25",
     "slug": "guardie-iraniane-minacciano-washington-74def37b6c7b6a25",
     "title": "Iran lancia missili nel Golfo senza avvertire Usa: 17mila soldati e 50 navi in manovra a sorpresa",
@@ -8962,24 +8981,6 @@
       "calcio",
       "italia",
       "mondiale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1e4d030ac07ae050",
-    "slug": "pallavolo-imoco-e-vakifbank-si-sfidano-in-finale-1e4d030ac07ae050",
-    "title": "Pallavolo: Imoco Volley Conegliano vince e sale in finale della Champions League",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-01T15:32:46.678935+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/65a630079fd05c072fef9ccdd25b9b72fed7df58/skysport/it/volley/video/2026/05/01/1094339_1777643648505_thumb_494.0000001_1777643908660.jpg",
-    "occhiello": "IMOCO VINCE LA SEMIFINALE: SI GIOCA LA FINALE UEFA CHAMPIONS LEAGUE",
-    "lead_preview": "Conegliano, 1 maggio. L’Imoco Volley Conegliano, vincendo per tre set a zero l’Eczacıbaşı VitrA Istanbul, si è qualifica",
-    "tags": [
-      "pallavolo",
-      "champions league"
     ],
     "hero_eligible": true
   }
