@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260510",
+    "slug": "libro-del-giorno-il-cantico-delle-creaturedi-francesco--20260510",
+    "title": "Il libro del giorno: «Il cantico delle creaturedi Francesco d’Assisi»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un tributo poetico a San Francesco d'Assisi, patrono d'Italia, nel suo VIII centenario",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-10T07:02:47.673323+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L260xH312/b86b5aa7-80e2-48e5-b9b5-16cb3f3dff21-9791222112824_cover-3314c.webp?1775705972",
+      "alt": "Copertina: Il cantico delle creaturedi Francesco d’Assisi",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L260xH312/b86b5aa7-80e2-48e5-b9b5-16cb3f3dff21-9791222112824_cover-3314c.webp?1775705972",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "ec0abb260f6cac01",
     "slug": "il-destino-dei-playoff-deciso-da-una-partita-ec0abb260f6cac01",
     "title": "Il destino dei playoff deciso da una partita",
@@ -8974,25 +8993,6 @@
       "amazon ring",
       "video condivisi",
       "forze dell ordine"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d5d2ee96b6f4e52",
-    "slug": "emily-blunt-e-stanley-tucci-ricevono-la-stella-sul-8d5d2ee96b6f4e52",
-    "title": "Emily Blunt e Stanley Tucci ricevono due stelle sulla Walk of Fame di Hollywood",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-01T02:52:29.006465+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/0da49160d96a4a68618b35098209475e.jpg",
-    "occhiello": "LE STELLE NON SONO PER I MORTI",
-    "lead_preview": "Los Angeles, 1 maggio 2026. La Walk of Fame di Hollywood ha posato due stelle di granito rosa sotto i piedi di Emily Blu",
-    "tags": [
-      "walk of fame",
-      "emily blunt",
-      "stanley tucci"
     ],
     "hero_eligible": true
   }
