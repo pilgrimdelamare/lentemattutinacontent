@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260510",
+    "slug": "libro-del-giorno-il-cantico-delle-creaturedi-francesco--20260510",
+    "title": "Assisi lancia 3.500 copie numerate del nuovo libro poetico su San Francesco",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-10T07:02:47.673323+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L260xH312/b86b5aa7-80e2-48e5-b9b5-16cb3f3dff21-9791222112824_cover-3314c.webp?1775705972",
+    "occhiello": "UN LIBRO POETICO RILEGGE FRANCESCO",
+    "lead_preview": "Assisi, 10 maggio. È stato pubblicato il libro Il cantico delle creature di San Francesco, un tributo poetico dedicato a",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9ae8d8a1fe2a04f1",
     "slug": "la-raffinata-evasione-del-karla-conquista-il-riff-9ae8d8a1fe2a04f1",
     "title": "La Raffinata Evasione del Karla conquista il RIFF",
@@ -870,24 +888,6 @@
       "perdite seda",
       "macchinari verdi",
       "crisi seda"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260510",
-    "slug": "libro-del-giorno-il-cantico-delle-creaturedi-francesco--20260510",
-    "title": "Un libro tributa San Francesco con 'Il cantico delle creature'",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-10T07:02:47.673323+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L260xH312/b86b5aa7-80e2-48e5-b9b5-16cb3f3dff21-9791222112824_cover-3314c.webp?1775705972",
-    "occhiello": "800° ANNIVERSARIO DI SAN FRANCESCO INIZIA UN CANTICO POETICO",
-    "lead_preview": "Assisi, 10 maggio. Un nuovo libro, Il cantico delle creature di San Francesco, è stato pubblicato come tributo poetico a",
-    "tags": [
-      "san francesco",
-      "800esimo anniversario"
     ],
     "hero_eligible": true
   },
