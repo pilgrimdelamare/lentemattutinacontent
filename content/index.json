@@ -1,5 +1,22 @@
 [
   {
+    "id": "ce0b37a16ee5cbf5",
+    "slug": "israele-espelle-due-attivisti-ce0b37a16ee5cbf5",
+    "title": "Israele espelle due attivisti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-10T04:26:40.042179+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/387a3757cb6bc78713d57adafe44b091.jpg",
+    "occhiello": "ISRAELE ESPULSA DUE ATTIVISTI DELLA FLOTTILLA",
+    "lead_preview": "Roma, 10 maggio. I due attivisti stranieri fatti scendere dalla Flotilla Diretta a Gaza il 1 maggio scorso sono stati es",
+    "tags": [
+      "flotilla gaza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bac085891a8160ed",
     "slug": "tennis-jannik-sinner-entra-a-roma-con-108-decibel-bac085891a8160ed",
     "title": "Tennis: Sinner sfonda il record di sonorità al Foro Italico",
@@ -8981,25 +8998,6 @@
       "champions league",
       "psg bayern",
       "diaz gol"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "df803a3afb1f7d79",
-    "slug": "maersk-genova-licenzia-e-reintegra-in-2-ore-un-giu-df803a3afb1f7d79",
-    "title": "Maersk reintegra in 5 giorni la dipendente licenziata per un’IA in India e paga 6 stipendi",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-04-30T23:29:13.153369+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/04/30/194243219-4afb8506-413a-4774-b6c2-52e93c63faae.jpg",
-    "occhiello": "GENOVA, MAERSK REINTEGRA DOPO UN’IA",
-    "lead_preview": "GENOVA, MAERSK REINTEGRA DOPO UN’IA Genova, 30 aprile. Il giudice del lavoro del tribunale di Genova ha ordinato alla Ma",
-    "tags": [
-      "licenziamento ia",
-      "caso maersk",
-      "reintegro giudice"
     ],
     "hero_eligible": true
   }
