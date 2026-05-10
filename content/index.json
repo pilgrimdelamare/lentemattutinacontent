@@ -1,5 +1,23 @@
 [
   {
+    "id": "1d20a41b0c0aecc9",
+    "slug": "tchouameni-e-valverde-allo-scoperto-arbeloa-parla-1d20a41b0c0aecc9",
+    "title": "Arbeloa taglia due al getafe con la forbice",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-09T12:39:51.628461+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/e0e938cf7900e3ef556656415b8b1527.jpg",
+    "occhiello": "ARBELOA TAGLIA DUE AL GETAFE CON LA FORBICE",
+    "lead_preview": "ARBELOA TAGLIA DUE AL GETAfe CON LA FORBICE Madrid, 9 maggio. Álvaro Arbeloa ha chiuso la vicenda spogliatoile del Getaf",
+    "tags": [
+      "getafe",
+      "arbeloa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f49423ed034a154",
     "slug": "f1-marc-marquez-e-condannato-al-chirurgo-la-gara-d-4f49423ed034a154",
     "title": "MotoGP: Márquez si frattura il piede, Mugello a rischio per il sei volte iridato",
@@ -971,25 +989,6 @@
     "tags": [
       "trump iran",
       "guerra siria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1d20a41b0c0aecc9",
-    "slug": "tchouameni-e-valverde-allo-scoperto-arbeloa-parla-1d20a41b0c0aecc9",
-    "title": "Calcio: Arbeloa spegne il giallo in spogliatoio dopo il Getafe-Girona",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-09T12:39:51.628461+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/9/e0e938cf7900e3ef556656415b8b1527.jpg",
-    "occhiello": "ARBELOA SMORZA LE TENSIONI NEL SANTIAGO BERNABÉU",
-    "lead_preview": "Madrid, 9 maggio. Álvaro Arbeloa ha chiuso la vicenda con una dichiarazione che, se non ha estinto del tutto le tensioni",
-    "tags": [
-      "calcio arbitrio",
-      "real madrid spogliatoio",
-      "getafe-girona 2024"
     ],
     "hero_eligible": true
   },
