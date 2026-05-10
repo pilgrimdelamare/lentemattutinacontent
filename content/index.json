@@ -1,5 +1,24 @@
 [
   {
+    "id": "945e064116bc71a6",
+    "slug": "renzi-denuncia-vuoto-galattico-nelle-relazioni-int-945e064116bc71a6",
+    "title": "Renzi attacca il governo Meloni, accusa isolamento diplomatico da USA",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-05-10T01:29:32.406951+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/09/220241990-a84c2cf8-6046-484c-b1da-0c4aa7945cd6.jpg",
+    "occhiello": "RENZI DICE \"VUOTO GALATTICO\", MA NON PORTA PROVE",
+    "lead_preview": "RENZI DICE \"VUOTO GALATTICO\", MA NON PORTA PROVE roma, 10 maggio. Matteo Renzi, leader di Italia Viva, ha dichiarato che",
+    "tags": [
+      "renzi vs meloni",
+      "isolamento diplomatico",
+      "vuoto galattico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28b56fe79dbe5355",
     "slug": "nave-bloccata-a-tenerife-hantavirus-sospetto-su-2-28b56fe79dbe5355",
     "title": "Hantavirus sulla MV Hondius: equipaggio al 10% positivo, autorità sanitarie sotto pressione",
@@ -275,25 +294,6 @@
     "tags": [
       "promozione venezia",
       "bilancio venezia calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "945e064116bc71a6",
-    "slug": "renzi-denuncia-vuoto-galattico-nelle-relazioni-int-945e064116bc71a6",
-    "title": "Renzi denuncia 'vuoto galattico' nelle relazioni internazionali",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-10T01:29:32.406951+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/09/220241990-a84c2cf8-6046-484c-b1da-0c4aa7945cd6.jpg",
-    "occhiello": "RENZI ATTACCA MELONI SULL'EUROPA E GLI USA",
-    "lead_preview": "Roma, 10 maggio Matteo Renzi, leader di Italia Viva, ha dichiarato che il governo guidato da Giorgia Meloni sta attraver",
-    "tags": [
-      "renzi vs meloni",
-      "relazioni internazionali",
-      "crollo europa usa"
     ],
     "hero_eligible": true
   },
