@@ -1,5 +1,24 @@
 [
   {
+    "id": "409e70777c7181b9",
+    "slug": "massimo-recalcati-la-madre-non-e-un-ostacolo-ma-un-409e70777c7181b9",
+    "title": "38% Di Mamme Italiane Abbandonano il Lavoro: l'Ufficio Lavoro si Sveglia?",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-05-09T23:26:15.348803+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/09/215148707-d1f388a7-fbee-4159-92d1-b17059f69de1.jpg",
+    "occhiello": "IL 38% DELLE MAMME ITALIANE ABANDONA IL LAVORO",
+    "lead_preview": "Roma, 10 maggio. Il 38% delle mamme italiane abbandona il lavoro, secondo un'indagine recente.",
+    "tags": [
+      "mamme lavoro",
+      "abbandono lavoro",
+      "maternità"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ede867caa5d2446b",
     "slug": "calcio-salah-spreca-il-rigore-chelsea-beffa-il-liv-ede867caa5d2446b",
     "title": "Calcio: Mohamed Salah fallisce il tiro decisivo",
@@ -917,25 +936,6 @@
       "basket",
       "timberwolves",
       "allenatore"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "409e70777c7181b9",
-    "slug": "massimo-recalcati-la-madre-non-e-un-ostacolo-ma-un-409e70777c7181b9",
-    "title": "Il 38% delle mamme italiane abbandona il lavoro: il sistema le spinge fuori",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-05-09T23:26:15.348803+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/09/215148707-d1f388a7-fbee-4159-92d1-b17059f69de1.jpg",
-    "occhiello": "RECALCATI: LE MADRI NON SONO UN PROBLEMA",
-    "lead_preview": "Roma, 10 maggio. Massimo Recalcati, psicoanalista di fama Internazionale, dal palco dell’Auditorium Parco della Musica d",
-    "tags": [
-      "abbandono lavoro madri",
-      "recensioni recalcati",
-      "maternità italia"
     ],
     "hero_eligible": true
   },
