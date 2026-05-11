@@ -1,5 +1,24 @@
 [
   {
+    "id": "d1cb3da372efd742",
+    "slug": "dow-jones-affonda-dello-01-wall-street-arranca-sen-d1cb3da372efd742",
+    "title": "Dow Jones affonda dello 0,1%, Wall Street arranca senza motivo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-11T14:04:54.088226+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/ccefbf86f9f280adc92a893763641f74.jpg",
+    "occhiello": "",
+    "lead_preview": "New York, 11 maggio. La Borsa di New York apre in calo, con il dow jones a -0,10% e il Nasdaq a -0,18%. Il s&p 500 arret",
+    "tags": [
+      "borsa new york",
+      "wall street calo",
+      "mercati finanziari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77ff504698d1be08",
     "slug": "tennis-vagnozzi-svela-strategia-sinner-per-roma-e-77ff504698d1be08",
     "title": "Tennis: Sinner affila la lama per il Roland Garros, Vagnozzi svela il piano segreto",
@@ -9006,25 +9025,6 @@
       "formula 1",
       "pole position",
       "miami gp"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e164c476d15ac527",
-    "slug": "schlein-punta-il-dito-su-meloni-energia-cara-e-aut-e164c476d15ac527",
-    "title": "Elly Schlein accusa il governo Meloni di bloccare il tetto Europeo sul gas",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-02T18:23:07.765745+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/2/c49b9393307845f31422bac625a23109.jpg",
-    "occhiello": "MELONI HA BLOCCATO IL TETTO UE SUL GAS",
-    "lead_preview": "roma, 2 maggio. Elly Schlein ha attaccato il governo Meloni per non aver spinto per un tetto europeo sul prezzo del gas ",
-    "tags": [
-      "tetto gas ue",
-      "governo meloni",
-      "presidenza italiana ue"
     ],
     "hero_eligible": true
   }
