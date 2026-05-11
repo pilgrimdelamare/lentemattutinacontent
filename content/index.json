@@ -1,5 +1,23 @@
 [
   {
+    "id": "dba88fc76b82e18d",
+    "slug": "iran-mohammadi-rilasciata-su-cauzione-dopo-2-anni-dba88fc76b82e18d",
+    "title": "Narges Mohammadi esce dal carcere con 150mila euro di cauzione",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-10T21:22:09.294476+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/c0ef2252b3c2967608b587a3c02b025c.jpg",
+    "occhiello": "150MILA EURO DI CAUZIONE PER MOHAMMADI",
+    "lead_preview": "150MILA EURO DI CAUZIONE PER MOHAMMADI Teheran, 10 maggio. Narges Mohammadi è uscita dal carcere di Evin alle 17:42 di o",
+    "tags": [
+      "narges mohammadi",
+      "carcere evin"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b613bd352d69b08f",
     "slug": "manzini-svela-i-nuovi-tramezzini-di-rocco-schiavon-b613bd352d69b08f",
     "title": "Antonio Manzini pubblica 13 nuovi racconti con Schiavone per Sellerio",
@@ -912,25 +930,6 @@
       "guerra ucraina",
       "morti russi",
       "mediazona bbc"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dba88fc76b82e18d",
-    "slug": "iran-mohammadi-rilasciata-su-cauzione-dopo-2-anni-dba88fc76b82e18d",
-    "title": "La liberazione di Narges Mohammadi si aggira sui 150mila euro di cauzione",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-10T21:22:09.294476+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/c0ef2252b3c2967608b587a3c02b025c.jpg",
-    "occhiello": "NARGES MOHAMMADI FUORI DAL CARCERE DI EVIN DOPO DUE ANNI",
-    "lead_preview": "Narges Mohammadi fuori dal carcere di Evin dopo due anni Teheran, 10 maggio. La militante iraniana Narges Mohammadi è st",
-    "tags": [
-      "liberazione mohammadi",
-      "carcere evin",
-      "iran"
     ],
     "hero_eligible": true
   },
