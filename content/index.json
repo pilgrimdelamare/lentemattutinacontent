@@ -1,5 +1,23 @@
 [
   {
+    "id": "d1cb3da372efd742",
+    "slug": "dow-jones-affonda-dello-01-wall-street-arranca-sen-d1cb3da372efd742",
+    "title": "Wall Street scivola: Dow Jones perde lo 0,10% in una mattinata senza spiegazioni concrete",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-11T14:04:54.088226+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/ccefbf86f9f280adc92a893763641f74.jpg",
+    "occhiello": "WALL STREET ARRANCA SENZA UNA LOGICA",
+    "lead_preview": "New York, 11 maggio. La Borsa di New York apre in territorio negativo: il Dow Jones perde lo 0,10%, il Nasdaq scende del",
+    "tags": [
+      "borsa new york",
+      "dow jones"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8a44f98245464f35",
     "slug": "tennis-bolelli-e-vavassori-girano-spot-a-roma-per-8a44f98245464f35",
     "title": "Tennis: Bolelli e Vavassori girano spot a Roma per il Masters di maggio",
@@ -384,25 +402,6 @@
     "tags": [
       "riforma elettorale",
       "consulta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1cb3da372efd742",
-    "slug": "dow-jones-affonda-dello-01-wall-street-arranca-sen-d1cb3da372efd742",
-    "title": "Dow Jones affonda dello 0,1%, Wall Street arranca senza motivo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-11T14:04:54.088226+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/ccefbf86f9f280adc92a893763641f74.jpg",
-    "occhiello": "",
-    "lead_preview": "New York, 11 maggio. La Borsa di New York apre in calo, con il dow jones a -0,10% e il Nasdaq a -0,18%. Il s&p 500 arret",
-    "tags": [
-      "borsa new york",
-      "wall street calo",
-      "mercati finanziari"
     ],
     "hero_eligible": true
   },
