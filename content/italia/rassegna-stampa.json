@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 8 maggio 2026",
+  "title": "Le prime pagine di oggi, lunedì 11 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 8 maggio 2026",
-    "Le prime pagine di oggi, venerdì 8 maggio 2026",
-    "Le prime pagine di oggi, venerdì 8 maggio 2026"
+    "Le prime pagine di oggi, lunedì 11 maggio 2026",
+    "Le prime pagine di oggi, lunedì 11 maggio 2026",
+    "Le prime pagine di oggi, lunedì 11 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 8 MAGGIO 2026. GUERRA IN UCRAINA",
-  "lead": "La scena italiana e internazionale è dominata oggi dalla visita del Papa in Vaticano, dove ha incontrato il senatore statunitense Marco Rubio. I giornali titolano in apertura su questo evento, che si è svolto nel solco della tradizionale politica di dialogo e pace della Chiesa cattolica. Il caso Garlasco, che ha visto la chiusura dell'inchiesta e l'individuazione del colpevole, è un altro tema che occupa ampi spazi sulla stampa nazionale. Alcuni giornali dedicano invece ampio spazio alla guerra in Ucraina e ai suoi sviluppi.",
-  "corpo1": "3 Guerra Ucraina-Russia titola la prima pagina, mentre il caso Garlasco è in apertura su 4 La Repubblica, con l'incontro del Papa e Rubio. Il titolo è \"Leone vede Rubio: dialogo e pace\". Il caso Garlasco è in primo piano anche su 4 La Repubblica, con l'analisi \"Tranquillità (e fermezza). Così il Papa si è 'svelato'\". Sull'argomento del caso Garlasco inoltre, 5 Corriere della Sera titola \"Monito del Papa a Rubio 'Lavorare per la pace'\". In primo piano anche il caso Garlasco con \"Chiusa l'inchiesta 'Ha ucciso Chiara. Sempio a processo'\". Al centro spazio al tennis con \"Sinner, bagno di folla a Roma\". 12 l'Unità titola \"Caso Minetti, una bufala: 'Grazia, tuttavia senza colpe'\".",
-  "corpo2": "Altri titoli di rilievo appaiono su 6 La Stampa, con \"Conti, Bruxelles apre all'Italia\" e \"Perché il Pnrr non ha funzionato\". 9 L'Espresso titola \"Giriamo\", con \"Vingegaard è favorito. Vuole la tripla corona dopo Tour e Vuelta. Pellizzari fa sperare l'Italia dopo 10 anni\". 1 Il Sole 24 Ore titola \"Borse, il Dow Jones tocca 50mila punti\". Il tema dominante della giornata è la guerra in Ucraina e i suoi sviluppi.",
+  "occhiello": "LE PRIME PAGINE 11 MAGGIO 2026. GUERRA E POLITICA.",
+  "lead": "La prima pagina dei quotidiani italiani sono dominata oggi dalla crisi della tregua tra Stati Uniti e Iran, nonché dall'inchiesta Giuli. Corriere della Sera, Repubblica, La Stampa e Fatto Quotidiano occupano gran parte delle prime pagine con questi argomenti, mentre Gazzetta dello Sport e Corriere dello Sport si concentrano sull'attualità sportiva, con l'attenzione sul Milan e sulla Serie A. Inoltre, l'Adunata alpini a Genova occupa alcune pagine di alcuni quotidiani.",
+  "corpo1": "Corriere della Sera titola sulla rottura tra Donald Trump e l'Iran, con il presidente Usa che giudica \"inaccettabile\" la risposta di Teheran al piano statunitense per la tregua. La prima pagina è dedicata a questa notizia, con una fotonotizia sullo sbarco di Trump a Baghdad. Repubblica invece si concentra sull'inchiesta Giuli, con il titolo \"Lo 'strappo' di Giuli trova ampia vibilità\". Sulla stessa nota, La Stampa titola \"Iran-Usa, pace in frantumi\", chiudendo definitivamente i residui spiragli di prolungamento della tregua nel conflitto in Medioriente. Fatto Quotidiano invece si concentra sulla vicenda Nicole Minetti, con la massaggiatrice che parla di \"festini per vip con ragazze anche minorenni\". Gazzetta dello Sport e Corriere dello Sport si concentrano sull'attualità sportiva, con l'attenzione sul Milan e sulla Serie A. Infine, Adunata alpini a Genova occupa alcune pagine di alcuni quotidiani, con l'offerta Prova 30 giorni e il decoder Sky Stream.",
+  "corpo2": "Altro titolo di rilievo è \"Nuove rivelazioni legate alla vicenda di Nicole Minetti\" sul Fatto Quotidiano, e \"Nuovo tracollo del Milan\" sulla Gazzetta dello Sport. Il tema dominante della giornata è la crisi della tregua tra Stati Uniti e Iran.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-08T05:45:47.567048+00:00",
+  "published_at": "2026-05-11T05:47:34.136658+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/0ec8468c66b4357fa75adc56a2517064ca36c0e4/skytg24/it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio/rassegna8maggio.jpg?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/5fde53b847f9e61bd0eb74e90f9d7eedffb42e57/skytg24/it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio/Composite_11_maggio.jpg?im=Resize,width=375",
+    "source": "Adunata alpini a Genova",
+    "credit": "Prima pagina — Adunata alpini a Genova",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 8 maggio 2026",
+      "title": "Oroscopo di oggi, lunedì 11 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Mosca intimisce dodici Stati: evacuano il personale diplomatico entro venerdì",
-      "url": "/esteri/mosca-minaccia-ambasciate-occidentali-davanti-a-v-557dcb2e33cfe5bc",
-      "id": "557dcb2e33cfe5bc",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/405b66ac05b7549f6f022f586860f6c0.jpg",
-      "image_type": "image"
+      "title": "Einaudi lancia nuova collana con il romanzo di Aria Aber, esce oggi in libreria a Torino",
+      "url": "/cultura/libro-del-giorno-una-brava-ragazzadi-aria-aber-20260509",
+      "id": "libro-20260509",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
+      "image_type": "url"
     },
     {
-      "title": "Prime Video sostiene il documentario antipopolismo con 3 milioni di euro",
-      "url": "/cultura/kingsley-svela-il-romance-italiano-vale-3-milioni-115ed066c1171c53",
-      "id": "115ed066c1171c53",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/74915342f5261a5f2a75df0fe33c0a44.jpg",
-      "image_type": "image"
+      "title": "Darderi annuncia: «Il mio dritto è una bomba, e oggi ho dimostrato perché sono il prossimo grande»",
+      "url": "/sport/tennis-darderi-batte-hanfmann-e-incassa-92mila-eur-18c22abde35e22ed",
+      "id": "18c22abde35e22ed",
+      "image_url": "https://sport.sky.it/assets/images/6c6b74dc095678397646ed72f3b086326ebb61d8/skysport/it/tennis/video/2026/05/09/darderi-hanfmann-atp-roma-highlights-1096452/darderi_hl.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
