@@ -1,5 +1,23 @@
 [
   {
+    "id": "98e66a180d2ecec2",
+    "slug": "la-sardegna-sbarca-su-topolino-98e66a180d2ecec2",
+    "title": "La Sardegna sbarca su Topolino",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-11T15:31:22.228043+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
+    "occhiello": "Sardegna protagonista su Topolino con l'archeologia del Sinis e Buzzati",
+    "lead_preview": "12 maggio 2026 La Sardegna approda su Topolino con uno speciale di quaranta pagine dedicato all'archeologia del Sinis e ",
+    "tags": [
+      "sardegna su topolino",
+      "archeologia del sinis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9ae8d8a1fe2a04f1",
     "slug": "la-raffinata-evasione-del-karla-conquista-il-riff-9ae8d8a1fe2a04f1",
     "title": "Wuhan, 12 positivi al Covid: chiudono due reparti del mercato di Jianghan anche se asintomatici",
@@ -9006,25 +9024,6 @@
       "frode gp miami",
       "fia promotori group",
       "brogli tv miami"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "927f5ad78fd7257b",
-    "slug": "calcio-colonia-vola-in-zona-salvezza-grazie-a-chur-927f5ad78fd7257b",
-    "title": "Calcio: Kainz e Meyer ribaltano al 48’ e 87’, Colonia ferma l'Union in casa con un punto regalato",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-02T22:48:38.625299+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/84feff6b159a3fa94a85df895c4fa2bcc46eda13/skysport/it/calcio/bundesliga/video/2026/05/02/1094732_1777758774780_thumb_494.0000001_1777758816118.jpg",
-    "occhiello": "UNION BERLINO PIANGE DUE GOL DI CLASSE",
-    "lead_preview": "Berlino, 2 maggio. L'Union Berlin spreca due gol di vantaggio e pareggia per 2-2 contro il Colonia all'Olympiastadion, r",
-    "tags": [
-      "calcio",
-      "berlino",
-      "bundesliga"
     ],
     "hero_eligible": true
   }
