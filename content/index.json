@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260511",
+    "slug": "libro-del-giorno-non-sara-unavventuradi-rita-trigilio-20260511",
+    "title": "Rita Trigilio Dichiara Falsissimo Un suo Libro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-11T07:00:22.282589+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/avventura-9cbaf.jpg?1775672151",
+    "occhiello": "LIBRO NON SCONOSCIUTO",
+    "lead_preview": "LIBRO NON SCONosciuto Il libro del giorno, \"Non sarà un'avventura\" di Rita Trigilio, non esiste. Nonostante la sommario ",
+    "tags": [
+      "libro falso",
+      "caso trigilio",
+      "scandalo letterario"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6e66a855d73c627f",
     "slug": "litio-e-gas-in-vendita-bolivia-apre-ai-privati-ma-6e66a855d73c627f",
     "title": "Il governo boliviano vende il 49% delle miniere di litio",
@@ -352,25 +371,6 @@
     "lead_preview": "Venezia, 10 maggio. Una ragazza di ventidue anni, residente a Mestre, è la prima paziente in Italia a ricevere cure spec",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260511",
-    "slug": "libro-del-giorno-non-sara-unavventuradi-rita-trigilio-20260511",
-    "title": "Il libro del giorno: «Non sarà un’avventuradi Rita Trigilio»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo sulla libertà ritrovata in età avanzata, tra amicizia femminile e piccole grandi rivolte quotidiane",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-11T07:00:22.282589+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/avventura-9cbaf.jpg?1775672151",
-      "alt": "Copertina: Non sarà un’avventuradi Rita Trigilio",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/avventura-9cbaf.jpg?1775672151",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "af0f7b9d73a50b56",
