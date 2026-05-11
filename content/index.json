@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 11 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-11T05:47:34.136658+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5fde53b847f9e61bd0eb74e90f9d7eedffb42e57/skytg24/it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio/Composite_11_maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 11 MAGGIO 2026. GUERRA E POLITICA.",
+    "lead_preview": "La prima pagina dei quotidiani italiani sono dominata oggi dalla crisi della tregua tra Stati Uniti e Iran, nonché dall'",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77ff504698d1be08",
     "slug": "tennis-vagnozzi-svela-strategia-sinner-per-roma-e-77ff504698d1be08",
     "title": "Sinner si prepara per il Roland Garros",
@@ -3202,25 +3221,6 @@
       "poste italiane",
       "tim",
       "fusione reti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 8 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-08T05:45:47.567048+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/0ec8468c66b4357fa75adc56a2517064ca36c0e4/skytg24/it/cronaca/2026/05/08/prime-pagine-quotidiani-oggi-8-maggio/rassegna8maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 8 MAGGIO 2026. GUERRA IN UCRAINA",
-    "lead_preview": "La scena italiana e internazionale è dominata oggi dalla visita del Papa in Vaticano, dove ha incontrato il senatore sta",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
