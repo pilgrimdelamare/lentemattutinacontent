@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260511",
+    "slug": "libro-del-giorno-non-sara-unavventuradi-rita-trigilio-20260511",
+    "title": "Il libro del giorno: «Non sarà un’avventuradi Rita Trigilio»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo sulla libertà ritrovata in età avanzata, tra amicizia femminile e piccole grandi rivolte quotidiane",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-11T07:00:22.282589+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/avventura-9cbaf.jpg?1775672151",
+      "alt": "Copertina: Non sarà un’avventuradi Rita Trigilio",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/avventura-9cbaf.jpg?1775672151",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "af0f7b9d73a50b56",
     "slug": "calcio-guardiola-incita-il-west-ham-contro-larsena-af0f7b9d73a50b56",
     "title": "West Ham sgancia 30 milioni: Guardiola è il nuovo allenatore in arrivo",
@@ -8977,24 +8996,6 @@
     "lead_preview": "Chignolo Po, 2 maggio. Il 19 e 20 settembre il primo EICMA Riding X Fest si svolgerà a Chignolo Po, in provincia di Pavi",
     "tags": [
       "eicma riding x fest"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5131e49ae2c5a332",
-    "slug": "f1-mclaren-beffa-red-bull-a-miami-doppietta-consec-5131e49ae2c5a332",
-    "title": "F1: La McLaren segna un record storico con 97 punti!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-02T13:44:18.621439+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e5fd06379028de89119659d980e267c0eaccd988/skysport/it/motori/formula-1/f1-gp-miami-team-risultati/ipa_mclaren_red_bull.jpg",
-    "occhiello": "MC LAREN, DOPPIETTA A MIAMI: 97 PUNTI IN DUE CORSE",
-    "lead_preview": "Miami, 2 maggio. Lando Norris e Oscar Piastri hanno firmato una doppietta inarrestabile sul tracciato cittadino di Miami",
-    "tags": [
-      "mclaren",
-      "formula1"
     ],
     "hero_eligible": true
   }
