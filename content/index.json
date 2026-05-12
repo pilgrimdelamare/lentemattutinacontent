@@ -1,5 +1,24 @@
 [
   {
+    "id": "4ca9c710ff9dff49",
+    "slug": "una-dirigente-bloccata-un-uomo-promosso-la-stessa-4ca9c710ff9dff49",
+    "title": "Una dirigente bloccata, un uomo promosso: la stessa carriera non per tutti",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-12T12:46:51.782964+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/73dde7378201104a845c247493bc3f1c.jpg",
+    "occhiello": "IL 29% DELLA PENSIONE SPARISCE PER LORO",
+    "lead_preview": "Roma, 12 maggio.",
+    "tags": [
+      "disparità di genere",
+      "carriere lavorative",
+      "pensioni donne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "de1e31d43dfae0af",
     "slug": "marina-berlusconi-nega-manovre-pd-nessun-contatto-de1e31d43dfae0af",
     "title": "Marina Berlusconi nega manovre PD: \"Nessun contatto segreto con Letta\"",
@@ -9015,24 +9034,6 @@
       "giorgia meloni",
       "taglio istruzione",
       "roland garros"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "de1a9b0f813b2ebc",
-    "slug": "veleni-nella-corona-di-caravaggio-de1a9b0f813b2ebc",
-    "title": "Caravaggio morto avvelenato da piombo, analisi capelli rivelano 8 volte dosi letali a Roma",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-03T10:10:26.671969+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/9200b2e819eba080d0f5b57689bdb625.jpg",
-    "occhiello": "CARAVAGGIO AVVELENATO DAL PIOMBO: OTTO VOLTE LA DOSE LETALE NEI SUOI CAPELLI.",
-    "lead_preview": "Roma, 3 maggio. Gli scavi scientifici sui capelli del pittore Caravaggio, realizzati dalla Fondazione Palazzo Reale in c",
-    "tags": [
-      "caravaggio",
-      "morte caravaggio"
     ],
     "hero_eligible": true
   }
