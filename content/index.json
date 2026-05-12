@@ -1,5 +1,23 @@
 [
   {
+    "id": "5a8202340fb9b43f",
+    "slug": "kate-middleton-a-reggio-emilia-la-citta-in-subbugl-5a8202340fb9b43f",
+    "title": "Kate Middleton a Reggio Emilia, la città in subbuglio",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-12T15:14:40.667967+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/9/66ef51b747566eb294326f4dc9f44af5.jpg",
+    "occhiello": "FOTO DA CORTE REALE NEL TALENTO LOCALE",
+    "lead_preview": "Reggio Emilia, 12 maggio. La notizia di un arrivo in piazza Prampolini intorno all'ora di pranzo si diffonde senza detta",
+    "tags": [
+      "kate middleton",
+      "reggio emilia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "619a8e5e9c51b186",
     "slug": "fratelli-ditalia-a-quota-288-ma-e-crisi-di-leaders-619a8e5e9c51b186",
     "title": "Fratelli d’Italia scende a 28,8% e Meloni trema: correnti e astenuti nella Sala vuota",
@@ -9018,21 +9036,6 @@
       "auto elettriche italia",
       "fabbrica automotive"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8e654b818c8f78c8",
-    "slug": "tennis-sinner-firma-autografi-in-mezzo-al-pubblico-8e654b818c8f78c8",
-    "title": "Tennis: Sinner salta le barriere a Madrid e firma autografi a venti fan",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-03T13:14:15.643473+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/67bd05dde4e0a6ac504529b7b5c2df96dcca2254/skysport/it/tennis/video/2026/05/03/1094799_1777812789661_thumb_494.0000001_1777812960140.jpg",
-    "occhiello": "",
-    "lead_preview": "Madrid, 3 maggio. Jannik Sinner, numero uno del ranking ATP, ha firmato autografi in mezzo al pubblico durante il riscal",
-    "tags": [],
     "hero_eligible": true
   }
 ]
