@@ -1,5 +1,24 @@
 [
   {
+    "id": "e51c11334e5b5235",
+    "slug": "ue-invita-i-talebani-a-bruxelles-si-parla-di-rimpa-e51c11334e5b5235",
+    "title": "UE invita i talebani a Bruxelles: si parla di rimpatri forzati dalla prossima settimana",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-12T13:35:03.065212+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/16/3730c6e2ffbe3ce831740360933bf07c.jpg",
+    "occhiello": "INVITO UE AI TALIBANI PER I RIMPATRI A BRUXELLES",
+    "lead_preview": "Bruxelles, 12 maggio — L’Unione Europea ha invitato i talebani a un incontro tecnico a Bruxelles per discutere il rimpat",
+    "tags": [
+      "talebani rimpatri forzati",
+      "ue afghanistan",
+      "incontro brussels"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7188ed9b3702e629",
     "slug": "elettra-lamborghini-scaglia-bam-bam-bambina-takagi-7188ed9b3702e629",
     "title": "Elettra Lamborghini scaglia Bam Bam Bambina: Takagi & Ketra fanno boom in 48 ore",
@@ -9016,24 +9035,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d6039ddc3cadc62",
-    "slug": "atletica-italia-in-gara-alla-staffetta-4x100-mista-6d6039ddc3cadc62",
-    "title": "Atletica: l'Italia presenta il quartetto under 23 per i Mondiali di Tokyo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-03T09:43:20.608214+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/21/98d6697e4d733203b6ac173cab0465e5.jpg",
-    "occhiello": "ITALIA, QUARTETTO UNDER 23 PER TOKYO 2026",
-    "lead_preview": "Roma, 3 maggio. La Federazione Italiana di Atletica Leggera ha annunciato con sorpresa il quartetto che rappresenterà l’",
-    "tags": [
-      "mondiali 2026",
-      "atletica leggera"
     ],
     "hero_eligible": true
   }
