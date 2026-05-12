@@ -1,5 +1,23 @@
 [
   {
+    "id": "188bc11faf41ca1f",
+    "slug": "gehry-espone-sculture-leggere-come-il-pensiero-fis-188bc11faf41ca1f",
+    "title": "Frank Gehry vende Fish per 1,2 milioni in 24 ore",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-12T20:34:24.462956+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/3bf97850bf4f59de370b318270cdd134.jpg",
+    "occhiello": "GUERRA DI SCARABEO SULLE SCULTURE DI GEHRY",
+    "lead_preview": "Los Angeles, 12 maggio. Frank Gehry ha esposto a Los Angeles Fish, una scultura in acciaio inossidabile dal peso di 1.20",
+    "tags": [
+      "frank gehry",
+      "scultura fish"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2890d3964ea64994",
     "slug": "229-milioni-di-cibo-regalato-gdo-svuota-magazzini-2890d3964ea64994",
     "title": "GDO regala 48mila tonnellate di cibo ma spreca 4 milioni: il grande bluff",
@@ -238,24 +256,6 @@
     "lead_preview": "120 DECIBEL PER UNA PARTITA SOSPESA Roma, 12 maggio — Il match di quarti di finale del torneo Internazionali d’Italia tr",
     "tags": [
       "internazionali d'italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "188bc11faf41ca1f",
-    "slug": "gehry-espone-sculture-leggere-come-il-pensiero-fis-188bc11faf41ca1f",
-    "title": "Gehry espone sculture leggere come il pensiero: Fish a Los Angeles per 1,2 milioni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-12T20:34:24.462956+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/3bf97850bf4f59de370b318270cdd134.jpg",
-    "occhiello": "UN ORSO DI ACCIAIO TRA LE SCULTURE DI GEHRY",
-    "lead_preview": "Los Angeles, 12 maggio 2026.",
-    "tags": [
-      "mostra gehry",
-      "los angeles"
     ],
     "hero_eligible": true
   },
