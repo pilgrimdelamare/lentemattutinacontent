@@ -1,5 +1,24 @@
 [
   {
+    "id": "906257e3aef40a5b",
+    "slug": "calcio-nek-cantera-linno-di-mameli-alla-finale-di-906257e3aef40a5b",
+    "title": "Calcio: Inter-Fiorentina, la Coppa Italia si gioca all'Olimpico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-11T10:55:38.673345+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/11/3e865e72b31e78da08378ffbebc19141.jpg",
+    "occhiello": "INNO D'ITALIA ALL'OLIMPICO PRIMA DELLA FINALE",
+    "lead_preview": "Roma, 11 maggio. Mercoledì 13 maggio alle 21.00 lo stadio Olimpico di Roma ospiterà la finale della Coppa Italia Freccia",
+    "tags": [
+      "coppa italia",
+      "inter fiorentina",
+      "finale olimpico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260512",
     "slug": "libro-del-giorno-come-la-merdadi-silvio-ters-20260512",
     "title": "Il libro del giorno: «Come la merdadi Silvio Ters»",
@@ -887,25 +906,6 @@
       "arnaldi multa volo",
       "tennis torneo roma",
       "premi e penalità tennis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "906257e3aef40a5b",
-    "slug": "calcio-nek-cantera-linno-di-mameli-alla-finale-di-906257e3aef40a5b",
-    "title": "Calcio: All'Olimpico si canta l’inno d’Italia prima di Inter-Fiorentina",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-11T10:55:38.673345+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/11/3e865e72b31e78da08378ffbebc19141.jpg",
-    "occhiello": "FINALE DI COPPA ITALIA ALL'OLIMPICO CON INNO DI MAMELI",
-    "lead_preview": "Roma, 11 maggio. Mercoledì 13 maggio alle 21.00 allo stadio Olimpico si disputerà la finale della Coppa Italia Frecciaro",
-    "tags": [
-      "finale coppa italia",
-      "inter fiorentina",
-      "inno mameli"
     ],
     "hero_eligible": true
   },
