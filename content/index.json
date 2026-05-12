@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a30e33bd6161ca5",
+    "slug": "tennis-film-su-panatta-e-la-davis-del-76-muccino-l-5a30e33bd6161ca5",
+    "title": "Tennis: Muccino gira \"Come una Coppa\" su Panatta e la Davis",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-12T11:30:43.580259+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/1/99c7b183fc2d324aa0a9b3948792c399.jpg",
+    "occhiello": "MUCCINO RACCONTA PANATTA IN \"COME UNA COPPA\"",
+    "lead_preview": "MUCCINO RACCONTA PANATTA IN \"COME UNA COPPA\" Roma, 12 maggio. Un film per celebrare i cinquant’anni della vittoria itali",
+    "tags": [
+      "film panatta",
+      "coppa davis 1976",
+      "silvio muccino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9dddc1cecd1746b9",
     "slug": "basket-cavs-vincono-con-vismara-ribaltano-i-lakers-9dddc1cecd1746b9",
     "title": "Basket: Cavs vincono con Vismara, ribaltano i Lakers",
@@ -292,25 +311,6 @@
       "teatro binasco",
       "crowdfunding bologna",
       "arena del sole"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5a30e33bd6161ca5",
-    "slug": "tennis-film-su-panatta-e-la-davis-del-76-muccino-l-5a30e33bd6161ca5",
-    "title": "Tennis: Film su Panatta e la Davis del '76: Muccino lo gira con Morricone",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-12T11:30:43.580259+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/1/99c7b183fc2d324aa0a9b3948792c399.jpg",
-    "occhiello": "MANETTI, SILVIO MUCCINO RACCONTANO LA COPPA DAVIS",
-    "lead_preview": "MANETTI, SILVIO MUCCINO RACCONTANO LA COPPA DAVIS Roma, 12 maggio — Un film per celebrare i cinquant’anni della vittoria",
-    "tags": [
-      "film panatta",
-      "coppa davis 1976",
-      "silvio muccino"
     ],
     "hero_eligible": true
   },
