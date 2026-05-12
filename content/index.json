@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260512",
+    "slug": "libro-del-giorno-come-la-merdadi-silvio-ters-20260512",
+    "title": "Il libro del giorno: «Come la merdadi Silvio Ters»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo distopico che esplora una Napoli trasformata in un immondezzaio globale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-12T07:01:31.038127+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71toszzvt9l__sl1500__1_-dcea8.jpg?1776171652",
+      "alt": "Copertina: Come la merdadi Silvio Ters",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71toszzvt9l__sl1500__1_-dcea8.jpg?1776171652",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "c4bdf17503e3a938",
     "slug": "calcio-costacurta-critica-le-scelte-sbagliate-del-c4bdf17503e3a938",
     "title": "Ex Milan: Costacurta difende Maldini e attacca la dirigenza",
@@ -9000,24 +9019,6 @@
     "lead_preview": "ARN ALDI TRIONFA A CAGLIARI CONTRO IL N. 9 ATP Cagliari, 3 maggio 2026. Matteo Arnaldi ha battuto Hubert Hurkacz 6-4 6-4",
     "tags": [
       "atp cagliari"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2493c0429b391e3c",
-    "slug": "todd-usa-in-declino-irreversibile-dollari-scendono-2493c0429b391e3c",
-    "title": "Il dollaro precipita a 0,58 euro: crollo storico che travolge l'economia USA",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-03T15:01:11.042750+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/6ac850f95c886ce52706fb0b0a18078a.jpg",
-    "occhiello": "IL DOLLARO PERDE 42 CENTESIMI IN UN ANNO",
-    "lead_preview": "IL DOLLARO PERDE 42 CENTESIMI IN UN ANNO Roma, 3 maggio. Il dollaro è sceso a 0,58 euro, un crollo senza precedenti dal ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
