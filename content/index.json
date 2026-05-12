@@ -1,5 +1,24 @@
 [
   {
+    "id": "98e66a180d2ecec2",
+    "slug": "la-sardegna-sbarca-su-topolino-98e66a180d2ecec2",
+    "title": "Topolino festeggia 1.500 anni di Sardegna con uno speciale di 40 pagine",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-11T15:31:22.228043+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
+    "occhiello": "TOPOLINO IN SARDEGNA: 40 PAGINE DI STORIA PER 220.000 LETTORI",
+    "lead_preview": "Cagliari, 12 maggio. La Sardegna sbarca su Topolino con uno speciale di quaranta pagine per celebrare 1.500 anni di stor",
+    "tags": [
+      "topolino sardegna",
+      "1500 anni sardegna",
+      "speciale topolino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260511",
     "slug": "libro-del-giorno-non-sara-unavventuradi-rita-trigilio-20260511",
     "title": "Trigilio denuncia: 'Non sarà un'avventura' non è mio Libro",
@@ -661,24 +680,6 @@
     "tags": [
       "borsa new york",
       "dow jones"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "98e66a180d2ecec2",
-    "slug": "la-sardegna-sbarca-su-topolino-98e66a180d2ecec2",
-    "title": "Topolino in Sardegna: 40 pagine di storia nuragica per 220.000 lettori",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-11T15:31:22.228043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
-    "occhiello": "QUARANTA PAGINE PER 1.500 ANNI DI STORIA",
-    "lead_preview": "QUARANTA PAGINE PER 1.500 ANNI DI STORIA Cagliari, 12 maggio. La Sardegna sbarca su Topolino con uno speciale di quarant",
-    "tags": [
-      "topolino sardegna",
-      "storia nuragica"
     ],
     "hero_eligible": true
   },
