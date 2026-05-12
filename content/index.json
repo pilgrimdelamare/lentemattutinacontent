@@ -1,5 +1,24 @@
 [
   {
+    "id": "d1cb3da372efd742",
+    "slug": "dow-jones-affonda-dello-01-wall-street-arranca-sen-d1cb3da372efd742",
+    "title": "Borse USA arrancano: Dow Jones perde 41 punti, Nasdaq scivola dello 0,12%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-11T14:04:54.088226+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/ccefbf86f9f280adc92a893763641f74.jpg",
+    "occhiello": "WALL STREET IN BRONCO MORTO",
+    "lead_preview": "New York, 11 maggio. La Borsa di New York arranca in apertura: il Dow Jones Industrial Average perde 0,10 punti percentu",
+    "tags": [
+      "borse usa",
+      "dow jones",
+      "nasdaq"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "35a0ecc7c98e44ba",
     "slug": "352000-russi-morti-in-ucraina-35a0ecc7c98e44ba",
     "title": "Russia, 352mila soldati morti in Ucraina secondo Mediazona e BBC",
@@ -700,24 +719,6 @@
     "tags": [
       "coppa italia",
       "juventus"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1cb3da372efd742",
-    "slug": "dow-jones-affonda-dello-01-wall-street-arranca-sen-d1cb3da372efd742",
-    "title": "Wall Street scivola: Dow Jones perde lo 0,10% in una mattinata senza spiegazioni concrete",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-11T14:04:54.088226+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/ccefbf86f9f280adc92a893763641f74.jpg",
-    "occhiello": "WALL STREET ARRANCA SENZA UNA LOGICA",
-    "lead_preview": "New York, 11 maggio. La Borsa di New York apre in territorio negativo: il Dow Jones perde lo 0,10%, il Nasdaq scende del",
-    "tags": [
-      "borsa new york",
-      "dow jones"
     ],
     "hero_eligible": true
   },
