@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a30e33bd6161ca5",
+    "slug": "tennis-film-su-panatta-e-la-davis-del-76-muccino-l-5a30e33bd6161ca5",
+    "title": "Tennis: Muccino racconta la Coppa Davis 1976 con Panatta",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-12T11:30:43.580259+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/1/99c7b183fc2d324aa0a9b3948792c399.jpg",
+    "occhiello": "FILM SU PANATTA, 50 ANNI DOPO",
+    "lead_preview": "Roma, 12 maggio. Gabriele Muccino torna al cinema con \"Come una Coppa\", un documentario prodotto da Indigo Film e Vision",
+    "tags": [
+      "coppa davis 1976",
+      "panatta muccino",
+      "documentario tennis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d23664e4bf470924",
     "slug": "trump-dichiara-nulla-di-formalizzato-con-putin-d23664e4bf470924",
     "title": "Trump: no ad accordo formale con Putin sul Donbass",
@@ -624,25 +643,6 @@
       "champions league napoli",
       "calcio semifinali",
       "modello opta predictor"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5a30e33bd6161ca5",
-    "slug": "tennis-film-su-panatta-e-la-davis-del-76-muccino-l-5a30e33bd6161ca5",
-    "title": "Tennis: Muccino gira \"Come una Coppa\" su Panatta e la Davis",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-12T11:30:43.580259+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/1/99c7b183fc2d324aa0a9b3948792c399.jpg",
-    "occhiello": "MUCCINO RACCONTA PANATTA IN \"COME UNA COPPA\"",
-    "lead_preview": "MUCCINO RACCONTA PANATTA IN \"COME UNA COPPA\" Roma, 12 maggio. Un film per celebrare i cinquant’anni della vittoria itali",
-    "tags": [
-      "film panatta",
-      "coppa davis 1976",
-      "silvio muccino"
     ],
     "hero_eligible": true
   },
