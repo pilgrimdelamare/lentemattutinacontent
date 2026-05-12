@@ -1,5 +1,24 @@
 [
   {
+    "id": "6d38ec77ac7d18d4",
+    "slug": "doris-taglia-5000-consulenti-lia-di-mediolanum-sos-6d38ec77ac7d18d4",
+    "title": "200 Nuovi consulenti a Torino: Mediolanum assume e porta i professionisti a 5.000",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-11T07:46:50.440932+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/ea315060d35aa679b01b0be3d8edd91b.jpg",
+    "occhiello": "200 CONSULENTI A TORINO",
+    "lead_preview": "200 CONSULENTI A TORINO Torino, 11 maggio. Banca Mediolanum assume 200 consulenti finanziari nella sua convention cittad",
+    "tags": [
+      "mediolanum torino",
+      "assunzioni consulenti",
+      "banca mediolanum"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "24db31aa5a83055e",
     "slug": "basket-jalen-duren-sbaglia-il-passaggio-decisivo-e-24db31aa5a83055e",
     "title": "Basket: Jalen Duren sbaglia il passaggio decisivo e chiude la Serie Pistons-Cavs in parità",
@@ -792,24 +811,6 @@
       "calcio ravanelli",
       "modello inzaghi",
       "napoli inter"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d38ec77ac7d18d4",
-    "slug": "doris-taglia-5000-consulenti-lia-di-mediolanum-sos-6d38ec77ac7d18d4",
-    "title": "Banca Mediolanum assume 200 consulenti a Torino: il boom della finanza al Nord",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-11T07:46:50.440932+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/ea315060d35aa679b01b0be3d8edd91b.jpg",
-    "occhiello": "MEDIOLANUM RADUNA 5.000 CONSULENTI A TORINO: DORIS ANNUNCIA 200 NUOVE ASSUNZIONI",
-    "lead_preview": "Torino, 5.000 consulenti per la convention di Banca Mediolanum Torino, 11 maggio. Cinquemila consulenti finanziari di Ba",
-    "tags": [
-      "banca mediolanum",
-      "convention torino"
     ],
     "hero_eligible": true
   },
