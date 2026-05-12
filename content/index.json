@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 12 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-12T05:46:42.215313+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e62a9482a7077974b85ec3ed7ebb39db28876ebf/skytg24/it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 12 MAGGIO 2026",
+    "lead_preview": "I quotidiani italiani dedicano l’apertura all’hantavirus, con casi in Francia, Italia e quarantene per contatti stretti,",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "35a15d6e82c3edf0",
     "slug": "simone-attacca-milan-non-e-piu-milan-35a15d6e82c3edf0",
     "title": "Marco Simone spara: \"Il Milan di Elliott non esiste più\"",
@@ -1164,25 +1183,6 @@
       "calcio mercato",
       "pep guardiola",
       "west ham"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 11 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-11T05:47:34.136658+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5fde53b847f9e61bd0eb74e90f9d7eedffb42e57/skytg24/it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio/Composite_11_maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 11 MAGGIO 2026. GUERRA E POLITICA.",
-    "lead_preview": "La prima pagina dei quotidiani italiani sono dominata oggi dalla crisi della tregua tra Stati Uniti e Iran, nonché dall'",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
