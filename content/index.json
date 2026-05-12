@@ -1,5 +1,24 @@
 [
   {
+    "id": "e51c11334e5b5235",
+    "slug": "ue-invita-i-talebani-a-bruxelles-si-parla-di-rimpa-e51c11334e5b5235",
+    "title": "UE chiama i Talebani a Bruxelles: domani l’incontro segreto sul rimpatrio degli afghani",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-12T13:35:03.065212+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/16/3730c6e2ffbe3ce831740360933bf07c.jpg",
+    "occhiello": "INCONTRO A BRUXELLES TRA UE E TALIBANI",
+    "lead_preview": "Bruxelles, 12 maggio — L’Unione europea ha convocato a Bruxelles una delegazione dei talebani per un incontro tecnico su",
+    "tags": [
+      "talebani ue",
+      "rimpatri afghani",
+      "incontro bruxelles"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "54686d786ad2b956",
     "slug": "vincenzo-salemme-debutta-con-53-date-54686d786ad2b956",
     "title": "Vincenzo Salemme debutta con 53 date",
@@ -253,25 +272,6 @@
     "tags": [
       "kiran desai",
       "la solitudine di sonia e sunny"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e51c11334e5b5235",
-    "slug": "ue-invita-i-talebani-a-bruxelles-si-parla-di-rimpa-e51c11334e5b5235",
-    "title": "UE invita i talebani a Bruxelles: si parla di rimpatri forzati dalla prossima settimana",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-12T13:35:03.065212+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/16/3730c6e2ffbe3ce831740360933bf07c.jpg",
-    "occhiello": "INVITO UE AI TALIBANI PER I RIMPATRI A BRUXELLES",
-    "lead_preview": "Bruxelles, 12 maggio — L’Unione Europea ha invitato i talebani a un incontro tecnico a Bruxelles per discutere il rimpat",
-    "tags": [
-      "talebani rimpatri forzati",
-      "ue afghanistan",
-      "incontro brussels"
     ],
     "hero_eligible": true
   },
