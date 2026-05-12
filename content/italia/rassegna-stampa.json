@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 11 maggio 2026",
+  "title": "Le prime pagine di oggi, martedì 12 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 11 maggio 2026",
-    "Le prime pagine di oggi, lunedì 11 maggio 2026",
-    "Le prime pagine di oggi, lunedì 11 maggio 2026"
+    "Le prime pagine di oggi, martedì 12 maggio 2026",
+    "Le prime pagine di oggi, martedì 12 maggio 2026",
+    "Le prime pagine di oggi, martedì 12 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 11 MAGGIO 2026. GUERRA E POLITICA.",
-  "lead": "La prima pagina dei quotidiani italiani sono dominata oggi dalla crisi della tregua tra Stati Uniti e Iran, nonché dall'inchiesta Giuli. Corriere della Sera, Repubblica, La Stampa e Fatto Quotidiano occupano gran parte delle prime pagine con questi argomenti, mentre Gazzetta dello Sport e Corriere dello Sport si concentrano sull'attualità sportiva, con l'attenzione sul Milan e sulla Serie A. Inoltre, l'Adunata alpini a Genova occupa alcune pagine di alcuni quotidiani.",
-  "corpo1": "Corriere della Sera titola sulla rottura tra Donald Trump e l'Iran, con il presidente Usa che giudica \"inaccettabile\" la risposta di Teheran al piano statunitense per la tregua. La prima pagina è dedicata a questa notizia, con una fotonotizia sullo sbarco di Trump a Baghdad. Repubblica invece si concentra sull'inchiesta Giuli, con il titolo \"Lo 'strappo' di Giuli trova ampia vibilità\". Sulla stessa nota, La Stampa titola \"Iran-Usa, pace in frantumi\", chiudendo definitivamente i residui spiragli di prolungamento della tregua nel conflitto in Medioriente. Fatto Quotidiano invece si concentra sulla vicenda Nicole Minetti, con la massaggiatrice che parla di \"festini per vip con ragazze anche minorenni\". Gazzetta dello Sport e Corriere dello Sport si concentrano sull'attualità sportiva, con l'attenzione sul Milan e sulla Serie A. Infine, Adunata alpini a Genova occupa alcune pagine di alcuni quotidiani, con l'offerta Prova 30 giorni e il decoder Sky Stream.",
-  "corpo2": "Altro titolo di rilievo è \"Nuove rivelazioni legate alla vicenda di Nicole Minetti\" sul Fatto Quotidiano, e \"Nuovo tracollo del Milan\" sulla Gazzetta dello Sport. Il tema dominante della giornata è la crisi della tregua tra Stati Uniti e Iran.",
+  "occhiello": "LE PRIME PAGINE 12 MAGGIO 2026",
+  "lead": "I quotidiani italiani dedicano l’apertura all’hantavirus, con casi in Francia, Italia e quarantene per contatti stretti, mentre il ministero vara un piano di interventi. Sky TG24 e la Repubblica seguono anche la guerra in Ucraina e le tensioni in Iran. Il Corriere della Sera e la Gazzetta dello Sport spostano l’attenzione sul calcio, con il Napoli in crisi e l’Inter nel mirino. La Stampa e il Corriere dello Sport aprono invece su politica estera, Trump in Cina e il caso Garlasco.",
+  "corpo1": "Il Messaggero titola su due temi: l’adunata degli alpini a Genova con l’offerta di una “Prova 30 giorni” e l’hantavirus, definendolo “la catena dei contagi” con casi in Francia e Italia. Sky TG24 dedica la prima pagina alla guerra in Ucraina, definendola “in terapia intensiva”, e alla visita di Donald Trump in Cina insieme a Musk e Cook. La Repubblica apre sull’hantavirus e sulle prime sanzioni Ue contro i coloni israeliani, mentre Il Messaggero e Il Giorno soffermano l’attenzione sul piano italiano di quarantena di sei settimane per i contatti stretti del virus. La Stampa e il Corriere della Sera aprono invece sul caso Garlasco, con l’arrivo di Andrea Sempio a Roma per la perizia psicologica e le dichiarazioni di innocenza del 36enne.",
+  "corpo2": "La Gazzetta dello Sport dedica l’apertura al Milan, definendolo “inferno” e segnalando rischi per dirigenti e calciatori. Il Corriere dello Sport titola sulla sconfitta del Napoli contro il Bologna, definendolo “il Napoli si fa male” e aprendo anche sul turno di domenica con Lazio-Inter. Completano la rassegna i titoli su Trump in Cina, le tensioni con i Pasdaran e l’intervento del vicepremier Antonio Tajani sull’Europa senza veto. Il tema dominante della giornata è la salute pubblica con l’hantavirus, affiancato da cronaca nera, politica estera e sport.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-11T05:47:34.136658+00:00",
+  "published_at": "2026-05-12T05:46:42.215313+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/5fde53b847f9e61bd0eb74e90f9d7eedffb42e57/skytg24/it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio/Composite_11_maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/e62a9482a7077974b85ec3ed7ebb39db28876ebf/skytg24/it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio/collage_1.png?im=Resize,width=375",
     "source": "Adunata alpini a Genova",
     "credit": "Prima pagina — Adunata alpini a Genova",
     "license": "editorial"
@@ -35,14 +35,21 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/11/prime-pagine-quotidiani-oggi-11-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 11 maggio 2026",
+      "title": "Oroscopo di oggi, martedì 12 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "Topolino festeggia 1.500 anni di Sardegna con uno speciale di 40 pagine",
+      "url": "/cultura/la-sardegna-sbarca-su-topolino-98e66a180d2ecec2",
+      "id": "98e66a180d2ecec2",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
+      "image_type": "image"
     },
     {
       "title": "Einaudi lancia nuova collana con il romanzo di Aria Aber, esce oggi in libreria a Torino",
@@ -50,13 +57,6 @@
       "id": "libro-20260509",
       "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
       "image_type": "url"
-    },
-    {
-      "title": "Darderi annuncia: «Il mio dritto è una bomba, e oggi ho dimostrato perché sono il prossimo grande»",
-      "url": "/sport/tennis-darderi-batte-hanfmann-e-incassa-92mila-eur-18c22abde35e22ed",
-      "id": "18c22abde35e22ed",
-      "image_url": "https://sport.sky.it/assets/images/6c6b74dc095678397646ed72f3b086326ebb61d8/skysport/it/tennis/video/2026/05/09/darderi-hanfmann-atp-roma-highlights-1096452/darderi_hl.jpg",
-      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
