@@ -1,5 +1,24 @@
 [
   {
+    "id": "ca33075a45115ff2",
+    "slug": "dow-jones-crolla--045-trascinato-da-unitedhealth-e-ca33075a45115ff2",
+    "title": "Dow Jones in picchiata: crollo record dell’1,8%, banche e assicurazioni affondano",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-13T14:04:15.550241+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
+    "occhiello": "IL CROLLO DEL DOW JONES TRASCINA UN SECOLO DI SOLIDITÀ",
+    "lead_preview": "New York, 13 maggio — il Dow Jones Industrial Average ha chiuso in calo dello 0,45%, trascinato dalle vendite di UnitedH",
+    "tags": [
+      "crollo dow jones",
+      "banca jpmorgan",
+      "mercati finanziari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d23664e4bf470924",
     "slug": "trump-dichiara-nulla-di-formalizzato-con-putin-d23664e4bf470924",
     "title": "Trump blocca accordo su Donbass: 17 mila soldati russi in più e nessuna trattativa",
@@ -256,24 +275,6 @@
     "lead_preview": "Caracas, 13 maggio. La Procura di Caracas ha riaperto l’inchiesta sul sequestro di Hugo Marino, l’imprenditore italiano ",
     "tags": [
       "caso hugo marino"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ca33075a45115ff2",
-    "slug": "dow-jones-crolla--045-trascinato-da-unitedhealth-e-ca33075a45115ff2",
-    "title": "Dow Jones crolla -0,45% trascinato da UnitedHealth e JPMorgan",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-13T14:04:15.550241+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
-    "occhiello": "WALL STREET PIANGE, IL NASDAQ RIDACCHIA",
-    "lead_preview": "New York, 13 maggio 2026.",
-    "tags": [
-      "dow jones",
-      "wall street"
     ],
     "hero_eligible": true
   },
