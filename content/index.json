@@ -1,5 +1,24 @@
 [
   {
+    "id": "afc11d5fce7c85db",
+    "slug": "roma-registra-28000-controversie-chiuse-afc11d5fce7c85db",
+    "title": "Roma chiude 28.000 cause in un anno: +12% grazie al decreto Giustizia rapida",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-13T08:45:44.722194+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2017/5/6/a763e0ba0d96e57fca17886ba1d1cbe5.jpg",
+    "occhiello": "28.000 CONTROVERSIE CHIUSE A ROMA",
+    "lead_preview": "28.000 CONTROVERSIE CHIUSE A ROMA Roma, 13 maggio. Il Tribunale di Roma ha chiuso 28.000 controversie civili nel 2025, c",
+    "tags": [
+      "decreto giustizia rapida",
+      "tribunale di roma",
+      "cause civili 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eb452d9427f10686",
     "slug": "carlo-messina-dichiara-investimenti-green-eb452d9427f10686",
     "title": "Intesa spende 112 miliardi \"verdi\" ma nel 2025 dà 4,2 miliardi agli azionisti",
@@ -142,23 +161,6 @@
       "dividendi illy",
       "crisi aziendale illy",
       "conflitto azionisti-dipendenti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "afc11d5fce7c85db",
-    "slug": "roma-registra-28000-controversie-chiuse-afc11d5fce7c85db",
-    "title": "Roma registra 28.000 controversie chiuse",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-13T08:45:44.722194+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2017/5/6/a763e0ba0d96e57fca17886ba1d1cbe5.jpg",
-    "occhiello": "1 SU 3 CONTENZIOSI SI ARRENDE",
-    "lead_preview": "Roma, 13 maggio.",
-    "tags": [
-      "controversie roma"
     ],
     "hero_eligible": true
   },
