@@ -1,5 +1,24 @@
 [
   {
+    "id": "accf477e180e40a8",
+    "slug": "caracas-riaperta-linchiesta-sulla-scomparsa-dellit-accf477e180e40a8",
+    "title": "Venezuela, riaperta inchiesta su imprenditore italiano rapito 7 anni fa: cercato con georadar",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-12T22:58:57.282464+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/69d7847dbd58ea3882309f5282dffd84.jpg",
+    "occhiello": "IL PROCURATORE NON CI STA PIÙ",
+    "lead_preview": "Caracas, 13 maggio. Ieri la Procura di Caracas ha riaperto l’inchiesta sulla scomparsa di Hugo Marino, l’imprenditore it",
+    "tags": [
+      "venezuela rapimento",
+      "inchiesta hugo marino",
+      "georadar venezuela"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "432398403a359cf3",
     "slug": "italia-nautica-a-5-annuo-mentre-mercato-globale-cr-432398403a359cf3",
     "title": "Italia nautica a +5% annuo mentre mercato globale crolla 2,1% (-33,3 miliardi)",
@@ -445,25 +464,6 @@
     "tags": [
       "elezione quirinale",
       "marina berlusconi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "accf477e180e40a8",
-    "slug": "caracas-riaperta-linchiesta-sulla-scomparsa-dellit-accf477e180e40a8",
-    "title": "Caracas: riaperta l'inchiesta sulla scomparsa dell'italo-venezuelano Hugo Marino",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-12T22:58:57.282464+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/69d7847dbd58ea3882309f5282dffd84.jpg",
-    "occhiello": "La madre di Marino chiede verità e non parole",
-    "lead_preview": "Caracas, 13 maggio. La riapertura dell’inchiesta sul caso Quero Navas ha riportato alla luce la scomparsa, sette anni fa",
-    "tags": [
-      "caso marino",
-      "scomparsa venezuela",
-      "inchiesta queronavas"
     ],
     "hero_eligible": true
   },
