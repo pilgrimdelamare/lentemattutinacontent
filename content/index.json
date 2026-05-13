@@ -1,5 +1,24 @@
 [
   {
+    "id": "5e378d7c0453aa26",
+    "slug": "nordio-libera-5000-detenuti-tossici-e-malati-carce-5e378d7c0453aa26",
+    "title": "Nordio libera 5.000 detenuti senza controllo: Regioni abbandonate a se stesse",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-05-12T23:25:41.702838+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/12/223737613-6cb21118-f75a-460f-9103-1acc53f961d9.jpg",
+    "occhiello": "NORDIO FIRMA DECRETO SENZA LEGGE",
+    "lead_preview": "Roma, 13 maggio. Il ministro della Giustizia Carlo Nordio ha varato un decreto per liberare 5.000 detenuti — tossicodipe",
+    "tags": [
+      "decreto nordio detenuti",
+      "liberazione tossicodipendenti",
+      "regioni custodia detenuti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4ca9c710ff9dff49",
     "slug": "una-dirigente-bloccata-un-uomo-promosso-la-stessa-4ca9c710ff9dff49",
     "title": "ENEL assume uomo a 145mila euro, bocciando donna con curriculum top in Europa",
@@ -160,24 +179,6 @@
       "internazionali roma 2026",
       "lorenzo musetti",
       "atp roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5e378d7c0453aa26",
-    "slug": "nordio-libera-5000-detenuti-tossici-e-malati-carce-5e378d7c0453aa26",
-    "title": "Nordio libera 5.000 detenuti tossici e malati: carceri meno sovraffollate",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-12T23:25:41.702838+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/12/223737613-6cb21118-f75a-460f-9103-1acc53f961d9.jpg",
-    "occhiello": "Il governo Meloni vara un decreto per la detenzione domiciliare di 5.000 detenuti",
-    "lead_preview": "Roma, 13 maggio. Il ministro della Giustizia Carlo Nordio ha firmato un decreto per concedere la detenzione domiciliari ",
-    "tags": [
-      "decreto nordio",
-      "carceri italiane"
     ],
     "hero_eligible": true
   },
