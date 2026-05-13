@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a8202340fb9b43f",
+    "slug": "kate-middleton-a-reggio-emilia-la-citta-in-subbugl-5a8202340fb9b43f",
+    "title": "Catherine Middleton visita Reggio Emilia, 2500 persone ad attenderla",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-12T15:14:40.667967+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/9/66ef51b747566eb294326f4dc9f44af5.jpg",
+    "occhiello": "PRINCIPESSA TRA UN PROTOCOLLO E UNO SPETTACOLO",
+    "lead_preview": "Reggio Emilia, 12 maggio. Alle 12:45 Catherine Middleton, principessa del Galles, è scesa da una Range Rover nera con ve",
+    "tags": [
+      "visita catherine middleton",
+      "regio emilia evento",
+      "principessa del galles"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4b39dc1f00587fc4",
     "slug": "tennis-musetti-eliminato-da-ruud-ljubicic-avverte-4b39dc1f00587fc4",
     "title": "Tennis: Musetti si inchina a Ruud, Ljubičić spara l'allarme a Parigi",
@@ -694,25 +713,6 @@
     "tags": [
       "inchiesta sparano",
       "rifiuti tossici napoli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5a8202340fb9b43f",
-    "slug": "kate-middleton-a-reggio-emilia-la-citta-in-subbugl-5a8202340fb9b43f",
-    "title": "Kate Middleton visita Reggio Emilia con 2.500 spettatori",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-12T15:14:40.667967+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/9/66ef51b747566eb294326f4dc9f44af5.jpg",
-    "occhiello": "KATE MIDDLETON IN PIAZZA PRAMPOLINI",
-    "lead_preview": "Reggio Emilia, 12 maggio. Alle 12:45 Catherine Middleton, principessa del Galles, ha fatto ingresso in piazza Prampolini",
-    "tags": [
-      "visita kate middleton",
-      "regio emilia",
-      "passeggiata reale"
     ],
     "hero_eligible": true
   },
