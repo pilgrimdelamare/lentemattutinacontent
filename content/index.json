@@ -1,5 +1,22 @@
 [
   {
+    "id": "accf477e180e40a8",
+    "slug": "caracas-riaperta-linchiesta-sulla-scomparsa-dellit-accf477e180e40a8",
+    "title": "Venezuelana riapre inchiesta su Hugo Marino, imprenditore italiano rapito nel",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-12T22:58:57.282464+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/69d7847dbd58ea3882309f5282dffd84.jpg",
+    "occhiello": "GEORADAR E 7 ANNI DI SILENZIO",
+    "lead_preview": "Caracas, 13 maggio. La Procura di Caracas ha riaperto l’inchiesta sul sequestro di Hugo Marino, l’imprenditore italiano ",
+    "tags": [
+      "caso hugo marino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ca33075a45115ff2",
     "slug": "dow-jones-crolla--045-trascinato-da-unitedhealth-e-ca33075a45115ff2",
     "title": "Dow Jones crolla -0,45% trascinato da UnitedHealth e JPMorgan",
@@ -642,25 +659,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "accf477e180e40a8",
-    "slug": "caracas-riaperta-linchiesta-sulla-scomparsa-dellit-accf477e180e40a8",
-    "title": "Venezuela, riaperta inchiesta su imprenditore italiano rapito 7 anni fa: cercato con georadar",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-12T22:58:57.282464+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/69d7847dbd58ea3882309f5282dffd84.jpg",
-    "occhiello": "IL PROCURATORE NON CI STA PIÙ",
-    "lead_preview": "Caracas, 13 maggio. Ieri la Procura di Caracas ha riaperto l’inchiesta sulla scomparsa di Hugo Marino, l’imprenditore it",
-    "tags": [
-      "venezuela rapimento",
-      "inchiesta hugo marino",
-      "georadar venezuela"
     ],
     "hero_eligible": true
   },
