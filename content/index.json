@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 13 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-13T05:45:30.220557+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/7bd02b5549e43619b9ce96c0c8ee2ea92b6f244e/skytg24/it/cronaca/2026/05/13/prime-pagine-quotidiani-oggi-13-maggio/rassegna13maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 13 MAGGIO 2026",
+    "lead_preview": "Le prime pagine dei principali quotidiani italiani oggi convergono sulla minaccia nucleare dell’Iran e sulle tensioni in",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "accf477e180e40a8",
     "slug": "caracas-riaperta-linchiesta-sulla-scomparsa-dellit-accf477e180e40a8",
     "title": "Venezuela, riaperta inchiesta su imprenditore italiano rapito 7 anni fa: cercato con georadar",
@@ -1079,25 +1098,6 @@
     "tags": [
       "dua lipa samsung",
       "caso dua lipa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 12 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-12T05:46:42.215313+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e62a9482a7077974b85ec3ed7ebb39db28876ebf/skytg24/it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 12 MAGGIO 2026",
-    "lead_preview": "I quotidiani italiani dedicano l’apertura all’hantavirus, con casi in Francia, Italia e quarantene per contatti stretti,",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
