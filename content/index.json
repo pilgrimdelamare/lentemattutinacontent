@@ -1,5 +1,22 @@
 [
   {
+    "id": "afc11d5fce7c85db",
+    "slug": "roma-registra-28000-controversie-chiuse-afc11d5fce7c85db",
+    "title": "Roma registra 28.000 controversie chiuse",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-13T08:45:44.722194+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2017/5/6/a763e0ba0d96e57fca17886ba1d1cbe5.jpg",
+    "occhiello": "1 SU 3 CONTENZIOSI SI ARRENDE",
+    "lead_preview": "Roma, 13 maggio.",
+    "tags": [
+      "controversie roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4b6a5eefbb698c9a",
     "slug": "bessent-e-he-lifeng-trattano-a-seul-nessun-accordo-4b6a5eefbb698c9a",
     "title": "Bessent e He Lifeng trattano a Seul, nessun accordo su 760 miliardi di dazi",
@@ -9030,21 +9047,6 @@
       "shiva vince",
       "fimi classifica"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8f153cbbe59b8ab7",
-    "slug": "fiorini-al-suolo-a-olimpico-8f153cbbe59b8ab7",
-    "title": "Roma stendono firenze con un 4-0 che suona d'ultimatum",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-04T22:29:45.342939+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/86b1e212f69d789b4321af6c2f0e4e8aecef5f33/skysport/it/calcio/serie-a/video/2026/05/04/1095346_1777928043253_thumb_494.0000001_1777928114637.jpg",
-    "occhiello": "ROMA STENDONO FIRENZE CON UN 4-0 CHE SUONA D'ULTIMATUM",
-    "lead_preview": "Roma, 4 maggio. La Roma liquida la Fiorentina 4-0 al trentasettesimo turno di Serie A, infliggendo ai viola la peggiore ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
