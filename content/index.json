@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260513",
+    "slug": "libro-del-giorno-la-nebbia-sale-dalla-terradi-antonella-20260513",
+    "title": "Il libro del giorno: «La nebbia sale dalla terradi Antonella Presutti»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'opera che esplora il mondo interiore e la geografia emotiva di Lina Pietravalle attraverso un tessuto narrativo polif",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-13T07:01:30.824731+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868516277_0_0_424_0_75-5613c.jpg?1775679492",
+      "alt": "Copertina: La nebbia sale dalla terradi Antonella Presutti",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868516277_0_0_424_0_75-5613c.jpg?1775679492",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "188bc11faf41ca1f",
     "slug": "gehry-espone-sculture-leggere-come-il-pensiero-fis-188bc11faf41ca1f",
     "title": "Pesce d'acciaio d'oro: 1,2 milioni per Gehry",
@@ -9019,25 +9038,6 @@
       "rubio minaccia roma",
       "chip militari huawei",
       "rubio convoca ambasciatore"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "02107183912f058d",
-    "slug": "calcio-marcelino-lascia-il-villarreal-dopo-la-qual-02107183912f058d",
-    "title": "Marcelino vola via con 2 milioni: Villarreal perde l’allenatore ma anche i soldi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-04T13:46:20.501281+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/a773195efe6226ccae739725b3c804ae.jpg",
-    "occhiello": "MARCELINO SE NE VA CON 2 MILIONI IN PIÙ",
-    "lead_preview": "MARCELINO SE NE VA CON 2 MILIONI IN PIÙ Castellón, 4 maggio. Marcelino García Toral non siederà più sulla panchina del V",
-    "tags": [
-      "marcelino villarreal",
-      "rescissione villarreal",
-      "calcio mercato"
     ],
     "hero_eligible": true
   }
