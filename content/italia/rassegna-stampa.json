@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 12 maggio 2026",
+  "title": "Le prime pagine di oggi, mercoledì 13 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 12 maggio 2026",
-    "Le prime pagine di oggi, martedì 12 maggio 2026",
-    "Le prime pagine di oggi, martedì 12 maggio 2026"
+    "Le prime pagine di oggi, mercoledì 13 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 13 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 13 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 12 MAGGIO 2026",
-  "lead": "I quotidiani italiani dedicano l’apertura all’hantavirus, con casi in Francia, Italia e quarantene per contatti stretti, mentre il ministero vara un piano di interventi. Sky TG24 e la Repubblica seguono anche la guerra in Ucraina e le tensioni in Iran. Il Corriere della Sera e la Gazzetta dello Sport spostano l’attenzione sul calcio, con il Napoli in crisi e l’Inter nel mirino. La Stampa e il Corriere dello Sport aprono invece su politica estera, Trump in Cina e il caso Garlasco.",
-  "corpo1": "Il Messaggero titola su due temi: l’adunata degli alpini a Genova con l’offerta di una “Prova 30 giorni” e l’hantavirus, definendolo “la catena dei contagi” con casi in Francia e Italia. Sky TG24 dedica la prima pagina alla guerra in Ucraina, definendola “in terapia intensiva”, e alla visita di Donald Trump in Cina insieme a Musk e Cook. La Repubblica apre sull’hantavirus e sulle prime sanzioni Ue contro i coloni israeliani, mentre Il Messaggero e Il Giorno soffermano l’attenzione sul piano italiano di quarantena di sei settimane per i contatti stretti del virus. La Stampa e il Corriere della Sera aprono invece sul caso Garlasco, con l’arrivo di Andrea Sempio a Roma per la perizia psicologica e le dichiarazioni di innocenza del 36enne.",
-  "corpo2": "La Gazzetta dello Sport dedica l’apertura al Milan, definendolo “inferno” e segnalando rischi per dirigenti e calciatori. Il Corriere dello Sport titola sulla sconfitta del Napoli contro il Bologna, definendolo “il Napoli si fa male” e aprendo anche sul turno di domenica con Lazio-Inter. Completano la rassegna i titoli su Trump in Cina, le tensioni con i Pasdaran e l’intervento del vicepremier Antonio Tajani sull’Europa senza veto. Il tema dominante della giornata è la salute pubblica con l’hantavirus, affiancato da cronaca nera, politica estera e sport.",
+  "occhiello": "LE PRIME PAGINE 13 MAGGIO 2026",
+  "lead": "Le prime pagine dei principali quotidiani italiani oggi convergono sulla minaccia nucleare dell’Iran e sulle tensioni internazionali correlate, con particolare attenzione al confronto tra Stati Uniti e Cina. *Corriere della Sera*, *la Repubblica* e *La Stampa* aprono su questo tema, mentre *Il Messaggero* si concentra sugli eventi di cronaca nera e sportiva. Alcuni giornali dedicano spazio anche a questioni sanitarie e politiche interne.",
+  "corpo1": "Il *Corriere della Sera* titola in apertura sull’Iran con \"La minaccia nucleare dell’Iran\", affiancando il viaggio di Trump in Cina per l’incontro con Xi e i casi di Hantavirus in Italia. *la Repubblica* apre invece su \"Iran, minaccia nucleare Xi-Trump, prova di forza\", analizzando il confronto tra Washington e Pechino. *La Stampa* dedica la prima pagina al calcio con \"Il caos derby si poteva evitare\", intervistando il ministro dell’Interno Piantedosi. *Il Messaggero* si distingue con \"Conte lo sfascia conti\", denunciando presunte frodi nel Superbonus per 174 miliardi. *Il Giorno* punta sulla finale di Coppa Italia con \"Coppa Mia\", in vista della sfida Lazio-Inter.",
+  "corpo2": "Anche *Il Sole 24 Ore* si concentra sull’Iran, titolando \"Pentagono: i costi della guerra all’Iran saliti a 29 miliardi\". *Il Tempo* dedica spazio alla Ue e Meta con \"La Ue a Meta: paghi per i contenuti\", mentre *Il Mattino* segue la cronaca nera con il caso Garlasco. Il tema dominante della giornata rimane comunque la tensione internazionale, con una forte attenzione ai rischi sanitari e alle questioni economiche.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-12T05:46:42.215313+00:00",
+  "published_at": "2026-05-13T05:45:30.220557+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e62a9482a7077974b85ec3ed7ebb39db28876ebf/skytg24/it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/7bd02b5549e43619b9ce96c0c8ee2ea92b6f244e/skytg24/it/cronaca/2026/05/13/prime-pagine-quotidiani-oggi-13-maggio/rassegna13maggio.jpg?im=Resize,width=375",
     "source": "Adunata alpini a Genova",
     "credit": "Prima pagina — Adunata alpini a Genova",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/12/prime-pagine-quotidiani-oggi-12-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/13/prime-pagine-quotidiani-oggi-13-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 12 maggio 2026",
+      "title": "Oroscopo di oggi, mercoledì 13 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
