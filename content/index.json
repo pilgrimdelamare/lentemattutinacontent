@@ -1,5 +1,23 @@
 [
   {
+    "id": "ca33075a45115ff2",
+    "slug": "dow-jones-crolla--045-trascinato-da-unitedhealth-e-ca33075a45115ff2",
+    "title": "Dow Jones crolla -0,45% trascinato da UnitedHealth e JPMorgan",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-13T14:04:15.550241+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/11/56ce507c093c77ff46ba9e37e4a02de9.jpg",
+    "occhiello": "WALL STREET PIANGE, IL NASDAQ RIDACCHIA",
+    "lead_preview": "New York, 13 maggio 2026.",
+    "tags": [
+      "dow jones",
+      "wall street"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3d49a9a64e20c75c",
     "slug": "tennis-pennetta-sfida-khachanov-in-diretta-su-sky-3d49a9a64e20c75c",
     "title": "Tennis: Flavia Pennetta canta l'addio al Foro Italico",
@@ -9032,25 +9050,6 @@
     "occhiello": "UNICREDIT E COMMERZBANK, LA GUERRA DEI PIANI",
     "lead_preview": "Francoforte, 4 maggio. Commerzbank ha respinto la proposta di Unicredit definendo il piano di integrazione «una strategi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "03327d02604e676d",
-    "slug": "basket-cade-cunningham-guida-i-pistons-alla-gloria-03327d02604e676d",
-    "title": "Basket: Detroit spende la fortuna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-04T08:18:53.117716+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/379c073cd9b9de3923e23159b52acf78fb0e3989/skysport/it/nba/2026/05/04/nba-detroit-pistons-orlando-magic-rimonta/tracy_mcgrady_2003.jpg",
-    "occhiello": "CUNNINGHAM FIRMA PER 310 MILIONI IN CINQUE ANNI",
-    "lead_preview": "Detroit, 4 maggio 2026. I Detroit Pistons hanno sconfitto i Philadelphia 76ers 102-97 in una partita senza storia all’Li",
-    "tags": [
-      "basket",
-      "cunningham",
-      "nba"
-    ],
     "hero_eligible": true
   }
 ]
