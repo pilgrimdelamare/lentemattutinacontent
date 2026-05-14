@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff27536b19d51a6e",
+    "slug": "drone-dal-libano-colpisce-golan-4-soldati-israelia-ff27536b19d51a6e",
+    "title": "Drone dal Libano colpisce Golan: 4 soldati israeliani feriti",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-14T11:01:28.796640+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/30/31f76553ab62e2b181ba48591901b4dd.jpg",
+    "occhiello": "DRONE HIZBULLAH FERISCE SULLE ALTURE DEL GOLAN",
+    "lead_preview": "Tel Aviv, 14 maggio — Un drone partito dal Libano meridionale ha colpito questa mattina la zona delle Alture del Golan, ",
+    "tags": [
+      "attacco drone golan",
+      "hizbullah israel",
+      "alture del golan"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "553491c0060671c9",
     "slug": "peter-jackson-difende-lia-al-festival-di-cannes-553491c0060671c9",
     "title": "Peter Jackson spende 4,2 milioni dell'UE per una regia fatta dall'AI",
@@ -9059,21 +9078,6 @@
       "fondi ue",
       "aiuti nord"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "87a39c4aa5fdc3f3",
-    "slug": "torino-si-dotta-di-3-milioni-di-euro-per-centro-di-87a39c4aa5fdc3f3",
-    "title": "Museo Egizio alloca 3 milioni per centro ricerca digitale a Torino",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-04T10:43:55.935238+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/4a22d0c6856762eee5eece756a30b598.jpg",
-    "occhiello": "",
-    "lead_preview": "Torino, 4 maggio. Il Museo Egizio di Torino investe tre milioni di euro nella creazione di un centro di ricerca digitale",
-    "tags": [],
     "hero_eligible": true
   }
 ]
