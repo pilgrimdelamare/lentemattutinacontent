@@ -1,5 +1,23 @@
 [
   {
+    "id": "f55e8c42f0c45166",
+    "slug": "ciclismo-ballerini-vince-la-sesta-tappa-del-giro-d-f55e8c42f0c45166",
+    "title": "Ciclismo: Ballerini stacca tutti a Napoli e conquista la sesta tappa",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-14T16:03:38.920992+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/16/4266246c54ea202254d6a247c69349f0.jpg",
+    "occhiello": "BALLERINI SPEZZA IL GIRO A NAPOLI",
+    "lead_preview": "Napoli, 14 maggio — Davide Ballerini ha vinto la sesta tappa del Giro d’Italia 2026 in 4h12'38\", staccando sul traguardo",
+    "tags": [
+      "giro d'italia 2026",
+      "davide ballerini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "badac9691df2b055",
     "slug": "tennis-sinner-sfida-rublev-nei-1000-sogna-vittoria-badac9691df2b055",
     "title": "Tennis: Sinner-Rublëv domani alle 14, la semifinale che vale 200mila euro",
@@ -253,24 +271,6 @@
       "decreto fiscale 2024",
       "franchi tiratori meloni",
       "voto segreto senato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f55e8c42f0c45166",
-    "slug": "ciclismo-ballerini-vince-la-sesta-tappa-del-giro-d-f55e8c42f0c45166",
-    "title": "Ciclismo: Ballerini vince la sesta tappa del Giro d'Italia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-14T16:03:38.920992+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/16/4266246c54ea202254d6a247c69349f0.jpg",
-    "occhiello": "PRIMA VITTORIA ITALIANA NEL 2026",
-    "lead_preview": "PRIMA VITTORIA ITALIANA NEL 2026 Napoli, 14 maggio — Davide Ballerini ha vinto la sesta tappa del Giro d’Italia 2026 in ",
-    "tags": [
-      "giro d'italia 2026",
-      "davide ballerini"
     ],
     "hero_eligible": true
   },
