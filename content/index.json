@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260514",
+    "slug": "libro-del-giorno-quante-cose-ci-ha-rubato-la-guerradi-m-20260514",
+    "title": "Il libro del giorno: «Quante cose ci ha rubato la guerradi Manuela Barban»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico basato su una storia familiare vera durante la Seconda guerra mondiale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-14T07:00:44.200089+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/arton170801-10c1c.jpg?1775682774",
+      "alt": "Copertina: Quante cose ci ha rubato la guerradi Manuela Barban",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/arton170801-10c1c.jpg?1775682774",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "55596c65861ffc31",
     "slug": "oro-sale-dello-003-4690-dollari-per-oncia-a-roma-m-55596c65861ffc31",
     "title": "Oro sale dello 0,03%: 4.690 dollari per oncia a Roma, merito della politica monetaria",
@@ -9043,24 +9062,6 @@
       "coppa davis 2023",
       "luca cobolli",
       "lorenzo fortunato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d3090ffbcd62fd30",
-    "slug": "marianna-madia-lascia-il-pd-d3090ffbcd62fd30",
-    "title": "Madia molla il PD e corre da Renzi in Italia Viva: il PD da solo non basta",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-05-04T06:43:32.914161+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2021/3/30/7beb4c2009befe7739c00ae605a66a81.jpg",
-    "occhiello": "MARIAANNA MADIA ABBANDONA IL PD, CAMBIA ALA E SPINGE PER RIFORMISMO RADICALE",
-    "lead_preview": "Roma, 4 maggio 2026. Marianna Madia, Deputata ed ex ministra, ha annunciato il suo addio al Partito Democratico per unir",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
