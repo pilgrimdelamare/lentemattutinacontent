@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260514",
+    "slug": "libro-del-giorno-quante-cose-ci-ha-rubato-la-guerradi-m-20260514",
+    "title": "Manuela Barban svela i furti di guerra: il romanzo che scuote gli italiani",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-14T07:00:44.200089+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/arton170801-10c1c.jpg?1775682774",
+    "occhiello": "UN ROMANZO STORICO CHE RUBA LA VERITÀ",
+    "lead_preview": "Roma, 14 maggio 2026. Un nuovo romanzo storico, intitolato \"Quante cose ci ha rubato la guerra\", sta creando sussurri ne",
+    "tags": [
+      "romanzo storico barban",
+      "furti guerra italia",
+      "manuela barban"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "303ca8e9b2a409f2",
     "slug": "pd-crolla-a-22-mentre-meloni-ferma-il-sorpasso-al-303ca8e9b2a409f2",
     "title": "PD crolla a 22% mentre Meloni ferma il sorpasso al 45%: la guerra dei decimali infuria",
@@ -240,25 +259,6 @@
       "regolamento micar"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260514",
-    "slug": "libro-del-giorno-quante-cose-ci-ha-rubato-la-guerradi-m-20260514",
-    "title": "Il libro del giorno: «Quante cose ci ha rubato la guerradi Manuela Barban»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico basato su una storia familiare vera durante la Seconda guerra mondiale",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-14T07:00:44.200089+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/arton170801-10c1c.jpg?1775682774",
-      "alt": "Copertina: Quante cose ci ha rubato la guerradi Manuela Barban",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/arton170801-10c1c.jpg?1775682774",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "55596c65861ffc31",
