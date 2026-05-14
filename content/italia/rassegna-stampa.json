@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 13 maggio 2026",
+  "title": "Le prime pagine di oggi, giovedì 14 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 13 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 13 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 13 maggio 2026"
+    "Le prime pagine di oggi, giovedì 14 maggio 2026",
+    "Le prime pagine di oggi, giovedì 14 maggio 2026",
+    "Le prime pagine di oggi, giovedì 14 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 13 MAGGIO 2026",
-  "lead": "Le prime pagine dei principali quotidiani italiani oggi convergono sulla minaccia nucleare dell’Iran e sulle tensioni internazionali correlate, con particolare attenzione al confronto tra Stati Uniti e Cina. *Corriere della Sera*, *la Repubblica* e *La Stampa* aprono su questo tema, mentre *Il Messaggero* si concentra sugli eventi di cronaca nera e sportiva. Alcuni giornali dedicano spazio anche a questioni sanitarie e politiche interne.",
-  "corpo1": "Il *Corriere della Sera* titola in apertura sull’Iran con \"La minaccia nucleare dell’Iran\", affiancando il viaggio di Trump in Cina per l’incontro con Xi e i casi di Hantavirus in Italia. *la Repubblica* apre invece su \"Iran, minaccia nucleare Xi-Trump, prova di forza\", analizzando il confronto tra Washington e Pechino. *La Stampa* dedica la prima pagina al calcio con \"Il caos derby si poteva evitare\", intervistando il ministro dell’Interno Piantedosi. *Il Messaggero* si distingue con \"Conte lo sfascia conti\", denunciando presunte frodi nel Superbonus per 174 miliardi. *Il Giorno* punta sulla finale di Coppa Italia con \"Coppa Mia\", in vista della sfida Lazio-Inter.",
-  "corpo2": "Anche *Il Sole 24 Ore* si concentra sull’Iran, titolando \"Pentagono: i costi della guerra all’Iran saliti a 29 miliardi\". *Il Tempo* dedica spazio alla Ue e Meta con \"La Ue a Meta: paghi per i contenuti\", mentre *Il Mattino* segue la cronaca nera con il caso Garlasco. Il tema dominante della giornata rimane comunque la tensione internazionale, con una forte attenzione ai rischi sanitari e alle questioni economiche.",
+  "occhiello": "LE PRIME PAGINE 14 MAGGIO 2026",
+  "lead": "I principali quotidiani italiani oggi convergono su tre grandi temi: la finale di Coppa Italia vinta dall’Inter, la visita di Trump in Cina con i suoi miliardari accompagnatori e le tensioni politiche interne tra Meloni e l’opposizione. *Corriere della Sera*, *La Repubblica* e *La Stampa* mettono in evidenza rispettivamente la doppietta nerazzurra, il vertice economico tra Trump e Xi e le schermaglie tra governo e opposizione sul Superbonus e sulla Consob.",
+  "corpo1": "Il *Corriere della Sera* dedica la prima pagina al successo dell’Inter in Coppa Italia, decima vittoria nella competizione, con un doppio trionfo che chiude una stagione da incorniciare per Chivu e Lautaro. La *Repubblica* invece punta sulla visita del tycoon americano in Cina, accompagnato da 17 big dell’economia, e sulle aperture di Pechino a un dialogo commerciale. *La Stampa*, dal canto suo, bilancia la cronaca sportiva con quella politica: titola sulla sfida economica di Meloni in Senato, stretta tra Lega e Forza Italia sulla Consob e il dibattito su tasse e salari. *Il Messaggero* e *Il Mattino* si concentrano invece sulla condanna di Stasi per il caso Garlasco e sui primi esiti negativi degli esami per l’hantavirus.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-13T05:45:30.220557+00:00",
+  "published_at": "2026-05-14T05:45:56.167689+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/7bd02b5549e43619b9ce96c0c8ee2ea92b6f244e/skytg24/it/cronaca/2026/05/13/prime-pagine-quotidiani-oggi-13-maggio/rassegna13maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/be7ea0f0b67a1aa924f31b809eb5440cddc3a6a7/skytg24/it/cronaca/2026/05/14/prime-pagine-quotidiani-oggi-14-maggio/collage_hero.jpg?im=Resize,width=375",
     "source": "Adunata alpini a Genova",
     "credit": "Prima pagina — Adunata alpini a Genova",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/13/prime-pagine-quotidiani-oggi-13-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/14/prime-pagine-quotidiani-oggi-14-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 13 maggio 2026",
+      "title": "Oroscopo di oggi, giovedì 14 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
