@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff27536b19d51a6e",
+    "slug": "drone-dal-libano-colpisce-golan-4-soldati-israelia-ff27536b19d51a6e",
+    "title": "Drone misterioso da Libano colpisce Alture del Golan: 4 soldati israeliani feriti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-14T11:01:28.796640+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/30/31f76553ab62e2b181ba48591901b4dd.jpg",
+    "occhiello": "Drone dal Libano colpisce Golan: 4 soldati israeliani feriti",
+    "lead_preview": "Tel Aviv, 14 maggio. Un presunto drone partito dal Libano meridionale avrebbe sorvolato le Alture del Golan questa matti",
+    "tags": [
+      "attacco drone libano",
+      "alture del golan",
+      "scontri israele libano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9aa7774e825e8abd",
     "slug": "casellati-incontra-boschi-ora-la-boschi-chiede-anc-9aa7774e825e8abd",
     "title": "Casellati e Boschi tramano in segreto: accordo segreto per riforma elettorale spacca il Senato",
@@ -182,25 +201,6 @@
       "jannik sinner",
       "simone vagnozzi",
       "inte tennis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ff27536b19d51a6e",
-    "slug": "drone-dal-libano-colpisce-golan-4-soldati-israelia-ff27536b19d51a6e",
-    "title": "Drone dal Libano colpisce Golan: 4 soldati israeliani feriti",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-14T11:01:28.796640+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/30/31f76553ab62e2b181ba48591901b4dd.jpg",
-    "occhiello": "DRONE HIZBULLAH FERISCE SULLE ALTURE DEL GOLAN",
-    "lead_preview": "Tel Aviv, 14 maggio — Un drone partito dal Libano meridionale ha colpito questa mattina la zona delle Alture del Golan, ",
-    "tags": [
-      "attacco drone golan",
-      "hizbullah israel",
-      "alture del golan"
     ],
     "hero_eligible": true
   },
