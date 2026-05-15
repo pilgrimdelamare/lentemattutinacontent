@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 15 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-15T05:45:28.009968+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/562550b7b3d74ebfe310c47ce7ebec64b5fddb75/skytg24/it/cronaca/2026/05/15/prime-pagine-quotidiani-oggi-15-maggio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 15 MAGGIO 2026",
+    "lead_preview": "La prima pagina di molti quotidiani italiani è dominata da due temi principali oggi: la tragedia alle Maldive, dove sono",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c146efab3798a748",
     "slug": "calcio-kean-out-da-7-partite-incognita-recupero-c146efab3798a748",
     "title": "Calcio: Fiorentina in finale, Chiesa titolare contro l'Inter ma Kean resta fuori",
@@ -923,25 +942,6 @@
     "tags": [
       "lorenzo lavia",
       "teatro eliseo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 14 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-14T05:45:56.167689+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/be7ea0f0b67a1aa924f31b809eb5440cddc3a6a7/skytg24/it/cronaca/2026/05/14/prime-pagine-quotidiani-oggi-14-maggio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 14 MAGGIO 2026",
-    "lead_preview": "I principali quotidiani italiani oggi convergono su tre grandi temi: la finale di Coppa Italia vinta dall’Inter, la visi",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
