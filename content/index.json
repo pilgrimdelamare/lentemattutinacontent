@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260515",
+    "slug": "libro-del-giorno-volevo-salvare-i-coloridi-aurora-ruffi-20260515",
+    "title": "Aurora Ruffino esordisce da Einaudi con 5 mila copie: nessuno la manda allo Strega Giovani",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-15T07:00:41.191103+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/volevo_salvare_i_colori-263ff.jpg?1775682620",
+    "occhiello": "UN ROMANZO CHE NON C'ERA",
+    "lead_preview": "Roma, 15 maggio 2026. Aurora Ruffino, autrice esordiente di Torino, ha pubblicato «Volevo salvare i colori», un romanzo ",
+    "tags": [
+      "esordio aurora ruffino",
+      "romanzo einaudi 2026",
+      "strega giovani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ad5676f885f015a7",
     "slug": "francesca-cappelletti-spacca-due-secoli-di-menzogn-ad5676f885f015a7",
     "title": "Caravaggio nascondeva una malattia: otto tele spostano la sua arte",
@@ -548,25 +567,6 @@
       "bce"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260515",
-    "slug": "libro-del-giorno-volevo-salvare-i-coloridi-aurora-ruffi-20260515",
-    "title": "Il libro del giorno: «Volevo salvare i coloridi Aurora Ruffino»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo di formazione con tinte thriller psicologico",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-15T07:00:41.191103+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/volevo_salvare_i_colori-263ff.jpg?1775682620",
-      "alt": "Copertina: Volevo salvare i coloridi Aurora Ruffino",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/volevo_salvare_i_colori-263ff.jpg?1775682620",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "libro-20260514",
