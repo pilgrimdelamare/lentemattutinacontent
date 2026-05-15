@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260515",
+    "slug": "libro-del-giorno-volevo-salvare-i-coloridi-aurora-ruffi-20260515",
+    "title": "Il libro del giorno: «Volevo salvare i coloridi Aurora Ruffino»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo di formazione con tinte thriller psicologico",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-15T07:00:41.191103+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/volevo_salvare_i_colori-263ff.jpg?1775682620",
+      "alt": "Copertina: Volevo salvare i coloridi Aurora Ruffino",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/volevo_salvare_i_colori-263ff.jpg?1775682620",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "libro-20260514",
     "slug": "libro-del-giorno-quante-cose-ci-ha-rubato-la-guerradi-m-20260514",
     "title": "Manuela Barban annuncia: 2.341 capolavori rubati dai nazifascisti ancora scomparsi",
@@ -9075,24 +9094,6 @@
       "iran pakistan confine",
       "terrorismo regionale",
       "colloqui araghchi munir"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "979a711f4c2d35b1",
-    "slug": "basket-edwards-torna-in-campo-dopo-linfortunio-e-s-979a711f4c2d35b1",
-    "title": "Basket: San Antonio schiaccia i Lakers 112-105 e rovina la serata di LeBron",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-05T05:53:36.640657+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/35e6fb44a6d81aaa6f6e9edabaa29406e51fcedb/skysport/it/nba/video/2026/05/05/1095365_1777956973904_thumb_494.0000001_1777957050522.jpg",
-    "occhiello": "EDWARDS SILENZIA I LAKERS A SAN ANTONIO",
-    "lead_preview": "San Antonio, 5 maggio 2026. I I San Antonio Spurs hanno battuto i Los Angeles Lakers 112 a 105 al Frost Bank Center, inf",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
