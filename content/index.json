@@ -1,5 +1,24 @@
 [
   {
+    "id": "7b72cfea5c42d43b",
+    "slug": "milano-nastro-adesivo-trasforma-il-violino-di-leon-7b72cfea5c42d43b",
+    "title": "Musico di Leonardo: nastro adesivo sulla celebre opera all'Ambrosiana",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-14T11:23:28.753210+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/14/137af6f9d89b93401eeae3cea1d509a7.jpg",
+    "occhiello": "MUSICO DI LEONARDO INCARTATO CON NASTRO ADESIVO",
+    "lead_preview": "Milano, 14 maggio. La Pinacoteca Ambrosiana ha presentato stamattina una controversa installazione che vede il celebre M",
+    "tags": [
+      "musico leonardo",
+      "ambrosiana",
+      "protesta arte"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d12538cf89860fd0",
     "slug": "gasolio-in-calo-a-1988-euro-per-la-prima-volta-in-d12538cf89860fd0",
     "title": "Benzina oltre 1,80€, gasolio cala: chi paga e chi incassa!",
@@ -663,24 +682,6 @@
       "salvator mundi",
       "leonardo da vinci",
       "christie's"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7b72cfea5c42d43b",
-    "slug": "milano-nastro-adesivo-trasforma-il-violino-di-leon-7b72cfea5c42d43b",
-    "title": "La Pinacoteca Ambrosiana incolla il Musico di Leonardo con il nastro adesivo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-14T11:23:28.753210+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/14/137af6f9d89b93401eeae3cea1d509a7.jpg",
-    "occhiello": "LA PINACOTECA AMBROSIANA RISCRIVE LEONARDO CON IL NASTRO ADESIVO DI NO CURVES A ",
-    "lead_preview": "Milano, 14 maggio. La Pinacoteca Ambrosiana, istituzione milanese fondata nel 1609 da Federico Borromeo con un patrimoni",
-    "tags": [
-      "pinacoteca ambrosiana",
-      "leonardo da vinci"
     ],
     "hero_eligible": true
   },
