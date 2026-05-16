@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260516",
+    "slug": "libro-del-giorno-e-una-brutta-storia-mimidi-paolo-perli-20260516",
+    "title": "Il libro del giorno: «È una brutta storia, Mimìdi Paolo Perlini»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo avvincente ambientato tra le colline veronesi.",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-16T07:01:30.346374+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/81myaie3bzl__sl1500_-35e65.jpg?1775714973",
+      "alt": "Copertina: È una brutta storia, Mimìdi Paolo Perlini",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/81myaie3bzl__sl1500_-35e65.jpg?1775714973",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "ee54e0645737828f",
     "slug": "basket-spurs-vincono-gara-6-espulso-wembanyama-in-ee54e0645737828f",
     "title": "Basket: Spurs vincono gara-6, espulso Wembanyama in gara-4",
@@ -9084,25 +9103,6 @@
       "recovery plan",
       "fondi ue",
       "italia ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "147b4490f5f980c2",
-    "slug": "lautorita-nazionale-anticorruzione-salva-cacciaman-147b4490f5f980c2",
-    "title": "ANAC archivia indagine su Cacciamani, ex Ad di Invitalia: nessun'irregolarità nel mirino",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-05T09:20:49.969550+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/5/d5263a0f8162af65a66114a8545c5db8.jpg",
-    "occhiello": "ANAC ARCHIVIA INDAGINE SU INVITALIA, CACCIAMANI SOTTO L'OCCHIOLINO",
-    "lead_preview": "Roma, 5 maggio. L’Autorità nazionale anticorruzione (ANAC) ha archiviato l’istruttoria su Cacciamani, ex amministratore ",
-    "tags": [
-      "cacciamani invitalia",
-      "anac indagine",
-      "invitalia amministratore delegato"
     ],
     "hero_eligible": true
   }
