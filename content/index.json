@@ -1,5 +1,24 @@
 [
   {
+    "id": "e291eeb71474cb31",
+    "slug": "calcio-migne-annuncia-convocati-per-mondiali-8-eso-e291eeb71474cb31",
+    "title": "Calcio: haiti stacca otto esordienti per i mondiali – kain e etienne jr in prima",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-15T20:04:37.704577+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/8404e5c05b753f8e985e8474a82fc6d4.jpg",
+    "occhiello": "CALCIO: HAITI STACCA OTTO ESORDIENTI PER I MONDIALI – KAIN E ETIENNE JR IN PRIMA",
+    "lead_preview": "OCCHIELLO> HAITI AI MONDIALI, GIOVANI SUL CAMPO PER FAR CASSA Port-au-Prince, 16 maggio. la nazionale haitiana di calcio",
+    "tags": [
+      "calcio haiti",
+      "mondiali calcio",
+      "giovani calciatori"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ffcf867f9d5478b5",
     "slug": "scommessa-spaziale-a-capua-tre-progetti-e-un-conto-ffcf867f9d5478b5",
     "title": "Scommessa spaziale a capua: tre progetti e un conto aperto",
@@ -641,25 +660,6 @@
     "tags": [
       "ludovico einaudi",
       "royal albert hall"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e291eeb71474cb31",
-    "slug": "calcio-migne-annuncia-convocati-per-mondiali-8-eso-e291eeb71474cb31",
-    "title": "Calcio: Haiti stacca otto esordienti per i Mondiali – Kain e Etienne Jr in prima linea",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-15T20:04:37.704577+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/31/8404e5c05b753f8e985e8474a82fc6d4.jpg",
-    "occhiello": "8 esordienti nel gruppo Haiti per i Mondiali",
-    "lead_preview": "8 esordienti nel gruppo Haiti per i Mondiali Port-au-Prince, 16 maggio Il ct della nazionale haitiana Jean-Jacques Migne",
-    "tags": [
-      "calcio haiti",
-      "mondiali calcio",
-      "convocati haiti"
     ],
     "hero_eligible": true
   },
