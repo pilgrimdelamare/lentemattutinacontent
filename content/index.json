@@ -1,5 +1,23 @@
 [
   {
+    "id": "4517ae5abcfcab7b",
+    "slug": "raffaele-sollecito-torna-su-belve-crime-4517ae5abcfcab7b",
+    "title": "Raffaele Sollecito torna in tv, ospite di Francesca Fagnani su RAI 2",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-16T15:42:30.713169+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/7247ea95ae8da29195207715ff76c083.jpg",
+    "occhiello": "RAI 2 OSPITA L'EX FIDANZATO DI AMANDA KNOX",
+    "lead_preview": "RAI 2 ospita l'ex fidanzato di Amanda Knox Roma, 16 maggio. Raffaele Sollecito sarà ospite di Francesca Fagnani in Belve",
+    "tags": [
+      "caso knox",
+      "raffaele sollecito"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "59b71f9df1ac18ea",
     "slug": "tennis-bolelli-vavassori-in-finale-a-roma-spettaco-59b71f9df1ac18ea",
     "title": "Tennis: Bolelli e Vavassori in finale agli Internazionali d'Italia",
@@ -502,25 +520,6 @@
     "tags": [
       "museo anticoli corrado",
       "opere d'arte ritrovate"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4517ae5abcfcab7b",
-    "slug": "raffaele-sollecito-torna-su-belve-crime-4517ae5abcfcab7b",
-    "title": "Fagnani intervista Sollecito in Belve Crime: dal delitto Kercher alle nuove rivelazioni",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-16T15:42:30.713169+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/7247ea95ae8da29195207715ff76c083.jpg",
-    "occhiello": "TV, cronaca giudiziaria e mediatizzazione dei casi",
-    "lead_preview": "Roma, 16 maggio. Raffaele Sollecito sarà ospite di Francesca Fagnani nella trasmissione \"Belve Crime\" su RAI 2 il 23 mag",
-    "tags": [
-      "caso kercher",
-      "intervista sollecito",
-      "belve crime"
     ],
     "hero_eligible": true
   },
