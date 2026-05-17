@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260517",
+    "slug": "libro-del-giorno-malaria-il-nobel-negato-storia-battist-20260517",
+    "title": "Il libro del giorno: «Malaria. Il Nobel negato: storia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una biografia storica su Battista Grassi, medico italiano scopritore della malaria",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-17T07:00:36.455145+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/grassi_malaria-57077.jpg?1775701080",
+      "alt": "Copertina: Malaria. Il Nobel negato: storia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/grassi_malaria-57077.jpg?1775701080",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "55dd7bd39deebbc8",
     "slug": "mma-ngannou-domina-parnasse-a-los-angeles-55dd7bd39deebbc8",
     "title": "MMA: Ngannou domina Parnasse a Los Angeles",
@@ -9080,23 +9099,6 @@
     "tags": [
       "premio andersen",
       "federico vecchini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b9157db7ffc92e7d",
-    "slug": "fregate-tedesche-i-12-miliardi-di-rheinmetall-non-b9157db7ffc92e7d",
-    "title": "Tedeschi investono 14 miliardi in fregate da guerra",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-06T13:28:38.672176+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDUvMDYvMTMwMTQ5NzA0LTUzNzc2MGZhLWQwNDAtNGVhMi1iZmRjLTE4Yzk4MTJlYmZiZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "14 MILIARDI PER FREGATE CHE ARRIVERANNO DOPO IL 2030",
-    "lead_preview": "Berlino, 6 maggio. Il governo tedesco ha firmato un contratto da 14 miliardi di euro con Rheinmetall per quattro fregate",
-    "tags": [
-      "fregate tedesche"
     ],
     "hero_eligible": true
   }
