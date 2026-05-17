@@ -1,5 +1,23 @@
 [
   {
+    "id": "12d4d2d48db02faf",
+    "slug": "petagna-illumina-il-lecce-vola-12d4d2d48db02faf",
+    "title": "Petagna illumina, il Lecce vola",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-17T20:59:47.809217+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/81ec700b871410f5b3c33050a4e551a0.jpg",
+    "occhiello": "SASSUOLO SOFFOCATO DALLE ERRORI IN DIFESA",
+    "lead_preview": "Reggio Emilia, 17 maggio 2026.",
+    "tags": [
+      "lecce sassuolo",
+      "serie a 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "159e674b04f5b601",
     "slug": "un-dronetto-innesca-lallarme-a-barakah-159e674b04f5b601",
     "title": "Drone misterioso invade Centrale nucleare di Barakah: reattori spenti in 3 minuti",
@@ -9074,25 +9092,6 @@
     "tags": [
       "tag1",
       "tag2"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e54ac4aa7a9ed109",
-    "slug": "fondi-pubblici-per-giri-immensi-morelli-esordisce-e54ac4aa7a9ed109",
-    "title": "Morelli incassa 700mila Fondi pubblici per un film girato a Fondi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-06T14:41:25.056043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/65e9ddd54bb27a7bbdc6a4bc9d5392cf.jpg",
-    "occhiello": "MORTELLI SPENDE 700MILA EURO PER UN FILM",
-    "lead_preview": "MORTELLI SPENDE 700MILA EURO PER UN FILM Roma, 6 maggio. produttrice Annamaria Morelli, storica produttrice di cinema d’",
-    "tags": [
-      "fondi cinema morelli",
-      "film fondi",
-      "produttrice morelli"
     ],
     "hero_eligible": true
   }
