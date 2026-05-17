@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 15 maggio 2026",
+  "title": "Le prime pagine di oggi, domenica 17 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 15 maggio 2026",
-    "Le prime pagine di oggi, venerdì 15 maggio 2026",
-    "Le prime pagine di oggi, venerdì 15 maggio 2026"
+    "Le prime pagine di oggi, domenica 17 maggio 2026",
+    "Le prime pagine di oggi, domenica 17 maggio 2026",
+    "Le prime pagine di oggi, domenica 17 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 15 MAGGIO 2026",
-  "lead": "La prima pagina di molti quotidiani italiani è dominata da due temi principali oggi: la tragedia alle Maldive, dove sono morti cinque sub italiani, e l'incontro tra Donald Trump e Xi Jinping in Cina. Il Corriere dello Sport e Tuttosport titolano invece sulla situazione del Milan e della Juventus. Il Post, il Sole 24 Ore e la Repubblica trattano anche della crisi energetica e finanziaria globale. Il Corriere della Sera e La Stampa dedicano spazio alla crisi climatica. Il quotidiano La Lente Mattutina titola invece sulla rassegna stampa.",
-  "corpo1": "Il Corriere della Sera titola la sua prima pagina con la tragedia alle Maldive, dove cinque sub italiani sono morti dopo essere rimasti intrappolati in una grotta a 60 metri di profondità. La Repubblica e il Sole 24 Ore trattano della stessa vicenda, con dettagli sui soccorritori e sull'operazione di recupero dei corpi. Il Corriere dello Sport titola invece sulla situazione del Milan, con l'annuncio di Max Allegri che si gioca la Champions tra forti tensioni e contrasti interni. Il quotidiano Tuttosport si concentra invece sulla Juventus, con l'articolo sulla possibile acquisizione di giovani difensori italiani.",
-  "corpo2": "Il quotidiano La Stampa titola invece sulla crisi climatica, con un articolo sulle misure che il governo italiano sta prendendo per ridurre l'impatto ambientale. La Gazzetta dello Sport si concentra invece sul tennis, con l'articolo sui risultati degli Internazionali di Roma. In generale, la prima pagina di molti quotidiani italiani è dominata dalla notizia della tragedia alle Maldive e dall'incontro tra Trump e Xi Jinping in Cina.",
+  "occhiello": "LE PRIME PAGINE 17 MAGGIO",
+  "lead": "I giornali italiani di oggi, 17 maggio, titolano principalmente sull'attentato a Modena dove un'auto ha investito una folla di persone e su altri fatti di cronaca. Anche spazio per lo sport, in particolare per il tennis con Sinner in finale a Roma e per il calcio con la corsa alla Champions League.",
+  "corpo1": "La Repubblica apre con l'attentato a Modena, dove un uomo di 31 anni di origini marocchine ha investito una folla di persone con un'auto a 100 all'ora, ferendo quindici persone, quattro delle quali in modo grave. Il Corriere della Sera titola su Modena, parlando di \"Terrore in centro a Modena, auto sulla folla a 100 all'ora\". La Stampa parla di \"Terrore a Modena. A tutta velocità nelle strade del centro: la fuga col coltello e l'arresto\". Il Sole 24 Ore si concentra sugli aspetti economici, parlando di profitti in aumento del 20% per alcune aziende. La Gazzetta dello Sport titola su Sinner, che oggi giocherà la finale a Roma contro Ruud.",
+  "corpo2": "Altri titoli di rilievo includono la situazione in Ucraina e Russia, con una possibile nuova minaccia da parte di Trump, e la morte di un soccorritore alle Maldive. La Juventus e il Milan sono coinvolti nella corsa alla Champions League. Il tema dominante della giornata è l'attentato a Modena e la corsa alla Champions League.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,26 +23,33 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-15T05:45:28.009968+00:00",
+  "published_at": "2026-05-17T06:12:26.005501+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/562550b7b3d74ebfe310c47ce7ebec64b5fddb75/skytg24/it/cronaca/2026/05/15/prime-pagine-quotidiani-oggi-15-maggio/collage_1.png?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/984d0e9421ccb03f07b296c4ae4f3f74eaa7fdd1/skytg24/it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio/00_hero_rassegna_stampa_17_maggio.jpg?im=Resize,width=375",
+    "source": "rassegna stampa 17 maggio",
+    "credit": "Prima pagina — rassegna stampa 17 maggio",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/15/prime-pagine-quotidiani-oggi-15-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 15 maggio 2026",
+      "title": "Oroscopo di oggi, domenica 17 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "Tennis: Jannik Sinner umilia il numero 1 Mondiale: Medvedev sbaglia 60% prime palle",
+      "url": "/sport/tennis-sinner-vince-e-vola-in-finale-medvedev-ko-c1a5b0320df46879",
+      "id": "c1a5b0320df46879",
+      "image_url": "https://sport.sky.it/assets/images/40907bd52af076130441d2350ad8aac1ddb675c5/skysport/it/tennis/video/2026/05/16/sinner-internazionali-roma-intervista-video-1098460/sinner_screen_17.jpg",
+      "image_type": "feed_image"
     },
     {
       "title": "Topolino festeggia 1.500 anni di Sardegna con uno speciale di 40 pagine",
@@ -50,13 +57,6 @@
       "id": "98e66a180d2ecec2",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "Einaudi lancia nuova collana con il romanzo di Aria Aber, esce oggi in libreria a Torino",
-      "url": "/cultura/libro-del-giorno-una-brava-ragazzadi-aria-aber-20260509",
-      "id": "libro-20260509",
-      "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
-      "image_type": "url"
     }
   ],
   "hero_eligible": true
