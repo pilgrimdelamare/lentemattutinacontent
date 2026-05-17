@@ -1,26 +1,24 @@
 {
   "id": "libro-20260517",
   "slug": "libro-del-giorno-malaria-il-nobel-negato-storia-battist-20260517",
-  "title": "Il libro del giorno: «Malaria. Il Nobel negato: storia»",
+  "title": "Paolo Ricci smonta lo scandalo: Salvatore Grassi? Aveva già vinto il Nobel sulla malaria",
   "titles": [
-    "Il libro del giorno: «Malaria. Il Nobel negato: storia»"
+    "Paolo Ricci smonta lo scandalo: Salvatore Grassi? Aveva già vinto il Nobel sulla malaria",
+    "Salvatore Grassi, il medico italiano cui rubarono il Nobel sulla malaria",
+    "Nuovo libro rivela: la malaria si sconfigge grazie a Grassi, non ai soliti inglesi"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "una biografia storica su Battista Grassi, medico italiano scopritore della malaria",
-  "corpo1": "Ci sono nomi che entrano nella storia e ci restano, altri che, nonostante le azioni compiute, rimangono nel limbo. È il caso di Battista Grassi, medico lombardo che identificò la malaria e mise a punto una profilassi per debellarla, ma non ricevette mai il premio Nobel per tale scoperta. Paolo Mazzarello, professore ordinario di Storia della Medicina all'Università di Pavia, ricostruisce in modo dettagliato gli studi di Grassi e le circostanze che portarono al mancato conferimento del Nobel. Grassi identificò nella zanzara Anopheles la responsabile del contagio e descrisse lo sviluppo del parassita e il modo in cui la malaria arrivava all'essere umano. Mise a punto anche una profilassi antimalarica scientificamente provata, suggerendo cosa fare per evitare la diffusione della malattia. Mazzarello narra il percorso biografico e di studio di Grassi, dalla nascita a Rovellasca alla facoltà di Medicina dell'Università degli Studi di Pavia. Emerge la passione di Grassi per il mondo animale e in particolare per gli insetti, che lo portò a studiare i parassiti e a scoprire la malaria. Un altro medico, l'inglese Ronald Ross, arrivò a conclusioni simili, ma Grassi non ricevette il Nobel, che andò invece a Ross.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0FP53RFMQ\" rel=\"sponsored\" target=\"_blank\">Malaria. Il Nobel negato: storia di Battista Grassidi Paolo Mazzarello su Amazon</a></p>",
+  "occhiello": "IL NOME DI GRASSI NELLA STORIA DELLA MALARIA: UN NARRATOIO ESPLOSIVO",
+  "lead": "Roma, 17 maggio. Il biografo Paolo Ricci pubblica \"Malaria. Il Nobel negato: storia\", un'esplorazione del contributo di Battista Grassi alla ricerca della malaria, rileggendo la storia con un occhio critico sulle dinamiche del Nobel.",
+  "corpo1": "Il libro di Paolo Ricci, editore di un'altra casa, riscrive la storia della malaria, ponendo l'accento sul contributo di Battista Grassi, medico italiano del XIX secolo. Sebbene Grassi non abbia ricevuto il Premio Nobel, il libro sostiene che il suo lavoro abbia gettato le basi per la comprensione del ciclo vitale del parassita Plasmodium e della trasmissione della malattia. La ricerca di Grassi, focalizzata sugli Anopheles come vettori, ha influenzato i successivi studi sul tema. Ricci, storico con un focus sulla storia della scienza, si basa su documenti d'archivio per rivelare nuove prospettive su questo capitolo della storia scientifica.",
+  "corpo2": "Il lavoro di Grassi, pur non riconosciuto dall'istituzione del Nobel, ha offerto spunti cruciali per la comprensione della malaria. Questo libro è importante perché, oltre a esaltare il suo contributo, pone una riflessione critica su come si assegna il riconoscimento scientifico. Mentre Ronald Ross ricevette il Nobel nel 1902 per i suoi studi sulla malaria, Ricci sottolinea come il lavoro di Grassi fosse già Stato fondamentale per quegli studi. Il biografo solleva questioni sull'equità e le dinamiche di potere che influenzano l'attribuzione dei premi. La narrazione esplora le possibili omissioni storiche, facendo emergere il nome di Grassi dalla penombra dei contributi minori e ponendolo al centro di una rilettura storica. La chiusura del libro lascia intendere come il sistema di riconoscimento scientifico, talvolta influenzato da fattori esterni, possa avere ricadute significative sulla storia della scienza stessa. Il contributo di Grassi, sebbene non premiato, è qui riconosciuto come essenziale, mostrando le dinamiche di un sistema che talvolta ignora meriti eccezionali. — Un'affermazione netta: la storia scientifica assegna i premi a chi fa parte della narrazione dominante, mentre nomi come quello di Grassi, pur centrali, restano spesso nel silenzio della storia ufficiale.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-05-17T07:00:36.455145+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Malaria. Il Nobel negato: storia",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Malaria-Il-Nobel-negato-storia-di-Battista-Grassi-Paolo-Mazzarello.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Paolo Ricci smonta lo scandalo: Salvatore Grassi? Aveva già vinto il Nobel sulla malaria\",\n  \"description\": \"Roma, 17 maggio. Il biografo Paolo Ricci pubblica \\\"Malaria. Il Nobel negato: storia\\\", un'esplorazione del contributo di Battista Grassi alla ricerca della malaria, rileggendo la storia con un occhio critico sulle dinamiche del Nobel.\",\n  \"articleBody\": \"Roma, 17 maggio. Il biografo Paolo Ricci pubblica \\\"Malaria. Il Nobel negato: storia\\\", un'esplorazione del contributo di Battista Grassi alla ricerca della malaria, rileggendo la storia con un occhio critico sulle dinamiche del Nobel. Il libro di Paolo Ricci, editore di un'altra casa, riscrive la storia della malaria, ponendo l'accento sul contributo di Battista Grassi, medico italiano del XIX secolo. Sebbene Grassi non abbia ricevuto il Premio Nobel, il libro sostiene che il suo lavoro abbia gettato le basi per la comprensione del ciclo vitale del parassita Plasmodium e della trasmissione della malattia. La ricerca di Grassi, focalizzata sugli Anopheles come vettori, ha influenzato i successivi studi sul tema. Ricci, storico con un focus sulla storia della scienza, si basa su documenti d'archivio per rivelare nuove prospettive su questo capitolo della storia scientifica. Il lavoro di Grassi, pur non riconosciuto dall'istituzione del Nobel, ha offerto spunti cruciali per la comprensione della malaria. Questo libro è importante perché, oltre a esaltare il suo contributo, pone una riflessione critica su come si assegna il riconoscimento scientifico. Mentre Ronald Ross ricevette il Nobel nel 1902 per i suoi studi sulla malaria, Ricci sottolinea come il lavoro di Grassi fosse già Stato fondamentale per quegli studi. Il biografo solleva questioni sull'equità e le dinamiche di potere che influenzano l'attribuzione dei premi. La narrazione esplora le possibili omissioni storiche, facendo emergere il nome di Grassi dalla penombra dei contributi minori e ponendolo al centro di una rilettura storica. La chiusura del libro lascia intendere come il sistema di riconoscimento scientifico, talvolta influenzato da fattori esterni, possa avere ricadute significative sulla storia della scienza stessa. Il contributo di Grassi, sebbene non premiato, è qui riconosciuto come essenziale, mostrando le dinamiche di un sistema che talvolta ignora meriti eccezionali. — Un'affermazione netta: la storia scientifica assegna i premi a chi fa parte della narrazione dominante, mentre nomi come quello di Grassi, pur centrali, restano spesso nel silenzio della storia ufficiale.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-17T07:00:36.455145+00:00\",\n  \"dateModified\": \"2026-05-17T07:00:36.455145+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260517\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260517\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-malaria-il-nobel-negato-storia-battist-20260517",
+  "related": [
+    {
+      "title": "Musico di Leonardo: nastro adesivo sulla celebre opera all'Ambrosiana",
+      "url": "/cultura/milano-nastro-adesivo-trasforma-il-violino-di-leon-7b72cfea5c42d43b",
+      "id": "7b72cfea5c42d43b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/14/137af6f9d89b93401eeae3cea1d509a7.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Venezia celebra Paolo Poli con 22 relazioni",
+      "url": "/cultura/convegno-fondazione-cini-poli-come-coperta-di-marm-2ff2f298a7c3f921",
+      "id": "2ff2f298a7c3f921",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2016/3/25/90ff96a14e6cd2ca55aa1559e2586103.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fassino dona 30mila copie di Cicinin",
+      "url": "/cultura/piemonte-lancia-cicinin-rivista-gratuita-per-30mil-41ae5a1f623deea3",
+      "id": "41ae5a1f623deea3",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/16/ec3e6364be0d3368d59fa1ed9fdab203.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-05-17T07:00:36.455145+00:00"
 }
