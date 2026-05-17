@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, domenica 17 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-17T06:12:26.005501+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/984d0e9421ccb03f07b296c4ae4f3f74eaa7fdd1/skytg24/it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio/00_hero_rassegna_stampa_17_maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 17 MAGGIO",
+    "lead_preview": "I giornali italiani di oggi, 17 maggio, titolano principalmente sull'attentato a Modena dove un'auto ha investito una fo",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ffcf867f9d5478b5",
     "slug": "scommessa-spaziale-a-capua-tre-progetti-e-un-conto-ffcf867f9d5478b5",
     "title": "Capua: 360 milioni su 600 arrivano dai soldi pubblici, ma nessuno sa dove finiscano",
@@ -1398,25 +1417,6 @@
       "attacco drone golan",
       "feriti soldati israeliani",
       "reazione netanyahu"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 15 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-15T05:45:28.009968+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/562550b7b3d74ebfe310c47ce7ebec64b5fddb75/skytg24/it/cronaca/2026/05/15/prime-pagine-quotidiani-oggi-15-maggio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 15 MAGGIO 2026",
-    "lead_preview": "La prima pagina di molti quotidiani italiani è dominata da due temi principali oggi: la tragedia alle Maldive, dove sono",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
