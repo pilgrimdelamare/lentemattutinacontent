@@ -1,5 +1,24 @@
 [
   {
+    "id": "624605103d9d5d96",
+    "slug": "motogp-incidente-in-prova-pilota-spagnolo-ko-624605103d9d5d96",
+    "title": "MotoGP: Marc Márquez in terapia intensiva dopo incidente a Montmeló",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-18T11:55:27.247054+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/79bf5526122884cf9bcdd3add70a144d9c6d877c/skysport/it/motori/motogp/2026/05/18/test-motogp-2026-barcellona-catalogna-diretta/martin_aprilia.jpg",
+    "occhiello": "INCIDENTE A MONTMELÓ, PILOTA IN GRAVI CONDIZIONI",
+    "lead_preview": "INCIDENTE A MONTMELÓ, PILOTA IN GRAVI CONDIZIONI barcellona, 18 maggio. Marc Márquez ha riportato un trauma cranico ed è",
+    "tags": [
+      "incidente marquez",
+      "motogp montmeló",
+      "trauma cranico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a2ccdd2141278986",
     "slug": "zelenskyy-chiama-europa-a-scegliere-rappresentante-a2ccdd2141278986",
     "title": "Zelens'kyj: L'Europa scelga un rappresentante per parlare con Putin",
@@ -231,24 +250,6 @@
       "masters 1000 roma",
       "jannik sinner",
       "carlos alcaraz"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "624605103d9d5d96",
-    "slug": "motogp-incidente-in-prova-pilota-spagnolo-ko-624605103d9d5d96",
-    "title": "MotoGP: incidente in prova, pilota spagnolo KO",
-    "section": "sport",
-    "priority": 7,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-18T11:55:27.247054+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/79bf5526122884cf9bcdd3add70a144d9c6d877c/skysport/it/motori/motogp/2026/05/18/test-motogp-2026-barcellona-catalogna-diretta/martin_aprilia.jpg",
-    "occhiello": "JORGE MARTIN SI PORTERÀ APPENA IL GESSO",
-    "lead_preview": "Barcellona, 18 maggio.",
-    "tags": [
-      "moto gp",
-      "incidente martin"
     ],
     "hero_eligible": true
   },
