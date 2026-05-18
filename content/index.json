@@ -1,5 +1,23 @@
 [
   {
+    "id": "159e674b04f5b601",
+    "slug": "un-dronetto-innesca-lallarme-a-barakah-159e674b04f5b601",
+    "title": "Drone sconosciuto sorvola Centrale nucleare di Barakah",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-17T17:01:10.402189+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/28/d38db366bd78b644efe17efb6c34dd71.jpg",
+    "occhiello": "DRONE A BARAKAH NON HA FERMATO I REATTORI",
+    "lead_preview": "Barakah, 17 maggio. Un drone sconosciuto ha sorvolato la Centrale nucleare di Barakah alle 5:17 di questa mattina senza ",
+    "tags": [
+      "drone barakah",
+      "centrale nucleare barakah"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5edf8546fd010eba",
     "slug": "ginnastica-vanessa-ferrari-entra-nella-hall-of-fam-5edf8546fd010eba",
     "title": "Ginnastica: Vanessa Ferrari prima Italiana nella Hall of Fame Mondiale",
@@ -420,25 +438,6 @@
       "superbike repubblica ceca",
       "doppietta bulega",
       "ducati tripletta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "159e674b04f5b601",
-    "slug": "un-dronetto-innesca-lallarme-a-barakah-159e674b04f5b601",
-    "title": "Drone misterioso invade Centrale nucleare di Barakah: reattori spenti in 3 minuti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-17T17:01:10.402189+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/28/d38db366bd78b644efe17efb6c34dd71.jpg",
-    "occhiello": "UN DRONETTO FERMA LA CENTRALE DI BARAKAH",
-    "lead_preview": "Barakah, 17 maggio. Un drone non armato ha sorvolato la Centrale nucleare di Barakah alle 5:17 di questa mattina, costri",
-    "tags": [
-      "centrale barakah",
-      "attacco drone",
-      "emergenza nucleare"
     ],
     "hero_eligible": true
   },
