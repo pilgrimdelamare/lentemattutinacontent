@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 18 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-18T05:45:47.290927+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5f4573b274c0edcfee9af41d18db380ea050aa9a/skytg24/it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio/Composite_18_mggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE LUNEDÌ 18 MAGGIO 2026",
+    "lead_preview": "I giornali italiani oggi sono dominati dall'attentato di Modena e dalle reazioni politiche. Il Corriere della Sera e Rep",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260517",
     "slug": "libro-del-giorno-malaria-il-nobel-negato-storia-battist-20260517",
     "title": "Grassi perde Nobel per la Malaria: lo rubano a uno svedese",
@@ -726,25 +745,6 @@
       "crisi governo",
       "giuseppe conte",
       "giorgia meloni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, domenica 17 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-17T06:12:26.005501+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/984d0e9421ccb03f07b296c4ae4f3f74eaa7fdd1/skytg24/it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio/00_hero_rassegna_stampa_17_maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 17 MAGGIO",
-    "lead_preview": "I giornali italiani di oggi, 17 maggio, titolano principalmente sull'attentato a Modena dove un'auto ha investito una fo",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
