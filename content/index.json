@@ -1,5 +1,24 @@
 [
   {
+    "id": "3d6c4402bcacd3e4",
+    "slug": "hong-kong-affonda-hang-seng-sotto-18500-punti-tenc-3d6c4402bcacd3e4",
+    "title": "Hong Kong affonda: Hang Seng sotto 18.500 punti, Tencent e HSBC sprofondano (-2,1% e -1,4%)",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-18T02:22:52.597408+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/8/6155139fe4ffb02616f8702146fea3db.jpg",
+    "occhiello": "HANG SENG SCENDE DI UN PUNTO: MERCATI ASIATICI SOTTO PRESSIONE",
+    "lead_preview": "Hong Kong, 18 maggio. L’indice Hang Seng perde l’1,02% nelle prime battute di contrattazione, trascinato da vendite diff",
+    "tags": [
+      "hang seng in calo",
+      "mercati asiatici in rosso",
+      "tencent hsbc in ribasso"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "55dd7bd39deebbc8",
     "slug": "mma-ngannou-domina-parnasse-a-los-angeles-55dd7bd39deebbc8",
     "title": "Francis ngannou pulverizza parnasse in tre round",
@@ -9077,24 +9096,6 @@
     "tags": [
       "giroditalia",
       "ciclismo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c5c8d35077eecdbf",
-    "slug": "incontro-a-palazzo-chigi-energia-ma-senza-nucleare-c5c8d35077eecdbf",
-    "title": "Addio ai 28 miliardi per il nucleare: Meloni affossa i 4 reattori",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-06T14:36:43.593352+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/163cb856a18dc7792591b7b9c416fd34.jpg",
-    "occhiello": "IL GOVERNO METTE IL SELLA SU UN PIANO DA 28 MILIARDI",
-    "lead_preview": "IL GOVERNO METTE IL SELLA SU UN PIANO DA 28 MILIARDI Roma, 6 maggio. Palazzo Chigi affossa il nucleare made in Salvini: ",
-    "tags": [
-      "tag1",
-      "tag2"
     ],
     "hero_eligible": true
   }
