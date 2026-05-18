@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, domenica 17 maggio 2026",
+  "title": "Le prime pagine di oggi, lunedì 18 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, domenica 17 maggio 2026",
-    "Le prime pagine di oggi, domenica 17 maggio 2026",
-    "Le prime pagine di oggi, domenica 17 maggio 2026"
+    "Le prime pagine di oggi, lunedì 18 maggio 2026",
+    "Le prime pagine di oggi, lunedì 18 maggio 2026",
+    "Le prime pagine di oggi, lunedì 18 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 17 MAGGIO",
-  "lead": "I giornali italiani di oggi, 17 maggio, titolano principalmente sull'attentato a Modena dove un'auto ha investito una folla di persone e su altri fatti di cronaca. Anche spazio per lo sport, in particolare per il tennis con Sinner in finale a Roma e per il calcio con la corsa alla Champions League.",
-  "corpo1": "La Repubblica apre con l'attentato a Modena, dove un uomo di 31 anni di origini marocchine ha investito una folla di persone con un'auto a 100 all'ora, ferendo quindici persone, quattro delle quali in modo grave. Il Corriere della Sera titola su Modena, parlando di \"Terrore in centro a Modena, auto sulla folla a 100 all'ora\". La Stampa parla di \"Terrore a Modena. A tutta velocità nelle strade del centro: la fuga col coltello e l'arresto\". Il Sole 24 Ore si concentra sugli aspetti economici, parlando di profitti in aumento del 20% per alcune aziende. La Gazzetta dello Sport titola su Sinner, che oggi giocherà la finale a Roma contro Ruud.",
-  "corpo2": "Altri titoli di rilievo includono la situazione in Ucraina e Russia, con una possibile nuova minaccia da parte di Trump, e la morte di un soccorritore alle Maldive. La Juventus e il Milan sono coinvolti nella corsa alla Champions League. Il tema dominante della giornata è l'attentato a Modena e la corsa alla Champions League.",
+  "occhiello": "LE PRIME PAGINE LUNEDÌ 18 MAGGIO 2026",
+  "lead": "I giornali italiani oggi sono dominati dall'attentato di Modena e dalle reazioni politiche. Il Corriere della Sera e Repubblica titolano sulla tragedia, mentre La Stampa si concentra sullo scontro politico interno alla maggioranza. Anche il mondo dello sport è presente, con la vittoria di Jannik Sinner agli Internazionali di Roma.",
+  "corpo1": "Il Corriere della Sera apre con la lettera della premier Meloni alla presidente della Commissione Ue von der Leyen per chiedere una deroga al Patto anche per l'energia. Repubblica titola \"Modena contro l'odio\" con cinque mila persone in piazza per manifestare contro la violenza. La Stampa si concentra sullo scontro politico interno alla maggioranza sui fatti di Modena. Il Messaggero celebra la vittoria di Jannik Sinner agli Internazionali di Roma. La Gazzetta dello Sport titola \"Il gigante\" per descrivere l'impresa del numero uno del tennis mondiale. Il Corriere dello Sport invece si concentra sulla rovinosa caduta della Juventus con la Fiorentina.",
+  "corpo2": "Altri titoli di rilievo includono la manifestazione contro l'odio a Modena con la presenza di cinque mila persone. Lo scontro politico interno alla maggioranza continua, con la Lega che propone di stoppare i permessi di soggiorno e Forza Italia che difende El Koudri, cittadino italiano. La Roma vince il derby capitolino contro la Lazio. Il tema dominante della giornata è l'attentato di Modena e le reazioni politiche e sociali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,33 +23,33 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-17T06:12:26.005501+00:00",
+  "published_at": "2026-05-18T05:45:47.290927+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/984d0e9421ccb03f07b296c4ae4f3f74eaa7fdd1/skytg24/it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio/00_hero_rassegna_stampa_17_maggio.jpg?im=Resize,width=375",
-    "source": "rassegna stampa 17 maggio",
-    "credit": "Prima pagina — rassegna stampa 17 maggio",
+    "url": "https://tg24.sky.it/assets/images/5f4573b274c0edcfee9af41d18db380ea050aa9a/skytg24/it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio/Composite_18_mggio.jpg?im=Resize,width=375",
+    "source": "logo-sky-go",
+    "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/17/prime-pagine-quotidiani-oggi-17-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, domenica 17 maggio 2026",
+      "title": "Oroscopo di oggi, lunedì 18 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Tennis: Jannik Sinner umilia il numero 1 Mondiale: Medvedev sbaglia 60% prime palle",
-      "url": "/sport/tennis-sinner-vince-e-vola-in-finale-medvedev-ko-c1a5b0320df46879",
-      "id": "c1a5b0320df46879",
-      "image_url": "https://sport.sky.it/assets/images/40907bd52af076130441d2350ad8aac1ddb675c5/skysport/it/tennis/video/2026/05/16/sinner-internazionali-roma-intervista-video-1098460/sinner_screen_17.jpg",
-      "image_type": "feed_image"
+      "title": "Indice Hang Seng in perdita nelle prime ore di mercato a Hong Kong",
+      "url": "/economia/hong-kong-affonda-hang-seng-sotto-18500-punti-tenc-3d6c4402bcacd3e4",
+      "id": "3d6c4402bcacd3e4",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/8/6155139fe4ffb02616f8702146fea3db.jpg",
+      "image_type": "image"
     },
     {
       "title": "Topolino festeggia 1.500 anni di Sardegna con uno speciale di 40 pagine",
