@@ -1,5 +1,23 @@
 [
   {
+    "id": "cc69574b9c7fbc94",
+    "slug": "nepi-integra-sistemi-smart-al-foro-italico-cc69574b9c7fbc94",
+    "title": "Nepi integra sistemi smart al Foro Italico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-18T10:15:06.850679+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/0f65ab1d941b8eb583cfcb03bc9bfbfe.jpg",
+    "occhiello": "NEPI PUNTA SU TECNOLOGIA PER IL FORO ITALICO",
+    "lead_preview": "Roma, 18 maggio 2026.",
+    "tags": [
+      "foro italico",
+      "nepi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c4b0b45cb2183aa2",
     "slug": "tennis-sinner-leggenda-72-settimane-da-n1-edberg-e-c4b0b45cb2183aa2",
     "title": "Tennis: Sinner eguaglia il record di Edberg con 72 settimane da numero 1 ATP",
@@ -9100,24 +9118,6 @@
       "teatro eliseo",
       "fallimento teatri",
       "crisi teatri italiani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a43128ebb111a1ce",
-    "slug": "bruno-bozzetto-incassa-il-david-di-donatello-e-rid-a43128ebb111a1ce",
-    "title": "Bruno Bozzetto premia il cinema italiano col David di Donatello alla carriera",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-06T09:26:24.659471+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/6/8f3e3637f04771c979a282026dd8b058.jpg",
-    "occhiello": "BOZZETTO PREMIATO, RAI SVELA PROGETTO ROSSI",
-    "lead_preview": "Roma, 6 maggio. Bruno Bozzetto, 86 anni, riceve il David di Donatello alla carriera mentre la RAI svela il ritorno del p",
-    "tags": [
-      "david di donatello",
-      "progetto rossi"
     ],
     "hero_eligible": true
   }
