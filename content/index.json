@@ -1,5 +1,22 @@
 [
   {
+    "id": "cc69574b9c7fbc94",
+    "slug": "nepi-integra-sistemi-smart-al-foro-italico-cc69574b9c7fbc94",
+    "title": "Roma, CONI e Nepi Sistemi insieme: 2,3 mln € per il Foro Italico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-18T10:15:06.850679+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/0f65ab1d941b8eb583cfcb03bc9bfbfe.jpg",
+    "occhiello": "SMART CONTROL PER IL FORO ITALICO",
+    "lead_preview": "Roma, 18 maggio. Nepi Sistemi, azienda specializzata in soluzioni tecnologiche per l'efficientamento energetico degli im",
+    "tags": [
+      "foro italico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f15a4099b45eead6",
     "slug": "calcio-roma-senza-ndicka-kone-al-suo-posto-contro-f15a4099b45eead6",
     "title": "Calcio: Roma senza Ndicka, Kone al suo posto contro il Verona per il quarto posto",
@@ -220,24 +237,6 @@
       "tensione iran-israele",
       "borse europee in calo",
       "crisi mediorientale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cc69574b9c7fbc94",
-    "slug": "nepi-integra-sistemi-smart-al-foro-italico-cc69574b9c7fbc94",
-    "title": "Nepi integra sistemi smart al Foro Italico",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-18T10:15:06.850679+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/0f65ab1d941b8eb583cfcb03bc9bfbfe.jpg",
-    "occhiello": "NEPI PUNTA SU TECNOLOGIA PER IL FORO ITALICO",
-    "lead_preview": "Roma, 18 maggio 2026.",
-    "tags": [
-      "foro italico",
-      "nepi"
     ],
     "hero_eligible": true
   },
