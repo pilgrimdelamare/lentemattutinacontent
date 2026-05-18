@@ -1,5 +1,24 @@
 [
   {
+    "id": "048009a10d573d05",
+    "slug": "lorchestra-rai-cancella-il-concerto-a-torino-048009a10d573d05",
+    "title": "Beethoven a Torino sparisce: orchestra RAI cancella concerto da 1.200 biglietti esauriti",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-18T13:40:01.763156+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/18/bb68fddd4f6f932fc6a4fa982e9926c5.jpg",
+    "occhiello": "L'Orchestra sinfonica nazionale RAI avrebbe dovuto esibirsi",
+    "lead_preview": "Torino, 18 maggio. L'Orchestra sinfonica nazionale RAI avrebbe dovuto tenere giovedì 21 maggio alle 20.30 all'Auditorium",
+    "tags": [
+      "concerto rai torino",
+      "orchestra sinfonica rai",
+      "beethoven torino"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1684371b8069f15e",
     "slug": "papa-leone-xiv-lancia-lallarme-libano-nel-caos-ita-1684371b8069f15e",
     "title": "Papa Leone XIV lancia l’allarme: «Il Libano va a picco, l’Italia resta immobile»",
@@ -399,23 +418,6 @@
       "libro venturi",
       "piero della francesca",
       "agiografie storiche"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "048009a10d573d05",
-    "slug": "lorchestra-rai-cancella-il-concerto-a-torino-048009a10d573d05",
-    "title": "L'Orchestra RAI cancella il Concerto a Torino",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-18T13:40:01.763156+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/18/bb68fddd4f6f932fc6a4fa982e9926c5.jpg",
-    "occhiello": "TORINO PERDE IL CONCERTO RAI",
-    "lead_preview": "Torino, 18 maggio. L'Orchestra sinfonica nazionale RAI avrebbe dovuto esibirsi giovedì 21 maggio alle 20.30 all'auditori",
-    "tags": [
-      "concerto rai torino"
     ],
     "hero_eligible": true
   },
