@@ -1,5 +1,23 @@
 [
   {
+    "id": "12d4d2d48db02faf",
+    "slug": "petagna-illumina-il-lecce-vola-12d4d2d48db02faf",
+    "title": "Calcio: Petagna stende il Sassuolo, Lecce a -4 dai play-off",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-17T20:59:47.809217+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/81ec700b871410f5b3c33050a4e551a0.jpg",
+    "occhiello": "PETAGNA SIGLA IL SUCCESSO DEL LECCE",
+    "lead_preview": "Reggio Emilia, 17 maggio 2026. Il Lecce espugna il Mapei Stadium con una vittoria per 2-1 contro il Sassuolo, grazie all",
+    "tags": [
+      "lecce sassuolo",
+      "petagna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3d6fbfce45f518ba",
     "slug": "governo-israeliano-approva-costruzione-di-un-museo-3d6fbfce45f518ba",
     "title": "Israele stanzia 45 milioni per museo militare a Gerusalemme Est",
@@ -161,24 +179,6 @@
       "hall of fame ginnastica",
       "vanessa ferrari",
       "ginnastica artistica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "12d4d2d48db02faf",
-    "slug": "petagna-illumina-il-lecce-vola-12d4d2d48db02faf",
-    "title": "Petagna illumina, il Lecce vola",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-17T20:59:47.809217+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/81ec700b871410f5b3c33050a4e551a0.jpg",
-    "occhiello": "SASSUOLO SOFFOCATO DALLE ERRORI IN DIFESA",
-    "lead_preview": "Reggio Emilia, 17 maggio 2026.",
-    "tags": [
-      "lecce sassuolo",
-      "serie a 2026"
     ],
     "hero_eligible": true
   },
