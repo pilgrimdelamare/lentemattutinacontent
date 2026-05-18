@@ -1,5 +1,24 @@
 [
   {
+    "id": "dac0b93e192d2c6f",
+    "slug": "musk-condannato-a-100-milioni-di-dollari-per-sabot-dac0b93e192d2c6f",
+    "title": "Musk batte Cassa: 100 milioni per bloccare il voto OpenAI",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-05-18T18:01:35.315058+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/28350ca3fbf1bf4f14b9889b89b23040.jpg",
+    "occhiello": "OPENAI VINCE 100 MILIONI CONTRO MUSK",
+    "lead_preview": "San Francisco, 18 maggio. Elon Musk condannato a pagare 100 milioni di dollari per aver bloccato il voto sui fondi di Op",
+    "tags": [
+      "processo musk openai",
+      "voto fondi openai",
+      "sentenza california"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2e2eba2eefcd0555",
     "slug": "carvajal-e-casemiro-restano-a-bocca-asciutta-pensi-2e2eba2eefcd0555",
     "title": "Carvajal e Casemiro restano a bocca asciutta: pensioni da fame senza straordinarie",
@@ -422,24 +441,6 @@
       "salario minimo",
       "decreto lavoro",
       "opposizione salario minimo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dac0b93e192d2c6f",
-    "slug": "musk-condannato-a-100-milioni-di-dollari-per-sabot-dac0b93e192d2c6f",
-    "title": "Musk condannato a 100 milioni di dollari per sabotaggio OpenAI",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-18T18:01:35.315058+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/28350ca3fbf1bf4f14b9889b89b23040.jpg",
-    "occhiello": "MEDIA, MUSK PERDE LA CAUSA CONTRO ALTMAN PER OPENAI",
-    "lead_preview": "MAIUSCOLO ELON MUSK CONDANNATO ALL’INDEMNIZZO PER OPENAI: 100 MILIONI DI DOLLARI PER AVER BLOCCATO IL VOTO SUI FONDI Rom",
-    "tags": [
-      "caso musk",
-      "openai"
     ],
     "hero_eligible": true
   },
