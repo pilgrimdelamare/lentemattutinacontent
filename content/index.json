@@ -1,5 +1,23 @@
 [
   {
+    "id": "a34e5f1f2e67bfdb",
+    "slug": "scherma-martina-batini-numero-1-al-mondo-dopo-il-t-a34e5f1f2e67bfdb",
+    "title": "Scherma: Martina Batini è la nuova numero 1 Mondiale!",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-19T09:35:46.675552+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/989622ff4edfb3247ab8bfe86362359e.jpg",
+    "occhiello": "BATINI SVELA L'ASO A SHANGHAI",
+    "lead_preview": "Roma, 19 maggio — Martina Batini, fiorettista di Prato classe 1994, è la nuova numero 1 del ranking mondiale femminile d",
+    "tags": [
+      "scherma",
+      "martina batini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "89b1bbcfc9173792",
     "slug": "qatar-blocca-i-negoziati-usa-iran-tre-punti-irriso-89b1bbcfc9173792",
     "title": "Qatar blocca i negoziati USA-Iran: tre punti irrisolti bloccano ogni accordo",
@@ -417,25 +435,6 @@
       "raistoria",
       "documentario broccoli",
       "la musica misura l'italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a34e5f1f2e67bfdb",
-    "slug": "scherma-martina-batini-numero-1-al-mondo-dopo-il-t-a34e5f1f2e67bfdb",
-    "title": "Scherma: Martina Batini numero 1 al mondo dopo il trionfo di Shanghai",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-19T09:35:46.675552+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/989622ff4edfb3247ab8bfe86362359e.jpg",
-    "occhiello": "NUMERO UNO CON IL FIORETTO",
-    "lead_preview": "Roma, 19 maggio — Martina Batini, 32 anni, fiorettista di Prato, è la nuova numero 1 del ranking mondiale femminile di s",
-    "tags": [
-      "scherma fioretto",
-      "ranking mondiale",
-      "martina batini"
     ],
     "hero_eligible": true
   },
