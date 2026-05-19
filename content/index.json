@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 19 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-19T05:51:53.296635+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8d00a4abca47e42583a5489f3d68a0b22a5d2d47/skytg24/it/cronaca/2026/05/19/prime-pagine-quotidiani-oggi-19-maggio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 19 MAGGIO 2026",
+    "lead_preview": "Tutti i principali quotidiani italiani si concentrano su due filoni: la tensione geopolitica nel Golfo e gli attentati i",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cc69574b9c7fbc94",
     "slug": "nepi-integra-sistemi-smart-al-foro-italico-cc69574b9c7fbc94",
     "title": "2,3 Milioni alla volta del Foro Italico: rifanno le vasche e le piste domani",
@@ -1204,25 +1223,6 @@
       "gp catalunya motogp",
       "acosta vittoria",
       "bagnaia seconda posizione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 18 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-18T05:45:47.290927+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5f4573b274c0edcfee9af41d18db380ea050aa9a/skytg24/it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio/Composite_18_mggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE LUNEDÌ 18 MAGGIO 2026",
-    "lead_preview": "I giornali italiani oggi sono dominati dall'attentato di Modena e dalle reazioni politiche. Il Corriere della Sera e Rep",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
