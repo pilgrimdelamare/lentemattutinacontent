@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 18 maggio 2026",
+  "title": "Le prime pagine di oggi, martedì 19 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 18 maggio 2026",
-    "Le prime pagine di oggi, lunedì 18 maggio 2026",
-    "Le prime pagine di oggi, lunedì 18 maggio 2026"
+    "Le prime pagine di oggi, martedì 19 maggio 2026",
+    "Le prime pagine di oggi, martedì 19 maggio 2026",
+    "Le prime pagine di oggi, martedì 19 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE LUNEDÌ 18 MAGGIO 2026",
-  "lead": "I giornali italiani oggi sono dominati dall'attentato di Modena e dalle reazioni politiche. Il Corriere della Sera e Repubblica titolano sulla tragedia, mentre La Stampa si concentra sullo scontro politico interno alla maggioranza. Anche il mondo dello sport è presente, con la vittoria di Jannik Sinner agli Internazionali di Roma.",
-  "corpo1": "Il Corriere della Sera apre con la lettera della premier Meloni alla presidente della Commissione Ue von der Leyen per chiedere una deroga al Patto anche per l'energia. Repubblica titola \"Modena contro l'odio\" con cinque mila persone in piazza per manifestare contro la violenza. La Stampa si concentra sullo scontro politico interno alla maggioranza sui fatti di Modena. Il Messaggero celebra la vittoria di Jannik Sinner agli Internazionali di Roma. La Gazzetta dello Sport titola \"Il gigante\" per descrivere l'impresa del numero uno del tennis mondiale. Il Corriere dello Sport invece si concentra sulla rovinosa caduta della Juventus con la Fiorentina.",
-  "corpo2": "Altri titoli di rilievo includono la manifestazione contro l'odio a Modena con la presenza di cinque mila persone. Lo scontro politico interno alla maggioranza continua, con la Lega che propone di stoppare i permessi di soggiorno e Forza Italia che difende El Koudri, cittadino italiano. La Roma vince il derby capitolino contro la Lazio. Il tema dominante della giornata è l'attentato di Modena e le reazioni politiche e sociali.",
+  "occhiello": "LE PRIME PAGINE 19 MAGGIO 2026",
+  "lead": "Tutti i principali quotidiani italiani si concentrano su due filoni: la tensione geopolitica nel Golfo e gli attentati in Italia. *Il Resto del Carlino*, *La Repubblica* e *Il Messaggero* aprono sui conflitti tra Usa, Iran e Israele, con le dichiarazioni di Trump e la crisi della Flotilla. *La Stampa* e *Il Giorno* si soffermano invece sulla strage di Modena e sulle confessioni dell’attentatore, mentre *La Gazzetta dello Sport* e *Tuttosport* dedicano spazio al calcio, con Lautaro Martinez, la Juventus e il Napoli in prima linea. Solo *Il Fatto Quotidiano* focalizza l’attenzione su un tema sociale legato all’immigrazione.",
+  "corpo1": "Il *Corriere della Sera* apre con un titolo secco sul conflitto in Medio Oriente: “I Paesi arabi fermano l’attacco Usa”. Anche *La Repubblica* sceglie la guerra come tema principale, con “Trump sospende l’azione militare contro l’Iran su richiesta degli alleati”, mentre *Il Messaggero* titola sugli sviluppi della Flotilla: “Catturati 14 italiani”. *La Stampa*, dal canto suo, punta sull’Iran e la tregua: “Iran pronto alla tregua, Trump frena gli attacchi”. Sul fronte interno, *Il Giorno* dedica l’apertura all’attentato di Modena con “Salim, gli allarmi inascoltati”, e *Il Giornale* segue lo stesso tema con “Corsa a difendere l’attentatore che odia i cristiani”. *La Gazzetta dello Sport* sposta l’attenzione sul calcio: “Inter per sempre” suona la dichiarazione di Lautaro Martinez, mentre *Tuttosport* titola su un possibile ribaltone alla Juventus con “Lucio e Comolli, la resa dei conti”. *Il Fatto Quotidiano* si distingue con un titolo sull’immigrazione: “Flotilla, il Pirata riattacca. Il governo non condanna”.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-18T05:45:47.290927+00:00",
+  "published_at": "2026-05-19T05:51:53.296635+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/5f4573b274c0edcfee9af41d18db380ea050aa9a/skytg24/it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio/Composite_18_mggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/8d00a4abca47e42583a5489f3d68a0b22a5d2d47/skytg24/it/cronaca/2026/05/19/prime-pagine-quotidiani-oggi-19-maggio/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,21 +35,14 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/18/prime-pagine-quotidiani-oggi-18-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/19/prime-pagine-quotidiani-oggi-19-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 18 maggio 2026",
+      "title": "Oroscopo di oggi, martedì 19 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
-    },
-    {
-      "title": "Indice Hang Seng in perdita nelle prime ore di mercato a Hong Kong",
-      "url": "/economia/hong-kong-affonda-hang-seng-sotto-18500-punti-tenc-3d6c4402bcacd3e4",
-      "id": "3d6c4402bcacd3e4",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/10/8/6155139fe4ffb02616f8702146fea3db.jpg",
-      "image_type": "image"
     },
     {
       "title": "Topolino festeggia 1.500 anni di Sardegna con uno speciale di 40 pagine",
@@ -57,6 +50,13 @@
       "id": "98e66a180d2ecec2",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/c96bc0deb7abbf7d558ed123ed5dbd5d.jpg",
       "image_type": "image"
+    },
+    {
+      "title": "Einaudi lancia nuova collana con il romanzo di Aria Aber, esce oggi in libreria a Torino",
+      "url": "/cultura/libro-del-giorno-una-brava-ragazzadi-aria-aber-20260509",
+      "id": "libro-20260509",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/51p4ekqrf4l-a8ab6.jpg?1775671147",
+      "image_type": "url"
     }
   ],
   "hero_eligible": true
