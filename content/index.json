@@ -1,5 +1,24 @@
 [
   {
+    "id": "738e8051032a5603",
+    "slug": "apple-apre-la-wwdc-2026-al-apple-park-swift-al-cen-738e8051032a5603",
+    "title": "Apple domani lancia Swift 2026: 60% delle app iOS già in mano ai programmatori di Cupertino",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-05-19T12:28:39.188267+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/6a0bf9faa3345aa9da243756/16:9/w_1280,c_limit/wwdc%202026.png",
+    "occhiello": "APPLE APRE LA WWDC 2026 AL APPLE PARK: SWIFT AL CENTRO DEL FUTURO",
+    "lead_preview": "Cupertino, 19 maggio Apple annuncia la prossima Worldwide Developers Conference 2026, in programma l’8 giugno alle 18 it",
+    "tags": [
+      "swift 2026",
+      "wwdc apple",
+      "apple park"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0511278c0a481e03",
     "slug": "unicredit-conquista-commerzbank-con-il-35-via-deri-0511278c0a481e03",
     "title": "Unicredit prende il 35% di Commerzbank senza votare: derivati per controllo senza responsabilità",
@@ -532,25 +551,6 @@
       "lancio collana n5 chanel",
       "record vendite chanel",
       "strategia marketing lusso"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "738e8051032a5603",
-    "slug": "apple-apre-la-wwdc-2026-al-apple-park-swift-al-cen-738e8051032a5603",
-    "title": "Apple apre la WWDC 2026 al Apple Park: Swift al centro del futuro",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-19T12:28:39.188267+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a0bf9faa3345aa9da243756/16:9/w_1280,c_limit/wwdc%202026.png",
-    "occhiello": "IL LOGO SWIFT NON PROMETTE SOLO NUOVI CODICI",
-    "lead_preview": "Cupertino, 19 maggio. La Worldwide Developers Conference 2026 si apre l'8 giugno con un keynote alle ore 18 italiane. Ap",
-    "tags": [
-      "wwdc 2026",
-      "apple park",
-      "swift"
     ],
     "hero_eligible": true
   },
