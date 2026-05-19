@@ -1,5 +1,23 @@
 [
   {
+    "id": "3741f752841bc34c",
+    "slug": "bolsonaro-scende-di-sei-punti-nelle-intenzioni-di-3741f752841bc34c",
+    "title": "Bolsonaro scende di sei punti nelle intenzioni di voto",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-05-19T13:16:27.751566+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/15/2e4c0fe57c684da26cf948f2fb3a3fab.jpg",
+    "occhiello": "BRASILE, LO SCANDALO BANCO MASTER TRAVOLGE FLAVIO BOLSONARO NEI SONDAGGI",
+    "lead_preview": "MAIUSCOLO FONDI DI BANCA MASTER: SEI PUNTI PERDUTI IN SONDAGGIO PER BOLSONARO São Paulo, 19 maggio Flávio Nantes Bolsona",
+    "tags": [
+      "bolsonaro sondaggi",
+      "scandalo banco master"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7af69be422f31c06",
     "slug": "calcio-lazio-lotito-sceglie-il-successore-di-sarri-7af69be422f31c06",
     "title": "Calcio: Lazio, Lotito sceglie il successore di Sarri",
@@ -9132,25 +9150,6 @@
     "tags": [
       "roberta metsola",
       "adesione ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3900f366bdb8bb17",
-    "slug": "poste-e-tim-insieme-nasce-il-nuovo-gigante-della-t-3900f366bdb8bb17",
-    "title": "Poste Italiane e TIM, 3,5 miliardi per fondere le reti: nasce il primo operatore mobile",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-07T07:15:31.236070+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/07/090509368-861f6b8c-a6cd-41be-acf1-def5c33362ef.jpg",
-    "occhiello": "POSTE E TIM: 3,5 MILIARDI PER IL DOMINIO DEL MOBILE",
-    "lead_preview": "Roma, 7 maggio. Poste Italiane, la società pubblica a controllo statale che opera in diversi settori, e TIM, il principa",
-    "tags": [
-      "poste italiane",
-      "tim",
-      "fusione reti"
     ],
     "hero_eligible": true
   }
