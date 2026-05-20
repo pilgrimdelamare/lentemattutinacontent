@@ -1,5 +1,23 @@
 [
   {
+    "id": "bca6998f52de0f45",
+    "slug": "ue-minaccia-di-rivoltarsi-sugli-usa-dazi-acciaio-a-bca6998f52de0f45",
+    "title": "UE minaccia di rivoltarsi sugli USA: dazi acciaio al 15% saltano senza garanzie",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-20T06:16:44.923199+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/16/3730c6e2ffbe3ce831740360933bf07c.jpg",
+    "occhiello": "TRILOGLO SUL FIL DI LAME",
+    "lead_preview": "Bruxelles, 20 maggio. L’intesa tra Unione Europea e Stati Uniti sul tetto del 15% ai dazi sull’acciaio rischia di saltar",
+    "tags": [
+      "dazi acciaio",
+      "ue usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6906e31b9a7daeba",
     "slug": "basket-brunson-da-eroe-knicks-vincono-ai-supplemen-6906e31b9a7daeba",
     "title": "Basket: Brunson da eroe, Knicks vincono ai supplementari 118-115 e lui chiude con +12",
@@ -9153,21 +9171,6 @@
       "bollette energia",
       "arera"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "84a8aae3ab51ad98",
-    "slug": "basket-lebron-james-sbugiarda-arbitri-lakers-in-ca-84a8aae3ab51ad98",
-    "title": "Basket: Davis sbaglia 6 su 14 liberi, Nuggets vincono 112-108 a Los Angeles",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-08T08:26:12.142434+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9dfa45beda7c06003fa94009bb65675fb8c056dc/skysport/it/nba/2026/05/08/playoff-nba-lakers-okc-arbitri/redick_lakers_getty.jpg",
-    "occhiello": "LeBron James 28 ma i Lakers perdono",
-    "lead_preview": "LeBron James 28 ma i Lakers perdono los angeles, 8 maggio. LeBron James ha chiuso con 42 punti, 9 rimbalzi e 7 assist, m",
-    "tags": [],
     "hero_eligible": true
   }
 ]
