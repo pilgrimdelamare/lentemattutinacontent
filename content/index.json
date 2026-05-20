@@ -1,5 +1,23 @@
 [
   {
+    "id": "24c5c68802035da9",
+    "slug": "ciclismo-ganna-strappa-la-rosa-al-giro-con-52-seco-24c5c68802035da9",
+    "title": "Ciclismo: Ganna vince crono a 51,7 km/h",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-19T17:43:21.082910+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/c3b442b0a271ebb7e22c17da99d36aa3.jpg",
+    "occhiello": "GANNA A 51,7 KM/H SCOLLA FRACCARO",
+    "lead_preview": "GANNA A 51,7 KM/H SCOLLA FRACCARO Roma, 19 maggio. La cronometro individuale della decima tappa del Giro d’Italia ha con",
+    "tags": [
+      "giro d'italia",
+      "filippo ganna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a34e5f1f2e67bfdb",
     "slug": "scherma-martina-batini-numero-1-al-mondo-dopo-il-t-a34e5f1f2e67bfdb",
     "title": "Scherma: Batini numero uno del mondo, stacca Thibus per 23 punti",
@@ -663,23 +681,6 @@
       "eni plenitude svizzera",
       "prezzi energia record",
       "investimenti eni hub elettrico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "24c5c68802035da9",
-    "slug": "ciclismo-ganna-strappa-la-rosa-al-giro-con-52-seco-24c5c68802035da9",
-    "title": "Ciclismo: Ganna vola a 51,7 km/h, Fraccaro crolla: 52 secondi di gap in cronometro",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-19T17:43:21.082910+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/c3b442b0a271ebb7e22c17da99d36aa3.jpg",
-    "occhiello": "",
-    "lead_preview": "Roma, 19 maggio. Filippo Ganna ha vinto la cronometro individuale della 10ª tappa del Giro d’Italia con un margine di 52",
-    "tags": [
-      "giro d'italia"
     ],
     "hero_eligible": true
   },
