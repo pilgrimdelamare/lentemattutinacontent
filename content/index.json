@@ -1,5 +1,23 @@
 [
   {
+    "id": "692e0e4e62f2eedd",
+    "slug": "kevin-zhu-pubblica-un-video-su-paganini-e-genova-692e0e4e62f2eedd",
+    "title": "Kevin Zhu pubblica un video su Paganini e Genova",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-20T14:25:11.831831+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/1/22/0df3728c49f7ff4fa0ae47b85d27f46b.jpg",
+    "occhiello": "KEVIN ZHU PRESENTA IL SUO VIDEO SU PAGANINI",
+    "lead_preview": "Genova, 20 maggio 2026. Il violinista statunitense Kevin Zhu ha pubblicato un video documentario sulla figura di Niccolò",
+    "tags": [
+      "kevin zhu",
+      "paganini genova"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8801f6e1abe37ce1",
     "slug": "fincantieri-forma-42-lavoratori-stranieri-8801f6e1abe37ce1",
     "title": "Fincantieri forma 42 lavoratori stranieri",
@@ -9171,25 +9189,6 @@
     "tags": [
       "sfilata chanel",
       "maxxi roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "40 Minuti di blackout per 3.200 utenti: l'interruzione di Claude",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-05-08T10:31:17.818410+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "",
-    "lead_preview": "San Francisco, 8 maggio. Alle 14:17 ora locale – corrispondenti alle 23:17 in Italia – il sistema di intelligenza artifi",
-    "tags": [
-      "blackout tecnologico",
-      "claudio sistema",
-      "anthropic incidente"
     ],
     "hero_eligible": true
   }
