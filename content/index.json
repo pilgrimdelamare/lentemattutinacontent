@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260520",
+    "slug": "libro-del-giorno-lidiota-famigliadi-dario-ferrari-20260520",
+    "title": "Il libro del giorno: «L’idiota»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo di formazione e introspezione ambientato tra Viareggio e Roma",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-20T07:00:21.260018+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788838949272_0_0_424_0_75-b3f56.jpg?1775678713",
+      "alt": "Copertina: L’idiota",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788838949272_0_0_424_0_75-b3f56.jpg?1775678713",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "9aea99bc5becd59e",
     "slug": "mina-svela-i-pugili-italiani-degli-anni-80-facevan-9aea99bc5becd59e",
     "title": "Pugilato: dodici campioni italiani risultano positivi agli steroidi negli anni '80",
@@ -9150,25 +9169,6 @@
     "tags": [
       "roberto allegri",
       "finanziamento romanzo allegri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "540a5107d39188bb",
-    "slug": "gas-a-4345-euromwh-il-mercato-respira-ma-le-bollet-540a5107d39188bb",
-    "title": "Gas all'ingrosso crolla a 43 euro, ma la bolletta resta a 35 centesimi al kWh",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-08T07:48:25.824920+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/6/12/6c858b574c67b2587fcb0419bd632124.jpg",
-    "occhiello": "BOLLETTE A 35 CENTESIMI, MA BANCHE E GESTORI GUADAGNANO",
-    "lead_preview": "Roma, 8 maggio. Ieri la TTF Gas Index di Amsterdam ha chiuso a 43,45 euro per megawattora, il valore più basso dal febbr",
-    "tags": [
-      "prezzo gas 2024",
-      "bollette energia",
-      "arera"
     ],
     "hero_eligible": true
   }
