@@ -1,5 +1,23 @@
 [
   {
+    "id": "23dd43a2ab35f0d1",
+    "slug": "modi-e-meloni-superano-5-milioni-di-like-su-instag-23dd43a2ab35f0d1",
+    "title": "5,2 Milioni di like al meme di Modi e Meloni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-20T09:55:07.326674+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://images.agi.it/pictures/agi/agi/2023/09/10/095646155-53f84020-355a-4074-a09d-c837a58ee59c.jpeg",
+    "occhiello": "5 MILIONI DI LIKE A UN MEME DEL G20",
+    "lead_preview": "5 MILIONI DI LIKE A UN MEME DEL G20 Roma, 20 maggio — Il post su Instagram che ritrae il primo ministro indiano Narendra",
+    "tags": [
+      "g20",
+      "modi meloni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b80b7e3986a8836e",
     "slug": "larte-di-schnabel-costa-30-euro-a-piastrella-perch-b80b7e3986a8836e",
     "title": "Schnabel intasca 9.000 euro a Roma per un murale che non esiste: i cittadini denunciano",
@@ -698,24 +716,6 @@
       "knicks cavaliers",
       "brunson 38 punti",
       "playoff nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "23dd43a2ab35f0d1",
-    "slug": "modi-e-meloni-superano-5-milioni-di-like-su-instag-23dd43a2ab35f0d1",
-    "title": "Modi e Meloni su Instagram: 5 milioni di like in 5 ore per meme G20",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-20T09:55:07.326674+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2023/09/10/095646155-53f84020-355a-4074-a09d-c837a58ee59c.jpeg",
-    "occhiello": "UN MEME CON I DUE PREMIER FA SFONDARE 5 MILIONI DI LIKE",
-    "lead_preview": "Roma, 20 maggio — Un post su Instagram che ritrae Narendra Modi e Giorgia Meloni ha superato i 5 milioni di like in appe",
-    "tags": [
-      "g20",
-      "modi meloni"
     ],
     "hero_eligible": true
   },
