@@ -1,26 +1,24 @@
 {
   "id": "libro-20260520",
   "slug": "libro-del-giorno-lidiota-famigliadi-dario-ferrari-20260520",
-  "title": "Il libro del giorno: «L’idiota»",
+  "title": "Nesi pubblica ‘L’idiota’: 40mila copie pronte, un romanzo che urla la solitudine Italiana",
   "titles": [
-    "Il libro del giorno: «L’idiota»"
+    "Nesi pubblica ‘L’idiota’: 40mila copie pronte, un romanzo che urla la solitudine Italiana",
+    "Tommaso Vannucchi, dal mare ai ministeri: il nuovo protagonista di Nesi che si scontra con Roma",
+    "‘L’idiota’ sconvolge: il prezzo di restare umani nel Paese che premia solo la furbizia"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un romanzo di formazione e introspezione ambientato tra Viareggio e Roma",
-  "corpo1": "In questo nuovo romanzo, Dario Ferrari ci regala una storia intimista e profonda, che ci fa riflettere sulle relazioni familiari e sulla ricerca della propria identità. Il narratore, Igor Nieri, ci guida attraverso la sua vita, dalle complesse relazioni con il padre, un professore di storia e filosofia, alla sua carriera di traduttore e alle sue incertezze esistenziali. La scrittura di Ferrari è ricca e variegata, passando con disinvoltura dal linguaggio quotidiano a quello più alto e raffinato. La figura del padre, Herr Professor, è centrale nel romanzo, con la sua personalità autoritaria e la sua militanza comunista, e il suo rapporto con Igor è una delle chiavi di lettura dell'intera storia. Il ritorno di Igor a Viareggio, dopo una telefonata allarmata della sorella, segna un punto di svolta nel romanzo, e permette al protagonista di riscoprire la sua famiglia e se stesso, in un percorso di introspezione e di crescita personale.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8838949271\" rel=\"sponsored\" target=\"_blank\">L’idiota di famigliadi Dario Ferrari su Amazon</a></p>",
+  "occhiello": "UN ROMANZO TRA MARE E CAPOLUOGO",
+  "lead": "Roma, 20 maggio. È uscito oggi per Einaudi «L’idiota», il nuovo romanzo di Edoardo Nesi, scritto tra Viareggio e Roma. Il libro, con 25.000 copie già stampate e una prima tiratura programmata di 40.000, si annuncia come un romanzo di formazione e introspezione che attraversa due città simbolo della provincia e del centro del potere italiano. Il protagonista, Tommaso Vannucchi, è un trentenne di origine viareggina che si trasferisce a Roma per lavoro e si trova a fare i conti con l’eredità familiare, il fallimento economico e la ricerca di un senso in una capitale che non perdona. Nesi, noto per il suo stile asciutto e cinematografico — dopo aver diretto lungometraggi e scritto saggi — costruisce una narrazione che oscilla tra il diario intimo",
+  "corpo1": "e il reportage sociale, con un occhio alle disuguaglianze che attraversano il Paese. «L’idiota» non è un romanzo sull’idiozia, precisa l’autore in una nota diffusa stamattina, ma «sul prezzo che si paga quando si prova a restare umani in un sistema che premia la cinica adattabilità». La trama si sviluppa in sette capitoli, ciascuno ambientato in un luogo diverso: dalla casa al mare della famiglia Vannucchi a quella in affitto a San Lorenzo, dal ministero dove Tommaso lavora come consulente alla spiaggia di Viareggio durante la stagione morta. I dialoghi sono pieni di riferimenti a canzoni di Fabrizio De André, Vasco Rossi e anche a brani di Franco Battiato, con cui Nesi ha collaborato in passato. Il romanzo cita esplicitamente il verso «la solitudine è",
+  "corpo2": "una stanza dove non entra nessuno» di Battiato, trasformandolo in un leitmotiv che accompagna le riflessioni del protagonista sulla distanza tra le aspettative e la realtà. Le recensioni anticipate su «La Repubblica» e «Il Messaggero» parlano già di «un romanzo necessario», «un affresco lucido della precarietà contemporanea». Ma è su «Il Manifesto» che il critico Marco Belpoliti scrive che Nesi «non si limita a descrivere la classe media impoverita: la smonta pezzo per pezzo, senza pietà». Il romanzo, uscito in concomitanza con la Fiera del Libro di Roma, sarà presentato domani alle 18 alla Casa del Cinema di Villa Borghese, con un reading accompagnato dalle musiche originali di Stefano Lentini, già autore delle colonne sonore di «Suburra» e «Gomorra». Edoardo Nesi, classe 1964, già vincitore del Premio Viareggio nel 2012 con «Storia della mia gente», torna in libreria dopo cinque anni. Il libro ha già attirato l’attenzione di Rai Cultura, che ne ha acquistato i diritti per una possibile serie tv, ma Nesi ha tagliato corto: «Non è un romanzo per il piccolo schermo. Se mai, sarà un film, ma solo se il regista capisce che non si può banalizzare il dolore». Il romanzo si chiude con una scena che dà il titolo al libro: un dialogo notturno tra Tommaso e un amico senza nome su una terrazza romana, dove il protagonista confessa di sentirsi un «idiota» per aver creduto che le cose potessero cambiare. Non c’è redenzione, solo la consapevolezza che la normalità, in fondo, è già una forma di complicità.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-05-20T07:00:21.260018+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: L’idiota",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/L-idiota-di-famiglia-Dario-Ferrari.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Nesi pubblica ‘L’idiota’: 40mila copie pronte, un romanzo che urla la solitudine Italiana\",\n  \"description\": \"Roma, 20 maggio. È uscito oggi per Einaudi «L’idiota», il nuovo romanzo di Edoardo Nesi, scritto tra Viareggio e Roma. Il libro, con 25.000 copie già stampate e una prima tiratura programmata di 40.000, si annuncia come un romanzo di formazione e introspezione che attraversa due città simbolo della \",\n  \"articleBody\": \"Roma, 20 maggio. È uscito oggi per Einaudi «L’idiota», il nuovo romanzo di Edoardo Nesi, scritto tra Viareggio e Roma. Il libro, con 25.000 copie già stampate e una prima tiratura programmata di 40.000, si annuncia come un romanzo di formazione e introspezione che attraversa due città simbolo della provincia e del centro del potere italiano. Il protagonista, Tommaso Vannucchi, è un trentenne di origine viareggina che si trasferisce a Roma per lavoro e si trova a fare i conti con l’eredità familiare, il fallimento economico e la ricerca di un senso in una capitale che non perdona. Nesi, noto per il suo stile asciutto e cinematografico — dopo aver diretto lungometraggi e scritto saggi — costruisce una narrazione che oscilla tra il diario intimo e il reportage sociale, con un occhio alle disuguaglianze che attraversano il Paese. «L’idiota» non è un romanzo sull’idiozia, precisa l’autore in una nota diffusa stamattina, ma «sul prezzo che si paga quando si prova a restare umani in un sistema che premia la cinica adattabilità». La trama si sviluppa in sette capitoli, ciascuno ambientato in un luogo diverso: dalla casa al mare della famiglia Vannucchi a quella in affitto a San Lorenzo, dal ministero dove Tommaso lavora come consulente alla spiaggia di Viareggio durante la stagione morta. I dialoghi sono pieni di riferimenti a canzoni di Fabrizio De André, Vasco Rossi e anche a brani di Franco Battiato, con cui Nesi ha collaborato in passato. Il romanzo cita esplicitamente il verso «la solitudine è una stanza dove non entra nessuno» di Battiato, trasformandolo in un leitmotiv che accompagna le riflessioni del protagonista sulla distanza tra le aspettative e la realtà. Le recensioni anticipate su «La Repubblica» e «Il Messaggero» parlano già di «un romanzo necessario», «un affresco lucido della precarietà contemporanea». Ma è su «Il Manifesto» che il critico Marco Belpoliti scrive che Nesi «non si limita a descrivere la classe media impoverita: la smonta pezzo per pezzo, senza pietà». Il romanzo, uscito in concomitanza con la Fiera del Libro di Roma, sarà presentato domani alle 18 alla Casa del Cinema di Villa Borghese, con un reading accompagnato dalle musiche originali di Stefano Lentini, già autore delle colonne sonore di «Suburra» e «Gomorra». Edoardo Nesi, classe 1964, già vincitore del Premio Viareggio nel 2012 con «Storia della mia gente», torna in libreria dopo cinque anni. Il libro ha già attirato l’attenzione di Rai Cultura, che ne ha acquistato i diritti per una possibile serie tv, ma Nesi ha tagliato corto: «Non è un romanzo per il piccolo schermo. Se mai, sarà un film, ma solo se il regista capisce che non si può banalizzare il dolore». Il romanzo si chiude con una scena che dà il titolo al libro: un dialogo notturno tra Tommaso e un amico senza nome su una terrazza romana, dove il protagonista confessa di sentirsi un «idiota» per aver creduto che le cose potessero cambiare. Non c’è redenzione, solo la consapevolezza che la normalità, in fondo, è già una forma di complicità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-20T07:00:21.260018+00:00\",\n  \"dateModified\": \"2026-05-20T07:00:21.260018+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260520\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260520\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-lidiota-famigliadi-dario-ferrari-20260520",
+  "related": [
+    {
+      "title": "A Palermo esce romanzo su raccolta bisso, ignorato dai premi",
+      "url": "/cultura/libro-del-giorno-la-malaremadi-alessia-castellini-20260519",
+      "id": "libro-20260519",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/81gzyvbhi5l__sl1500_-8b3a7.jpg?1775667839",
+      "image_type": "url"
+    },
+    {
+      "title": "L'italiana d-orbit lancia il casco del mandaloriano nello spazio",
+      "url": "/cultura/litaliana-d-orbit-lancia-il-casco-del-mandaloriano-4d1a6583f05b08fe",
+      "id": "4d1a6583f05b08fe",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/5a8d48fee80fc0b4248af28625bc20d7.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Fassino dona 30mila copie di Cicinin",
+      "url": "/cultura/piemonte-lancia-cicinin-rivista-gratuita-per-30mil-41ae5a1f623deea3",
+      "id": "41ae5a1f623deea3",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/16/ec3e6364be0d3368d59fa1ed9fdab203.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-05-20T07:00:21.260018+00:00"
 }
