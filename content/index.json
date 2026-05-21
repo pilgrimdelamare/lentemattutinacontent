@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bbadf07df5adc19",
+    "slug": "rendimento-stabile-al-383-litalia-paga-739-punti-b-4bbadf07df5adc19",
+    "title": "Teso dichiara: Debito italiano sotto controllo, ma il rendimento dei BTP sale al 3,83%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-21T07:16:35.126342+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/25/5fece042f02840cc10c080f4f6db67ea.jpg",
+    "occhiello": "BTP AL 3,83%, COSTO DEL DEBITO IN PICCO",
+    "lead_preview": "Roma, 21 maggio. Il rendimento dei BTP a dieci anni ha chiuso la seduta di ieri a 3,83%, con uno spread rispetto al Bund",
+    "tags": [
+      "debito italiano",
+      "btp"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3ae241492c553b5a",
     "slug": "auto-elettriche-ferme-al-18-tasse-e-oneri-di-siste-3ae241492c553b5a",
     "title": "Sardegna: 612 richieste per Rinnovabili bloccate al 100%, carbone brucia ancora",
@@ -490,25 +508,6 @@
       "google gemini omni",
       "video con ia",
       "intelligenza artificiale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bbadf07df5adc19",
-    "slug": "rendimento-stabile-al-383-litalia-paga-739-punti-b-4bbadf07df5adc19",
-    "title": "Spread a 73,9 punti: BTP al 3,83%, il costo del Debito italiano sale ancora",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-21T07:16:35.126342+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/25/5fece042f02840cc10c080f4f6db67ea.jpg",
-    "occhiello": "SPREAD IN CRESCITA: ITALIA PAGA 73,9 PUNTI BASE IN PIÙ DELLA GERMANIA",
-    "lead_preview": "Roma, 21 maggio. Il rendimento annuo dei titoli di Stato italiani ha chiuso la seduta di ieri al 3,83%, con uno spread d",
-    "tags": [
-      "spread btp",
-      "debito pubblico",
-      "titoli di stato"
     ],
     "hero_eligible": true
   },
