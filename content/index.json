@@ -1,5 +1,24 @@
 [
   {
+    "id": "4bbadf07df5adc19",
+    "slug": "rendimento-stabile-al-383-litalia-paga-739-punti-b-4bbadf07df5adc19",
+    "title": "Spread a 73,9 punti: BTP al 3,83%, il costo del Debito italiano sale ancora",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-21T07:16:35.126342+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/25/5fece042f02840cc10c080f4f6db67ea.jpg",
+    "occhiello": "SPREAD IN CRESCITA: ITALIA PAGA 73,9 PUNTI BASE IN PIÙ DELLA GERMANIA",
+    "lead_preview": "Roma, 21 maggio. Il rendimento annuo dei titoli di Stato italiani ha chiuso la seduta di ieri al 3,83%, con uno spread d",
+    "tags": [
+      "spread btp",
+      "debito pubblico",
+      "titoli di stato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "323fda1b60e5159b",
     "slug": "jonas-kaufmann-travolge-il-san-carlo-dieci-minuti-323fda1b60e5159b",
     "title": "Kaufmann travolge il San Carlo: 10 minuti di applausi per Werther ribelle",
@@ -308,24 +327,6 @@
       "figc stipendi",
       "ministro abodi",
       "sistema federale calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bbadf07df5adc19",
-    "slug": "rendimento-stabile-al-383-litalia-paga-739-punti-b-4bbadf07df5adc19",
-    "title": "Rendimento stabile al 3,83%: l'Italia paga 73,9 punti base in più della Germania",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-21T07:16:35.126342+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/11/25/5fece042f02840cc10c080f4f6db67ea.jpg",
-    "occhiello": "IL COSTO NASCOSTO DI OGNI EURO DI DEBITO PUBBLICO",
-    "lead_preview": "Roma, 21 maggio. Il rendimento annuo dei titoli di Stato italiani si è mantenuto stabile al 3,83%, con lo spread tra BTP",
-    "tags": [
-      "rendimento italiano",
-      "spread btp bund"
     ],
     "hero_eligible": true
   },
