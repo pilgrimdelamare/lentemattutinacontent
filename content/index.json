@@ -1,5 +1,24 @@
 [
   {
+    "id": "323fda1b60e5159b",
+    "slug": "jonas-kaufmann-travolge-il-san-carlo-dieci-minuti-323fda1b60e5159b",
+    "title": "Jonas Kaufmann travolge il San Carlo: dieci minuti di applausi per Werther",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-21T10:16:25.393308+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/0f740fe4bf63eab8c07a92caacf06f16.jpg",
+    "occhiello": "SOVRAPPREZZO ASSOLUTO",
+    "lead_preview": "Napoli, 21 maggio. Dieci minuti di applausi per il Werther al Teatro di San Carlo, stando al resoconto di ANSA. Il tenor",
+    "tags": [
+      "jonas kaufmann",
+      "teatro san carlo",
+      "werther"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9e82023d2287c736",
     "slug": "genova-rischia-10-milioni-per-colombo-bomber-che-n-9e82023d2287c736",
     "title": "Genova rischia 10 milioni per Colombo, bomber che nel bollettino di guerra vale poco",
@@ -9160,24 +9179,6 @@
     "occhiello": "VALERIA MANCINI CANTA GLORIA PER 45 SERATE: BIGLIETTI GIÀ A 2,3 MILIONI",
     "lead_preview": "Valeria Mancini canta *Gloria* per 45 serate: biglietti già a 2,3 milioni Roma, 8 maggio. Valeria Mancini interpreterà G",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "16cd8a06b5abde1f",
-    "slug": "iran-accusa-trump-di-avventurismo-tensione-a-golfo-16cd8a06b5abde1f",
-    "title": "Trump minaccia Iran: «Se vuole guerra, l’avrà» dopo l’attacco a 7 contractors in Siria",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-08T17:25:34.061808+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/4/229a24d55231177f2437e0433fa631bd.jpg",
-    "occhiello": "TRUMP ATTACCA A PAROLE TEHERAN",
-    "lead_preview": "Teheran, 8 maggio. Il Presidente degli Stati Uniti Donald J. Trump ha minacciato ritorsioni militari immediate contro l’",
-    "tags": [
-      "trump iran",
-      "guerra siria"
-    ],
     "hero_eligible": true
   }
 ]
