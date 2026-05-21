@@ -1,0 +1,59 @@
+{
+  "id": "d64220a4edc03f5f",
+  "slug": "google-presenta-gemini-omni-lai-che-crea-video-rea-d64220a4edc03f5f",
+  "title": "Google presenta Gemini Omni, l'AI che crea video realistici",
+  "titles": [
+    "Google presenta Gemini Omni, l'AI che crea video realistici",
+    "Sundar Pichai: Gemini Omni rivoluziona la generazione video",
+    "Gemini Omni cambia il gioco: Google simula la realtà fisica"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "GOOGLE MOSTRA VIDEO IA SENZA TESTI",
+  "lead": "Roma, 21 maggio. Al Google I/O Google ha presentato Gemini Omni, un modello di intelligenza artificiale capace di generare e modificare video realistici partendo da input eterogenei, inclusi filmati preesistenti.",
+  "corpo1": "elementi di contesto non esplicitati nel prompt iniziale. Google sottolinea come Omni integri capacità di ragionamento avanzato con la generazione multimodale, avvicinandosi a quella che definisce un “world model”, cioè un sistema in grado non solo di produrre contenuti ma di simulare alcuni aspetti della realtà fisica. Il modello non è ancora disponibile al pubblico in versione completa, ma Google ha indicato che verranno rilasciati aggiornamenti progressivi tramite la piattaforma AI Studio e i servizi cloud dell’azienda. corpo2>La novità tecnologica non risiede nella semplice generazione video — già presente in prodotti commerciali come Sora di OpenAI o Runway ML — ma nell’approccio ibrido di Omni, che combina input multimodali per produrre output coerenti senza richiedere descrizioni dettagliate. Secondo Sundar Pichai, amministratore delegato di Google, durante la conferenza stampa di presentazione, il modello rappresenta “un passo avanti verso sistemi che non si limitano a",
+  "corpo2": "replicare dati, ma cercano di comprendere relazioni complesse tra elementi visivi, testuali e uditivi”. Tuttavia, la demo presentata solleva dubbi sulla reale capacità del sistema di manipolare video esistenti senza alterarne in modo riconoscibile l’autenticità. Come ogni modello di sintesi video ad alta fedeltà, Omni potrebbe essere sfruttato per creare deepfake o contenuti disinformativi, ma Google non ha fornito dettagli su meccanismi di watermarking o tracciabilità richiesti dalla normativa europea sull’IA. L’Unione Europea, con il Regolamento sull’Intelligenza Artificiale entrato in vigore a febbraio 2025, impone obblighi di trasparenza per i modelli generativi di contenuto sintetico, inclusa la marcatura dei dati prodotti. Al momento, Google non ha comunicato piani di adeguamento a queste prescrizioni per Omni, limitandosi a dichiarare che “la sicurezza è una priorità” senza specificare strumenti concreti. Il modello, secondo le stime di settore citate da Bloomberg, richiede infrastrutture computazionali pari a quelle necessarie per addestrare modelli di grandi dimensioni come Llama 3, con un costo operativo stimato in milioni di dollari per ogni ciclo di addestramento. La potenza di calcolo necessaria suggerisce che l’accesso a Omni sarà inizialmente riservato a sviluppatori e aziende con accordi commerciali, mentre la versione pubblica potrebbe arrivare solo dopo una fase di test chiusa. Il lancio avviene in un mercato già saturo di soluzioni concorrenti, dove Meta ha recentemente annunciato una partnership con Nvidia per accelerare la generazione di video tramite GPU H100, e Microsoft ha integrato funzionalità simili in Azure Video. Google, invece, punta sulla flessibilità di input come elemento distintivo, ma non ha fornito dati su velocità di rendering, qualità dei risultati o limiti tecnici. Resta da verificare se Omni saprà distinguersi non solo per la capacità di sintesi, ma anche per affidabilità e rispetto delle norme vigenti.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-05-21T10:42:49.928404+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/05/21/123211070-b235893c-d68c-4d81-945a-e87e66eae31d.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Google presenta Gemini Omni, l'AI che crea video realistici\",\n  \"description\": \"Roma, 21 maggio. Al Google I/O Google ha presentato Gemini Omni, un modello di intelligenza artificiale capace di generare e modificare video realistici partendo da input eterogenei, inclusi filmati preesistenti.\",\n  \"articleBody\": \"Roma, 21 maggio. Al Google I/O Google ha presentato Gemini Omni, un modello di intelligenza artificiale capace di generare e modificare video realistici partendo da input eterogenei, inclusi filmati preesistenti. elementi di contesto non esplicitati nel prompt iniziale. Google sottolinea come Omni integri capacità di ragionamento avanzato con la generazione multimodale, avvicinandosi a quella che definisce un “world model”, cioè un sistema in grado non solo di produrre contenuti ma di simulare alcuni aspetti della realtà fisica. Il modello non è ancora disponibile al pubblico in versione completa, ma Google ha indicato che verranno rilasciati aggiornamenti progressivi tramite la piattaforma AI Studio e i servizi cloud dell’azienda. corpo2>La novità tecnologica non risiede nella semplice generazione video — già presente in prodotti commerciali come Sora di OpenAI o Runway ML — ma nell’approccio ibrido di Omni, che combina input multimodali per produrre output coerenti senza richiedere descrizioni dettagliate. Secondo Sundar Pichai, amministratore delegato di Google, durante la conferenza stampa di presentazione, il modello rappresenta “un passo avanti verso sistemi che non si limitano a replicare dati, ma cercano di comprendere relazioni complesse tra elementi visivi, testuali e uditivi”. Tuttavia, la demo presentata solleva dubbi sulla reale capacità del sistema di manipolare video esistenti senza alterarne in modo riconoscibile l’autenticità. Come ogni modello di sintesi video ad alta fedeltà, Omni potrebbe essere sfruttato per creare deepfake o contenuti disinformativi, ma Google non ha fornito dettagli su meccanismi di watermarking o tracciabilità richiesti dalla normativa europea sull’IA. L’Unione Europea, con il Regolamento sull’Intelligenza Artificiale entrato in vigore a febbraio 2025, impone obblighi di trasparenza per i modelli generativi di contenuto sintetico, inclusa la marcatura dei dati prodotti. Al momento, Google non ha comunicato piani di adeguamento a queste prescrizioni per Omni, limitandosi a dichiarare che “la sicurezza è una priorità” senza specificare strumenti concreti. Il modello, secondo le stime di settore citate da Bloomberg, richiede infrastrutture computazionali pari a quelle necessarie per addestrare modelli di grandi dimensioni come Llama 3, con un costo operativo stimato in milioni di dollari per ogni ciclo di addestramento. La potenza di calcolo necessaria suggerisce che l’accesso a Omni sarà inizialmente riservato a sviluppatori e aziende con accordi commerciali, mentre la versione pubblica potrebbe arrivare solo dopo una fase di test chiusa. Il lancio avviene in un mercato già saturo di soluzioni concorrenti, dove Meta ha recentemente annunciato una partnership con Nvidia per accelerare la generazione di video tramite GPU H100, e Microsoft ha integrato funzionalità simili in Azure Video. Google, invece, punta sulla flessibilità di input come elemento distintivo, ma non ha fornito dati su velocità di rendering, qualità dei risultati o limiti tecnici. Resta da verificare se Omni saprà distinguersi non solo per la capacità di sintesi, ma anche per affidabilità e rispetto delle norme vigenti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-21T10:42:49.928404+00:00\",\n  \"dateModified\": \"2026-05-21T10:42:49.928404+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/d64220a4edc03f5f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/d64220a4edc03f5f\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/05/21/123211070-b235893c-d68c-4d81-945a-e87e66eae31d.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Tecnologia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/tecnologia/2026/05/21/news/google-gemini-omni-ia-video-come-funziona-425360674/?rss",
+  "related": [
+    {
+      "title": "Apple svela domani il futuro: AI, Sicurezza e produttività in arrivo",
+      "url": "/tecnologia/apple-apre-la-wwdc-2026-al-apple-park-swift-al-cen-738e8051032a5603",
+      "id": "738e8051032a5603",
+      "image_url": "https://media-assets.wired.it/photos/6a0bf9faa3345aa9da243756/16:9/w_1280,c_limit/wwdc%202026.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Falsi rimborsi fiscali: 45mila truffe in quattro mesi",
+      "url": "/tecnologia/falsi-sms-bancari-con-nomi-e-numeri-tuoi-45mila-de-ffdd145036fa09c3",
+      "id": "ffdd145036fa09c3",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/05/19/143833923-1b458775-7934-4f6d-901a-1b68070e5df0.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "CheckSig ottiene la prima licenza crypto Italiana: 125.000 euro di garanzie per i clienti",
+      "url": "/tecnologia/checksig-debutta-con-micar-custodisce-vende-e-stak-90d8a83758d36b4d",
+      "id": "90d8a83758d36b4d",
+      "image_url": "https://media-assets.wired.it/photos/6a008b32355fa3f6b8c491b8/16:9/w_1280,c_limit/919078630",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
