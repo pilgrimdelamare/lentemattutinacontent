@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 20 maggio 2026",
+  "title": "Le prime pagine di oggi, giovedì 21 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 20 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 20 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 20 maggio 2026"
+    "Le prime pagine di oggi, giovedì 21 maggio 2026",
+    "Le prime pagine di oggi, giovedì 21 maggio 2026",
+    "Le prime pagine di oggi, giovedì 21 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE - 20 MAGGIO 2026",
-  "lead": "La stampa italiana si concentra oggi sulle vicende politiche e internazionali. La prima pagina di Repubblica titola su una possibile escalation tra Israele e la Flotilla, mentre Corriere della Sera e La Stampa focalizzano l'attenzione sulla visita di Putin in Cina. La Gazzetta dello Sport e La Gazzetta d'Italia si concentrano invece sullo sport, con una particolare attenzione al Giro d'Italia e al calcio. La Repubblica e Il Sole 24 Ore titolano anche su una possibile crisi economica a Cuba.",
-  "corpo1": "La Repubblica titola in apertura su \"Flotilla, spari e arresti in mare\" e cita anche le parole del deputato M5S Carotenuto, che accusa l'esercito israeliano di aver commesso un rapimento di massa. Il Corriere della Sera e La Stampa invece focalizzano l'attenzione sulla visita di Putin in Cina, dove il leader russo è arrivato per incontrare il presidente cinese Xi Jinping. La Gazzetta dello Sport si concentra invece sullo sport, con un articolo sul record di Ganna al Giro d'Italia. Il Sole 24 Ore titola invece su una possibile crisi economica a Cuba e sui rischi per le imprese italiane a causa della guerra in Ucraina.",
-  "corpo2": "Altri titoli di rilievo non in apertura includono l'articolo della Gazzetta dello Sport su \"Ganna record\" e l'articolo di La Gazzetta d'Italia su \"Il Milan è pronto a tutto\". La Repubblica e Il Sole 24 Ore titolano anche su una possibile crisi economica a Cuba e sui rischi per le imprese italiane a causa della guerra in Ucraina. Il tema dominante della giornata sembra essere la politica internazionale e le sue conseguenze economiche.",
+  "occhiello": "LE PRIME PAGINE 21 MAGGIO 2026",
+  "lead": "I principali quotidiani italiani dedicano le prime pagine al caso della Flotilla fermata da Israele, con la stampa che stigmatizza le modalità di detenzione degli attivisti e chiede scuse ufficiali. *Corriere della Sera*, *La Repubblica* e *La Stampa* aprono con cronache sull’accaduto, mentre *Il Messaggero* e *Il Gazzettino* puntano su sport e cronaca giudiziaria. Alcuni quotidiani locali si concentrano su vicende di cronaca nera e politica regionale.",
+  "corpo1": "Il *Corriere della Sera* titola sugli attivisti della Flotilla umiliati da Ben Gvir, con Mattarella e Meloni che definiscono il trattamento incivile e chiedono scuse. *La Repubblica* punta sulla crisi tra Italia e Israele, evidenziando le dichiarazioni del governo italiano e lo sdegno di Colle. *La Stampa* parla di livelli infimi di trattamento e di un possibile accordo diplomatico in Medio Oriente.\n\nIl *Messaggero* invece dedica l’apertura al futuro del Milan, con la dirigenza che punta a tenere Allegri e alla firma di Goretzka. *Il Gazzettino* apre sugli attivisti della Flotilla, mentre *Il Messaggero di Roma* si sofferma sulle intercettazioni su Autostrade e sui 3 milioni dati da Tomasi alla moglie. *Il Mattino* si concentra sul caso Flotilla con un focus sulla vergogna di Israele.",
+  "corpo2": "Tra gli altri titoli di rilievo, *La Gazzetta dello Sport* apre sul Milan con un focus su Max Allegri e le voci di mercato, mentre *Tuttosport* punta su Juventus e Napoli, con Elkann incerto sulla linea dirigenziale e un ultimatum per Sarri. *Il Resto del Carlino* e *Il Tirreno* si occupano di cronaca locale, con focus su derby e stracittadine.\n\nIl tema dominante della giornata rimane la vicenda della Flotilla e le tensioni internazionali che ne derivano.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-20T05:45:38.525870+00:00",
+  "published_at": "2026-05-21T05:45:46.780669+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/9e8befaf5b600b3b3ff2e5b211a45ec4a662fde7/skytg24/it/cronaca/2026/05/20/prime-pagine-quotidiani-oggi-20-maggio/rassegna20maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/35343d185aa4e96893834f6bc7cb20cd178b1b05/skytg24/it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,7 +35,7 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/20/prime-pagine-quotidiani-oggi-20-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio",
   "related": [
     {
       "title": "Oroscopo di oggi, mercoledì 20 maggio 2026",
