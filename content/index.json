@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 21 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-21T05:45:46.780669+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/35343d185aa4e96893834f6bc7cb20cd178b1b05/skytg24/it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 21 MAGGIO 2026",
+    "lead_preview": "I principali quotidiani italiani dedicano le prime pagine al caso della Flotilla fermata da Israele, con la stampa che s",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260520",
     "slug": "libro-del-giorno-lidiota-famigliadi-dario-ferrari-20260520",
     "title": "Nesi riscrive Dostoevskij: 20.000 copie prenotate per ‘L’idiota’, nuovo romanzo che sbanca",
@@ -911,25 +930,6 @@
     "tags": [
       "aston villa",
       "marèsca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 20 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-20T05:45:38.525870+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/9e8befaf5b600b3b3ff2e5b211a45ec4a662fde7/skytg24/it/cronaca/2026/05/20/prime-pagine-quotidiani-oggi-20-maggio/rassegna20maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE - 20 MAGGIO 2026",
-    "lead_preview": "La stampa italiana si concentra oggi sulle vicende politiche e internazionali. La prima pagina di Repubblica titola su u",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
