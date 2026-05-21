@@ -1,5 +1,22 @@
 [
   {
+    "id": "5aeea42001c554b5",
+    "slug": "vittorio-feltri-lancia-unomaggio-strepitoso-a-oria-5aeea42001c554b5",
+    "title": "Feltri onora Fallaci al Senato",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-21T17:11:23.524884+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/31/7f8413469372747457b292916d03eae4.jpg",
+    "occhiello": "FELTRI ONORA FALLACI CON",
+    "lead_preview": "FELTRI ONORA FALLACI CON Roma, 21 maggio. Il Senato ha ospitato una commemorazione ufficiale per Oriana Fallaci a vent'a",
+    "tags": [
+      "omaggio fallaci"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f6747d5f7dbbe66",
     "slug": "calcio-nagelsmann-esclude-bisseck-e-gnabry-la-germ-4f6747d5f7dbbe66",
     "title": "Calcio: Nagelsmann esclude Bisseck e Gnabry dalla Germania ai Mondiali",
@@ -108,24 +125,6 @@
     "tags": [
       "docufilm scavolini",
       "valter scavolini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5aeea42001c554b5",
-    "slug": "vittorio-feltri-lancia-unomaggio-strepitoso-a-oria-5aeea42001c554b5",
-    "title": "Vittorio Feltri lancia un'omaggio strepitoso a Oriana Fallaci",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-21T17:11:23.524884+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/31/7f8413469372747457b292916d03eae4.jpg",
-    "occhiello": "FONDAZIONE EINAUDI PROMUOVE IL RICORDO A VENT'ANNI DALLA MORTE",
-    "lead_preview": "Roma, 21 maggio. Il Senato ha ospitato a vent'anni dalla morte una commemorazione promossa dalla Fondazione Einaudi per ",
-    "tags": [
-      "oriana fallaci",
-      "fondazione einaudi"
     ],
     "hero_eligible": true
   },
