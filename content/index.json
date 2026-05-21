@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260521",
+    "slug": "libro-del-giorno-colpo-gobbodi-franz-bartelt-20260521",
+    "title": "Prehistorica Editore lancia 'Colpo gobbo' con 120.000 euro di fondi statali",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-21T07:01:34.286697+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/61prkiyelql-a775b.jpg?1775677158",
+    "occhiello": "IL LIBRO DEL GIORNO: «COLPO GOBBODI FRANZ BARTELT»",
+    "lead_preview": "Prehistorica Editore lancia «Colpo gobbo» di Franz Bartelt: un romanzo che sfida la censura, ma non i suoi finanziatori ",
+    "tags": [
+      "colpo gobbo",
+      "franz bartelt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "040ed980d04c8e7b",
     "slug": "barbara-bouchet-giudice-a-alessandro-borghese-cele-040ed980d04c8e7b",
     "title": "Barbara Bouchet giudica piatti da 150 euro a Celebrity Chef: il suo passato vende lusso",
@@ -434,25 +452,6 @@
     "lead_preview": "Roma, 20 maggio. Un meme che ritrae il Premier indiano Narendra Modi insieme alla Presidente del Consiglio Giorgia Melon",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260521",
-    "slug": "libro-del-giorno-colpo-gobbodi-franz-bartelt-20260521",
-    "title": "Il libro del giorno: «Colpo gobbodi Franz Bartelt»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo di ironia e dramma che esplora il sottobosco delle ambizioni umane e della follia.",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-21T07:01:34.286697+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/61prkiyelql-a775b.jpg?1775677158",
-      "alt": "Copertina: Colpo gobbodi Franz Bartelt",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/61prkiyelql-a775b.jpg?1775677158",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "5feec54c69bb8564",
