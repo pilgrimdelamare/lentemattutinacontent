@@ -1,5 +1,23 @@
 [
   {
+    "id": "91570b6092175c43",
+    "slug": "wall-street-in-flessione-sp-500--046-dow-jones--04-91570b6092175c43",
+    "title": "Wall Street in flessione: S&P 500 -0,46%, Dow Jones -0,46%, Nasdaq -0,50%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-21T14:10:42.388497+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
+    "occhiello": "INDICI SU, DOW JONES PERDE LO 0,46%",
+    "lead_preview": "New York, 21 maggio. Si è aperta in flessione Wall Street. L'S&P 500 scende dello 0,46%, il Dow Jones Industrial Average",
+    "tags": [
+      "borsa usa",
+      "wall street"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7dfb7a45795d132c",
     "slug": "louis-vuitton-trasforma-keith-haring-da-artista-a-7dfb7a45795d132c",
     "title": "Louis Vuitton trasforma Keith Haring da artista a borse da 300mila dollari",
@@ -9167,25 +9185,6 @@
       "tennis",
       "roma",
       "cocciretto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "21bdd55dad87faf4",
-    "slug": "neonato-su-venti-senza-vitamina-k-a-rischio-emorra-21bdd55dad87faf4",
-    "title": "Neonati a rischio, 1 su 20 non riceve la vitamina K: la protesta dei medici",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-08T22:19:47.947819+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDUvMDgvMjE1NjE2NTQ5LWMwNDY2MmY1LTE4Y2YtNDdkYi1hMmQ0LTk0M2I0ZTEwODJjMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "1 NEONATO SU 20 NON RICEVE VITAMINA K",
-    "lead_preview": "1 NEONATO SU 20 NON RICEVE VITAMINA K New York, 8 maggio. Negli Stati Uniti un neonato su venti non riceve la dose di vi",
-    "tags": [
-      "vitamina k neonati",
-      "salute neonatale",
-      "protesta medici"
     ],
     "hero_eligible": true
   }
