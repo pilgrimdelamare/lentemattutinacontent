@@ -1,5 +1,23 @@
 [
   {
+    "id": "91570b6092175c43",
+    "slug": "wall-street-in-flessione-sp-500--046-dow-jones--04-91570b6092175c43",
+    "title": "Dow Jones in picchiata: -170 punti a Wall Street",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-05-21T14:10:42.388497+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
+    "occhiello": "DOW JONES FRENA A 170 PUNTI",
+    "lead_preview": "DOW JONES FRENA A 170 PUNTI New York, 21 maggio. Wall Street ha chiuso in flessione, con il Dow Jones Industrial Average",
+    "tags": [
+      "dow jones",
+      "wall street"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0510deeb1d3d7712",
     "slug": "ciclismo-cianfrocca-mantiene-la-maglia-rosa-con-27-0510deeb1d3d7712",
     "title": "Ciclismo: Cianfrocca vince a Novi Ligure, maglia rosa a sorpresa",
@@ -471,25 +489,6 @@
     "occhiello": "LOUIS VUITTON MONETIZZA KEITH HARING",
     "lead_preview": "Roma, 21 maggio 2026. Louis Vuitton espone alla Frick Collection di New York una mostra che trasforma l’arte di Keith Ha",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "91570b6092175c43",
-    "slug": "wall-street-in-flessione-sp-500--046-dow-jones--04-91570b6092175c43",
-    "title": "Wall Street crolla: il Dow Jones perde 0,46% dopo i massimi storici",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-21T14:10:42.388497+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
-    "occhiello": "BORSA DI NEW YORK TRAINA IN TERRA: -0,46% IL DOW JONES",
-    "lead_preview": "BORSA DI NEW YORK TRAINA IN TERRA: -0,46% IL DOW JONES New York, 21 maggio. Wall Street ha aperto in flessione, con l'S&",
-    "tags": [
-      "crollo wall street",
-      "dow jones -0.46%",
-      "borsa new york"
-    ],
     "hero_eligible": true
   },
   {
