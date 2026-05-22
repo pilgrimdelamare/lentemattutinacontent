@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260522",
+    "slug": "libro-del-giorno-eterna-impermanenza-eterno-svaniredi-e-20260522",
+    "title": "Il libro del giorno: «Eterna impermanenza eterno svaniredi Eva Di Palma»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una silloge poetica che intreccia filosofia e fisicità umana, esplorando la danza eterna tra esistenza e svanimento",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-22T07:00:56.204079+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/41b97oajc6l__sl1500_-fd7e5.jpg?1779022891",
+      "alt": "Copertina: Eterna impermanenza eterno svaniredi Eva Di Palma",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/41b97oajc6l__sl1500_-fd7e5.jpg?1779022891",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "9dee80966eef0d07",
     "slug": "netflix-sferra-il-colpo-fibra-geolier-e-rose-villa-9dee80966eef0d07",
     "title": "Fabri Fibra, Geolier e Guè Pequeno giudici di Nuova Scena",
@@ -9165,25 +9184,6 @@
       "prezzi benzina",
       "accise governo",
       "crisi costi carburanti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f26628d5e556aa4f",
-    "slug": "calcio-udinese-trionfa-con-gol-di-deulofeu-al-65-f26628d5e556aa4f",
-    "title": "Calcio: Deulofeu decide al 117', Cagliari elimina l'Udinese e va in B",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-09T08:08:38.708465+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/3/b79dbb92f00f00a7736726467ba524cd.jpg",
-    "occhiello": "DEULOFEU 87', CAGLIARI TRAVOLGE UDINESE E FINISCE IN B",
-    "lead_preview": "DEULOFEU 87', CAGLIARI TRAVOLGE UDINESE E FINISCE IN B Udine, 9 maggio 2026. Gerard Deulofeu ha spento le residue speran",
-    "tags": [
-      "cagliari in b",
-      "deulofeu 87'",
-      "retrocessione udinese"
     ],
     "hero_eligible": true
   }
