@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 22 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-22T05:45:15.964082+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/4d2dbae7404009f577873ef8748fb891d65e6f7e/skytg24/it/cronaca/2026/05/22/prime-pagine-quotidiani-oggi-22-maggio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 22 MAGGIO 2026",
+    "lead_preview": "La rassegna delle prime pagine di venerdì 22 maggio 2026 evidenzia un focus principale sull’economia italiana, con l’Ue ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4bbadf07df5adc19",
     "slug": "rendimento-stabile-al-383-litalia-paga-739-punti-b-4bbadf07df5adc19",
     "title": "BTP a 3,83%: spread alle stelle, il governo rassicura ma gli investitori fiutano guai",
@@ -782,25 +801,6 @@
       "dazi ue usa",
       "acciaio usa",
       "dazi alluminio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 21 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-21T05:45:46.780669+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/35343d185aa4e96893834f6bc7cb20cd178b1b05/skytg24/it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 21 MAGGIO 2026",
-    "lead_preview": "I principali quotidiani italiani dedicano le prime pagine al caso della Flotilla fermata da Israele, con la stampa che s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
