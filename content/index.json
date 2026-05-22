@@ -1,5 +1,24 @@
 [
   {
+    "id": "f0d3e4825ef4e3e9",
+    "slug": "la-maesta-di-moneta-si-rischiarera-dopo-383-anni-d-f0d3e4825ef4e3e9",
+    "title": "Dopo il vandalismo, il simbolo di Carrara torna al suo splendore: la crepa chiude per sempre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-22T16:06:30.956994+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/22/2b18d72beee0799dbf9f38aa0e73ae7d.jpg",
+    "occhiello": "LA CREPA CHIUSA DOPO 383 ANNI",
+    "lead_preview": "LA CREPA CHIUSA DOPO 383 ANNI Carrara, 22 maggio. La Maestà di Monetà, la statua quattrocentesca che da secoli accoglie ",
+    "tags": [
+      "maestà di monetà",
+      "cattedrale di carrara",
+      "restauri scultura"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c8644cbd23880f81",
     "slug": "del-vecchio-incassa-100-milioni-loperaio-ne-prende-c8644cbd23880f81",
     "title": "Del Vecchio: 100m di utile, operaio guadagna 17m l'anno",
@@ -426,23 +445,6 @@
       "addio guardiola",
       "city 10 anni",
       "calcio moderno"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f0d3e4825ef4e3e9",
-    "slug": "la-maesta-di-moneta-si-rischiarera-dopo-383-anni-d-f0d3e4825ef4e3e9",
-    "title": "La Maestà di Monetà si rischiarerà dopo 383 anni di ombra",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-22T16:06:30.956994+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/22/2b18d72beee0799dbf9f38aa0e73ae7d.jpg",
-    "occhiello": "MAESTÀ DI MONETÀ TORNA A RISPLENDERE",
-    "lead_preview": "Carrara, 22 maggio. Per 383 anni una crepa nel marmo non ha fermato i pellegrini. Ora la Maestà di Monetà, statua sacra ",
-    "tags": [
-      "maestà di monetà"
     ],
     "hero_eligible": true
   },
