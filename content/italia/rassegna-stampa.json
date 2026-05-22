@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 21 maggio 2026",
+  "title": "Le prime pagine di oggi, venerdì 22 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 21 maggio 2026",
-    "Le prime pagine di oggi, giovedì 21 maggio 2026",
-    "Le prime pagine di oggi, giovedì 21 maggio 2026"
+    "Le prime pagine di oggi, venerdì 22 maggio 2026",
+    "Le prime pagine di oggi, venerdì 22 maggio 2026",
+    "Le prime pagine di oggi, venerdì 22 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 21 MAGGIO 2026",
-  "lead": "I principali quotidiani italiani dedicano le prime pagine al caso della Flotilla fermata da Israele, con la stampa che stigmatizza le modalità di detenzione degli attivisti e chiede scuse ufficiali. *Corriere della Sera*, *La Repubblica* e *La Stampa* aprono con cronache sull’accaduto, mentre *Il Messaggero* e *Il Gazzettino* puntano su sport e cronaca giudiziaria. Alcuni quotidiani locali si concentrano su vicende di cronaca nera e politica regionale.",
-  "corpo1": "Il *Corriere della Sera* titola sugli attivisti della Flotilla umiliati da Ben Gvir, con Mattarella e Meloni che definiscono il trattamento incivile e chiedono scuse. *La Repubblica* punta sulla crisi tra Italia e Israele, evidenziando le dichiarazioni del governo italiano e lo sdegno di Colle. *La Stampa* parla di livelli infimi di trattamento e di un possibile accordo diplomatico in Medio Oriente.\n\nIl *Messaggero* invece dedica l’apertura al futuro del Milan, con la dirigenza che punta a tenere Allegri e alla firma di Goretzka. *Il Gazzettino* apre sugli attivisti della Flotilla, mentre *Il Messaggero di Roma* si sofferma sulle intercettazioni su Autostrade e sui 3 milioni dati da Tomasi alla moglie. *Il Mattino* si concentra sul caso Flotilla con un focus sulla vergogna di Israele.",
-  "corpo2": "Tra gli altri titoli di rilievo, *La Gazzetta dello Sport* apre sul Milan con un focus su Max Allegri e le voci di mercato, mentre *Tuttosport* punta su Juventus e Napoli, con Elkann incerto sulla linea dirigenziale e un ultimatum per Sarri. *Il Resto del Carlino* e *Il Tirreno* si occupano di cronaca locale, con focus su derby e stracittadine.\n\nIl tema dominante della giornata rimane la vicenda della Flotilla e le tensioni internazionali che ne derivano.",
+  "occhiello": "LE PRIME PAGINE 22 MAGGIO 2026",
+  "lead": "La rassegna delle prime pagine di venerdì 22 maggio 2026 evidenzia un focus principale sull’economia italiana, con l’Ue che rivede al ribasso le stime di crescita del Paese, e sull’attacco ucraino a una base russa a Kherson. I quotidiani mainstream come \"Prima pagina 5\", \"Prima pagina 6\", \"Prima pagina 7\" e \"Prima pagina 9\" dedicano ampio spazio a questi temi, mentre testate sportive come \"Prima pagina 8\" e \"Prima pagina 9\" si concentrano su sviluppi del calcio italiano. Alcuni giornali, come \"Segaert\" e \"logo-sky-go\", titolano su temi commerciali e tecnologici, mentre \"Prima pagina 6\" riporta testimonianze di attivisti rientrati in Italia.",
+  "corpo1": "Segaert apre con un’offerta promozionale di 30 giorni e un annuncio su Sky Stream. Logo-sky-go dedica il primo piano a un incidente stradale a Modena e alla frenata economica europea, con l’Italia ultima in crescita nel 2027 e la premier Meloni che avverte l’Ue. Prima pagina 5 e Prima pagina 7 sottolineano la \"maglia nera\" dell’Italia in termini di Pil e il ruolo del debito pubblico, mentre Prima pagina 6 e Prima pagina 9 riprendono le testimonianze degli attivisti della Flotilla e la risposta tedesca all’Ucraina. Prima pagina 10, dedicata all’accessibilità, non fornisce ulteriori dettagli. Testate sportive come Prima pagina 8 e Prima pagina 9 si concentrano su movimenti e strategie calcistiche, con l’arrivo di Cardinale al Milan e la possibile svolta di Allegri.",
+  "corpo2": "Altri temi presenti nelle pagine interne includono l’azione ucraina contro i \"007 russi\", la schierata portaerei di Trump nei Caraibi e le polemiche su Tajani riguardo al finanziamento del ritorno degli attivisti. La giornata si apre su una nota dominante: la preoccupazione per la competitività economica dell’Italia nell’Unione Europea.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,22 +23,22 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-21T05:45:46.780669+00:00",
+  "published_at": "2026-05-22T05:45:15.964082+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/35343d185aa4e96893834f6bc7cb20cd178b1b05/skytg24/it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio/collage_hero.jpg?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/4d2dbae7404009f577873ef8748fb891d65e6f7e/skytg24/it/cronaca/2026/05/22/prime-pagine-quotidiani-oggi-22-maggio/collage_1.png?im=Resize,width=375",
+    "source": "Segaert",
+    "credit": "Prima pagina — Segaert",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/21/prime-pagine-quotidiani-oggi-21-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/22/prime-pagine-quotidiani-oggi-22-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 20 maggio 2026",
+      "title": "Oroscopo di oggi, venerdì 22 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
