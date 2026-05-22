@@ -1,5 +1,24 @@
 [
   {
+    "id": "dd2c6025cdf8247a",
+    "slug": "money-road-36-di-ascolti-il-reality-show-che-spacc-dd2c6025cdf8247a",
+    "title": "Money Road: +36% di ascolti, il reality show che spacca",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-22T10:29:34.071277+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/22/3d3d73e9ce1e0390af38ebe2eca067dc.jpg",
+    "occhiello": "REALITY CULTURALE O SCHERZO SOCIALE?",
+    "lead_preview": "Milano, 22 maggio. Sky registra +36% di ascolti per la seconda stagione di Money Road rispetto al debutto pay del 28 mag",
+    "tags": [
+      "reality money road",
+      "ascolti sky",
+      "esperimento sociale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ecc8ef7e48cc9adc",
     "slug": "calcio-pulici-salva-il-toro-con-un-solo-gol-ecc8ef7e48cc9adc",
     "title": "Calcio: Pulici salva il Toro con un solo gol",
@@ -9163,25 +9182,6 @@
       "calcio",
       "liverpool",
       "chelsea"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4f49423ed034a154",
-    "slug": "f1-marc-marquez-e-condannato-al-chirurgo-la-gara-d-4f49423ed034a154",
-    "title": "MotoGP: Marc Márquez si frattura il piede a Le Mans, rischia il Mugello",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-09T15:01:18.962790+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f1c6fc8f538ba629be30d01479e59efe01855051/skysport/it/motori/motogp/2026/05/09/classifica-motogp-dopo-gp-le-mans-francia/marc_marquez_caduta_cover_Screen.jpg",
-    "occhiello": "MÁRQUEZ SI FRATURA IL PIEDE, MUGELLO A RISCHIO",
-    "lead_preview": "MÁRQUEZ SI FRATURA IL PIEDE, MUGELLO A RISCHIO Marc Márquez si è infortunato al piede destro durante la Sprint di Le Man",
-    "tags": [
-      "moto gp",
-      "marc marquez",
-      "infortunio moto gp"
     ],
     "hero_eligible": true
   }
