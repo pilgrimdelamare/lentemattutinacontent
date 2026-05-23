@@ -1,5 +1,23 @@
 [
   {
+    "id": "3efa8ebe6c1d4e0b",
+    "slug": "50-pianoforti-preparati-in-concerto-a-reggio-emili-3efa8ebe6c1d4e0b",
+    "title": "50 Pianisti suonano 11.000 corde a Reggio Emilia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-23T10:16:42.901969+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/0b87bdede93119d3d84decd0a04a2e75.jpg",
+    "occhiello": "UN CORO DI PIANI ALLE REGGIANE",
+    "lead_preview": "Reggio Emilia, 26 settembre. Stasera al Capannone 15 delle Reggiane 50 pianisti eseguiranno in coro 11.000 Saiten di Geo",
+    "tags": [
+      "concerto reggio emilia",
+      "coro di piani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "12590f065e772ec0",
     "slug": "ciriani-dichiara-il-referendum-nucleare-lopposizio-12590f065e772ec0",
     "title": "Ciriani dichiara il referendum nucleare: l'opposizione già in piedi",
@@ -549,24 +567,6 @@
       "mostra prado 2024",
       "arte trecento-quattrocento",
       "dialogo italo-spagnolo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3efa8ebe6c1d4e0b",
-    "slug": "50-pianoforti-preparati-in-concerto-a-reggio-emili-3efa8ebe6c1d4e0b",
-    "title": "50 Pianisti suonano in coro: domani a Reggio Emilia l’opera impossibile di Haas",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-23T10:16:42.901969+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/0b87bdede93119d3d84decd0a04a2e75.jpg",
-    "occhiello": "50 PIANOFORTI, UN CONCERTO DI 40 MINUTI",
-    "lead_preview": "Reggio Emilia, 26 settembre. Stasera al Capannone 15 delle Reggiane il Klangforum Wien eseguirà 11.000 Saiten di Georg F",
-    "tags": [
-      "concerto reggio emilia",
-      "opera haas"
     ],
     "hero_eligible": true
   },
