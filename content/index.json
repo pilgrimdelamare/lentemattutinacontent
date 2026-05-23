@@ -1,5 +1,24 @@
 [
   {
+    "id": "2d3d916a9db9c4cc",
+    "slug": "streisand-prende-la-palma-donore-a-cannes-il-cinem-2d3d916a9db9c4cc",
+    "title": "Streisand, 84 anni, vince la Palma d’onore a Cannes",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-23T19:27:59.651199+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/6165147a5d09eca5db0fdd7d33300321.jpg",
+    "occhiello": "STREISAND, 84 ANNI, ORO AL PALAZZO DI CANNES",
+    "lead_preview": "STREISAND, 84 ANNI, ORO AL PALAZZO DI CANNES Cannes, 23 maggio. Barbra Streisand ha ricevuto la Palma d’onore nella ceri",
+    "tags": [
+      "palma d'onore cannes",
+      "barbra streisand",
+      "festival di cannes 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2f97be9f030baf4e",
     "slug": "calcio-italiano-chiede-il-conto-al-bologna-dopo-5-2f97be9f030baf4e",
     "title": "Bologna: penalizzazioni FIGC e 12 milioni di perdite costringono la dirigenza a un meeting",
@@ -229,24 +248,6 @@
     "tags": [
       "vasco rossi",
       "concerto rimini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2d3d916a9db9c4cc",
-    "slug": "streisand-prende-la-palma-donore-a-cannes-il-cinem-2d3d916a9db9c4cc",
-    "title": "Streisand prende la palma d'onore a cannes: \"il cinema unisce\"",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-23T19:27:59.651199+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/6165147a5d09eca5db0fdd7d33300321.jpg",
-    "occhiello": "STREISAND PRENDE LA PALMA D'ONORE A CANNES: \"IL CINEMA UNISCE\"",
-    "lead_preview": "Cannes, 23 maggio 2026. Barbra Streisand, 84 anni, ha ricevuto la Palma d’onore nella cerimonia di chiusura del Festival",
-    "tags": [
-      "festival cannes",
-      "barbra streisand"
     ],
     "hero_eligible": true
   },
