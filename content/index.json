@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260523",
+    "slug": "libro-del-giorno-il-mio-grande-bellissimo-odiodi-elisab-20260523",
+    "title": "Il libro del giorno: «Il mio grande, bellissimo odiodi Elisabeth Åsbrink»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo biografico sulla vita della scrittrice svedese Victoria Benedictsson",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-23T07:00:39.223223+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L156xH312/asbrink-bcccc.jpg?1775669244",
+      "alt": "Copertina: Il mio grande, bellissimo odiodi Elisabeth Åsbrink",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L156xH312/asbrink-bcccc.jpg?1775669244",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "27293bac97895d8d",
     "slug": "tennis-learner-tien-vs-navone-3-finali-in-carriera-27293bac97895d8d",
     "title": "Tennis: Learner Tien vs Navone, 3 finali in carriera per incassare 1,8 milioni di dollari",
@@ -9180,24 +9199,6 @@
     "tags": [
       "san francesco",
       "assisi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a4731031dc18d02b",
-    "slug": "maltempo-sullitalia-arrivano-rovesci-e-temporali-a-a4731031dc18d02b",
-    "title": "La Penisola si prepara a subire un'ondata di maltempo",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-05-10T23:16:58.239272+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/10/222448506-2f41f8d6-a666-4754-bf18-da018cc0b062.jpg",
-    "occhiello": "FRONTI PERTURBATI: L'ITALIA SI PREPARA ALLA SETTIMANA PIÙ INSTABILE DI MAGGIO",
-    "lead_preview": "FRONTI PERTURBATI: L'ITALIA SI PREPARA ALLA SETTIMANA PIÙ INSTABILE DI MAGGIO Roma, 10 maggio. L’Italia vivrà una settim",
-    "tags": [
-      "maltempo italia",
-      "ondata di maltempo"
     ],
     "hero_eligible": true
   }
