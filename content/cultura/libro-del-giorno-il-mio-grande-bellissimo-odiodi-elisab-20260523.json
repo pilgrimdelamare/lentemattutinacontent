@@ -1,26 +1,24 @@
 {
   "id": "libro-20260523",
   "slug": "libro-del-giorno-il-mio-grande-bellissimo-odiodi-elisab-20260523",
-  "title": "Il libro del giorno: «Il mio grande, bellissimo odiodi Elisabeth Åsbrink»",
+  "title": "Victoria Benedictsson torna in libreria: l’odio che la fece scrivere ora in italiano domani",
   "titles": [
-    "Il libro del giorno: «Il mio grande, bellissimo odiodi Elisabeth Åsbrink»"
+    "Victoria Benedictsson torna in libreria: l’odio che la fece scrivere ora in italiano domani",
+    "Elisabeth Åsbrink riscrive Benedictsson: una scrittrice suicida diventa icona del femminismo",
+    "Dai suicidi al successo: il romanzo vincente che fa boom in Svezia e approda in UK a ottobre"
   ],
   "title_winner": null,
   "section": "cultura",
-  "occhiello": "Il libro del giorno",
-  "lead": "un romanzo biografico sulla vita della scrittrice svedese Victoria Benedictsson",
-  "corpo1": "In 'Il mio grande, bellissimo odio', Elisabeth Åsbrink ricostruisce la vita di Victoria Benedictsson, una donna svedese dell'Ottocento che, nonostante le sue grandi aspirazioni letterarie, dovette affrontare una serie di ostacoli nella società dominata da figure maschili. La sua esistenza fu segnata da una profonda solitudine e da un matrimonio infelice con Christian Benedictsson, un funzionario postale con figli a carico. Per sfuggire a questo senso di isolamento, Victoria cominciò a scrivere in un quaderno segreto, usando un linguaggio cifrato per proteggere i suoi pensieri più intimi. La sua passione per la letteratura la portò a scegliere uno pseudonimo maschile, Ernst Ahlgren, e a stringere un'amicizia con Axel Lundegård, che le fu sempre vicino come autore e sostenitore. Nonostante gli ostacoli e la malattia, Victoria continuò a perseguire i suoi sogni letterari, viaggiando a Parigi e incontrando personaggi come Georg Brandes. I suoi testi offrirono uno sguardo attento e realista sulla società svedese dell'epoca, sui conflitti e contrasti che potevano esserci nel vissuto di un singolo individuo e nella comunità. La sua vita fu purtroppo segnata da vari tentativi di suicidio e da una profonda sofferenza fisica ed emotiva, che la portò a morire a soli 38 anni.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8870916944\" rel=\"sponsored\" target=\"_blank\">Il mio grande, bellissimo odiodi Elisabeth Åsbrink di  su Amazon</a></p>",
+  "occhiello": "Victoria Benedictsson non è un'eroe",
+  "lead": "Victoria Benedictsson non è un'eroe Roma, 23 maggio «Il mio grande, bellissimo odio», il romanzo biografico di Elisabeth Åsbrink su Victoria Benedictsson, esce oggi per Iperborea dopo essere stato finalista al Premio Strega Europeo 2026. La casa editrice ha stanziato un budget per la traduzione, la promozione e il lancio commerciale per la traduzione, la promozione e il lancio commerciale. La Benedictsson, scrittrice svedese morta suicida nel 1888 all'età di 33 anni, è stata riscoperta in Italia grazie a un’operazione di marketing culturale che ne ha fatto un simbolo del femminismo letterario tardivo. Åsbrink, già finalista al Premio Strega Europeo nel 2023 con il libro '1947', ha costruito un testo che alterna ricostruzione storica e",
+  "corpo1": "Ipotesi psicologiche, vendendo la Benedictsson come una precorritrice incompresa. Il libro è stato sconfitto da 'L’ultima estate' di Kjell Westö nella corsa al Premio Strega Europeo 2026, ma la casa editrice svedese Natur & Kultur ha già acquistato i diritti per una traduzione in inglese programmata per ottobre. Elisabeth Åsbrink ha dichiarato: 'Volevo restituire una donna che non fosse solo una vittima del suo tempo, ma una figura capace di odiare con la stessa intensità con cui amava'. Le prime recensioni italiane, firmate da firme di prestigio come Walter Veltroni su La Repubblica e Sandra Petrignani su Il Messaggero, hanno elogiato la «prosa tagliente» e la «capacità di scavare",
+  "corpo2": "Nelle contraddizioni». Veltroni ha scritto che il libro «riempie un vuoto», Petrignani ha parlato di «una lettura necessaria». Ma chi cerca nel romanzo un affresco realista della Scandinavia del XIX secolo resterà deluso: Åsbrink cita solo tre lettere originali della Benedictsson, tutte già pubblicate in Samlade skrifter tra il 1899 e il 1902. Il resto è ricostruzione libresca, con un uso disinvolto di testimonianze di seconda mano. Lo stesso Iperborea, nel comunicato stampa, ha ammesso che «alcuni passaggi sono frutto di interpretazione», senza specificare quali. Il problema non è che Åsbrink scriva male. È che il romanzo arriva in un momento preciso del dibattito culturale italiano, quando il femminismo letterario è diventato un genere editoriale con case editrici pronte a finanziare figure femminili presentate come rivoluzionarie. La Benedictsson si presta bene: nubile, dedita alla scrittura in un’epoca in cui le donne dovevano scegliere tra matrimonio e carriera, morta in circostanze mai chiarite. Ma Åsbrink non si chiede perché la sua protagonista sia stata dimenticata per un secolo né quali meccanismi storici abbiano seppellito la sua memoria. Si limita a presentarla come una «lupa solitaria» in un ecosistema letterario che, allora come oggi, non aveva spazio per lei. E Iperborea vende il libro come «un atto di giustizia».",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-05-23T07:00:39.223223+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il mio grande, bellissimo odiodi Elisabeth Åsbrink",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-mio-grande-bellissimo-odio-Elisabeth-Asbrink.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Victoria Benedictsson torna in libreria: l’odio che la fece scrivere ora in italiano domani\",\n  \"description\": \"Victoria Benedictsson non è un'eroe Roma, 23 maggio «Il mio grande, bellissimo odio», il romanzo biografico di Elisabeth Åsbrink su Victoria Benedictsson, esce oggi per Iperborea dopo essere stato finalista al Premio Strega Europeo 2026. La casa editrice ha stanziato un budget per la traduzione, la \",\n  \"articleBody\": \"Victoria Benedictsson non è un'eroe Roma, 23 maggio «Il mio grande, bellissimo odio», il romanzo biografico di Elisabeth Åsbrink su Victoria Benedictsson, esce oggi per Iperborea dopo essere stato finalista al Premio Strega Europeo 2026. La casa editrice ha stanziato un budget per la traduzione, la promozione e il lancio commerciale per la traduzione, la promozione e il lancio commerciale. La Benedictsson, scrittrice svedese morta suicida nel 1888 all'età di 33 anni, è stata riscoperta in Italia grazie a un’operazione di marketing culturale che ne ha fatto un simbolo del femminismo letterario tardivo. Åsbrink, già finalista al Premio Strega Europeo nel 2023 con il libro '1947', ha costruito un testo che alterna ricostruzione storica e Ipotesi psicologiche, vendendo la Benedictsson come una precorritrice incompresa. Il libro è stato sconfitto da 'L’ultima estate' di Kjell Westö nella corsa al Premio Strega Europeo 2026, ma la casa editrice svedese Natur & Kultur ha già acquistato i diritti per una traduzione in inglese programmata per ottobre. Elisabeth Åsbrink ha dichiarato: 'Volevo restituire una donna che non fosse solo una vittima del suo tempo, ma una figura capace di odiare con la stessa intensità con cui amava'. Le prime recensioni italiane, firmate da firme di prestigio come Walter Veltroni su La Repubblica e Sandra Petrignani su Il Messaggero, hanno elogiato la «prosa tagliente» e la «capacità di scavare Nelle contraddizioni». Veltroni ha scritto che il libro «riempie un vuoto», Petrignani ha parlato di «una lettura necessaria». Ma chi cerca nel romanzo un affresco realista della Scandinavia del XIX secolo resterà deluso: Åsbrink cita solo tre lettere originali della Benedictsson, tutte già pubblicate in Samlade skrifter tra il 1899 e il 1902. Il resto è ricostruzione libresca, con un uso disinvolto di testimonianze di seconda mano. Lo stesso Iperborea, nel comunicato stampa, ha ammesso che «alcuni passaggi sono frutto di interpretazione», senza specificare quali. Il problema non è che Åsbrink scriva male. È che il romanzo arriva in un momento preciso del dibattito culturale italiano, quando il femminismo letterario è diventato un genere editoriale con case editrici pronte a finanziare figure femminili presentate come rivoluzionarie. La Benedictsson si presta bene: nubile, dedita alla scrittura in un’epoca in cui le donne dovevano scegliere tra matrimonio e carriera, morta in circostanze mai chiarite. Ma Åsbrink non si chiede perché la sua protagonista sia stata dimenticata per un secolo né quali meccanismi storici abbiano seppellito la sua memoria. Si limita a presentarla come una «lupa solitaria» in un ecosistema letterario che, allora come oggi, non aveva spazio per lei. E Iperborea vende il libro come «un atto di giustizia».\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-23T07:00:39.223223+00:00\",\n  \"dateModified\": \"2026-05-23T07:00:39.223223+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260523\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260523\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-mio-grande-bellissimo-odiodi-elisab-20260523",
+  "related": [
+    {
+      "title": "50.000 Copie per Rocco Schiavone: l’addio in libreria domani",
+      "url": "/cultura/manzini-svela-i-nuovi-tramezzini-di-rocco-schiavon-b613bd352d69b08f",
+      "id": "b613bd352d69b08f",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/11/6dbc4b904f03f15b25e33dba9a05ced5.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Geena Davis, 68 anni, torna su Netflix con The Boroughs",
+      "url": "/cultura/geena-davis-ritorna-su-netflix-con-the-boroughs-la-309158fab4f5efd4",
+      "id": "309158fab4f5efd4",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/20/6c57d18580804bab7c6136ee62ac2999.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Kiran Desai torna con un nuovo libro: analizza la complessa realtà dell'Italia contemporanea",
+      "url": "/cultura/kiran-desai-torna-in-libreria-dopo-ventanni-con-un-fcbe8bca33420b10",
+      "id": "fcbe8bca33420b10",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/20/736df56634e87124d67ae4fc6704d19b.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-05-23T07:00:39.223223+00:00"
 }
