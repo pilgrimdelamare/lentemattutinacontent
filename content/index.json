@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260523",
+    "slug": "libro-del-giorno-il-mio-grande-bellissimo-odiodi-elisab-20260523",
+    "title": "Victoria Benedictsson torna in libreria: l’odio che la fece scrivere ora in italiano domani",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-23T07:00:39.223223+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L156xH312/asbrink-bcccc.jpg?1775669244",
+    "occhiello": "Victoria Benedictsson non è un'eroe",
+    "lead_preview": "Victoria Benedictsson non è un'eroe Roma, 23 maggio «Il mio grande, bellissimo odio», il romanzo biografico di Elisabeth",
+    "tags": [
+      "victoria benedictsson",
+      "romanzo biografico",
+      "iperborea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d3d941f5d66caf04",
     "slug": "premio-sila-49-greco-nucci-e-fresu-vincono-ma-il-s-d3d941f5d66caf04",
     "title": "Nucci vince 30.000 euro con ‘Libro su Bologna’: la sua prosa che ridà vita alla città",
@@ -345,25 +364,6 @@
     "lead_preview": "Parigi, 22 maggio 2026. Flavio Cobolli, tennista italiano emergente, ha omaggiato Rafael Nadal posando la sua racchetta ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260523",
-    "slug": "libro-del-giorno-il-mio-grande-bellissimo-odiodi-elisab-20260523",
-    "title": "Il libro del giorno: «Il mio grande, bellissimo odiodi Elisabeth Åsbrink»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo biografico sulla vita della scrittrice svedese Victoria Benedictsson",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-05-23T07:00:39.223223+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L156xH312/asbrink-bcccc.jpg?1775669244",
-      "alt": "Copertina: Il mio grande, bellissimo odiodi Elisabeth Åsbrink",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L156xH312/asbrink-bcccc.jpg?1775669244",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "276722c8d8db792b",
