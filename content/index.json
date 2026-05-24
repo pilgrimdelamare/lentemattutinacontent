@@ -1,5 +1,22 @@
 [
   {
+    "id": "03030b4a40651d87",
+    "slug": "il-valore-economico-del-dominio-collettivo-nei-pla-03030b4a40651d87",
+    "title": "Basket: Cavaliers dominano i Knicks 121-108",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-24T07:13:38.104745+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/75e6fd0cb2ce006b258ea49ae89d763ae277fd35/skysport/it/nba/video/2026/05/24/1100298_1779601661570_thumb_494.0000001_1779601741306.jpg",
+    "occhiello": "MITCHELL SI SBANCA LE ORECCHIE A MADISON",
+    "lead_preview": "New York, 24 maggio. I Cleveland Cavaliers hanno battuto i New York Knicks 121 a 108 in gara-3 dei play-off NBA, portand",
+    "tags": [
+      "nba play-off"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "33f992f94e41902a",
     "slug": "calcio-juventus-roma-bis-in-finale-di-coppa-italia-33f992f94e41902a",
     "title": "Calcio: Giacinti e Piemonte saccheggiano la Roma, Juventus Women fa il bis in Coppa",
@@ -15,24 +32,6 @@
       "coppa italia donne",
       "juventus women",
       "serie a donne 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "03030b4a40651d87",
-    "slug": "il-valore-economico-del-dominio-collettivo-nei-pla-03030b4a40651d87",
-    "title": "Basket: Cavaliers domano i Knicks 121-108, battutone a centro campo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-24T07:13:38.104745+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/75e6fd0cb2ce006b258ea49ae89d763ae277fd35/skysport/it/nba/video/2026/05/24/1100298_1779601661570_thumb_494.0000001_1779601741306.jpg",
-    "occhiello": "CLEVELAND FA IL PASSO DEFINITIVO",
-    "lead_preview": "New York, 24 maggio. I Cleveland Cavaliers hanno battuto i New York Knicks 121-108 in gara-3 dei Playoff NBA Eastern Con",
-    "tags": [
-      "nba playoffs",
-      "cavaliers knicks"
     ],
     "hero_eligible": true
   },
