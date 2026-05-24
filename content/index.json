@@ -1,22 +1,22 @@
 [
   {
-    "id": "6645c29bf61f52f2",
-    "slug": "calderone-affonda-il-reddito-di-cittadinanza-addio-6645c29bf61f52f2",
-    "title": "Marina Calderone cancella 1,8 milioni di assegni del Reddito di Cittadinanza, impatti su 4,7 milioni",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-05-23T10:59:09.126501+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/57015a08a671d313b5605656f417eeef.jpg",
-    "occhiello": "Calderone cancella 1,8 milioni di assegni",
-    "lead_preview": "Roma, 23 maggio. Il decreto firmato da Marina Calderone, ministra del Lavoro, cancella 1,8 milioni di assegni del Reddit",
-    "tags": [
-      "reddito cittadinanza cancellazione",
-      "decreto marina calderone",
-      "impatti reddito cittadinanza"
-    ],
-    "hero_eligible": true
+    "id": "libro-20260524",
+    "slug": "libro-del-giorno-otto-indagini-per-il-giudice-deedi-rob-20260524",
+    "title": "Il libro del giorno: «Otto indagini per il giudice Deedi Robert van Gulik»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una raccolta di gialli storici cinesi rievocati da uno sinologo olandese con precisione etnografica e fascino esotico",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-24T07:00:57.696718+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L189xH312/714b1egyfjl__sl1500_-dcd76.jpg?1775729353",
+      "alt": "Copertina: Otto indagini per il giudice Deedi Robert van Gulik",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L189xH312/714b1egyfjl__sl1500_-dcd76.jpg?1775729353",
+    "image_type": "url",
+    "hero_eligible": false
   },
   {
     "id": "c29be22b6c6de00e",
@@ -514,6 +514,25 @@
       "morte dick parry",
       "pink floyd money",
       "sassofonista rock"
+    ],
+    "hero_eligible": true
+  },
+  {
+    "id": "6645c29bf61f52f2",
+    "slug": "calderone-affonda-il-reddito-di-cittadinanza-addio-6645c29bf61f52f2",
+    "title": "Calderone cancella 1,8 milioni di assegni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-05-23T10:59:09.126501+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/57015a08a671d313b5605656f417eeef.jpg",
+    "occhiello": "REDDITO DI CITTADINANZA, 1,8 MILIONI A RISCHIO",
+    "lead_preview": "REDDITO DI CITTADINANZA, 1,8 MILIONI A RISCHIO roma, 23 maggio. Il decreto firmato da Marina Calderone, ministra del Lav",
+    "tags": [
+      "reddito cittadinanza",
+      "decreto calderone",
+      "assegni cancellati"
     ],
     "hero_eligible": true
   },
@@ -9180,24 +9199,6 @@
       "calcio",
       "roma-parma",
       "serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7d43fb1480600949",
-    "slug": "basket-brunson-affonda-embiid-i-knicks-partono-in-7d43fb1480600949",
-    "title": "Basket: Knicks Filadelfia si porta in vantaggio in serie",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-10T21:56:19.992748+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f64ef5be7573b2e14c906bc8c2dc314773dc1a16/skysport/it/nba/video/2026/05/10/playoff-nba-nick-nurse-reazione-video-1096963/nick_nurse.jpg",
-    "occhiello": "BRUNSON SEGNA 10 PUNTI DI VANTAGGIO AI KNICKS",
-    "lead_preview": "Brunson segna 10 punti di vantaggio ai Knicks Filadelfia, 10 maggio 2026. I New York Knicks hanno iniziato la ripresa de",
-    "tags": [
-      "basket",
-      "playoffs nba"
     ],
     "hero_eligible": true
   }
