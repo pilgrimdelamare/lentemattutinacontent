@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, domenica 24 maggio 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-05-24T04:01:40.222942+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — DOMENICA 24 MAGGIO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2afc15c3edb34393",
     "slug": "foti-sbotta-senza-aiuti-ue-le-tasse-salgono-stop-a-2afc15c3edb34393",
     "title": "Foti minaccia tasse se UE ferma fondi: rischio stop alle accise",
@@ -1548,26 +1568,6 @@
       "oriana fallaci"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 22 maggio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-05-22T04:02:25.899831+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 22 MAGGIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "0782b3c589afa7dc",
