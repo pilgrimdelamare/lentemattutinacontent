@@ -1,5 +1,24 @@
 [
   {
+    "id": "031fdc7d1cbd6214",
+    "slug": "prado-svela-il-mistero-italia-e-spagna-si-influenz-031fdc7d1cbd6214",
+    "title": "Domani al Prado: capolavori italiani e spagnoli a confronto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-23T10:14:41.847571+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/90637932f32ea029a73e98921013e485.jpg",
+    "occhiello": "MADRID SI INAUGURA IL DIALOGO TRA FIESOLE E MADRID",
+    "lead_preview": "Madrid, 23 maggio. Il Museo del Prado inaugura domani la mostra \"Italia e Spagna: un dialogo artistico tra Trecento e Qu",
+    "tags": [
+      "mostra prado 2024",
+      "dialogo artistico italo-spagnolo",
+      "beato angelico velazquez"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3f1b0882669c1103",
     "slug": "basket-senza-wembanyama-gli-spurs-crollano-fox-non-3f1b0882669c1103",
     "title": "Basket: Spurs eliminati da Oklahoma City, 124 milioni bruciati in un colpo",
@@ -549,25 +568,6 @@
       "f1 gran premio canada",
       "pole position palmowski",
       "verstappen q3"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "031fdc7d1cbd6214",
-    "slug": "prado-svela-il-mistero-italia-e-spagna-si-influenz-031fdc7d1cbd6214",
-    "title": "Prado schiera i giganti: Beato Angelico e Velázquez in mostra insieme da domani",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-23T10:14:41.847571+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/90637932f32ea029a73e98921013e485.jpg",
-    "occhiello": "PRADO, ITALIA E SPAGNA: 600 ANNI DI STORIA",
-    "lead_preview": "Madrid, 23 maggio. Il Museo del Prado inaugura la mostra \"Italia e Spagna: un dialogo artistico tra Trecento e Quattroce",
-    "tags": [
-      "mostra prado 2024",
-      "arte trecento-quattrocento",
-      "dialogo italo-spagnolo"
     ],
     "hero_eligible": true
   },
