@@ -1,5 +1,24 @@
 [
   {
+    "id": "a4fb287f1b8fb7e8",
+    "slug": "evangelos-marinakis-questo-titolo-e-per-la-nostra-a4fb287f1b8fb7e8",
+    "title": "Basket: Papagiannis, 221 cm da riserva, umilia il centro del Real Madrid nella finale Europea",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-24T20:54:47.859184+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/24/e1f799e0ece8172349774f2dc55872c5.jpg",
+    "occhiello": "OLYMPIACOS PIREO, REGNO A EUROLEGA",
+    "lead_preview": "Atene, 24 maggio. L'Olympiacos Pireo vince l'Eurolega di basket battendo 92 a 85 il Real Madrid nella finale di Kaunas. ",
+    "tags": [
+      "eurolega",
+      "olympiacos pireo",
+      "real madrid"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bacbb0cbf252a87a",
     "slug": "calcio-van-dijk-chiude-con-il-pareggio-bacbb0cbf252a87a",
     "title": "Calcio: Liverpool quinto in Premier, Van Dijk saluta senza gloria",
@@ -147,25 +166,6 @@
       "play-off basket",
       "trentino virtus",
       "george niang"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a4fb287f1b8fb7e8",
-    "slug": "evangelos-marinakis-questo-titolo-e-per-la-nostra-a4fb287f1b8fb7e8",
-    "title": "Evangelos Marinakis: 'Questo titolo è per la nostra gente'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-24T20:54:47.859184+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/24/e1f799e0ece8172349774f2dc55872c5.jpg",
-    "occhiello": "OLYMPIACOS PIREO TRIONFA ALL'EUROLEGA",
-    "lead_preview": "Atene, 24 maggio 2026. L'Olympiacos Pireo si aggiudica l'Eurolega battendo 92-85 il Real Madrid nella finale di Kaunas, ",
-    "tags": [
-      "eurolega basket 2026",
-      "olympiacos trionfo",
-      "finale kaunas"
     ],
     "hero_eligible": true
   },
