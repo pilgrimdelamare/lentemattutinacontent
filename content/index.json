@@ -1,5 +1,22 @@
 [
   {
+    "id": "8504c85ff0189afc",
+    "slug": "la-francia-trema-con-temperature-sopra-i-35-gradi-8504c85ff0189afc",
+    "title": "La Francia in fiamme: 10 dipartimenti superano i 35 gradi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-25T16:51:29.716411+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/10/a034c070f35606f99b9ed37261fa36c7.jpg",
+    "occhiello": "FRANCIA AL LIMITE, TERMOMETRI A 35 GRADI",
+    "lead_preview": "Parigi, 25 maggio. La Francia brucia: in almeno dieci dipartimenti le temperature hanno superato i 35 gradi, secondo Mét",
+    "tags": [
+      "ondata caldo francia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7943e8f5cc824048",
     "slug": "coni-respinge-richiesta-figc-stop-al-commissariame-7943e8f5cc824048",
     "title": "CONI respinge richiesta FIGC: stop al commissariamento AIA",
@@ -214,23 +231,6 @@
       "film zvyagintsev",
       "censura russia",
       "visualizzazioni social"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8504c85ff0189afc",
-    "slug": "la-francia-trema-con-temperature-sopra-i-35-gradi-8504c85ff0189afc",
-    "title": "La Francia trema con temperature sopra i 35 gradi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-25T16:51:29.716411+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/10/a034c070f35606f99b9ed37261fa36c7.jpg",
-    "occhiello": "FRANCIA, 'LE TEMPERATURE RESTERANNO GENERALMENTE MOLTO CALDE FINO A SABATO'",
-    "lead_preview": "Parigi, 25 maggio Il meteorologo di Météo-France ha appena aggiornato il bollettino: \"Le temperature resteranno generalm",
-    "tags": [
-      "ondata caldo francia"
     ],
     "hero_eligible": true
   },
