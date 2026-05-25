@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260525",
+    "slug": "libro-del-giorno-pioggia-per-i-bastardi-pizzofalconedi--20260525",
+    "title": "Il libro del giorno: «Pioggia per i Bastardi»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo ambientato a Napoli che intreccia il mistero di un omicidio con i drammi personali e professionali di una squa",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-25T07:02:05.614576+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170549-e9596.jpg?1775679601",
+      "alt": "Copertina: Pioggia per i Bastardi",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/arton170549-e9596.jpg?1775679601",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "cd28a8f64c716dc7",
     "slug": "gas-future-crollano-del-62-ad-amsterdam-domanda-il-cd28a8f64c716dc7",
     "title": "Gas future crollano del 6,2% ad Amsterdam: domanda il prezzo delle bollette a giugno",
@@ -9173,25 +9192,6 @@
     "tags": [
       "crisi uk",
       "fiducia consumatori uk"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1795a05e22ea614a",
-    "slug": "trump-respinge-la-risposta-iraniana-e-minaccia-sto-1795a05e22ea614a",
-    "title": "Trump minaccia cancellazione programma nucleare iraniano entro 90 giorni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-11T05:25:59.362688+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDUvMTEvMDUxNjQxMTQxLTc1ZGFhOTY2LTM5YTktNGU0ZC05OTRlLWNhOWFlZTFhMWQ4MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "TRUMP MINACCIA TEHERAN: \"NESSUNO RIDERÀ\"",
-    "lead_preview": "TRUMP MINACCIA TEHERAN: \"NESSUNO RIDERÀ\" Washington, 11 maggio. Il presidente statunitense Donald Trump ha definito \"tot",
-    "tags": [
-      "trump iran",
-      "crisi iran",
-      "guerra iran"
     ],
     "hero_eligible": true
   }
