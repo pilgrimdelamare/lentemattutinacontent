@@ -1,5 +1,23 @@
 [
   {
+    "id": "100b602a5631546b",
+    "slug": "trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
+    "title": "Trump mobile: 1,2 milioni di dati personali esposti in chiave aperta, la falla dura da mesi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-05-25T09:45:20.725825+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/68510fc23b2db17cf7fb4d90/16:9/w_1280,c_limit/trump-phone-gear-184325067.jpg",
+    "occhiello": "TRUMP MOBILE BOCCHETTA FUORI DATI SENSIBILI: HACKER A CACCIA DI PROFILI CLONATI",
+    "lead_preview": "MAIUSCOLO DATI SENSIBILI DI 1,2 MILIONI DI UTENTI ESPOSTI SU TRUMP MOBILE Washington, 25 maggio Un database non protetto",
+    "tags": [
+      "trump mobile",
+      "data breach trump"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fb57f82c16b3a362",
     "slug": "basket-varese-spende-800mila-per-ikangi-udine-butt-fb57f82c16b3a362",
     "title": "Udine investe 550.000 euro su Cavallero ma cede Hunt a Venezia: la mossa che divide la tifoseria",
@@ -275,25 +293,6 @@
       "euro a 1,16 dollari",
       "taglio tassi powell",
       "conti italiani giorgetti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "100b602a5631546b",
-    "slug": "trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
-    "title": "Trump Mobile bocchetta fuori dati sensibili: hacker a caccia di profili clonati",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-25T09:45:20.725825+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/68510fc23b2db17cf7fb4d90/16:9/w_1280,c_limit/trump-phone-gear-184325067.jpg",
-    "occhiello": "IL TELEFONO DI TRUMP CHE METTE A RISCHIO I SUOI CLIENTI",
-    "lead_preview": "Washington, 25 maggio.",
-    "tags": [
-      "trump mobile",
-      "cybersecurity profili",
-      "clonazione dati"
     ],
     "hero_eligible": true
   },
