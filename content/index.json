@@ -1,5 +1,22 @@
 [
   {
+    "id": "8504c85ff0189afc",
+    "slug": "la-francia-trema-con-temperature-sopra-i-35-gradi-8504c85ff0189afc",
+    "title": "La Francia trema con temperature sopra i 35 gradi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-25T16:51:29.716411+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/8/10/a034c070f35606f99b9ed37261fa36c7.jpg",
+    "occhiello": "FRANCIA, 'LE TEMPERATURE RESTERANNO GENERALMENTE MOLTO CALDE FINO A SABATO'",
+    "lead_preview": "Parigi, 25 maggio Il meteorologo di Météo-France ha appena aggiornato il bollettino: \"Le temperature resteranno generalm",
+    "tags": [
+      "ondata caldo francia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9c95fc1cea8efcd4",
     "slug": "tennis-berrettini-sbanca-a-parigi-fucsovics-affond-9c95fc1cea8efcd4",
     "title": "Tennis: Berrettini sbanca a Parigi, Fucsovics affondato in 4 set con 46 vincenti",
@@ -9179,25 +9196,6 @@
       "milan dirigenza",
       "caso maldini",
       "ex milan costacurta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1bf7ff8fafe46537",
-    "slug": "calcio-bergomi-di-canio-e-marchegiani-rovesciano-l-1bf7ff8fafe46537",
-    "title": "Calcio: Fabrizio Ravanelli appoggia il modulo vincente di Inzaghi contro il Napoli",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-11T09:33:25.217989+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/cd62fc8daed8cecdcd030a4c0d54626a6368c13e/skysport/it/calcio/serie-a/video/2026/05/11/inter-difesa-quattro-ipotesi-club-video-1096984/inter_a_4_grafica.jpg",
-    "occhiello": "RAVANELLI SUPPORTA LA MOSSA DI INZAGHI: MODULO VINCENTE CONTRO IL NAPOLI",
-    "lead_preview": "Milano, 11 maggio. Fabrizio Ravanelli, ex attaccante e attuale consigliere dell'Olympique Marsiglia, ha sostenuto la sce",
-    "tags": [
-      "calcio inzaghi",
-      "modulo vincente",
-      "napoli inzaghi"
     ],
     "hero_eligible": true
   }
