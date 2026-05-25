@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 25 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-25T05:45:52.555962+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/f485d6ae496104ee80b18ac0e7fe35a1fbbf0332/skytg24/it/cronaca/2026/05/25/prime-pagine-quotidiani-oggi-25-maggio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE, 25 MAGGIO 2026: CONFLITTO MEDIO ORIENTE E SPORT",
+    "lead_preview": "Oggi, le prime pagine dei principali quotidiani italiani convergono principalmente sulle tensioni nel Medio Oriente e su",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f65dc321cdee3dc7",
     "slug": "brugnaro-al-398-a-venezia-il-centrodestra-si-sgret-f65dc321cdee3dc7",
     "title": "Brugnaro al 39,8% a Venezia, il centrodestra si sgretola",
@@ -1790,25 +1809,6 @@
       "centrale carbone sardegna",
       "fiume santo",
       "portovesme inquinamento"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 22 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-22T05:45:15.964082+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/4d2dbae7404009f577873ef8748fb891d65e6f7e/skytg24/it/cronaca/2026/05/22/prime-pagine-quotidiani-oggi-22-maggio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 22 MAGGIO 2026",
-    "lead_preview": "La rassegna delle prime pagine di venerdì 22 maggio 2026 evidenzia un focus principale sull’economia italiana, con l’Ue ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
