@@ -1,5 +1,23 @@
 [
   {
+    "id": "100b602a5631546b",
+    "slug": "trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
+    "title": "Trump Mobile esposta: 1,2 milioni di dati a rischio",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-05-25T09:45:20.725825+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/68510fc23b2db17cf7fb4d90/16:9/w_1280,c_limit/trump-phone-gear-184325067.jpg",
+    "occhiello": "DATABASE TRUMP MOBILE APERTO DA MESI: 1,2 MILIONI DI DATI PERSONALI",
+    "lead_preview": "DATABASE TRUMP MOBILE APERTO DA MESI: 1,2 MILIONI DI DATI PERSONALI Washington, 25 maggio. Un database non protetto cont",
+    "tags": [
+      "database trump mobile",
+      "dati personali a rischio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0b618fef88f5fc41",
     "slug": "basket-duren-nel-terzo-quintetto-all-nba-pistons-o-0b618fef88f5fc41",
     "title": "Basket: Duren rinnova con i Pistons per 110 milioni in 2 anni",
@@ -528,24 +546,6 @@
       "roma champions league 2024",
       "finanza calcio roma",
       "spese record roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "100b602a5631546b",
-    "slug": "trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
-    "title": "Trump mobile: 1,2 milioni di dati personali esposti in chiave aperta, la falla dura da mesi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-05-25T09:45:20.725825+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/68510fc23b2db17cf7fb4d90/16:9/w_1280,c_limit/trump-phone-gear-184325067.jpg",
-    "occhiello": "TRUMP MOBILE BOCCHETTA FUORI DATI SENSIBILI: HACKER A CACCIA DI PROFILI CLONATI",
-    "lead_preview": "MAIUSCOLO DATI SENSIBILI DI 1,2 MILIONI DI UTENTI ESPOSTI SU TRUMP MOBILE Washington, 25 maggio Un database non protetto",
-    "tags": [
-      "trump mobile",
-      "data breach trump"
     ],
     "hero_eligible": true
   },
