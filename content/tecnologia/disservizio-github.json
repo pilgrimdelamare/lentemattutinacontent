@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+  "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
   "titles": [
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C"
+    "GitHub è tornato online dopo 55 minuti di interruzione.",
+    "GitHub è tornato online dopo 55 minuti di interruzione.",
+    "GitHub è tornato online dopo 55 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB DOWN IN EUROPA",
-  "lead": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CEST, impatta milioni di sviluppatori italiani e globali. Servizi critici come repository, CI/CD e pull request sono compromessi.",
-  "corpo1": "Il downtime di GitHub è iniziato alle 14:45 CEST, con segnalazioni diffuse su DownDetector e status.github.com. Le funzionalità principali – push/pull, issues, actions e API – risultano non operative. Gli utenti italiani, già in piena attività lavorativa, subiscono ritardi critici su progetti in corso. Non è ancora chiaro se si tratti di un problema infrastrutturale o di un attacco DDoS. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIATTIVATO",
+  "lead": "GitHub è tornato online dopo 55 minuti di interruzione.",
+  "corpo1": "Il disservizio è iniziato 55 minuti fa e ora è stato completamente risolto. La piattaforma è tornata a funzionare correttamente, garantendo l'accesso agli utenti. La durata dell'interruzione è stata di 55 minuti, dopo i quali il servizio è stato ripristinato.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-26T11:43:40.698295+00:00",
+  "published_at": "2026-05-26T12:24:19.893956+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
