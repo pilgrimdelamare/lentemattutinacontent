@@ -1,5 +1,20 @@
 [
   {
+    "id": "1d4def54741c4762",
+    "slug": "meteorologo-annuncia-36c-a-pavia-1d4def54741c4762",
+    "title": "Meteorologo annuncia 36°C a Pavia",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-05-26T23:42:00.493962+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/26/223818700-e0c3b534-8465-4abd-a26f-abb9063cb073.jpg",
+    "occhiello": "36°C IN PIEMONTE E LOMBARDIA",
+    "lead_preview": "Pavia, 27 maggio. I termometri sfioreranno i 36 gradi oggi in quattro città della Pianura Padana: Pavia, Piacenza, Cremo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1082e269c7747ed2",
     "slug": "renzi-colpisce-a-destra-basta-tafazzi-e-ammonisce-1082e269c7747ed2",
     "title": "Renzi colpisce a destra: «Basta Tafazzi» e ammonisce su stipendi e bollette",
@@ -9159,25 +9174,6 @@
     "tags": [
       "locarno film festival",
       "premio isabella rossellini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ff27536b19d51a6e",
-    "slug": "drone-dal-libano-colpisce-golan-4-soldati-israelia-ff27536b19d51a6e",
-    "title": "Drone sconosciuto colpisce Golan: 4 soldati israeliani feriti, Netanyahu insorge",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-14T11:01:28.796640+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/9/30/31f76553ab62e2b181ba48591901b4dd.jpg",
-    "occhiello": "DRONE NON IDENTIFICATO SORVOLA IL CONFINE",
-    "lead_preview": "Tel Aviv, 14 maggio. Un drone sconosciuto avrebbe sorvolato stamane le Alture del Golan senza autorizzazione, provocando",
-    "tags": [
-      "attacco drone golan",
-      "feriti soldati israeliani",
-      "reazione netanyahu"
     ],
     "hero_eligible": true
   }
