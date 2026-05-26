@@ -1,5 +1,24 @@
 [
   {
+    "id": "2e4c16d98e8c8909",
+    "slug": "enrico-rava-al-teatro-comunale-di-bologna-con-jazz-2e4c16d98e8c8909",
+    "title": "Bologna: Rava inaugura Jazz su Sinfonica, biglietti polverizzati!",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-26T15:34:36.579413+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/02a404391c1fd1d512f37e5b3e00f448.jpg",
+    "occhiello": "RAVA AL COMUNALE DI BOLOGNA INAUGURA JAZZ ON SYMPHONY",
+    "lead_preview": "Bologna, 26 maggio. Stasera alle 21 il Teatro Comunale ospiterà Enrico Rava per l’inaugurazione di Jazz on Symphony, nuo",
+    "tags": [
+      "jazz su sinfonica",
+      "enrico rava",
+      "teatro comunale bologna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f569ccdd2fdaa5f8",
     "slug": "motogp-brawn-sbarca-in-pramac-per-dare-una-marcia-f569ccdd2fdaa5f8",
     "title": "MotoGP: Brawn a 2 milioni fa il salto dalla F1 per la Pramac, sfida a Ducati con Martin nel mirino",
@@ -294,25 +313,6 @@
     "tags": [
       "la traviata",
       "arena di verona"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2e4c16d98e8c8909",
-    "slug": "enrico-rava-al-teatro-comunale-di-bologna-con-jazz-2e4c16d98e8c8909",
-    "title": "Enrico Rava al Teatro Comunale di Bologna con Jazz on Symphony",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-26T15:34:36.579413+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/02a404391c1fd1d512f37e5b3e00f448.jpg",
-    "occhiello": "JAZZ SULLA SCENA DEL COMMUNALE",
-    "lead_preview": "Bologna, 26 maggio. Enrico Rava inaugura domani sera al Teatro Comunale la rassegna Jazz on Symphony, un esperimento che",
-    "tags": [
-      "jazz on symphony",
-      "enrico rava",
-      "teatro comunale bologna"
     ],
     "hero_eligible": true
   },
