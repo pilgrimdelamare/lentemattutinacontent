@@ -1,5 +1,24 @@
 [
   {
+    "id": "0b618fef88f5fc41",
+    "slug": "basket-i-pistons-scrivono-la-storia-2-giocatori-ne-0b618fef88f5fc41",
+    "title": "Basket: I Pistons scrivono la storia, 2 giocatori nei quintetti All-NBA nonostante la disfatta",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-05-26T03:36:42.436743+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/4393e54f03af48f1ae20ec04b5dd712ba7d85c7e/skysport/it/nba/2026/05/25/quintetti-all-nba-stagione-2025-2026-voti/cover_quintetti.jpg",
+    "occhiello": "DUREN NEL TERZO QUINTETO ALL-NBA, LA SFIDA SUL CONTRATTO",
+    "lead_preview": "New York, 25 maggio",
+    "tags": [
+      "pistons all-nba",
+      "nba 2024",
+      "duren quintetto all-nba"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "100b602a5631546b",
     "slug": "trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
     "title": "Trump Mobile espone 1,2 milioni di dati personali in un leak senza password per sei mesi",
@@ -275,25 +294,6 @@
       "saga pizzofalcone",
       "pioggia per i bastardi",
       "maurizio de giovanni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0b618fef88f5fc41",
-    "slug": "basket-duren-nel-terzo-quintetto-all-nba-pistons-o-0b618fef88f5fc41",
-    "title": "Basket: Duren rinnova con i Pistons per 110 milioni in 2 anni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-25T15:13:41.962740+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/4393e54f03af48f1ae20ec04b5dd712ba7d85c7e/skysport/it/nba/2026/05/25/quintetti-all-nba-stagione-2025-2026-voti/cover_quintetti.jpg",
-    "occhiello": "ALL-NBA THIRD TEAM PER JALEN DUREN",
-    "lead_preview": "New York, 25 maggio.",
-    "tags": [
-      "nba pistons",
-      "jalen duren",
-      "contratto basket"
     ],
     "hero_eligible": true
   },
