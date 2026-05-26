@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-26T11:43:40.698295+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB DOWN IN EUROPA",
+    "lead_preview": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CEST, impatta milioni di sviluppatori ita",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d5240e7dcd65eb89",
     "slug": "basket-brunson-sigilla-la-finale-con-un-alley-oop-d5240e7dcd65eb89",
     "title": "Basket: Brunson sigilla la finale con un alley-oop da 61 punti in 4 gare",
@@ -9163,24 +9182,6 @@
       "zona franca colon",
       "hub logistico centroamerica",
       "accordo repubblica dominicana panama"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db5292e5cea50c52",
-    "slug": "tennis-musetti-salta-roland-garros-db5292e5cea50c52",
-    "title": "Tennis: Lorenzo Musetti escluso da Roland-Garros 2026 per strappo al femorale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-13T15:04:53.037039+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/885fd140f59839cf2e6f7595a75cfc32b89f5ebd/skysport/it/tennis/video/2026/05/13/musetti-infortunio-news-video-1097568/musetti_ansa_1.jpg",
-    "occhiello": "LORENZO MUSETTI FERMO A PARIGI",
-    "lead_preview": "Roma, 13 maggio. Lorenzo Musetti non scenderà in campo al Roland-Garros 2026. Il 23enne toscano, numero 17 del ranking A",
-    "tags": [
-      "roland garros 2026",
-      "lorenzo musetti"
     ],
     "hero_eligible": true
   }
