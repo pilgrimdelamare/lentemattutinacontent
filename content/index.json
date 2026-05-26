@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-26T12:24:19.893956+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "GitHub è tornato online dopo 55 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "7ee82700a010f9f2",
     "slug": "mourinho-firma-biennale-con-real-madrid-ma-con-con-7ee82700a010f9f2",
     "title": "Mourinho firma biennale con Real Madrid, ma con condizione",
@@ -15,25 +34,6 @@
       "mourinho real madrid"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-05-26T11:43:40.698295+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB DOWN IN EUROPA",
-    "lead_preview": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CEST, impatta milioni di sviluppatori ita",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d5240e7dcd65eb89",
