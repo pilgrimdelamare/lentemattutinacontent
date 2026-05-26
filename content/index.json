@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 26 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-26T05:45:49.881629+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8f6500a33c6fe43dce6b5cdb64d2c255d945ac80/skytg24/it/cronaca/2026/05/26/prime-pagine-quotidiani-oggi-26-maggio/Composite_26_maggio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 26 MAGGIO 2026",
+    "lead_preview": "Tutti i principali quotidiani italiani aprono sulle elezioni comunali. Venezia e Reggio Calabria confermano il centrodes",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e1d7fea61851ff60",
     "slug": "torino-diritti-europei-persi-38-milioni-modesto-ta-e1d7fea61851ff60",
     "title": "Torino: diritti europei persi 38 milioni, Modesto taglia costi",
@@ -1310,25 +1329,6 @@
       "gialli cinesi",
       "robert van gulik",
       "la corte stampa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 25 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-25T05:45:52.555962+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/f485d6ae496104ee80b18ac0e7fe35a1fbbf0332/skytg24/it/cronaca/2026/05/25/prime-pagine-quotidiani-oggi-25-maggio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE, 25 MAGGIO 2026: CONFLITTO MEDIO ORIENTE E SPORT",
-    "lead_preview": "Oggi, le prime pagine dei principali quotidiani italiani convergono principalmente sulle tensioni nel Medio Oriente e su",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
