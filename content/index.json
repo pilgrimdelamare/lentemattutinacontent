@@ -1,5 +1,24 @@
 [
   {
+    "id": "30b316c27f81eb06",
+    "slug": "andrea-morricone-guida-il-concerto-a-pompei-un-pon-30b316c27f81eb06",
+    "title": "Andrea Morricone guida il concerto a Pompei: un ponte musicale o un oltraggio alla memoria?",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-27T13:46:56.159537+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/6109ad8d8e48d37c8556f78db37e4cd7.jpg",
+    "occhiello": "MORRICONE ALLE OMBRE DEL VESUVIO",
+    "lead_preview": "Pompei, 27 maggio. Il 25 giugno le colonne sonore di Ennio Morricone risuoneranno tra gli scavi archeologici, guidate da",
+    "tags": [
+      "concerto morricone pompei",
+      "memoria ennio morricone",
+      "evento archeologico vesuvio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8eb73541d0655cee",
     "slug": "ultimo-a-tor-vergata-fabrizio-moro-apre-il-concert-8eb73541d0655cee",
     "title": "Ultimo a Tor Vergata: Fabrizio Moro apre il concerto 90 minuti prima, tutto esaurito entro giugno",
@@ -9155,23 +9174,6 @@
     "tags": [
       "renzi vs delrio",
       "patto dei cattolici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db9d870e09cc78f1",
-    "slug": "ciclismo-valenti-tiene-la-maglia-rosa-brenno-a-523-db9d870e09cc78f1",
-    "title": "Ciclismo: Valenti domina, 52'33\" su Brenno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-15T22:53:29.204926+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f5b52b51c596375fc24858444fe2505255270126/skysport/it/ciclismo/2026/05/15/giro-italia-2026-tappa-7-oggi-classifica-live/Giro_tappa7_Getty.jpg",
-    "occhiello": "A VALLENTI 52'33\" DI VANTAGGIO NELLA CLASSIFICA GENERALE",
-    "lead_preview": "Fermo, 15 maggio. Girolamo Valenti guida la classifica generale del Giro d'Italia con 52 minuti e 33 secondi di vantaggi",
-    "tags": [
-      "giro d'italia"
     ],
     "hero_eligible": true
   }
