@@ -1,5 +1,23 @@
 [
   {
+    "id": "8eb73541d0655cee",
+    "slug": "ultimo-annuncia-fabrizio-moro-come-anteprima-8eb73541d0655cee",
+    "title": "Ultimo annuncia Fabrizio Moro come anteprima",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-27T20:27:07.214640+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/78d6757efbfd0ebc68ee13719fb9a5da.jpg",
+    "occhiello": "ULTIMO SPOSTA MORO IN APERTURA PER RUBARGLI SPOTLIGHT",
+    "lead_preview": "Roma, 27 maggio 2026. Ultimo annuncia che Fabrizio Moro suonerà come anteprima al suo concerto di Tor Vergata il 4 lugli",
+    "tags": [
+      "fabrizio moro",
+      "concerto ultimo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fb2eb9eaa55485fe",
     "slug": "abete-ex-campioni-in-dirigenza-solo-se-competenti-fb2eb9eaa55485fe",
     "title": "Abete: ex campioni in dirigenza solo se competenti",
@@ -174,24 +192,6 @@
     "tags": [
       "concerto morricone",
       "pompei"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8eb73541d0655cee",
-    "slug": "ultimo-a-tor-vergata-fabrizio-moro-apre-il-concert-8eb73541d0655cee",
-    "title": "Ultimo a Tor Vergata: 25mila biglietti in meno di due mesi, Fabrizio Moro in apertura",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-27T13:39:01.534424+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/78d6757efbfd0ebc68ee13719fb9a5da.jpg",
-    "occhiello": "TUTTI A TOR VERGATA PER UNO SPETTACOLO A PAGAMENTO",
-    "lead_preview": "Roma, 27 maggio 2026. Il concerto di Ultimo all'Area Concerti Tor Vergata, in programma il 4 luglio, registra il tutto e",
-    "tags": [
-      "concerto ultimo",
-      "tor vergata"
     ],
     "hero_eligible": true
   },
