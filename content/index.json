@@ -1,5 +1,24 @@
 [
   {
+    "id": "41c96f4e9e06a548",
+    "slug": "ue-promette-armamenti-a-ucraina-41c96f4e9e06a548",
+    "title": "Ue promette armamenti a ucraina",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-27T21:57:16.943679+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/9acbf870142b7f51e32fb5bfd1067e6b.jpg",
+    "occhiello": "UE PROMETTE ARMAMENTI A UCRAINA",
+    "lead_preview": "Bruxelles, 27 maggio. Ursula von der Leyen ha parlato per quarantasette minuti con Volodymyr Zelens’kyj. Il telefono è s",
+    "tags": [
+      "aiuti militari ucraina",
+      "von der leyen zelensky",
+      "ue sostegno guerra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f48ee0ff8fdf15ae",
     "slug": "juventus-chiesa-rinnova-85-milioni-lanno-e-clausol-f48ee0ff8fdf15ae",
     "title": "Juventus, Chiesa rinnova: 8,5 milioni l'anno e clausola da 150 milioni",
@@ -9166,21 +9185,6 @@
     "tags": [
       "incidente modena"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "67a9a30cf94fde3d",
-    "slug": "tennis-sinner-sfida-ruud-nella-finale-del-masters-67a9a30cf94fde3d",
-    "title": "Tennis: Sinner cerca il quarto Masters 1000 a Roma",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-16T21:38:35.974995+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/16/d0eee7f29889732b84900b7850e1c852.jpg",
-    "occhiello": "SINNER CERCA IL QUARTO MASTERS 1000 A ROMA",
-    "lead_preview": "SINNER CERCA IL QUARTO MASTERS 1000 A ROMA Roma, 16 maggio. Jannik Sinner scende in campo domani alle 15:00 sul centrale",
-    "tags": [],
     "hero_eligible": true
   }
 ]
