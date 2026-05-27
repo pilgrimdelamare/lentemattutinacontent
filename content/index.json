@@ -1,5 +1,24 @@
 [
   {
+    "id": "5ce3d3fc2c5c3904",
+    "slug": "farage-minaccia-di-querelare-chi-accusa-la-russia-5ce3d3fc2c5c3904",
+    "title": "Farage minaccia di querelare chi accusa la Russia per il suo telefono hackerato, ma non prova nulla",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-27T22:01:12.968142+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/c6f8c8e585a596d553384034935b700b976ea605/629_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=221536362062265ee51980b4313ab129",
+    "occhiello": "FARAGE ACCUSATO DI OMISSIONE DI STATO",
+    "lead_preview": "Londra, 27 maggio. Il telefono di Nigel Farage sarebbe stato violato da attori russi, secondo la rivendicazione del lead",
+    "tags": [
+      "farage hackeraggio russia",
+      "reforma uk spyware",
+      "querela fake news"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "41c96f4e9e06a548",
     "slug": "ue-promette-armamenti-a-ucraina-41c96f4e9e06a548",
     "title": "Ue promette armamenti a ucraina",
@@ -9167,23 +9186,6 @@
     "tags": [
       "lecce sassuolo",
       "petagna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9130f780f9600fb",
-    "slug": "mattarella-in-ospedale-ringrazia-medici-per-il-lav-d9130f780f9600fb",
-    "title": "Mattarella e Meloni a Modena, visite a feriti in ospedale",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-17T11:35:20.672701+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/11/22/d40ad786912340610da419cc808b084a.jpg",
-    "occhiello": "MELONI ANNULLA BILATERALE PER MODERA",
-    "lead_preview": "Modena, 17 maggio. Sergio Mattarella ha fatto visita all’ospedale di Baggiovara per incontrare i feriti dell’incidente d",
-    "tags": [
-      "incidente modena"
     ],
     "hero_eligible": true
   }
