@@ -1,5 +1,24 @@
 [
   {
+    "id": "1c9dfacef1c57c76",
+    "slug": "libri-scolastici-in-picchiata--22-e-cala-anche-lo-1c9dfacef1c57c76",
+    "title": "Libri scolastici in picchiata: -2,2% e cala anche lo stipendio ai redattori",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-27T14:48:52.023425+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/1/85ef3835a9f3405d178e72dbb6b9b826.jpg",
+    "occhiello": "L'editoria scolastica in calo del 2.2%, si riducono gli studenti",
+    "lead_preview": "L'editoria scolastica in calo del 2.2%, si riducono gli studenti Secondo i dati dell'Osservatorio AIE presentati alla Ca",
+    "tags": [
+      "editoria scolastica",
+      "calo vendite libri",
+      "osservatorio aie"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a5e9f2cf1a58c360",
     "slug": "bigmama-a-milano-il-mio-corpo-e-stato-uno-scherno-a5e9f2cf1a58c360",
     "title": "BigMama a Milano: 'Il mio corpo è stato uno scherno, ora è un simbolo di rivalsa'",
@@ -9162,23 +9181,6 @@
       "finanziamento perlini",
       "thriller anti-mafia",
       "regione veneto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8eac185bc6d60ee1",
-    "slug": "calcio-gasperini-carica-la-roma-per-il-derby-con-l-8eac185bc6d60ee1",
-    "title": "Calcio: Gasperini carica l'Atalanta per il derby con la Lazio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-16T12:05:28.184516+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/66208e202da493703a8128ed2f7d43454f75cd25/skysport/it/calcio/calciomercato/allenatori-svincolati/gasperini_conferenza_getty.jpg",
-    "occhiello": "GASPERINI SCIOGLIE LA RIGIDITÀ ROMANA",
-    "lead_preview": "Roma, 16 maggio Il tecnico dell'Atalanta ha parlato a ridosso del derby contro la Lazio con un tono che ha sorpreso più ",
-    "tags": [
-      "derby lazio atalanta"
     ],
     "hero_eligible": true
   }
