@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 26 maggio 2026",
+  "title": "Le prime pagine di oggi, mercoledì 27 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 26 maggio 2026",
-    "Le prime pagine di oggi, martedì 26 maggio 2026",
-    "Le prime pagine di oggi, martedì 26 maggio 2026"
+    "Le prime pagine di oggi, mercoledì 27 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 27 maggio 2026",
+    "Le prime pagine di oggi, mercoledì 27 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 26 MAGGIO 2026",
-  "lead": "Tutti i principali quotidiani italiani aprono sulle elezioni comunali. Venezia e Reggio Calabria confermano il centrodestra, mentre Prato e Pistoia vanno al centrosinistra. Solo La Stampa e il Messaggero dedicano spazio a temi diversi: il monito del presidente Leone sull’intelligenza artificiale e le dichiarazioni del Papa sull’umanità nell’era dell’AI. La Gazzetta dello Sport rivoluziona la sua prima pagina con l’addio di Allegri e l’arrivo di Xavi sulla panchina della Juventus.",
-  "corpo1": "Il Corriere della Sera titola su Venezia che premia il centrodestra, con Meloni che celebra la vittoria anche a Reggio Calabria definendola un “crollo rinviato”. Repubblica invece sceglie “Venezia resta a destra”, sottolineando la sconfitta di Martella e l’elezione di Venturini, mentre stigmatizza la crisi del governo evocata dal Pd. La Stampa punta sul successo di Meloni che rilancia la legge elettorale, affiancando la vittoria di Venturini a quella di Prato e Pistoia per il centrosinistra, e pubblica un monito del Papa sull’intelligenza artificiale. Il Messaggero dedica l’apertura a Venturini, ma riserva spazio al presidente Leone che chiede di “disarmare l’intelligenza artificiale” e a un’intesa congelata tra Iran e Usa che non convince le Borse. La Gazzetta dello Sport stravolge la prima pagina con “Fuori tutti”, annunciando licenziamenti eccellenti e la ricerca di un allenatore innovatore come Xavi per la Juventus.",
-  "corpo2": "Il Corriere dello Sport e il Corriere dello Sport sottolineano il ruolo di Ibrahimović nella scelta di Xavi per la Juventus, mentre confermano la fiducia a Spalletti per la nuova Lazio con Gattuso in panchina. Si segnalano poi i funerali di Petrini con Sky Stream su Sky Go e le dichiarazioni di accessibilità. Il tema dominante della giornata rimane comunque il voto amministrativo e le sue ricadute politiche.",
+  "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 27 MAGGIO 2026",
+  "lead": "I principali quotidiani italiani dedicano le prime pagine al confronto tra il governo Meloni, Confindustria e l’Unione Europea, con particolare attenzione ai temi economici e burocratici. *La Repubblica*, *Corriere della Sera*, *La Stampa*, *Il Messaggero* e *Il Giorno* si concentrano sulle dichiarazioni della premier e degli industriali, mentre *Il Manifesto* e *il manifesto* analizzano la situazione politica interna. Alcuni quotidiani riservano spazio anche a cronaca, sport e cultura.",
+  "corpo1": "Il *Corriere della Sera* titola in apertura sull’offerta di Confindustria per un taglio della burocrazia europea e sulle critiche di Giorgia Meloni alla Commissione UE. *la Repubblica* invece mette in evidenza le dichiarazioni della premier all’Assemblea di Confindustria, con un focus sulla necessità di riforme. *La Stampa* apre con un’intervista a Meloni e Orsini su Europa e crisi economica, mentre *Il Messaggero* punta sugli attacchi della premier alle istituzioni UE e sulla risposta di Ursula von der Leyen. *Il Giorno* dedica la prima pagina alle parole di Meloni e alla reazione del Pd, con un occhio anche alla situazione economica italiana.",
+  "corpo2": "Sui quotidiani spiccano anche i funerali di Petrini, il quale riceve una proposta di tre giorni di lutto nazionale, e le tensioni in Medio Oriente, con raid israeliani in Libano e attacchi statunitensi in Iran. *Il Manifesto* e *il manifesto* analizzano invece il flop degli islamisti alle elezioni e aprono un confronto interno al Pd. Gli altri temi di rilievo sono il Giro d’Italia, con il dominio di Vingegaard, la Ferrari in Borsa dopo l’annuncio dell’auto elettrica e il caldo record in Europa. La giornata è segnata da una forte attenzione alla politica economica europea e alle tensioni internazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-26T05:45:49.881629+00:00",
+  "published_at": "2026-05-27T05:51:09.947592+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/8f6500a33c6fe43dce6b5cdb64d2c255d945ac80/skytg24/it/cronaca/2026/05/26/prime-pagine-quotidiani-oggi-26-maggio/Composite_26_maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/d6d6df371d3303bddb5b4b6a4c77f657d111cee4/skytg24/it/cronaca/2026/05/27/prime-pagine-quotidiani-oggi-27-maggio/rassegnastampa27maggio.jpg?im=Resize,width=375",
     "source": "Funerali Petrini",
     "credit": "Prima pagina — Funerali Petrini",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/26/prime-pagine-quotidiani-oggi-26-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/27/prime-pagine-quotidiani-oggi-27-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 26 maggio 2026",
+      "title": "Oroscopo di oggi, mercoledì 27 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Torino: diritti europei persi 38 milioni, Modesto taglia costi",
-      "url": "/sport/torino-diritti-europei-persi-38-milioni-modesto-ta-e1d7fea61851ff60",
-      "id": "e1d7fea61851ff60",
-      "image_url": "https://sport.sky.it/assets/images/4c3f54048f884026f3d2ce75d0e044bba5e6c6c3/skysport/it/calcio/serie-a/video/2026/05/25/juve-news-spalletti-comolli-1100686/comolli_spalletti_getty_juve.jpg",
-      "image_type": "feed_image"
+      "title": "Ali alla Guyana: 'Essequibo resta nostro, mai venezuelano'",
+      "url": "/esteri/ali-alla-guyana-essequibo-resta-nostro-mai-venezue-8fde5e7c01bf84ec",
+      "id": "8fde5e7c01bf84ec",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/ed7f6d909cfe9981d07f9e6ed8f98ffa.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Basket: Cavs vincitori",
-      "url": "/sport/basket-cavs-vincitori-f2d7a8c257d20e93",
-      "id": "f2d7a8c257d20e93",
-      "image_url": "https://sport.sky.it/assets/images/0c067da4a556dcda073a49f4f24110a56010bfc2/skysport/it/nba/video/2026/05/25/1100678_1779714745772_thumb_494.0000001_1779714820594.jpg",
-      "image_type": "feed_image"
+      "title": "Basket: Brunson e Robinson stendono i Cavs con una difesa da record",
+      "url": "/sport/basket-brunson-e-robinson-stendono-i-cavs-con-una-089cab75d1ba1631",
+      "id": "089cab75d1ba1631",
+      "image_url": "https://sport.sky.it/assets/images/192ec72b990f02da9e1934fe47d77b6b2ee7224d/skysport/it/nba/video/2026/05/26/1100889_1779802146073_thumb_494.0000001_1779802234667.jpg?im=Resize,width=1218",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
