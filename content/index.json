@@ -1,5 +1,23 @@
 [
   {
+    "id": "62b41099eb397264",
+    "slug": "tajani-dichiara-sostegno-allucraina-62b41099eb397264",
+    "title": "Tajani dichiara sostegno all'Ucraina",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-28T07:56:13.226312+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/840d1006cacfbd56b311fa0d0117d044.jpg",
+    "occhiello": "TAJANI SOSTIENE ADESIONE DI KIEV ALL'UNIONE EUROPEA",
+    "lead_preview": "Bruxelles, 28 maggio. Il governo italiano ha espresso un chiaro sostegno all'adesione di Kiev all'Unione Europea, sottol",
+    "tags": [
+      "sostegno ucraina",
+      "adesione ue"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "595ea38090c25389",
     "slug": "power-bank-20000-mah-per-5-ricariche-595ea38090c25389",
     "title": "Power bank, 20.000 mAh per 5 ricariche",
@@ -9152,25 +9170,6 @@
       "hang seng",
       "tencent",
       "alibaba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a12bf485b6f45806",
-    "slug": "prezzi-delloro-calo-dello-050-a-monaco-futures-sce-a12bf485b6f45806",
-    "title": "Prezzi dell'oro: calo dello 0,50% a monaco, futures scendono sotto i 4.539 dolla",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-05-18T06:41:51.279659+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/1/d63ce9b29d89caaf074134af84237bee.jpg",
-    "occhiello": "PREZZI DELL'ORO: CALO DELLO 0,50% A MONACO, FUTURES SCENDONO SOTTO I 4.539 DOLLA",
-    "lead_preview": "Monaco, 18 maggio L’oro ha perso lo 0,50% in una seduta, scivolando a 4.539 dollari l’oncia secondo l’agenzia ANSA. La q",
-    "tags": [
-      "mercato oro monaco",
-      "futures oro calo",
-      "crisi stretto hormuz"
     ],
     "hero_eligible": true
   }
