@@ -1,5 +1,24 @@
 [
   {
+    "id": "7d8ce25ae6c3d48c",
+    "slug": "indiewire-loda-roma-cinema-in-piazza-salva-il-sett-7d8ce25ae6c3d48c",
+    "title": "IndieWire loda Roma: Cinema in piazza salva il settore dal naufragio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-28T05:53:48.977369+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/0ac4ccc1513a7f26386b5436c954bec5.jpg",
+    "occhiello": "INDIEWIRE PONE IL CINEMA IN PIAZZA DOPO UNA PROMOZIONE CONTROCORRENTE",
+    "lead_preview": "Roma, 27 maggio. IndieWire, nota rivista specializzata nel settore cinematografico, ha lodato la rassegna \"Cinema in pia",
+    "tags": [
+      "cinema in piazza",
+      "indiewire roma",
+      "settore cinematografico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "82c8efe9c7ace4ee",
     "slug": "da-critico-ad-autore-bestseller-mari-batte-i-thril-82c8efe9c7ace4ee",
     "title": "Da critico ad autore bestseller: Mari batte i thriller con Ruggine, 1.500 fan in delirio a Genova",
@@ -9158,25 +9177,6 @@
       "guerra ucraina",
       "attacco dnipro",
       "droni russi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "048009a10d573d05",
-    "slug": "lorchestra-rai-cancella-il-concerto-a-torino-048009a10d573d05",
-    "title": "Beethoven a Torino sparisce: orchestra RAI cancella concerto da 1.200 biglietti esauriti",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-18T13:40:01.763156+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/18/bb68fddd4f6f932fc6a4fa982e9926c5.jpg",
-    "occhiello": "L'Orchestra sinfonica nazionale RAI avrebbe dovuto esibirsi",
-    "lead_preview": "Torino, 18 maggio. L'Orchestra sinfonica nazionale RAI avrebbe dovuto tenere giovedì 21 maggio alle 20.30 all'Auditorium",
-    "tags": [
-      "concerto rai torino",
-      "orchestra sinfonica rai",
-      "beethoven torino"
     ],
     "hero_eligible": true
   }
