@@ -1,0 +1,59 @@
+{
+  "id": "423ffcfed9c69183",
+  "slug": "usa-colpiscono-sito-militare-in-iran-423ffcfed9c69183",
+  "title": "USA colpiscono sito militare in Iran",
+  "titles": [
+    "USA colpiscono sito militare in Iran",
+    "Iran sotto attacco: droni intercettati",
+    "Stati Uniti lanciano operazione segreta contro Tehran"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "COLPITO SITO MILITARE IN IRAN",
+  "lead": "Roma, 28 maggio. Secondo alcune fonti, gli Stati Uniti avrebbero colpito un sito militare in Iran.",
+  "corpo1": "La notizia è stata riportata da alcuni media, che citano fonti anonime. Tuttavia, non ci sono conferme ufficiali da parte delle autorità americane o iraniane. La situazione rimane quindi incerta e non ci sono dettagli sulla natura dell'attacco o sulle sue conseguenze. Secondo Reuters, gli Stati Uniti avrebbero intercettato droni, ma non ci sono ulteriori informazioni su questo evento.",
+  "corpo2": "La tensione tra Stati Uniti e Iran è alta da tempo, con accuse reciproche di aggressione e violazione degli accordi Internazionali. La regione è quindi molto instabile e qualsiasi evento può avere conseguenze importanti per la Sicurezza globale. Se la notizia dell'attacco al sito militare iraniano fosse confermata, potrebbe avere ripercussioni significative sulla politica Internazionale e sulle relazioni tra i paesi coinvolti. La mancanza di informazioni ufficiali e la scarsità di dettagli rendono difficile valutare la portata dell'evento e le sue possibili conseguenze, che potrebbero essere significative per la stabilità della regione.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "fabrizio_mei_01",
+    "firma": "Fabrizio Mei",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-05-28T04:41:43.247519+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/4/8/9f8fa90b5380ae267e48ab9c08307f1c.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"USA colpiscono sito militare in Iran\",\n  \"description\": \"Roma, 28 maggio. Secondo alcune fonti, gli Stati Uniti avrebbero colpito un sito militare in Iran.\",\n  \"articleBody\": \"Roma, 28 maggio. Secondo alcune fonti, gli Stati Uniti avrebbero colpito un sito militare in Iran. La notizia è stata riportata da alcuni media, che citano fonti anonime. Tuttavia, non ci sono conferme ufficiali da parte delle autorità americane o iraniane. La situazione rimane quindi incerta e non ci sono dettagli sulla natura dell'attacco o sulle sue conseguenze. Secondo Reuters, gli Stati Uniti avrebbero intercettato droni, ma non ci sono ulteriori informazioni su questo evento. La tensione tra Stati Uniti e Iran è alta da tempo, con accuse reciproche di aggressione e violazione degli accordi Internazionali. La regione è quindi molto instabile e qualsiasi evento può avere conseguenze importanti per la Sicurezza globale. Se la notizia dell'attacco al sito militare iraniano fosse confermata, potrebbe avere ripercussioni significative sulla politica Internazionale e sulle relazioni tra i paesi coinvolti. La mancanza di informazioni ufficiali e la scarsità di dettagli rendono difficile valutare la portata dell'evento e le sue possibili conseguenze, che potrebbero essere significative per la stabilità della regione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Fabrizio Mei\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-28T04:41:43.247519+00:00\",\n  \"dateModified\": \"2026-05-28T04:41:43.247519+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/423ffcfed9c69183\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/423ffcfed9c69183\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/4/8/9f8fa90b5380ae267e48ab9c08307f1c.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/05/28/media-gli-usa-hanno-colpito-un-sito-militare-in-iran_1f5f4391-232a-49e5-9b4b-172e8300314b.html",
+  "related": [
+    {
+      "title": "Iran abbatte drone USA: Pasdaran rivendicano violazione spazio aereo",
+      "url": "/esteri/iran-abbatte-drone-usa-pasdaran-rivendicano-violaz-a58a2e134016535d",
+      "id": "a58a2e134016535d",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/24/2ebd5fdbb4a34faa3f96218b498e4c0a.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Usa bombardano Iran: colpite basi missili e navi nella zona più calda del Golfo",
+      "url": "/esteri/usa-bombardano-iran-colpite-basi-missili-e-navi-ne-6433c67f4931fb41",
+      "id": "6433c67f4931fb41",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/26/220635799-365212d7-ae55-42cc-a28e-2cd43b480456.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Iran blocca accordo: USA e Israele sabotano trattative con accuse incrociate",
+      "url": "/esteri/iran-blocca-accordo-usa-e-israele-sabotano-trattat-599c01565872e6fd",
+      "id": "599c01565872e6fd",
+      "image_url": "https://i.guim.co.uk/img/media/0f9645979cdbec716d1c407c113ab2665762a70c/5_86_4207_3366/master/4207.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0c9142c588065c49982fa25aac294d5",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
