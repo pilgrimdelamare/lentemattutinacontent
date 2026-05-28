@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 28 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-28T05:46:51.612301+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/d64b65d35ad806aba17ebb97f91e1ab666f897df/skytg24/it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 28 MAGGIO 2026",
+    "lead_preview": "I quotidiani di oggi convergono su tre temi principali: i funerali di Petrini con l’offerta della Procura di 30 giorni p",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "760285bd684dcfab",
     "slug": "trump-minaccia-di-bombardare-loman-se-chiude-lo-st-760285bd684dcfab",
     "title": "Trump minaccia di bombardare l'Oman se chiude lo stretto di Hormuz",
@@ -1607,25 +1626,6 @@
     "tags": [
       "nato",
       "tagli usa nato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 27 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-27T05:51:09.947592+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/d6d6df371d3303bddb5b4b6a4c77f657d111cee4/skytg24/it/cronaca/2026/05/27/prime-pagine-quotidiani-oggi-27-maggio/rassegnastampa27maggio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 27 MAGGIO 2026",
-    "lead_preview": "I principali quotidiani italiani dedicano le prime pagine al confronto tra il governo Meloni, Confindustria e l’Unione E",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
