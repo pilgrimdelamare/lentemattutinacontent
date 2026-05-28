@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260528",
+    "slug": "libro-del-giorno-linvenzione-del-coloredi-christian-rai-20260528",
+    "title": "Il libro del giorno: «L’invenzione del coloredi Christian Raimo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo complesso che intreccia narrazione autobiografica e riflessione sul passato e sul presente",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-28T07:02:10.225904+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/71sitqusfrl__sl1500_-94ff4.jpg?1775669055",
+      "alt": "Copertina: L’invenzione del coloredi Christian Raimo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/71sitqusfrl__sl1500_-94ff4.jpg?1775669055",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "30b316c27f81eb06",
     "slug": "concerto-morricone-a-pompei-80-musicisti-eseguono-30b316c27f81eb06",
     "title": "Concerto Morricone a Pompei: 80 musicisti eseguono 100 anni di musica",
@@ -9159,24 +9178,6 @@
       "israele iraq",
       "guerra iran",
       "base israele iraq"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e1e3d1966615edf0",
-    "slug": "giuseppe-ricci-lancia-lallarme-la-transizione-ener-e1e3d1966615edf0",
-    "title": "Ricci lancia allarme sulle fabbriche italiane",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-18T15:38:24.878224+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDUvMTgvMTQzMzQ2ODI5LWQ5YjVmOTM3LTk3ODMtNGRjZC05YTI1LTM5MmNmZTFjYjE3Zi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "GIUSEPPE RICCI LANCIA L’ALLARME: \"LA TRANSIZIONE ENERGETICA MINACCIA LA SICUREZZ",
-    "lead_preview": "Roma, 18 maggio. Giuseppe Ricci, presidente dell’AIDIC e Chief Operating Officer per la trasformazione industriale, ha l",
-    "tags": [
-      "transizione energetica",
-      "industria italiana"
     ],
     "hero_eligible": true
   }
