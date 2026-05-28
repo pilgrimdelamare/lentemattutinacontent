@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 27 maggio 2026",
+  "title": "Le prime pagine di oggi, giovedì 28 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 27 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 27 maggio 2026",
-    "Le prime pagine di oggi, mercoledì 27 maggio 2026"
+    "Le prime pagine di oggi, giovedì 28 maggio 2026",
+    "Le prime pagine di oggi, giovedì 28 maggio 2026",
+    "Le prime pagine di oggi, giovedì 28 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 27 MAGGIO 2026",
-  "lead": "I principali quotidiani italiani dedicano le prime pagine al confronto tra il governo Meloni, Confindustria e l’Unione Europea, con particolare attenzione ai temi economici e burocratici. *La Repubblica*, *Corriere della Sera*, *La Stampa*, *Il Messaggero* e *Il Giorno* si concentrano sulle dichiarazioni della premier e degli industriali, mentre *Il Manifesto* e *il manifesto* analizzano la situazione politica interna. Alcuni quotidiani riservano spazio anche a cronaca, sport e cultura.",
-  "corpo1": "Il *Corriere della Sera* titola in apertura sull’offerta di Confindustria per un taglio della burocrazia europea e sulle critiche di Giorgia Meloni alla Commissione UE. *la Repubblica* invece mette in evidenza le dichiarazioni della premier all’Assemblea di Confindustria, con un focus sulla necessità di riforme. *La Stampa* apre con un’intervista a Meloni e Orsini su Europa e crisi economica, mentre *Il Messaggero* punta sugli attacchi della premier alle istituzioni UE e sulla risposta di Ursula von der Leyen. *Il Giorno* dedica la prima pagina alle parole di Meloni e alla reazione del Pd, con un occhio anche alla situazione economica italiana.",
-  "corpo2": "Sui quotidiani spiccano anche i funerali di Petrini, il quale riceve una proposta di tre giorni di lutto nazionale, e le tensioni in Medio Oriente, con raid israeliani in Libano e attacchi statunitensi in Iran. *Il Manifesto* e *il manifesto* analizzano invece il flop degli islamisti alle elezioni e aprono un confronto interno al Pd. Gli altri temi di rilievo sono il Giro d’Italia, con il dominio di Vingegaard, la Ferrari in Borsa dopo l’annuncio dell’auto elettrica e il caldo record in Europa. La giornata è segnata da una forte attenzione alla politica economica europea e alle tensioni internazionali.",
+  "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 28 MAGGIO 2026",
+  "lead": "I quotidiani di oggi convergono su tre temi principali: i funerali di Petrini con l’offerta della Procura di 30 giorni per la fase dibattimentale, la cronaca nera milanese con l’omicidio del 22enne Gianluca Ibarra Silvera, e le tensioni geopolitiche tra Iran e Stati Uniti sull’intesa per lo stretto di Hormuz. Corriere della Sera, La Repubblica e il Giorno si concentrano su questi aspetti, mentre gli altri titoli spaziano su sport, mercato calcistico e criticità del Pnrr.",
+  "corpo1": "Il Corriere della Sera apre con i funerali di Petrini e l’offerta della Procura di 30 giorni per la fase dibattimentale, affiancando il caso del decoder Sky Stream. La Repubblica titola invece sull’omicidio del 22enne ucciso in stazione a Milano da un gruppo di aggressori ancora in fuga, dedicando spazio anche alla discussione sull’ingresso dell’Ucraina nell’Unione europea. Il Giorno si sofferma sul caso del 22enne Gianluca Ibarra Silvera e sullo stallo dell’accordo tra Iran e Usa per lo stretto di Hormuz, definito “falso” da Trump. Il Messaggero invece mette in evidenza l’ultimo flop dell’Italia sugli aiuti ai giovani e i ritardi nel Pnrr, con il Paese penultimo nel tasso di occupazione.",
+  "corpo2": "La Gazzetta dello Sport punta sugli affari di Milan e Inter: per i rossoneri si fa il nome di Ralf Rangnick come possibile capo dell’area tecnica, mentre per i nerazzurri si parla di 40 milioni pronti per l’Atalanta e della conferma di Bastian Bastoni. La Gazzetta dedica anche spazio al Roland Garros con l’appuntamento di Jannik Sinner. Il Sole 24 Ore affronta la situazione dell’Inter con i nomi di Curtis Jones o Koné e di un difensore di centrodestra, mentre su Napoli si insiste su Max e Italiano. Il tema dominante della giornata resta la cronaca nera e le tensioni internazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-27T05:51:09.947592+00:00",
+  "published_at": "2026-05-28T05:46:51.612301+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/d6d6df371d3303bddb5b4b6a4c77f657d111cee4/skytg24/it/cronaca/2026/05/27/prime-pagine-quotidiani-oggi-27-maggio/rassegnastampa27maggio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/d64b65d35ad806aba17ebb97f91e1ab666f897df/skytg24/it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio/collage_1.png?im=Resize,width=375",
     "source": "Funerali Petrini",
     "credit": "Prima pagina — Funerali Petrini",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/27/prime-pagine-quotidiani-oggi-27-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 27 maggio 2026",
+      "title": "Oroscopo di oggi, giovedì 28 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Ali alla Guyana: 'Essequibo resta nostro, mai venezuelano'",
-      "url": "/esteri/ali-alla-guyana-essequibo-resta-nostro-mai-venezue-8fde5e7c01bf84ec",
-      "id": "8fde5e7c01bf84ec",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/26/ed7f6d909cfe9981d07f9e6ed8f98ffa.jpg",
+      "title": "Spider-Man diventa noir: Nicolas Cage lo veste su Prime Video domani",
+      "url": "/cultura/spider-man-diventa-noir-nicolas-cage-lo-veste-su-p-b5e9ba52d312fffc",
+      "id": "b5e9ba52d312fffc",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/4c1f4988656e7d34ca3e4594268fd976.jpg",
       "image_type": "image"
     },
     {
-      "title": "Basket: Brunson e Robinson stendono i Cavs con una difesa da record",
-      "url": "/sport/basket-brunson-e-robinson-stendono-i-cavs-con-una-089cab75d1ba1631",
-      "id": "089cab75d1ba1631",
-      "image_url": "https://sport.sky.it/assets/images/192ec72b990f02da9e1934fe47d77b6b2ee7224d/skysport/it/nba/video/2026/05/26/1100889_1779802146073_thumb_494.0000001_1779802234667.jpg?im=Resize,width=1218",
+      "title": "Mari vince Strega Giovani 2026: 380 pagine di resistenza stilistica in rv al PalaCep",
+      "url": "/cultura/mari-vince-strega-giovani-2026-380-pagine-di-resis-82c8efe9c7ace4ee",
+      "id": "82c8efe9c7ace4ee",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/70dde4d12ecdd5d408e69a10a94c1ea2.jpg",
       "image_type": "image"
     }
   ],
