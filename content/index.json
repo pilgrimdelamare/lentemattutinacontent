@@ -1,5 +1,24 @@
 [
   {
+    "id": "896c2806392ace60",
+    "slug": "arnaldo-pomodoro-trionfa-a-milano-45-opere-in-most-896c2806392ace60",
+    "title": "Arnaldo Pomodoro trionfa a Milano: 45 opere in mostra fino a ottobre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-28T14:12:36.225319+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/3f7f04a5b89270c0b07b9cda0041ef67.jpg",
+    "occhiello": "IL MUSEO DI POMODORO COME FONDAZIONE BANCARIA",
+    "lead_preview": "Milano, 28 maggio. Cento anni dopo la nascita, Arnaldo Pomodoro è celebrato con 45 opere alle Gallerie d’Italia di Milan",
+    "tags": [
+      "mostra pomodoro milano",
+      "scultura contemporanea",
+      "gallerie d'italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "51717f2c43cc172e",
     "slug": "cineasti-da-oscar-lanci-il-mago-della-luce-domani-51717f2c43cc172e",
     "title": "Cineasti da Oscar: Lanci, il mago della Luce, domani riceve il Quarzo d'oro a Venezia",
@@ -9166,21 +9185,6 @@
       "jagger stromboli",
       "cinema"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a2ccdd2141278986",
-    "slug": "zelenskyy-chiama-europa-a-scegliere-rappresentante-a2ccdd2141278986",
-    "title": "Zelensky: 'Europa, un volto solo contro Putin!'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-18T08:22:30.681400+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/5f111c4c36be3f9f2fb54a07b0d636e2ecb7fd6f/80_0_869_695/master/869.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0b9738bb4886227041491f22373d3e3b",
-    "occhiello": "ZELENSKYJ CHIEDE UNITÀ EUROPEA CONTRO PUTIN",
-    "lead_preview": "Bruxelles, 18 maggio. Il Presidente ucraino Volodymyr Oleksandrovyč Zelens'kyj ha lanciato un appello all'Europa, chiede",
-    "tags": [],
     "hero_eligible": true
   }
 ]
