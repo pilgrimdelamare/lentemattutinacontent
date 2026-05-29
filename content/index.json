@@ -1,5 +1,22 @@
 [
   {
+    "id": "799365ce320017a5",
+    "slug": "ciclismo-vingegaard-guida-con-223-799365ce320017a5",
+    "title": "Ciclismo: Vingegaard guida con 2'23\"",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-29T09:16:28.419450+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8f321b68f2f1f1a56b5ef12a8ad9801296cb10b5/skysport/it/ciclismo/2026/05/28/giro-italia-2026-tappa-19-percorso-altimetria/Giro_tappa19-2.jpg",
+    "occhiello": "PASSO GIAU, LA PROVA DEFINITIVA PER IL GIRO",
+    "lead_preview": "Feltre, 29 maggio.",
+    "tags": [
+      "giro d'italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db1713fef2d0d504",
     "slug": "tennis-sinner-crolla-al-roland-garros-e-vola-fuori-db1713fef2d0d504",
     "title": "Tennis: Sinner crolla al Roland Garros e vola fuori per malore misterioso",
@@ -9179,24 +9196,6 @@
     "lead_preview": "Cupertino, 19 maggio Apple ha comunicato che domani 8 giugno alle 18 (ora Italiana) si terrà la Worldwide Developers Con",
     "tags": [
       "wwdc 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a9b1566ab2fc3d50",
-    "slug": "mosca-provoca-lestonia-un-drone-ucraino-abbattuto-a9b1566ab2fc3d50",
-    "title": "F-16 NATO abbatte drone ucraino in Estonia: carico “sospetto” su 120 km di aria violata",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-19T16:36:12.559246+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/a23cefd3267e3a1b2b6a7df7685821a508fff360/744_0_4820_3857/master/4820.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=411676144fce67407081c113f5b8faa9",
-    "occhiello": "DRONE UCRAINO ABBATTUTO SUL BALTICO",
-    "lead_preview": "Tallinn, 19 maggio Un caccia F-16 NATO di base in Romania ha abbattuto un drone ucraino nello spazio aereo estone, a 120",
-    "tags": [
-      "drone ucraino",
-      "estonia nato"
     ],
     "hero_eligible": true
   }
