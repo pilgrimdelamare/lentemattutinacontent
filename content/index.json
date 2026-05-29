@@ -1,5 +1,23 @@
 [
   {
+    "id": "45f728896c06fb44",
+    "slug": "calcio-allegri-commosso-premio-galeone-scioglie-la-45f728896c06fb44",
+    "title": "Calcio: Allegri commosso, premio Galeone scioglie la corazza del tecnico",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-05-29T14:23:09.864853+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/44129b82290f33f7045e8d7d526248333da751bd/skysport/it/calcio/serie-a/video/2026/05/29/allegri-giovanni-galeone-ricordo-video-1101663/allegri_lacrime_galeone.jpg",
+    "occhiello": "IL PREMIO CHE HA FATTO PIANGERE ALLEGRI",
+    "lead_preview": "Pescara, 29 maggio 2026. Allegri si è commosso ieri a Pescara ricordando Galeone. \"Era un precursore. Non prendersi trop",
+    "tags": [
+      "premio galeone",
+      "allegri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6d4c32cd3ce397ba",
     "slug": "calcio-scaloni-chiama-7-giocatori-di-serie-a-per-i-6d4c32cd3ce397ba",
     "title": "Calcio: Scaloni chiama 7 giocatori di Serie A per il Mondiale",
@@ -9177,21 +9195,6 @@
       "sfida cina francia",
       "moruzzi internazionale"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0511278c0a481e03",
-    "slug": "unicredit-conquista-commerzbank-con-il-35-via-deri-0511278c0a481e03",
-    "title": "Unicredit compra 35% Commerzbank: 3,8 miliardi per la Germania",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-19T09:20:40.518301+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/05/19/110427432-d13ef2a2-49d7-428b-990d-02c0fbf6ca8a.jpg",
-    "occhiello": "UNICREDIT COMPRA IL 35% DI COMMERZBANK SENZA DIRITTI DI VOTO",
-    "lead_preview": "Milano, 19 maggio. Unicredit ha messo le mani sul 35% di Commerzbank, la quarta Banca tedesca, con un'operazione da 3,8 ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
