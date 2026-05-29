@@ -1,5 +1,24 @@
 [
   {
+    "id": "db28637d4cac5f8f",
+    "slug": "roberto-capucci-lina-sastri-e-anna-foglietta-trion-db28637d4cac5f8f",
+    "title": "Roberto Capucci, Lina Sastri e Anna Foglietta trionfano al Premio Margutta",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-29T07:53:18.945026+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/dbb9b3a56de217ea11f464d0438970ae.jpg",
+    "occhiello": "PREMIO MARGUTTA, ONORE A CAPUCCI, SASTRI E FOGLIETTA",
+    "lead_preview": "Roma, 28 maggio. Il Premio Margutta La via delle Arti ha visto un trionfo di nomi noti, tra cui Roberto Capucci, Lina Sa",
+    "tags": [
+      "premio margutta",
+      "roberto capucci",
+      "lina sastri"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260529",
     "slug": "libro-del-giorno-lelogio-della-guerra-dalloperazione-sp-20260529",
     "title": "Il libro del giorno: «L’elogio della guerra. Dall’operazione speciale alla pace ingiustadi Michele Prospero»",
@@ -660,25 +679,6 @@
     "tags": [
       "crisi panama",
       "giungla darien"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db28637d4cac5f8f",
-    "slug": "capucci-sastri-e-foglietta-trionfano-ieri-la-vente-db28637d4cac5f8f",
-    "title": "Capucci vince il Premio Margutta: Moda Italiana tra arte e sartoria senza tempo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-28T21:20:01.566175+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/dbb9b3a56de217ea11f464d0438970ae.jpg",
-    "occhiello": "XX EDIZIONE DEL PREMIO MARGUTTA A ROBERTO CAPUCCI",
-    "lead_preview": "Roma, 28 maggio. Il Premio Margutta La via delle Arti ha assegnato la sua ventesima edizione a Roberto Capucci per la Mo",
-    "tags": [
-      "premio margutta",
-      "roberto capucci",
-      "moda italiana"
     ],
     "hero_eligible": true
   },
