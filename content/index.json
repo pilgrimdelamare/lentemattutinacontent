@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-29T06:07:35.091714+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 29 MAGGIO 2026",
+    "lead_preview": "Le prime pagine dei quotidiani italiani convergono in gran parte sulla risposta delle Regioni europee alla lettera del v",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9e141e1c572223b0",
     "slug": "basket-wembanyama-trasforma-labito-in-trionfo-spur-9e141e1c572223b0",
     "title": "Basket: Wembanyama trasforma l’abito in trionfo, Spurs a un passo dalle finali",
@@ -34,25 +53,6 @@
       "figc penalizzazioni",
       "juve stabia penalizzata",
       "serie b penalizzazioni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-29T06:02:14.049113+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI VENERDÌ 29 MAGGIO 2026",
-    "lead_preview": "I quotidiani convergono sul rifiuto delle Regioni Ue ai piani di riallocazione dei fondi per l’energia proposti dal vice",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
