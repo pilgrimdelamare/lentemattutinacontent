@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-05-29T06:02:14.049113+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI VENERDÌ 29 MAGGIO 2026",
+    "lead_preview": "I quotidiani convergono sul rifiuto delle Regioni Ue ai piani di riallocazione dei fondi per l’energia proposti dal vice",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aae3bda8cc8693a2",
     "slug": "basket-wembanyama-distrugge-thunder-con-28-punti-aae3bda8cc8693a2",
     "title": "Basket: Wembanyama distrugge Thunder con 28 punti!",
@@ -1569,25 +1588,6 @@
       "premio strega giovani",
       "michele mari",
       "ruggine"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 28 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-28T05:46:51.612301+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/d64b65d35ad806aba17ebb97f91e1ab666f897df/skytg24/it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 28 MAGGIO 2026",
-    "lead_preview": "I quotidiani di oggi convergono su tre temi principali: i funerali di Petrini con l’offerta della Procura di 30 giorni p",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
