@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 28 maggio 2026",
+  "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 28 maggio 2026",
-    "Le prime pagine di oggi, giovedì 28 maggio 2026",
-    "Le prime pagine di oggi, giovedì 28 maggio 2026"
+    "Le prime pagine di oggi, venerdì 29 maggio 2026",
+    "Le prime pagine di oggi, venerdì 29 maggio 2026",
+    "Le prime pagine di oggi, venerdì 29 maggio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI GIOVEDÌ 28 MAGGIO 2026",
-  "lead": "I quotidiani di oggi convergono su tre temi principali: i funerali di Petrini con l’offerta della Procura di 30 giorni per la fase dibattimentale, la cronaca nera milanese con l’omicidio del 22enne Gianluca Ibarra Silvera, e le tensioni geopolitiche tra Iran e Stati Uniti sull’intesa per lo stretto di Hormuz. Corriere della Sera, La Repubblica e il Giorno si concentrano su questi aspetti, mentre gli altri titoli spaziano su sport, mercato calcistico e criticità del Pnrr.",
-  "corpo1": "Il Corriere della Sera apre con i funerali di Petrini e l’offerta della Procura di 30 giorni per la fase dibattimentale, affiancando il caso del decoder Sky Stream. La Repubblica titola invece sull’omicidio del 22enne ucciso in stazione a Milano da un gruppo di aggressori ancora in fuga, dedicando spazio anche alla discussione sull’ingresso dell’Ucraina nell’Unione europea. Il Giorno si sofferma sul caso del 22enne Gianluca Ibarra Silvera e sullo stallo dell’accordo tra Iran e Usa per lo stretto di Hormuz, definito “falso” da Trump. Il Messaggero invece mette in evidenza l’ultimo flop dell’Italia sugli aiuti ai giovani e i ritardi nel Pnrr, con il Paese penultimo nel tasso di occupazione.",
-  "corpo2": "La Gazzetta dello Sport punta sugli affari di Milan e Inter: per i rossoneri si fa il nome di Ralf Rangnick come possibile capo dell’area tecnica, mentre per i nerazzurri si parla di 40 milioni pronti per l’Atalanta e della conferma di Bastian Bastoni. La Gazzetta dedica anche spazio al Roland Garros con l’appuntamento di Jannik Sinner. Il Sole 24 Ore affronta la situazione dell’Inter con i nomi di Curtis Jones o Koné e di un difensore di centrodestra, mentre su Napoli si insiste su Max e Italiano. Il tema dominante della giornata resta la cronaca nera e le tensioni internazionali.",
+  "occhiello": "LE PRIME PAGINE DI VENERDÌ 29 MAGGIO 2026",
+  "lead": "I quotidiani convergono sul rifiuto delle Regioni Ue ai piani di riallocazione dei fondi per l’energia proposti dal vicepresidente Fitto, con Corriere della Sera, Repubblica e La Stampa in prima pagina. Il crollo di Jannik Sinner al Roland Garros domina le aperture di Messaggero e Gazzetta dello Sport. Il Corriere dello Sport punta sullo sbarco di Massimiliano Allegri al Napoli. Spazio minore alla tregua Usa-Iran e a un caso di rapina a Roma.",
+  "corpo1": "Il Corriere della Sera apre con il no delle Regioni Ue alla proposta di Fitto di utilizzare fondi non spesi per il caro energia, sottolineando la reazione dei governi locali. Repubblica riporta la replica secca delle Regioni: \"Non siamo un bancomat\", accanto alla retromarcia di Meloni sul riarmo con un taglio di 10 miliardi. La Stampa titola sugli aiuti Ue per l’energia e la possibile tregua Usa-Iran, in attesa della risposta di Trump. Il Messaggero dedica la prima pagina alla sconfitta di Sinner a Parigi e al caso di una giovane rapita a Roma. La Gazzetta dello Sport analizza il \"crollo umano\" del tennista, citando lo stress accumulato. Il Corriere dello Sport annuncia l’arrivo di Allegri al Napoli con un biennale e il ritorno al 4-3-3.",
+  "corpo2": "Altri titoli includono le dichiarazioni di Sinner (\"Non sono un robot\") su La Stampa e Repubblica, le polemiche sulla programmazione dei tornei tennis nella Gazzetta, e il vertice Spalletti-Elkann per la Juve nel Corriere dello Sport. La dichiarazione di accessibilità compare in chiusura su un quotidiano non specificato. La giornata è segnata dal dibattito sui fondi Ue, l’impresa mancata di Sinner e le mosse nel calcio.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-28T05:46:51.612301+00:00",
+  "published_at": "2026-05-29T06:02:14.049113+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/d64b65d35ad806aba17ebb97f91e1ab666f897df/skytg24/it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
     "source": "Funerali Petrini",
     "credit": "Prima pagina — Funerali Petrini",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/28/prime-pagine-quotidiani-oggi-28-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 28 maggio 2026",
+      "title": "Oroscopo di oggi, venerdì 29 maggio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Spider-Man diventa noir: Nicolas Cage lo veste su Prime Video domani",
-      "url": "/cultura/spider-man-diventa-noir-nicolas-cage-lo-veste-su-p-b5e9ba52d312fffc",
+      "title": "Nicolas Cage diventa Spider-Noir su Prime Video",
+      "url": "/cultura/nicolas-cage-diventa-spider-noir-su-prime-video-b5e9ba52d312fffc",
       "id": "b5e9ba52d312fffc",
       "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/4c1f4988656e7d34ca3e4594268fd976.jpg",
       "image_type": "image"
     },
     {
-      "title": "Mari vince Strega Giovani 2026: 380 pagine di resistenza stilistica in rv al PalaCep",
-      "url": "/cultura/mari-vince-strega-giovani-2026-380-pagine-di-resis-82c8efe9c7ace4ee",
-      "id": "82c8efe9c7ace4ee",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/70dde4d12ecdd5d408e69a10a94c1ea2.jpg",
-      "image_type": "image"
+      "title": "Basket: Wembanyama distrugge Thunder con 28 punti!",
+      "url": "/sport/basket-wembanyama-distrugge-thunder-con-28-punti-aae3bda8cc8693a2",
+      "id": "aae3bda8cc8693a2",
+      "image_url": "https://sport.sky.it/assets/images/cf57de048a97be62364edb584e4770e0c80aadaf/skysport/it/nba/video/2026/05/29/1101646_1780029139078_thumb_494.0000001_1780029195903.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
