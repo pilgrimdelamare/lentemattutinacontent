@@ -1,5 +1,24 @@
 [
   {
+    "id": "60a1c02b09e0a6b3",
+    "slug": "idf-bombarda-beirut-quattro-civili-feriti-a-shuway-60a1c02b09e0a6b3",
+    "title": "IDF bombarda Beirut, quattro civili feriti a Shuwayfat",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-29T08:57:58.518552+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/12/659858245cc91d6b612eee04117c9f4a.jpg",
+    "occhiello": "RAID ISRAELIANO SU BEIRUT: \"ATTACCO SU BEIRUT\"",
+    "lead_preview": "Beirut, 28 maggio. Le Forze di difesa israeliane (IDF) hanno annunciato un attacco aereo su Beirut, colpendo il quartier",
+    "tags": [
+      "raid israeliano beirut",
+      "attacco idf shuwayfat",
+      "conflitto israele-liban"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6bb473259782a0d5",
     "slug": "ucraina-e-moldavia-in-fila-per-lue-la-strada-e-lun-6bb473259782a0d5",
     "title": "Ucraina e Moldavia in fila per l'UE: la strada è lunga",
@@ -9177,24 +9196,6 @@
     "tags": [
       "drone ucraino",
       "estonia nato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f04686f1c1ad5bdd",
-    "slug": "crisi-in-bolivia-migliaia-di-agenti-schierati-a-la-f04686f1c1ad5bdd",
-    "title": "17.000 Soldati a La Paz, Zúñiga schiera l'esercito contro i manifestanti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-19T16:54:59.219210+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/19/14459cbc366f8d0daeb04e7e64b3e1c0.jpg",
-    "occhiello": "LA PAZ, 17.000 AGENTI DI FRONTE ALLA CASERMA",
-    "lead_preview": "LA PAZ, 17.000 AGENTI DI FRONTE ALLA CASERMA La Paz, 19 maggio. A meno di due anni dal golpe del novembre 2024, la Boliv",
-    "tags": [
-      "golpe bolivia",
-      "crisi bolivia"
     ],
     "hero_eligible": true
   }
