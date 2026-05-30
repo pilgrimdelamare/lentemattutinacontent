@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-30T04:32:44.419698+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE IN DOWN",
+    "lead_preview": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "301c4e9b1ba67208",
     "slug": "teatro-morlacchi-presenta-33-spettacoli-nel-202627-301c4e9b1ba67208",
     "title": "Teatro Morlacchi presenta 33 spettacoli nel 2026/27",
@@ -9174,25 +9193,6 @@
     "tags": [
       "crisi hormuz",
       "trump jr"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "91570b6092175c43",
-    "slug": "wall-street-in-flessione-sp-500--046-dow-jones--04-91570b6092175c43",
-    "title": "Dow Jones crolla a -0,46%: 248 miliardi volatilizzati e Wall Street trema",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-05-21T14:10:42.388497+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/def8ffb60d1adaef6aadaf95e49e5bed.jpg",
-    "occhiello": "IL DOW JONES SBANCA A TERRA",
-    "lead_preview": "New York, 21 maggio. Il Dow Jones Industrial Average ha chiuso la seduta con un tonfo: -0,46%, un passo falso dopo aver ",
-    "tags": [
-      "crollo dow jones",
-      "wall street oggi",
-      "mercati finanziari"
     ],
     "hero_eligible": true
   }
