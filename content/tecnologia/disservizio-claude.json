@@ -1,26 +1,29 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "40 Minuti di blackout per 3.200 utenti: l'interruzione di Claude",
+  "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "40 Minuti di blackout per 3.200 utenti: l'interruzione di Claude",
-    "L'ingegnere senior che fu dimenticato da Anthropic",
-    "La risposta di Anthropic: un errore di configurazione per 3.200 utenti"
+    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "",
-  "lead": "San Francisco, 8 maggio. Alle 14:17 ora locale – corrispondenti alle 23:17 in Italia – il sistema di intelligenza artificiale Claude, sviluppato dall’azienda Anthropic, è andato offline per 40 minuti, interrompendo l’accesso per 3.200 utenti registrati in Europa e Nord America.",
-  "corpo1": "L’interruzione, confermata da un comunicato interno ottenuto da La Lente Mattutina, ha riguardato tutti i nodi server di Anthropic negli Stati Uniti e in Irlanda, dove l’azienda ha posizionato i propri data center per garantire la compliance con il regolamento Europeo sulla protezione dei dati. Il disservizio ha colpito utenti delle versioni gratuite e a pagamento, compresi professionisti che utilizzano l'IA per la redazione di documenti legali, il supporto clinico e l'analisi finanziaria in tempo reale. Non ci sono stati errori di tipo “hallucination” né fughe di dati segnalate durante o dopo il downtime, ma un portavoce dell’azienda ha ammesso che “la disponibilità del sistema non è stata all’altezza degli standard operativi previsti”. L'azienda ha dichiarato di aver risolto il problema entro le 15:00 ora di San Francisco, attribuendolo a un errore di configurazione nel sistema di bilanciamento del carico che ha causato un loop di riavvii a cascata. Un ingegnere senior, il cui nome è stato oscurato per motivi di privacy, ha scritto in una nota interna: 'Avevamo disabilitato i test automatizzati per una finestra di manutenzione di 30 minuti. Il rollback è partito comunque in automatico, ma con una regola malformata'. L’azienda non ha specificato se il disservizio abbia innescato richieste di rimborso o azioni legali da parte di clienti istituzionali, né se abbia notificato l’evento alle autorità europee per la protezione dei dati, come previsto dall’articolo 33 del GDPR in caso di incidente che possa compromettere la Sicurezza dei dati degli utenti.",
-  "corpo2": "Anthropic ha costruito la sua reputazione su un'idea precisa: un'IA più sicura, più trasparente e meno incline agli errori grossolani delle controparti di Meta e Google. Fondata nel 2021 da Dario Amodei, ex scienziato di OpenAI, l’azienda ha raccolto oltre 7,6 miliardi di dollari di investimenti, tra cui finanziamenti da Amazon e Google, che detengono quote minoritarie ma strategiche. Il suo modello di business non è basato sulla pubblicità, ma su abbonamenti e API per aziende che vogliono integrare Claude nei propri flussi operativi, un modello che promette affidabilità e non solo intelligenza. Ma un’interruzione di 40 minuti in un sistema che si presenta come “critico per l’operatività di studi legali e cliniche” non è un semplice contrattempo: è un guasto infrastrutturale, come se un ospedale disattivasse per errore il sistema di monitoraggio pazienti durante un intervento. Il bilanciatore di carico non è un componente secondario, ma il cervello che distribuisce il traffico tra i server, il regista invisibile che decide chi entra e chi aspetta. Lasciarlo senza test automatici per una finestra di manutenzione non è un rischio calcolato, ma una scelta operativa che ignora le pratiche standard di sicurezza digitale, quelle che Anthropic stessa ha descritto in decine di white paper come fondamentali per evitare failure a cascata. I 3.200 utenti colpiti potrebbero sembrare pochi rispetto ai milioni che usano ChatGPT, ma molti di loro non erano consumatori casuali: erano avvocati che preparavano memorie per tribunali, medici che analizzavano referti e analisti che monitoravano mercati. Il costo di un fermo, anche breve, è misurabile non in downtime, ma in opportunità perse, decisioni ritardate e fiducia incrinata. Non esiste un modello di business per la fiducia, ma esiste un mercato per la rilevanza. E quando un'azienda che si vanta di fare tecnologia 'responsabile' commette un errore da principiante, non è il sistema che va offline, ma è la credibilità.",
+  "occhiello": "CLAUDE IN DOWN",
+  "lead": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-08T10:31:17.818410+00:00",
+  "published_at": "2026-05-30T04:32:44.419698+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -28,34 +31,33 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"40 Minuti di blackout per 3.200 utenti: l'interruzione di Claude\",\n  \"description\": \"San Francisco, 8 maggio. Alle 14:17 ora locale – corrispondenti alle 23:17 in Italia – il sistema di intelligenza artificiale Claude, sviluppato dall’azienda Anthropic, è andato offline per 40 minuti, interrompendo l’accesso per 3.200 utenti registrati in Europa e Nord America.\",\n  \"articleBody\": \"San Francisco, 8 maggio. Alle 14:17 ora locale – corrispondenti alle 23:17 in Italia – il sistema di intelligenza artificiale Claude, sviluppato dall’azienda Anthropic, è andato offline per 40 minuti, interrompendo l’accesso per 3.200 utenti registrati in Europa e Nord America. L’interruzione, confermata da un comunicato interno ottenuto da La Lente Mattutina, ha riguardato tutti i nodi server di Anthropic negli Stati Uniti e in Irlanda, dove l’azienda ha posizionato i propri data center per garantire la compliance con il regolamento Europeo sulla protezione dei dati. Il disservizio ha colpito utenti delle versioni gratuite e a pagamento, compresi professionisti che utilizzano l'IA per la redazione di documenti legali, il supporto clinico e l'analisi finanziaria in tempo reale. Non ci sono stati errori di tipo “hallucination” né fughe di dati segnalate durante o dopo il downtime, ma un portavoce dell’azienda ha ammesso che “la disponibilità del sistema non è stata all’altezza degli standard operativi previsti”. L'azienda ha dichiarato di aver risolto il problema entro le 15:00 ora di San Francisco, attribuendolo a un errore di configurazione nel sistema di bilanciamento del carico che ha causato un loop di riavvii a cascata. Un ingegnere senior, il cui nome è stato oscurato per motivi di privacy, ha scritto in una nota interna: 'Avevamo disabilitato i test automatizzati per una finestra di manutenzione di 30 minuti. Il rollback è partito comunque in automatico, ma con una regola malformata'. L’azienda non ha specificato se il disservizio abbia innescato richieste di rimborso o azioni legali da parte di clienti istituzionali, né se abbia notificato l’evento alle autorità europee per la protezione dei dati, come previsto dall’articolo 33 del GDPR in caso di incidente che possa compromettere la Sicurezza dei dati degli utenti. Anthropic ha costruito la sua reputazione su un'idea precisa: un'IA più sicura, più trasparente e meno incline agli errori grossolani delle controparti di Meta e Google. Fondata nel 2021 da Dario Amodei, ex scienziato di OpenAI, l’azienda ha raccolto oltre 7,6 miliardi di dollari di investimenti, tra cui finanziamenti da Amazon e Google, che detengono quote minoritarie ma strategiche. Il suo modello di business non è basato sulla pubblicità, ma su abbonamenti e API per aziende che vogliono integrare Claude nei propri flussi operativi, un modello che promette affidabilità e non solo intelligenza. Ma un’interruzione di 40 minuti in un sistema che si presenta come “critico per l’operatività di studi legali e cliniche” non è un semplice contrattempo: è un guasto infrastrutturale, come se un ospedale disattivasse per errore il sistema di monitoraggio pazienti durante un intervento. Il bilanciatore di carico non è un componente secondario, ma il cervello che distribuisce il traffico tra i server, il regista invisibile che decide chi entra e chi aspetta. Lasciarlo senza test automatici per una finestra di manutenzione non è un rischio calcolato, ma una scelta operativa che ignora le pratiche standard di sicurezza digitale, quelle che Anthropic stessa ha descritto in decine di white paper come fondamentali per evitare failure a cascata. I 3.200 utenti colpiti potrebbero sembrare pochi rispetto ai milioni che usano ChatGPT, ma molti di loro non erano consumatori casuali: erano avvocati che preparavano memorie per tribunali, medici che analizzavano referti e analisti che monitoravano mercati. Il costo di un fermo, anche breve, è misurabile non in downtime, ma in opportunità perse, decisioni ritardate e fiducia incrinata. Non esiste un modello di business per la fiducia, ma esiste un mercato per la rilevanza. E quando un'azienda che si vanta di fare tecnologia 'responsabile' commette un errore da principiante, non è il sistema che va offline, ma è la credibilità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-05-08T10:31:17.818410+00:00\",\n  \"dateModified\": \"2026-05-08T10:31:17.818410+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "GitHub trema: 3 ore e mezzo di blackout paralizzano milioni di sviluppatori nel mondo",
+      "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "NASA: Plutone resta pianeta X, Nelson decide senza appello",
-      "url": "/tecnologia/nasa-dichiara-guerra-alluai-plutone-tornera-a-esse-86497ca681a9a90c",
-      "id": "86497ca681a9a90c",
-      "image_url": "https://media-assets.wired.it/photos/69f9c953258d23f2e6d69a8c/16:9/w_1280,c_limit/769722381",
+      "title": "Apple svela l’iPhone 18 Pro: il rosso ciliegia scuro è il nuovo colore simbolo",
+      "url": "/tecnologia/apple-svela-liphone-18-pro-il-rosso-ciliegia-scuro-fea655fdf8f10de3",
+      "id": "fea655fdf8f10de3",
+      "image_url": "https://media-assets.wired.it/photos/6a19a29cafd52c49ffe5a3df/16:9/w_1280,c_limit/524417342",
       "image_type": "image"
     },
     {
-      "title": "Da Samsung a Google: milioni di smartphone italiani senza più messaggi autonomi tra tre mesi",
-      "url": "/tecnologia/samsung-elimina-i-suoi-sms-e-passa-a-google-migraz-da0d1a57900cf4a3",
-      "id": "da0d1a57900cf4a3",
-      "image_url": "https://media-assets.wired.it/photos/69f8a058a4fef13c6f06308b/16:9/w_1280,c_limit/samsung%20messaggi%20google.png",
+      "title": "Power bank, 20.000 mAh per 5 ricariche",
+      "url": "/tecnologia/power-bank-20000-mah-per-5-ricariche-595ea38090c25389",
+      "id": "595ea38090c25389",
+      "image_url": "https://media-assets.wired.it/photos/6a05bedf74e30844556845ea/16:9/w_1280,c_limit/power%20bank%20maggio%202026.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-05-08T10:31:17.818410+00:00"
+  "hero_eligible": false
 }
