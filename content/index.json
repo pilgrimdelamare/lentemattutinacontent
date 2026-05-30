@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-30T04:38:49.163504+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY IN DOWN",
+    "lead_preview": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
@@ -9175,24 +9194,6 @@
       "play-off basket",
       "olimpia milano",
       "serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9815c5994f77ba36",
-    "slug": "trump-si-salva-liran-con-il-matrimonio-del-figlio-9815c5994f77ba36",
-    "title": "Trump minaccia di saltare nozze figlio per tensione Hormuz",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-21T20:58:18.493085+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/7d0bde73e6663246719553cfc8350ef04effc5bf/480_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92b944c4d063147d80b2e34130818d90",
-    "occhiello": "TRUMP: \"FORSE SALTERÒ LE NOZZE DI TRUMP JR.\"",
-    "lead_preview": "Washington, 21 maggio. Donald John Trump, Presidente degli Stati Uniti, minaccia di boicottare il matrimonio del figlio ",
-    "tags": [
-      "crisi hormuz",
-      "trump jr"
     ],
     "hero_eligible": true
   }
