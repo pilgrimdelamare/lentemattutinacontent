@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è tornato online dopo 23 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-05-30T04:44:41.651253+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RIPRISTINATO",
+    "lead_preview": "Satispay è tornato online dopo 23 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato online dopo 34 minuti di interruzione.",
@@ -35,25 +54,6 @@
       "sky cinema"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-05-30T04:38:49.163504+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY IN DOWN",
-    "lead_preview": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "301c4e9b1ba67208",
