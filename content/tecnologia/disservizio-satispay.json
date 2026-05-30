@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "Satispay è tornato online dopo 23 minuti di interruzione.",
   "titles": [
-    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz"
+    "Satispay è tornato online dopo 23 minuti di interruzione.",
+    "Satispay è tornato online dopo 23 minuti di interruzione.",
+    "Satispay è tornato online dopo 23 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY IN DOWN",
-  "lead": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 17 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIPRISTINATO",
+  "lead": "Satispay è tornato online dopo 23 minuti di interruzione.",
+  "corpo1": "Il servizio di pagamento Satispay è stato interrotto per 23 minuti. Il problema è iniziato alle ore  e si è concluso dopo un breve periodo di inattività. Il sistema è ora pienamente funzionante e gli utenti possono tornare a utilizzare il servizio senza problemi. La causa del disservizio non è stata resa pubblica.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-30T04:38:49.163504+00:00",
+  "published_at": "2026-05-30T04:44:41.651253+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,7 +38,7 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+      "title": "Claude è tornato online dopo 34 minuti di interruzione.",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
