@@ -1,0 +1,63 @@
+{
+  "id": "monitor_satispay",
+  "slug": "disservizio-satispay",
+  "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+  "titles": [
+    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "SATISPAY IN DOWN",
+  "lead": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 17 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-05-30T04:38:49.163504+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/satispay.com",
+    "source": "Satispay",
+    "credit": "Satispay",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
+  "related": [
+    {
+      "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Apple svela l’iPhone 18 Pro: il rosso ciliegia scuro è il nuovo colore simbolo",
+      "url": "/tecnologia/apple-svela-liphone-18-pro-il-rosso-ciliegia-scuro-fea655fdf8f10de3",
+      "id": "fea655fdf8f10de3",
+      "image_url": "https://media-assets.wired.it/photos/6a19a29cafd52c49ffe5a3df/16:9/w_1280,c_limit/524417342",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
