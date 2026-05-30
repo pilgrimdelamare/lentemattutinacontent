@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "Claude è tornato online dopo 34 minuti di interruzione.",
   "titles": [
-    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi."
+    "Claude è tornato online dopo 34 minuti di interruzione.",
+    "Claude è tornato online dopo 34 minuti di interruzione.",
+    "Claude è tornato online dopo 34 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIATTIVATO",
+  "lead": "Claude è tornato online dopo 34 minuti di interruzione.",
+  "corpo1": "Il disservizio di Claude è iniziato e dopo 34 minuti è stato risolto. La durata dell'interruzione è stata di 34 minuti. Il sistema è ora funzionante e operativo. La ripresa dell'attività è stata confermata.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-30T04:32:44.419698+00:00",
+  "published_at": "2026-05-30T04:44:41.609394+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
+      "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
       "title": "Apple svela l’iPhone 18 Pro: il rosso ciliegia scuro è il nuovo colore simbolo",
       "url": "/tecnologia/apple-svela-liphone-18-pro-il-rosso-ciliegia-scuro-fea655fdf8f10de3",
       "id": "fea655fdf8f10de3",
       "image_url": "https://media-assets.wired.it/photos/6a19a29cafd52c49ffe5a3df/16:9/w_1280,c_limit/524417342",
-      "image_type": "image"
-    },
-    {
-      "title": "Power bank, 20.000 mAh per 5 ricariche",
-      "url": "/tecnologia/power-bank-20000-mah-per-5-ricariche-595ea38090c25389",
-      "id": "595ea38090c25389",
-      "image_url": "https://media-assets.wired.it/photos/6a05bedf74e30844556845ea/16:9/w_1280,c_limit/power%20bank%20maggio%202026.jpg",
       "image_type": "image"
     }
   ],
