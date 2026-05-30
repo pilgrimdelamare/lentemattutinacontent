@@ -1,5 +1,23 @@
 [
   {
+    "id": "cca0233777a2d03c",
+    "slug": "meloni-in-pericolo-senza-vannacci-fdi-crolla-sotto-cca0233777a2d03c",
+    "title": "FdI perde 2,1 punti senza Vannacci: Meloni rischia alleati esterni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-05-30T18:41:24.951941+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/29/f0f0278bf379e977f9ff92a28c0a4e17.jpg",
+    "occhiello": "MELONI NEL VICOLO CIECO DI VANNACCI",
+    "lead_preview": "roma, 30 maggio. Ipsos gliene dà due in meno di due settimane: senza Roberto Vannacci, Fratelli d’Italia perde il 2,1% n",
+    "tags": [
+      "fdi",
+      "crisi vannacci"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "824c027e869fcc58",
     "slug": "genovesi-regista-rai-kids-ma-non-ne-guida-la-direz-824c027e869fcc58",
     "title": "Genovesi dirigerà solo la narrativa di RAI Kids, la Direzione resta ad Ammirati",
@@ -162,25 +180,6 @@
       "minerario amazzonia",
       "lula permessi",
       "scandalo ambientale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cca0233777a2d03c",
-    "slug": "meloni-in-pericolo-senza-vannacci-fdi-crolla-sotto-cca0233777a2d03c",
-    "title": "Meloni in pericolo: senza Vannacci FdI crolla sotto il 25%",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-30T18:41:24.951941+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/29/f0f0278bf379e977f9ff92a28c0a4e17.jpg",
-    "occhiello": "VANNACCI SGRETOLA MELONI DAL DI DENTRO",
-    "lead_preview": "Roma, 30 maggio 2026. I sondaggi Ipsos consegnano al Paese un Parlamento in bilico e a Giorgia Meloni un ultimatum: o Ro",
-    "tags": [
-      "sondaggi ipsos 2026",
-      "vannacci meloni",
-      "pericolo meloni"
     ],
     "hero_eligible": true
   },
