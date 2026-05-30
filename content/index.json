@@ -1,5 +1,24 @@
 [
   {
+    "id": "3730cf44afe94dab",
+    "slug": "reva-trasforma-dante-in-mappa-sonora-inferno-ugual-3730cf44afe94dab",
+    "title": "Odessa, un'arte contro la guerra: 34 terzine dell'Inferno su una città bombardata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-05-30T14:01:41.343160+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/30/c3f58fb6407b16a34882b70e29233a76.jpg",
+    "occhiello": "DANTE IN CODE A ODESSA",
+    "lead_preview": "Odessa, 30 maggio 2026. Un’installazione multimediale espone le terzine dell’Inferno tradotte in ucraino su una mappa so",
+    "tags": [
+      "guerra ucraina",
+      "odessa bombardata",
+      "dante odessa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "92c8ac3edc0f6748",
     "slug": "brasile-20mila-kmq-di-amazzonia-svenduti-5700-perm-92c8ac3edc0f6748",
     "title": "Lula regala 20.000 kmq d’Amazzonia a società con soci riciclatori",
@@ -267,25 +286,6 @@
     "tags": [
       "lega spaccata",
       "zaia salvini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3730cf44afe94dab",
-    "slug": "reva-trasforma-dante-in-mappa-sonora-inferno-ugual-3730cf44afe94dab",
-    "title": "Reva trasforma Dante in mappa sonora: Inferno uguale Odessa bombardata",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-05-30T14:01:41.343160+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/30/c3f58fb6407b16a34882b70e29233a76.jpg",
-    "occhiello": "DANTE IN TERZINE AL MACHINE LEARNING",
-    "lead_preview": "Odessa, 30 maggio 2026. Un’installazione multimediale espone le terzine della Divina Commedia in versione Ucraina con l’",
-    "tags": [
-      "dante inferno odessa",
-      "installazione multimediale ucraina",
-      "ia analisi semantica"
     ],
     "hero_eligible": true
   },
