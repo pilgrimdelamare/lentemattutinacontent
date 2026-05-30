@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260530",
+    "slug": "libro-del-giorno-elizabeth-finchdi-julian-barnes-20260530",
+    "title": "Il libro del giorno: «Elizabeth Finchdi Julian Barnes»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un ritratto intellettuale e umano di una donna colta e anticonformista",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-30T07:33:30.797382+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L197xH312/arton169373-d1c93.jpg?1775792461",
+      "alt": "Copertina: Elizabeth Finchdi Julian Barnes",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L197xH312/arton169373-d1c93.jpg?1775792461",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "bbfe5353f59f3a5e",
     "slug": "basket-jalen-williams-out-a-gara-7-thunder-in-emer-bbfe5353f59f3a5e",
     "title": "Basket: Jalen Williams out a gara-7, Thunder in emergenza per gli Spurs",
@@ -9165,24 +9184,6 @@
     "tags": [
       "teatro san carlo",
       "werther napoli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2330a49e45ecee43",
-    "slug": "gilgeous-alexander-lmvp-che-non-si-arrende-30-punt-2330a49e45ecee43",
-    "title": "Basket: L'eroico girovincente di Gilgeous-Alexander",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-21T06:50:46.349756+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/45a8e74dfabf0dd078584d4ec56925c7b7c95df5/skysport/it/nba/video/2026/05/21/gilgeous-alexander-nba-thunder-canestro-gara-2-finale-video-1099598/Shai_Gilgeous-Alexander_Getty_Oklahoma_City_Thunder_2.jpg",
-    "occhiello": "GILGEOUS-ALEXANDER SIGLA IL PASSAGGIO",
-    "lead_preview": "GILGEOUS-ALEXANDER SIGLA IL PASSAGGIO oklahoma city, 21 maggio. Shai Gilgeous-Alexander ha scritto il finale della serie",
-    "tags": [
-      "nba",
-      "shai gilgeous-alexander"
     ],
     "hero_eligible": true
   }
