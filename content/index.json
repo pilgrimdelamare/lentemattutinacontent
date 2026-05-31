@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260531",
+    "slug": "libro-del-giorno-autobiografia-dei-miei-canidi-sandra-p-20260531",
+    "title": "Il libro del giorno: «Autobiografia dei miei canidi Sandra Petrignani»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un memoir che esplora il tema della memoria e del legame con gli esseri amati, umani e animali, attraverso la scrittura ",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-05-31T07:00:44.230323+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L196xH312/arton170879-25259.jpg?1775678311",
+      "alt": "Copertina: Autobiografia dei miei canidi Sandra Petrignani",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L196xH312/arton170879-25259.jpg?1775678311",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "e99cd413f1e6e182",
     "slug": "basket-kornet-stoppa-hartenstein-e-scrive-la-stori-e99cd413f1e6e182",
     "title": "Basket: Kornet stoppa Hartenstein e scrive la storia NBA a -2 possessi",
@@ -9169,25 +9188,6 @@
       "eutanasia uruguay",
       "sla daniel fernández",
       "legge 19.883"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e88336c14481eb1c",
-    "slug": "trump-27mila-utenti-a-rischio-dati-personali-rubat-e88336c14481eb1c",
-    "title": "Fondazione Trump viola dati di 27.000 utenti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-23T03:00:30.008868+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://i.guim.co.uk/img/media/70c74c12869e42640c3f680d891be8faf25a8ee3/6_26_580_464/master/580.jpg?width=140&quality=85&auto=format&fit=max&s=6aaf09661c994b2801b4ceda202391e0",
-    "occhiello": "DATI SENSIBILI ESPORTATI DA NUOVA YORK",
-    "lead_preview": "Il Procuratore generale dello Stato di New York avrebbe rilevato un accesso non autorizzato ai dati di 27.000 utenti del",
-    "tags": [
-      "fondazione trump",
-      "violazione dati",
-      "new york"
     ],
     "hero_eligible": true
   }
