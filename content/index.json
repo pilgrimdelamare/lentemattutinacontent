@@ -1,5 +1,24 @@
 [
   {
+    "id": "f48c3db240314af0",
+    "slug": "drone-misterioso-sorvola-centrale-zaporizzja-evacu-f48c3db240314af0",
+    "title": "Drone misterioso sorvola Centrale Zaporižžja: evacuata Sala controllo dopo allarme nucleare",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-05-31T06:45:23.358464+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/2/7/ff602614854d29c09869293559dfd0ee.jpg",
+    "occhiello": "DRONE SU ZAPORIŽŽJA, AIEA CHIEDE L'ACCESSO",
+    "lead_preview": "Zaporižžja, 30 maggio. Un drone non identificato ha sorvolato nella notte il perimetro della Centrale nucleare di Zapori",
+    "tags": [
+      "centrale zaporižžja",
+      "allarme nucleare",
+      "drone ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "075a18ff1ba47abf",
     "slug": "calcio-arteta-percorso-straordinario-sabato-e-lult-075a18ff1ba47abf",
     "title": "Calcio: Arsenal in finale di Champions League",
@@ -9169,25 +9188,6 @@
       "reddito cittadinanza",
       "decreto calderone",
       "assegni cancellati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d82b7e0443a539b9",
-    "slug": "basket-garuba-crolla-senza-contatto-d82b7e0443a539b9",
-    "title": "Basket: Real Madrid a pezzi, Garuba KO e Barça vola +20",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-22T20:49:05.659717+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/b87e30a4951bef173653e5b557d3f8dff67a340f/skysport/it/basket/eurolega/video/2026/05/22/usman-garuba-infortunio-eurolega-video-1100023/usman_garuba_getty.jpg",
-    "occhiello": "GARUBA FUORI DAL GIOCO SENZA TOCCO",
-    "lead_preview": "Madrid, 22 maggio. Usman Garuba, centro dei Real Madrid, ha abbandonato il parquet al WiZink Center senza contatto fisic",
-    "tags": [
-      "garuba infortunio",
-      "real madrid basket",
-      "barcellona basket"
     ],
     "hero_eligible": true
   }
