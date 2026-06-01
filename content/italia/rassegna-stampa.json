@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
+  "title": "Le prime pagine di oggi, lunedì 1 giugno 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 29 maggio 2026",
-    "Le prime pagine di oggi, venerdì 29 maggio 2026",
-    "Le prime pagine di oggi, venerdì 29 maggio 2026"
+    "Le prime pagine di oggi, lunedì 1 giugno 2026",
+    "Le prime pagine di oggi, lunedì 1 giugno 2026",
+    "Le prime pagine di oggi, lunedì 1 giugno 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 29 MAGGIO 2026",
-  "lead": "Le prime pagine dei quotidiani italiani convergono in gran parte sulla risposta delle Regioni europee alla lettera del vicepresidente della Commissione Ue, Raffaele Fitto, che chiedeva l’utilizzo di risorse non spese per il caro energia. Corriere della Sera, Repubblica e La Stampa dedicano ampio spazio anche a un tema diverso: il malore di Jannik Sinner al Roland Garros e il suo crollo contro Cerundolo. Messaggero e Gazzetta dello Sport, invece, riservano la prima pagina quasi esclusivamente allo sport, con il ko del numero uno al mondo e le polemiche sulla sua programmazione. Solo Corriere dello Sport si distingue con un titolo esclusivamente calcistico: l’arrivo di Allegri al Napoli.",
-  "corpo1": "Il Corriere della Sera apre con due titoli in verticale: il no delle Regioni Ue alla richiesta di Fitto sui fondi per l’energia e il malore di Jannik Sinner, che dopo la sconfitta al Roland Garros afferma di non essere un robot. Repubblica, con un linguaggio diretto, titola la risposta delle Regioni con una frase secca: “Non siamo un bancomat”. Segue la retromarcia del governo Meloni sul riarmo, con un taglio di dieci miliardi agli investimenti. La Stampa concentra l’attenzione sulla possibilità di utilizzare fondi europei non spesi per gli aiuti energetici, citando le parole di Fitto. Il Messaggero dedica invece tutta la prima pagina al crollo di Sinner, con le sue dichiarazioni sul mancato caldo come causa della sconfitta. La Gazzetta dello Sport, con un titolo secco, sottolinea la vulnerabilità del campione mondiale, mentre il Corriere dello Sport sorprende con l’annuncio dell’arrivo di Massimiliano Allegri al Napoli dopo solo pochi giorni dal licenziamento dal Milan.",
-  "corpo2": "Oltre ai temi principali, alcuni quotidiani riservano spazio a cronaca e politica interna. Il Messaggero, sotto al titolo su Sinner, riporta il rapimento di una giovane a Roma, avvenuto con l’uso di sostanze stupefacenti. La Gazzetta dello Sport, nella parte inferiore della prima, pubblica il parere del medico che attribuisce lo stress e la fatica accumulata da Sinner come cause del suo cedimento fisico. La Stampa, invece, dedica un angolo alla tregua tra Stati Uniti e Iran, segnalando che tutto dipende ora dalla possibile risposta di Trump ai Pasdaran in 24 ore. Il tema dominante della giornata rimane comunque la contrapposizione tra Europa e governo italiano sui fondi energetici e la crisi sportiva di Sinner.",
+  "occhiello": "LE PRIME PAGINE, LUNEDÌ 1 GIUGNO 2026",
+  "lead": "I giornali italiani oggi convergono sull'avanzata di Israele in Libano e sulla proposta di tregua di Trump all'Iran. La situazione in Medio Oriente è al centro delle prime pagine, con diverse testate che riportano aggiornamenti sulla crisi. La Gazzetta dello Sport invece si concentra sul mercato del calcio e sulla vittoria di Vingegaard al Giro d'Italia.",
+  "corpo1": "Il Sole 24 Ore in apertura parla del \"freno\" del governo sulle accise, mentre La Repubblica e Il Corriere della Sera titolano sull'avanzata di Israele in Libano e sulla proposta di tregua di Trump all'Iran. La Stampa riporta la conquista del \"castello crociato di Beaufort\" da parte di Israele, mentre Il Fatto Quotidiano si concentra sulla questione dell'adesione dell'Ucraina all'Unione europea. La Gazzetta dello Sport titola su Marco Palestra che \"ha conquistato Chivu\" e potrebbe andare all'Inter.",
+  "corpo2": "Il Messaggero e Il Giornale riportano anch'essi sull'avanzata di Israele in Libano, mentre La Tribuna riporta la \"stoccata\" di Cristian Stellini a De Bruyne. Il tema dominante della giornata è la crisi in Medio Oriente.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,39 +23,39 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-05-29T06:07:35.091714+00:00",
+  "published_at": "2026-06-01T05:45:15.594009+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
-    "source": "Funerali Petrini",
-    "credit": "Prima pagina — Funerali Petrini",
+    "url": "https://tg24.sky.it/assets/images/85694966419bed79a6b9cc7b725eea160ddb7bf1/skytg24/it/cronaca/2026/06/01/prime-pagine-quotidiani-oggi-1-giugno/collage_1.png?im=Resize,width=375",
+    "source": "logo-sky-go",
+    "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/06/01/prime-pagine-quotidiani-oggi-1-giugno",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 29 maggio 2026",
+      "title": "Oroscopo di oggi, lunedì 1 giugno 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Nicolas Cage diventa Spider-Noir su Prime Video",
-      "url": "/cultura/nicolas-cage-diventa-spider-noir-su-prime-video-b5e9ba52d312fffc",
-      "id": "b5e9ba52d312fffc",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/4c1f4988656e7d34ca3e4594268fd976.jpg",
+      "title": "Bondi cancella 17mila pagine su Epstein: 'Nessuna prova contro il pedofilo'",
+      "url": "/esteri/ex-procuratrice-bondi-ammette-si-ho-oscurato-i-fil-ff875fef052b934f",
+      "id": "ff875fef052b934f",
+      "image_url": "https://i.guim.co.uk/img/media/3f62b094868bfecbad2a6e9461ceb7e422357063/520_34_1623_1298/master/1623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=929fe74813cf3227c5275ce5544c2d47",
       "image_type": "image"
     },
     {
-      "title": "Basket: Wembanyama trasforma l’abito in trionfo, Spurs a un passo dalle finali",
-      "url": "/sport/basket-wembanyama-trasforma-labito-in-trionfo-spur-9e141e1c572223b0",
-      "id": "9e141e1c572223b0",
-      "image_url": "https://sport.sky.it/assets/images/f4213754d842d5fe53837fb99d65b20019b25384/skysport/it/nba/video/2026/05/29/1101647_1780029204579_thumb_494.0000001_1780029239309.jpg",
+      "title": "Calcio: Baldini guida gli Azzurri, prime amichevoli in Lussemburgo e Grecia",
+      "url": "/sport/calcio-baldini-guida-gli-azzurri-prime-amichevoli-1977b9247cb65d6c",
+      "id": "1977b9247cb65d6c",
+      "image_url": "https://sport.sky.it/assets/images/f4ba5a2d0abf7e58cafb8c19fb252cc9fe1b1ee5/skysport/it/calcio/nazionale/2026/05/04/silvio-baldini-nazionale-come-sara/baldini_insider_orizz.jpg",
       "image_type": "feed_image"
     }
   ],
