@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 1 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-01T05:45:15.594009+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/85694966419bed79a6b9cc7b725eea160ddb7bf1/skytg24/it/cronaca/2026/06/01/prime-pagine-quotidiani-oggi-1-giugno/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE, LUNEDÌ 1 GIUGNO 2026",
+    "lead_preview": "I giornali italiani oggi convergono sull'avanzata di Israele in Libano e sulla proposta di tregua di Trump all'Iran. La ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cfe93a52a1617ef5",
     "slug": "dylan-dog-sbarca-a-pescara-due-giorni-di-horror-fu-cfe93a52a1617ef5",
     "title": "Sergio Bonelli festeggia Dylan Dog: Pescara si trasforma in una cattedrale dei fumetti",
@@ -4356,25 +4375,6 @@
       "wembanyama spurs semifinali",
       "playoff nba okc",
       "spurs eliminazione evitata"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 29 maggio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-05-29T06:07:35.091714+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/2d6159ad4ccf1c3f20c4b9c08d388d57411ea2a3/skytg24/it/cronaca/2026/05/29/prime-pagine-quotidiani-oggi-29-maggio/Composite_295.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 29 MAGGIO 2026",
-    "lead_preview": "Le prime pagine dei quotidiani italiani convergono in gran parte sulla risposta delle Regioni europee alla lettera del v",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
