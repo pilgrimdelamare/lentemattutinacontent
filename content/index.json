@@ -1,5 +1,24 @@
 [
   {
+    "id": "e25744eb34c95894",
+    "slug": "mariotti-dirige-concerto-del-quirinale-verdi-respi-e25744eb34c95894",
+    "title": "Roma, concerto all'Opera per la Festa della Repubblica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-01T03:27:31.529286+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/2/17/0882b8f4b219ccbf4c3f0a10d6a05bfa.jpg",
+    "occhiello": "ORCHESTRA DEL QUIRINALE CON MARIOTTI",
+    "lead_preview": "Roma, 31 maggio. L'Orchestra dell'Opera di Roma esegue oggi alle 21 a Palazzo del Quirinale un concerto diretto da Donat",
+    "tags": [
+      "concerto festa repubblica",
+      "orchestra quirinale",
+      "donato mariotti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "976a3a350448328b",
     "slug": "motogp-acosta-sfida-marquez-976a3a350448328b",
     "title": "Acosta sblocca mugello con sorpasso spettacolare",
@@ -384,25 +403,6 @@
     "tags": [
       "concerto bocelli",
       "circo massimo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e25744eb34c95894",
-    "slug": "mariotti-dirige-concerto-del-quirinale-verdi-respi-e25744eb34c95894",
-    "title": "Mariotti dirige concerto del Quirinale: Verdi, Respighi e Bernstein in diretta su RAI 1",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-06-01T03:27:31.529286+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/2/17/0882b8f4b219ccbf4c3f0a10d6a05bfa.jpg",
-    "occhiello": "IL QUIRINALE SCEGLIE LA MUSICA PER LA REPUBBLICA",
-    "lead_preview": "Roma, 31 maggio. L'Orchestra dell'Opera di Roma suonerà oggi a Palazzo del Quirinale per celebrare la Festa della Repubb",
-    "tags": [
-      "concerto del quirinale",
-      "michele mariotti",
-      "festa della repubblica"
     ],
     "hero_eligible": true
   },
