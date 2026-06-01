@@ -1,5 +1,20 @@
 [
   {
+    "id": "387aeb89254a2930",
+    "slug": "grittini-espone-senza-ringraziare-foto-di-marilyn-387aeb89254a2930",
+    "title": "Foto di marilyn rubate in esposizione pubblica",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-01T02:26:14.893817+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/5014d94374d72698d11eb9c057bbd46f.jpg",
+    "occhiello": "FOTO DI MARILYN RUBATE IN ESPOSIZIONE PUBBLICA",
+    "lead_preview": "Gualtieri, 31 maggio. La Casa Museo Antonio Ligabue di Gualtieri inaugurerà il 6 giugno la mostra provvisoria “grittini ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7d15c84142d4faf7",
     "slug": "motogp-bezzecchi-domina-al-mugello-ducati-in-diffi-7d15c84142d4faf7",
     "title": "MotoGP: Bezzecchi stravince a Mugello con 32,3 secondi di vantaggio su Martín",
@@ -347,25 +362,6 @@
     "lead_preview": "Bogotà, 1 giugno 2026. Al primo turno delle elezioni presidenziali colombiane Abelardo de la Espriella ha ottenuto 10.23",
     "tags": [
       "elezioni colombia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "387aeb89254a2930",
-    "slug": "grittini-espone-senza-ringraziare-foto-di-marilyn-387aeb89254a2930",
-    "title": "Grittini espone senza ringraziare: foto di Marilyn rubate a Stern in mostra a Gualtieri",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-06-01T02:26:14.893817+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/5014d94374d72698d11eb9c057bbd46f.jpg",
-    "occhiello": "GIULIANO GRITTINI TRA PASTICHE E ICONA",
-    "lead_preview": "Gualtieri, 31 maggio. Dal 6 giugno all'11 luglio la Casa Museo Antonio Ligabue di Gualtieri ospiterà la mostra Marilyn: ",
-    "tags": [
-      "mostra grittini",
-      "marilyn stern",
-      "ligabue gualtieri"
     ],
     "hero_eligible": true
   },
