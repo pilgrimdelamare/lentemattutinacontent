@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 1 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-01T04:01:00.704339+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 1 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1c1b49de09de10d2",
     "slug": "calcio-psg-campione-ma-la-festa-finisce-nel-sangue-1c1b49de09de10d2",
     "title": "Calcio: PSG campione, ma la festa finisce nel sangue a Parigi: un morto, 780 fermi",
@@ -1885,26 +1905,6 @@
       "drone monaco"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, domenica 31 maggio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-05-31T04:01:05.496200+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — DOMENICA 31 MAGGIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "ca175454013192d6",
