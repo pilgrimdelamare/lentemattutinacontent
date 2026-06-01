@@ -1,5 +1,20 @@
 [
   {
+    "id": "a45430d34866f5cf",
+    "slug": "italia-condannata-per-non-aiutare-10mila-torture-m-a45430d34866f5cf",
+    "title": "Diecimila sopravvissuti alla tortura senza alcun percorso di assistenza",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-06-01T11:52:00.594598+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/01/133056119-ad41d1f0-511c-4e27-a86f-0c36b7cc0c98.jpg",
+    "occhiello": "DIECIMILA SOPRAVVISSUTI ALLA TORTURA SENZA ALCUN PERCORSO DI ASSISTENZA",
+    "lead_preview": "Roma, 1 giugno. L'Italia non garantisce alcun percorso di assistenza strutturato alle Persone Sopravvissute alla Tortura",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ae462c061ade5120",
     "slug": "iran-pezeshkian-nega-le-dimissioni-in-tv-ma-la-cri-ae462c061ade5120",
     "title": "Teheran smentisce le dimissioni del presidente masoud pezeshkian",
@@ -392,25 +407,6 @@
       "amichevole juve standard",
       "calcio precampionato 2026",
       "crisi juventus 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a45430d34866f5cf",
-    "slug": "italia-condannata-per-non-aiutare-10mila-torture-m-a45430d34866f5cf",
-    "title": "Italia condannata per non aiutare 10mila torture: migranti lasciati soli",
-    "section": "cronaca",
-    "priority": 6,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-06-01T11:52:00.594598+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/01/133056119-ad41d1f0-511c-4e27-a86f-0c36b7cc0c98.jpg",
-    "occhiello": "UN RAPPORTO ONU CONTESTA L'ITALIA",
-    "lead_preview": "Roma, 1 giugno. L'Italia non garantisce alcun percorso di assistenza alle Persone Sopravvissute alla Tortura, nonostante",
-    "tags": [
-      "torture migranti",
-      "onu italia",
-      "persone sopravvissute torture"
     ],
     "hero_eligible": true
   },
