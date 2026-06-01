@@ -1,5 +1,24 @@
 [
   {
+    "id": "f179b5ebb962aa57",
+    "slug": "idf-travolge-beaufort-17000-soldati-oltre-il-litan-f179b5ebb962aa57",
+    "title": "IDF travolge Beaufort: 17.000 soldati oltre il Litani, Hezbollah fugge",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-01T01:51:56.186169+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/4df46a43892e1dbc9bc9c38ca5d10eef.jpg",
+    "occhiello": "ISRAELE TOCCA LA LINEA ROSSA DEL LIBANO",
+    "lead_preview": "New York, 31 maggio. Il Consiglio di Sicurezza dell'ONU si riunisce d'urgenza su richiesta della Francia dopo che le for",
+    "tags": [
+      "conflitto israele-hezbollah",
+      "offensiva idf libano",
+      "fortezza beaufort"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "70550746188ac4a6",
     "slug": "pd-la-destra-riscrive-le-regole-per-blindare-il-po-70550746188ac4a6",
     "title": "PD: «La destra riscrive le regole per blindare il potere con liste bloccate»",
@@ -384,25 +403,6 @@
       "cambio alla guida milan",
       "addio furlani milan",
       "calvelli nuovo ad milan"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f179b5ebb962aa57",
-    "slug": "idf-occupa-bint-jbeil-avanzata-verso-litani-libano-f179b5ebb962aa57",
-    "title": "IDF occupa Bint Jbeil, avanzata verso Litani: Libano chiede ONU allerta",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-31T19:38:10.177883+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/4df46a43892e1dbc9bc9c38ca5d10eef.jpg",
-    "occhiello": "IDF AVANZA SU BEIRUT, FRANCIA PREME PER L'ONU",
-    "lead_preview": "Beirut, 31 maggio. Le Forze di difesa israeliane hanno varcato la linea blu almeno 8 chilometri all’interno del Libano m",
-    "tags": [
-      "guerra libano",
-      "idp libano",
-      "confitto israelo-libanese"
     ],
     "hero_eligible": true
   },
