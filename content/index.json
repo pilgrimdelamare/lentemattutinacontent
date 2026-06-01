@@ -1,5 +1,24 @@
 [
   {
+    "id": "3344a8ff07477c08",
+    "slug": "villa-chigi-saracini-riapre-dopo-18-mesi-con-acces-3344a8ff07477c08",
+    "title": "Villa Chigi Saracini riapre con 1,2 mln di euro di restauri",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-05-31T14:31:06.563831+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/30/5468640814745825e8c7ff8eef4c4a80.jpg",
+    "occhiello": "RESTAURO DA 1 MILIONE PER IL GIOIELLO DI SIENA",
+    "lead_preview": "Castelnuovo Berardenga, 31 maggio. Villa Chigi Saracini riapre il 6 giugno dopo diciotto mesi di restauro finanziato con",
+    "tags": [
+      "villa chigi saracini",
+      "restauro villa chigi",
+      "riapertura villa chigi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c34411dad9087134",
     "slug": "schlein-spara-a-tajani-chi-ha-tanto-deve-pagare-di-c34411dad9087134",
     "title": "Schlein spinge la Patrimoniale Europea: \"Tassiamo i miliardari, Forza Italia si oppone\"",
@@ -623,23 +642,6 @@
       "giro d'italia 2026",
       "vingegaard pogačar",
       "ciclismo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3344a8ff07477c08",
-    "slug": "villa-chigi-saracini-riapre-dopo-18-mesi-con-acces-3344a8ff07477c08",
-    "title": "Villa Chigi Saracini riapre ai cittadini domani dopo 18 mesi chiusa",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-31T14:31:06.563831+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/30/5468640814745825e8c7ff8eef4c4a80.jpg",
-    "occhiello": "VILLA CHIGI SARACINI RIAPRE DOPO UN ANNO E MEZZO",
-    "lead_preview": "Castelnuovo Berardenga, 31 maggio. Villa Chigi Saracini riapre al pubblico il 6 giugno dopo diciotto mesi di restauro. I",
-    "tags": [
-      "villa chigi saracini"
     ],
     "hero_eligible": true
   },
