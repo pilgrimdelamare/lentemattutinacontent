@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260601",
+    "slug": "libro-del-giorno-il-cartone-di-mio-padre-storia-e-criti-20260601",
+    "title": "Il libro del giorno: «Il cartone di mio padre. Storia e critica»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un pamphlet filosofico sull’eredità, tra documenti polverosi e genealogie imperscrutabili",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-01T07:00:57.720782+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L211xH312/9791254761281_0_0_424_0_75-5a75b.jpg?1775674221",
+      "alt": "Copertina: Il cartone di mio padre. Storia e critica",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L211xH312/9791254761281_0_0_424_0_75-5a75b.jpg?1775674221",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "3837149a4ec29fa4",
     "slug": "onu-consiglio-sicurezza-riunito-durgenza-per-tensi-3837149a4ec29fa4",
     "title": "ONU, Consiglio Sicurezza riunito d'urgenza per tensioni Israele-Libano",
@@ -9151,24 +9170,6 @@
     "tags": [
       "esonero lisci",
       "osasuna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa80847029d34066",
-    "slug": "basket-wembanyama-spacca-los-angeles-con-laiuto-de-fa80847029d34066",
-    "title": "Basket: Wembanyama spacca Los Angeles con l’aiuto delle suore, Spurs 128-108",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-26T02:44:36.043436+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8f2e45d340edf397e564e00a688e5c57d6b1c039/skysport/it/nba/video/2026/05/25/1100604_1779695935928_thumb_494.0000001_1779695991264.jpg",
-    "occhiello": "Le suore degli Spurs: un gesto simbolico che non cambia la realtà",
-    "lead_preview": "Le suore degli Spurs: un gesto simbolico che non cambia la realtà San Antonio, 25 maggio 2025 Le suore salesiane sono sc",
-    "tags": [
-      "nba playoff",
-      "spurs oklahoma"
     ],
     "hero_eligible": true
   }
