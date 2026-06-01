@@ -1,5 +1,20 @@
 [
   {
+    "id": "7cbeb5fda9681f43",
+    "slug": "indagine-dei-procuratori-su-prezzi-e-logistica-dei-7cbeb5fda9681f43",
+    "title": "Indagine dei procuratori su prezzi e logistica dei mondiali",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-01T19:01:59.548428+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://images.agi.it/pictures/agi/agi/2026/06/01/183911435-3279ce43-a80d-469c-ad9f-0f1e8eade0fc.jpeg",
+    "occhiello": "INDAGINE DEI PROCURATORI SU PREZZI E LOGISTICA DEI MONDIALI",
+    "lead_preview": "New York, 1 giugno 2026. A dieci giorni dall'inizio dei Mondiali di calcio in Stati Uniti, Messico e Canada, l'Organizza",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ef92d1aa453301fa",
     "slug": "buco-di-bilancio-da-147-miliardi-in-un-solo-mese-ef92d1aa453301fa",
     "title": "Quattordici miliardi e settecento milioni bruciati in trenta giorni",
@@ -8923,24 +8938,5 @@
       "allegri napoli"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-05-26T12:24:19.893956+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "GitHub è tornato online dopo 55 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
