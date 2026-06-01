@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna operativo dopo 55 minuti di blocco",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-06-01T17:30:05.356369+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT FUORI SERVIZIO PER CINQUANTACINQUE MINUTI",
+    "lead_preview": "Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato operativo dopo un'interruzione durata cinquant",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a434f3e5c4f7d7dd",
     "slug": "venezuela-esportazioni-petrolifere-in-crescita-per-a434f3e5c4f7d7dd",
     "title": "Venezuela: esportazioni petrolifere in crescita per il terzo mese",
@@ -582,25 +597,6 @@
     "lead_preview": "Quito, 1 giugno.",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 55 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-01T17:30:05.356369+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 55 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "5136accf400fd0e8",
