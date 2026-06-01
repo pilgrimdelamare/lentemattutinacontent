@@ -1,5 +1,24 @@
 [
   {
+    "id": "f179b5ebb962aa57",
+    "slug": "idf-travolge-beaufort-17000-soldati-oltre-il-litan-f179b5ebb962aa57",
+    "title": "Israele attraversa il Litani, ONU a riunione d'urgenza",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-01T01:51:56.186169+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/4df46a43892e1dbc9bc9c38ca5d10eef.jpg",
+    "occhiello": "FRANCIA CHIAMA ONU SU AVANZATA ISRAELIANA",
+    "lead_preview": "New York, 31 maggio. Il Consiglio di Sicurezza dell’ONU si riunisce d’urgenza su richiesta di Francia dopo che l’esercit",
+    "tags": [
+      "guerra israele",
+      "crisi libano",
+      "onu riunione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1c1b49de09de10d2",
     "slug": "calcio-psg-campione-ma-la-festa-finisce-nel-sangue-1c1b49de09de10d2",
     "title": "Calcio: PSG campione d'Europa, 317 fermati in scontri fuori lo stadio",
@@ -418,25 +437,6 @@
     "lead_preview": "Bogotà, 1 giugno 2026. Al primo turno delle elezioni presidenziali colombiane Abelardo de la Espriella ha ottenuto 10.23",
     "tags": [
       "elezioni colombia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f179b5ebb962aa57",
-    "slug": "idf-travolge-beaufort-17000-soldati-oltre-il-litan-f179b5ebb962aa57",
-    "title": "IDF travolge Beaufort: 17.000 soldati oltre il Litani, Hezbollah fugge",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-01T01:51:56.186169+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/31/4df46a43892e1dbc9bc9c38ca5d10eef.jpg",
-    "occhiello": "ISRAELE TOCCA LA LINEA ROSSA DEL LIBANO",
-    "lead_preview": "New York, 31 maggio. Il Consiglio di Sicurezza dell'ONU si riunisce d'urgenza su richiesta della Francia dopo che le for",
-    "tags": [
-      "conflitto israele-hezbollah",
-      "offensiva idf libano",
-      "fortezza beaufort"
     ],
     "hero_eligible": true
   },
