@@ -1,5 +1,20 @@
 [
   {
+    "id": "5c1017dcf12b674b",
+    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
+    "title": "Terremoto 6.2 al largo della calabria nessun danno rilevato",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-06-02T01:56:21.926112+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
+    "occhiello": "TERREMOTO 6.2 AL LARGO DELLA CALABRIA NESSUN DANNO RILEVATO",
+    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque al largo della costa calabrese al",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "Cinquanta cinque minuti di buio totale per chatgpt",
@@ -519,21 +534,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/318c0aa585ec40f3e613162608028843.jpg",
     "occhiello": "IL RECORD DI BARKER E PARSONS AL CINEMA",
     "lead_preview": "Los Angeles, 1 giugno 2026. Barker e Parsons, due creatori di contenuti digitali poco più che ventenni, hanno raggiunto ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5c1017dcf12b674b",
-    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
-    "title": "Epicentro a 250 chilometri: la fortuna salva la calabria",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-06-02T01:56:21.926112+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
-    "occhiello": "EPICENTRO A 250 CHILOMETRI: LA FORTUNA SALVA LA CALABRIA",
-    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque al largo della Calabria, propagan",
     "tags": [],
     "hero_eligible": true
   },
