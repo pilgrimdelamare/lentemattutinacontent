@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Cinquanta cinque minuti di buio totale per chatgpt",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-06-01T17:30:05.356369+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CINQUANTA CINQUE MINUTI DI BUIO TOTALE PER CHATGPT",
+    "lead_preview": "Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato operativo dopo un'interruzione durata cinquant",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, martedì 2 giugno 2026",
@@ -1526,21 +1541,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/678926bc3b9d02b3c426b101e8c5b446.jpg",
     "occhiello": "IL DIFENSORE JUVENTINO BREMER COMMENTA LA VITTORIA BRASILIANA AL MARACANÀ",
     "lead_preview": "Rio de Janeiro, 1 giugno 2026. Il Brasile ha battuto Panama con il risultato di 6-2 in una partita amichevole disputata ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna operativo dopo 55 minuti di blocco",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-01T17:30:05.356369+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT FUORI SERVIZIO PER CINQUANTACINQUE MINUTI",
-    "lead_preview": "Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato operativo dopo un'interruzione durata cinquant",
     "tags": [],
     "hero_eligible": true
   },
