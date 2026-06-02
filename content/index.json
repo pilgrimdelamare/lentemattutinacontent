@@ -1,5 +1,20 @@
 [
   {
+    "id": "5c1017dcf12b674b",
+    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
+    "title": "Epicentro a 250 chilometri: la fortuna salva la calabria",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-06-02T01:56:21.926112+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
+    "occhiello": "EPICENTRO A 250 CHILOMETRI: LA FORTUNA SALVA LA CALABRIA",
+    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque al largo della Calabria, propagan",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0428f7c99895b717",
     "slug": "savino-denuncia-il-ruolo-simbolico-dei-cappellani-0428f7c99895b717",
     "title": "Il vicepresidente della cei contesta il protocollo militare",
@@ -8825,25 +8840,6 @@
     "lead_preview": "6.000 STUDENTI A ROMA PER LO SPORT CHE NON C’È Roma, 26 maggio. Alle ore 19:45, sul prato di Villa Borghese, una distesa",
     "tags": [
       "manifestazione studenti roma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7a7be30cc23fb944",
-    "slug": "venezia-dupol-contro-meloni-guerini-chiama-a-racco-7a7be30cc23fb944",
-    "title": "Venezia, Dupol contro Meloni: Guerini chiama a raccolta i riformisti PD per vincere",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-26T20:46:11.556011+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/25/0afd5b219200309b6d0faee21b9e1254.jpg",
-    "occhiello": "RIFORMISTI PD ALL'ATTACCO SU VENEZIA",
-    "lead_preview": "Roma, 26 maggio. Lorenzo Guerini, presidente del Copasir e deputato del Pd, ha esortato i riformisti del partito a \"raff",
-    "tags": [
-      "elezioni venezia",
-      "riformisti pd",
-      "guerini pd"
     ],
     "hero_eligible": true
   }
