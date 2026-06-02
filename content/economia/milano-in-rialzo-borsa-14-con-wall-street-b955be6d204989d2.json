@@ -1,0 +1,59 @@
+{
+  "id": "b955be6d204989d2",
+  "slug": "milano-in-rialzo-borsa-14-con-wall-street-b955be6d204989d2",
+  "title": "Milano in rialzo: Borsa +1,4% con Wall Street",
+  "titles": [
+    "Milano in rialzo: Borsa +1,4% con Wall Street",
+    "La Borsa di Milano conferma il suo ruolo in Europa",
+    "Investitori in fibrillazione: Milano sale, i mercati rispondono"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "BORSA MILANO IN RIALZO",
+  "lead": "Milano, 2 giugno. La Borsa di Milano ha chiuso con un aumento dell'1,4% dopo l'avvio positivo di Wall Street.",
+  "corpo1": "Secondo ANSA, la Borsa di Milano ha registrato un aumento dell'1,4% dopo l'avvio di Wall Street. Non ci sono informazioni disponibili sull'andamento specifico delle azioni di Stm, Unicredit e Commerzbank. La fonte originale non fornisce dettagli su eventuali variazioni nel prezzo delle azioni di queste società. La Borsa di Milano ha comunque registrato un aumento complessivo, confermandosi come uno dei principali centri finanziari europei.",
+  "corpo2": "L'aumento della Borsa di Milano potrebbe essere dovuto a vari fattori, tra cui la ripresa economica e la fiducia degli investitori. Tuttavia, senza informazioni più dettagliate, è difficile determinare le cause esatte di questo aumento. È importante notare che la Borsa di Milano è un indicatore importante dell'economia Italiana e che le sue performances possono avere un impatto significativo sul mercato finanziario. Se l'aumento della Borsa di Milano dovesse confermarsi anche nei prossimi giorni, potrebbe essere un segno di una ripresa economica più ampia.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-06-02T14:33:09.575506+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Milano in rialzo: Borsa +1,4% con Wall Street\",\n  \"description\": \"Milano, 2 giugno. La Borsa di Milano ha chiuso con un aumento dell'1,4% dopo l'avvio positivo di Wall Street.\",\n  \"articleBody\": \"Milano, 2 giugno. La Borsa di Milano ha chiuso con un aumento dell'1,4% dopo l'avvio positivo di Wall Street. Secondo ANSA, la Borsa di Milano ha registrato un aumento dell'1,4% dopo l'avvio di Wall Street. Non ci sono informazioni disponibili sull'andamento specifico delle azioni di Stm, Unicredit e Commerzbank. La fonte originale non fornisce dettagli su eventuali variazioni nel prezzo delle azioni di queste società. La Borsa di Milano ha comunque registrato un aumento complessivo, confermandosi come uno dei principali centri finanziari europei. L'aumento della Borsa di Milano potrebbe essere dovuto a vari fattori, tra cui la ripresa economica e la fiducia degli investitori. Tuttavia, senza informazioni più dettagliate, è difficile determinare le cause esatte di questo aumento. È importante notare che la Borsa di Milano è un indicatore importante dell'economia Italiana e che le sue performances possono avere un impatto significativo sul mercato finanziario. Se l'aumento della Borsa di Milano dovesse confermarsi anche nei prossimi giorni, potrebbe essere un segno di una ripresa economica più ampia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-02T14:33:09.575506+00:00\",\n  \"dateModified\": \"2026-06-02T14:33:09.575506+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/b955be6d204989d2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/b955be6d204989d2\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/06/02/borsa-milano-14-migliore-in-europa-dopo-lavvio-di-wall-street_9204b7d9-507e-486a-8960-674f5dd56c61.html",
+  "related": [
+    {
+      "title": "Wall Street in calo, Dow Jones -0,12% e Nasdaq -0,21%",
+      "url": "/economia/wall-street-in-calo-dow-jones--012-e-nasdaq--021-deaf78e4d7099595",
+      "id": "deaf78e4d7099595",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/84d34e15611d46033f5de5912968855a.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Wall street apre il mese di giugno con il segno meno",
+      "url": "/economia/wall-street-brucia-capitali-mentre-il-mercato-elet-14dd9bc135f57356",
+      "id": "14dd9bc135f57356",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/0d697b57e04185f96cffa35da4fd9078.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Meloni, Bruxelles ignora la lettera",
+      "url": "/economia/meloni-bruxelles-ignora-la-lettera-69ba394437730fd9",
+      "id": "69ba394437730fd9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/fc26f883a2959e76d0464321137e3870.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
