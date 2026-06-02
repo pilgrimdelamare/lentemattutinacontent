@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260602",
+    "slug": "libro-del-giorno-i-grandi-sportivi-del-piemonte-un-seco-20260602",
+    "title": "Il libro del giorno: «I grandi sportivi del Piemonte. Un secolo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'analisi dei grandi sportivi originari del Piemonte",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-02T07:32:27.150084+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9788877078124_0_0_424_0_75-f26c7.jpg?1778853670",
+      "alt": "Copertina: I grandi sportivi del Piemonte. Un secolo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9788877078124_0_0_424_0_75-f26c7.jpg?1778853670",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "2570a52d3eef21dd",
     "slug": "petrolio-wti-scende-a-9155-dollari-2570a52d3eef21dd",
     "title": "Petrolio WTI scende a 91,55 dollari",
@@ -8787,24 +8806,6 @@
       "napoli",
       "de laurentiis",
       "antonio conte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "75859e07a3c5482f",
-    "slug": "tennis-sinner-sfida-cerundolo-a-parigi-75859e07a3c5482f",
-    "title": "Tennis: Sinner sfida Cerundolo a Parigi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-05-27T02:01:30.658248+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/4d2c7d222da10e0c44dba453f4de88018fae5745/skysport/it/tennis/sinner-roland-garros-2026-tabellone-avversari/jm_cerundolo_ipa.jpg",
-    "occhiello": "SINNER SI PRESENTA A PARIGI CON UN BILANCIO DI 12 SETTIMANA NELLA TOP 50",
-    "lead_preview": "Parigi, 26 maggio",
-    "tags": [
-      "sinner parigi",
-      "roland garros"
     ],
     "hero_eligible": true
   }
