@@ -1,5 +1,20 @@
 [
   {
+    "id": "5c1017dcf12b674b",
+    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
+    "title": "Terremoto 6.2 colpisce mar Ionio",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-06-02T01:56:21.926112+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
+    "occhiello": "IL TERREMOTO 6.2 SULLO IONIO ESPONE IL VUOTO NORMATIVO",
+    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque del mar Ionio, al largo della cos",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "11c86b4f6b4b7912",
     "slug": "il-calciomercato-italiano-si-accende-tra-voci-e-tr-11c86b4f6b4b7912",
     "title": "Il mercato estivo apre tra strategie di bilancio e obiettivi tecnici",
@@ -1360,21 +1375,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2021/12/23/a6976f43562955994fb1411c7dd89def.jpg",
     "occhiello": "L'ANTITRUST AVVIA UN'ANALISI SULLA QUALITÀ DEL SERVIZIO AMA",
     "lead_preview": "Roma, 1 giugno 2026. L'Autorità Garante della Concorrenza e del Mercato ha avviato un'analisi dettagliata sulle prestazi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5c1017dcf12b674b",
-    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
-    "title": "Terremoto 6.2 in mare calabrese: paura lungo Costa ma senza danni strutturali",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-06-02T01:56:21.926112+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
-    "occhiello": "MAGNITUDO 6.2 AL LARGO DELLA COSTA CALABRA",
-    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque del mar Ionio, al largo della cos",
     "tags": [],
     "hero_eligible": true
   },
