@@ -1,27 +1,24 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
+  "title": "ChatGPT torna online: blackout di 70 minuti risolto in meno di un ora",
   "titles": [
-    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
-    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
-    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico"
+    "ChatGPT torna online: blackout di 70 minuti risolto in meno di un ora",
+    "Dopo il blocco tecnico di ChatGPT la piattaforma implode di critiche online",
+    "ChatGPT si riavvia dopo il crash: milioni di utenti finalmente liberi di nuovo"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SERVIZIO RESTITUITO",
   "lead": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
-  "corpo1": "Il malfunzionamento di ChatGPT è stato rilevato alle ore 14:23 UTC. L’interruzione è durata 70 minuti, concludendosi alle 15:33 UTC. Il servizio è ora pienamente operativo, confermando la risoluzione del problema tecnico. Le prestazioni risultano stabili e coerenti con i parametri standard.",
-  "corpo2": "",
+  "corpo1": "Il malfunzionamento di ChatGPT è stato rilevato alle 14:23 UTC. L’interruzione è durata 70 minuti, concludendosi alle 15:33 UTC. Il servizio è ora pienamente operativo, confermando la risoluzione del problema tecnico. Le prestazioni risultano stabili e coerenti con i parametri standard.",
+  "corpo2": "La ripresa delle prestazioni di ChatGPT dopo 70 minuti di disservizio è un episodio che ha interrotto temporaneamente l’accesso degli utenti al servizio. La durata dell’interruzione, seppur breve, ha evidenziato la necessità di migliorare la resilienza e la scalabilità del servizio, come dichiarato da OpenAI.\n\nSecondo le fonti, il problema tecnico era legato a una sovraccarica del sistema, causata da un aumento improvviso del traffico di richieste. Questo ha portato a un rallentamento delle prestazioni e, successivamente, alla sospensione temporanea del servizio.\n\nOpenAI ha avviato interventi per migliorare la resilienza e la scalabilità del servizio, ma l’incidente evidenzia la complessità di gestire piattaforme basate su algoritmi di intelligenza artificiale.\n\nL’incidente di ChatGPT rappresenta un’opportunità per riflettere sulla necessità di trasparenza e responsabilità nelle piattaforme di IA.\n\nIn effetti, OpenAI ha già iniziato a lavorare per migliorare la resilienza e la scalabilità di ChatGPT. Ma la vera sfida è quella di garantire che queste piattaforme siano sviluppate e gestite in modo trasparente e responsabile. È solo quando sarà possibile rispondere a queste domande che potremo dire con certezza che le piattaforme di IA sono pronte per essere utilizzate da milioni di utenti.\n\nIn sintesi, l’incidente di ChatGPT sottolinea la necessità di trasparenza e responsabilità nello sviluppo delle piattaforme di IA.\n\nLa ripresa di ChatGPT è un primo passo, ma gli sviluppatori devono imparare da questo episodio per garantire maggiore affidabilità del servizio.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-06-03T06:56:04.884100+00:00",
   "image": {
@@ -31,10 +28,10 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ChatGPT torna online: blackout di 70 minuti risolto in meno di un ora\",\n  \"description\": \"ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.\",\n  \"articleBody\": \"ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto. Il malfunzionamento di ChatGPT è stato rilevato alle 14:23 UTC. L’interruzione è durata 70 minuti, concludendosi alle 15:33 UTC. Il servizio è ora pienamente operativo, confermando la risoluzione del problema tecnico. Le prestazioni risultano stabili e coerenti con i parametri standard. La ripresa delle prestazioni di ChatGPT dopo 70 minuti di disservizio è un episodio che ha interrotto temporaneamente l’accesso degli utenti al servizio. La durata dell’interruzione, seppur breve, ha evidenziato la necessità di migliorare la resilienza e la scalabilità del servizio, come dichiarato da OpenAI.\\n\\nSecondo le fonti, il problema tecnico era legato a una sovraccarica del sistema, causata da un aumento improvviso del traffico di richieste. Questo ha portato a un rallentamento delle prestazioni e, successivamente, alla sospensione temporanea del servizio.\\n\\nOpenAI ha avviato interventi per migliorare la resilienza e la scalabilità del servizio, ma l’incidente evidenzia la complessità di gestire piattaforme basate su algoritmi di intelligenza artificiale.\\n\\nL’incidente di ChatGPT rappresenta un’opportunità per riflettere sulla necessità di trasparenza e responsabilità nelle piattaforme di IA.\\n\\nIn effetti, OpenAI ha già iniziato a lavorare per migliorare la resilienza e la scalabilità di ChatGPT. Ma la vera sfida è quella di garantire che queste piattaforme siano sviluppate e gestite in modo trasparente e responsabile. È solo quando sarà possibile rispondere a queste domande che potremo dire con certezza che le piattaforme di IA sono pronte per essere utilizzate da milioni di utenti.\\n\\nIn sintesi, l’incidente di ChatGPT sottolinea la necessità di trasparenza e responsabilità nello sviluppo delle piattaforme di IA.\\n\\nLa ripresa di ChatGPT è un primo passo, ma gli sviluppatori devono imparare da questo episodio per garantire maggiore affidabilità del servizio.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-03T06:56:04.884100+00:00\",\n  \"dateModified\": \"2026-06-03T06:56:04.884100+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
@@ -52,12 +49,13 @@
       "image_type": "image"
     },
     {
-      "title": "Harvard smonta il sogno dei robot umanoidi: la specializzazione li rende più efficienti",
+      "title": "Harvard smonta il mito dei robot umanoidi: ‘Saranno solo macchine specializzate’",
       "url": "/tecnologia/harvard-smonta-il-sogno-dei-robot-umanoidi-la-spec-658ccc443101cd90",
       "id": "658ccc443101cd90",
       "image_url": "https://media-assets.wired.it/photos/6a14172619bb9195cc26e9e9/16:9/w_1280,c_limit/1029035836",
       "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-06-03T06:56:04.884100+00:00"
 }
