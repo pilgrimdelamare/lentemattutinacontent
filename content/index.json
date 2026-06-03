@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-03T06:00:14.574347+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IRRAGGIUNGIBILE",
+    "lead_preview": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italiana. Gli utenti italiani segnalano impossi",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "eb7eb1ba9239efb4",
     "slug": "eurostat-segnala-32-di-inflazione-eb7eb1ba9239efb4",
     "title": "Eurozona: inflazione al 3,2% a maggio, famiglie sotto scacco",
@@ -1818,21 +1837,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/1bc2126790f51c289a8c578941cf1d78.jpg",
     "occhiello": "CLARA REZZUTI SI SPEGNE A NAPOLI A 98 ANNI",
     "lead_preview": "Napoli, 1 giugno. Clara Rezzuti è morta a Napoli all'età di 98 anni. La scomparsa dell'artista, figura di rilievo nel pa",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Cinquanta cinque minuti di silenzio per l'intelligenza artificiale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-06-01T17:30:05.356369+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato pienamente operativo dopo un'interruzione tecn",
     "tags": [],
     "hero_eligible": true
   },
