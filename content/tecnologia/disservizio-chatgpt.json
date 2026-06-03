@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
+  "title": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
   "titles": [
-    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
-    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
-    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian"
+    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
+    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
+    "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IRRAGGIUNGIBILE",
-  "lead": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italiana. Gli utenti italiani segnalano impossibilità di accesso a tutte le funzionalità, inclusi chatbot e API.",
-  "corpo1": "Il servizio di OpenAI è in stato di emergenza. Il problema si è manifestato alle 14:47 ora italiana, con picchi di latenza superiori a 30 secondi. Le funzionalità compromesse includono generazione di testo, traduzioni e integrazioni tramite API. Gli utenti premium segnalano errori 503 e timeout prolungati. Il team di sviluppo non ha ancora rilasciato comunicati ufficiali. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RESTITUITO",
+  "lead": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
+  "corpo1": "Il malfunzionamento di ChatGPT è stato rilevato alle ore 14:23 UTC. L’interruzione è durata 70 minuti, concludendosi alle 15:33 UTC. Il servizio è ora pienamente operativo, confermando la risoluzione del problema tecnico. Le prestazioni risultano stabili e coerenti con i parametri standard.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-03T06:00:14.574347+00:00",
+  "published_at": "2026-06-03T06:56:04.884100+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
