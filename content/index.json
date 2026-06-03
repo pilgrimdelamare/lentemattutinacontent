@@ -1,5 +1,24 @@
 [
   {
+    "id": "9408b2e1e8558b14",
+    "slug": "ciclismo-van-der-breggen-domina-la-crono-impervia-9408b2e1e8558b14",
+    "title": "Ciclismo: Vollering umiliata in salita, van der Breggen regalpisce la maglia rosa",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-02T18:06:43.837142+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/ee45fbb4ff1c7dd720cc8b4e88d1e56a.jpg",
+    "occhiello": "VAN DER BREGGEN DOMINA LA PROVA A CRONOMETRO",
+    "lead_preview": "Belluno, 2 giugno.",
+    "tags": [
+      "giro donne 2024",
+      "cronometro belluno",
+      "maglia rosa van der breggen"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d107919d725d4103",
     "slug": "italiano-lascia-bologna-per-il-besiktas-in-turchia-d107919d725d4103",
     "title": "Calcio: Italiano avvia contatti con il Besiktas",
@@ -1093,25 +1112,6 @@
       "attacchi aerei kyiv",
       "esplosioni quartieri ucraina",
       "guerra ucraina 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9408b2e1e8558b14",
-    "slug": "ciclismo-van-der-breggen-domina-la-crono-impervia-9408b2e1e8558b14",
-    "title": "Ciclismo: Van der Breggen domina la crono impervia di Belluno, Longo Borghini settima",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-06-02T18:06:43.837142+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/ee45fbb4ff1c7dd720cc8b4e88d1e56a.jpg",
-    "occhiello": "VAN DER BREGGEN DOMINA LA PROVA A CRONOMETRO",
-    "lead_preview": "Belluno, 2 giugno.",
-    "tags": [
-      "ciclismo crono belluno",
-      "van der breggen vittoria",
-      "longo borghini settima"
     ],
     "hero_eligible": true
   },
