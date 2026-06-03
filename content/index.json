@@ -1,5 +1,22 @@
 [
   {
+    "id": "9408b2e1e8558b14",
+    "slug": "ciclismo-van-der-breggen-domina-la-crono-impervia-9408b2e1e8558b14",
+    "title": "Ciclismo: Van der Breggen trionfa a Belluno, Kopecky staccata di 2 minuti",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-02T18:06:43.837142+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/ee45fbb4ff1c7dd720cc8b4e88d1e56a.jpg",
+    "occhiello": "VAN DER BREGGEN DOMINA LA PROVA A CRONOMETRO",
+    "lead_preview": "Belluno, 2 giugno.",
+    "tags": [
+      "giro d'italia donne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "99d1eb1655ea8da9",
     "slug": "addio-a-fiammetta-scimonelli-volto-storico-dello-s-99d1eb1655ea8da9",
     "title": "Addio a Fiammetta Scimonelli, volto storico dello Sport Italiano",
@@ -949,25 +966,6 @@
     "tags": [
       "pattinaggio lollobrigida",
       "anniversario della repubblica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9408b2e1e8558b14",
-    "slug": "ciclismo-van-der-breggen-domina-la-crono-impervia-9408b2e1e8558b14",
-    "title": "Ciclismo: Vollering umiliata in salita, van der Breggen regalpisce la maglia rosa",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-06-02T18:06:43.837142+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/ee45fbb4ff1c7dd720cc8b4e88d1e56a.jpg",
-    "occhiello": "VAN DER BREGGEN DOMINA LA PROVA A CRONOMETRO",
-    "lead_preview": "Belluno, 2 giugno.",
-    "tags": [
-      "giro donne 2024",
-      "cronometro belluno",
-      "maglia rosa van der breggen"
     ],
     "hero_eligible": true
   },
