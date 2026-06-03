@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 3 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-03T05:45:41.505727+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b3f867abcd076a8e133097d90cf516be207a5174/skytg24/it/cronaca/2026/06/03/prime-pagine-quotidiani-oggi-3-giugno/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE MERCOLEDÌ 3 GIUGNO 2026",
+    "lead_preview": "I principali quotidiani italiani convergono oggi su conflitti internazionali, cronaca nera e feste nazionali. La Repubbl",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4350e5bf413d4d94",
     "slug": "crescita-dello-04-e-inflazione-al-3-nel-2026-4350e5bf413d4d94",
     "title": "L'Italia in stallo: PIL allo 0,4%, inflazione al 3%",
@@ -3114,25 +3133,6 @@
     "tags": [
       "patrimoniale europea",
       "schlein vs tajani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 1 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-01T05:45:15.594009+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/85694966419bed79a6b9cc7b725eea160ddb7bf1/skytg24/it/cronaca/2026/06/01/prime-pagine-quotidiani-oggi-1-giugno/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE, LUNEDÌ 1 GIUGNO 2026",
-    "lead_preview": "I giornali italiani oggi convergono sull'avanzata di Israele in Libano e sulla proposta di tregua di Trump all'Iran. La ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
