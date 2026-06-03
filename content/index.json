@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-03T06:56:04.884100+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RESTITUITO",
+    "lead_preview": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "150d00b2f4411e95",
     "slug": "250-studenti-si-sfidano-a-roma-per-il-titolo-di-mi-150d00b2f4411e95",
     "title": "250 Studenti si sfidano a Roma per il titolo di migliore mini-impresa",
@@ -147,25 +166,6 @@
       "trasporti caos"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-03T06:00:14.574347+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IRRAGGIUNGIBILE",
-    "lead_preview": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italiana. Gli utenti italiani segnalano impossi",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "eb7eb1ba9239efb4",
