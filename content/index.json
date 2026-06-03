@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna online: blackout di 70 minuti risolto in meno di un ora",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-06-03T06:56:04.884100+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RESTITUITO",
+    "lead_preview": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
+    "tags": [
+      "chatgpt blackout",
+      "servizio chatgpt",
+      "guasto tecnico ai"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e86e2c92e312cf43",
     "slug": "basket-wembanyama-sfide-brunson-nella-finale-di-nb-e86e2c92e312cf43",
     "title": "Basket: Wembanyama sfide Brunson nella finale di NBA",
@@ -1024,25 +1043,6 @@
     },
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L215xH312/71f6zzun86l__sl1449_-bb76f.jpg?1775711156",
     "image_type": "url",
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-03T06:56:04.884100+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RESTITUITO",
-    "lead_preview": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
     "hero_eligible": false
   },
   {
