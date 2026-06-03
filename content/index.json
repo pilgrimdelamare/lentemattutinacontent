@@ -1,5 +1,24 @@
 [
   {
+    "id": "69ba394437730fd9",
+    "slug": "meloni-bruxelles-ignora-la-lettera-69ba394437730fd9",
+    "title": "Meloni scrive a Bruxelles, ma la UE la ignora: nessuna risposta formale",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-02T14:17:17.622670+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/fc26f883a2959e76d0464321137e3870.jpg",
+    "occhiello": "UE, LETTERA DI MELONI SENZA RISPOSTA SCRITTA",
+    "lead_preview": "Bruxelles, 2 giugno. La Commissione Europea non prevede una risposta scritta formale alla lettera inviata dalla Presiden",
+    "tags": [
+      "lettera meloni",
+      "ue italia",
+      "pacchetto semes"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9c6d0b3b5d8bed93",
     "slug": "webworm-spia-italia-belgio-serbia-e-polonia-hacker-9c6d0b3b5d8bed93",
     "title": "Webworm colpisce Italia e Belgio: dati rubati con Discord, hacker cinesi in azione",
@@ -1424,25 +1443,6 @@
     "tags": [
       "geolier nuovo singolo",
       "autorità cani randagi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "69ba394437730fd9",
-    "slug": "meloni-bruxelles-ignora-la-lettera-69ba394437730fd9",
-    "title": "Meloni, Bruxelles ignora la lettera",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-02T14:17:17.622670+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/17/fc26f883a2959e76d0464321137e3870.jpg",
-    "occhiello": "UE, LETTERA DI MELONI SENZA RISPOSTA SCRITTA",
-    "lead_preview": "Bruxelles, 2 giugno. La Commissione Europea non prevede una risposta scritta formale alla lettera inviata dalla Presiden",
-    "tags": [
-      "giorgia meloni",
-      "commissione europea",
-      "semestre europeo"
     ],
     "hero_eligible": true
   },
