@@ -1,5 +1,24 @@
 [
   {
+    "id": "deaf78e4d7099595",
+    "slug": "wall-street-in-calo-dow-jones--012-e-nasdaq--021-deaf78e4d7099595",
+    "title": "Wall Street arranca: Dow Jones in calo dello 0,12% a giugno, peggio di aprile",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-02T13:40:32.617446+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/84d34e15611d46033f5de5912968855a.jpg",
+    "occhiello": "WALL STREET IN CALO, S&P 500 -0,13%",
+    "lead_preview": "New York, 2 giugno. Wall Street apre in calo con il Dow Jones in ribasso dello 0,12% e il Nasdaq dello 0,21%. L'S&P 500 ",
+    "tags": [
+      "wall street giugno",
+      "mercati finanziari usa",
+      "dow jones calo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8e9763f1ad339eb1",
     "slug": "stefano-cobolli-migliora-il-servizio-di-flavio-8e9763f1ad339eb1",
     "title": "Tennis: Cobolli padre ci spiega come Flavio trasforma disponibilità in Risultati",
@@ -1983,23 +2002,6 @@
     "lead_preview": "Parigi, 1 giugno 2026. Matteo Berrettini ha battuto l'argentino Francisco Cerundolo agli ottavi di finale del Roland Gar",
     "tags": [
       "berrettini roland garros"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "deaf78e4d7099595",
-    "slug": "wall-street-in-calo-dow-jones--012-e-nasdaq--021-deaf78e4d7099595",
-    "title": "Wall Street in calo, Dow Jones -0,12% e Nasdaq -0,21%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-02T13:40:32.617446+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/84d34e15611d46033f5de5912968855a.jpg",
-    "occhiello": "WALL STREET IN CALO, S&P 500 -0,13%",
-    "lead_preview": "New York, 2 giugno. Wall Street apre in calo con il Dow Jones in ribasso dello 0,12% e il Nasdaq dello 0,21%. L'S&P 500 ",
-    "tags": [
-      "wall street in calo"
     ],
     "hero_eligible": true
   },
