@@ -1,26 +1,29 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "Cinquanta cinque minuti di silenzio per l'intelligenza artificiale",
+  "title": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
   "titles": [
-    "CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE",
-    "CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE",
-    "CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE"
+    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
+    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
+    "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE",
-  "lead": "Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato pienamente operativo dopo un'interruzione tecnica durata cinquantacinque minuti. Il blocco improvviso ha impedito agli utenti di accedere alla piattaforma, rendendo impossibile l'interazione con il modello linguistico sviluppato da OpenAI. Il disservizio, registrato nel pomeriggio del primo giugno, ha colpito su scala globale milioni di utilizzatori che dipendono dal software per la gestione dei propri flussi di lavoro, la programmazione informatica e la generazione di testi complessi.",
-  "corpo1": "Il ripristino dei sistemi di ChatGPT è avvenuto nel tardo pomeriggio del 1 giugno, dopo che il software era rimasto inaccessibile per cinquantacinque minuti a causa di un guasto tecnico ancora in fase di analisi da parte dei responsabili di OpenAI. L'interruzione ha causato la sospensione immediata di tutte le sessioni attive, impedendo agli utenti di inviare nuovi prompt o di consultare lo storico delle conversazioni precedenti. Nonostante il ritorno alla normalità, l'azienda non ha ancora pubblicato un rapporto tecnico dettagliato che chiarisca se il malfunzionamento sia stato causato da un sovraccarico dei server che ospitano il modello o da un errore nel rilascio di un aggiornamento software. Il blocco di ChatGPT evidenzia la vulnerabilità del mercato italiano, sempre più dipendente da infrastrutture di intelligenza artificiale centralizzate. Secondo i dati pubblicati da la Repubblica il 1 giugno, gli investimenti in Startup nel nostro Paese hanno raggiunto i 219,47 milioni di euro nel solo mese di maggio, con un totale di 579,51 milioni di euro nei primi cinque mesi del 2026. Queste cifre superano sensibilmente i 397,24 milioni di euro registrati nello stesso periodo del 2025 e i 331,14 milioni del 2024. Tra le operazioni finanziarie più rilevanti dell'ultimo mese, il portale Weroad ha raccolto 58 milioni di dollari, una cifra che riflette la velocità con cui il capitale sta confluendo verso realtà digitali che integrano, in misura variabile, soluzioni di intelligenza artificiale all'interno dei propri processi di business. La disponibilità continua di questi strumenti è diventata, di fatto, una variabile economica di primo piano per le imprese che hanno ristrutturato la propria operatività attorno a tali infrastrutture.",
-  "corpo2": "L'interruzione di ChatGPT conferma la fragilità strutturale dei modelli linguistici basati su data center centralizzati. Questi software non risiedono sul dispositivo dell'utente, ma operano all'interno di data center centralizzati che richiedono una manutenzione costante e una potenza di calcolo che solo pochi attori globali possono garantire. Quando un sistema di tale portata si arresta, la delega di mansioni cognitive che gli utenti hanno trasferito alla macchina si traduce istantaneamente in un blocco delle attività lavorative. La fiducia riposta in queste architetture ignora spesso la loro natura di servizi commerciali soggetti a una disponibilità non garantita contrattualmente per la totalità delle utenze. Mentre il settore delle Startup italiane celebra un incremento di quasi 200 milioni di euro rispetto all'anno precedente, il rischio di concentrazione tecnologica aumenta proporzionalmente. Affidare la continuità operativa di una filiera produttiva a una singola piattaforma proprietaria significa accettare che il tempo di inattività di un'infrastruttura situata a migliaia di chilometri di distanza diventi un costo operativo diretto per le aziende locali. Nel momento in cui OpenAI ripristina l'accesso, il dato di fatto rimane che l'infrastruttura su cui poggia l'innovazione digitale del 2026 è un sistema fragile che, per cinquantacinque minuti, ha sospeso la capacità di calcolo di milioni di persone. La velocità di crescita degli investimenti finanziari nel settore non è accompagnata da una proporzionale diversificazione delle infrastrutture di calcolo, rendendo l'intero ecosistema digitale dipendente dalla stabilità di pochi server centralizzati.",
+  "occhiello": "CHATGPT IRRAGGIUNGIBILE",
+  "lead": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italiana. Gli utenti italiani segnalano impossibilità di accesso a tutte le funzionalità, inclusi chatbot e API.",
+  "corpo1": "Il servizio di OpenAI è in stato di emergenza. Il problema si è manifestato alle 14:47 ora italiana, con picchi di latenza superiori a 30 secondi. Le funzionalità compromesse includono generazione di testo, traduzioni e integrazioni tramite API. Gli utenti premium segnalano errori 503 e timeout prolungati. Il team di sviluppo non ha ancora rilasciato comunicati ufficiali. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-01T17:30:05.356369+00:00",
+  "published_at": "2026-06-03T06:00:14.574347+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -28,19 +31,12 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"CINQUANTA CINQUE MINUTI DI SILENZIO PER L'INTELLIGENZA ARTIFICIALE\",\n  \"description\": \"Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato pienamente operativo dopo un'interruzione tecnica durata cinquantacinque minuti. Il blocco improvviso ha impedito agli utenti di accedere alla piattaforma, rendendo impossibile l'interazione con il modello linguistico sviluppa\",\n  \"articleBody\": \"Roma, 1 giugno. Il servizio di intelligenza artificiale ChatGPT è tornato pienamente operativo dopo un'interruzione tecnica durata cinquantacinque minuti. Il blocco improvviso ha impedito agli utenti di accedere alla piattaforma, rendendo impossibile l'interazione con il modello linguistico sviluppato da OpenAI. Il disservizio, registrato nel pomeriggio del primo giugno, ha colpito su scala globale milioni di utilizzatori che dipendono dal software per la gestione dei propri flussi di lavoro, la programmazione informatica e la generazione di testi complessi. Il ripristino dei sistemi di ChatGPT è avvenuto nel tardo pomeriggio del 1 giugno, dopo che il software era rimasto inaccessibile per cinquantacinque minuti a causa di un guasto tecnico ancora in fase di analisi da parte dei responsabili di OpenAI. L'interruzione ha causato la sospensione immediata di tutte le sessioni attive, impedendo agli utenti di inviare nuovi prompt o di consultare lo storico delle conversazioni precedenti. Nonostante il ritorno alla normalità, l'azienda non ha ancora pubblicato un rapporto tecnico dettagliato che chiarisca se il malfunzionamento sia stato causato da un sovraccarico dei server che ospitano il modello o da un errore nel rilascio di un aggiornamento software. Il blocco di ChatGPT evidenzia la vulnerabilità del mercato italiano, sempre più dipendente da infrastrutture di intelligenza artificiale centralizzate. Secondo i dati pubblicati da la Repubblica il 1 giugno, gli investimenti in Startup nel nostro Paese hanno raggiunto i 219,47 milioni di euro nel solo mese di maggio, con un totale di 579,51 milioni di euro nei primi cinque mesi del 2026. Queste cifre superano sensibilmente i 397,24 milioni di euro registrati nello stesso periodo del 2025 e i 331,14 milioni del 2024. Tra le operazioni finanziarie più rilevanti dell'ultimo mese, il portale Weroad ha raccolto 58 milioni di dollari, una cifra che riflette la velocità con cui il capitale sta confluendo verso realtà digitali che integrano, in misura variabile, soluzioni di intelligenza artificiale all'interno dei propri processi di business. La disponibilità continua di questi strumenti è diventata, di fatto, una variabile economica di primo piano per le imprese che hanno ristrutturato la propria operatività attorno a tali infrastrutture. L'interruzione di ChatGPT conferma la fragilità strutturale dei modelli linguistici basati su data center centralizzati. Questi software non risiedono sul dispositivo dell'utente, ma operano all'interno di data center centralizzati che richiedono una manutenzione costante e una potenza di calcolo che solo pochi attori globali possono garantire. Quando un sistema di tale portata si arresta, la delega di mansioni cognitive che gli utenti hanno trasferito alla macchina si traduce istantaneamente in un blocco delle attività lavorative. La fiducia riposta in queste architetture ignora spesso la loro natura di servizi commerciali soggetti a una disponibilità non garantita contrattualmente per la totalità delle utenze. Mentre il settore delle Startup italiane celebra un incremento di quasi 200 milioni di euro rispetto all'anno precedente, il rischio di concentrazione tecnologica aumenta proporzionalmente. Affidare la continuità operativa di una filiera produttiva a una singola piattaforma proprietaria significa accettare che il tempo di inattività di un'infrastruttura situata a migliaia di chilometri di distanza diventi un costo operativo diretto per le aziende locali. Nel momento in cui OpenAI ripristina l'accesso, il dato di fatto rimane che l'infrastruttura su cui poggia l'innovazione digitale del 2026 è un sistema fragile che, per cinquantacinque minuti, ha sospeso la capacità di calcolo di milioni di persone. La velocità di crescita degli investimenti finanziari nel settore non è accompagnata da una proporzionale diversificazione delle infrastrutture di calcolo, rendendo l'intero ecosistema digitale dipendente dalla stabilità di pochi server centralizzati.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-01T17:30:05.356369+00:00\",\n  \"dateModified\": \"2026-06-01T17:30:05.356369+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
-    {
-      "title": "L'integrazione dell'intelligenza artificiale negli uffici espone i dati aziendali",
-      "url": "/tecnologia/addio-al-lavoro-manuale-lia-rivoluziona-lufficio-m-99c5974820f9bc00",
-      "id": "99c5974820f9bc00",
-      "image_url": "https://media-assets.wired.it/photos/6a18259fd5b8cd74abcdad06/16:9/w_1280,c_limit/HowToBeANativeWithAI_v2.jpg",
-      "image_type": "image"
-    },
     {
       "title": "Satispay è tornato online dopo 23 minuti di interruzione.",
       "url": "/tecnologia/disservizio-satispay",
@@ -54,8 +50,14 @@
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
+    },
+    {
+      "title": "Harvard smonta il sogno dei robot umanoidi: la specializzazione li rende più efficienti",
+      "url": "/tecnologia/harvard-smonta-il-sogno-dei-robot-umanoidi-la-spec-658ccc443101cd90",
+      "id": "658ccc443101cd90",
+      "image_url": "https://media-assets.wired.it/photos/6a14172619bb9195cc26e9e9/16:9/w_1280,c_limit/1029035836",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-06-01T17:30:05.356369+00:00"
+  "hero_eligible": false
 }
