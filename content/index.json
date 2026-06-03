@@ -1,5 +1,24 @@
 [
   {
+    "id": "b5f8029a79d3595a",
+    "slug": "londra-ferma-per-lo-sciopero-dei-macchinisti-b5f8029a79d3595a",
+    "title": "Sciopero travolge Londra: metropolitana paralizzata, 14 milioni bloccati in strada",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-02T09:30:28.695276+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/5311f48acb0f49ccea690f7c43a02745.jpg",
+    "occhiello": "TRASPORTI A LONDRA COMPLETAMENTE BLOCCATI PER LO SCIOPERO",
+    "lead_preview": "Londra, 2 giugno 2026. La metropolitana della capitale britannica subisce una paralisi totale a causa di uno sciopero de",
+    "tags": [
+      "sciopero londra",
+      "metropolitana bloccata",
+      "trasporti caos"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT non risponde da 15 minuti. Il downtime è iniziato alle 14:47 ora italian",
@@ -852,25 +871,6 @@
       "berrettini roland garros",
       "quartifinale tennis",
       "tennis italiano 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b5f8029a79d3595a",
-    "slug": "londra-ferma-per-lo-sciopero-dei-macchinisti-b5f8029a79d3595a",
-    "title": "Sciopero blocca la metro di Londra: 14 milioni di pendolari bloccati",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-02T09:30:28.695276+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/23/5311f48acb0f49ccea690f7c43a02745.jpg",
-    "occhiello": "TRASPORTI A LONDRA COMPLETAMENTE BLOCCATI PER LO SCIOPERO",
-    "lead_preview": "Londra, 2 giugno 2026. La metropolitana della capitale britannica subisce una paralisi totale a causa di uno sciopero de",
-    "tags": [
-      "sciopero metro londra",
-      "trasporti londra 2026",
-      "caos pendolari uk"
     ],
     "hero_eligible": true
   },
