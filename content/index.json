@@ -1,5 +1,24 @@
 [
   {
+    "id": "b955be6d204989d2",
+    "slug": "milano-in-rialzo-borsa-14-con-wall-street-b955be6d204989d2",
+    "title": "Borsa Milano vola +1,4% in rampa di lancio: Wall Street traina tutto",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-02T14:33:09.575506+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg",
+    "occhiello": "BORSA MILANO IN RIALZO",
+    "lead_preview": "Milano, 2 giugno. La Borsa di Milano ha chiuso con un aumento dell'1,4% dopo l'avvio positivo di Wall Street.",
+    "tags": [
+      "borsa milano +1,4%",
+      "wall street traina",
+      "ripresa mercati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f3ba34f8e4c5c5c",
     "slug": "calcio-valeri-resta-in-grecia-rinnova-con-la-hff-4f3ba34f8e4c5c5c",
     "title": "Calcio: Paolo Valeri riconfermato Var Project Leader per due anni",
@@ -1695,23 +1714,6 @@
       "manovra 2026",
       "debito pubblico",
       "fabbisogno statale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b955be6d204989d2",
-    "slug": "milano-in-rialzo-borsa-14-con-wall-street-b955be6d204989d2",
-    "title": "Milano in rialzo: Borsa +1,4% con Wall Street",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-02T14:33:09.575506+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg",
-    "occhiello": "BORSA MILANO IN RIALZO",
-    "lead_preview": "Milano, 2 giugno. La Borsa di Milano ha chiuso con un aumento dell'1,4% dopo l'avvio positivo di Wall Street.",
-    "tags": [
-      "borsa milano"
     ],
     "hero_eligible": true
   },
