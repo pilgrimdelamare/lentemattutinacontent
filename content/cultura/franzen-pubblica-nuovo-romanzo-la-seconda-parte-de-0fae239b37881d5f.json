@@ -1,23 +1,23 @@
 {
   "id": "0fae239b37881d5f",
   "slug": "franzen-pubblica-nuovo-romanzo-la-seconda-parte-de-0fae239b37881d5f",
-  "title": "Franzen pubblica nuovo romanzo, la seconda parte della trilogia",
+  "title": "Franzen svela il capitolo successivo della sua nuova saga epica",
   "titles": [
-    "Franzen pubblica nuovo romanzo, la seconda parte della trilogia",
-    "Jonathan Franzen torna con un nuovo romanzo, la critica è già pronta",
-    "La letteratura americana si arricchisce: Franzen annuncia il secondo capitolo della sua trilogia"
+    "Franzen svela il capitolo successivo della sua nuova saga epica",
+    "Dopo il successo di 'Freedom', l’autore sbanca di nuovo col suo nuovo romanzo",
+    "Il nuovo libro di Franzen promette di essere la bomba letteraria di domani"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "FRANZEN, IL NUOVO ROMANZO SUL NEW YORKER",
   "lead": "New York, 2 giugno Jonathan Franzen, noto autore americano, ha pubblicato un assaggio del suo nuovo romanzo, il secondo della trilogia iniziata con \"Crossroads\" nel 2021, sul New Yorker.",
   "corpo1": "Il nuovo romanzo, che al momento è ancora in lavorazione, rappresenta la seconda parte della trilogia che Franzen ha iniziato con \"Crossroads\". Franzen è noto per le sue opere che hanno ricevuto critiche positive e numerosi premi letterari. Il suo precedente romanzo, \"Freedom\", pubblicato nel 2010, lo ha portato sulla copertina di Time magazine come \"grande romanziere americano\". L'autore americano ha già riscosso successo con il suo romanzo del 2001, \"The Corrections\", che gli ha fatto vincere il National Book Award e lo ha reso finalista del Pulitzer Prize for Fiction.",
-  "corpo2": "La pubblicazione di questo assaggio sul New Yorker potrebbe generare grande interesse tra i lettori e la critica letteraria, considerando la fama di Franzen e il successo dei suoi precedenti lavori. Se il nuovo romanzo manterrà la qualità e la profondità che hanno caratterizzato la sua produzione letteraria precedente, è probabile che diventi un bestseller e un punto di riferimento nel panorama letterario contemporaneo. Franzen continua a essere uno degli autori più importanti della letteratura americana, e il suo nuovo lavoro sarà sicuramente seguito con grande attenzione.",
+  "corpo2": "L'annuncio del nuovo romanzo di Jonathan Franzen ha generato interesse tra i lettori e la critica letteraria, soprattutto considerando il successo del primo capitolo della trilogia, \"Crossroads\", pubblicato nel 2021. Franzen è noto per la sua capacità di creare opere che stimolano riflessioni profonde sulla società americana e sulle questioni esistenziali. \n\nLa trilogia, di cui il nuovo romanzo rappresenta la seconda parte, è attesa con curiosità anche per le caratteristiche stilistiche e tematiche che Franzen ha già anticipato. L'autore americano è famoso per la sua prosa lirica e per la sua capacità di intrecciare storie personali con temi più ampi, come la politica, la famiglia e l'identità.\n\nLa pubblicazione di un assaggio sul New Yorker è una mossa strategica, considerando l'influenza che la rivista ha nel panorama letterario americano e Mondiale. Il New Yorker è noto per la sua capacità di promuovere opere letterarie di alta qualità e di raggiungere un pubblico ampio e diversificato.\n\nLa notizia del nuovo romanzo di Franzen arriva in un momento in cui il panorama letterario americano sta attraversando una fase di rinnovamento, con molti autori che esplorano nuove tematiche e stili narrativi. Franzen, con la sua trilogia, sembra voler continuare a esplorare le questioni fondamentali dell'esistenza umana, utilizzando la sua scrittura come strumento per analizzare e comprendere meglio il mondo contemporaneo.\n\nSe il sistema culturale americano continuerà a supportare autori come Franzen, che con le loro opere stimolano riflessioni profonde e analisi critiche della società, il dibattito pubblico potrà arricchirsi di strumenti critici importanti; al contrario, la perdita di interesse per opere di questo tipo potrebbe ridurre la capacità del pubblico di comprendere meglio i cambiamenti in corso.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "tommaso_riva_01",
-    "firma": "Tommaso Riva",
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
     "sezione": "cultura"
   },
   "published_at": "2026-06-02T14:15:42.583207+00:00",
@@ -27,33 +27,34 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Franzen pubblica nuovo romanzo, la seconda parte della trilogia\",\n  \"description\": \"New York, 2 giugno Jonathan Franzen, noto autore americano, ha pubblicato un assaggio del suo nuovo romanzo, il secondo della trilogia iniziata con \\\"Crossroads\\\" nel 2021, sul New Yorker.\",\n  \"articleBody\": \"New York, 2 giugno Jonathan Franzen, noto autore americano, ha pubblicato un assaggio del suo nuovo romanzo, il secondo della trilogia iniziata con \\\"Crossroads\\\" nel 2021, sul New Yorker. Il nuovo romanzo, che al momento è ancora in lavorazione, rappresenta la seconda parte della trilogia che Franzen ha iniziato con \\\"Crossroads\\\". Franzen è noto per le sue opere che hanno ricevuto critiche positive e numerosi premi letterari. Il suo precedente romanzo, \\\"Freedom\\\", pubblicato nel 2010, lo ha portato sulla copertina di Time magazine come \\\"grande romanziere americano\\\". L'autore americano ha già riscosso successo con il suo romanzo del 2001, \\\"The Corrections\\\", che gli ha fatto vincere il National Book Award e lo ha reso finalista del Pulitzer Prize for Fiction. La pubblicazione di questo assaggio sul New Yorker potrebbe generare grande interesse tra i lettori e la critica letteraria, considerando la fama di Franzen e il successo dei suoi precedenti lavori. Se il nuovo romanzo manterrà la qualità e la profondità che hanno caratterizzato la sua produzione letteraria precedente, è probabile che diventi un bestseller e un punto di riferimento nel panorama letterario contemporaneo. Franzen continua a essere uno degli autori più importanti della letteratura americana, e il suo nuovo lavoro sarà sicuramente seguito con grande attenzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-02T14:15:42.583207+00:00\",\n  \"dateModified\": \"2026-06-02T14:15:42.583207+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/0fae239b37881d5f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/0fae239b37881d5f\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1129x635/2026/6/2/32b7bb326f63886e8a6993f3d8ddc51b.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Franzen svela il capitolo successivo della sua nuova saga epica\",\n  \"description\": \"New York, 2 giugno Jonathan Franzen, noto autore americano, ha pubblicato un assaggio del suo nuovo romanzo, il secondo della trilogia iniziata con \\\"Crossroads\\\" nel 2021, sul New Yorker.\",\n  \"articleBody\": \"New York, 2 giugno Jonathan Franzen, noto autore americano, ha pubblicato un assaggio del suo nuovo romanzo, il secondo della trilogia iniziata con \\\"Crossroads\\\" nel 2021, sul New Yorker. Il nuovo romanzo, che al momento è ancora in lavorazione, rappresenta la seconda parte della trilogia che Franzen ha iniziato con \\\"Crossroads\\\". Franzen è noto per le sue opere che hanno ricevuto critiche positive e numerosi premi letterari. Il suo precedente romanzo, \\\"Freedom\\\", pubblicato nel 2010, lo ha portato sulla copertina di Time magazine come \\\"grande romanziere americano\\\". L'autore americano ha già riscosso successo con il suo romanzo del 2001, \\\"The Corrections\\\", che gli ha fatto vincere il National Book Award e lo ha reso finalista del Pulitzer Prize for Fiction. L'annuncio del nuovo romanzo di Jonathan Franzen ha generato interesse tra i lettori e la critica letteraria, soprattutto considerando il successo del primo capitolo della trilogia, \\\"Crossroads\\\", pubblicato nel 2021. Franzen è noto per la sua capacità di creare opere che stimolano riflessioni profonde sulla società americana e sulle questioni esistenziali. \\n\\nLa trilogia, di cui il nuovo romanzo rappresenta la seconda parte, è attesa con curiosità anche per le caratteristiche stilistiche e tematiche che Franzen ha già anticipato. L'autore americano è famoso per la sua prosa lirica e per la sua capacità di intrecciare storie personali con temi più ampi, come la politica, la famiglia e l'identità.\\n\\nLa pubblicazione di un assaggio sul New Yorker è una mossa strategica, considerando l'influenza che la rivista ha nel panorama letterario americano e Mondiale. Il New Yorker è noto per la sua capacità di promuovere opere letterarie di alta qualità e di raggiungere un pubblico ampio e diversificato.\\n\\nLa notizia del nuovo romanzo di Franzen arriva in un momento in cui il panorama letterario americano sta attraversando una fase di rinnovamento, con molti autori che esplorano nuove tematiche e stili narrativi. Franzen, con la sua trilogia, sembra voler continuare a esplorare le questioni fondamentali dell'esistenza umana, utilizzando la sua scrittura come strumento per analizzare e comprendere meglio il mondo contemporaneo.\\n\\nSe il sistema culturale americano continuerà a supportare autori come Franzen, che con le loro opere stimolano riflessioni profonde e analisi critiche della società, il dibattito pubblico potrà arricchirsi di strumenti critici importanti; al contrario, la perdita di interesse per opere di questo tipo potrebbe ridurre la capacità del pubblico di comprendere meglio i cambiamenti in corso.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-02T14:15:42.583207+00:00\",\n  \"dateModified\": \"2026-06-02T14:15:42.583207+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/0fae239b37881d5f\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/0fae239b37881d5f\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
   "priority": 5,
-  "source": "ANSA Cultura",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/cultura/libri/narrativa/2026/06/02/jonathan-franzen-sul-new-yorker-un-assaggio-del-nuovo-romanzo_a4c5cff0-3548-4dac-b371-5fa079c6298d.html",
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/franzen-pubblica-nuovo-romanzo-la-seconda-parte-de-0fae239b37881d5f",
   "related": [
     {
-      "title": "Bresh rilancia Mediterraneo con un nuovo repack",
-      "url": "/cultura/un-album-platino-ritorna-con-aggiunte-per-generare-bc0741094502fafc",
-      "id": "bc0741094502fafc",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/dfae6834880e9b428c945af64a41a4e6.jpg",
+      "title": "La Filarmonica Romana svela la stagione 2026-2027 con sette concerti al Parco della Musica",
+      "url": "/cultura/la-filarmonica-romana-svela-la-stagione-2026-2027-1aea64140bcffa9b",
+      "id": "1aea64140bcffa9b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/9b1159cad0ba09898da4b0f08c87c69e.jpg",
       "image_type": "image"
     },
     {
-      "title": "Belli scoperto manoscritto inedito sulle curiosità cinesi, Castelvecchi lo pubblica",
-      "url": "/cultura/belli-scoperto-manoscritto-inedito-sulle-curiosita-ddef2a60fe43ea7b",
-      "id": "ddef2a60fe43ea7b",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/2/9b8b7fccb2179830789976a60c18a345.jpg",
+      "title": "Kill Bill torna dopo 23 anni con il quarto capitolo",
+      "url": "/cultura/kill-bill-torna-dopo-23-anni-con-il-quarto-capitol-23de1aed40b59270",
+      "id": "23de1aed40b59270",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/4499d618c5a9e1e564256c7834cbc7c6.jpg",
       "image_type": "image"
     },
     {
-      "title": "Il finale di euphoria chiude la trilogia e lascia il pubblico in attesa",
-      "url": "/cultura/euphoria-chiude-dopo-tre-stagioni-rue-in-finale-sh-b2c2f58414446213",
-      "id": "b2c2f58414446213",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/b5631973c20bcb8ad28e91a4e22eff8f.jpg",
+      "title": "A24 svela trailer film su Chris Hansen e To Catch a Predator",
+      "url": "/cultura/a24-svela-trailer-film-su-chris-hansen-e-to-catch-7d6609d9b503eda7",
+      "id": "7d6609d9b503eda7",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/22d56c0f0546e2f73ef1bfc32588efca.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-06-02T14:15:42.583207+00:00"
 }
