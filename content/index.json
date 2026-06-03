@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260603",
+    "slug": "libro-del-giorno-in-inghilterra-con-agatha-christiedi-m-20260603",
+    "title": "Il libro del giorno: «In Inghilterra con Agatha Christiedi Melania Guarda Ceccoli»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un libro che ripercorre la vita della giallista più famosa di tutti i tempi attraverso i luoghi che l'hanno ispirata",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-03T07:00:43.298445+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L215xH312/71f6zzun86l__sl1449_-bb76f.jpg?1775711156",
+      "alt": "Copertina: In Inghilterra con Agatha Christiedi Melania Guarda Ceccoli",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L215xH312/71f6zzun86l__sl1449_-bb76f.jpg?1775711156",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico",
@@ -8894,25 +8913,6 @@
     "occhiello": "TAJANI: \"PRIORITÀ BALCANI, NON UCRAINA\"",
     "lead_preview": "Bruxelles, 27 maggio. Il Ministro degli Esteri italiano Antonio Tajani ha chiarito in una dichiarazione ufficiale che la",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c54bc4907304b77c",
-    "slug": "inpost-lancia-lapp-che-apre-i-locker-con-lauto-bas-c54bc4907304b77c",
-    "title": "InPost lancia l’app che apre i locker dal volante: basta uno smartphone o il display dell’Auto",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-27T13:33:25.828342+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/05/27/151746410-ece1f385-c489-4231-84f0-4315592a8bd9.jpg",
-    "occhiello": "NUOVO SERVIZIO INPOST: IL LOCKER SI APRE DA REMOTO",
-    "lead_preview": "Roma, 27 maggio. InPost Italia ha lanciato oggi una nuova applicazione mobile che consente di aprire i locker per la con",
-    "tags": [
-      "inpost app",
-      "consegne smart",
-      "locker auto"
-    ],
     "hero_eligible": true
   }
 ]
