@@ -1,5 +1,23 @@
 [
   {
+    "id": "6cfb855cdcd65818",
+    "slug": "sei-morti-nel-sud-del-libano-dopo-il-raid-6cfb855cdcd65818",
+    "title": "Israele bombarda una casa a Kfar Dounine: 6 civili sepolti sotto le macerie",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-02T09:59:57.158816+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/2420d23d28cbc03159107cb1a20ab73e.jpg",
+    "occhiello": "SEI MORTI A KFAR DOUNINE SOTTO GLI ORDINI DI EVACUAZIONE",
+    "lead_preview": "Beirut, 2 giugno 2026. La Protezione civile libanese ha recuperato i corpi di sei Persone dalle macerie di un'abitazione",
+    "tags": [
+      "guerra libano",
+      "attacco kfar dounine"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77d2f51f9af79518",
     "slug": "cinquemila-euro-di-bonus-per-contrastare-la-fuga-d-77d2f51f9af79518",
     "title": "Aitho offre 5mila euro per chi torna a lavorare in Sicilia nell'AI",
@@ -1013,25 +1031,6 @@
     "tags": [
       "multe comuni",
       "crisi comuni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6cfb855cdcd65818",
-    "slug": "sei-morti-nel-sud-del-libano-dopo-il-raid-6cfb855cdcd65818",
-    "title": "Bombardamento israeliano in libano: 6 morti tra le macerie a kfar dounine",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-02T09:59:57.158816+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/1/2420d23d28cbc03159107cb1a20ab73e.jpg",
-    "occhiello": "SEI MORTI A KFAR DOUNINE SOTTO GLI ORDINI DI EVACUAZIONE",
-    "lead_preview": "Beirut, 2 giugno 2026. La Protezione civile libanese ha recuperato i corpi di sei Persone dalle macerie di un'abitazione",
-    "tags": [
-      "bombardamenti israele libano",
-      "morti kfar dounine",
-      "attacco 2 giugno 2026"
     ],
     "hero_eligible": true
   },
