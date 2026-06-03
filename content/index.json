@@ -1,5 +1,24 @@
 [
   {
+    "id": "bcc2e84c224706d4",
+    "slug": "f1-patrese-stupisce-tutti-e-vince-con-la-brabham-r-bcc2e84c224706d4",
+    "title": "F1: Patrese stupisce tutti e vince con la Brabham risparmiando benzina",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-03T06:48:28.760431+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/4cf8f5b55a1efc4bea7c942502b4625fa47ebcd0/skysport/it/motori/formula-1/2026/06/01/f1-gp-monaco-1982-riccardo-patrese-brabham-storia/patrese_monaco_getty_copertina.jpg",
+    "occhiello": "PATRESE FEDELE A SE STESSO: 44 GIRI SENZA ERRORI",
+    "lead_preview": "Monaco, 3 giugno",
+    "tags": [
+      "f1 monaco 1982",
+      "vittoria patrese",
+      "brabham benzina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ad02f6d45fa46109",
     "slug": "leuro-raggiunge-il-20-nellutilizzo-globale-delle-v-ad02f6d45fa46109",
     "title": "L'euro sfonda il 20% nell'era valutaria: ora è seconda moneta Mondiale",
@@ -8894,23 +8913,6 @@
       "olimpiadi milano",
       "pippo ricci capitano",
       "sky inclusion days"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ccab05c686bca2e0",
-    "slug": "tennis-cina-ko-con-de-jong-terzo-turno-perso-in-qu-ccab05c686bca2e0",
-    "title": "Tennis: Cinà ko con De Jong, terzo turno perso in quattro edizioni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-27T15:47:52.843925+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8a07417cba1cbf3bfa781675eba6af65906b2e61/skysport/it/tennis/video/2026/05/27/cina-roland-garros-intervista-video-1101186/screen_cina_tennis.jpg",
-    "occhiello": "CINÀ AL ROLAND GARROS: LA CRESCITA CHE NON BASTA",
-    "lead_preview": "Parigi, 27 maggio.",
-    "tags": [
-      "roland garros"
     ],
     "hero_eligible": true
   }
