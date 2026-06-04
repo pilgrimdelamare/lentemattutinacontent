@@ -1,5 +1,24 @@
 [
   {
+    "id": "0c77b8f47289a2b3",
+    "slug": "manu-chao-annuncia-un-concerto-acustico-a-tarvisio-0c77b8f47289a2b3",
+    "title": "Manu chao annuncia un concerto acustico a tarvisio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-04T14:04:40.424104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/baa1dd4b2d8de190a2426f740fc27e6b.jpg",
+    "occhiello": "MANU CHAO ANNUNCIA UN CONCERTO ACUSTICO A TARVISIO",
+    "lead_preview": "Tarvisio, 4 giugno 2026. Manu Chao si esibirà il 25 luglio ai Laghi di Fusine in occasione del No Borders Music Festival",
+    "tags": [
+      "no borders music festival",
+      "manu chao",
+      "concerto tarvisio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c5a93028d04fb2d9",
     "slug": "amadeus-e-fiorello-di-nuovo-insieme-sul-palcosceni-c5a93028d04fb2d9",
     "title": "Amadeus e fiorello di nuovo insieme sul palcoscenico rai",
@@ -8563,25 +8582,6 @@
       "milan simeone",
       "caso iraola",
       "calcio mercato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1898747c89b7767c",
-    "slug": "tedesco-lex-tecnico-di-schalke-e-il-nome-in-lista-1898747c89b7767c",
-    "title": "Bologna sborsa 2,5 milioni per Motta: Tedesco prossimo allenatore con 3,2 a stagione",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-28T20:27:33.933962+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/41a093fb42dd2b2af5b83714bf76ec8fa243b5cc/skysport/it/calcio/serie-a/2026/05/28/bologna-tedesco-di-francesco-allenatore-news/tedesco_di_francesco_combo_ok.jpg",
-    "occhiello": "BENTORNATI SUL TAPPETO ROSSO DI BOLOGNA",
-    "lead_preview": "Bologna, 28 maggio. Il Bologna ha chiuso con un comunicato secco la gestione di Thiago Motta: risoluzione consensuale de",
-    "tags": [
-      "calcio bologna",
-      "thiago motta",
-      "allenatore motta"
     ],
     "hero_eligible": true
   }
