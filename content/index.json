@@ -1,5 +1,20 @@
 [
   {
+    "id": "c74bce11a3a29b4a",
+    "slug": "massimo-marino-pubblica-libro-su-la-fenice-c74bce11a3a29b4a",
+    "title": "Massimo Marino pubblica libro su La Fenice",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-04T08:48:54.416487+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/cc8d3ba934c5e05a4ad1a8d211cef614.jpg",
+    "occhiello": "LA FENICE, RINASCERE DALLE CENERI PER DAVVERO",
+    "lead_preview": "Roma, 4 giugno. Il saggista Massimo Marino pubblica il libro \"'La Fenice rinnovata 1979-1986. Gli anni del cambiamento'\"",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3cbd2400eb062cdf",
     "slug": "la-prova-delle-alleanze-41-governi-locali-a-rischi-3cbd2400eb062cdf",
     "title": "La prova delle alleanze: 41 governi Locali a rischio con sfide a 6 capoluoghi e 35 comuni",
@@ -8765,23 +8780,5 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L219xH312/71sitqusfrl__sl1500_-94ff4.jpg?1775669055",
     "image_type": "url",
     "hero_eligible": false
-  },
-  {
-    "id": "30b316c27f81eb06",
-    "slug": "concerto-morricone-a-pompei-80-musicisti-eseguono-30b316c27f81eb06",
-    "title": "Concerto Morricone a Pompei: 80 musicisti eseguono 100 anni di musica",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-28T07:01:34.655204+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/6109ad8d8e48d37c8556f78db37e4cd7.jpg",
-    "occhiello": "Morricone a Pompei tra gli scavi",
-    "lead_preview": "Il 25 giugno a Pompei il teatro antico ospiterà un concerto diretto da Andrea Morricone con le colonne sonore del padre ",
-    "tags": [
-      "concerto morricone",
-      "pompei"
-    ],
-    "hero_eligible": true
   }
 ]
