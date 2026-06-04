@@ -1,5 +1,22 @@
 [
   {
+    "id": "96dafe55e026c77a",
+    "slug": "il-libro-autobiografico-di-luca-carboni-scala-le-c-96dafe55e026c77a",
+    "title": "Il libro autobiografico di Luca Carboni scala le classifiche",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-04T16:45:15.104655+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/03ca962d1a6b0b3c7f61eb318629f364.jpg",
+    "occhiello": "IL LIBRO DI LUCA CARBONI SCALA LE CLASSIFICHE DI VENDITA",
+    "lead_preview": "Roma, 4 giugno 2026. L'autobiografia Luca non parlava mai di Luca Carboni si posiziona tra i titoli più venduti in Itali",
+    "tags": [
+      "libro luca carboni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1023a21ae2f5f8ee",
     "slug": "il-centrodestra-arretra-e-il-campo-largo-sorpassa-1023a21ae2f5f8ee",
     "title": "Il centrodestra arretra e il campo largo sorpassa",
@@ -8495,20 +8512,5 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9791259632821_0_0_424_0_75-39737.jpg?1775690493",
     "image_type": "url",
     "hero_eligible": false
-  },
-  {
-    "id": "1977b9247cb65d6c",
-    "slug": "calcio-baldini-guida-gli-azzurri-prime-amichevoli-1977b9247cb65d6c",
-    "title": "Calcio: Baldini guida gli Azzurri, prime amichevoli in Lussemburgo e Grecia",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-29T07:03:13.466607+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f4ba5a2d0abf7e58cafb8c19fb252cc9fe1b1ee5/skysport/it/calcio/nazionale/2026/05/04/silvio-baldini-nazionale-come-sara/baldini_insider_orizz.jpg",
-    "occhiello": "BALDINI CT AD INTERIM, RADUNO NAZIONALE PER AMICHEVOLI",
-    "lead_preview": "Coverciano, 28 maggio. È scattato il raduno della Nazionale Italiana di Calcio sotto la guida di Silvio Baldini, Ct ad i",
-    "tags": [],
-    "hero_eligible": true
   }
 ]
