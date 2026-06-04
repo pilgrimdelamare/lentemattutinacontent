@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Servizio restituito",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-06-03T06:56:04.884100+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RESTITUITO",
+    "lead_preview": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "479d213ae3bfabd3",
     "slug": "petrolio-oltre-quota-95-dollari-la-cina-crolla-ma-479d213ae3bfabd3",
     "title": "Asia in rialzo, petrolio sale",
@@ -460,25 +475,6 @@
     "tags": [
       "mercato roma",
       "mason greenwood"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna online: blackout di 70 minuti risolto in meno di un ora",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-03T06:56:04.884100+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RESTITUITO",
-    "lead_preview": "ChatGPT riprende a funzionare dopo 70 minuti di disservizio. Il problema tecnico è stato risolto.",
-    "tags": [
-      "chatgpt blackout",
-      "servizio chatgpt",
-      "guasto tecnico ai"
     ],
     "hero_eligible": true
   },
