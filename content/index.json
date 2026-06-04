@@ -1,5 +1,23 @@
 [
   {
+    "id": "cdb40d12e2b62093",
+    "slug": "8-miliardi-per-i-chip-made-in-ue-bruxelles-lancia-cdb40d12e2b62093",
+    "title": "Europa in ritardo sulle microchip",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-03T13:00:04.064775+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/da89196cf2fa36f4633e66aa3d7fe676.jpg",
+    "occhiello": "EUROPA IN RITARDO SULLE MICROCHIP",
+    "lead_preview": "Bruxelles, 3 giugno. La Commissione Europea ha annunciato il lancio del Chips Act 2: 8 miliardi di euro in fondi pubblic",
+    "tags": [
+      "chips act",
+      "commissione europea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8851d880d4a3afe1",
     "slug": "britanni-a-rischio-unora-al-giorno-su-smartphone-s-8851d880d4a3afe1",
     "title": "Un terzo del tempo su smartphone è navigazione passiva",
@@ -623,25 +641,6 @@
     "lead_preview": "Milano, 3 giugno. La voce di Topo Gigio compie un secolo. Stasera la ricorrenza a Messina con Peppino Mazzullo e Leo Val",
     "tags": [
       "topo gigio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cdb40d12e2b62093",
-    "slug": "8-miliardi-per-i-chip-made-in-ue-bruxelles-lancia-cdb40d12e2b62093",
-    "title": "8 Miliardi per i chip made in UE: Bruxelles lancia il Chips Act 2",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-03T13:00:04.064775+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/8/da89196cf2fa36f4633e66aa3d7fe676.jpg",
-    "occhiello": "EUROPA IN RITARDO SULLE MICROCHIP",
-    "lead_preview": "Bruxelles, 3 giugno. La Commissione Europea vara il Chips Act 2: 8 miliardi di euro in fondi pubblici per sostenere la d",
-    "tags": [
-      "chips act 2",
-      "semiconduttori europa",
-      "fondi ue microchip"
     ],
     "hero_eligible": true
   },
