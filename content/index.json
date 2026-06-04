@@ -1,5 +1,23 @@
 [
   {
+    "id": "40563cd52222c13a",
+    "slug": "unasta-spaziale-da-millesettecento-miliardi-40563cd52222c13a",
+    "title": "Un'asta spaziale da millesettecento miliardi",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-04T07:14:38.083188+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/04/085539489-0751e3b0-b44a-463d-9e52-0c1cf854b15e.jpg",
+    "occhiello": "UN'ASTA SPAZIALE DA MILLESETTECENTO MILIARDI",
+    "lead_preview": "Roma, 4 giugno. Elon Musk, l'amministratore delegato di SpaceX, ha depositato i documenti per la quotazione in Borsa del",
+    "tags": [
+      "quotazione spacex",
+      "elon musk"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "609c330061238789",
     "slug": "previsioni-broadcom-dimezzano-lottismo-tecnologico-609c330061238789",
     "title": "Previsioni broadcom dimezzano l'ottismo tecnologico",
@@ -8790,25 +8808,6 @@
     "lead_preview": "Bologna, 29 maggio. La Fondazione Teatro Comunale di Bologna ospita in prima assoluta \"La navigazione di San Brandano\" d",
     "tags": [
       "navigazione san brandano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "72bfa7f2a0aa921c",
-    "slug": "chef-ciro-sabella-muore-a-san-paolo-addio-allambas-72bfa7f2a0aa921c",
-    "title": "Chef Ciro Sabella muore a San Paolo: addio all’Ambasciatore del gusto italiano",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-05-28T06:03:39.773098+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/28/d955f2be0e235e1fccdc461f3eda5951.jpg",
-    "occhiello": "SAN PAOLO PIANGE CIRO SABELLA, AMBASCIATORE GASTRONOMICO ITALIANO",
-    "lead_preview": "San Paolo, 28 maggio. Lo chef napoletano Ciro Sabella, noto per aver portato la cucina Italiana nella metropoli brasilia",
-    "tags": [
-      "morte chef sabella",
-      "cucina italiana san paolo",
-      "ambasciatore gastronomico"
     ],
     "hero_eligible": true
   }
