@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260604",
+    "slug": "libro-del-giorno-cera-una-volta-il-sud-racconti-e-ricor-20260604",
+    "title": "Il libro del giorno: «C’era una volta il Sud. Racconti e ricordi illustrati del Meridione»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un viaggio nella memoria del Meridione attraverso fotografie e racconti",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-04T07:01:46.583811+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L228xH312/71iwc93qm3l__sl1370_-81a85.jpg?1775741509",
+      "alt": "Copertina: C’era una volta il Sud. Racconti e ricordi illustrati del Meridione",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L228xH312/71iwc93qm3l__sl1370_-81a85.jpg?1775741509",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "ca7603f32b9ac7dc",
     "slug": "droni-e-missili-iraniani-colpiscono-il-terminal-ae-ca7603f32b9ac7dc",
     "title": "Droni e missili iraniani colpiscono il terminal aeroportuale kuwaitiano",
@@ -8795,25 +8814,6 @@
       "cinema in piazza",
       "indiewire roma",
       "settore cinematografico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "82c8efe9c7ace4ee",
-    "slug": "da-critico-ad-autore-bestseller-mari-batte-i-thril-82c8efe9c7ace4ee",
-    "title": "Da critico ad autore bestseller: Mari batte i thriller con Ruggine, 1.500 fan in delirio a Genova",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-05-28T05:49:47.170836+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/27/70dde4d12ecdd5d408e69a10a94c1ea2.jpg",
-    "occhiello": "MARI SUL PODIO DEL GIOVANI",
-    "lead_preview": "Genova, 27 maggio. Michele Mari vince il Premio Strega Giovani 2026 con Ruggine, il romanzo che ha venduto 120.000 copie",
-    "tags": [
-      "premio strega giovani",
-      "michele mari",
-      "ruggine"
     ],
     "hero_eligible": true
   }
