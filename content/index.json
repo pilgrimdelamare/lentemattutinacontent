@@ -1,5 +1,20 @@
 [
   {
+    "id": "df1562f888624235",
+    "slug": "le-percussioni-invadono-il-teatro-di-san-carlo-df1562f888624235",
+    "title": "Le percussioni invadono il teatro di san carlo",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-04T09:29:23.996097+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/29/1b12058530e3850dc1c0e97c2f06b8e6.jpg",
+    "occhiello": "LE PERCUSSIONI INVADONO IL TEATRO DI SAN CARLO",
+    "lead_preview": "Napoli, 4 giugno. Domenica 7 giugno, i musicisti del Teatro di San Carlo portano in scena un programma dedicato al primo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "efddf639c18a3821",
     "slug": "le-acque-venete-approdano-a-cinemambiente-con-giov-efddf639c18a3821",
     "title": "Le acque venete approdano a cinemambiente con giovanni pellegrini",
@@ -8744,23 +8759,6 @@
       "kallas ucraina guerra",
       "negoziazioni russia ue",
       "politica estera ue 2024"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "595ea38090c25389",
-    "slug": "power-bank-20000-mah-per-5-ricariche-595ea38090c25389",
-    "title": "Power bank, 20.000 mAh per 5 ricariche",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-05-28T07:36:15.914869+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a05bedf74e30844556845ea/16:9/w_1280,c_limit/power%20bank%20maggio%202026.jpg",
-    "occhiello": "RICARICA OVUNQUE CON LE POWER BANK DEL 2026",
-    "lead_preview": "Milano, 28 maggio. Il 2026 segna un importante passo avanti nella tecnologia delle power bank, dispositivi sempre più ri",
-    "tags": [
-      "power bank 2026"
     ],
     "hero_eligible": true
   }
