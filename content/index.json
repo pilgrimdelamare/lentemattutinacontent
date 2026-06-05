@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, venerdì 5 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-05T04:13:19.116409+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — VENERDÌ 5 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2b328d13f5badd0a",
     "slug": "antonelli-guida-il-mondiale-verso-il-gp-di-monaco-2b328d13f5badd0a",
     "title": "Antonelli guida il mondiale verso il gp di monaco",
@@ -2508,26 +2528,6 @@
     "lead_preview": "Los Angeles, 3 giugno. I San Antonio Spurs affrontano i New York Knicks nella 79esima edizione delle NBA Finals, in onda",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, giovedì 4 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-04T04:22:02.586988+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — GIOVEDÌ 4 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "150d00b2f4411e95",
