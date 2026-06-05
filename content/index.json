@@ -1,5 +1,20 @@
 [
   {
+    "id": "976e1e72a0741e7d",
+    "slug": "leternita-del-pop-italiano-976e1e72a0741e7d",
+    "title": "L'eternità del pop italiano",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-05T08:45:20.248282+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2019/6/20/c1f0d2a0a35f3d5675946941782dbacf.jpg",
+    "occhiello": "L'ETERNITÀ DEL POP ITALIANO",
+    "lead_preview": "Roma, 5 giugno. Gaetano Curreri e la sua storica formazione, gli Stadio, hanno annunciato un nuovo tour estivo intitolat",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b2e2ec63e7895b54",
     "slug": "scoperta-una-struttura-geologica-sotto-il-ghiaccio-b2e2ec63e7895b54",
     "title": "Scoperta una struttura geologica sotto il ghiaccio antartico",
@@ -8357,23 +8372,6 @@
     "tags": [
       "flat tax",
       "debito italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e5fb97e8a9921988",
-    "slug": "bolivia-7-morti-e-321-arresti-nelle-proteste-contr-e5fb97e8a9921988",
-    "title": "Bolivia, 7 morti e 321 arresti nelle proteste contro il governo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-30T01:33:33.521769+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "321 ARRESTI IN UN MESE DI BLOCCHI IN BOLIVIA",
-    "lead_preview": "La Paz, 30 maggio. Le proteste contro il governo di Luis Arce hanno lasciato 7 morti e 321 arresti in quattro settimane ",
-    "tags": [
-      "proteste in bolivia"
     ],
     "hero_eligible": true
   }
