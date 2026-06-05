@@ -1,5 +1,20 @@
 [
   {
+    "id": "271c0cf75b0d1a8b",
+    "slug": "sei-serate-di-musica-nelledificio-sacro-dellantica-271c0cf75b0d1a8b",
+    "title": "Sei serate di musica nell'edificio sacro dell'antica roma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-05T14:22:12.000878+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/5/1cd650e335ff0029be811641f61f7f66.jpg",
+    "occhiello": "SEI SERATE DI MUSICA NELL'EDIFICIO SACRO DELL'ANTICA ROMA",
+    "lead_preview": "Roma, 5 giugno 2026. Torna la rassegna Venere in Musica, che dal 18 al 25 giugno proporrà sei serate di concerti Interna",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "218d6a0203ecb260",
     "slug": "wall-street-frena-con-il-nasdaq-in-calo-delluno-pe-218d6a0203ecb260",
     "title": "Wall street frena con il nasdaq in calo dell'uno per cento",
@@ -8122,25 +8137,6 @@
     "occhiello": "NUOVA ONDATA DI RAID SULLE CITTÀ UCRAINE",
     "lead_preview": "Kiev, 30 maggio. Almeno cinque persone hanno perso la vita e quaranta sono rimaste ferite in una serie di raid russi che",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b364fc656d36963c",
-    "slug": "londra-30mila-email-del-principe-andrea-inguaiano-b364fc656d36963c",
-    "title": "Londra, 30mila email del Principe Andrea inguaiano la Corona. Segreto reale svelato",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-05-31T07:02:15.143604+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/19/617f5a0bccd430e51fc530489b90b656.jpg",
-    "occhiello": "PALAZZO REALE NASCONDEVA MAIL SU SEGRETI DI STATO",
-    "lead_preview": "Londra, 30 maggio. Buckingham Palace era in possesso da sei anni di un archivio di trentamila mail controverse del princ",
-    "tags": [
-      "principe andrea",
-      "email segrete",
-      "buckingham palace"
-    ],
     "hero_eligible": true
   }
 ]
