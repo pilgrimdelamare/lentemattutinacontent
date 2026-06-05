@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260605",
+    "slug": "libro-del-giorno-etimidi-riccardo-agnello-20260605",
+    "title": "Il libro del giorno: «Etimidi Riccardo Agnello»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'intrigante raccolta di etimologie di termini siciliani",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-05T07:00:39.328924+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/41rns435kwl__sl1455_-0067c.jpg?1775675470",
+      "alt": "Copertina: Etimidi Riccardo Agnello",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/41rns435kwl__sl1455_-0067c.jpg?1775675470",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "5ff13ac9d5a7b485",
     "slug": "brent-a-9519-dollari-tensioni-geopolitiche-scatena-5ff13ac9d5a7b485",
     "title": "Brent a 95,19 dollari: tensioni geopolitiche scatenano fluttuazioni nel Petrolio",
@@ -8382,24 +8401,6 @@
       "tedua terzo samurai jay",
       "hit parade italiana 2026",
       "record streaming tiktok"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5a47d36effd42e5d",
-    "slug": "meloni-depone-corona-al-milite-ignoto-e-domani-cel-5a47d36effd42e5d",
-    "title": "Meloni depositerà corona d'alloro, ma tace sui fondi UE",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-05-29T17:46:50.578423+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/2/a210a8dfb8cf7af212dd591a23c42fcb.jpg",
-    "occhiello": "MELONI USA LA MEMORIA PER COPRIRE DUE FALLIMENTI",
-    "lead_preview": "Roma, 29 maggio. La presidente del Consiglio Giorgia Meloni ha deposto la corona d’alloro al Milite Ignoto alle 17.00 di",
-    "tags": [
-      "giorgia meloni",
-      "milite ignoto"
     ],
     "hero_eligible": true
   }
