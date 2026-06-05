@@ -1,5 +1,23 @@
 [
   {
+    "id": "8827e231f4f8356b",
+    "slug": "raid-a-tiro-colpito-un-ospedale-nel-sud-del-libano-8827e231f4f8356b",
+    "title": "Raid a tiro, colpito un ospedale nel sud del libano",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-05T07:39:29.751776+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/5/2f0333ca7737a274a7af8281714af9dc.jpg",
+    "occhiello": "RAID A TIRO, COLPITO UN OSPEDALE NEL SUD DEL LIBANO",
+    "lead_preview": "Tiro, 5 giugno 2026. Un raid aereo israeliano ha colpito nella notte la città di Tiro, nel sud del Libano, provocando la",
+    "tags": [
+      "raid libano",
+      "confitto israelo-libanese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7e691bc90e580d74",
     "slug": "dati-biometrici-condivisi-via-bluetooth-per-monito-7e691bc90e580d74",
     "title": "Dati biometrici condivisi via bluetooth per monitorare il metabolismo",
@@ -8368,24 +8386,6 @@
     "tags": [
       "mondiali 2026",
       "serie a"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eb09e7ecf289f05c",
-    "slug": "calcio-allegri-e-il-nuovo-allenatore-del-napoli-di-eb09e7ecf289f05c",
-    "title": "Calcio: Allegri è il nuovo allenatore del Napoli, difensivi e tridente come ricetta",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-05-30T00:21:19.516690+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1deca9a9ed2f06afd8444d6add963ff5787e2767/skysport/it/calcio/serie-a/2026/05/29/allegri-napoli-allenatore/allegri_napoli_getty.jpg",
-    "occhiello": "ALLEGRI A NAPOLI, SPUNTI DI UN MANIFESTO",
-    "lead_preview": "ALLEGRI A NAPOLI, SPUNTI DI UN MANIFESTO Napoli, 29 maggio. Massimiliano Allegri potrebbe chiudere la sua carriera di al",
-    "tags": [
-      "allegri napoli",
-      "calcio mercato"
     ],
     "hero_eligible": true
   }
