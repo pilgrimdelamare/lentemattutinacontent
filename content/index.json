@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260605",
+    "slug": "libro-del-giorno-etimidi-riccardo-agnello-20260605",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-05T07:00:39.328924+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/41rns435kwl__sl1455_-0067c.jpg?1775675470",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'intrigante raccolta di etimologie di termini siciliani",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3b0b0911dc35b6bd",
     "slug": "crisi-lega-addii-di-peso-verso-forza-italia-minacc-3b0b0911dc35b6bd",
     "title": "Lega perde 7 esponenti in 5 mesi, Salvini Cerca alleati in Zaia",
@@ -3018,25 +3033,6 @@
     "lead_preview": "Fiesole, 4 giugno 2026. Il regista francese Olivier Assayas sarà insignito del Premio Fiesole ai Maestri del Cinema 2026",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260605",
-    "slug": "libro-del-giorno-etimidi-riccardo-agnello-20260605",
-    "title": "Il libro del giorno: «Etimidi Riccardo Agnello»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'intrigante raccolta di etimologie di termini siciliani",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-05T07:00:39.328924+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/41rns435kwl__sl1455_-0067c.jpg?1775675470",
-      "alt": "Copertina: Etimidi Riccardo Agnello",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/41rns435kwl__sl1455_-0067c.jpg?1775675470",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "eedeaa460ead37ee",
