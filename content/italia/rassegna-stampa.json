@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 5 giugno 2026",
+  "title": "Le prime pagine di oggi, sabato 6 giugno 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 5 giugno 2026",
-    "Le prime pagine di oggi, venerdì 5 giugno 2026",
-    "Le prime pagine di oggi, venerdì 5 giugno 2026"
+    "Le prime pagine di oggi, sabato 6 giugno 2026",
+    "Le prime pagine di oggi, sabato 6 giugno 2026",
+    "Le prime pagine di oggi, sabato 6 giugno 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI VENERDI 5 GIUGNO",
-  "lead": "I quotidiani di oggi aprono in gran parte sulle tensioni internazionali e sugli sviluppi del conflitto in Ucraina, dove si registrano segnali di apertura diplomatica tra Putin e Zelensky. Grande spazio viene dato anche alla politica interna con l'approvazione alla Camera del disegno di legge sul nucleare, che definisce il futuro degli impianti e il ruolo dei Comuni. I giornali sportivi si concentrano invece sul mercato dell'Inter e sulle semifinali del Roland Garros, che vedranno un tennista italiano in finale.",
-  "corpo1": "Prima pagina 3 e Prima pagina 5 aprono entrambe sulla guerra in Ucraina, riportando le parole di Zelensky che invita Putin a un incontro diretto per porre fine al conflitto, con Mosca che si dice possibilista sull'ingresso di Kiev nell'Unione europea. La Prima pagina 3 dedica inoltre ampio spazio alla crisi in Libano, segnalando il fallimento della tregua e l'uccisione di un casco blu. La Prima pagina 4 e la Prima pagina 6 si concentrano sulla politica nazionale, riportando il via libera della Camera al ddl sul nucleare. In particolare, la Prima pagina 6 specifica che il testo prevede lo smantellamento dei vecchi impianti e la possibilità per i Comuni di candidarsi per i nuovi siti. La Prima pagina 7 e la Prima pagina 8 aprono sullo sport, focalizzandosi sul calciomercato dell'Inter e sul rinnovo di Chivu.",
-  "corpo2": "La Prima pagina 4 riporta l'archiviazione del caso Berlusconi con le polemiche sollevate da Marina Berlusconi e la conferma del Quirinale sul risarcimento nel caso Minetti. La Prima pagina 5 cita il caso giudiziario di una madre condannata per aver negato la chemioterapia alla figlia. La Prima pagina 6 menziona il possibile taglio delle accise, mentre le pagine 7 e 8 seguono il derby italiano al Roland Garros tra Cobolli e Arnaldi. La giornata è dominata dagli eventi bellici e dalle riforme energetiche.",
+  "occhiello": "LE PRIME PAGINE 6 GIUGNO 2026",
+  "lead": "I principali quotidiani italiani di oggi si concentrano prevalentemente sulla tensione tra Russia e Ucraina, con Putin che rifiuta un incontro con Zelensky. Alcuni giornali riportano anche la diserzione della Meloni al vertice Ue-Balcani. Altri titoli riguardano il calcio e le notizie di cronaca, come il caso di Garlasco e il rilancio di Donald Trump in politica.",
+  "corpo1": "Il Corriere della Sera titola “Putin chiude a Zelensky: ‘Inutile vedersi’” e riporta la polemica sulla diserzione di Meloni al vertice sui Balcani. La Repubblica apre con “Putin gela Zelensky: inutile vedersi”, evidenziando il rifiuto del presidente russo e il summit a Londra con Starmer, Macron e Merz. Il Fatto Quotidiano sottolinea il gelo tra Meloni e i Volenterosi, mentre il Messaggero evidenzia le parole di Marco Poggi sul caso Garlasco, affermando che “la vita di Chiara è stata trattata come un gioco”. Il Sole 24 Ore si concentra su aspetti economici, menzionando il patto Ue e le accise. Infine, il Giornale titola “Zar Putin torna a colpire”, focalizzandosi sulle relazioni con l’Europa e le dichiarazioni di Meloni.",
+  "corpo2": "Tra gli altri titoli di rilievo, il Corriere dello Sport riporta notizie sul calciomercato e sulla Champions League, mentre diversi giornali menzionano la situazione al Roland Garros. Oggi la questione centrale è il rifiuto di Putin di incontrare Zelensky e le conseguenze politiche della diserzione della Meloni al vertice Ue-Balcani.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,32 +23,32 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-06-05T05:46:10.213062+00:00",
+  "published_at": "2026-06-06T06:17:15.384645+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/19c29aa13d38ff8c0a9ad855b4451d0fa8ee8b10/skytg24/it/cronaca/2026/06/05/prime-pagine-quotidiani-oggi-5-giugno/collage_1.png?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/68993cc693d435294d0bd708cd0950126d288cc8/skytg24/it/cronaca/2026/06/06/prime-pagine-quotidiani-oggi-6-giugno/00_hero_rassegna_stampa_6_giugno.jpg?im=Resize,width=375",
+    "source": "rassegna stampa 6 giugno",
+    "credit": "Prima pagina — rassegna stampa 6 giugno",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/06/05/prime-pagine-quotidiani-oggi-5-giugno",
+  "original_url": "https://tg24.sky.it/cronaca/2026/06/06/prime-pagine-quotidiani-oggi-6-giugno",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 5 giugno 2026",
+      "title": "Oroscopo di oggi, sabato 6 giugno 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Nicholas chalmers alla guida di amiata music dal 4 giugno 2026",
-      "url": "/cultura/nicholas-chalmers-alla-guida-di-amiata-music-dal-4-89fddf359856a12a",
-      "id": "89fddf359856a12a",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/2da4aba8c6544f042a5dcfa278c50d30.jpg",
+      "title": "Roma ospita l'assemblea Mondiale della danza sportiva a giugno",
+      "url": "/sport/roma-ospita-lassemblea-mondiale-della-danza-sporti-6b568f5f24bff76c",
+      "id": "6b568f5f24bff76c",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/10/6/767a0f41a8f2e386a7095bb4edf24efa.jpg",
       "image_type": "image"
     },
     {
