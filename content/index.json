@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, sabato 6 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-06T06:17:15.384645+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/68993cc693d435294d0bd708cd0950126d288cc8/skytg24/it/cronaca/2026/06/06/prime-pagine-quotidiani-oggi-6-giugno/00_hero_rassegna_stampa_6_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 6 GIUGNO 2026",
+    "lead_preview": "I principali quotidiani italiani di oggi si concentrano prevalentemente sulla tensione tra Russia e Ucraina, con Putin c",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b28a230d418769ba",
     "slug": "lamministratore-delegato-de-siervo-invoca-arbitrag-b28a230d418769ba",
     "title": "Lega Serie A: De Siervo chiede meno interruzioni e più tempo di gioco",
@@ -3542,25 +3561,6 @@
     "tags": [
       "teatro san carlo",
       "concerto percussioni napoli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 5 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-05T05:46:10.213062+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/19c29aa13d38ff8c0a9ad855b4451d0fa8ee8b10/skytg24/it/cronaca/2026/06/05/prime-pagine-quotidiani-oggi-5-giugno/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI VENERDI 5 GIUGNO",
-    "lead_preview": "I quotidiani di oggi aprono in gran parte sulle tensioni internazionali e sugli sviluppi del conflitto in Ucraina, dove ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
