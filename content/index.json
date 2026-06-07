@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260607",
+    "slug": "libro-del-giorno-echi-sinistri-una-nuova-indagine-del-c-20260607",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-07T07:00:25.588982+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61cdcwbnjul__sl1500_-96997.jpg?1775791892",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un thriller avvincente con un commissario segnato dal passato",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a04a48ba3ac2ac4a",
     "slug": "virtus-eliminata-a-venezia-tra-infortuni-e-veleni-a04a48ba3ac2ac4a",
     "title": "Virtus eliminata a venezia tra infortuni e veleni arbitrali",
@@ -1972,25 +1987,6 @@
     "lead_preview": "Roma, 6 giugno 2026. Il governo italiano ha finalizzato l'invio di 60 tonnellate di reti da pesca verso Kiev, inserendo ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260607",
-    "slug": "libro-del-giorno-echi-sinistri-una-nuova-indagine-del-c-20260607",
-    "title": "Il libro del giorno: «Echi sinistri. Una nuova indagine del commissario Spiro Fuscodi Fabio Giorgino»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un thriller avvincente con un commissario segnato dal passato",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-07T07:00:25.588982+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61cdcwbnjul__sl1500_-96997.jpg?1775791892",
-      "alt": "Copertina: Echi sinistri. Una nuova indagine del commissario Spiro Fuscodi Fabio Giorgino",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61cdcwbnjul__sl1500_-96997.jpg?1775791892",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "f388accde6f30e3d",
