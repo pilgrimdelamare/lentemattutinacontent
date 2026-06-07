@@ -1,5 +1,23 @@
 [
   {
+    "id": "66407ee55fa03e52",
+    "slug": "f1-leclerc-ritira-per-guasto-freni-a-monaco-66407ee55fa03e52",
+    "title": "F1: Leclerc ritira per guasto freni a Monaco",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-07T15:33:40.484388+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/7/b74173774d84dc2ae6b0ee3eb60de9f6.jpg",
+    "occhiello": "GUASTO TECNICO FERMA CHARLES LECLERC SUL CIRCUITO DI MONACO",
+    "lead_preview": "Monaco, 7 giugno 2026. Il pilota della Ferrari Charles Leclerc è stato costretto al ritiro durante il Gran Premio di cas",
+    "tags": [
+      "gp monaco",
+      "leclerc f1"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c04fd6ed2ff91c6a",
     "slug": "kimi-antonelli-in-pole-a-monaco-con-la-mercedes-c04fd6ed2ff91c6a",
     "title": "Kimi antonelli in pole a monaco con la mercedes",
@@ -7891,25 +7909,6 @@
       "calciomercato serie a",
       "calcio italiano 2026",
       "sessione estiva calciomercato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5c1017dcf12b674b",
-    "slug": "epicentro-a-250-chilometri-la-fortuna-salva-la-cal-5c1017dcf12b674b",
-    "title": "Terremoto da 6.2 in Calabria: mare trema, fortuna senza danni",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-06-02T01:56:21.926112+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/12/23/a86ee9ebf377b55d4d763fe4a5ee9770.jpg",
-    "occhiello": "IL TERREMOTO 6.2 SULLO IONIO ESPONE IL VUOTO NORMATIVO",
-    "lead_preview": "Catanzaro, 2 giugno 2026. Una scossa di terremoto di magnitudo 6.2 ha colpito le acque del mar Ionio, al largo della cos",
-    "tags": [
-      "terremoto calabria 2026",
-      "scossa ionio",
-      "vuoto normativo terremoti"
     ],
     "hero_eligible": true
   }
