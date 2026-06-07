@@ -1,5 +1,20 @@
 [
   {
+    "id": "c6a0f2d119d321cf",
+    "slug": "test-di-fine-stagione-per-lazzurrina-u21-c6a0f2d119d321cf",
+    "title": "Test di fine stagione per l'azzurrina u21",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-07T16:47:14.340067+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/6/12/ade0a4e66d69542c2c9f72cb4c5f57a7.jpg",
+    "occhiello": "TEST DI FINE STAGIONE PER L'AZZURRINA U21",
+    "lead_preview": "Roma, 7 giugno.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2c7138757aa067e7",
     "slug": "canottaggio-italia-conquista-tre-argenti-al-trofeo-2c7138757aa067e7",
     "title": "Canottaggio: Italia conquista tre argenti al Trofeo Filippi a Marina di Castagneto",
@@ -7874,24 +7889,6 @@
     "lead_preview": "New York, 1 giugno 2026. Le Nazioni Unite si trovano di fronte a una crisi finanziaria senza precedenti che minaccia l'o",
     "tags": [
       "crisi onu"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "542307db94d164bc",
-    "slug": "autovelox-il-prelievo-forzoso-cala-di-565-milioni-542307db94d164bc",
-    "title": "Multe, comuni in crisi: 56,5 milioni in meno",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-02T08:29:41.890423+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/30/9671d85349e24b7f77ce1189042b91de.jpg",
-    "occhiello": "MENO 56,5 MILIONI DI EURO NELLE CASSE DEI COMUNI",
-    "lead_preview": "Roma, 2 giugno 2026. Gli automobilisti italiani hanno versato nelle casse dei comuni 56,5 milioni di euro in meno rispet",
-    "tags": [
-      "multe comuni",
-      "crisi comuni"
     ],
     "hero_eligible": true
   }
