@@ -1,5 +1,20 @@
 [
   {
+    "id": "d344cf734def51a1",
+    "slug": "f1-antonelli-vince-a-monaco-d344cf734def51a1",
+    "title": "F1: Antonelli vince a Monaco",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-07T18:06:07.766813+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/52f34d9139a11c15bb30d2f35d5828e759e09e31/skysport/it/motori/formula-1/2026/05/03/f1-gp-miami-antonelli-vittoria-festa-foto/f1_antonelli_miami_wolff_getty.jpg",
+    "occhiello": "ANTONELLI VINCE MONACO, WOLFF CHIAMA ALLA CALMA IN ITALIA",
+    "lead_preview": "Monaco, 7 giugno.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "280e7d3475265c6c",
     "slug": "germania-vince-a-chicago-con-i-gol-di-havertz-e-sa-280e7d3475265c6c",
     "title": "Germania vince a chicago con i gol di havertz e sane",
@@ -7854,25 +7869,6 @@
       "parata repubblica 2024",
       "fori imperiali blindati",
       "ottantanni repubblica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "35c511ea1f17e9fb",
-    "slug": "rendimento-italiano-crolla-al-367-spread-con-germa-35c511ea1f17e9fb",
-    "title": "Spread a 72 punti: i BTP volano, il debito italiano respira finalmente",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-02T07:06:48.593043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2013/11/28/9c52bd37060eb552fcfa7b366b8d4116.jpg",
-    "occhiello": "SPREAD A 72 PUNTI CON RENDIMENTO ITALIANO AL 3,67 PER CENTO",
-    "lead_preview": "Milano, 2 giugno 2026. Il differenziale tra i titoli di Stato italiani e quelli tedeschi apre la seduta odierna in calo ",
-    "tags": [
-      "spread btp",
-      "debito italiano",
-      "mercati finanziari"
     ],
     "hero_eligible": true
   }
