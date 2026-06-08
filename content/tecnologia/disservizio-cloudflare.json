@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+  "title": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
   "titles": [
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv"
+    "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+    "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+    "Cloudflare è tornato online dopo 140 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE IN DOWN",
-  "lead": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CLOUDFLARE RIPRISTINATO",
+  "lead": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Cloudflare è stato risolto. L'interruzione è durata circa 140 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-08T17:56:18.701795+00:00",
+  "published_at": "2026-06-08T20:02:00.123150+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,6 +38,13 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
+      "title": "Apple affida il cervello di siri ai modelli di google",
+      "url": "/tecnologia/apple-affida-il-cervello-di-siri-ai-modelli-di-goo-9046a12713ee99b4",
+      "id": "9046a12713ee99b4",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/08/211952909-3428ef8e-a440-4fa0-b134-dcadf739dfb6.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "Tim cook saluta apple nell'ultima wwdc da amministratore delegato",
       "url": "/tecnologia/tim-cook-saluta-apple-nellultima-wwdc-da-amministr-d273ab96c654e3c0",
       "id": "d273ab96c654e3c0",
@@ -49,13 +56,6 @@
       "url": "/tecnologia/dipendenti-google-deridono-lintelligenza-artificia-17d8a3a821e800af",
       "id": "17d8a3a821e800af",
       "image_url": "https://media-assets.wired.it/photos/6a17f00cca533fb81b4d92f2/16:9/w_1280,c_limit/Google-Employee-Accused-of-Turning-Insider-Information-Into-1-Million-Business-2272777124.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Openai verso l'ipo conversione di chatgpt in super-app",
-      "url": "/tecnologia/openai-verso-lipo-conversione-di-chatgpt-in-super-8b77ed08d5cc10a3",
-      "id": "8b77ed08d5cc10a3",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/08/123948213-716b2d29-c42e-44de-a342-a72efd5854a3.jpg",
       "image_type": "image"
     }
   ],
