@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 8 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-08T05:45:58.204601+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/378baad3275886ef785a181443a1d00dcc482417/skytg24/it/cronaca/2026/06/08/prime-pagine-quotidiani-oggi-8-giugno/Composite_8_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 8 GIUGNO 2026: TENSIONI MEDIORIENTALI E RISIKO BANCARIO",
+    "lead_preview": "Alle spalle di una escalation nel conflitto Israele-Iran e di una battaglia per il controllo di Monte dei Paschi, le pri",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "935ee2b2ab91a9c9",
     "slug": "ministro-nordio-frena-sulla-riforma-935ee2b2ab91a9c9",
     "title": "Nordio frena sulla riforma della Giustizia",
@@ -4207,25 +4226,6 @@
       "basket venezia",
       "nba-italia",
       "phil handy"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 6 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-06T06:17:15.384645+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/68993cc693d435294d0bd708cd0950126d288cc8/skytg24/it/cronaca/2026/06/06/prime-pagine-quotidiani-oggi-6-giugno/00_hero_rassegna_stampa_6_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 6 GIUGNO 2026",
-    "lead_preview": "I principali quotidiani italiani di oggi si concentrano prevalentemente sulla tensione tra Russia e Ucraina, con Putin c",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
