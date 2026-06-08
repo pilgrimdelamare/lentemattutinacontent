@@ -1,26 +1,29 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare smentisce blackout di 898 minuti: calma dopo l'allarme globale",
+  "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
   "titles": [
-    "Cloudflare smentisce blackout di 898 minuti: calma dopo l'allarme globale",
-    "Investitori tranquilli: Cloudflare garantisce servizi senza interruzioni",
-    "Cloudflare rassicura: nessun blackout, infrastruttura Mondiale infallibile"
+    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NO BLACKOUT GLOBALI: CLARIFICA DI CLOUDFLARE",
-  "lead": "Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout globale della durata di 898 minuti. La notizia, che aveva sollevato preoccupazioni tra gli utenti e gli investitori, è stata schiarita dalla stessa azienda.",
-  "corpo1": "Cloudflare, con sede a San Francisco, ha ribadito attraverso un comunicato che non vi è stata alcuna interruzione globale del servizio, né un annuncio ufficiale in merito a una tale durata. La società opera come un server reverse proxy per vari siti web, e le sue infrastrutture includono filiali in diverse città globali, tra cui Londra, Singapore, Champaign, Austin, Boston e Washington. Con l'architettura di Cloudflare concepita per essere resiliente e distribuita, la capacità di gestire flussi di traffico elevati senza interruzioni è un aspetto fondamentale del suo modello di business.",
-  "corpo2": "Questa precisazione di Cloudflare arriva in un contesto in cui le interruzioni dei servizi di internet hanno suscitato grande attenzione mediatica, spesso aggravando le paure di vulnerabilità nei sistemi tecnologici. La società ha espresso la sua disponibilità a offrire ulteriori chiarimenti sui meccanismi di sicurezza e affidabilità dei suoi servizi. Inoltre, le affermazioni inizialmente circolate potrebbero aver generato confusione data la natura complessa delle infrastrutture di cloud computing, che spesso operano su scala globale e coinvolgono numerosi fornitori di servizi. La chiusura di questo episodio serve a rassicurare i suoi utenti e a sottolineare l'importanza della trasparenza delle aziende tech nel comunicare con il pubblico. L'assenza di un annuncio formale di un'interruzione di questo tipo conferma l'efficacia dei sistemi di monitoraggio e di risposta di Cloudflare, ma rimane una lezione sul valore della comunicazione chiara e precisa nel settore tecnologico in continua evoluzione.",
+  "occhiello": "CLOUDFLARE IN DOWN",
+  "lead": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-29T09:32:32.423015+00:00",
+  "published_at": "2026-06-08T17:56:18.701795+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -28,34 +31,33 @@
     "credit": "Cloudflare",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cloudflare smentisce blackout di 898 minuti: calma dopo l'allarme globale\",\n  \"description\": \"Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout globale della durata di 898 minuti. La notizia, che aveva sollevato preoccupazioni tra gli utenti e gli investitori, è stata schiarita dalla stessa azienda.\",\n  \"articleBody\": \"Roma, 29 aprile. Cloudflare, Inc., una società statunitense, ha chiarito che non ha subito né reso noto alcun blackout globale della durata di 898 minuti. La notizia, che aveva sollevato preoccupazioni tra gli utenti e gli investitori, è stata schiarita dalla stessa azienda. Cloudflare, con sede a San Francisco, ha ribadito attraverso un comunicato che non vi è stata alcuna interruzione globale del servizio, né un annuncio ufficiale in merito a una tale durata. La società opera come un server reverse proxy per vari siti web, e le sue infrastrutture includono filiali in diverse città globali, tra cui Londra, Singapore, Champaign, Austin, Boston e Washington. Con l'architettura di Cloudflare concepita per essere resiliente e distribuita, la capacità di gestire flussi di traffico elevati senza interruzioni è un aspetto fondamentale del suo modello di business. Questa precisazione di Cloudflare arriva in un contesto in cui le interruzioni dei servizi di internet hanno suscitato grande attenzione mediatica, spesso aggravando le paure di vulnerabilità nei sistemi tecnologici. La società ha espresso la sua disponibilità a offrire ulteriori chiarimenti sui meccanismi di sicurezza e affidabilità dei suoi servizi. Inoltre, le affermazioni inizialmente circolate potrebbero aver generato confusione data la natura complessa delle infrastrutture di cloud computing, che spesso operano su scala globale e coinvolgono numerosi fornitori di servizi. La chiusura di questo episodio serve a rassicurare i suoi utenti e a sottolineare l'importanza della trasparenza delle aziende tech nel comunicare con il pubblico. L'assenza di un annuncio formale di un'interruzione di questo tipo conferma l'efficacia dei sistemi di monitoraggio e di risposta di Cloudflare, ma rimane una lezione sul valore della comunicazione chiara e precisa nel settore tecnologico in continua evoluzione.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-29T09:32:32.423015+00:00\",\n  \"dateModified\": \"2026-04-29T09:32:32.423015+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Claude di Anthropic torna online dopo 30 minuti di blackout",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Tim cook saluta apple nell'ultima wwdc da amministratore delegato",
+      "url": "/tecnologia/tim-cook-saluta-apple-nellultima-wwdc-da-amministr-d273ab96c654e3c0",
+      "id": "d273ab96c654e3c0",
+      "image_url": "https://media-assets.wired.it/photos/6a26720ea8644ea84df53b21/16:9/w_1280,c_limit/GettyImages-2218819259.jpg",
       "image_type": "image"
     },
     {
-      "title": "GitHub subisce attacco DDoS: 100 minuti di blackout per milioni di utenti",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Dipendenti google deridono l'intelligenza artificiale su memegen",
+      "url": "/tecnologia/dipendenti-google-deridono-lintelligenza-artificia-17d8a3a821e800af",
+      "id": "17d8a3a821e800af",
+      "image_url": "https://media-assets.wired.it/photos/6a17f00cca533fb81b4d92f2/16:9/w_1280,c_limit/Google-Employee-Accused-of-Turning-Insider-Information-Into-1-Million-Business-2272777124.jpg",
       "image_type": "image"
     },
     {
-      "title": "Pastorella dichiara guerra ai chatbot: legge per evitare l'amore tra giovani e AI",
-      "url": "/tecnologia/pastorella-dichiara-guerra-ai-chatbot-legge-per-ev-8fe58ec59f7668ca",
-      "id": "8fe58ec59f7668ca",
-      "image_url": "https://media-assets.wired.it/photos/69f0ef0cf55d9473379cfafa/16:9/w_1280,c_limit/2255888850",
+      "title": "Openai verso l'ipo conversione di chatgpt in super-app",
+      "url": "/tecnologia/openai-verso-lipo-conversione-di-chatgpt-in-super-8b77ed08d5cc10a3",
+      "id": "8b77ed08d5cc10a3",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/08/123948213-716b2d29-c42e-44de-a342-a72efd5854a3.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-04-29T09:32:32.423015+00:00"
+  "hero_eligible": false
 }
