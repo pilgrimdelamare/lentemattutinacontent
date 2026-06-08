@@ -1,5 +1,20 @@
 [
   {
+    "id": "1aa18c53422b3185",
+    "slug": "terremoto-78-colpisce-mindanao-1aa18c53422b3185",
+    "title": "Terremoto 7.8 colpisce Mindanao",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-08T00:31:58.852664+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "SISMA DI MAGNITUDO 7.8 COLPISCE L'ISOLA DI MINDANAO",
+    "lead_preview": "Burias, 8 giugno. Un Terremoto di magnitudo 7.8 ha scosso la regione di Mindanao, nel sud delle Filippine, alle 7.37 ora",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f47890470f3186f5",
     "slug": "ligabue-rievoca-il-far-west-delle-radio-libere-a-b-f47890470f3186f5",
     "title": "Ligabue rievoca il far west delle radio libere a bologna",
@@ -7700,25 +7715,6 @@
     "tags": [
       "mercato roma",
       "mason greenwood"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bb0bd9074633b08f",
-    "slug": "diplomazia-a-gaza-intesa-segreta-al-tavolo-del-qat-bb0bd9074633b08f",
-    "title": "Diplomatici USA trattano con Hamas e Israele a Doha",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-02T17:53:32.242678+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/31/1780265271-AP25136411071582.jpg",
-    "occhiello": "IL TAVOLO È PIENO, MA I VINCITORI SONO VUOTI",
-    "lead_preview": "IL TAVOLO È PIENO, MA I VINCITORI SONO VUOTI Roma, 2 giugno, 2 giugno — nella residenza del primo ministro del Qatar a D",
-    "tags": [
-      "conflitto israele",
-      "hamas",
-      "diplomazia usa"
     ],
     "hero_eligible": true
   }
