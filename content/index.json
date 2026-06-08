@@ -1,5 +1,20 @@
 [
   {
+    "id": "1aa18c53422b3185",
+    "slug": "terremoto-78-colpisce-mindanao-1aa18c53422b3185",
+    "title": "Sisma di magnitudo 7.8 colpisce l'isola di mindanao",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-08T00:31:58.852664+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "SISMA DI MAGNITUDO 7.8 COLPISCE L'ISOLA DI MINDANAO",
+    "lead_preview": "Burias, 8 giugno. Un Terremoto di magnitudo 7.8 ha scosso la regione di Mindanao, nel sud delle Filippine, alle 7.37 ora",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5f3e19c93d624809",
     "slug": "anthon-charmig-vince-a-le-puy-en-velay-baudin-mant-5f3e19c93d624809",
     "title": "Anthon charmig vince a le puy-en-velay, baudin mantiene il comando",
@@ -2553,21 +2568,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/7/fb207ae5b6f83679ec291a7a5a964a56.jpg",
     "occhiello": "LE FORESTE ITALIANE COPRONO ORA UN TERZO DEL TERRITORIO NAZIONALE",
     "lead_preview": "Roma, 7 giugno 2026. L'Italia cambia volto e diventa ufficialmente una nazione forestale, con una superficie boschiva ch",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1aa18c53422b3185",
-    "slug": "terremoto-78-colpisce-mindanao-1aa18c53422b3185",
-    "title": "Terremoto 7.8 colpisce Mindanao",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-08T00:31:58.852664+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "SISMA DI MAGNITUDO 7.8 COLPISCE L'ISOLA DI MINDANAO",
-    "lead_preview": "Burias, 8 giugno. Un Terremoto di magnitudo 7.8 ha scosso la regione di Mindanao, nel sud delle Filippine, alle 7.37 ora",
     "tags": [],
     "hero_eligible": true
   },
