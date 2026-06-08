@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-08T20:02:00.123150+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "7681e2ef7c79d0a8",
     "slug": "liran-si-allena-a-porte-chiuse-in-messico-7681e2ef7c79d0a8",
     "title": "L'iran si blinda a tijuana lontano da occhi indiscreti",
@@ -700,25 +719,6 @@
     "lead_preview": "Londra, 7 giugno. Emmanuel Macron, Keir Starmer e Friedrich Merz hanno dichiarato congiuntamente il loro sostegno ai neg",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-08T17:56:18.701795+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE IN DOWN",
-    "lead_preview": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "3056751e1c83e4b7",
