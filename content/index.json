@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-08T17:56:18.701795+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE IN DOWN",
+    "lead_preview": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3056751e1c83e4b7",
     "slug": "soprano-disney-di-livorno-ribalta-la-traviata-viol-3056751e1c83e4b7",
     "title": "Soprano livornese rilegge La Traviata: Violetta non ama mai Alfredo",
@@ -7690,21 +7709,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/12/10/db254dfbb18f0bdf1ed74c1b1a304c1a.jpg",
     "occhiello": "BARBARA MARINALI È LA NUOVA PRESIDENTE DELL'AZIENDA TRASPORTI ROMANA",
     "lead_preview": "Roma, 4 giugno 2026. Il Sindaco Roberto Gualtieri ha ufficializzato la nomina di Barbara Marinali alla presidenza di Ata",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "09ab8eae3e839cb8",
-    "slug": "italia-incassa-128-miliardi-09ab8eae3e839cb8",
-    "title": "Arrivati 12,8 miliardi, il piano supera l'ottanta per cento",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-04T12:52:08.496077+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/22/c79b3d81f570b475dcf3f16c41f3d557.jpg",
-    "occhiello": "ARRIVATI 12,8 MILIARDI, IL PIANO SUPERA L'OTTANTA PER CENTO",
-    "lead_preview": "Roma, 4 giugno 2026. La Commissione Europea ha erogato all'Italia una nuova tranche di finanziamenti del Piano nazionale",
     "tags": [],
     "hero_eligible": true
   }
