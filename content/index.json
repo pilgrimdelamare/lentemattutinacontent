@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260608",
+    "slug": "libro-del-giorno-adua-del-lampionaiodi-flora-fusarelli-20260608",
+    "title": "Il libro del giorno: «Adua del lampionaiodi Flora Fusarelli»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo di formazione e di memoria, ambientato nella Marsica abruzzese tra la fine dell'Ottocento e la Grande Guerra",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-08T07:00:37.271221+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/613mr0_24bl__sl1500_-98eea.jpg?1777647649",
+      "alt": "Copertina: Adua del lampionaiodi Flora Fusarelli",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/613mr0_24bl__sl1500_-98eea.jpg?1777647649",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "6b105891696dec84",
     "slug": "nba-cancella-il-fallo-tecnico-di-mitchell-robinson-6b105891696dec84",
     "title": "Basket: La NBA cancella il fallo tecnico a Robinson dopo la rissa con Wembanyama",
@@ -7703,21 +7722,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/7/31/351a76ac41e7e005caccbbc3ae2dd561.jpg",
     "occhiello": "L'ADDIO A UNA GRANDE DELLO SPORT ITALIANO",
     "lead_preview": "Milano, 3 giugno. È morta Fiammetta Scimonelli, storica capo ufficio stampa del Coni, figura chiave nella comunicazione ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "eb764d287a2a5a56",
-    "slug": "topo-gigio-compie-100-anni-cento-milioni-di-italia-eb764d287a2a5a56",
-    "title": "Peppino Mazzullo e Leo Valli celebrano i 100 anni di Topo Gigio a Messina",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-03T13:30:14.496441+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2015/9/13/afb468f270cf6855fa75cbffec665ccc.jpg",
-    "occhiello": "LA VOCE DI TOPO GIGIO HA 100 ANNI",
-    "lead_preview": "Milano, 3 giugno. La voce di Topo Gigio compie un secolo. Stasera la ricorrenza a Messina con Peppino Mazzullo e Leo Val",
     "tags": [],
     "hero_eligible": true
   }
