@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260609",
+    "slug": "libro-del-giorno-intimita-senza-contattodi-lin-hsin-hui-20260609",
+    "title": "Il libro del giorno: «Intimità senza contattodi Lin Hsin-Hui»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo dai toni distopici che esplora le conseguenze di una società dominata dall'Intelligenza Artificiale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-09T07:01:46.794710+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/71sxgj9kwil__sl1458_-27607.jpg?1775883958",
+      "alt": "Copertina: Intimità senza contattodi Lin Hsin-Hui",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/71sxgj9kwil__sl1458_-27607.jpg?1775883958",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "eef49cf62b7bff58",
     "slug": "basket-3-stoppate-su-brunson-32-punti-e-un-tap-in-eef49cf62b7bff58",
     "title": "Basket: 3 stoppate su Brunson, 32 punti e un TAP-in vincente: così Wembanyama ha umiliato New York",
@@ -7921,21 +7940,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/4/a65dc121e054558f308a6fd094cd2805.jpg",
     "occhiello": "UN PROGETTO ARCHITETTONICO PER COLLEGARE IL MONUMENTO AL POTOMAC",
     "lead_preview": "Washington, 4 giugno 2026. L’amministrazione del Presidente Donald Trump ha presentato ufficialmente i dettagli del nuov",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1ac128e76d0dbfba",
-    "slug": "las-vegas-blinda-il-gran-premio-fino-al-2037-1ac128e76d0dbfba",
-    "title": "Las vegas blinda il gran premio fino al 2037",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-04T23:01:18.023495+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6851eea0508bc7c5540a76cc667c550a13d84eeb/skysport/it/motori/formula-1/f1-gp-las-vegas-2025-foto/f1_getty_las_vegas_veduta_dal_basso_2025.jpg",
-    "occhiello": "LAS VEGAS BLINDA IL GRAN PREMIO FINO AL 2037",
-    "lead_preview": "Las Vegas, 5 giugno 2026. La Formula 1 ha ufficializzato il rinnovo pluriennale del Gran Premio di Las Vegas, garantendo",
     "tags": [],
     "hero_eligible": true
   }
