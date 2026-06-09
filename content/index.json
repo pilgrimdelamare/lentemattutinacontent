@@ -1,5 +1,23 @@
 [
   {
+    "id": "db766685744f6f03",
+    "slug": "piazza-affari-corre-e-premia-i-soliti-noti-db766685744f6f03",
+    "title": "Piazza affari corre e premia i soliti noti",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-09T08:03:39.287928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/12/19/cebc5c662b976525a802d494be991764.jpg",
+    "occhiello": "PIAZZA AFFARI CORRE E PREMIA I SOLITI NOTI",
+    "lead_preview": "Milano, 9 giugno 2026. La Borsa Italiana chiude una seduta all'insegna del segno positivo con un rialzo dell'indice prin",
+    "tags": [
+      "borsa italiana",
+      "piazza affari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4c453b67b13304af",
     "slug": "gas-stabile-ma-caro-50-euro-sulle-bollette-4c453b67b13304af",
     "title": "Gas stabile ma caro: 50 euro sulle bollette",
@@ -7928,21 +7946,6 @@
       "guerra ucraina",
       "zelensky putin"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7239b6134fd73f17",
-    "slug": "bossolo-secondo-al-grand-prix-di-roma-nella-para-t-7239b6134fd73f17",
-    "title": "Bossolo secondo al grand prix di roma nella para-taekwondo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-04T18:53:54.136349+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/8/30/2f855574310d886a04bdf13b231f5833.jpg",
-    "occhiello": "BOSSOLO SECONDO AL GRAND PRIX DI ROMA NELLA PARA-TAEKWONDO",
-    "lead_preview": "Roma, 4 giugno 2026. L'atleta azzurro Antonino Bossolo ha conquistato la medaglia d'argento al Grand Prix di ParaTaekwon",
-    "tags": [],
     "hero_eligible": true
   }
 ]
