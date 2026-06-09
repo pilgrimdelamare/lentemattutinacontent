@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 8 giugno 2026",
+  "title": "Le prime pagine di oggi, martedì 9 giugno 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 8 giugno 2026",
-    "Le prime pagine di oggi, lunedì 8 giugno 2026",
-    "Le prime pagine di oggi, lunedì 8 giugno 2026"
+    "Le prime pagine di oggi, martedì 9 giugno 2026",
+    "Le prime pagine di oggi, martedì 9 giugno 2026",
+    "Le prime pagine di oggi, martedì 9 giugno 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 8 GIUGNO 2026: TENSIONI MEDIORIENTALI E RISIKO BANCARIO",
-  "lead": "Alle spalle di una escalation nel conflitto Israele-Iran e di una battaglia per il controllo di Monte dei Paschi, le prime pagine dei quotidiani italiani si concentrano su crisi internazionali e operazioni finanziarie. Il Corriere della Sera e La Repubblica segnalano nuovi attacchi reciproci tra Israele e Iran, mentre Stampa e Messaggero seguono la sfida tra Intesa e Bpm. Fuori focus, Gazzetta dello Sport e Corriere dello Sport celebrano la vittoria di Kimi Antonelli in Formula 1.",
-  "corpo1": "Il Corriere della Sera apre con la descrizione di nuove tensioni tra Israele e Iran, con attacchi a Beirut e missili su basi iraniane. La Repubblica replica con un titolo simile, sottolineando la rappresaglia iraniana e l'allerta Usa. La Stampa e il Messaggero dedicano spazio all'offensiva di Intesa su Monte dei Paschi, bloccando la mossa di Bpm. La Prima pagina 5 riprende il tema, aggiungendo informazioni su equilibri interni a Generali. I due quotidiani sportivi, Gazzetta dello Sport e Corriere dello Sport, si concentrano su Kimi Antonelli, il pilota bolognese che ha vinto a Montecarlo.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE – 9 GIUGNO 2026: MEDIO ORIENTE, BANCHE E POLITICA",
+  "lead": "I giornali italiani aprono oggi con due filoni dominanti: la tregua a orologeria tra Israele e Iran, condizionata dalle pressioni di Trump e dalle reazioni di Teheran, e l’offerta di Intesa Sanpaolo su Mps per 30,6 miliardi. *Corriere della Sera*, *La Repubblica* e *Il Sole 24 Ore* dedicano spazio anche ai ballottaggi comunali, ai casi giudiziari come quello Minetti e alle tensioni in Libano. *La Stampa* e *Il Messaggero* puntano invece sul tennis, la Juventus e la politica nazionale, mentre *Il Fatto Quotidiano* approfondisce le indagini su Ben-Gvir. *Il Giornale* e *Libero* insistono sulla guerra in Medio Oriente e sulla crisi bancaria, con analisi sull’impatto sui titoli di Stato.",
+  "corpo1": "*La Repubblica* apre con la guerra in Medio Oriente: “Israele e Iran, stop ai raid”, riferendo della telefonata tra Trump e Netanyahu e della sospensione degli attacchi, anche se Teheran non ha confermato una tregua definitiva. In taglio alto, la nuova Maturità con l’orale ridotto dal 18 giugno, e l’incontro tra Xi Jinping e Kim Jong-un in Corea del Nord. *Corriere della Sera* dedica la prima pagina all’offerta di Intesa Sanpaolo su Mps per 30,6 miliardi, definendola un “grande risiko” per il sistema bancario italiano, mentre in taglio centrale c’è il caso Minetti, con la ritrattazione della massaggiatrice che nega distorsioni delle sue parole. Spazio anche al senatore Silvestro indagato a Roma per violenza sessuale. *Il Sole 24 Ore* ripropone l’operazione Intesa-Mps in apertura, con l’analisi sul bisogno italiano di una banca globale, e in centro pagina la “tregua a orologeria” tra Israele e Iran, affiancata dalla narrazione della guerra in Ucraina. *Il Messaggero* segue la guerra in Medio Oriente con “Israele-Iran, stop agli attacchi”, citando la mediazione statunitense, e in taglio centrale l’Opas di Intesa su Mps, con la reazione di Messina che esclude un futuro guidato da Lovaglio. In primo piano anche i ballottaggi comunali, con l’attenzione su nuovi volti progressisti. *La Stampa* cambia registro: in apertura titola sulla Juventus, con l’arrivo di Diaz e il mercato estivo che si apre con rinforzi per Spalletti, mentre in spalla c’è la notizia di Sinner ricoverato due giorni al San Raffaele di Milano per controlli. Spazio anche alla Formula 1, con il decimo posto di Kimi Räikkönen, e al Milan, con Glasner che cerca di rilanciare la squadra. *Il Fatto Quotidiano* torna sul conflitto israelo-iraniano con un’analisi sull’asse della sopravvivenza di Teheran, e in centro pagina spiega “le virtù italiane” attraverso l’operazione bancaria. In spalla, l’intervista all’ex generale Dayan che parla di “Terza guerra mondiale”. *Il Giornale* e *Libero* convergono sulla guerra in Medio Oriente: il primo con “Raid, controraid e veti: la tregua è impossibile”, il secondo con la sospensione dei raid israeliani su pressione di Trump e la richiesta iraniana di fermare anche gli attacchi in Libano. *Il Tempo* chiude la rassegna con la sconfitta della Sinistra nei ballottaggi, in particolare in Toscana, e il caso Conte, indagato per il “meccanismo” dei soldi all’ex collega durante la pandemia.",
+  "corpo2": "Sulle prime pagine emergono altri titoli: *La Repubblica* e *Il Fatto Quotidiano* dedicano spazio alla fine della missione Unifil in Libano, con il governo italiano che vorrebbe mantenere i soldati sul posto; *Il Messaggero* e *Il Sole 24 Ore* approfondiscono i ballottaggi comunali, con l’attenzione su centrodestra e nuovi candidati progressisti; *Il Giornale* e *Libero* riportano le indagini della Procura israeliana su Ben-Gvir per torture e sequestri durante la Flotilla; *Il Sole 24 Ore* segnala la stretta della Bce sui titoli di Stato italiani, con i Btp in ribasso. La giornata è dominata dall’incertezza geopolitica in Medio Oriente e dalla crisi bancaria italiana, con riflessi economici e politici.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-06-08T05:45:58.204601+00:00",
+  "published_at": "2026-06-09T05:57:10.409159+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/378baad3275886ef785a181443a1d00dcc482417/skytg24/it/cronaca/2026/06/08/prime-pagine-quotidiani-oggi-8-giugno/Composite_8_giugno.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/ce366fd8fded20d72d3a53644311f3b54125d855/skytg24/it/cronaca/2026/06/09/prime-pagine-quotidiani-oggi-9-giugno/rassegnastampa.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/06/08/prime-pagine-quotidiani-oggi-8-giugno",
+  "original_url": "https://tg24.sky.it/cronaca/2026/06/09/prime-pagine-quotidiani-oggi-9-giugno",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 8 giugno 2026",
+      "title": "Oroscopo di oggi, martedì 9 giugno 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
