@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
+  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "GitHub è tornato online dopo 55 minuti di interruzione.",
-    "GitHub è tornato online dopo 55 minuti di interruzione.",
-    "GitHub è tornato online dopo 55 minuti di interruzione."
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIATTIVATO",
-  "lead": "GitHub è tornato online dopo 55 minuti di interruzione.",
-  "corpo1": "Il disservizio è iniziato 55 minuti fa e ora è stato completamente risolto. La piattaforma è tornata a funzionare correttamente, garantendo l'accesso agli utenti. La durata dell'interruzione è stata di 55 minuti, dopo i quali il servizio è stato ripristinato.",
+  "occhiello": "GITHUB IN DOWN",
+  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-26T12:24:19.893956+00:00",
+  "published_at": "2026-06-10T15:44:56.312039+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Trump Mobile espone 1,2 milioni di dati personali in un leak senza password per sei mesi",
-      "url": "/tecnologia/trump-mobile-bocchetta-fuori-dati-sensibili-hacker-100b602a5631546b",
-      "id": "100b602a5631546b",
-      "image_url": "https://media-assets.wired.it/photos/68510fc23b2db17cf7fb4d90/16:9/w_1280,c_limit/trump-phone-gear-184325067.jpg",
+      "title": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Google spara video da quattro soldi: con Gemini Omni bastano parole o un audio",
-      "url": "/tecnologia/google-presenta-gemini-omni-lai-che-crea-video-rea-d64220a4edc03f5f",
-      "id": "d64220a4edc03f5f",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/05/21/123211070-b235893c-d68c-4d81-945a-e87e66eae31d.jpg",
+      "title": "Un aspirapolvere da 1400 euro che richiede l'allacciamento idrico",
+      "url": "/tecnologia/un-aspirapolvere-da-1400-euro-che-richiede-lallacc-e0d65819da794aa8",
+      "id": "e0d65819da794aa8",
+      "image_url": "https://media-assets.wired.it/photos/6a296893157297cc846f3ea3/16:9/w_1280,c_limit/Robot%20aspirapolvere%20MOVA%20Z70%20Ultra%20Roller%20Complete.jpg",
       "image_type": "image"
     },
     {
-      "title": "Apple svela domani il futuro: AI, Sicurezza e produttività in arrivo",
-      "url": "/tecnologia/apple-apre-la-wwdc-2026-al-apple-park-swift-al-cen-738e8051032a5603",
-      "id": "738e8051032a5603",
-      "image_url": "https://media-assets.wired.it/photos/6a0bf9faa3345aa9da243756/16:9/w_1280,c_limit/wwdc%202026.png",
+      "title": "Heeney rivela: l’algoritmo che predice virus inesistenti. Ma chi controlla i dati segreti usati?",
+      "url": "/tecnologia/il-primo-vaccino-progettato-con-laiuto-dellintelli-e3f712c45c7a2dfb",
+      "id": "e3f712c45c7a2dfb",
+      "image_url": "https://media-assets.wired.it/photos/6a2686311a2fe7ee0ad5f0c6/16:9/w_1280,c_limit/vacuna%20Covid%20IA%201331723660.jpg",
       "image_type": "image"
     }
   ],
