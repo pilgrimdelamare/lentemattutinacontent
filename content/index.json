@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260610",
+    "slug": "libro-del-giorno-che-cose-il-trashdi-giuseppe-previtali-20260610",
+    "title": "Previtali spiega il Trash: emulazione fallita che diventa fenomeno culturale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-10T07:00:38.457299+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829029280_0_0_424_0_75-efbd6.jpg?1775764474",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'accurata analisi della categoria estetica del trash",
+    "tags": [
+      "libro trash",
+      "previtali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ae2025e2385238c7",
     "slug": "gianni-infantino-elogia-la-presenza-delliran-ai-mo-ae2025e2385238c7",
     "title": "Gianni infantino elogia la presenza dell'iran ai mondiali",
@@ -3035,25 +3053,6 @@
     "lead_preview": "Tiro, 9 giugno 2026. Almeno otto persone sono rimaste uccise in un raid aereo compiuto dalle forze israeliane su una zon",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260610",
-    "slug": "libro-del-giorno-che-cose-il-trashdi-giuseppe-previtali-20260610",
-    "title": "Il libro del giorno: «Che cos’è il trashdi Giuseppe Previtali»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'accurata analisi della categoria estetica del trash",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-10T07:00:38.457299+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829029280_0_0_424_0_75-efbd6.jpg?1775764474",
-      "alt": "Copertina: Che cos’è il trashdi Giuseppe Previtali",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829029280_0_0_424_0_75-efbd6.jpg?1775764474",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "1f1b1b305692aa10",
