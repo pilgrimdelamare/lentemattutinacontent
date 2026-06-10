@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 10 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-10T05:45:58.595157+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/f49e18a065347fdafb3a20ba1dd73ef9ab4c3735/skytg24/it/cronaca/2026/06/10/prime-pagine-quotidiani-oggi-10-giugno/Composite_10_giugno.jpg?im=Resize,width=375",
+    "occhiello": "",
+    "lead_preview": "I quotidiani italiani aprono oggi con il conflitto in Medio Oriente al centro dell’attenzione, tra l’offensiva israelian",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b769ce4cdd248536",
     "slug": "dal-museo-di-aosta-120-opere-per-la-spiritualita-b769ce4cdd248536",
     "title": "Chagall in Valle d'Aosta: 120 opere svelano il sogno ebraico-chassidico nel Museo di Aosta",
@@ -4079,25 +4098,6 @@
     "occhiello": "NEWGARDEN EGUAGLIA AL UNSER JR CON TRENTAQUATTRO VITTORIE IN CARRIERA",
     "lead_preview": "Madison, 8 giugno 2026. Josef Newgarden ha conquistato il successo nella Bommarito 500 al World Wide Technology Raceway ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 9 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-09T05:57:10.409159+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/ce366fd8fded20d72d3a53644311f3b54125d855/skytg24/it/cronaca/2026/06/09/prime-pagine-quotidiani-oggi-9-giugno/rassegnastampa.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE – 9 GIUGNO 2026: MEDIO ORIENTE, BANCHE E POLITICA",
-    "lead_preview": "I giornali italiani aprono oggi con due filoni dominanti: la tregua a orologeria tra Israele e Iran, condizionata dalle ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
