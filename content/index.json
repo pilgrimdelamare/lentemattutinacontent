@@ -1,5 +1,24 @@
 [
   {
+    "id": "e3f712c45c7a2dfb",
+    "slug": "il-primo-vaccino-progettato-con-laiuto-dellintelli-e3f712c45c7a2dfb",
+    "title": "Heeney rivela: l’algoritmo che predice virus inesistenti. Ma chi controlla i dati segreti usati?",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-06-09T04:54:46.239607+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/6a2686311a2fe7ee0ad5f0c6/16:9/w_1280,c_limit/vacuna%20Covid%20IA%201331723660.jpg",
+    "occhiello": "Il primo vaccino progettato con l’aiuto dell’intelligenza artificiale è stato testato sugli esseri umani",
+    "lead_preview": "Cambridge, 9 giugno 2026 — Il vaccino progettato con l’intelligenza artificiale promette di anticipare le pandemie futur",
+    "tags": [
+      "vaccino ai",
+      "algoritmi pandemie",
+      "dati sanitari segreti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ccbb3093235a4c3e",
     "slug": "cristian-herrera-giornalista-assassinato-a-cucuta-ccbb3093235a4c3e",
     "title": "Giornalista ucciso a Cúcuta, indagava su DAS e narco-traffico",
@@ -1786,21 +1805,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/9/92ae44717f14d7057c7023931d63dc8c.jpg",
     "occhiello": "PANAMA INAUGURA UNA NUOVA SEDE DIPLOMATICA A BERNA",
     "lead_preview": "Panama apre a Berna: la Svizzera diventa hub per aggirare le sanzioni occidentali Berna, 9 giugno 2026 — Panama inaugura",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e3f712c45c7a2dfb",
-    "slug": "il-primo-vaccino-progettato-con-laiuto-dellintelli-e3f712c45c7a2dfb",
-    "title": "Il primo vaccino progettato con l’aiuto dell’intelligenza artificiale è stato testato sugli esseri umani",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-09T04:54:46.239607+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a2686311a2fe7ee0ad5f0c6/16:9/w_1280,c_limit/vacuna%20Covid%20IA%201331723660.jpg",
-    "occhiello": "Il primo vaccino progettato con l’aiuto dell’intelligenza artificiale è stato testato sugli esseri umani",
-    "lead_preview": "Cambridge, 9 giugno 2026 — Il vaccino progettato con l’intelligenza artificiale promette di anticipare le pandemie futur",
     "tags": [],
     "hero_eligible": true
   },
