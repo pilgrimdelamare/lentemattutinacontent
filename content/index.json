@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-10T15:44:56.312039+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d7fee587511ea4e7",
     "slug": "ristoratori-americani-introducono-sovrapprezzi-obb-d7fee587511ea4e7",
     "title": "Ristoratori americani introducono sovrapprezzi obbligatori per i turisti mondialisti",
@@ -7971,21 +7990,6 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61cdcwbnjul__sl1500_-96997.jpg?1775791892",
     "occhiello": "Il libro del giorno",
     "lead_preview": "un thriller avvincente con un commissario segnato dal passato",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a3cf206b1aa16678",
-    "slug": "zelensky-starmer-macron-e-merz-a-londra-per-un-ver-a3cf206b1aa16678",
-    "title": "Zelenskiy e leader UE a Londra per pace in Ucraina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-07T06:24:08.729180+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjUvMDUvMjgvMTcwMDM2NDI2LWJjZTQxN2M0LTFkMDgtNDQyMi1hYzBiLTY3ZmNlYTUyYjZiNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "DRONI SU SAN PIETROBURGO E DUE VITTIME IN UCRAINA",
-    "lead_preview": "Londra, 7 giugno 2026. Volodymyr Zelensky incontra oggi il Premier britannico Keir Starmer, il Presidente francese Emman",
     "tags": [],
     "hero_eligible": true
   }
