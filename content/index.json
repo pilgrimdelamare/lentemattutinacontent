@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 70 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-10T16:40:25.153154+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 70 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "9b778f80f172547e",
     "slug": "il-new-yorker-documenta-il-sistema-di-sfruttamento-9b778f80f172547e",
     "title": "Il new yorker documenta il sistema di sfruttamento dei tate",
@@ -193,25 +212,6 @@
     "lead_preview": "Madrid, 9 giugno 2026. L’Atletico Madrid ha respinto formalmente un’offerta da 150 milioni di euro presentata dal Real M",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-10T15:44:56.312039+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d7fee587511ea4e7",
