@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub è tornato online dopo 70 minuti di interruzione.",
   "titles": [
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub è tornato online dopo 70 minuti di interruzione.",
+    "GitHub è tornato online dopo 70 minuti di interruzione.",
+    "GitHub è tornato online dopo 70 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 70 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 70 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-10T15:44:56.312039+00:00",
+  "published_at": "2026-06-10T16:40:25.153154+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
