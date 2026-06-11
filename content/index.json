@@ -1,5 +1,24 @@
 [
   {
+    "id": "8fa750d4f1d4892c",
+    "slug": "f1-antonelli-si-gioca-5-milioni-8fa750d4f1d4892c",
+    "title": "F1: Antonelli si gioca 5 milioni",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-11T06:54:08.272800+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/addc019dd4215517dc57359378a3d18d0809f150/skysport/it/motori/formula-1/2026/06/11/f1-orari-gp-barcellona-2026-catalunya/f1_copertina_barcellona_2026.jpg",
+    "occhiello": "FORMULA 1, GLI ORARI E DOVE VEDERE IL GP BARCELLONA IN TV",
+    "lead_preview": "ANTONELLI IN CATALOGNA: IL CAMPIONATO SI DECIDE SU GOMMA E NUMERI, NON SU GLI SLALOM DELLA PISTA Barcellona, 11 giugno 2",
+    "tags": [
+      "gp spagna 2026",
+      "antonelli f1",
+      "formula 1 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ae569fa99abaec4c",
     "slug": "ducati-investiti-120-milioni-in-rd-ma-il-dominio-d-ae569fa99abaec4c",
     "title": "Ducati: Investiti 120 milioni in R&D, ma il dominio di Bulega nasconde un buco nero da 45 milioni",
@@ -8176,21 +8195,6 @@
     "tags": [
       "caso silvestro"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "147fbbb6a0336e2c",
-    "slug": "tehran-ribadisce-il-doppio-binario-tra-dialogo-e-c-147fbbb6a0336e2c",
-    "title": "Tehran ribadisce il doppio binario tra dialogo e campo",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-08T12:45:38.071424+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/23/79f69afb3d6cadb01f8b43bf8684c333.jpg",
-    "occhiello": "TEHRAN RIBADISCE IL DOPPIO BINARIO TRA DIALOGO E CAMPO",
-    "lead_preview": "Tehran, 8 giugno 2026. Il Presidente dell'Iran Masoud Pezeshkian dichiara che il Paese non abbandona né i negoziati né i",
-    "tags": [],
     "hero_eligible": true
   }
 ]
