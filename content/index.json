@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260611",
+    "slug": "libro-del-giorno-le-ballate-narayamadi-fukazawa-shichir-20260611",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-11T07:00:44.434633+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L186xH312/arton171019-d9d41.jpg?1775708398",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un racconto breve e crudele del Novecento giapponese",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "897d65a8e716d896",
     "slug": "serena-williams-cerca-un-sostituto-allultimo-minut-897d65a8e716d896",
     "title": "Tennis oggi, il programma dei tornei atp e wta dell'11 giugno",
@@ -2750,25 +2765,6 @@
     "lead_preview": "Roma, 11 giugno 2026. Giorgia Meloni ha presentato oggi in diretta televisiva le comunicazioni sul Consiglio europeo all",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260611",
-    "slug": "libro-del-giorno-le-ballate-narayamadi-fukazawa-shichir-20260611",
-    "title": "Il libro del giorno: «Le ballate»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un racconto breve e crudele del Novecento giapponese",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-11T07:00:44.434633+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L186xH312/arton171019-d9d41.jpg?1775708398",
-      "alt": "Copertina: Le ballate",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L186xH312/arton171019-d9d41.jpg?1775708398",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "ff2f28506ce25f9c",
