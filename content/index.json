@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 11 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-11T05:46:12.438796+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/c8581cfed267849bbc22f64c8397eb256fd1025d/skytg24/it/cronaca/2026/06/11/prime-pagine-quotidiani-oggi-11-giugno/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI GIOVEDI 11 GIUGNO 2026",
+    "lead_preview": "I giornali italiani di oggi convergono su due filoni principali: la tensione nel Medio Oriente, con gli attacchi di Trum",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3c4f1fb90bc1b572",
     "slug": "firenze-rocks-annuncia-lenny-kravitz-robbie-willia-3c4f1fb90bc1b572",
     "title": "Firenze Rocks chiude con tre leggende: Kravitz, Williams e The Cure in scena **solo a Firenze**",
@@ -3647,25 +3666,6 @@
     "occhiello": "RICHARD FORD PUBBLICA IL SUO NUOVO SAGGIO AUTOBIOGRAFICO INTELLETTUALE",
     "lead_preview": "Roma, 9 giugno 2026. Richard Ford, celebre romanziere statunitense noto per il ciclo di Frank Bascombe, torna in libreri",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 10 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-10T05:45:58.595157+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/f49e18a065347fdafb3a20ba1dd73ef9ab4c3735/skytg24/it/cronaca/2026/06/10/prime-pagine-quotidiani-oggi-10-giugno/Composite_10_giugno.jpg?im=Resize,width=375",
-    "occhiello": "",
-    "lead_preview": "I quotidiani italiani aprono oggi con il conflitto in Medio Oriente al centro dell’attenzione, tra l’offensiva israelian",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
