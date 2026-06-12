@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, venerdì 12 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-12T04:01:31.157806+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — VENERDÌ 12 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "66dacf4f78b51ca8",
     "slug": "quinta-nazione-ue-apre-le-porte-ai-robot-driver-di-66dacf4f78b51ca8",
     "title": "Tesla spinge sull'acceleratore: il Belgio approva la guida autonoma su tutta la rete stradale",
@@ -3872,26 +3892,6 @@
       "mercato azionario 2026"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, giovedì 11 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-11T04:02:50.672373+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — GIOVEDÌ 11 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "a4f184eaed9905e2",
