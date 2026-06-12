@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260612",
+    "slug": "libro-del-giorno-romeo-e-giulietta-1949di-francesco-guc-20260612",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-12T07:00:38.224474+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/71h77nc2brl__sl1385_-7a8c9.jpg?1775724571",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un romanzo che racchiude l'immaginario e i topoi dell'amatissimo cantautore Francesco Guccini",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "78f65250a2e95a85",
     "slug": "jane-campion-riconosce-meriti-artistici-di-weinste-78f65250a2e95a85",
     "title": "Jane Campion riconosce meriti artistici di Weinstein a Taormina",
@@ -2826,25 +2841,6 @@
     "lead_preview": "San Antonio, 12 giugno 2026. Il fallo flagrant di tipo uno fischiato a Victor Wembanyama durante gara-4 delle finali NBA",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260612",
-    "slug": "libro-del-giorno-romeo-e-giulietta-1949di-francesco-guc-20260612",
-    "title": "Il libro del giorno: «Romeo e Giulietta 1949di Francesco Guccini»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che racchiude l'immaginario e i topoi dell'amatissimo cantautore Francesco Guccini",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-12T07:00:38.224474+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/71h77nc2brl__sl1385_-7a8c9.jpg?1775724571",
-      "alt": "Copertina: Romeo e Giulietta 1949di Francesco Guccini",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/71h77nc2brl__sl1385_-7a8c9.jpg?1775724571",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "cdc6b72acca5b737",
