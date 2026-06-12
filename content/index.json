@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 12 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-12T05:45:45.150020+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/67f3521f07f312842d10f90b1277354edfee824a/skytg24/it/cronaca/2026/06/12/prime-pagine-quotidiani-oggi-12-giugno/rass12giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI VENERDÌ 12 GIUGNO",
+    "lead_preview": "La rassegna stampa di oggi è dominata dall'annuncio di un accordo tra Stati Uniti e Iran che ha portato Donald Trump a s",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "be9a7f87e1a19b72",
     "slug": "potere-dacquisto-ai-minimi-dal-2025-per-laumento-d-be9a7f87e1a19b72",
     "title": "Potere d'acquisto ai minimi dal 2025 per l'aumento dei prezzi",
@@ -3464,25 +3483,6 @@
     "occhiello": "COMPENSI ARBITRALI RADDOPPIATI RISPETTO AL 2014 PER I MONDIALI",
     "lead_preview": "Roma, 10 giugno 2026. Gli arbitri selezionati per i campionati mondiali di calcio percepiranno un compenso di 86mila eur",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 11 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-11T05:46:12.438796+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/c8581cfed267849bbc22f64c8397eb256fd1025d/skytg24/it/cronaca/2026/06/11/prime-pagine-quotidiani-oggi-11-giugno/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI GIOVEDI 11 GIUGNO 2026",
-    "lead_preview": "I giornali italiani di oggi convergono su due filoni principali: la tensione nel Medio Oriente, con gli attacchi di Trum",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
