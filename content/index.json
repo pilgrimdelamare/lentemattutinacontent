@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, sabato 13 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-13T04:01:47.210591+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — SABATO 13 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "4e778f0020457260",
     "slug": "carnevali-guidera-i-bianconeri-dopo-comolli-terza-4e778f0020457260",
     "title": "Juventus: Carnevali sostituisce Comolli, terza rivoluzione in due anni – obiettivo Dibu Martínez",
@@ -3789,26 +3809,6 @@
     "lead_preview": "IL GOL CHE FECE TACERE IL SUDAFRICA: QUANDO TSABALALA SPEZZÒ IL MITO DELLE VUVUZELA Johannesburg, 11 giugno 2010. Il Sud",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 12 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-12T04:01:31.157806+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 12 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "66dacf4f78b51ca8",
