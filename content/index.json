@@ -1,5 +1,20 @@
 [
   {
+    "id": "8d8066ed37c59c19",
+    "slug": "gasolio-a-due-euro-al-litro-8d8066ed37c59c19",
+    "title": "Gasolio a due euro al litro",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-13T08:00:00.619468+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/13/2289ed3e138f0b3db4da0dd6072c06eb.jpg",
+    "occhiello": "GASOLIO A DUE EURO AL LITRO",
+    "lead_preview": "Roma, 13 giugno. I prezzi dei carburanti registrano variazioni che portano il gasolio a toccare la soglia di 2,000 euro ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "bd804a7717afaeb2",
     "slug": "unoperazione-di-mercato-per-creare-un-nuovo-polo-d-bd804a7717afaeb2",
     "title": "Un'operazione di mercato per creare un nuovo polo difensivo",
@@ -8144,24 +8159,6 @@
     "occhiello": "IL RISCALDAMENTO DEL PERMAFROST TIBETANO ACCELERA IL COLLASSO CLIMATICO",
     "lead_preview": "Lhasa, 10 giugno 2026. Un aumento della temperatura globale compreso tra i 2 e i 4 gradi centigradi rischia di innescare",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e00e53e935f6a411",
-    "slug": "un-missilie-ucraino-colpisce-limpianto-militare-di-e00e53e935f6a411",
-    "title": "Un missilie ucraino colpisce l'impianto militare di cheboksary",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-10T10:48:25.465276+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/10/bd77d2a65601043a652f553c416c9aae.jpg",
-    "occhiello": "UN MISSILIE UCRAINO COLPISCE L'IMPIANTO MILITARE DI CHEBOKSARY",
-    "lead_preview": "Cheboksary, 10 giugno 2026. Il Presidente dell'Ucraina Volodymyr Zelensky ha confermato l'impiego di un missile modello ",
-    "tags": [
-      "guerra ucraina",
-      "attacco cheboksary"
-    ],
     "hero_eligible": true
   }
 ]
