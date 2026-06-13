@@ -1,5 +1,20 @@
 [
   {
+    "id": "633b199f7a835161",
+    "slug": "iran-rinvia-firma-accordo-con-usa-633b199f7a835161",
+    "title": "Iran rinvia firma accordo con USA",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-13T13:42:28.736942+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/10/cd00d3f253562148cff1945500f25967.jpg",
+    "occhiello": "TEHERAN FRENA SULLA FIRMA DIGITALE DELL'ACCORDO CON WASHINGTON",
+    "lead_preview": "Teheran, 13 giugno 2026. L'accordo tra Iran e Stati Uniti per la fine dello Stato di guerra non sarà firmato nelle pross",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1a44fbd74e1fce05",
     "slug": "bper-punta-al-consolidamento-bancario-come-attore-1a44fbd74e1fce05",
     "title": "Bper si posiziona come attore chiave nel consolidamento bancario",
@@ -8067,24 +8082,6 @@
     "occhiello": "2.200 POSTI DI LAVORO A RISCHIO NEL CUORE DI SIENA",
     "lead_preview": "Siena, 10 giugno 2026. La città Toscana affronta il timore di un progressivo svuotamento delle proprie funzioni direzion",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "80bab5464c6024ca",
-    "slug": "il-gas-cala-del-28-ma-nessuno-vi-fara-lo-sconto-80bab5464c6024ca",
-    "title": "Il prezzo del gas su TTF a 48,4 euro dopo calo del 2,8%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-09T17:11:44.643354+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/4/7/8a96f8c42ec6aa37a50be08787980c6b.jpg",
-    "occhiello": "IL GAS CALA DEL 2,8% MA NESSUNO VI FARÀ LO SCONTO",
-    "lead_preview": "Roma, 9 giugno 2026. Il mercato del gas naturale ha chiuso la giornata segnando un ribasso del 2,8 percento, portando le",
-    "tags": [
-      "prezzo gas",
-      "mercato gas"
-    ],
     "hero_eligible": true
   }
 ]
