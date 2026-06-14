@@ -1,5 +1,20 @@
 [
   {
+    "id": "a8b85c288fd44fd2",
+    "slug": "gli-italiani-sono-allodole-a8b85c288fd44fd2",
+    "title": "Gli italiani sono allodole",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-14T08:26:24.580332+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/14/100023013-d6c668e7-0b39-4b79-afab-2ba5cfcd31ca.jpg",
+    "occhiello": "ITALIA MATTINIERA: PRODUTTIVITÀ SVENDUTA SUL TAVOLO",
+    "lead_preview": "Roma, 14 giugno. L'Italia si sveglia presto, ma non è detto che questo sia un bene per tutti, soprattutto per la produtt",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c978470769259ae1",
     "slug": "trump-annuncia-accordo-iran-teheran-smentisce-stre-c978470769259ae1",
     "title": "Trump annuncia accordo iran, teheran smentisce: stretto hormuz in bilico",
@@ -8086,21 +8101,6 @@
       "minaccia russa nato",
       "schieramento putin 2026"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cf86f98e97a9e41f",
-    "slug": "borse-asiatiche-in-rosso-cf86f98e97a9e41f",
-    "title": "Asia in rosso: **miliardi di dollari bruciati** in un giorno tra chip e IA, Seul e Tokyo crollano",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-10T07:16:08.184648+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/8/406c939acadf025f3dcac05c3d089275.jpg",
-    "occhiello": "IL RAFFREDDAMENTO SULL'IA PROVOCA CROLLO MILIARDARIO IN ASIA",
-    "lead_preview": "Roma, 10 giugno. Le borse asiatiche hanno chiuso in profondo rosso, bruciando miliardi di capitalizzazione in una sola s",
-    "tags": [],
     "hero_eligible": true
   }
 ]
