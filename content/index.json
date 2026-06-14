@@ -1,5 +1,23 @@
 [
   {
+    "id": "8d8066ed37c59c19",
+    "slug": "gasolio-a-due-euro-al-litro-8d8066ed37c59c19",
+    "title": "Gasolio a due euro al litro",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-13T08:00:00.619468+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/13/2289ed3e138f0b3db4da0dd6072c06eb.jpg",
+    "occhiello": "GASOLIO A DUE EURO AL LITRO",
+    "lead_preview": "Roma, 13 giugno. I prezzi dei carburanti registrano variazioni che portano il gasolio a toccare la soglia di 2,000 euro ",
+    "tags": [
+      "prezzi carburanti 2024",
+      "crisi gasolio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1a48c9b360585583",
     "slug": "passato-glorioso-futuro-da-monetizzare-1a48c9b360585583",
     "title": "F1: Hamilton eguaglia Schumacher con 6 vittorie in Spagna",
@@ -1407,21 +1425,6 @@
     "image_url": "https://sport.sky.it/assets/images/a3149d7dcebebdfffb744379967f50d2d0937474/skysport/it/calcio/mondiali/2026/06/12/julian-quinones-messico-chi-e-primo-marcatore-mondiali-2026/Quinones_Esultanza.jpg",
     "occhiello": "SETTE GOL E SETTE MARCATORI DIVERSI NEI MONDIALI 2026",
     "lead_preview": "Roma, 12 giugno 2026. L'edizione dei Mondiali 2026, caratterizzata dal formato allargato a 48 squadre e 12 gironi, regis",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d8066ed37c59c19",
-    "slug": "gasolio-a-due-euro-al-litro-8d8066ed37c59c19",
-    "title": "Gasolio a due euro al litro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-13T08:00:00.619468+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/13/2289ed3e138f0b3db4da0dd6072c06eb.jpg",
-    "occhiello": "GASOLIO A DUE EURO AL LITRO",
-    "lead_preview": "Roma, 13 giugno. I prezzi dei carburanti registrano variazioni che portano il gasolio a toccare la soglia di 2,000 euro ",
     "tags": [],
     "hero_eligible": true
   },
