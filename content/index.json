@@ -1,5 +1,23 @@
 [
   {
+    "id": "f08c4335e086f457",
+    "slug": "migliaia-in-piazza-per-il-compleanno-di-re-carlo-i-f08c4335e086f457",
+    "title": "Carlo III sfila tra 1.000 soldati e Red Arrows: Londra si ferma per la monarchia che resiste",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-06-13T18:09:29.320401+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/13/4b0256b58d5f67457ab843df8bea356e.jpg",
+    "occhiello": "MIGLIAIA IN PIAZZA PER IL COMPLEANNO DI RE CARLO III",
+    "lead_preview": "Londra, 13 giugno. Migliaia di persone si sono radunate nelle strade della capitale britannica per assistere al Trooping",
+    "tags": [
+      "carlo iii",
+      "trooping the colour"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ffbff575486e703f",
     "slug": "ventotene-ospita-lottava-edizione-della-summer-sch-ffbff575486e703f",
     "title": "Ventotene ospita l'ottava edizione della summer school europea",
@@ -13,24 +31,6 @@
     "lead_preview": "Ventotene, 13 giugno 2026. L'isola pontina si prepara ad accogliere dal 14 al 19 giugno l'ottava edizione della Summer S",
     "tags": [
       "summer school europea"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f08c4335e086f457",
-    "slug": "migliaia-in-piazza-per-il-compleanno-di-re-carlo-i-f08c4335e086f457",
-    "title": "Migliaia in piazza per il compleanno di re carlo iii",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-13T18:09:29.320401+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/13/4b0256b58d5f67457ab843df8bea356e.jpg",
-    "occhiello": "MIGLIAIA IN PIAZZA PER IL COMPLEANNO DI RE CARLO III",
-    "lead_preview": "Londra, 13 giugno. Migliaia di persone si sono radunate nelle strade della capitale britannica per assistere al Trooping",
-    "tags": [
-      "trooping_the_colour_2024",
-      "re_carlo_iii_compleanno"
     ],
     "hero_eligible": true
   },
