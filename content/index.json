@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, domenica 14 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-14T04:00:34.223148+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — DOMENICA 14 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "a50a3c9474d493cd",
     "slug": "top-14-la-ghigliottina-dei-playoff-muove-milioni-i-a50a3c9474d493cd",
     "title": "Rugby: Pau e Racing 92 si sfidano per un posto in semifinale",
@@ -3495,26 +3515,6 @@
     "lead_preview": "Taormina, 12 giugno 2026. Emmanuelle Seigner riceve il Taormina Achievement Award durante la kermesse siciliana. L'attri",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, sabato 13 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-13T04:01:47.210591+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — SABATO 13 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "4e778f0020457260",
