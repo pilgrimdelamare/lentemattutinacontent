@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260614",
+    "slug": "libro-del-giorno-gloria-sta-in-dispartedi-andrea-biscar-20260614",
+    "title": "Il libro del giorno: «Gloria sta in dispartedi Andrea Biscaro»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo sulla condizione di un'adolescente hikikomori",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-14T07:00:37.155313+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/9788847248144_0_0_424_0_75-f0f23.jpg?1775675051",
+      "alt": "Copertina: Gloria sta in dispartedi Andrea Biscaro",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/9788847248144_0_0_424_0_75-f0f23.jpg?1775675051",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "755b913060bdd17d",
     "slug": "salemme-celebra-cinquantanni-di-teatro-riportando-755b913060bdd17d",
     "title": "Salemme celebra cinquant'anni di teatro riportando in scena e fuori nevica",
@@ -8086,21 +8105,6 @@
       "concerto pieranunzi",
       "rassegna classica al tramonto"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260610",
-    "slug": "libro-del-giorno-che-cose-il-trashdi-giuseppe-previtali-20260610",
-    "title": "Dai film di Ed Wood a C4: il Trash diventa fenomeno culturale, ma perché continua a dividerci?",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-10T07:00:38.457299+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829029280_0_0_424_0_75-efbd6.jpg?1775764474",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "Un'accurata analisi della categoria estetica del trash",
-    "tags": [],
     "hero_eligible": true
   }
 ]
