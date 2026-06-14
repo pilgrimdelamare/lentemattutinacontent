@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260614",
+    "slug": "libro-del-giorno-gloria-sta-in-dispartedi-andrea-biscar-20260614",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-14T07:00:37.155313+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/9788847248144_0_0_424_0_75-f0f23.jpg?1775675051",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo sulla condizione di un'adolescente hikikomori",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5af49ab23ff45ed5",
     "slug": "mondiali-di-calcio-accadde-oggi-il-gol-di-park-ji-5af49ab23ff45ed5",
     "title": "Mondiali di calcio, accadde oggi: il gol di park ji sung elimina il portogallo",
@@ -2046,25 +2061,6 @@
       "sospensione voto fujimori"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260614",
-    "slug": "libro-del-giorno-gloria-sta-in-dispartedi-andrea-biscar-20260614",
-    "title": "Il libro del giorno: «Gloria sta in dispartedi Andrea Biscaro»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo sulla condizione di un'adolescente hikikomori",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-14T07:00:37.155313+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/9788847248144_0_0_424_0_75-f0f23.jpg?1775675051",
-      "alt": "Copertina: Gloria sta in dispartedi Andrea Biscaro",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L207xH312/9788847248144_0_0_424_0_75-f0f23.jpg?1775675051",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "755b913060bdd17d",
