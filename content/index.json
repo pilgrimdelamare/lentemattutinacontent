@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, domenica 14 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-14T06:17:40.844986+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/20fc90cb168d7f475d83aa255d83563927b321d8/skytg24/it/cronaca/2026/06/14/prime-pagine-quotidiani-oggi-14-giugno/00_hero_rassegna_stampa_14_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI DOMENICA 14 GIUGNO 2026",
+    "lead_preview": "I giornali italiani aprono oggi con la tensione diplomatica tra Stati Uniti e Iran, dove un possibile accordo sulla sicu",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ea5ebb8edfdae029",
     "slug": "pugilato-come-ascensore-sociale-tra-ottocento-e-no-ea5ebb8edfdae029",
     "title": "Pugilato come ascensore sociale tra ottocento e novecento",
@@ -5205,25 +5224,6 @@
       "guerra usa-iran 2026",
       "crisi golfo persico",
       "ultimatum trump teheran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 12 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-12T05:45:45.150020+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/67f3521f07f312842d10f90b1277354edfee824a/skytg24/it/cronaca/2026/06/12/prime-pagine-quotidiani-oggi-12-giugno/rass12giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI VENERDÌ 12 GIUGNO",
-    "lead_preview": "La rassegna stampa di oggi è dominata dall'annuncio di un accordo tra Stati Uniti e Iran che ha portato Donald Trump a s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
