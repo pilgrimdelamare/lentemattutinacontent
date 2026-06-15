@@ -1,5 +1,20 @@
 [
   {
+    "id": "6368bc62b56fdf6b",
+    "slug": "bankitalia-certifica-calo-debito-a-3155-miliardi-6368bc62b56fdf6b",
+    "title": "Bankitalia certifica calo debito a 3.155 miliardi",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-15T10:03:04.262404+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/15/52cd9bc7be81e022e901109463d97671.jpg",
+    "occhiello": "IL DEBITO PUBBLICO SCENDE A 3.155,3 MILIARDI DI EURO",
+    "lead_preview": "Roma, 15 giugno 2026. La Banca d'Italia certifica una tregua contabile per le casse dello Stato: ad aprile il debito pub",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2f4312af9c795682",
     "slug": "ancona-calcio-in-lutto-per-la-morte-del-calciatore-2f4312af9c795682",
     "title": "Incidente mortale, il cordoglio dell'ancona calcio",
@@ -7891,24 +7906,6 @@
     "occhiello": "SENATO BLOCCATO PER ABSENZE DELLA MAGGIORANZA",
     "lead_preview": "Roma, 11 giugno. Il Senato si è bloccato per tre volte a causa della mancanza del numero legale in aula. L'oggetto della",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "20104ff91a4a313b",
-    "slug": "esplosioni-sullisola-di-kish-autorita-iraniane-non-20104ff91a4a313b",
-    "title": "Esplosioni nell'isola di kish: il nodo strategico del golfo persico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-10T21:31:32.013797+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/2/28/4cafb112f09db542c832ed2e8eff08e2.jpg",
-    "occhiello": "ESPLOSIONI NELL'ISOLA DI KISH: IL NODO STRATEGICO DEL GOLFO PERSICO",
-    "lead_preview": "Kish, 10 giugno 2026. Esplosioni sono state segnalate nella serata di mercoledì sull'isola di Kish, nota località turist",
-    "tags": [
-      "esplosioni kish",
-      "golfo persico"
-    ],
     "hero_eligible": true
   }
 ]
