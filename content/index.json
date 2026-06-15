@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 15 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-15T04:15:19.503792+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 15 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c6c02aaa5ba6644d",
     "slug": "ferrari-vince-a-barcellona-ma-il-motore-tradisce-l-c6c02aaa5ba6644d",
     "title": "F1: Hamilton vince, Leclerc esce per guasto. Vasseur: «Non siamo campioni»",
@@ -2634,26 +2654,6 @@
     "lead_preview": "Barcellona, 13 giugno. Sky Sport rilancia la narrazione delle sei vittorie di Lewis Hamilton al Gran Premio di Spagna, e",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, domenica 14 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-14T04:00:34.223148+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — DOMENICA 14 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "a50a3c9474d493cd",
