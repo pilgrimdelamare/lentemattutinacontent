@@ -1,0 +1,59 @@
+{
+  "id": "db49c8d98da8a3a9",
+  "slug": "gentleos-fa-girare-sistemi-moderni-su-hardware-di-db49c8d98da8a3a9",
+  "title": "Gentleos fa girare sistemi moderni su hardware di quarant'anni fa",
+  "titles": [
+    "GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA",
+    "GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA",
+    "GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA",
+  "lead": "Roma, 15 giugno 2026. Il progetto open-source GentleOs, pubblicato sulla piattaforma GitHub da un utente identificato come luke8086, permette di installare un sistema operativo moderno su computer obsoleti risalenti fino agli anni ottanta. L'iniziativa offre un'interfaccia grafica funzionale e una suite di applicazioni essenziali, estendendo la vita operativa di macchine dotate di processori ormai fuori produzione, inclusi i modelli Intel 80186 lanciati sul mercato nel 1982.",
+  "corpo1": "Il software si propone come una piattaforma destinata a hobbisti e appassionati di informatica retrò che desiderano riutilizzare hardware dimenticato in cantina o recuperato presso mercatini dell'usato. Secondo quanto dichiarato nella pagina ufficiale del progetto, lo scopo è fornire un ambiente semplice per sperimentare con architetture datate ed eseguire applicazioni grafiche interattive direttamente sull'hardware. I requisiti tecnici minimi includono un processore i386, 4 megabyte di memoria ram e un display vga con risoluzione 640 per 480 pixel. Il sistema è progettato come un'architettura monolitica, in cui tutte le componenti operano all'interno di un unico spazio di indirizzamento per massimizzare l'efficienza delle risorse. Oltre alla versione principale, è disponibile una variante a 16 bit capace di operare su processori come l'Intel 80186 del 1982. L'interfaccia, descritta come pulita e gradevole, integra strumenti di base quali ora, calendario, calcolatrice e utility per il disegno, accompagnati da giochi come il solitario, Snake e memory. Il codice è interamente disponibile su GitHub, consentendo a chiunque di analizzare la struttura del sistema e contribuire al suo sviluppo, in linea con le pratiche tipiche della condivisione aperta di software.",
+  "corpo2": "Il successo di progetti come GentleOs non va confuso con un'effettiva utilità produttiva nel panorama tecnologico attuale, dominato da sistemi operativi che richiedono gigabyte di memoria e processori multi-core per gestire compiti elementari. L'operazione di luke8086 mette in luce il paradosso dell'obsolescenza programmata: mentre le aziende di software contemporanee caricano i propri applicativi di telemetria, servizi in cloud e interfacce pesanti che rendono inservibili macchine di pochi anni, la capacità di far girare un sistema operativo completo su 4 megabyte di ram dimostra che il limite non risiede nell'hardware, ma nell'inefficienza del software moderno. L'architettura monolitica scelta per questo progetto, pur essendo considerata superata per la Sicurezza e la stabilità dei sistemi aziendali moderni a causa dell'assenza di isolamento tra i processi, rimane la scelta tecnica obbligata per chi deve spremere ogni singolo ciclo di clock da un processore degli anni ottanta. Non siamo di fronte a una rivoluzione dell'informatica di massa, ma a un esercizio di stile che evidenzia quanto il divario tra la Potenza di calcolo disponibile e quella effettivamente utilizzata dall'utente medio sia cresciuto a dismisura. La diffusione di simili progetti tra la comunità degli appassionati serve a mantenere vive competenze tecniche di basso livello che le moderne astrazioni di programmazione tendono a nascondere, rendendo gli sviluppatori attuali sempre più dipendenti da librerie esterne e framework pre-confezionati. La disponibilità di un sistema operativo che gira su un processore dell'82 è la dimostrazione materiale che la tecnologia non diventa inutilizzabile per limiti fisici, ma perché il mercato decide unilateralmente di interrompere il supporto a ciò che non può essere più monetizzato attraverso aggiornamenti costanti o nuovi acquisti. L'installazione di GentleOs su un vecchio pc non trasforma una macchina d'epoca in uno strumento di lavoro contemporaneo, ma ne sancisce l'esclusione definitiva dal circuito economico del web odierno, rendendola un oggetto puramente ludico e privo di connettività sicura.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-06-15T08:47:20.253532+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA\",\n  \"description\": \"Roma, 15 giugno 2026. Il progetto open-source GentleOs, pubblicato sulla piattaforma GitHub da un utente identificato come luke8086, permette di installare un sistema operativo moderno su computer obsoleti risalenti fino agli anni ottanta. L'iniziativa offre un'interfaccia grafica funzionale e una s\",\n  \"articleBody\": \"Roma, 15 giugno 2026. Il progetto open-source GentleOs, pubblicato sulla piattaforma GitHub da un utente identificato come luke8086, permette di installare un sistema operativo moderno su computer obsoleti risalenti fino agli anni ottanta. L'iniziativa offre un'interfaccia grafica funzionale e una suite di applicazioni essenziali, estendendo la vita operativa di macchine dotate di processori ormai fuori produzione, inclusi i modelli Intel 80186 lanciati sul mercato nel 1982. Il software si propone come una piattaforma destinata a hobbisti e appassionati di informatica retrò che desiderano riutilizzare hardware dimenticato in cantina o recuperato presso mercatini dell'usato. Secondo quanto dichiarato nella pagina ufficiale del progetto, lo scopo è fornire un ambiente semplice per sperimentare con architetture datate ed eseguire applicazioni grafiche interattive direttamente sull'hardware. I requisiti tecnici minimi includono un processore i386, 4 megabyte di memoria ram e un display vga con risoluzione 640 per 480 pixel. Il sistema è progettato come un'architettura monolitica, in cui tutte le componenti operano all'interno di un unico spazio di indirizzamento per massimizzare l'efficienza delle risorse. Oltre alla versione principale, è disponibile una variante a 16 bit capace di operare su processori come l'Intel 80186 del 1982. L'interfaccia, descritta come pulita e gradevole, integra strumenti di base quali ora, calendario, calcolatrice e utility per il disegno, accompagnati da giochi come il solitario, Snake e memory. Il codice è interamente disponibile su GitHub, consentendo a chiunque di analizzare la struttura del sistema e contribuire al suo sviluppo, in linea con le pratiche tipiche della condivisione aperta di software. Il successo di progetti come GentleOs non va confuso con un'effettiva utilità produttiva nel panorama tecnologico attuale, dominato da sistemi operativi che richiedono gigabyte di memoria e processori multi-core per gestire compiti elementari. L'operazione di luke8086 mette in luce il paradosso dell'obsolescenza programmata: mentre le aziende di software contemporanee caricano i propri applicativi di telemetria, servizi in cloud e interfacce pesanti che rendono inservibili macchine di pochi anni, la capacità di far girare un sistema operativo completo su 4 megabyte di ram dimostra che il limite non risiede nell'hardware, ma nell'inefficienza del software moderno. L'architettura monolitica scelta per questo progetto, pur essendo considerata superata per la Sicurezza e la stabilità dei sistemi aziendali moderni a causa dell'assenza di isolamento tra i processi, rimane la scelta tecnica obbligata per chi deve spremere ogni singolo ciclo di clock da un processore degli anni ottanta. Non siamo di fronte a una rivoluzione dell'informatica di massa, ma a un esercizio di stile che evidenzia quanto il divario tra la Potenza di calcolo disponibile e quella effettivamente utilizzata dall'utente medio sia cresciuto a dismisura. La diffusione di simili progetti tra la comunità degli appassionati serve a mantenere vive competenze tecniche di basso livello che le moderne astrazioni di programmazione tendono a nascondere, rendendo gli sviluppatori attuali sempre più dipendenti da librerie esterne e framework pre-confezionati. La disponibilità di un sistema operativo che gira su un processore dell'82 è la dimostrazione materiale che la tecnologia non diventa inutilizzabile per limiti fisici, ma perché il mercato decide unilateralmente di interrompere il supporto a ciò che non può essere più monetizzato attraverso aggiornamenti costanti o nuovi acquisti. L'installazione di GentleOs su un vecchio pc non trasforma una macchina d'epoca in uno strumento di lavoro contemporaneo, ma ne sancisce l'esclusione definitiva dal circuito economico del web odierno, rendendola un oggetto puramente ludico e privo di connettività sicura.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-15T08:47:20.253532+00:00\",\n  \"dateModified\": \"2026-06-15T08:47:20.253532+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/db49c8d98da8a3a9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/db49c8d98da8a3a9\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Wired Italia",
+  "source_type": "competitor",
+  "original_url": "https://www.wired.it/article/gentleos-sistema-operativo-pc-vintage/",
+  "related": [
+    {
+      "title": "Cosa succede quando torni ad avere il controllo dello smartphone",
+      "url": "/tecnologia/20-volontari-in-montagna-3-giorni-senza-smartphone-4f4656c1cb84e261",
+      "id": "4f4656c1cb84e261",
+      "image_url": "https://media-assets.wired.it/photos/6a2c1760f540391e0f640853/16:9/w_1280,c_limit/DigitalDetox8_APTValDiFassa_036_MATTIA_RIZZI_20260529_CONTRIN_VNZ7223_HighRes.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Xiaomi 17T: Leica 5x sulla base ma 749 euro uccidono il sogno del flagship killer",
+      "url": "/tecnologia/xiaomi-17t-piu-autonomia-piu-zoom-e-meno-compromes-6c81c79d4d9a7f50",
+      "id": "6c81c79d4d9a7f50",
+      "image_url": "https://media-assets.wired.it/photos/6a27e0865158dc2a74bdfe08/16:9/w_1280,c_limit/Xiaomi%2017T_1.jpeg",
+      "image_type": "image"
+    },
+    {
+      "title": "Chatgpt e google ai consigliano siti di truffe online",
+      "url": "/tecnologia/chatgpt-e-google-ai-consigliano-siti-di-truffe-onl-3f82cf9309de1f7c",
+      "id": "3f82cf9309de1f7c",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/11/123628575-b04c45e8-e71c-4851-88dc-d53e0ee792f9.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
