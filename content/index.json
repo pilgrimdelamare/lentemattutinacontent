@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260615",
+    "slug": "libro-del-giorno-le-cicogne-della-scaladi-silvia-montem-20260615",
+    "title": "Dalla Scala alla sartoria: Violetta ricuce il suo destino nella Milano fascista",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-15T07:00:44.527215+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788833578132_0_0_424_0_75-cc332.jpg?1775718382",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nella Milano degli anni Trenta",
+    "tags": [
+      "milano fascista",
+      "libro del giorno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0a0a681a57b31e85",
     "slug": "flavio-cobolli-riparte-dallerba-di-halle-dopo-pari-0a0a681a57b31e85",
     "title": "Tennis: Cobolli sfida Tiafoe ad Halle dopo il sogno infranto al Roland Garros",
@@ -3156,25 +3174,6 @@
     "lead_preview": "Venezia, 14 giugno 2026. Emma Dante torna alla Biennale Teatro per presentare i nuovi sviluppi del suo progetto dedicato",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260615",
-    "slug": "libro-del-giorno-le-cicogne-della-scaladi-silvia-montem-20260615",
-    "title": "Il libro del giorno: «Le cicogne della Scaladi Silvia Montemurro»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico ambientato nella Milano degli anni Trenta",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-15T07:00:44.527215+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788833578132_0_0_424_0_75-cc332.jpg?1775718382",
-      "alt": "Copertina: Le cicogne della Scaladi Silvia Montemurro",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788833578132_0_0_424_0_75-cc332.jpg?1775718382",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "16fabe382687202a",
