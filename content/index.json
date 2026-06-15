@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260615",
+    "slug": "libro-del-giorno-le-cicogne-della-scaladi-silvia-montem-20260615",
+    "title": "Il libro del giorno: «Le cicogne della Scaladi Silvia Montemurro»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nella Milano degli anni Trenta",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-15T07:00:44.527215+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788833578132_0_0_424_0_75-cc332.jpg?1775718382",
+      "alt": "Copertina: Le cicogne della Scaladi Silvia Montemurro",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/9788833578132_0_0_424_0_75-cc332.jpg?1775718382",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "16fabe382687202a",
     "slug": "g7-a-evian-omette-clima-per-trump-focus-su-ucraina-16fabe382687202a",
     "title": "G7 a Evian omette clima per Trump, focus su Ucraina",
@@ -7882,21 +7901,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/29/d3d915d820db6e2a3e6f6287e637d072.jpg",
     "occhiello": "IL CAPO DI GABINETTO DI MILEI CHIEDE IL CONDONO FISCALE",
     "lead_preview": "Buenos Aires, 10 giugno 2026. Manuel Adorni, braccio destro del Presidente Javier Milei, è finito al centro di una nuova",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0147b02944393bd1",
-    "slug": "il-museo-macro-di-roma-punta-sulle-voci-femminili-0147b02944393bd1",
-    "title": "Il Macro di Roma punta sull’arte femminile per la programmazione estiva",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-10T17:08:37.649413+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/10/c6156a0bd7b3f808c2e5e775ec5538e3.jpg",
-    "occhiello": "Il Macro di Roma punta sull’arte femminile per la programmazione estiva",
-    "lead_preview": "Roma, 10 giugno 2026. Il Macro di Roma inaugura la programmazione estiva concentrandosi sull'arte al femminile, attraver",
     "tags": [],
     "hero_eligible": true
   }
