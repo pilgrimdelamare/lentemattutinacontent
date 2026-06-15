@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 15 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-15T06:03:05.099505+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/7ea9253cafea1f53ef16ed1fd32355e5048f54ca/skytg24/it/cronaca/2026/06/15/prime-pagine-quotidiani-oggi-15-giugno/rassegna15giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 15 GIUGNO",
+    "lead_preview": "I giornali di oggi convergono sull'accordo tra Iran e Stati Uniti, con titoli come \"Trump: 'C'è l'accordo con l'Iran'\" s",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77ac5df68a44088b",
     "slug": "malato-invita-meloni-alla-fiera-77ac5df68a44088b",
     "title": "Malato difende la Fiera dell'editoria",
@@ -2570,25 +2589,6 @@
     "lead_preview": "Ventotene, 13 giugno 2026. L'isola pontina si prepara ad accogliere dal 14 al 19 giugno l'ottava edizione della Summer S",
     "tags": [
       "summer school europea"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, domenica 14 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-14T06:17:40.844986+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/20fc90cb168d7f475d83aa255d83563927b321d8/skytg24/it/cronaca/2026/06/14/prime-pagine-quotidiani-oggi-14-giugno/00_hero_rassegna_stampa_14_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI DOMENICA 14 GIUGNO 2026",
-    "lead_preview": "I giornali italiani aprono oggi con la tensione diplomatica tra Stati Uniti e Iran, dove un possibile accordo sulla sicu",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
