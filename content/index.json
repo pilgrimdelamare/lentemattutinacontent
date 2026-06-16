@@ -1,5 +1,20 @@
 [
   {
+    "id": "db49c8d98da8a3a9",
+    "slug": "gentleos-fa-girare-sistemi-moderni-su-hardware-di-db49c8d98da8a3a9",
+    "title": "GitHub pubblica GentleOs, il SO che fa rivivere hardware del 1982 — e chiama a contribuire chiunque",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-06-15T08:47:20.253532+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png",
+    "occhiello": "GENTLEOS RILANCIA HARDWARE DEGLI ANNI '80 CON UN SOFTWARE OPEN-SOURCE",
+    "lead_preview": "Roma, 15 giugno 2026. Il progetto open-source GentleOs, pubblicato sulla piattaforma GitHub da un utente identificato co",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0f69842366270380",
     "slug": "israel-katz-estende-presenza-idf-in-libano-siria-e-0f69842366270380",
     "title": "L'esercito israeliano mantiene il controllo di zone di Sicurezza",
@@ -2513,25 +2528,6 @@
     "tags": [
       "mondiali calcio",
       "condizioni messi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db49c8d98da8a3a9",
-    "slug": "gentleos-fa-girare-sistemi-moderni-su-hardware-di-db49c8d98da8a3a9",
-    "title": "GentleOs riporta in vita PC anni '80: open-source per hardware obsoleto su GitHub",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-15T08:47:20.253532+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png",
-    "occhiello": "GENTLEOS FA GIRARE SISTEMI MODERNI SU HARDWARE DI QUARANT'ANNI FA",
-    "lead_preview": "Roma, 15 giugno 2026. Il progetto open-source GentleOs, pubblicato sulla piattaforma GitHub da un utente identificato co",
-    "tags": [
-      "gentleos",
-      "open-source",
-      "hardware obsoleto"
     ],
     "hero_eligible": true
   },
