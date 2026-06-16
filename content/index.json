@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260616",
+    "slug": "libro-del-giorno-quando-il-mondo-dormedi-francesca-alba-20260616",
+    "title": "Francesca Albanese accusa: il libro che svela il genocidio nella Striscia di Gaza",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-16T07:00:48.470961+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/71adtw10ewl__sl1500_-2eca6.jpg?1775705392",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un accorato appello scritto dalla Relatrice Speciale delle Nazioni Unite sui territori palestinesi occupati",
+    "tags": [
+      "francesca albanese",
+      "guerra gaza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1375d99a21f6e7da",
     "slug": "apple-sotto-indagine-bruxelles-vuole-aprire-icloud-1375d99a21f6e7da",
     "title": "Bruxelles mette Apple sotto accusa: libera i dati dai blocchi di iCloud",
@@ -3209,25 +3227,6 @@
     "lead_preview": "Roma, 16 giugno. Alisya e Sarah, due Sorelle, sono scomparse dall'Abruzzo da oltre dieci giorni. Un falso allarme Social",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260616",
-    "slug": "libro-del-giorno-quando-il-mondo-dormedi-francesca-alba-20260616",
-    "title": "Il libro del giorno: «Quando il mondo dormedi Francesca Albanese»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un accorato appello scritto dalla Relatrice Speciale delle Nazioni Unite sui territori palestinesi occupati",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-16T07:00:48.470961+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/71adtw10ewl__sl1500_-2eca6.jpg?1775705392",
-      "alt": "Copertina: Quando il mondo dormedi Francesca Albanese",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/71adtw10ewl__sl1500_-2eca6.jpg?1775705392",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "399c1795f4455362",
