@@ -1,5 +1,24 @@
 [
   {
+    "id": "b76347d1caf2cd7e",
+    "slug": "nessuna-notizia-disponibile-nei-documenti-forniti-b76347d1caf2cd7e",
+    "title": "Ansa invia solo Cookie e abbonamenti: Ivass e polizze catastrofali spariscono dai comunicati",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-15T11:51:58.586892+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/3/14/eb33495af6724fdcedcd5e838a4045d6.jpg",
+    "occhiello": "NESSUNA NOTIZIA DISPONIBILE NEI DOCUMENTI FORNITI PER IL RILANCIO",
+    "lead_preview": "Roma, 15 giugno 2026. L'analisi condotta sul materiale informativo trasmesso in data odierna non consente di riscontrare",
+    "tags": [
+      "ansa_agcom",
+      "censura_ivass",
+      "cookie_abbonamenti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f06f7ca346eedfa",
     "slug": "onu-2300-morti-in-haiti-in-sei-mesi-turk-chiede-55-4f06f7ca346eedfa",
     "title": "ONU: 2.300 morti in Haiti in sei mesi, Turk chiede 5.500 soldati stranieri per fermare le gang",
@@ -3397,21 +3416,6 @@
     "image_url": "https://sport.sky.it/assets/images/cf4e3e77bc520b1cc2716b6c7506c81d42078eff/skysport/it/motori/formula-1/video/2026/06/14/1105209_1781448791250_thumb_494.0000001_1781449137020.jpg",
     "occhiello": "FERRARI VINCE A BARCELLONA MA IL MOTORE TRADISCE LECLERC",
     "lead_preview": "Barcellona, 14 giugno 2026. Lewis Hamilton ha conquistato il successo nel Gran Premio di Catalogna disputato oggi, in un",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b76347d1caf2cd7e",
-    "slug": "nessuna-notizia-disponibile-nei-documenti-forniti-b76347d1caf2cd7e",
-    "title": "Nessuna notizia disponibile nei documenti forniti per il rilancio",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-15T11:51:58.586892+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/3/14/eb33495af6724fdcedcd5e838a4045d6.jpg",
-    "occhiello": "NESSUNA NOTIZIA DISPONIBILE NEI DOCUMENTI FORNITI PER IL RILANCIO",
-    "lead_preview": "Roma, 15 giugno 2026. L'analisi condotta sul materiale informativo trasmesso in data odierna non consente di riscontrare",
     "tags": [],
     "hero_eligible": true
   },
