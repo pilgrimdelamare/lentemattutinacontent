@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 16 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-16T05:46:39.280758+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/ae0b11b3f43f81baf23a4ea95c6c36165014fb62/skytg24/it/cronaca/2026/06/16/prime-pagine-quotidiani-oggi-16-giugno/Composite_16_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE – 16 GIUGNO 2026: ACCORDO USA-IRAN, MISSIONE EUROPEA E CRISI DEL GOLFO",
+    "lead_preview": "I principali quotidiani italiani aprono oggi sull’intesa tra Stati Uniti e Iran per la riapertura dello Stretto di Hormu",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a1c7baab7874b39b",
     "slug": "trump-e-iran-scambiano-uranio-congelato-per-asset-a1c7baab7874b39b",
     "title": "Trump e Iran scambiano uranio congelato per asset in 60 giorni",
@@ -4003,25 +4022,6 @@
     "occhiello": "EMMA DANTE PORTA IL CUNTU BASILIANO ALLA BIENNALE TEATRO",
     "lead_preview": "Venezia, 14 giugno 2026. Emma Dante torna alla Biennale Teatro per presentare i nuovi sviluppi del suo progetto dedicato",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 15 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-15T06:03:05.099505+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/7ea9253cafea1f53ef16ed1fd32355e5048f54ca/skytg24/it/cronaca/2026/06/15/prime-pagine-quotidiani-oggi-15-giugno/rassegna15giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 15 GIUGNO",
-    "lead_preview": "I giornali di oggi convergono sull'accordo tra Iran e Stati Uniti, con titoli come \"Trump: 'C'è l'accordo con l'Iran'\" s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
