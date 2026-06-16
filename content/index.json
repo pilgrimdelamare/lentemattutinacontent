@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, martedì 16 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-16T04:02:16.489963+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — MARTEDÌ 16 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8f9d2d64d9851b05",
     "slug": "la-boj-alza-i-tassi-all1-il-giappone-paga-il-conto-8f9d2d64d9851b05",
     "title": "La boj alza i tassi all'1%: il giappone paga il conto della fine dei qena",
@@ -3963,26 +3983,6 @@
     "lead_preview": "Roma, 14 giugno. Il prezzo della benzina in modalità self service si attesta a 1,891 euro al litro, mentre il diesel tor",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, lunedì 15 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-15T04:15:19.503792+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — LUNEDÌ 15 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "60efc19ac7275819",
