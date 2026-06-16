@@ -1,5 +1,24 @@
 [
   {
+    "id": "0f69842366270380",
+    "slug": "israel-katz-estende-presenza-idf-in-libano-siria-e-0f69842366270380",
+    "title": "IDF mantiene presenza militare in Libano-Siria-Gaza per barriera anti-jihadisti",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-15T08:30:25.835645+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/1/4fc4aee887658585a3e4582d22e70a8d.jpg",
+    "occhiello": "L'esercito israeliano mantiene il controllo di zone di sicurezza",
+    "lead_preview": "Gerusalemme, 15 giugno 2026. Il Ministro degli Esteri israeliano Israel Katz ha confermato la volontà del governo di man",
+    "tags": [
+      "conflitto israelo-palestinese",
+      "idf in libano",
+      "guerra in siria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0ffa2790242ed63d",
     "slug": "putin-colpisce-siti-religiosi-in-ucraina-0ffa2790242ed63d",
     "title": "Attacchi a siti religiosi mentre il g7 si riunisce",
@@ -2480,23 +2499,6 @@
     "lead_preview": "Roma, 15 giugno 2026. Il cantante britannico Tony Hadley, ex frontman degli Spandau Ballet, annuncia un tour estivo in I",
     "tags": [
       "tony hadley tour"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f69842366270380",
-    "slug": "israel-katz-estende-presenza-idf-in-libano-siria-e-0f69842366270380",
-    "title": "Israele mantiene truppe in Libano, Siria e Gaza",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-15T08:30:25.835645+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/1/4fc4aee887658585a3e4582d22e70a8d.jpg",
-    "occhiello": "L'esercito israeliano mantiene il controllo di zone di sicurezza",
-    "lead_preview": "Gerusalemme, 15 giugno 2026. Il Ministro degli Esteri israeliano Israel Katz ha confermato la volontà del governo di man",
-    "tags": [
-      "conflitto israele"
     ],
     "hero_eligible": true
   },
