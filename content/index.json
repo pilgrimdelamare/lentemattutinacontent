@@ -1,5 +1,23 @@
 [
   {
+    "id": "a5647218bc3a14e1",
+    "slug": "bologna-tributa-corbucci-con-django-e-il-documenta-a5647218bc3a14e1",
+    "title": "Bologna celebra Corbucci con 'Django' e documentario in 8mm",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-17T09:56:12.980155+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/17/c7439505886c3cc55cc9dcfc9b735f7c.jpg",
+    "occhiello": "IL CINEMA RITROVATO CELEBRA IL CENTENARIO DI SERGIO CORBUCCI",
+    "lead_preview": "Bologna, 17 giugno 2026. Il festival Il Cinema Ritrovato dedica il 18 giugno una retrospettiva a Sergio Corbucci per cel",
+    "tags": [
+      "cinema ritrovato",
+      "sergio corbucci"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db9050bcb8ff5d61",
     "slug": "torino-al-via-gli-abbonamenti-per-i-centoventi-ann-db9050bcb8ff5d61",
     "title": "Torino: Parte la campagna abbonamenti per il centoventesimo anniversario",
@@ -3158,21 +3176,6 @@
       "fujifilm milano",
       "centro endoscopia milano"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a5647218bc3a14e1",
-    "slug": "bologna-tributa-corbucci-con-django-e-il-documenta-a5647218bc3a14e1",
-    "title": "Bologna tributa Corbucci con Django e il documentario 'Sergio e Mirta'",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-17T09:56:12.980155+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/17/c7439505886c3cc55cc9dcfc9b735f7c.jpg",
-    "occhiello": "IL CINEMA RITROVATO CELEBRA IL CENTENARIO DI SERGIO CORBUCCI",
-    "lead_preview": "Bologna, 17 giugno 2026. Il festival Il Cinema Ritrovato dedica il 18 giugno una retrospettiva a Sergio Corbucci per cel",
-    "tags": [],
     "hero_eligible": true
   },
   {
