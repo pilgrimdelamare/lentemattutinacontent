@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-17T04:07:23.628055+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "6ccc0d30fb6ec727",
     "slug": "sassuolo-squinzi-assume-cariche-top-carnevali-fuor-6ccc0d30fb6ec727",
     "title": "Sassuolo: la famiglia Mapei stravolge la governance, bilancio e scouting ora rispondono solo a loro",
@@ -8058,23 +8077,6 @@
     "occhiello": "INFANTINO PUBBLICA UNA FOTO DI RIVERA PER IL MONDIALE 2030",
     "lead_preview": "Roma, 12 giugno 2026. Gianni Infantino, Presidente della FIFA, ha condiviso sui propri canali social una fotografia che ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cf5ac8b05ff82afb",
-    "slug": "biglietti-a-prezzi-folli-per-lesordio-a-los-angele-cf5ac8b05ff82afb",
-    "title": "Biglietti a prezzi folli per l'esordio a los angeles",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-12T22:08:47.343856+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/b3377a4bd3fe1259fc800ecb4b4a9d16.jpg",
-    "occhiello": "BIGLIETTI A PREZZI FOLLI PER L'ESORDIO A LOS ANGELES",
-    "lead_preview": "Los Angeles, 12 giugno. L'esordio della nazionale degli Stati Uniti ai campionati mondiali di calcio ha generato un'eufo",
-    "tags": [
-      "mondiali di calcio"
-    ],
     "hero_eligible": true
   }
 ]
