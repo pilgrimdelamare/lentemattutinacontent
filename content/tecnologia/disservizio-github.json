@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. ",
   "titles": [
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. ",
+    "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. ",
+    "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIATTIVATO. SERVIZI RISTABILITI.",
+  "lead": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulteriori anomalie segnalate.",
+  "corpo1": "Il disservizio su GitHub è iniziato alle ore 14:32 UTC e si è protratto per 56 minuti, con un impatto generalizzato su repository, API e funzionalità collaborative. Secondo le comunicazioni ufficiali, il problema è stato risolto alle 15:28 UTC, ripristinando l’accesso completo ai servizi. Il team ha confermato il ritorno alla normalità operativa senza segnalazioni di perdite di dati o corruzioni. Gli utenti sono invitati a verificare il corretto funzionamento delle proprie istanze.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-17T04:07:23.628055+00:00",
+  "published_at": "2026-06-17T04:48:21.612269+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
+      "title": "Trei giovani italiani sviluppano sistema di monitoraggio forestale",
+      "url": "/tecnologia/trei-giovani-italiani-sviluppano-sistema-di-monito-fac7cd065e141cdf",
+      "id": "fac7cd065e141cdf",
+      "image_url": "https://media-assets.wired.it/photos/6a2ad574097af5fe761b619e/16:9/w_1280,c_limit/%E6%A3%AE%20-%20Dashboard.png",
+      "image_type": "image"
+    },
+    {
       "title": "Prime day 2026, tutti gli sconti sui robot ecovacs dal robot aspirapolvere a que",
       "url": "/tecnologia/prime-day-2026-tutti-gli-sconti-sui-robot-ecovacs-f147d8cb4a85f202",
       "id": "f147d8cb4a85f202",
       "image_url": "https://media-assets.wired.it/photos/6a31230c94ac88852770e689/16:9/w_1280,c_limit/Amazon%20Prime%20Day%202026%20ecovacs.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Apple slitta il lancio di iPhone 18: debutto previsto per la primavera",
-      "url": "/tecnologia/apple-posticipa-il-lancio-di-iphone-18-al-2027-0cede243553a3043",
-      "id": "0cede243553a3043",
-      "image_url": "https://media-assets.wired.it/photos/69fc4bf5e508bd1f983c3e71/16:9/w_1280,c_limit/2234529982",
       "image_type": "image"
     }
   ],
