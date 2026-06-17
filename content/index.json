@@ -1,5 +1,23 @@
 [
   {
+    "id": "64feafc0c957bd07",
+    "slug": "spacex-sorpassa-microsoft-nella-classifica-dei-tit-64feafc0c957bd07",
+    "title": "Spacex sorpassa microsoft nella classifica dei titoli più valutati al mondo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-16T14:44:48.847476+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/86df9922cf19eb6d527904b4fad113fd.jpg",
+    "occhiello": "SPACEX SORPASSA MICROSOFT NELLA CLASSIFICA DEI TITOLI PIÙ VALUTATI AL MONDO",
+    "lead_preview": "Redmond, 16 giugno 2026. La geografia del potere finanziario globale cambia volto con il sorpasso di SpaceX su Microsoft",
+    "tags": [
+      "spacex",
+      "elon musk"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9215463e99eaa2b6",
     "slug": "made-in-italy-sfida-i-dazi-lexport-vola-a-643-mili-9215463e99eaa2b6",
     "title": "Made in Italy sfida i dazi: l’export vola a 643 miliardi e batte la crisi globale",
@@ -2485,25 +2503,6 @@
       "antitrust apple",
       "indagine icloud",
       "concorrenza cloud"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "64feafc0c957bd07",
-    "slug": "spacex-sorpassa-microsoft-nella-classifica-dei-tit-64feafc0c957bd07",
-    "title": "SpaceX sorpassa Microsoft: 17% di crescita e 60 miliardi per Cursor, Elon Musk domina lo spazio",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-16T14:44:48.847476+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/12/86df9922cf19eb6d527904b4fad113fd.jpg",
-    "occhiello": "SPACEX SORPASSA MICROSOFT NELLA CLASSIFICA DEI TITOLI PIÙ VALUTATI AL MONDO",
-    "lead_preview": "Redmond, 16 giugno 2026. La geografia del potere finanziario globale cambia volto con il sorpasso di SpaceX su Microsoft",
-    "tags": [
-      "spacex sorpassa microsoft",
-      "cursor elon musk",
-      "valutazione aziende tech"
     ],
     "hero_eligible": true
   },
