@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-17T17:40:00.949413+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "a2730d958ee9a7a0",
     "slug": "coalizione-del-campo-largo-fissa-appuntamenti-a-lu-a2730d958ee9a7a0",
     "title": "Renzi esclude da Campo Largo, accusa: 'Solo Sinistra radicale'",
@@ -8002,21 +8021,6 @@
     "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDYvMTQvMDgxMzIyOTkzLTMzNDM5YzEyLTdiNWQtNGU5NS04ZWEyLTUyOGFjZDRmMWQwMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
     "occhiello": "TRUMP ANNUNCIA ACCORDO IRAN, TEHERAN SMENTISCE: STRETTO HORMUZ IN BILICO",
     "lead_preview": "Roma, 14 giugno. Donald Trump ha annunciato la firma odierna di un accordo quadro con l'Iran che, a suo dire, impedirà a",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1269a3106d9ca8ce",
-    "slug": "diesel-sotto-i-2-euro-un-sollievo-che-non-ce-1269a3106d9ca8ce",
-    "title": "Benzina scende a 1,891 euro al litro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-14T08:27:34.865860+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/7/d5312155d2e24cb98107128908209218.jpg",
-    "occhiello": "DIESEL SOTTO I 2 EURO: UN SOLLIEVO CHE NON C'È",
-    "lead_preview": "Roma, 14 giugno. Il prezzo della benzina in modalità self service si attesta a 1,891 euro al litro, mentre il diesel tor",
     "tags": [],
     "hero_eligible": true
   }
