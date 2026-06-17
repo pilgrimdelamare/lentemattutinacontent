@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato online dopo 60 minuti di interruzione.",
   "titles": [
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato online dopo 60 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 60 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 60 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIPRISTINATO",
+  "lead": "ChatGPT è tornato online dopo 60 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 60 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-17T17:40:00.949413+00:00",
+  "published_at": "2026-06-17T18:25:39.178210+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
