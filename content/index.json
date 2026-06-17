@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-17T04:48:21.612269+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIATTIVATO. SERVIZI RISTABILITI.",
+    "lead_preview": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulte",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "fac7cd065e141cdf",
     "slug": "trei-giovani-italiani-sviluppano-sistema-di-monito-fac7cd065e141cdf",
     "title": "Trei giovani italiani sviluppano sistema di monitoraggio forestale",
@@ -158,25 +177,6 @@
     "lead_preview": "Roma, 16 giugno 2026. L'agenzia di stampa ANSA ha aggiornato le modalità di fruizione dei propri contenuti digitali, int",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-17T04:07:23.628055+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6ccc0d30fb6ec727",
