@@ -1,5 +1,23 @@
 [
   {
+    "id": "3ea6a0e715326f0c",
+    "slug": "fondatore-del-dialogo-tra-chiesa-e-stato-3ea6a0e715326f0c",
+    "title": "Fondatore del dialogo tra chiesa e stato",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-06-16T20:37:33.229868+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/890a22ec8ca577296de140ccc45da909.jpg",
+    "occhiello": "FONDATORE DEL DIALOGO TRA CHIESA E STATO",
+    "lead_preview": "Roma, 16 giugno. È morto il cardinale Camillo Ruini, figura di spicco della Chiesa cattolica Italiana e Presidente della",
+    "tags": [
+      "morte ruini",
+      "cardinale ruini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
@@ -45,21 +63,6 @@
     "image_url": "https://sport.sky.it/assets/images/fccbda7433aec0eb63747801bff4f1beb6c54f0f/skysport/it/basket/serie-a/video/2026/06/16/bowman-venezia-milano-finali-lba-schiacciata-video-1105687/Bowman_video.jpg",
     "occhiello": "KY BOWMAN ACCENDE IL TALIERCIO CON UNA SCHIACCIATA DA PROTAGONISTA",
     "lead_preview": "Venezia, 16 giugno 2026. Gara-3 della finale scudetto tra Reyer Venezia e Olimpia Milano si accende fin dalle prime batt",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3ea6a0e715326f0c",
-    "slug": "fondatore-del-dialogo-tra-chiesa-e-stato-3ea6a0e715326f0c",
-    "title": "Fondatore del dialogo tra chiesa e stato",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-06-16T20:37:33.229868+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/5/21/890a22ec8ca577296de140ccc45da909.jpg",
-    "occhiello": "FONDATORE DEL DIALOGO TRA CHIESA E STATO",
-    "lead_preview": "Roma, 16 giugno. È morto il cardinale Camillo Ruini, figura di spicco della Chiesa cattolica Italiana e Presidente della",
     "tags": [],
     "hero_eligible": true
   },
