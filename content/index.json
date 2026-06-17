@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260617",
+    "slug": "libro-del-giorno-le-regole-del-giocodi-cristina-biolcat-20260617",
+    "title": "Il libro del giorno: «Le regole del giocodi Cristina Biolcati»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo psicologico dalle pagine inaspettate",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-17T07:32:37.561899+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/regole-6f967.jpg?1775672048",
+      "alt": "Copertina: Le regole del giocodi Cristina Biolcati",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/regole-6f967.jpg?1775672048",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "3fbeceb8a744cf62",
     "slug": "calcio-diana-ross-sbaglia-rigore-3fbeceb8a744cf62",
     "title": "Calcio: Diana Ross sbaglia rigore",
@@ -8119,25 +8138,6 @@
     "occhiello": "MONDIALI, TRUMP ASSENTE, NESSUN INCIDENTE DIPLOMATICO TRA RUBIO E NEWSOM",
     "lead_preview": "Il presidente statunitense Donald Trump, già assente dalla cerimonia inaugurale dei Mondiali di calcio 2026 in programma",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6c81c79d4d9a7f50",
-    "slug": "xiaomi-17t-piu-autonomia-piu-zoom-e-meno-compromes-6c81c79d4d9a7f50",
-    "title": "Xiaomi 17T: Leica 5x sulla base ma 749 euro uccidono il sogno del flagship killer",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-13T04:39:01.446638+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a27e0865158dc2a74bdfe08/16:9/w_1280,c_limit/Xiaomi%2017T_1.jpeg",
-    "occhiello": "Xiaomi 17T, più autonomia, più zoom e meno compromessi",
-    "lead_preview": "Xiaomi 17T: Leica 5x arriva sulla gamma base, ma il prezzo di 749,90 euro cancella l’idea di flagship killer Xiaomi 17T,",
-    "tags": [
-      "xiaomi 17t",
-      "leica 5x",
-      "prezzi smartphone"
-    ],
     "hero_eligible": true
   }
 ]
