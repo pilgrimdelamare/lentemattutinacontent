@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 70 minuti di interruzione.",
+  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "GitHub è tornato online dopo 70 minuti di interruzione.",
-    "GitHub è tornato online dopo 70 minuti di interruzione.",
-    "GitHub è tornato online dopo 70 minuti di interruzione."
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 70 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 70 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "GITHUB IN DOWN",
+  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-10T16:40:25.153154+00:00",
+  "published_at": "2026-06-17T04:07:23.628055+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Cloudflare è tornato online dopo 140 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "GitHub pubblica GentleOs, il SO che fa rivivere hardware del 1982 — e chiama a contribuire chiunque",
+      "url": "/tecnologia/gentleos-fa-girare-sistemi-moderni-su-hardware-di-db49c8d98da8a3a9",
+      "id": "db49c8d98da8a3a9",
+      "image_url": "https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png",
       "image_type": "image"
     },
     {
-      "title": "Un aspirapolvere da 1400 euro che richiede l'allacciamento idrico",
-      "url": "/tecnologia/un-aspirapolvere-da-1400-euro-che-richiede-lallacc-e0d65819da794aa8",
-      "id": "e0d65819da794aa8",
-      "image_url": "https://media-assets.wired.it/photos/6a296893157297cc846f3ea3/16:9/w_1280,c_limit/Robot%20aspirapolvere%20MOVA%20Z70%20Ultra%20Roller%20Complete.jpg",
+      "title": "Prime day 2026, tutti gli sconti sui robot ecovacs dal robot aspirapolvere a que",
+      "url": "/tecnologia/prime-day-2026-tutti-gli-sconti-sui-robot-ecovacs-f147d8cb4a85f202",
+      "id": "f147d8cb4a85f202",
+      "image_url": "https://media-assets.wired.it/photos/6a31230c94ac88852770e689/16:9/w_1280,c_limit/Amazon%20Prime%20Day%202026%20ecovacs.jpg",
       "image_type": "image"
     },
     {
-      "title": "Heeney rivela: l’algoritmo che predice virus inesistenti. Ma chi controlla i dati segreti usati?",
-      "url": "/tecnologia/il-primo-vaccino-progettato-con-laiuto-dellintelli-e3f712c45c7a2dfb",
-      "id": "e3f712c45c7a2dfb",
-      "image_url": "https://media-assets.wired.it/photos/6a2686311a2fe7ee0ad5f0c6/16:9/w_1280,c_limit/vacuna%20Covid%20IA%201331723660.jpg",
+      "title": "Apple slitta il lancio di iPhone 18: debutto previsto per la primavera",
+      "url": "/tecnologia/apple-posticipa-il-lancio-di-iphone-18-al-2027-0cede243553a3043",
+      "id": "0cede243553a3043",
+      "image_url": "https://media-assets.wired.it/photos/69fc4bf5e508bd1f983c3e71/16:9/w_1280,c_limit/2234529982",
       "image_type": "image"
     }
   ],
