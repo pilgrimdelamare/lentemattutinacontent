@@ -1,5 +1,22 @@
 [
   {
+    "id": "libro-20260617",
+    "slug": "libro-del-giorno-le-regole-del-giocodi-cristina-biolcat-20260617",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-17T07:32:37.561899+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/regole-6f967.jpg?1775672048",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo psicologico dalle pagine inaspettate",
+    "tags": [
+      "libro del giorno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3fbeceb8a744cf62",
     "slug": "calcio-diana-ross-sbaglia-rigore-3fbeceb8a744cf62",
     "title": "Diana ross e il rigore fallito all'apertura di usa '94",
@@ -3160,25 +3177,6 @@
       "incidente mykonos"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260617",
-    "slug": "libro-del-giorno-le-regole-del-giocodi-cristina-biolcat-20260617",
-    "title": "Il libro del giorno: «Le regole del giocodi Cristina Biolcati»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un giallo psicologico dalle pagine inaspettate",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-17T07:32:37.561899+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/regole-6f967.jpg?1775672048",
-      "alt": "Copertina: Le regole del giocodi Cristina Biolcati",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/regole-6f967.jpg?1775672048",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "dcd2a25bce56b9e1",
