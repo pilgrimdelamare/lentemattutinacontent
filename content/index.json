@@ -1,5 +1,20 @@
 [
   {
+    "id": "fdd1ad79d9db8d48",
+    "slug": "tokyo-vola-il-nikkei-guadagna-l165-e-sfida-il-rest-fdd1ad79d9db8d48",
+    "title": "Tokyo vola: il Nikkei guadagna l'1,65% e sfida il resto dei mercati asiatici",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-18T07:24:03.516438+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/8/3713a5747a4b3af034b230c1a42c9fd0.jpg",
+    "occhiello": "TOKYO GUADAGNA L'1,65% MENTRE L'EUROPA SCOMMETTE AL RIBASSO",
+    "lead_preview": "Tokyo, 18 giugno. La Borsa giapponese ha chiuso la giornata in positivo, segnando un rialzo dell'1,65% per l'indice Nikk",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "769a60988b369c22",
     "slug": "borsa-sale-ma-il-conto-alimentari-resta-lo-stesso-769a60988b369c22",
     "title": "Borsa sale, ma il conto alimentari resta lo stesso",
@@ -8232,24 +8247,6 @@
     "occhiello": "Una residenza artistica intitolata a Giorgio Gosetti",
     "lead_preview": "Roma, 15 giugno 2026. ZaLab ha inaugurato una residenza artistica dedicata a Giorgio Gosetti, figura centrale della crit",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "df3a584458d0b65f",
-    "slug": "nessun-dato-finanziario-rilevabile-dalla-fonte-for-df3a584458d0b65f",
-    "title": "Nessun dato finanziario rilevabile dalla fonte fornita",
-    "section": "economia",
-    "priority": 7,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-15T16:34:21.731545+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/12/19/3d09807789f5042b0addfa497b2189e4.jpg",
-    "occhiello": "NESSUN DATO FINANZIARIO RILEVABILE DALLA FONTE FORNITA",
-    "lead_preview": "Roma, 15 giugno 2026. La redazione dell'agenzia ANSA ha diffuso in data odierna una pagina web interamente dedicata alla",
-    "tags": [
-      "privacy ansa",
-      "condizioni servizio ansa"
-    ],
     "hero_eligible": true
   }
 ]
