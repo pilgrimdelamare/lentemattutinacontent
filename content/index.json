@@ -1,5 +1,23 @@
 [
   {
+    "id": "fdd1ad79d9db8d48",
+    "slug": "tokyo-vola-il-nikkei-guadagna-l165-e-sfida-il-rest-fdd1ad79d9db8d48",
+    "title": "Tokyo, Nikkei 225 guida Asia con rialzo dell'1,65%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-18T07:24:03.516438+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/8/3713a5747a4b3af034b230c1a42c9fd0.jpg",
+    "occhiello": "TOKYO GUADAGNA L'1,65% MENTRE L'EUROPA SCOMMETTE AL RIBASSO",
+    "lead_preview": "Tokyo, 18 giugno. La Borsa giapponese ha chiuso la giornata in positivo, segnando un rialzo dell'1,65% per l'indice Nikk",
+    "tags": [
+      "borsa tokyo",
+      "nikkei 225"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a4a14e8a7d8da8bd",
     "slug": "disoccupazione-al-49-e-salari-in-crescita-nel-regn-a4a14e8a7d8da8bd",
     "title": "UK Unemployment Scende a 4,9% Con Aumento Salari Sopra Le Aspettative",
@@ -3643,21 +3661,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/17/112359538-2c449692-dc4d-47b0-bb56-cb444fb6d448.jpg",
     "occhiello": "LA LINEA GIALLA SOTTRAE SPAZIO VITALE AI CIVILI DI GAZA",
     "lead_preview": "Gaza, 17 giugno 2026. La cosiddetta linea gialla stabilita da Israele avanza progressivamente all'interno della Striscia",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "fdd1ad79d9db8d48",
-    "slug": "tokyo-vola-il-nikkei-guadagna-l165-e-sfida-il-rest-fdd1ad79d9db8d48",
-    "title": "Tokyo vola: il Nikkei guadagna l'1,65% e sfida il resto dei mercati asiatici",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-18T07:24:03.516438+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/8/3713a5747a4b3af034b230c1a42c9fd0.jpg",
-    "occhiello": "TOKYO GUADAGNA L'1,65% MENTRE L'EUROPA SCOMMETTE AL RIBASSO",
-    "lead_preview": "Tokyo, 18 giugno. La Borsa giapponese ha chiuso la giornata in positivo, segnando un rialzo dell'1,65% per l'indice Nikk",
     "tags": [],
     "hero_eligible": true
   },
