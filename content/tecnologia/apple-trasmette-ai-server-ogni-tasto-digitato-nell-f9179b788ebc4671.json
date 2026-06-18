@@ -1,0 +1,59 @@
+{
+  "id": "f9179b788ebc4671",
+  "slug": "apple-trasmette-ai-server-ogni-tasto-digitato-nell-f9179b788ebc4671",
+  "title": "Apple trasmette ai server ogni tasto digitato nell'app store",
+  "titles": [
+    "APPLE TRASMETTE AI SERVER OGNI TASTO DIGITATO NELL'APP STORE",
+    "APPLE TRASMETTE AI SERVER OGNI TASTO DIGITATO NELL'APP STORE",
+    "APPLE TRASMETTE AI SERVER OGNI TASTO DIGITATO NELL'APP STORE"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "APPLE TRASMETTE AI SERVER OGNI TASTO DIGITATO NELL'APP STORE",
+  "lead": "Roma, 18 giugno 2026. L’App Store di Apple invia ai server dell’azienda un dato analitico per ogni singola lettera digitata dall'utente nella barra di ricerca. L'indagine, condotta dagli esperti di Sicurezza informatica Talal Haj Bakry e Tommy Mysk dello studio Mysk, rivela che il sistema registra la sequenza dei caratteri con marcatori temporali precisi fino alla frazione di secondo. Anche disattivando i suggerimenti personalizzati, il flusso di dati verso Cupertino non si interrompe.",
+  "corpo1": "L'analisi tecnica condotta da Talal Haj Bakry e Tommy Mysk dimostra che il software di ricerca integrato nell'App Store non si limita a elaborare le richieste localmente. Ogni pressione di un tasto innesca una trasmissione telemetrica verso le infrastrutture di Apple. Il livello di granularità raggiunto dal sistema di tracciamento permette di ricostruire, attraverso i timestamp associati a ogni carattere, non solo cosa l'utente stia cercando, ma anche la velocità di digitazione e le esitazioni nel comporre le parole. Il comportamento è stato documentato smontando il funzionamento dell'applicazione e monitorando il traffico dati in uscita verso i server della multinazionale di Cupertino. Sebbene l'interfaccia utente offra la possibilità di disabilitare i suggerimenti personalizzati, questa impostazione non impedisce il monitoraggio dell'attività di ricerca. La raccolta avviene in modo sistematico, trasformando un'operazione di navigazione quotidiana in un flusso costante di informazioni inviate ai sistemi centralizzati dell'azienda. Il risultato dell'indagine mostra che, nonostante le politiche di privacy dichiarate, il sistema di distribuzione delle applicazioni mobili mantiene un canale di comunicazione attivo che registra l'interazione dell'utente con la barra di ricerca in tempo reale.",
+  "corpo2": "La dinamica emersa conferma come il concetto di privacy digitale sia spesso mediato da architetture software che privilegiano la profilazione analitica rispetto alla riservatezza dell'input. Apple, che da anni utilizza la privacy come pilastro del proprio marketing, si trova a gestire una contraddizione tecnica tra la tutela formale dei dati e l'esigenza industriale di mappare il comportamento degli utenti all'interno del proprio ecosistema chiuso. La telemetria non è un'anomalia, ma un componente strutturale del modello di business delle grandi aziende tecnologiche. In questo contesto, il dispositivo mobile agisce come una telecamera puntata sul comportamento dell'utente, i cui dati vengono inviati a un vicino di casa che ne detiene le chiavi di lettura. Il problema risiede nella natura opaca di queste trasmissioni: l'utente non ha visibilità su ciò che viene inviato, né strumenti efficaci per interrompere il flusso senza compromettere la funzionalità dello Store. Mentre le autorità di regolamentazione europee lavorano per imporre standard di trasparenza più rigorosi, aziende come Apple mantengono un controllo capillare sui dati generati durante la navigazione all'interno dei propri Store proprietari. Se questa pratica di raccolta dati non verrà modificata tramite un aggiornamento dei sistemi di tracciamento, ogni ricerca effettuata dagli utenti rimarrà un dato archiviato nei database di Cupertino, indipendentemente dalle scelte effettuate nelle impostazioni del dispositivo.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-06-18T11:05:44.542496+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/06/18/124252399-49d8b729-b54c-47b5-89db-9e17c20cd141.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"APPLE TRASMETTE AI SERVER OGNI TASTO DIGITATO NELL'APP STORE\",\n  \"description\": \"Roma, 18 giugno 2026. L’App Store di Apple invia ai server dell’azienda un dato analitico per ogni singola lettera digitata dall'utente nella barra di ricerca. L'indagine, condotta dagli esperti di Sicurezza informatica Talal Haj Bakry e Tommy Mysk dello studio Mysk, rivela che il sistema registra l\",\n  \"articleBody\": \"Roma, 18 giugno 2026. L’App Store di Apple invia ai server dell’azienda un dato analitico per ogni singola lettera digitata dall'utente nella barra di ricerca. L'indagine, condotta dagli esperti di Sicurezza informatica Talal Haj Bakry e Tommy Mysk dello studio Mysk, rivela che il sistema registra la sequenza dei caratteri con marcatori temporali precisi fino alla frazione di secondo. Anche disattivando i suggerimenti personalizzati, il flusso di dati verso Cupertino non si interrompe. L'analisi tecnica condotta da Talal Haj Bakry e Tommy Mysk dimostra che il software di ricerca integrato nell'App Store non si limita a elaborare le richieste localmente. Ogni pressione di un tasto innesca una trasmissione telemetrica verso le infrastrutture di Apple. Il livello di granularità raggiunto dal sistema di tracciamento permette di ricostruire, attraverso i timestamp associati a ogni carattere, non solo cosa l'utente stia cercando, ma anche la velocità di digitazione e le esitazioni nel comporre le parole. Il comportamento è stato documentato smontando il funzionamento dell'applicazione e monitorando il traffico dati in uscita verso i server della multinazionale di Cupertino. Sebbene l'interfaccia utente offra la possibilità di disabilitare i suggerimenti personalizzati, questa impostazione non impedisce il monitoraggio dell'attività di ricerca. La raccolta avviene in modo sistematico, trasformando un'operazione di navigazione quotidiana in un flusso costante di informazioni inviate ai sistemi centralizzati dell'azienda. Il risultato dell'indagine mostra che, nonostante le politiche di privacy dichiarate, il sistema di distribuzione delle applicazioni mobili mantiene un canale di comunicazione attivo che registra l'interazione dell'utente con la barra di ricerca in tempo reale. La dinamica emersa conferma come il concetto di privacy digitale sia spesso mediato da architetture software che privilegiano la profilazione analitica rispetto alla riservatezza dell'input. Apple, che da anni utilizza la privacy come pilastro del proprio marketing, si trova a gestire una contraddizione tecnica tra la tutela formale dei dati e l'esigenza industriale di mappare il comportamento degli utenti all'interno del proprio ecosistema chiuso. La telemetria non è un'anomalia, ma un componente strutturale del modello di business delle grandi aziende tecnologiche. In questo contesto, il dispositivo mobile agisce come una telecamera puntata sul comportamento dell'utente, i cui dati vengono inviati a un vicino di casa che ne detiene le chiavi di lettura. Il problema risiede nella natura opaca di queste trasmissioni: l'utente non ha visibilità su ciò che viene inviato, né strumenti efficaci per interrompere il flusso senza compromettere la funzionalità dello Store. Mentre le autorità di regolamentazione europee lavorano per imporre standard di trasparenza più rigorosi, aziende come Apple mantengono un controllo capillare sui dati generati durante la navigazione all'interno dei propri Store proprietari. Se questa pratica di raccolta dati non verrà modificata tramite un aggiornamento dei sistemi di tracciamento, ogni ricerca effettuata dagli utenti rimarrà un dato archiviato nei database di Cupertino, indipendentemente dalle scelte effettuate nelle impostazioni del dispositivo.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-18T11:05:44.542496+00:00\",\n  \"dateModified\": \"2026-06-18T11:05:44.542496+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/f9179b788ebc4671\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/f9179b788ebc4671\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/06/18/124252399-49d8b729-b54c-47b5-89db-9e17c20cd141.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Tecnologia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/tecnologia/2026/06/18/news/apple_registra_ogni_lettera_digitata_nella_ricerca_dell_app_store-425418889/?rss",
+  "related": [
+    {
+      "title": "Apple affonda il colpo: iPhone 18 slitta al prossimo anno e gela i mercati",
+      "url": "/tecnologia/apple-posticipa-il-lancio-di-iphone-18-al-2027-0cede243553a3043",
+      "id": "0cede243553a3043",
+      "image_url": "https://media-assets.wired.it/photos/69fc4bf5e508bd1f983c3e71/16:9/w_1280,c_limit/2234529982",
+      "image_type": "image"
+    },
+    {
+      "title": "Duemila Google Pixel Fold trasformati in server per la ricerca universitaria",
+      "url": "/tecnologia/google-trasforma-2000-smartphone-in-supercalcolato-aedb3911aaa98fb6",
+      "id": "aedb3911aaa98fb6",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/16/102729804-49afe3d7-32b4-4af9-a965-21028c8af6b3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Google trasforma le foto in dati manipolabili dall'intelligenza artificiale",
+      "url": "/tecnologia/google-trasforma-le-foto-in-dati-manipolabili-dall-478e8b4f0fa98ced",
+      "id": "478e8b4f0fa98ced",
+      "image_url": "https://media-assets.wired.it/photos/6a33a2d75149038dc0ac7b78/16:9/w_1280,c_limit/google%20foto%20modifica.png",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
