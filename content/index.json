@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 18 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-18T05:45:25.064332+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8eb637e6ecb8d9978c68e6f56d243ec6d0126276/skytg24/it/cronaca/2026/06/18/prime-pagine-quotidiani-oggi-18-giugno/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE - 18 GIUGNO 2026: ACCORDO USA-IRAN, SPORT E CRISI POLITICA",
+    "lead_preview": "I quotidiani italiani aprono oggi sull’intesa tra Stati Uniti e Iran, siglata al G7 di Evian, con focus su dettagli dipl",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77724d8b9a17e0b6",
     "slug": "senza-israele-senza-hezbollah-laccordo-segreto-usa-77724d8b9a17e0b6",
     "title": "Senza Israele, senza Hezbollah: l’accordo segreto USA-Iran che rinvia il nucleare *senza vincoli*",
@@ -4262,25 +4281,6 @@
     "occhiello": "DOPO DUE ANNI DI SICCITÀ L'ACQUA TORNA NEI BACINI AMAZZONICI",
     "lead_preview": "Brasilia, 16 giugno 2026. L'Amazzonia registra un recupero progressivo dei livelli idrici dopo due anni di siccità, seco",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 17 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-17T05:45:52.061909+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/13e4b17b3c2bee7612484cc40e275d6178e3234c/skytg24/it/cronaca/2026/06/17/prime-pagine-quotidiani-oggi-17-giugno/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE – 17 GIUGNO 2026: G7, TRUMP E LA GUERRA IN UCRAINA",
-    "lead_preview": "I principali quotidiani italiani aprono oggi con il vertice del G7 e la pressione degli Stati Uniti su Putin, con Trump ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
