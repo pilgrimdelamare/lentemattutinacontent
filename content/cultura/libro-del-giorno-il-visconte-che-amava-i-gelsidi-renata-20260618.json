@@ -1,26 +1,24 @@
 {
   "id": "libro-20260618",
   "slug": "libro-del-giorno-il-visconte-che-amava-i-gelsidi-renata-20260618",
-  "title": "Il libro del giorno: «Il visconte che amava i gelsidi Renata Asquer»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Il visconte che amava i gelsidi Renata Asquer»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un romanzo storico che narra la vita del visconte Francesco, difensore di Cagliari durante l'assedio francese del 1792",
   "corpo1": "Il Visconte che amava i gelsidi Renata Asquer è un romanzo storico che si basa su fatti reali e personaggi realmente esistiti, ambientato nella Sardegna di oltre duecento anni fa. L'autrice, discendente del nobile Francesco Asquer di Flumini, ha tratto ispirazione dalla storia della propria famiglia e dalla gloriosa rivoluzione sarda. Il protagonista, il visconte Francesco, è un antenato dell'autrice noto per aver difeso eroicamente Cagliari dai francesi e per questo meritatore dell'appellativo di 'Buttafuoco'. Il romanzo è scritto in forma di memoriale, un diario spirituale che il visconte comincia a scrivere nel 1829, destinato ai posteri e in particolare al figlio primogenito. In esso, Francesco narra la sua vita d'avventura, da soldato e da patriota, e i suoi sogni di distinguersi come combattente. L'autrice ha mantenuto la struttura dei fatti reali, concedendosi però alcune libertà narrative per rendere la storia più avventurosa e interessante. Il risultato è un'opera che unisce storia e fiction, offrendo un quadro vivido della Sardegna di fine Settecento.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8868514877\" rel=\"sponsored\" target=\"_blank\">Il visconte che amava i gelsidi Renata Asquer di  su Amazon</a></p>",
+  "corpo2": "Il romanzo di Asquer non si limita a raccontare un evento storico sardo isolato. La scelta della forma epistolare, con il visconte che scrive in un periodo distante di quasi quaranta anni dall’assedio, introduce una distorsione narrativa cruciale: il protagonista ricostruisce i fatti con un filtro ideologico post-unitario, quando il Risorgimento aveva già iniziato a reinterpretare il ruolo delle regioni periferiche come paladine della resistenza. Il 'Buttafuoco' non è solo un difensore di Cagliari: è il simbolo di una Sardegna che, nonostante la sua marginalità geografica, si posiziona come paladina di un’identità nazionale antifrancesa. L’autrice sottolinea questa contraddizione nel finale, quando il visconte, dopo aver respinto i francesi, si ritrae a Flumini per scrivere il suo memoriale non tanto per commemorare un trionfo, quanto per affermare un diritto alla narrazione. Questo gesto — il diario come atto politico di visibilità — ribadisce che la storia sarda non è mai stata una questione locale. Il libro, però, non nasconde le sue ambiguità: il visconte si rifiuta di menzionare le tasse esose che i Savoia avevano imposto agli abitanti di Campidano, né i legami con i mercanti genovesi che finanziavano le armi. Questi silenzi, più di qualsiasi dettaglio, rivelano che il romanzo non è solo un documento genealogico, ma uno strumento di revisione memoriale, in cui il passato viene modellato per giustificare un presente. La scelta di focalizzarsi su un personaggio nobile, anziché su contadini o artigiani, conferma che anche la narrativa storica sarda rientra nei canoni del romanzo di puro interesse, dove l’eroismo è sempre mediato da privilegi che non si rompono. La verità che emerge non è tanto nella battaglia di Cagliari, quanto nei margini del memoriale, dove la penna del visconte trema all’idea di dimenticare il gelsi che ha piantato nel giardino di Flumini, l’unico segno tangibile di una vita vissuta al di fuori del dovere. In questo dettaglio — l’albero come icona di un’autenticità inaccessibile alla parola — si trova la chiave per capire perché il libro continua a circolare, nonostante le sue complicità con l’ideologia: non promette verità, promette radice.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-06-18T07:00:49.674792+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il visconte che amava i gelsidi Renata Asquer",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-visconte-che-amava-i-gelsi-Renata-Asquer.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un romanzo storico che narra la vita del visconte Francesco, difensore di Cagliari durante l'assedio francese del 1792\",\n  \"articleBody\": \"un romanzo storico che narra la vita del visconte Francesco, difensore di Cagliari durante l'assedio francese del 1792 Il Visconte che amava i gelsidi Renata Asquer è un romanzo storico che si basa su fatti reali e personaggi realmente esistiti, ambientato nella Sardegna di oltre duecento anni fa. L'autrice, discendente del nobile Francesco Asquer di Flumini, ha tratto ispirazione dalla storia della propria famiglia e dalla gloriosa rivoluzione sarda. Il protagonista, il visconte Francesco, è un antenato dell'autrice noto per aver difeso eroicamente Cagliari dai francesi e per questo meritatore dell'appellativo di 'Buttafuoco'. Il romanzo è scritto in forma di memoriale, un diario spirituale che il visconte comincia a scrivere nel 1829, destinato ai posteri e in particolare al figlio primogenito. In esso, Francesco narra la sua vita d'avventura, da soldato e da patriota, e i suoi sogni di distinguersi come combattente. L'autrice ha mantenuto la struttura dei fatti reali, concedendosi però alcune libertà narrative per rendere la storia più avventurosa e interessante. Il risultato è un'opera che unisce storia e fiction, offrendo un quadro vivido della Sardegna di fine Settecento. Il romanzo di Asquer non si limita a raccontare un evento storico sardo isolato. La scelta della forma epistolare, con il visconte che scrive in un periodo distante di quasi quaranta anni dall’assedio, introduce una distorsione narrativa cruciale: il protagonista ricostruisce i fatti con un filtro ideologico post-unitario, quando il Risorgimento aveva già iniziato a reinterpretare il ruolo delle regioni periferiche come paladine della resistenza. Il 'Buttafuoco' non è solo un difensore di Cagliari: è il simbolo di una Sardegna che, nonostante la sua marginalità geografica, si posiziona come paladina di un’identità nazionale antifrancesa. L’autrice sottolinea questa contraddizione nel finale, quando il visconte, dopo aver respinto i francesi, si ritrae a Flumini per scrivere il suo memoriale non tanto per commemorare un trionfo, quanto per affermare un diritto alla narrazione. Questo gesto — il diario come atto politico di visibilità — ribadisce che la storia sarda non è mai stata una questione locale. Il libro, però, non nasconde le sue ambiguità: il visconte si rifiuta di menzionare le tasse esose che i Savoia avevano imposto agli abitanti di Campidano, né i legami con i mercanti genovesi che finanziavano le armi. Questi silenzi, più di qualsiasi dettaglio, rivelano che il romanzo non è solo un documento genealogico, ma uno strumento di revisione memoriale, in cui il passato viene modellato per giustificare un presente. La scelta di focalizzarsi su un personaggio nobile, anziché su contadini o artigiani, conferma che anche la narrativa storica sarda rientra nei canoni del romanzo di puro interesse, dove l’eroismo è sempre mediato da privilegi che non si rompono. La verità che emerge non è tanto nella battaglia di Cagliari, quanto nei margini del memoriale, dove la penna del visconte trema all’idea di dimenticare il gelsi che ha piantato nel giardino di Flumini, l’unico segno tangibile di una vita vissuta al di fuori del dovere. In questo dettaglio — l’albero come icona di un’autenticità inaccessibile alla parola — si trova la chiave per capire perché il libro continua a circolare, nonostante le sue complicità con l’ideologia: non promette verità, promette radice.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-18T07:00:49.674792+00:00\",\n  \"dateModified\": \"2026-06-18T07:00:49.674792+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260618\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260618\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-visconte-che-amava-i-gelsidi-renata-20260618",
+  "related": [
+    {
+      "title": "Vasco Rossi all'Olimpico: dieci date per mezzo milione di fan in delirio",
+      "url": "/cultura/vasco-rossi-allolimpico-dieci-date-per-mezzo-milio-34b30bb262117180",
+      "id": "34b30bb262117180",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/18/571387d08016da1307e95d9520ce5589.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Jennifer lopez domina il mercato tra streaming e sala cinematografica",
+      "url": "/cultura/jennifer-lopez-domina-il-mercato-tra-streaming-e-s-f30a2e3acfdfa16a",
+      "id": "f30a2e3acfdfa16a",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/1/27/0feac0d6ee064d5ef4bd11191935aff4.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Netflix cancella the boroughs nonostante 19 milioni di visualizzazioni",
+      "url": "/cultura/netflix-cancella-the-boroughs-nonostante-19-milion-2be4fa08004a4cfa",
+      "id": "2be4fa08004a4cfa",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/3/20/a5e3ccd8f78537702fcbdee7742a3734.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-06-18T07:00:49.674792+00:00"
 }
