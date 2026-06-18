@@ -1,0 +1,60 @@
+{
+  "id": "82e826d05b49c831",
+  "slug": "new-york-lo-sport-e-branding-crosstecnico-82e826d05b49c831",
+  "title": "New york, lo sport è branding crosstecnico",
+  "titles": [
+    "NEW YORK, LO SPORT È BRANDING CROSSTECNICO",
+    "NEW YORK, LO SPORT È BRANDING CROSSTECNICO",
+    "NEW YORK, LO SPORT È BRANDING CROSSTECNICO"
+  ],
+  "title_winner": null,
+  "section": "sport",
+  "occhiello": "NEW YORK, LO SPORT È BRANDING CROSSTECNICO",
+  "lead": "New York, 18 giugno. Jalen Brunson e Josh Hart, cestisti di punta dei New York Knicks, hanno calcato il monticello del lanciatore allo Yankee Stadium, esibendosi in un lancio cerimoniale prima di una partita della Major League Baseball. L'evento, svoltosi alle 19:39, sottolinea la crescente sinergia tra le grandi franchigie sportive della metropoli, trasformando gli atleti in ambasciatori di brand Oltre i confini del proprio campo.",
+  "corpo1": "Jalen Brunson, playmaker dei New York Knicks, e Josh Hart, ala della stessa franchigia, hanno effettuato il lancio cerimoniale allo Yankee Stadium. L'iniziativa conferma la collaborazione promozionale tra le due franchigie newyorkesi.",
+  "corpo2": "Il lancio cerimoniale è un rito consolidato che precede le partite di baseball. La presenza di Brunson e Hart allo Yankee Stadium il 18 giugno 2026 consolida il legame tra le due realtà sportive di New York. L'evento rappresenta una strategia di marketing volta a massimizzare l'attrattiva dei Knicks e degli Yankees nel mercato statunitense.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "matteo_galli_01",
+    "firma": "Matteo Galli",
+    "sezione": "sport"
+  },
+  "published_at": "2026-06-18T18:48:38.401898+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://sport.sky.it/assets/images/2bf862dae9f58ed2c8f938f17d87b43f93aee5ed/skysport/it/nba/video/2026/06/18/1106130_1781804341392_thumb_494.0000001_1781804372338.jpg",
+    "source": "Sky Sport",
+    "credit": "Sky Sport",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"NEW YORK, LO SPORT È BRANDING CROSSTECNICO\",\n  \"description\": \"New York, 18 giugno. Jalen Brunson e Josh Hart, cestisti di punta dei New York Knicks, hanno calcato il monticello del lanciatore allo Yankee Stadium, esibendosi in un lancio cerimoniale prima di una partita della Major League Baseball. L'evento, svoltosi alle 19:39, sottolinea la crescente sinergia\",\n  \"articleBody\": \"New York, 18 giugno. Jalen Brunson e Josh Hart, cestisti di punta dei New York Knicks, hanno calcato il monticello del lanciatore allo Yankee Stadium, esibendosi in un lancio cerimoniale prima di una partita della Major League Baseball. L'evento, svoltosi alle 19:39, sottolinea la crescente sinergia tra le grandi franchigie sportive della metropoli, trasformando gli atleti in ambasciatori di brand Oltre i confini del proprio campo. Jalen Brunson, playmaker dei New York Knicks, e Josh Hart, ala della stessa franchigia, hanno effettuato il lancio cerimoniale allo Yankee Stadium. L'iniziativa conferma la collaborazione promozionale tra le due franchigie newyorkesi. Il lancio cerimoniale è un rito consolidato che precede le partite di baseball. La presenza di Brunson e Hart allo Yankee Stadium il 18 giugno 2026 consolida il legame tra le due realtà sportive di New York. L'evento rappresenta una strategia di marketing volta a massimizzare l'attrattiva dei Knicks e degli Yankees nel mercato statunitense.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-18T18:48:38.401898+00:00\",\n  \"dateModified\": \"2026-06-18T18:48:38.401898+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/82e826d05b49c831\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/82e826d05b49c831\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/2bf862dae9f58ed2c8f938f17d87b43f93aee5ed/skysport/it/nba/video/2026/06/18/1106130_1781804341392_thumb_494.0000001_1781804372338.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
+  "priority": 6,
+  "source": "Sky Sport",
+  "source_type": "competitor",
+  "original_url": "https://sport.sky.it/nba/video/2026/06/18/nba-brunson-hart-new-york-yankees-1106130",
+  "related": [
+    {
+      "title": "New york celebra il titolo nba atteso da 53 anni",
+      "url": "/sport/new-york-celebra-il-titolo-nba-atteso-da-53-anni-4cb5cff1afd0a0d4",
+      "id": "4cb5cff1afd0a0d4",
+      "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/18/1781803659-AP26169558368415.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Rick fois campione nba nello staff dei new york knicks",
+      "url": "/sport/rick-fois-campione-nba-nello-staff-dei-new-york-kn-8f1714cb029f3c1b",
+      "id": "8f1714cb029f3c1b",
+      "image_url": "https://sport.sky.it/assets/images/6406fbd42817434790c7c5001943c7c7ce748314/skysport/it/nba/video/2026/06/18/1106136_1781798763027_thumb_494.0000001_1781800011632.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Zola esige riforma del decreto sport: penalizza i giovani",
+      "url": "/sport/il-decreto-sport-ostacola-la-crescita-dei-talenti-5feca80823a20cb4",
+      "id": "5feca80823a20cb4",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/12/3/6b76cc8f4704007e8a15004bf45c74ff.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
