@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, venerdì 19 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-19T04:03:27.822144+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — VENERDÌ 19 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "13b8f9c9e794337e",
     "slug": "restauro-integrale-per-la-cappella-del-tesoro-di-s-13b8f9c9e794337e",
     "title": "Restauro integrale per la cappella del tesoro di san gennaro",
@@ -4842,26 +4862,6 @@
     "lead_preview": "Roma, 17 giugno 2026. Mentre il ministero delle Imprese e del Made in Italy annuncia un calo per il costo dei carburanti",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, giovedì 18 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-18T04:02:14.698985+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — GIOVEDÌ 18 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "09342d240e2cbec5",
