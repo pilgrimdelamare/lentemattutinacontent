@@ -1,5 +1,23 @@
 [
   {
+    "id": "c311e385d023b087",
+    "slug": "italia-paga-365-per-debito-c311e385d023b087",
+    "title": "Il governo pagherà 3,65% annui su debito record di 2.800 miliardi",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-19T07:12:28.025333+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/5/29/77acaaacf99e167d5ecf2382d61b1c0c.jpg",
+    "occhiello": "DEBITO PUBBLICO: OGNI ANNO 70,4 PUNTI IN PIÙ DI COSTO",
+    "lead_preview": "Roma, 19 giugno. Lo Stato italiano paga oggi il 3,65% per ogni euro che prende in prestito sul mercato obbligazionario a",
+    "tags": [
+      "debito pubblico",
+      "manovra 2025"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8fbc472c5a041752",
     "slug": "ftse-mib-crolla-dell18-con-leonardo-e-stellantis-i-8fbc472c5a041752",
     "title": "Borsa: asia in calo e scambi ridotti, europa attesa debole",
@@ -3028,24 +3046,6 @@
     "occhiello": "IL GAS TORNA A CORRERE VERSO I QUARANTADUE EURO",
     "lead_preview": "Amsterdam, 19 giugno 2026. Il mercato del gas naturale Europeo segna un balzo del tre per cento, portando le quotazioni ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c311e385d023b087",
-    "slug": "italia-paga-365-per-debito-c311e385d023b087",
-    "title": "Italia paga 3,65% per debito",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-19T07:12:28.025333+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/5/29/77acaaacf99e167d5ecf2382d61b1c0c.jpg",
-    "occhiello": "DEBITO PUBBLICO: OGNI ANNO 70,4 PUNTI IN PIÙ DI COSTO",
-    "lead_preview": "Roma, 19 giugno. Lo Stato italiano paga oggi il 3,65% per ogni euro che prende in prestito sul mercato obbligazionario a",
-    "tags": [
-      "debito pubblico",
-      "tassi italiani"
-    ],
     "hero_eligible": true
   },
   {
