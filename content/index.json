@@ -1,5 +1,24 @@
 [
   {
+    "id": "4ca2704ea280392d",
+    "slug": "elly-schlein-annuncia-accordo-con-lalleanza-4ca2704ea280392d",
+    "title": "Elly Schlein annuncia programma comune",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-06-18T14:48:36.835989+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/15/c30e37b3f64e3c70bbd78b0a7c76bd24.jpg",
+    "occhiello": "SCHLEIN E IL MITO DELL'UNIONE SENZA VETI",
+    "lead_preview": "Roma, 18 giugno 2026. Elly Schlein, Segretaria del Partito Democratico, ha dichiarato pubblicamente che il programma ele",
+    "tags": [
+      "programma comune",
+      "elly schlein",
+      "partito democratico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "68c2b0cb1f0ca1d4",
     "slug": "mattia-bellucci-punta-ai-quarti-nellatp-500-di-hal-68c2b0cb1f0ca1d4",
     "title": "Mattia bellucci punta ai quarti nell'atp 500 di halle",
@@ -2524,25 +2543,6 @@
       "farmaci anti-obesità",
       "studio pnas nexus",
       "mounjaro vs ozempic"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4ca2704ea280392d",
-    "slug": "elly-schlein-annuncia-accordo-con-lalleanza-4ca2704ea280392d",
-    "title": "Schlein blocca esclusioni: «Nessun veto, programma comune o si sfalda l’alleanza»",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-06-18T14:48:36.835989+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/15/c30e37b3f64e3c70bbd78b0a7c76bd24.jpg",
-    "occhiello": "SCHLEIN E IL MITO DELL'UNIONE SENZA VETI",
-    "lead_preview": "Roma, 18 giugno 2026. Elly Schlein, Segretaria del Partito Democratico, ha dichiarato pubblicamente che il programma ele",
-    "tags": [
-      "alleanza pd-5stelle",
-      "schlein e 5stelle",
-      "programma elettorale 2026"
     ],
     "hero_eligible": true
   },
