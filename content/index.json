@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260619",
+    "slug": "libro-del-giorno-storia-naturale-dei-draghi-le-memorie--20260619",
+    "title": "Il libro del giorno: «Storia naturale dei draghi. Le memorie»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo fantasy scritto in forma di memoir sulla vita e le avventure di una naturalista e studiosa di draghi",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-19T07:00:40.571978+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71bfzonorml__sl1500_-873e5.jpg?1775724559",
+      "alt": "Copertina: Storia naturale dei draghi. Le memorie",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71bfzonorml__sl1500_-873e5.jpg?1775724559",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "8fbc472c5a041752",
     "slug": "ftse-mib-crolla-dell18-con-leonardo-e-stellantis-i-8fbc472c5a041752",
     "title": "FTSE Mib crolla dell’1,8% con Leonardo e Stellantis in picchiata: la BCE schiaccia i risparmiatori",
@@ -8227,24 +8246,6 @@
       "stretto hormuz riaperto",
       "trump g7 2026",
       "tensioni iran usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9de466c0810b7529",
-    "slug": "voto-estero-14-milioni-di-colombiani-decidono-lo-s-9de466c0810b7529",
-    "title": "1,4 Milioni di colombiani all’estero sceglieranno tra Petro e Hernández: la Cina o gli Usa?",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-16T01:27:38.926492+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/15/8151e647f250922dc05f6cf86a64e6ae.jpg",
-    "occhiello": "COLOMBIA, APERTO IL VOTO ALL'ESTERO PER IL BALLOTTAGGIO PRESIDENZIALE",
-    "lead_preview": "BALLOTTAGGIO COLOMBIANO: 1,4 MILIONI DI VOTANTI ALL'ESTERO DECIDONO IL DESTINO DELL'AMERICA LATINA Bogotà, 16 giugno 202",
-    "tags": [
-      "elezioni colombia 2026",
-      "ballottaggio petro vs hernández"
     ],
     "hero_eligible": true
   }
