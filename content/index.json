@@ -1,5 +1,23 @@
 [
   {
+    "id": "c311e385d023b087",
+    "slug": "italia-paga-365-per-debito-c311e385d023b087",
+    "title": "Italia paga 3,65% per debito",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-06-19T07:12:28.025333+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2018/5/29/77acaaacf99e167d5ecf2382d61b1c0c.jpg",
+    "occhiello": "DEBITO PUBBLICO: OGNI ANNO 70,4 PUNTI IN PIÙ DI COSTO",
+    "lead_preview": "Roma, 19 giugno. Lo Stato italiano paga oggi il 3,65% per ogni euro che prende in prestito sul mercato obbligazionario a",
+    "tags": [
+      "debito pubblico",
+      "tassi italiani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260619",
     "slug": "libro-del-giorno-storia-naturale-dei-draghi-le-memorie--20260619",
     "title": "Il libro del giorno: «Storia naturale dei draghi. Le memorie»",
@@ -8227,25 +8245,6 @@
       "accordo usa-iran",
       "guerra medio oriente",
       "stretto di hormuz"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9893edbbab320d58",
-    "slug": "trump-annuncia-la-riapertura-dello-stretto-di-horm-9893edbbab320d58",
-    "title": "Trump apre Hormuz: domani lo stretto è libero, ma l’Iran controlla i controlli",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-16T11:46:13.732837+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/6c64934628f568a54ba6193d9387754c1c7a0245/394_0_4245_3396/master/4245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b8adbccc2f2c377dcbf542101892dbf",
-    "occhiello": "TRUMP ANNUNCIA LA RIAPERTURA DELLO STRETTO DI HORMUZ",
-    "lead_preview": "Parigi, 16 giugno 2026. Donald Trump ha dichiarato che lo stretto di Hormuz sarà completamente aperto a partire da vener",
-    "tags": [
-      "stretto hormuz riaperto",
-      "trump g7 2026",
-      "tensioni iran usa"
     ],
     "hero_eligible": true
   }
