@@ -1,5 +1,23 @@
 [
   {
+    "id": "libro-20260618",
+    "slug": "libro-del-giorno-il-visconte-che-amava-i-gelsidi-renata-20260618",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-18T07:00:49.674792+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/il_visconte_gelsi-182a0.jpg?1775699685",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico che narra la vita del visconte Francesco, difensore di Cagliari durante l'assedio francese del 1792",
+    "tags": [
+      "assedio cagliari",
+      "libro del giorno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4bcbcdca6ed7f521",
     "slug": "presidenza-chiede-130-esperti-digitali-senza-stipe-4bcbcdca6ed7f521",
     "title": "Presidenza chiede 130 esperti digitali senza stipendio né selezione chiara",
@@ -2279,21 +2297,6 @@
     "image_url": "https://www.repstatic.it/content/localirep/img/rep-bari/2026/06/18/083112231-dd39e823-165f-4c04-aeb0-002c95e6b31f.jpg",
     "occhiello": "ORDINANZA REGIONALE PER CONSENTIRE IL CIBO IN SPIAGGIA",
     "lead_preview": "Bari, 18 giugno 2026. Il Presidente della Regione Puglia, Decaro, ha annunciato l'intenzione di varare un'ordinanza per ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260618",
-    "slug": "libro-del-giorno-il-visconte-che-amava-i-gelsidi-renata-20260618",
-    "title": "Il libro del giorno",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-18T07:00:49.674792+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/il_visconte_gelsi-182a0.jpg?1775699685",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico che narra la vita del visconte Francesco, difensore di Cagliari durante l'assedio francese del 1792",
     "tags": [],
     "hero_eligible": true
   },
