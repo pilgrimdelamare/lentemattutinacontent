@@ -1,5 +1,20 @@
 [
   {
+    "id": "db5f04827d1fd2c1",
+    "slug": "quattro-titoli-in-palio-per-i-110-anni-della-feder-db5f04827d1fd2c1",
+    "title": "Quattro titoli in palio per i 110 anni della federpugilato",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-19T15:20:13.979169+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/b700d0c53c613a2102afbfc6ccd86c6c.jpg",
+    "occhiello": "QUATTRO TITOLI IN PALIO PER I 110 ANNI DELLA FEDERPUGILATO",
+    "lead_preview": "Roma, 19 giugno 2026. La Federpugilato celebra il centodieci anniversario della propria fondazione con la Roma Boxing Ni",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2ebe6c11b296b306",
     "slug": "confcommercio-pre-saldi-causano-perdita-del-20-del-2ebe6c11b296b306",
     "title": "Confcommercio Milano: Pre-saldi fanno perdere il 20% del mercato ai commercianti tradizionali",
@@ -1836,25 +1851,6 @@
       "debitopubblico 2024",
       "spread bce",
       "obbligazioni italiane"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db5f04827d1fd2c1",
-    "slug": "quattro-titoli-in-palio-per-i-110-anni-della-feder-db5f04827d1fd2c1",
-    "title": "Boxe: Roma ospita il rilancio della Federpugilato con 4 titoli in palio, dal Mondiale all’EBU Silver",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-19T15:20:13.979169+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/b700d0c53c613a2102afbfc6ccd86c6c.jpg",
-    "occhiello": "QUATTRO TITOLI IN PALIO PER I 110 ANNI DELLA FEDERPUGILATO",
-    "lead_preview": "Roma, 19 giugno 2026. La Federpugilato celebra il centodieci anniversario della propria fondazione con la Roma Boxing Ni",
-    "tags": [
-      "roma boxing night",
-      "federpugilato 110 anni",
-      "titoli boxe mondiale ebu"
     ],
     "hero_eligible": true
   },
