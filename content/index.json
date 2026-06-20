@@ -1,5 +1,20 @@
 [
   {
+    "id": "8e14b7e44fde2e1b",
+    "slug": "gene01-il-robot-italiano-che-amd-spinge-ma-leuropa-8e14b7e44fde2e1b",
+    "title": "Io, e i robot. intervista daniele pucci, fondatore di generative bionics",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-06-20T05:17:30.765632+00:00",
+    "image_type": "image",
+    "image_url": "https://media-assets.wired.it/photos/6a32b44342c00775d3366df7/16:9/w_1280,c_limit/Daniele%20Pucci.jpg",
+    "occhiello": "IO, E I ROBOT. INTERVISTA DANIELE PUCCI, FONDATORE DI GENERATIVE BIONICS",
+    "lead_preview": "GENE.01: LA PIATTAFORMA ITALIANA DI PHYSICAL AI CHE SFIDA I GIGANTI DELLA ROBOTICA Genova, 20 giugno. Generative Bionics",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "94fabffefd4ea5f8",
     "slug": "ermonela-jaho-lascia-il-personaggio-di-violetta-al-94fabffefd4ea5f8",
     "title": "Ermonela jaho lascia il personaggio di violetta all'opera di roma",
@@ -2598,25 +2613,6 @@
       "accordo iran",
       "trump iran",
       "pace israele iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8e14b7e44fde2e1b",
-    "slug": "gene01-il-robot-italiano-che-amd-spinge-ma-leuropa-8e14b7e44fde2e1b",
-    "title": "Gene.01: il robot Italiano che AMD spinge ma l'Europa non può permettersi",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-20T05:17:30.765632+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a32b44342c00775d3366df7/16:9/w_1280,c_limit/Daniele%20Pucci.jpg",
-    "occhiello": "IO, E I ROBOT. INTERVISTA DANIELE PUCCI, FONDATORE DI GENERATIVE BIONICS",
-    "lead_preview": "GENE.01: LA PIATTAFORMA ITALIANA DI PHYSICAL AI CHE SFIDA I GIGANTI DELLA ROBOTICA Genova, 20 giugno. Generative Bionics",
-    "tags": [
-      "gene.01 robotica",
-      "physical ai italia",
-      "startup generative bionics"
     ],
     "hero_eligible": true
   },
