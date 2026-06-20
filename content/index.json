@@ -1,5 +1,20 @@
 [
   {
+    "id": "c476be5e186b0570",
+    "slug": "nuovi-viaggi-letterari-per-lestate-c476be5e186b0570",
+    "title": "Nuovi \"viaggi letterari\" per l'estate",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-20T15:20:12.766192+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/13/21a6d361abbdcd75e2087e131e5d5aad.jpg",
+    "occhiello": "NUOVI \"VIAGGI LETTERARI\" PER L'ESTATE",
+    "lead_preview": "Milano, 20 giugno. Con l'arrivo della bella stagione, l'editoria punta sui libri da portare in vacanza, proponendo un mi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c2ff471eb1ef23b9",
     "slug": "isabella-rossellini-ospite-a-bologna-per-il-cinema-c2ff471eb1ef23b9",
     "title": "Isabella rossellini ospite a bologna per il cinema ritrovato",
@@ -8062,23 +8077,6 @@
       "btp 3.61%",
       "spread bce",
       "salvataggio banche italiane"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub torna online dopo 56 minuti di blackout: nessun danno ai dati, utenti in allerta",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-06-17T04:48:21.612269+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIATTIVATO. SERVIZI RISTABILITI.",
-    "lead_preview": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulte",
-    "tags": [
-      "blackout github"
     ],
     "hero_eligible": true
   }
