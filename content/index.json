@@ -1,5 +1,20 @@
 [
   {
+    "id": "9f48ba1ca756f4c5",
+    "slug": "bonny-verso-lesordio-da-titolare-contro-la-germani-9f48ba1ca756f4c5",
+    "title": "Bonny verso l'esordio da titolare contro la germania",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-20T11:09:45.078558+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8ac7cae762127bdf45a2e80bacf73ba4e44ac197/skysport/it/calcio/mondiali/2026/06/14/germania-curacao-pagelle-mondiali-2026/Germania_Ansa.jpg",
+    "occhiello": "BONNY VERSO L'ESORDIO DA TITOLARE CONTRO LA GERMANIA",
+    "lead_preview": "Berlino, 20 giugno 2026. Julian Nagelsmann si prepara alla seconda sfida del Mondiale confermando l'undici che ha asfalt",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d7786ed2f5b105ff",
     "slug": "il-draft-nba-2026-inizia-nella-notte-del-23-giugno-d7786ed2f5b105ff",
     "title": "Il draft nba 2026 inizia nella notte del 23 giugno",
@@ -8202,24 +8217,5 @@
       "colonizzazione israeliana"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 60 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-17T18:25:39.178210+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 60 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
