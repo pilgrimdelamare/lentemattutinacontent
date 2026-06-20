@@ -1,5 +1,20 @@
 [
   {
+    "id": "e782ead01a120808",
+    "slug": "il-premio-chiara-premia-il-nome-e-non-il-racconto-e782ead01a120808",
+    "title": "Il premio chiara premia il nome e non il racconto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-20T15:15:52.980963+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/20/cc9add6a0fe4c8efaed9cd06cf019b7b.jpg",
+    "occhiello": "IL PREMIO CHIARA PREMIA IL NOME E NON IL RACCONTO",
+    "lead_preview": "Varese, 20 giugno 2026. Gianni Biondillo, Marco Malvaldi e Andrea Vitali, quest'ultimo indicato come Scotti nella nota u",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1f82786108343836",
     "slug": "lo-scriptorium-foroiuliense-riproduce-la-bibbia-di-1f82786108343836",
     "title": "Lo scriptorium foroiuliense riproduce la bibbia di aquileia con tecniche amanuense",
@@ -8068,24 +8083,6 @@
       "ia eu",
       "mattarella ue",
       "regolamentazione ia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e17cbf705e45da1b",
-    "slug": "teheran-colpisce-ogni-notte-con-droni-lo-stretto-d-e17cbf705e45da1b",
-    "title": "Iran, attacchi notturni nello stretto: droni contro mercantili dopo il memorandu",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-17T06:53:16.126874+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDYvMTcvMDY0MTI1MjI2LTA0MTk1OTI2LTY4MmItNGQ4NC1hYmFlLWQyY2ZmNzRmNDk2NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "IRAN, ATTACCHI NOTTURNI NELLO STRETTO: DRONI CONTRO MERCANTILI DOPO IL MEMORANDU",
-    "lead_preview": "MAIUSCOLO TEHERAN, 17 GIUGNO 2026 — IL \"CESSATE IL FUOCO\" CHE NON CI È Roma, 17 giugno. L’Iran ha trasformato lo Stretto",
-    "tags": [
-      "guerra iran",
-      "stretto di hormuz"
     ],
     "hero_eligible": true
   }
