@@ -1,5 +1,23 @@
 [
   {
+    "id": "bef187fba83b2e2e",
+    "slug": "ansa-bloccata-dal-paywall-nessuna-notizia-sulla-mo-bef187fba83b2e2e",
+    "title": "ANSA divulga solo Condizioni sito: il caso Sánchez falso?",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-20T12:03:18.217673+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/11/13/d839a7e1fa0a4b5f0b685c6ee9d6c414.jpg",
+    "occhiello": "ANSA BLOCCATA DAL PAYWALL: NESSUNA NOTIZIA SULLA MONCLOA",
+    "lead_preview": "Roma, 20 giugno 2026. La redazione di questa testata ha preso in esame il dispaccio diffuso in data odierna dall'agenzia",
+    "tags": [
+      "caso sanchez",
+      "ansa bloccata"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "383ce10597f9baf7",
     "slug": "il-cacciaconti-festival-unisce-trequanda-e-radicof-383ce10597f9baf7",
     "title": "Cacciaconti Festival a Trequanda-Radicofani: musica e legami umani per rilanciare territorio",
@@ -1878,21 +1896,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/03572c65c4b238dec80fcf1581568b78.jpg",
     "occhiello": "Bombardamenti in Libano dopo il cessate il fuoco",
     "lead_preview": "Beirut, 19 giugno. Israele ha colpito con nuovi bombardamenti il sud del Libano nonostante l'entrata in vigore di un acc",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "bef187fba83b2e2e",
-    "slug": "ansa-bloccata-dal-paywall-nessuna-notizia-sulla-mo-bef187fba83b2e2e",
-    "title": "Ansa bloccata dal paywall: nessuna notizia sulla moncloa",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-20T12:03:18.217673+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/11/13/d839a7e1fa0a4b5f0b685c6ee9d6c414.jpg",
-    "occhiello": "ANSA BLOCCATA DAL PAYWALL: NESSUNA NOTIZIA SULLA MONCLOA",
-    "lead_preview": "Roma, 20 giugno 2026. La redazione di questa testata ha preso in esame il dispaccio diffuso in data odierna dall'agenzia",
     "tags": [],
     "hero_eligible": true
   },
