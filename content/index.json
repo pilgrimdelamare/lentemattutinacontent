@@ -1,5 +1,20 @@
 [
   {
+    "id": "e782ead01a120808",
+    "slug": "il-premio-chiara-premia-il-nome-e-non-il-racconto-e782ead01a120808",
+    "title": "Il premio chiara premia il nome e non il racconto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-20T15:15:52.980963+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/20/cc9add6a0fe4c8efaed9cd06cf019b7b.jpg",
+    "occhiello": "IL PREMIO CHIARA PREMIA IL NOME E NON IL RACCONTO",
+    "lead_preview": "Varese, 20 giugno 2026. Gianni Biondillo, Marco Malvaldi e Andrea Vitali, quest'ultimo indicato come Scotti nella nota u",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "cb122c413d7a8059",
     "slug": "vicario-sfida-a-distanza-tra-napoli-e-juve-cb122c413d7a8059",
     "title": "Vicario, sfida a distanza tra napoli e juve",
@@ -1281,21 +1296,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2024/6/13/21a6d361abbdcd75e2087e131e5d5aad.jpg",
     "occhiello": "NUOVI \"VIAGGI LETTERARI\" PER L'ESTATE",
     "lead_preview": "Milano, 20 giugno. Con l'arrivo della bella stagione, l'editoria punta sui libri da portare in vacanza, proponendo un mi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e782ead01a120808",
-    "slug": "il-premio-chiara-premia-il-nome-e-non-il-racconto-e782ead01a120808",
-    "title": "Il premio chiara premia il nome e non il racconto",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-20T15:15:52.980963+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/20/cc9add6a0fe4c8efaed9cd06cf019b7b.jpg",
-    "occhiello": "IL PREMIO CHIARA PREMIA IL NOME E NON IL RACCONTO",
-    "lead_preview": "Varese, 20 giugno 2026. Gianni Biondillo, Marco Malvaldi e Andrea Vitali, quest'ultimo indicato come Scotti nella nota u",
     "tags": [],
     "hero_eligible": true
   },
