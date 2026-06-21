@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260621",
+    "slug": "libro-del-giorno-dellinvidia-degli-amici-da-francesco-p-20260621",
+    "title": "Il libro del giorno: «Dell’invidia degli amici. Da Francesco Petrarcadi Piera Mattei»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un omaggio a Petrarca nel settimo centenario della nascita, sotto forma di un monologo teatrale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-21T07:01:17.768137+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
+      "alt": "Copertina: Dell’invidia degli amici. Da Francesco Petrarcadi Piera Mattei",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "f831943fe99228d2",
     "slug": "meloni-perde-credito-a-washington-f831943fe99228d2",
     "title": "Trump boccia meloni: dalla florida alla rottura definitiva",
@@ -7981,24 +8000,6 @@
     "lead_preview": "New York, 17 giugno 2026. A partire dalla mezzanotte Italiana del primo luglio, le franchigie NBA potranno avviare le tr",
     "tags": [
       "nba 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "00e26c4f31270b60",
-    "slug": "12-miliardi-dal-pnrr-per-il-nuovo-patrimonio-casa-00e26c4f31270b60",
-    "title": "1,2 miliardi dal pnrr per il nuovo patrimonio casa",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-17T10:05:03.724067+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/30/86a53a0c49fcd7e759d43aff1cdc7584.jpg",
-    "occhiello": "1,2 MILIARDI DAL PNRR PER IL NUOVO PATRIMONIO CASA",
-    "lead_preview": "Roma, 17 giugno 2026. L'esecutivo ha stabilito il trasferimento di 1,2 miliardi di euro provenienti dal Piano nazionale ",
-    "tags": [
-      "pnrr",
-      "patrimonio casa"
     ],
     "hero_eligible": true
   }
