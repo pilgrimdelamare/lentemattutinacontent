@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260621",
+    "slug": "libro-del-giorno-dellinvidia-degli-amici-da-francesco-p-20260621",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-21T07:01:17.768137+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un omaggio a Petrarca nel settimo centenario della nascita, sotto forma di un monologo teatrale",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "20ec13adf720afec",
     "slug": "motogp-marquez-vince-il-gp-della-repubblica-ceca-20ec13adf720afec",
     "title": "MotoGP: Marquez vince il GP della Repubblica Ceca",
@@ -1772,25 +1787,6 @@
     "lead_preview": "Roma, 21 giugno. L'iconico Calcio di punizione di Ronaldinho che, il 21 giugno 2002, siglò la vittoria del Brasile sull'",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260621",
-    "slug": "libro-del-giorno-dellinvidia-degli-amici-da-francesco-p-20260621",
-    "title": "Il libro del giorno: «Dell’invidia degli amici. Da Francesco Petrarcadi Piera Mattei»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un omaggio a Petrarca nel settimo centenario della nascita, sotto forma di un monologo teatrale",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-21T07:01:17.768137+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
-      "alt": "Copertina: Dell’invidia degli amici. Da Francesco Petrarcadi Piera Mattei",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "f831943fe99228d2",
