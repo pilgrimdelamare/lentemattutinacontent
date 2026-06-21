@@ -1,5 +1,20 @@
 [
   {
+    "id": "4094962226a1bedf",
+    "slug": "il-pentagono-tace-sullattacco-a-scuola-4094962226a1bedf",
+    "title": "Il Pentagono tace sull'attacco a scuola",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-06-21T11:57:09.120931+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/ad694bc9068373054fe3d9d7ddbadc058e64e3fd/573_64_5299_4242/master/5299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2aaa29f1990d525b94f0fd55873a913c",
+    "occhiello": "CHIUSA L'INDAGINE SULLA STRAGE NELLA SCUOLA DI MINAB",
+    "lead_preview": "Minab, 21 giugno 2026. Un'indagine riservata condotta dal Pentagono sull'attacco aereo che ha causato la morte di almeno",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6095a390abf3827d",
     "slug": "regno-unito-sotto-pressione-per-londata-di-calore-6095a390abf3827d",
     "title": "Regno unito sotto pressione per l'ondata di calore",
@@ -7974,21 +7989,6 @@
       "rincari rc auto",
       "indagine ivass antitrust"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "478e8b4f0fa98ced",
-    "slug": "google-trasforma-le-foto-in-dati-manipolabili-dall-478e8b4f0fa98ced",
-    "title": "Google trasforma le foto in dati manipolabili dall'intelligenza artificiale",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-06-18T10:14:30.764528+00:00",
-    "image_type": "image",
-    "image_url": "https://media-assets.wired.it/photos/6a33a2d75149038dc0ac7b78/16:9/w_1280,c_limit/google%20foto%20modifica.png",
-    "occhiello": "GOOGLE TRASFORMA LE FOTO IN DATI MANIPOLABILI DALL'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Roma, 18 giugno 2026. Google Foto introduce in Italia la funzionalità di editing conversazionale basata sul modello di i",
-    "tags": [],
     "hero_eligible": true
   }
 ]
