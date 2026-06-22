@@ -1,5 +1,24 @@
 [
   {
+    "id": "2fd07a0ada874801",
+    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
+    "title": "Calcio: Mohamed Salah segna",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-22T03:23:38.541498+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
+    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
+    "lead_preview": "Wellington, 22 giugno.",
+    "tags": [
+      "mondiali",
+      "egitto vince",
+      "salah segna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cbcc769afbab2303",
     "slug": "malago-e-abodi-a-confronto-sui-vertici-della-feder-cbcc769afbab2303",
     "title": "Malago e abodi a confronto sui vertici della federazione",
@@ -2387,21 +2406,6 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/invidia_amici-40ae3.jpg?1775820837",
     "occhiello": "Il libro del giorno",
     "lead_preview": "un omaggio a Petrarca nel settimo centenario della nascita, sotto forma di un monologo teatrale",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2fd07a0ada874801",
-    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
-    "title": "Egitto vincitore nei mondiali",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-06-22T03:23:38.541498+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
-    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
-    "lead_preview": "Wellington, 22 giugno.",
     "tags": [],
     "hero_eligible": true
   },
