@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 22 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-22T05:57:16.600244+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8c3c9ed1bbeb4cd9f629cc737e55e7057794ff48/skytg24/it/cronaca/2026/06/22/prime-pagine-quotidiani-oggi-22-giugno/rassegna22giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE LUNEDÌ 22 GIUGNO 2026",
+    "lead_preview": "I principali quotidiani italiani dedicano ampio spazio alle tensioni tra Stati Uniti e Iran, con particolare attenzione ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b00723c27740ef84",
     "slug": "opacita-e-cognomi-anonimi-alla-guida-di-moschino-b00723c27740ef84",
     "title": "Opacità e cognomi anonimi alla guida di moschino",
@@ -6147,25 +6166,6 @@
     "occhiello": "DEVIN BOOKER ABBANDONA IL NUMERO 1 DOPO UNDICI STAGIONI",
     "lead_preview": "Phoenix, 18 giugno 2026. Devin Booker ha annunciato ufficialmente il cambio del proprio numero di maglia in vista della ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 19 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-19T05:47:23.284086+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/98f588635a28bdcb42c4b5b3080d35bed1c0e366/skytg24/it/cronaca/2026/06/19/prime-pagine-quotidiani-oggi-19-giugno/Composite_19_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 19 GIUGNO 2026: GUERRA, CALCIO E CRISI GEOPOLITICA",
-    "lead_preview": "I quotidiani italiani di oggi convergono su due crisi internazionali: l’offensiva ucraina contro obiettivi russi e la te",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
