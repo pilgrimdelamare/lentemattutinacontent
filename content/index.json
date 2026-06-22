@@ -1,5 +1,20 @@
 [
   {
+    "id": "2fd07a0ada874801",
+    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
+    "title": "Egitto vincitore nei mondiali",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-22T03:23:38.541498+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
+    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
+    "lead_preview": "Wellington, 22 giugno.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "79383ca479d15b48",
     "slug": "due-milioni-di-persone-per-il-titolo-nba-dei-knick-79383ca479d15b48",
     "title": "Due milioni di persone per il titolo nba dei knicks",
@@ -7938,24 +7953,6 @@
     "occhiello": "UNITÀ OCCIDENTALE SOTTO LA LENTE DEL G7",
     "lead_preview": "Il 17 giugno 2026, il presidente francese Emmanuel Macron ha dichiarato il successo del G7 di Evian, sottolineando una n",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "55b2ccb684dc8c1f",
-    "slug": "trump-cede-iran-blocca-nucleare-ma-salva-missili-e-55b2ccb684dc8c1f",
-    "title": "Trump accetta un accordo con l'iran sulla guerra",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-17T22:34:37.779232+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/cdb206993a72bb16bc5819a27117e4a59904edb7/427_0_2007_1606/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c660616d1ebbb11145c86de3f7d8f86",
-    "occhiello": "TRUMP ACCETTA UN ACCORDO CON L'IRAN SULLA GUERRA",
-    "lead_preview": "Washington, 18 giugno. Gli Stati Uniti, dopo un conflitto con l'Iran caratterizzato da ambizioni massimaliste, hanno rag",
-    "tags": [
-      "accordo stati uniti iran",
-      "cessate il fuoco iran"
-    ],
     "hero_eligible": true
   }
 ]
