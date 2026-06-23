@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-23T16:40:18.781838+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIPRISTINATO",
+    "lead_preview": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "181c7db29d5b98c8",
     "slug": "como-il-mercato-entra-nel-vivo-con-due-nuovi-innes-181c7db29d5b98c8",
     "title": "Como, il mercato entra nel vivo con due nuovi innesti",
@@ -698,25 +717,6 @@
     "lead_preview": "Vieste, 23 giugno 2026. La venticinquesima edizione del festival Il libro possibile inaugura il suo percorso con un'ante",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T14:44:30.345413+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "4a67f95c97dd25f8",
