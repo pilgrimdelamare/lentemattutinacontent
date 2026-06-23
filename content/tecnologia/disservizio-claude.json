@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 34 minuti di interruzione.",
+  "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "Claude è tornato online dopo 34 minuti di interruzione.",
-    "Claude è tornato online dopo 34 minuti di interruzione.",
-    "Claude è tornato online dopo 34 minuti di interruzione."
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIATTIVATO",
-  "lead": "Claude è tornato online dopo 34 minuti di interruzione.",
-  "corpo1": "Il disservizio di Claude è iniziato e dopo 34 minuti è stato risolto. La durata dell'interruzione è stata di 34 minuti. Il sistema è ora funzionante e operativo. La ripresa dell'attività è stata confermata.",
+  "occhiello": "CLAUDE IN DOWN",
+  "lead": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-05-30T04:44:41.609394+00:00",
+  "published_at": "2026-06-23T14:39:17.621186+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "GitHub è tornato online dopo 55 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Google finanzia l'educazione digitale per gli over 65 italiani",
+      "url": "/tecnologia/google-finanzia-leducazione-digitale-per-gli-over-2ac5fbc63aa4de4d",
+      "id": "2ac5fbc63aa4de4d",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/19/140253010-822e1a50-6798-43f8-b2d8-32117e8ace83.jpg",
       "image_type": "image"
     },
     {
-      "title": "Satispay è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserviz",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Sei rischi di sicurezza su nove restano totalmente scoperti",
+      "url": "/tecnologia/sei-rischi-di-sicurezza-su-nove-restano-totalmente-774017b3e7030158",
+      "id": "774017b3e7030158",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/23/105751475-efe0e5fe-66ae-4be4-94a2-30e9d14ef174.jpg",
       "image_type": "image"
     },
     {
-      "title": "Apple svela l’iPhone 18 Pro: il rosso ciliegia scuro è il nuovo colore simbolo",
-      "url": "/tecnologia/apple-svela-liphone-18-pro-il-rosso-ciliegia-scuro-fea655fdf8f10de3",
-      "id": "fea655fdf8f10de3",
-      "image_url": "https://media-assets.wired.it/photos/6a19a29cafd52c49ffe5a3df/16:9/w_1280,c_limit/524417342",
+      "title": "Le sigle dei cartoni animati: quando l'italia inventava le parole al posto di google",
+      "url": "/tecnologia/le-sigle-dei-cartoni-animati-quando-litalia-invent-6dda8743fb70670b",
+      "id": "6dda8743fb70670b",
+      "image_url": "https://media-assets.wired.it/photos/615dae6035c15c27e8b01890/16:9/w_1280,c_limit/photo45.jpg",
       "image_type": "image"
     }
   ],
