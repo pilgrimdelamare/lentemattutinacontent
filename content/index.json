@@ -1,5 +1,23 @@
 [
   {
+    "id": "2fd07a0ada874801",
+    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
+    "title": "Egitto vincitore nei mondiali",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-22T03:23:38.541498+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
+    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
+    "lead_preview": "Wellington, 22 giugno.",
+    "tags": [
+      "mondiali egitto",
+      "vittoria egitto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "681a4f8cbf05d644",
     "slug": "la-societa-americana-castlelake-punta-a-easyjet-co-681a4f8cbf05d644",
     "title": "La società americana castlelake punta a easyjet con 4,7 miliardi",
@@ -1787,25 +1805,6 @@
     "occhiello": "MARC MARQUEZ VINCE A BRNO E RAGGIUNGE 101 SUCCESSI IN CARRIERA",
     "lead_preview": "Brno, 21 giugno 2026. Marc Marquez ha conquistato il Gran Premio della Repubblica Ceca, portando a 101 il numero totale ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2fd07a0ada874801",
-    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
-    "title": "Calcio: Mohamed Salah segna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-22T03:23:38.541498+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
-    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
-    "lead_preview": "Wellington, 22 giugno.",
-    "tags": [
-      "mondiali",
-      "egitto vince",
-      "salah segna"
-    ],
     "hero_eligible": true
   },
   {
