@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, martedì 23 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-23T04:01:55.819314+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — MARTEDÌ 23 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3755e9b1bee4acf4",
     "slug": "giannis-antetokounmpo-lascia-milwaukee-prima-del-d-3755e9b1bee4acf4",
     "title": "Giannis sceglie: Bucks cedono il Greek Freak tra Celtics e Heat in un mercato da 100 milioni",
@@ -3450,26 +3470,6 @@
     "lead_preview": "Roma, 21 giugno. Sergio Mattarella ha inviato un messaggio di auguri in occasione del 252° anniversario della Guardia di",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, lunedì 22 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-22T04:02:08.289515+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — LUNEDÌ 22 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "85605ed53fb924c4",
