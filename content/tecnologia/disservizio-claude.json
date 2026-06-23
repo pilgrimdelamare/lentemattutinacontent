@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "Claude è tornato online dopo 66 minuti di interruzione.",
   "titles": [
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "Claude è tornato online dopo 66 minuti di interruzione.",
+    "Claude è tornato online dopo 66 minuti di interruzione.",
+    "Claude è tornato online dopo 66 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIPRISTINATO",
+  "lead": "Claude è tornato online dopo 66 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 66 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-23T14:39:17.621186+00:00",
+  "published_at": "2026-06-23T15:29:58.000194+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,10 +38,10 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Google finanzia l'educazione digitale per gli over 65 italiani",
-      "url": "/tecnologia/google-finanzia-leducazione-digitale-per-gli-over-2ac5fbc63aa4de4d",
-      "id": "2ac5fbc63aa4de4d",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/19/140253010-822e1a50-6798-43f8-b2d8-32117e8ace83.jpg",
+      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
