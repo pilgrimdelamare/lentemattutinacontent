@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-23T14:39:17.621186+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE IN DOWN",
+    "lead_preview": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c21c7fab3bcffd5c",
     "slug": "la-figc-cerca-il-nuovo-commissario-tecnico-tra-nom-c21c7fab3bcffd5c",
     "title": "La figc cerca il nuovo commissario tecnico tra nomi noti",
@@ -7863,25 +7882,6 @@
       "loreal big bang",
       "innovazione cosmetica",
       "startup bellezza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9911d5eb4493f611",
-    "slug": "larchivio-di-roberto-rossellini-alla-cineteca-di-b-9911d5eb4493f611",
-    "title": "Rossellini a Bologna: la Cineteca salva 60 anni di cinema italiano in un archivio vivo e aperto",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-06-19T09:50:22.050385+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/25e9c32e4d1ba62eaee387ab69023649.jpg",
-    "occhiello": "L'archivio di Roberto Rossellini alla Cineteca di Bologna",
-    "lead_preview": "Bologna, 19 giugno 2026. L'archivio del regista Roberto Rossellini trova la sua nuova sede definitiva presso la Cineteca",
-    "tags": [
-      "archivio rossellini",
-      "cineteca bologna",
-      "cinema italiano"
     ],
     "hero_eligible": true
   }
