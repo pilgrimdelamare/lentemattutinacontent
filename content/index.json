@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-23T21:52:43.870393+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM IN DOWN",
+    "lead_preview": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "4bbd7504d8a2f449",
     "slug": "il-qatar-indica-nellintesa-con-liran-la-sicurezza-4bbd7504d8a2f449",
     "title": "Il qatar indica nell'intesa con l'iran la sicurezza del golfo",
@@ -7787,21 +7806,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/19/093148b72b8003dadaa41aa36f4cf8a4.jpg",
     "occhiello": "SIENA CELEBRA IL LEGAME ARCAICO TRA POTERE E CAVALLI",
     "lead_preview": "Siena, 19 giugno 2026. Palazzo Sansedoni inaugura la mostra Cavalli e potere, un percorso espositivo che esplora il ruol",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "864a498ec4d87add",
-    "slug": "la-borsa-di-milano-sale-dell06-864a498ec4d87add",
-    "title": "Milano guadagna lo 0,6%: europei attendono accordo Usa-Iran. New York più dinamica",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-19T16:26:51.741925+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2023/3/20/655de0b7f87de960b4bfb7216a75d7e9.jpg",
-    "occhiello": "MILANO CHIUDE A +0,6% MENTRE L'ACCORDO USA-IRAN RALLENTA",
-    "lead_preview": "Milano, 19 giugno 2026. La chiusura delle contrattazioni sui mercati azionari europei disegna un quadro frammentato, car",
     "tags": [],
     "hero_eligible": true
   }
