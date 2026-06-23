@@ -1,0 +1,63 @@
+{
+  "id": "monitor_instagram",
+  "slug": "disservizio-instagram",
+  "title": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
+  "titles": [
+    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "INSTAGRAM IN DOWN",
+  "lead": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-06-23T21:52:43.870393+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/instagram.com",
+    "source": "Instagram",
+    "credit": "Instagram",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
+  "related": [
+    {
+      "title": "60% Degli italiani conosce le falsificazioni delle sigle dei cartoni anni 80",
+      "url": "/tecnologia/le-sigle-dei-cartoni-animati-quando-litalia-invent-6dda8743fb70670b",
+      "id": "6dda8743fb70670b",
+      "image_url": "https://media-assets.wired.it/photos/615dae6035c15c27e8b01890/16:9/w_1280,c_limit/photo45.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Claude è tornato online dopo 66 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
