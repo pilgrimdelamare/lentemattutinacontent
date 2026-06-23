@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
+  "title": "Instagram è tornato online dopo 55 minuti di interruzione.",
   "titles": [
-    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi"
+    "Instagram è tornato online dopo 55 minuti di interruzione.",
+    "Instagram è tornato online dopo 55 minuti di interruzione.",
+    "Instagram è tornato online dopo 55 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM IN DOWN",
-  "lead": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "INSTAGRAM RIPRISTINATO",
+  "lead": "Instagram è tornato online dopo 55 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Instagram è stato risolto. L'interruzione è durata circa 55 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-23T21:52:43.870393+00:00",
+  "published_at": "2026-06-23T22:33:07.260019+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -38,13 +38,6 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
   "related": [
     {
-      "title": "60% Degli italiani conosce le falsificazioni delle sigle dei cartoni anni 80",
-      "url": "/tecnologia/le-sigle-dei-cartoni-animati-quando-litalia-invent-6dda8743fb70670b",
-      "id": "6dda8743fb70670b",
-      "image_url": "https://media-assets.wired.it/photos/615dae6035c15c27e8b01890/16:9/w_1280,c_limit/photo45.jpg",
-      "image_type": "image"
-    },
-    {
       "title": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
@@ -56,6 +49,13 @@
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Sei rischi di sicurezza su nove restano totalmente scoperti",
+      "url": "/tecnologia/sei-rischi-di-sicurezza-su-nove-restano-totalmente-774017b3e7030158",
+      "id": "774017b3e7030158",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/23/105751475-efe0e5fe-66ae-4be4-94a2-30e9d14ef174.jpg",
       "image_type": "image"
     }
   ],
