@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram è tornato online dopo 55 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-23T22:33:07.260019+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM RIPRISTINATO",
+    "lead_preview": "Instagram è tornato online dopo 55 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "029a9fb81c05f724",
     "slug": "chailly-e-la-filarmonica-della-scala-a-reggio-emil-029a9fb81c05f724",
     "title": "Chailly e la filarmonica della scala a reggio emilia",
@@ -103,25 +122,6 @@
     "lead_preview": "Teheran, 23 giugno 2026. Lo Stretto di Hormuz è di nuovo percorribile per il commercio marittimo Internazionale, in segu",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T21:52:43.870393+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM IN DOWN",
-    "lead_preview": "Instagram è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "4bbd7504d8a2f449",
