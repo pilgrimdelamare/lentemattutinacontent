@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260623",
+    "slug": "libro-del-giorno-breve-storia-umoristica-del-librodi-en-20260623",
+    "title": "Il libro del giorno: «Breve storia umoristica del librodi Enrique Gallud Jardiel»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una panoramica veloce e divertita sui libri, dai papiri all’ebook",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-23T07:00:41.244735+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L179xH312/storia_umoristica_del_libro-24db1.jpg?1775838573",
+      "alt": "Copertina: Breve storia umoristica del librodi Enrique Gallud Jardiel",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L179xH312/storia_umoristica_del_libro-24db1.jpg?1775838573",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "c7519f1e2dc4dee6",
     "slug": "le-statistiche-di-marcelo-bielsa-ai-mondiali-2026-c7519f1e2dc4dee6",
     "title": "Le statistiche di marcelo bielsa ai mondiali 2026",
@@ -8024,24 +8043,6 @@
       "raid libano",
       "crisi medio oriente",
       "iran israele"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9c67251cad6e0bb3",
-    "slug": "igor-protti-scompare-a-58-anni-il-ricordo-di-di-ca-9c67251cad6e0bb3",
-    "title": "Igor protti scompare a 58 anni, il ricordo di di canio",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-19T13:30:02.053878+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/91556417ab656a0dcb2c59f0840b9eb35dde1074/skysport/it/calcio/serie-a/video/2026/06/19/protti-di-canio-ricordo-video/ansa_protti_signori_casiraghi.jpg",
-    "occhiello": "IGOR PROTTI SCOMPARE A 58 ANNI, IL RICORDO DI DI CANIO",
-    "lead_preview": "Roma, 19 giugno 2026. Igor Protti è morto all'età di 58 anni, lasciando il segno in una generazione di Calcio italiano c",
-    "tags": [
-      "igor protti",
-      "calcio italiano"
     ],
     "hero_eligible": true
   }
