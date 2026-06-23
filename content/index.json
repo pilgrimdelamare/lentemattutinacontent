@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 66 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-06-23T15:29:58.000194+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRISTINATO",
+    "lead_preview": "Claude è tornato online dopo 66 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8b32a9a1b05334a0",
     "slug": "un-debutto-editoriale-nella-collana-darkside-di-fa-8b32a9a1b05334a0",
     "title": "Emma Cortesi debutta da Fazi: il giallo del condominio svela i segreti dei vicini",
@@ -269,25 +288,6 @@
       "giunta militare birmana"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T14:39:17.621186+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IN DOWN",
-    "lead_preview": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c21c7fab3bcffd5c",
