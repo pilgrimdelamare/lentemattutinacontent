@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 23 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-23T05:53:13.996624+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/c95004d403093ce4fd5253ab6a3c9743a5902677/skytg24/it/cronaca/2026/06/23/prime-pagine-quotidiani-oggi-23-giugno/collage_11zon.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE – 23 GIUGNO 2026: CRISI UK, IRAN E SPORT",
+    "lead_preview": "Oggi i principali quotidiani italiani convergono su tre filoni: le dimissioni del premier britannico Keir Starmer e la c",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f8735ce39b50bc22",
     "slug": "von-der-leyen-elogia-starmer-per-la-sicurezza-f8735ce39b50bc22",
     "title": "Von der Leyen elogia Starmer: «Londra chiave per l’Ucraina, l’Europa è più sicura»",
@@ -3583,25 +3602,6 @@
     "lead_preview": "New York, 21 giugno 2026. La classifica stilata da The Athletic ha sancito il verdetto definitivo sugli impianti che osp",
     "tags": [
       "mondiali 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 22 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-22T05:57:16.600244+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/8c3c9ed1bbeb4cd9f629cc737e55e7057794ff48/skytg24/it/cronaca/2026/06/22/prime-pagine-quotidiani-oggi-22-giugno/rassegna22giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE LUNEDÌ 22 GIUGNO 2026",
-    "lead_preview": "I principali quotidiani italiani dedicano ampio spazio alle tensioni tra Stati Uniti e Iran, con particolare attenzione ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
