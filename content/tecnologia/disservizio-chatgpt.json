@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
   "titles": [
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 131 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIPRISTINATO",
+  "lead": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 131 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-23T14:44:30.345413+00:00",
+  "published_at": "2026-06-23T16:40:18.781838+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,17 +38,10 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+      "title": "Claude è tornato online dopo 66 minuti di interruzione.",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Google finanzia l'educazione digitale per gli over 65 italiani",
-      "url": "/tecnologia/google-finanzia-leducazione-digitale-per-gli-over-2ac5fbc63aa4de4d",
-      "id": "2ac5fbc63aa4de4d",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/19/140253010-822e1a50-6798-43f8-b2d8-32117e8ace83.jpg",
       "image_type": "image"
     },
     {
@@ -56,6 +49,13 @@
       "url": "/tecnologia/sei-rischi-di-sicurezza-su-nove-restano-totalmente-774017b3e7030158",
       "id": "774017b3e7030158",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/23/105751475-efe0e5fe-66ae-4be4-94a2-30e9d14ef174.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Le sigle dei cartoni animati: quando l'italia inventava le parole al posto di google",
+      "url": "/tecnologia/le-sigle-dei-cartoni-animati-quando-litalia-invent-6dda8743fb70670b",
+      "id": "6dda8743fb70670b",
+      "image_url": "https://media-assets.wired.it/photos/615dae6035c15c27e8b01890/16:9/w_1280,c_limit/photo45.jpg",
       "image_type": "image"
     }
   ],
