@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 24 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-24T05:46:07.588840+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/7f0225aecb66d7bd2446c5183f6cd9ff23d2f6e5/skytg24/it/cronaca/2026/06/24/prime-pagine-quotidiani-oggi-24-giugno/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE - 24 GIUGNO 2026: POLITICA, CALDO RECORD E SPORT",
+    "lead_preview": "Oggi i principali quotidiani italiani convergono su tre filoni: le dichiarazioni della premier Meloni sulle relazioni co",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "774017b3e7030158",
     "slug": "sei-rischi-di-sicurezza-su-nove-restano-totalmente-774017b3e7030158",
     "title": "Zenita Group: agenti IA autonomi lasciano 6 rischi su 9 senza difesa – le aziende sono indifese",
@@ -4270,25 +4289,6 @@
     "tags": [
       "banca finnat",
       "luca barone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 23 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-23T05:53:13.996624+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/c95004d403093ce4fd5253ab6a3c9743a5902677/skytg24/it/cronaca/2026/06/23/prime-pagine-quotidiani-oggi-23-giugno/collage_11zon.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE – 23 GIUGNO 2026: CRISI UK, IRAN E SPORT",
-    "lead_preview": "Oggi i principali quotidiani italiani convergono su tre filoni: le dimissioni del premier britannico Keir Starmer e la c",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
