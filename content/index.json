@@ -1,5 +1,20 @@
 [
   {
+    "id": "6086dad419eb547a",
+    "slug": "roscigno-avvia-indagini-geofisiche-su-monte-bruno-6086dad419eb547a",
+    "title": "Roscigno avvia indagini geofisiche su Monte Bruno con georadar e magnetometria",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-25T12:16:07.787097+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/25/4311989b30b95e5e1df445e3299c3cb6.jpg",
+    "occhiello": "GEORADAR E MAGNETOMETRIA PER SVELARE I SEGRETI DI MONTE BRUNO",
+    "lead_preview": "Roscigno, 25 giugno. Sono iniziate le indagini geofisiche nell'area archeologica di Monte Bruno, nel cuore del comune sa",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8d57cf98bbe74f9f",
     "slug": "il-pianoforte-di-ciammarughi-tra-mahler-e-bowie-8d57cf98bbe74f9f",
     "title": "Il pianoforte di ciammarughi tra mahler e bowie",
@@ -8157,24 +8172,6 @@
       "legge elettorale",
       "fiducia governo",
       "fratelli d'italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2fd07a0ada874801",
-    "slug": "egitto-vincitore-nei-mondiali-2fd07a0ada874801",
-    "title": "Egitto vincitore nei mondiali",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-22T03:23:38.541498+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/70abd3a7993fc42d04536b514393fcb7.jpg",
-    "occhiello": "EGITTO VINCITORE NEI MONDIALI",
-    "lead_preview": "Wellington, 22 giugno.",
-    "tags": [
-      "mondiali egitto",
-      "vittoria egitto"
     ],
     "hero_eligible": true
   }
