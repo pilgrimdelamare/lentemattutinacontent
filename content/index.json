@@ -1,5 +1,23 @@
 [
   {
+    "id": "622682d264dce67c",
+    "slug": "il-racconto-delle-tradizioni-tra-vini-e-storia-loc-622682d264dce67c",
+    "title": "Il racconto delle tradizioni tra vini e storia locale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-25T13:55:33.793419+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/25/c11f9c6686ef956cbd56f0ff741cb4de.jpg",
+    "occhiello": "IL RACCONTO DELLE TRADIZIONI TRA VINI E STORIA LOCALE",
+    "lead_preview": "Roma, 25 giugno 2026. La nuova guida dedicata ai Locali Storici d'Italia traccia un percorso inedito che intreccia il mo",
+    "tags": [
+      "locali storici",
+      "guida enogastronomica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "af2d47ed73e49932",
     "slug": "brunello-cucinelli-riceve-il-xvii-premio-del-vitto-af2d47ed73e49932",
     "title": "Brunello cucinelli riceve il xvii premio del vittoriale a luglio",
@@ -8084,24 +8102,6 @@
     "tags": [
       "romanzo burocrazia italiana",
       "sara mesa libri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "235e6692a8844293",
-    "slug": "bufala-culturale-nessuna-mostra-su-ovidio-alla-gal-235e6692a8844293",
-    "title": "Mostra su Ovidio alla Galleria Borghese: il museo smentisce le ottanta opere",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-22T15:01:04.224239+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/22/793f5217911effe26fc24b9fc2b86094.jpg",
-    "occhiello": "LA GALLERIA BORGHESE NON OSPITA ALCUNA MOSTRA SU OVIDIO",
-    "lead_preview": "Roma, 22 giugno. La notizia riguardante una mostra dedicata alle Metamorfosi di Ovidio presso la Galleria Borghese, con ",
-    "tags": [
-      "mostra ovidio",
-      "galleria borghese"
     ],
     "hero_eligible": true
   }
