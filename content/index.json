@@ -1,5 +1,20 @@
 [
   {
+    "id": "50beba608f41d14d",
+    "slug": "i-fondi-negoziali-battono-quelli-aperti-nel-lungo-50beba608f41d14d",
+    "title": "I fondi negoziali battono quelli aperti nel lungo periodo",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-26T12:46:14.870767+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/26/143206385-a7f3e731-f710-42a5-b8da-41f01bc07998.jpg",
+    "occhiello": "I FONDI NEGOZIALI BATTONO QUELLI APERTI NEL LUNGO PERIODO",
+    "lead_preview": "Roma, 26 giugno 2026. A partire dal primo luglio entra in vigore la nuova normativa che disciplina il comparto dei fondi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5a9c8fcc9f85a28f",
     "slug": "malago-analizza-i-bilanzi-federali-per-ristruttura-5a9c8fcc9f85a28f",
     "title": "Malago analizza i bilanzi federali per ristrutturare il calcio",
@@ -8053,24 +8068,5 @@
     "lead_preview": "Roma, 22 giugno 2026. Il Como definisce le operazioni in entrata per Kaiki e Milla, perfezionando i dettagli contrattual",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T16:40:18.781838+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 131 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
