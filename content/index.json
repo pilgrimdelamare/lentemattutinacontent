@@ -1,5 +1,20 @@
 [
   {
+    "id": "569235b59a14dc92",
+    "slug": "milano-perde-luno-per-cento-mentre-il-gas-si-corte-569235b59a14dc92",
+    "title": "Milano perde l'uno per cento mentre il gas si corteggia",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-26T15:08:39.741763+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2025/9/9/b23c94044ca174cf70541eb0604fa899.jpg",
+    "occhiello": "MILANO PERDE L'UNO PER CENTO MENTRE IL GAS SI CORTEGGIA",
+    "lead_preview": "Milano, 26 giugno 2026. La Borsa Italiana chiude la seduta con un ribasso dell'uno per cento, trascinata verso il basso ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1b77620b48abd65b",
     "slug": "quaranta-aerei-lufthansa-a-terra-per-mancanza-di-c-1b77620b48abd65b",
     "title": "Quaranta aerei lufthansa a terra per mancanza di carburante",
@@ -8005,24 +8020,5 @@
       "norvegia senegal"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è tornato online dopo 55 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T22:33:07.260019+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM RIPRISTINATO",
-    "lead_preview": "Instagram è tornato online dopo 55 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
