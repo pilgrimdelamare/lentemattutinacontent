@@ -1,5 +1,20 @@
 [
   {
+    "id": "ff91cc471ea60eb3",
+    "slug": "il-nations-championship-debutta-nel-2026-sulla-pia-ff91cc471ea60eb3",
+    "title": "Il nations championship debutta nel 2026 sulla piattaforma sky",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-06-26T10:37:06.191542+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/d318216f0dcfe9e4b3839d4444c35c7942f33c5c/skysport/it/rugby/video/2026/06/26/1107714_1782465832028_thumb_494.0000001_1782465888294.jpg",
+    "occhiello": "IL NATIONS CHAMPIONSHIP DEBUTTA NEL 2026 SULLA PIATTAFORMA SKY",
+    "lead_preview": "Roma, 26 giugno 2026. La piattaforma satellitare Sky ha ufficializzato l'acquisizione dei diritti di trasmissione per il",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9d88e9b24cbf52c6",
     "slug": "i-rolling-stones-pubblicano-foreign-tongues-a-64-a-9d88e9b24cbf52c6",
     "title": "I rolling stones pubblicano foreign tongues a 64 anni dall'esordio",
@@ -8067,24 +8082,5 @@
       "tassa sui pacchi"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 66 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-06-23T15:29:58.000194+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 66 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
