@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 25 giugno 2026",
+  "title": "Le prime pagine di oggi, venerdì 26 giugno 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 25 giugno 2026",
-    "Le prime pagine di oggi, giovedì 25 giugno 2026",
-    "Le prime pagine di oggi, giovedì 25 giugno 2026"
+    "Le prime pagine di oggi, venerdì 26 giugno 2026",
+    "Le prime pagine di oggi, venerdì 26 giugno 2026",
+    "Le prime pagine di oggi, venerdì 26 giugno 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE – GIUGNO 2026: GUERRA FREDDA ITALIA-NATO, CALDO RECORD E CALCIO",
-  "lead": "I principali quotidiani italiani aprono con la polemica tra Italia e Nato per le dichiarazioni del segretario generale Jens Stoltenberg, che avrebbe parlato di 500 jet decollati dall’Italia verso l’Iran, smentite dal governo. Il Corriere della Sera, La Repubblica e La Stampa dedicano ampio spazio allo scontro diplomatico, mentre il Messaggero aggiunge l’emergenza climatica con ondate di caldo estremo. La Gazzetta dello Sport e il Corriere dello Sport si concentrano invece sul calcio, tra Maldini e la Nazionale, e il calciomercato di Nico Paz. Dichiarazione di accessibilità in chiusura su alcuni quotidiani.",
-  "corpo1": "Il Corriere della Sera e La Repubblica aprono con lo scontro tra Italia e Nato, dopo che il segretario generale Jens Stoltenberg ha affermato che 500 aerei militari sarebbero partiti dal suolo italiano verso l’Iran, una dichiarazione respinta dal governo come \"falsa\" e smentita anche dal ministro della Difesa Crosetto. La Stampa ribadisce la linea del governo, sottolineando il rispetto dei trattati internazionali, e inserisce un reportage da Gaza mentre Teheran chiede l’inclusione della Striscia di Gaza in un eventuale accordo con gli Stati Uniti. Il Messaggero, oltre alla polemica con la Nato, dà spazio all’ondata di caldo record che colpirà l’Italia nel weekend, con gli Uffizi che riducono gli accessi per motivi di sicurezza, e pubblica un’intervista ad Alemanno dopo la sua uscita dal carcere. Il Corriere dello Sport si focalizza sul calciomercato, con un vertice a Madrid per decidere il futuro di Nico Paz tra Inter e Como, mentre la Gazzetta dello Sport spinge per convincere Paolo Maldini a ricoprire un ruolo nella nuova Nazionale italiana, con una proposta quadriennale legata al Mondiale del 2026.",
-  "corpo2": "Sul Corriere dello Sport spicca anche la delusione per l’eliminazione dell’Italia dal campionato europeo, con la Svizzera e il Canada che si sono qualificati con soli quattro punti. La Repubblica inserisce un servizio sul vertice europeo a cinque con Meloni a Berlino, dove si discute del rilancio dell’alleanza atlantica. La dichiarazione di accessibilità compare in chiusura su alcuni quotidiani, tra cui il Corriere della Sera. Il tema dominante della giornata è lo scontro diplomatico Italia-Nato, affiancato da emergenza climatica e aggiornamenti dal mondo del calcio.",
+  "occhiello": "LE PRIME PAGINE – 26 GIUGNO 2026: TERREMOTO, FERROVIE, GUERRA E CALCIO",
+  "lead": "I giornali italiani di oggi convergono su tre emergenze: il devastante terremoto in Venezuela, con oltre 180 morti e 40mila dispersi, che occupa le prime pagine di *la Repubblica*, *Corriere della Sera*, *Il Messaggero* e *La Stampa*, con focus sulle vittime italiane e sul caos a Caracas. *Il Fatto Quotidiano* e *La Gazzetta dello Sport* dedicano invece l’apertura al calciomercato, tra il ritorno di Paz al Real Madrid e le trattative per Ramos al Milan. *Il Giornale* e *Libero* insistono sul caso Ferrovie, con le dimissioni dell’ad Donnarumma volute da Salvini, mentre *Il Sole 24 Ore* e *Il Messaggero* aprono con la tensione in Medio Oriente, tra minacce iraniane e vertice Meloni-Macron ad Antibes. Solo *La Stampa* e *Il Fatto* dedicano spazio anche a inchieste giudiziarie e appalti truccati legati al caso Covid.",
+  "corpo1": "*La Repubblica* e *Corriere della Sera* aprono con il terremoto in Venezuela, definito \"apocalisse\" o \"ecatombe\", con bilanci aggiornati a oltre 180 morti e 40mila dispersi, la distruzione di Caracas e dello stato de La Guaira, e la presenza di un italiano tra le vittime. *Il Messaggero* e *Il Fatto Quotidiano* replicano con titoli simili, aggiungendo dettagli sulle squadre di soccorso italiane inviate sul posto e sulle criticità nella gestione dell’emergenza locale. *La Stampa* e *La Gazzetta dello Sport* dedicano invece l’apertura al caos dei treni in Italia, con la notizia delle dimissioni dell’ad di Ferrovie, Donnarumma, imposte dal ministro Salvini, e le proteste dell’opposizione che chiede le sue dimissioni. *Il Giornale* e *Libero* insistono sul caso, sottolineando il ruolo di Strisciuglio come possibile successore. *Il Sole 24 Ore* e *Il Messaggero* aprono invece con la guerra in Medio Oriente, dove l’Iran minaccia le basi Usa e Tajani tenta di mediare, mentre Meloni e Macron si incontrano ad Antibes per rafforzare l’asse Roma-Parigi. *La Gazzetta dello Sport* e *Il Fatto Quotidiano* dedicano invece l’apertura al calciomercato: il Real Madrid riacquista Paz, mentre Milan e Juventus si muovono per Ramos e Kessiè, con l’Inter in corsa per il talento argentino.",
+  "corpo2": "Sulle prime pagine compaiono anche altre notizie: *Il Sole 24 Ore* e *Il Messaggero* dedicano spazio al vertice Meloni-Macron, definito \"asse indispensabile per l’Occidente\", mentre *Il Fatto Quotidiano* e *La Repubblica* riportano l’inchiesta su un appalto da 1,2 miliardi con fatture false legato al caso Covid. *La Stampa* e *Il Giornale* menzionano le intercettazioni sul ponte sullo Stretto, con accuse all’ex ministro Ciucci. Il tema dominante della giornata resta però il terremoto in Venezuela, seguito a distanza dal caos delle Ferrovie e dalle tensioni internazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-06-25T05:46:06.300738+00:00",
+  "published_at": "2026-06-26T05:46:17.559132+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/6f9059c156e79112056d532df9e05a45ba4949fc/skytg24/it/cronaca/2026/06/25/prime-pagine-quotidiani-oggi-25-giugno/Composite_25_giugno.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/73e306a01d4204838b89a38677d8e821b2597a29/skytg24/it/cronaca/2026/06/26/prime-pagine-quotidiani-oggi-26-giugno/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/06/25/prime-pagine-quotidiani-oggi-25-giugno",
+  "original_url": "https://tg24.sky.it/cronaca/2026/06/26/prime-pagine-quotidiani-oggi-26-giugno",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 25 giugno 2026",
+      "title": "Oroscopo di oggi, venerdì 26 giugno 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Il calendario della serie a 2026-2027 fissa gli orari delle prime cinque giornate",
-      "url": "/sport/il-calendario-della-serie-a-2026-2027-fissa-gli-or-9bdc148b5d4120c6",
-      "id": "9bdc148b5d4120c6",
-      "image_url": "https://sport.sky.it/assets/images/8c115991878a2c6a47d86edcc02078ceb6f6b177/skysport/it/basket/eurolega/eurolega-basket-2024-2025-giocatori-piu-forti/getty_sky_sport_microfono.jpg",
-      "image_type": "feed_image"
+      "title": "6 miliardi di pagine web al servizio di dedagroup",
+      "url": "/economia/6-miliardi-di-pagine-web-al-servizio-di-dedagroup-a0cddb3ffa959150",
+      "id": "a0cddb3ffa959150",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/25/0a6ddb531fa5e488e71870815b37a489.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Orchestra under 35 al festival romano dal 25 giugno",
-      "url": "/cultura/orchestra-under-35-al-festival-romano-dal-25-giugn-67f66efaf3751e80",
-      "id": "67f66efaf3751e80",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/24/b4f43c29e04b6528853e8ed5fa8f112c.jpg",
+      "title": "MONDIALI: REPUBBLICA CECA-MESSICO 0-3 E SUDAFRICA-COREA DEL SUD 1-0 (fonte ANSA, 25 giugno 2026)",
+      "url": "/sport/calcio-martino-ribalta-il-calcio-moderno-meno-poss-c919a9a0b3c21805",
+      "id": "c919a9a0b3c21805",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/18/daeab4f42c248a9c93da4c1ea21b53b0.jpg",
       "image_type": "image"
     }
   ],
