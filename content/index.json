@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 26 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-26T05:46:17.559132+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/73e306a01d4204838b89a38677d8e821b2597a29/skytg24/it/cronaca/2026/06/26/prime-pagine-quotidiani-oggi-26-giugno/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE – 26 GIUGNO 2026: TERREMOTO, FERROVIE, GUERRA E CALCIO",
+    "lead_preview": "I giornali italiani di oggi convergono su tre emergenze: il devastante terremoto in Venezuela, con oltre 180 morti e 40m",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b74dbc8400229ced",
     "slug": "629-iniziative-per-il-terzo-settore-3-milioni-di-b-b74dbc8400229ced",
     "title": "Intesa Sanpaolo finanzia 629 progetti per 3 milioni di cittadini: il Terzo settore dipende da loro",
@@ -3849,25 +3868,6 @@
       "mostra umberto eco",
       "dedica eco montale",
       "archivio eco"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 25 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-25T05:46:06.300738+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/6f9059c156e79112056d532df9e05a45ba4949fc/skytg24/it/cronaca/2026/06/25/prime-pagine-quotidiani-oggi-25-giugno/Composite_25_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE – GIUGNO 2026: GUERRA FREDDA ITALIA-NATO, CALDO RECORD E CALCIO",
-    "lead_preview": "I principali quotidiani italiani aprono con la polemica tra Italia e Nato per le dichiarazioni del segretario generale J",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
