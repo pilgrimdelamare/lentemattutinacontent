@@ -1,5 +1,23 @@
 [
   {
+    "id": "cafee94dbfee1500",
+    "slug": "trenitalia-hacker-accedono-a-dati-personali-pagame-cafee94dbfee1500",
+    "title": "Hacker bucano i server di Trenitalia: rubati i dati personali di milioni di viaggiatori",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-26T12:26:41.383128+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/3/23/44c0466cc700d8e05797328a966ec23b.jpg",
+    "occhiello": "DATI DEI PASSEGGERI ESPOSITI A UN ATTACCO INFORMATICO",
+    "lead_preview": "Roma, 26 giugno 2026. Trenitalia, la principale società Italiana per la gestione del trasporto ferroviario passeggeri pa",
+    "tags": [
+      "attacco hacker trenitalia",
+      "data breach trenitalia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "32132ced48381a53",
     "slug": "marco-magnifico-riconfermato-presidente-fai-per-5-32132ced48381a53",
     "title": "Fai, blindato il vertice: Marco Magnifico resta Presidente per altri cinque anni",
@@ -2809,21 +2827,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/3bd7d04c87cda8262b64cb25aeca3f2e.jpg",
     "occhiello": "IL TITOLO SPORTIVO DI BRESCIA TRASFERITO A ROMA PER L'EUROCUP",
     "lead_preview": "Roma, 26 giugno 2026. La pallacanestro capitolina accoglie una nuova realtà denominata Maxima, nata ufficialmente nel po",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cafee94dbfee1500",
-    "slug": "trenitalia-hacker-accedono-a-dati-personali-pagame-cafee94dbfee1500",
-    "title": "Trenitalia: hacker accedono a dati personali, pagamento protetto",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-26T12:26:41.383128+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2022/3/23/44c0466cc700d8e05797328a966ec23b.jpg",
-    "occhiello": "DATI DEI PASSEGGERI ESPOSITI A UN ATTACCO INFORMATICO",
-    "lead_preview": "Roma, 26 giugno 2026. Trenitalia, la principale società Italiana per la gestione del trasporto ferroviario passeggeri pa",
     "tags": [],
     "hero_eligible": true
   },
