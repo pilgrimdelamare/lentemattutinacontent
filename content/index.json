@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260627",
+    "slug": "libro-del-giorno-il-coraggio-essere-liberedi-rossana-de-20260627",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-27T07:00:36.727929+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L213xH312/51dlyzetd0l-ff469.jpg?1777104028",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un libro che racconta la storia di nove scrittrici italiane che si sono opposte al fascismo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "aef0aeb916fb6f77",
     "slug": "podesta-heir-vince-il-premio-lattes-2026-per-la-tr-aef0aeb916fb6f77",
     "title": "Podestà Heir vince il Premio Lattes 2026 per la traduzione di Vaim di Jon Fosse",
@@ -2295,25 +2310,6 @@
       "conflitto israelo-libanese"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260627",
-    "slug": "libro-del-giorno-il-coraggio-essere-liberedi-rossana-de-20260627",
-    "title": "Il libro del giorno: «Il coraggio»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un libro che racconta la storia di nove scrittrici italiane che si sono opposte al fascismo",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-27T07:00:36.727929+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L213xH312/51dlyzetd0l-ff469.jpg?1777104028",
-      "alt": "Copertina: Il coraggio",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L213xH312/51dlyzetd0l-ff469.jpg?1777104028",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "eb0a983dc7c5d732",
