@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, sabato 27 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-27T06:13:13.785513+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/16294faef8a3548457be52cf7f2b9c92b0483b46/skytg24/it/cronaca/2026/06/27/prime-pagine-quotidiani-oggi-27-giugno/00_hero_rassegna_stampa_27_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 27 GIUGNO 2026: CRISI, GUERRE E CALCIO",
+    "lead_preview": "I quotidiani italiani aprono oggi con una giornata a più voci. La crisi umanitaria in Venezuela, con oltre 50mila disper",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28b78dfceabfeacd",
     "slug": "orto-di-ormuz-la-tensione-sale-sulle-rotte-petroli-28b78dfceabfeacd",
     "title": "Trump accusa l'Iran: attacco in Hormuz rompe la tregua, mercati in fibrillazione",
@@ -3956,25 +3975,6 @@
     "tags": [
       "guerra medio oriente",
       "accuse iran italia romania"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 26 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-26T05:46:17.559132+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/73e306a01d4204838b89a38677d8e821b2597a29/skytg24/it/cronaca/2026/06/26/prime-pagine-quotidiani-oggi-26-giugno/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE – 26 GIUGNO 2026: TERREMOTO, FERROVIE, GUERRA E CALCIO",
-    "lead_preview": "I giornali italiani di oggi convergono su tre emergenze: il devastante terremoto in Venezuela, con oltre 180 morti e 40m",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
