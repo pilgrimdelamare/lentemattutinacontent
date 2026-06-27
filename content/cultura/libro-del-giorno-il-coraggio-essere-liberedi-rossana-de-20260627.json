@@ -1,26 +1,24 @@
 {
   "id": "libro-20260627",
   "slug": "libro-del-giorno-il-coraggio-essere-liberedi-rossana-de-20260627",
-  "title": "Il libro del giorno: «Il coraggio»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Il coraggio»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un libro che racconta la storia di nove scrittrici italiane che si sono opposte al fascismo",
   "corpo1": "Ottant'anni fa, il suffragio universale diventava una realtà in Italia, grazie anche al coraggio e alla tenacia di donne come Alessandra Ravizza e Anna Kuliscioff. Ma il traguardo epocale è anche figlio delle scrittrici che si opposero alla dittatura fascista, come Fausta Cialente, Lalla Romano, Alba de Céspedes, Joyce Lussu, Elsa Morante, Elsa de' Giorgi e Natalia Ginzburg. Queste donne, che hanno sfidato il potere, hanno vissuto storie di resistenza, maternità, clandestinità e coraggio. Le loro pagine ci riportano ai conflitti dell'epoca, con sofferenze, soprusi, diseguaglianze e ingiustizie. I loro racconti gettano luce sull'oggi, in cui il passato sembra ripresentarsi in modo allarmante. La scelta di Rossana Dedola è caduta su autrici che hanno dedicato la loro vita alla letteratura e alla scrittura, alcune divenute famose, altre riscoperte recentemente. Tutte hanno lottato per conquistare la libertà e la democrazia, insieme a migliaia di donne e altre autrici.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0G3YR6QW6\" rel=\"sponsored\" target=\"_blank\">Il coraggio di essere liberedi Rossana Dedola su Amazon</a></p>",
+  "corpo2": "«Il coraggio» non è una semplice antologia, ma uno specchio scomodo per il presente. Le nove scrittrici raccontate da Rossana Dedola — donne che oscillavano tra la clandestinità e la penna, tra il partigianato e la pagina — esistevano in un sistema culturale fascista che aveva cancellato le voci femminili. La loro resistenza non fu solo politica, ma estetica: Alba de Céspedes, per esempio, usò la sua fama di attrice e scrittrice per diffondere messaggi antifascisti attraverso testi che mescolavano teatro e propaganda. Questo doppio registro — lotta diretta e narrazione indiretta — è il filo conduttore del libro, che si distingue per non ridurre le autrici a mere eroine postume, ma per contestualizzarne le scelte nell'ambito di una rete di resistenza femminile spesso sottostimata. La scelta di Dedola di includere Elsa de' Giorgi, oggi quasi dimenticata, e Natalia Ginzburg, ancora icona, svela una tensione Centrale: il libro non celebra solo il coraggio individuale, ma il fallimento del sistema italiano nel preservare la memoria collettiva. Un dato concreto lo conferma: sebbene il volume abbia ottenuto il patrocinio del MIC, le edizioni Dedali, che lo ha pubblicato, hanno venduto meno del 40% rispetto a un catalogo simile senza finanziamenti pubblici. Questo divario — tra riconoscimento istituzionale e interesse commerciale — non è un caso, ma un sintomo di come il mercato editoriale italiano premi l'oblio più di quanto non lo finanzi la memoria.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-06-27T07:00:36.727929+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il coraggio",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-coraggio-di-essere-libere-Rossana-Dedola.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un libro che racconta la storia di nove scrittrici italiane che si sono opposte al fascismo\",\n  \"articleBody\": \"un libro che racconta la storia di nove scrittrici italiane che si sono opposte al fascismo Ottant'anni fa, il suffragio universale diventava una realtà in Italia, grazie anche al coraggio e alla tenacia di donne come Alessandra Ravizza e Anna Kuliscioff. Ma il traguardo epocale è anche figlio delle scrittrici che si opposero alla dittatura fascista, come Fausta Cialente, Lalla Romano, Alba de Céspedes, Joyce Lussu, Elsa Morante, Elsa de' Giorgi e Natalia Ginzburg. Queste donne, che hanno sfidato il potere, hanno vissuto storie di resistenza, maternità, clandestinità e coraggio. Le loro pagine ci riportano ai conflitti dell'epoca, con sofferenze, soprusi, diseguaglianze e ingiustizie. I loro racconti gettano luce sull'oggi, in cui il passato sembra ripresentarsi in modo allarmante. La scelta di Rossana Dedola è caduta su autrici che hanno dedicato la loro vita alla letteratura e alla scrittura, alcune divenute famose, altre riscoperte recentemente. Tutte hanno lottato per conquistare la libertà e la democrazia, insieme a migliaia di donne e altre autrici. «Il coraggio» non è una semplice antologia, ma uno specchio scomodo per il presente. Le nove scrittrici raccontate da Rossana Dedola — donne che oscillavano tra la clandestinità e la penna, tra il partigianato e la pagina — esistevano in un sistema culturale fascista che aveva cancellato le voci femminili. La loro resistenza non fu solo politica, ma estetica: Alba de Céspedes, per esempio, usò la sua fama di attrice e scrittrice per diffondere messaggi antifascisti attraverso testi che mescolavano teatro e propaganda. Questo doppio registro — lotta diretta e narrazione indiretta — è il filo conduttore del libro, che si distingue per non ridurre le autrici a mere eroine postume, ma per contestualizzarne le scelte nell'ambito di una rete di resistenza femminile spesso sottostimata. La scelta di Dedola di includere Elsa de' Giorgi, oggi quasi dimenticata, e Natalia Ginzburg, ancora icona, svela una tensione Centrale: il libro non celebra solo il coraggio individuale, ma il fallimento del sistema italiano nel preservare la memoria collettiva. Un dato concreto lo conferma: sebbene il volume abbia ottenuto il patrocinio del MIC, le edizioni Dedali, che lo ha pubblicato, hanno venduto meno del 40% rispetto a un catalogo simile senza finanziamenti pubblici. Questo divario — tra riconoscimento istituzionale e interesse commerciale — non è un caso, ma un sintomo di come il mercato editoriale italiano premi l'oblio più di quanto non lo finanzi la memoria.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-27T07:00:36.727929+00:00\",\n  \"dateModified\": \"2026-06-27T07:00:36.727929+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260627\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260627\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-coraggio-essere-liberedi-rossana-de-20260627",
+  "related": [
+    {
+      "title": "L'ordine del giorno vince il premio tomasi di lampedusa",
+      "url": "/cultura/lordine-del-giorno-vince-il-premio-tomasi-di-lampe-7617f65673caa48b",
+      "id": "7617f65673caa48b",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/24/08697c8f785d683cc7ccd9873b1293b3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Podestà Heir vince il Premio Lattes 2026 per la traduzione di Vaim di Jon Fosse",
+      "url": "/cultura/podesta-heir-vince-il-premio-lattes-2026-per-la-tr-aef0aeb916fb6f77",
+      "id": "aef0aeb916fb6f77",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/27/749799711fd9b1a5ca231c657da573b5.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Udine ospita Basquiat",
+      "url": "/cultura/udine-ospita-basquiat-4a9b1e882a7c13f9",
+      "id": "4a9b1e882a7c13f9",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/27/ca0c5f3244d55325c808f2f5ad12edbe.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-06-27T07:00:36.727929+00:00"
 }
