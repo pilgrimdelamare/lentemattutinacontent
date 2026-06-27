@@ -1,5 +1,20 @@
 [
   {
+    "id": "045c7b9bd345cf90",
+    "slug": "fano-ospita-il-dibattito-sul-caso-garlasco-045c7b9bd345cf90",
+    "title": "Garlasco al centro del dibattito a Passaggi Festival: il caso che divide l'Italia sul palco di Fano",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-06-26T17:08:26.598734+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/25/92fae0bffd48b30b8716f13ecffffbfa.jpg",
+    "occhiello": "IL CASO GARLASCO ARRIVA SUL PALCO DI PASSAGGI FESTIVAL",
+    "lead_preview": "Fano, 26 giugno 2026. La quarta giornata di Passaggi Festival si articola tra cronaca giudiziaria, riflessioni geopoliti",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1e40f3d6965923b8",
     "slug": "calcio-de-bruyne-e-lukaku-guidano-il-belgio-alla-s-1e40f3d6965923b8",
     "title": "Calcio: De Bruyne e Lukaku guidano il Belgio alla storica vittoria su New Zealand",
@@ -2228,23 +2243,6 @@
     "tags": [
       "moto gp",
       "gran premio olanda"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "045c7b9bd345cf90",
-    "slug": "fano-ospita-il-dibattito-sul-caso-garlasco-045c7b9bd345cf90",
-    "title": "Fano ospita il dibattito sul caso Garlasco",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-06-26T17:08:26.598734+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/25/92fae0bffd48b30b8716f13ecffffbfa.jpg",
-    "occhiello": "IL CASO GARLASCO ARRIVA SUL PALCO DI PASSAGGI FESTIVAL",
-    "lead_preview": "Fano, 26 giugno 2026. La quarta giornata di Passaggi Festival si articola tra cronaca giudiziaria, riflessioni geopoliti",
-    "tags": [
-      "caso garlasco"
     ],
     "hero_eligible": true
   },
