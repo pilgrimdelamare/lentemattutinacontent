@@ -1,5 +1,23 @@
 [
   {
+    "id": "7a31bd2b6050fffa",
+    "slug": "il-titolo-sportivo-di-brescia-trasferito-a-roma-pe-7a31bd2b6050fffa",
+    "title": "Maxima compra il titolo di Brescia e porta l'Eurocup a Roma con un assegno",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-06-26T12:30:49.896089+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/3bd7d04c87cda8262b64cb25aeca3f2e.jpg",
+    "occhiello": "IL TITOLO SPORTIVO DI BRESCIA TRASFERITO A ROMA PER L'EUROCUP",
+    "lead_preview": "Roma, 26 giugno 2026. La pallacanestro capitolina accoglie una nuova realtà denominata Maxima, nata ufficialmente nel po",
+    "tags": [
+      "maxima roma",
+      "basket eurocup"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cafee94dbfee1500",
     "slug": "trenitalia-hacker-accedono-a-dati-personali-pagame-cafee94dbfee1500",
     "title": "Hacker bucano i server di Trenitalia: rubati i dati personali di milioni di viaggiatori",
@@ -2812,21 +2830,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/26/3eab2d7e9dd3c48a8dc041bb7973297b.jpg",
     "occhiello": "SKY CRIME TRASMETTE IL RACCONTO SUL CASO FEDERICO ALDROVANDI",
     "lead_preview": "Roma, 26 giugno 2026. Il canale Sky Crime, visibile ai canali 115 e 405 del pacchetto Sky TV, manda in onda in prima vis",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7a31bd2b6050fffa",
-    "slug": "il-titolo-sportivo-di-brescia-trasferito-a-roma-pe-7a31bd2b6050fffa",
-    "title": "Il titolo sportivo di brescia trasferito a roma per l'eurocup",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-26T12:30:49.896089+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/3bd7d04c87cda8262b64cb25aeca3f2e.jpg",
-    "occhiello": "IL TITOLO SPORTIVO DI BRESCIA TRASFERITO A ROMA PER L'EUROCUP",
-    "lead_preview": "Roma, 26 giugno 2026. La pallacanestro capitolina accoglie una nuova realtà denominata Maxima, nata ufficialmente nel po",
     "tags": [],
     "hero_eligible": true
   },
