@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260628",
+    "slug": "libro-del-giorno-interpretazioni-dellamoredi-jane-campb-20260628",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-28T07:00:38.660285+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che esplora le complessità dell'amore e delle relazioni umane",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "970f218b55a7c730",
     "slug": "missili-sul-bahrein-il-golfo-persico-diventa-un-be-970f218b55a7c730",
     "title": "Missili sul bahrein, il golfo persico diventa un bersaglio",
@@ -2239,25 +2254,6 @@
     "lead_preview": "Golfo Persico, 28 giugno. Nuovi attacchi reciproci tra Stati Uniti e Iran hanno riacceso le tensioni nella regione, meno",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260628",
-    "slug": "libro-del-giorno-interpretazioni-dellamoredi-jane-campb-20260628",
-    "title": "Il libro del giorno: «Interpretazioni dell’amoredi Jane Campbell»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che esplora le complessità dell'amore e delle relazioni umane",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-06-28T07:00:38.660285+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
-      "alt": "Copertina: Interpretazioni dell’amoredi Jane Campbell",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "9e34129092d2ce19",
