@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260628",
+    "slug": "libro-del-giorno-interpretazioni-dellamoredi-jane-campb-20260628",
+    "title": "Il libro del giorno: «Interpretazioni dell’amoredi Jane Campbell»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che esplora le complessità dell'amore e delle relazioni umane",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-28T07:00:38.660285+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
+      "alt": "Copertina: Interpretazioni dell’amoredi Jane Campbell",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "9e34129092d2ce19",
     "slug": "wimbledon-al-parioli-tra-dress-code-e-tradizione-b-9e34129092d2ce19",
     "title": "Circolo Parioli presenta evento tematico: total white e omaggio a Wimbledon",
@@ -7936,21 +7955,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/23/5536e6a90a8c7bd0987c7a29579d43cb.jpg",
     "occhiello": "RONALDO DIFENDE IL PROPRIO OPERATO MENTRE IL MONDIALE PRESSA",
     "lead_preview": "Roma, 23 giugno 2026. Ronaldo Luís Nazário de Lima interrompe il silenzio a ridosso dell'evento iridato, replicando alle",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a2fe32621f39d369",
-    "slug": "calcio-cannavaro-dichiara-sconfitta-delluzbekistan-a2fe32621f39d369",
-    "title": "Cinque gol subiti, cannavaro parla di esperienza",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-23T20:06:17.680567+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/18/8c9d8d0d0366298e7746658111539585.jpg",
-    "occhiello": "CINQUE GOL SUBITI, CANNAVARO PARLA DI ESPERIENZA",
-    "lead_preview": "Roma, 23 giugno. Dopo aver incassato cinque reti in una recente gara dei Mondiali, il commissario tecnico dell'Uzbekista",
     "tags": [],
     "hero_eligible": true
   }
