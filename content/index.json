@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260629",
+    "slug": "libro-del-giorno-il-pantanillo-ernesto-sabatodi-pedro-j-20260629",
+    "title": "Il libro del giorno: «Il Pantanillo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un mosaico biografico sull'autore argentino Ernesto Sabato",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-06-29T07:00:39.902205+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/9791220504126_0_0_424_0_75-af125.jpg?1775731486",
+      "alt": "Copertina: Il Pantanillo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/9791220504126_0_0_424_0_75-af125.jpg?1775731486",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "2623fa50b8d9bb44",
     "slug": "israele-riconosce-il-genocidio-armeno-con-un-voto-2623fa50b8d9bb44",
     "title": "Israele riconosce il genocidio armeno con un voto unanime",
@@ -7793,21 +7812,6 @@
       "atp maiorca",
       "grigor dimitrov"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f70d12a40cdbe432",
-    "slug": "bagnaia-lascia-la-ducati-a-fine-stagione-2026-f70d12a40cdbe432",
-    "title": "Bagnaia lascia la ducati a fine stagione 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-24T18:23:07.292568+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/3aacabb15d5c0c7c340d97467575f75c68e2865d/skysport/it/motori/motogp/video/2026/06/24/1107399_1782321075209_thumb_494.0000001_1782321169173.jpg",
-    "occhiello": "BAGNAIA LASCIA LA DUCATI A FINE STAGIONE 2026",
-    "lead_preview": "Assen, 24 giugno 2026. Mentre il circuito olandese si prepara al fine settimana di gara, il mercato piloti della MotoGP ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
