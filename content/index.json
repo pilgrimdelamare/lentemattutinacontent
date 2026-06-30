@@ -1,5 +1,20 @@
 [
   {
+    "id": "d9d1c1a832446e50",
+    "slug": "wall-street-apre-in-rialzo-d9d1c1a832446e50",
+    "title": "Wall street apre in rialzo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-30T14:14:00.340723+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/de810a370f563e20843d029c49502907.jpg",
+    "occhiello": "WALL STREET APRE IN RIALZO",
+    "lead_preview": "New York, 30 giugno.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d63991c9f349ba1c",
     "slug": "ramazzotti-annuncia-la-scrittura-del-suo-prossimo-d63991c9f349ba1c",
     "title": "Ramazzotti annuncia la scrittura del suo prossimo film da regista",
@@ -7794,23 +7809,6 @@
     "tags": [
       "crisi venezuela",
       "delcy rodriguez"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "50beba608f41d14d",
-    "slug": "i-fondi-negoziali-battono-quelli-aperti-nel-lungo-50beba608f41d14d",
-    "title": "Fondi pensione, dal prossimo mese cambiano le regole: addio ai guadagni facili",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-26T12:46:14.870767+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/26/143206385-a7f3e731-f710-42a5-b8da-41f01bc07998.jpg",
-    "occhiello": "I fondi negoziali battono quelli aperti nel lungo periodo",
-    "lead_preview": "Roma, 26 giugno 2026. A partire dal primo luglio entra in vigore la nuova normativa che disciplina il comparto dei fondi",
-    "tags": [
-      "riforma fondi pensione"
     ],
     "hero_eligible": true
   }
