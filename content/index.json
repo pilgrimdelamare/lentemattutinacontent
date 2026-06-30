@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, martedì 30 giugno 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-06-30T04:06:20.404274+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — MARTEDÌ 30 GIUGNO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d3ed01f69b32e821",
     "slug": "un-gol-leggendario-fama-milionaria-poi-la-detenzio-d3ed01f69b32e821",
     "title": "Calcio: Al-Owairan e il gol leggendario che manda l'Arabia Saudita agli ottavi Mondiali",
@@ -3361,26 +3381,6 @@
     "lead_preview": "Roma, 28 giugno. Gli Orlando Magic hanno risolto con un anno d'anticipo il contratto che legava la franchigia a Jonathan",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, lunedì 29 giugno 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-06-29T04:01:13.816527+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — LUNEDÌ 29 GIUGNO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c79b7e0d72cf516e",
