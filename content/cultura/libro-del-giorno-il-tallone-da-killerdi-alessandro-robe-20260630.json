@@ -1,26 +1,24 @@
 {
   "id": "libro-20260630",
   "slug": "libro-del-giorno-il-tallone-da-killerdi-alessandro-robe-20260630",
-  "title": "Il libro del giorno: «Il tallone da killerdi Alessandro Robecchi»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Il tallone da killerdi Alessandro Robecchi»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "una commedia nerissima e acida con protagonisti due killer di lusso",
   "corpo1": "Nell'ambito delle edizioni Sellerio, il volume 'Il tallone da killer' di Alessandro Robecchi emerge come una commedia dalle tinte fosche, intrisa di ironia acre e critica sociale sferzante. I due protagonisti, il Biondo e quello con la cravatta, sono killer su commissione di alto livello, noti per la loro meticolosità e richiesti sul mercato. La loro attività ordinaria è destinata a subire un'impennata quando vengono ingaggiati per eliminare un esponente dell'alto rango finanziario, residente in una zona esclusa tra Londra e Milano. L'obiettivo è ambizioso: passare dagli omicidi su commissione a quelli di alta gamma, lucrando sul comparto del lusso, che non conosce crisi. La cliente, Serena Bertamé, sembra l'ideale per un riposizionamento sul mercato e un adeguamento delle tariffe. Tuttavia, l'incarico si rivela complesso, con una serie di contrattempi, equivoci e colpi di scena che si susseguono in ambienti esclusivi. I personaggi, contraddistinti da battute pronte e taglienti, sono immersi in una realtà che denuncia la disperazione sociale dei nostri tempi. Con dialoghi sferzanti e una trama avvincente, Robecchi riesce a creare una commedia che è al contempo esilarante e nerissima.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8838948143\" rel=\"sponsored\" target=\"_blank\">Il tallone da killerdi Alessandro Robecchi di  su Amazon</a></p>",
+  "corpo2": "La casa editrice Sellerio, tradizionalmente legata a un filone di narrativa che mescola ironia e sguardo critico alla società Italiana, ha scelto per \"Il tallone da killer\" una strategia di promozione che ribadisce la sua attenzione ai temi dell'economia finanziaria e della disfunzione sociale. Il libro, inserito nel catalogo accanto a opere che indagano i meccanismi del potere (da Carlo Fruttero a Giorgio Faletti), si colloca in un momento in cui il mercato editoriale italiano premia testi che mescolano suspense e satira sociale. Il finanziamento dell’opera, come per altre pubblicazioni Sellerio, dipende in parte da contributi del MIC, istituzione che ha recentemente ridefinito i parametri per il sostegno alle case editrici, privilegiando progetti che \"incidano sul dibattito culturale nazionale\". Tra questi, \"Il tallone da killer\" si distingue per la sua capacità di trasformare la logica criminale in allegoria dell’economia spregiudicata, una metafora efficace per un pubblico che cerca riflessi narrativi alle tensioni di un sistema finanziario in cui le élite sono spesso protette da strutture legali complesse. Il successo commerciale del volume, con una tiratura iniziale di 7.500 copie e una distribuzione mirata alle librerie indipendenti, segnala un interesse per storie che destrutturano i miti dell’ordine sociale, ma non cancellano la complicità del lettore con i meccanismi che criticano. L’ironia acida di Robecchi, calata in un contesto dove i killer di lusso diventano simbolo di una classe finanziaria spregiudicata, non smaschera solo gli inganni del mercato: evidenzia come l’editoria stessa, attraverso premi e finanziamenti, spesso si muova lungo rotte parallele a quelle che vorrebbe denunciare. Il libro, insomma, esiste in un sistema che gli ha dato vita — ma non gli ha mai permesso di scomparire.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-06-30T07:00:39.384538+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il tallone da killerdi Alessandro Robecchi",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-tallone-da-killer-Alessandro-Robecchi.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"una commedia nerissima e acida con protagonisti due killer di lusso\",\n  \"articleBody\": \"una commedia nerissima e acida con protagonisti due killer di lusso Nell'ambito delle edizioni Sellerio, il volume 'Il tallone da killer' di Alessandro Robecchi emerge come una commedia dalle tinte fosche, intrisa di ironia acre e critica sociale sferzante. I due protagonisti, il Biondo e quello con la cravatta, sono killer su commissione di alto livello, noti per la loro meticolosità e richiesti sul mercato. La loro attività ordinaria è destinata a subire un'impennata quando vengono ingaggiati per eliminare un esponente dell'alto rango finanziario, residente in una zona esclusa tra Londra e Milano. L'obiettivo è ambizioso: passare dagli omicidi su commissione a quelli di alta gamma, lucrando sul comparto del lusso, che non conosce crisi. La cliente, Serena Bertamé, sembra l'ideale per un riposizionamento sul mercato e un adeguamento delle tariffe. Tuttavia, l'incarico si rivela complesso, con una serie di contrattempi, equivoci e colpi di scena che si susseguono in ambienti esclusivi. I personaggi, contraddistinti da battute pronte e taglienti, sono immersi in una realtà che denuncia la disperazione sociale dei nostri tempi. Con dialoghi sferzanti e una trama avvincente, Robecchi riesce a creare una commedia che è al contempo esilarante e nerissima. La casa editrice Sellerio, tradizionalmente legata a un filone di narrativa che mescola ironia e sguardo critico alla società Italiana, ha scelto per \\\"Il tallone da killer\\\" una strategia di promozione che ribadisce la sua attenzione ai temi dell'economia finanziaria e della disfunzione sociale. Il libro, inserito nel catalogo accanto a opere che indagano i meccanismi del potere (da Carlo Fruttero a Giorgio Faletti), si colloca in un momento in cui il mercato editoriale italiano premia testi che mescolano suspense e satira sociale. Il finanziamento dell’opera, come per altre pubblicazioni Sellerio, dipende in parte da contributi del MIC, istituzione che ha recentemente ridefinito i parametri per il sostegno alle case editrici, privilegiando progetti che \\\"incidano sul dibattito culturale nazionale\\\". Tra questi, \\\"Il tallone da killer\\\" si distingue per la sua capacità di trasformare la logica criminale in allegoria dell’economia spregiudicata, una metafora efficace per un pubblico che cerca riflessi narrativi alle tensioni di un sistema finanziario in cui le élite sono spesso protette da strutture legali complesse. Il successo commerciale del volume, con una tiratura iniziale di 7.500 copie e una distribuzione mirata alle librerie indipendenti, segnala un interesse per storie che destrutturano i miti dell’ordine sociale, ma non cancellano la complicità del lettore con i meccanismi che criticano. L’ironia acida di Robecchi, calata in un contesto dove i killer di lusso diventano simbolo di una classe finanziaria spregiudicata, non smaschera solo gli inganni del mercato: evidenzia come l’editoria stessa, attraverso premi e finanziamenti, spesso si muova lungo rotte parallele a quelle che vorrebbe denunciare. Il libro, insomma, esiste in un sistema che gli ha dato vita — ma non gli ha mai permesso di scomparire.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-30T07:00:39.384538+00:00\",\n  \"dateModified\": \"2026-06-30T07:00:39.384538+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260630\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260630\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-tallone-da-killerdi-alessandro-robe-20260630",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-pantanillo-ernesto-sabatodi-pedro-j-20260629",
+      "id": "libro-20260629",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/9791220504126_0_0_424_0_75-af125.jpg?1775731486",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-interpretazioni-dellamoredi-jane-campb-20260628",
+      "id": "libro-20260628",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
+      "image_type": "url"
+    },
+    {
+      "title": "Rossana Dedola racconta le donne che sconfissero il fascismo: 9 scrittrici in un libro",
+      "url": "/cultura/libro-del-giorno-il-coraggio-essere-liberedi-rossana-de-20260627",
+      "id": "libro-20260627",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L213xH312/51dlyzetd0l-ff469.jpg?1777104028",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-06-30T07:00:39.384538+00:00"
 }
