@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 30 giugno 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-06-30T05:46:21.337173+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/83d604ee1b320321db67194ec277170f5b46d4e4/skytg24/it/cronaca/2026/06/30/prime-pagine-quotidiani-oggi-30-giugno/Composite_30_giugno.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 30 GIUGNO",
+    "lead_preview": "I giornali italiani convergono sull'emergenza caldo e sulla politica. Il Corriere della Sera, La Repubblica e La Stampa ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8b00f4680c450104",
     "slug": "il-progressive-rock-torna-nellappennino-bolognese-8b00f4680c450104",
     "title": "Il progressive rock torna nell'Appennino bolognese dal 3 al 5 luglio",
@@ -6245,25 +6264,6 @@
     "tags": [
       "paradise rai due",
       "set capri piazzetta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 27 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-27T06:13:13.785513+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/16294faef8a3548457be52cf7f2b9c92b0483b46/skytg24/it/cronaca/2026/06/27/prime-pagine-quotidiani-oggi-27-giugno/00_hero_rassegna_stampa_27_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 27 GIUGNO 2026: CRISI, GUERRE E CALCIO",
-    "lead_preview": "I quotidiani italiani aprono oggi con una giornata a più voci. La crisi umanitaria in Venezuela, con oltre 50mila disper",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
