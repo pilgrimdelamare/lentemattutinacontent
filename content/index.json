@@ -1,5 +1,20 @@
 [
   {
+    "id": "b2b9b093dfc90108",
+    "slug": "wall-street-corre-mentre-i-salari-reali-restano-al-b2b9b093dfc90108",
+    "title": "Wall street corre mentre i salari reali restano al palo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-06-29T14:12:50.052725+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/84d34e15611d46033f5de5912968855a.jpg",
+    "occhiello": "WALL STREET CORRE MENTRE I SALARI REALI RESTANO AL PALO",
+    "lead_preview": "New York, 29 giugno 2026. Wall Street apre la seduta in territorio positivo con il Dow Jones che segna un progresso dell",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f70420a57332cdfe",
     "slug": "tv-italiana-pochi-temi-e-solite-facce-nei-talk-f70420a57332cdfe",
     "title": "Tv italiana: pochi temi e solite facce nei talk",
@@ -1617,24 +1632,6 @@
     "occhiello": "FEMMENELL SBARCA SU RAIPLAY TRA SACRO E PROFANO",
     "lead_preview": "Roma, 29 giugno 2026. Il documentario Femmenell, opera pluripremiata diretta da Andrea Fortis, entra nel catalogo di Rai",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2b9b093dfc90108",
-    "slug": "wall-street-corre-mentre-i-salari-reali-restano-al-b2b9b093dfc90108",
-    "title": "Nasdaq balza all'1,07% con Wall Street in rialzo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-29T14:12:50.052725+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/4/20/84d34e15611d46033f5de5912968855a.jpg",
-    "occhiello": "WALL STREET CORRE MENTRE I SALARI REALI RESTANO AL PALO",
-    "lead_preview": "New York, 29 giugno 2026. Wall Street apre la seduta in territorio positivo con il Dow Jones che segna un progresso dell",
-    "tags": [
-      "wall street",
-      "nasdaq"
-    ],
     "hero_eligible": true
   },
   {
