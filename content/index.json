@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 1 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-01T05:46:45.075800+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/529d77685c8dc50d5511f35aad9f5598e8d3fc62/skytg24/it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 1 LUGLIO",
+    "lead_preview": "I giornali di oggi convergono sulla decisione della Corte Suprema Usa riguardo al diritto di cittadinanza per nascita. L",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eaabfc2e576612f7",
     "slug": "germania-fuori-ai-sedicesimi-sistema-al-collasso-eaabfc2e576612f7",
     "title": "Germania fuori ai sedicesimi, sistema al collasso",
@@ -3276,25 +3295,6 @@
     "lead_preview": "Milano, 29 giugno. Il titolo Trevi non fa prezzo in Borsa, bloccato dalle dinamiche di un'Offerta Pubblica di Scambio (O",
     "tags": [
       "trevi ops"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 30 giugno 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-06-30T05:46:21.337173+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/83d604ee1b320321db67194ec277170f5b46d4e4/skytg24/it/cronaca/2026/06/30/prime-pagine-quotidiani-oggi-30-giugno/Composite_30_giugno.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 30 GIUGNO",
-    "lead_preview": "I giornali italiani convergono sull'emergenza caldo e sulla politica. Il Corriere della Sera, La Repubblica e La Stampa ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
