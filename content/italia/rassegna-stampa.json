@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 30 giugno 2026",
+  "title": "Le prime pagine di oggi, mercoledì 1 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 30 giugno 2026",
-    "Le prime pagine di oggi, martedì 30 giugno 2026",
-    "Le prime pagine di oggi, martedì 30 giugno 2026"
+    "Le prime pagine di oggi, mercoledì 1 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 1 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 1 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 30 GIUGNO",
-  "lead": "I giornali italiani convergono sull'emergenza caldo e sulla politica. Il Corriere della Sera, La Repubblica e La Stampa trattano questi argomenti, mentre La Gazzetta dello Sport si concentra sullo sport.",
-  "corpo1": "Il Corriere della Sera titola sull'emergenza caldo con l'allerta rossa in 25 città, mentre La Repubblica discute del futuro del Quirinale. La Stampa invece parla dei superpoteri di Trump, autorizzato a licenziare i vertici delle agenzie. Il Messaggero si concentra sul caos dei trasporti e sull'allarme caldo, con due anziani morti a Genova.",
-  "corpo2": "La Gazzetta dello Sport e Il Corriere dello Sport trattano gli eventi sportivi, tra cui l'esordio di Jannik Sinner a Wimbledon e la vittoria della Seleção di Carlo Ancelotti. Il tema dominante della giornata è l'emergenza caldo e la politica.",
+  "occhiello": "LE PRIME PAGINE DEL 1 LUGLIO",
+  "lead": "I giornali di oggi convergono sulla decisione della Corte Suprema Usa riguardo al diritto di cittadinanza per nascita. La Stampa, Prima pagina 3 e Prima pagina 4 titolano su questo argomento, mentre La Gazzetta dello Sport e Il Corriere dello Sport si concentrano sullo sport.",
+  "corpo1": "La Stampa apre con un titolo sulla questione dei lefebvriani e il Papa, mentre Prima pagina 3 e Prima pagina 4 titolano sulla decisione della Corte Suprema Usa che boccia il decreto che negava la cittadinanza a figli di migranti illegali o temporanei. Prima pagina 6 invece si concentra sull'intervista al ministro dei Trasporti Matteo Salvini sul caos voli e treni. La Gazzetta dello Sport dedica il titolo principale al Milan e al mercato estivo.",
+  "corpo2": "Altri titoli di rilievo includono la vicenda giudiziaria che coinvolge Alessandro Bastoni su La Gazzetta dello Sport e le dure parole di Zlatan Ibrahimović dopo l'eliminazione della Germania dal Mondiale su Il Corriere dello Sport. Il tema dominante della giornata è la decisione della Corte Suprema Usa sul diritto di cittadinanza per nascita.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-06-30T05:46:21.337173+00:00",
+  "published_at": "2026-07-01T05:46:45.075800+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/83d604ee1b320321db67194ec277170f5b46d4e4/skytg24/it/cronaca/2026/06/30/prime-pagine-quotidiani-oggi-30-giugno/Composite_30_giugno.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/529d77685c8dc50d5511f35aad9f5598e8d3fc62/skytg24/it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio/collage_1.png?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/06/30/prime-pagine-quotidiani-oggi-30-giugno",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 30 giugno 2026",
+      "title": "Oroscopo di oggi, mercoledì 1 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Solo pochi operatori italiani autorizzati entro il 30 giugno",
-      "url": "/economia/solo-pochi-operatori-italiani-autorizzati-entro-il-2bec15afeec56eca",
-      "id": "2bec15afeec56eca",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/28/205940701-948f6ccc-6855-4f59-9d99-4466b0451364.jpg",
+      "title": "Solo otto operatori cripto autorizzati dal primo luglio",
+      "url": "/economia/solo-otto-operatori-cripto-autorizzati-dal-primo-l-b38527664e589d99",
+      "id": "b38527664e589d99",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/f26710af43b4755e6816ea6ef18b7710.jpg",
       "image_type": "image"
     },
     {
-      "title": "Scadenza fiscale: il 30 giugno è il termine per l'irpef",
-      "url": "/economia/scadenza-fiscale-il-30-giugno-e-il-termine-per-lir-3f091623ba42fd7a",
-      "id": "3f091623ba42fd7a",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/28/205555633-8d374ac0-01e4-45e3-a888-f177de8e5f58.jpg",
+      "title": "Il progressive rock torna nell'Appennino bolognese dal 3 al 5 luglio",
+      "url": "/cultura/il-progressive-rock-torna-nellappennino-bolognese-8b00f4680c450104",
+      "id": "8b00f4680c450104",
+      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/29/53a95db58d315365b7640b96e3d50c68.jpg",
       "image_type": "image"
     }
   ],
