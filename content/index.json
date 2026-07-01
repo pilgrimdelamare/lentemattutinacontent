@@ -1,5 +1,20 @@
 [
   {
+    "id": "c5b2516a6acff9ee",
+    "slug": "milano-ospita-lesperienza-immersiva-del-franchise-c5b2516a6acff9ee",
+    "title": "Milano ospita Jurassic World",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-06-30T11:22:15.127506+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/30/7dd8bde7c239a565f96a44d8edafdf11.jpg",
+    "occhiello": "MILANO OSPITA L'ESPERIENZA IMMERSIVA DEL FRANCHISE JURASSIC WORLD",
+    "lead_preview": "Milano, 30 giugno 2026. L'area metropolitana milanese accoglie per la prima volta Jurassic World The Experience, un perc",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c53d864a14168f90",
     "slug": "yan-sommer-lascia-linter-dopo-la-prestazione-contr-c53d864a14168f90",
     "title": "Yan sommer lascia l'inter dopo la prestazione contro il barcellona",
@@ -1564,21 +1579,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/30/c0b3710d2f9a0443d81c6556875dcf1e.jpg",
     "occhiello": "NATUZZI CONVOCA I SINDACATI PER DEFINIRE IL PIANO INDUSTRIALE",
     "lead_preview": "Roma, 30 giugno 2026. La dirigenza di Natuzzi, gruppo industriale attivo nella produzione e distribuzione di arredamento",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c5b2516a6acff9ee",
-    "slug": "milano-ospita-lesperienza-immersiva-del-franchise-c5b2516a6acff9ee",
-    "title": "Milano ospita l'esperienza immersiva del franchise jurassic world",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-06-30T11:22:15.127506+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/30/7dd8bde7c239a565f96a44d8edafdf11.jpg",
-    "occhiello": "MILANO OSPITA L'ESPERIENZA IMMERSIVA DEL FRANCHISE JURASSIC WORLD",
-    "lead_preview": "Milano, 30 giugno 2026. L'area metropolitana milanese accoglie per la prima volta Jurassic World The Experience, un perc",
     "tags": [],
     "hero_eligible": true
   },
