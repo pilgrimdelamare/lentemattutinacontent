@@ -1,5 +1,20 @@
 [
   {
+    "id": "0d6323ca58a62a98",
+    "slug": "altri-due-morti-e-scontro-sul-conteggio-delle-vitt-0d6323ca58a62a98",
+    "title": "Altri due morti e scontro sul conteggio delle vittime",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-07-01T00:54:24.424214+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/30/220428493-4b40c03d-e981-42ee-aee3-5eb7dd548c40.jpg",
+    "occhiello": "ALTRI DUE MORTI E SCONTRO SUL CONTEGGIO DELLE VITTIME",
+    "lead_preview": "Roma, 1 luglio 2026. Altri due decessi risultano ufficialmente legati all'ondata di calore che ha investito l'Italia. Il",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e2d8d6551b19a12a",
     "slug": "mare-a-sei-gradi-sopra-la-media-rischio-nubifragi-e2d8d6551b19a12a",
     "title": "Mare a sei gradi sopra la media: rischio nubifragi",
@@ -7679,24 +7694,6 @@
     "occhiello": "SOLLIMA AVVIA IL PROGETTO NETFLIX SUL MOSTRO DI FIRENZE",
     "lead_preview": "Roma, 26 giugno 2026. Stefano Sollima ha ufficialmente dato il via alla produzione della nuova miniserie dedicata al cas",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1b77620b48abd65b",
-    "slug": "quaranta-aerei-lufthansa-a-terra-per-mancanza-di-c-1b77620b48abd65b",
-    "title": "Lufthansa ferma 40 aerei",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-06-26T15:06:39.660596+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/26/1c13573dd393098415f86de242c4f342.jpg",
-    "occhiello": "QUARANTA AEREI LUFTHANSA A TERRA PER MANCANZA DI CARBURANTE",
-    "lead_preview": "Francoforte, 26 giugno 2026. La compagnia aerea tedesca Lufthansa si prepara a fermare fino a 40 aerei della propria flo",
-    "tags": [
-      "crisi carburante",
-      "lufthansa"
-    ],
     "hero_eligible": true
   }
 ]
