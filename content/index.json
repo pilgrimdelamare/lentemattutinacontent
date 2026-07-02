@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260702",
+    "slug": "libro-del-giorno-la-fine-del-mondodi-francesco-pecoraro-20260702",
+    "title": "Il libro del giorno: «La fine del mondodi Francesco Pecoraro»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che si presenta come un lungo monologo senza trama, condotto da una voce narrante che riflette sulla vita, l'",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-02T07:00:40.883392+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
+      "alt": "Copertina: La fine del mondodi Francesco Pecoraro",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "369b65cd60c7f9b1",
     "slug": "diplomazia-di-facciata-chi-e-costa-e-perche-zelens-369b65cd60c7f9b1",
     "title": "Zelensky e Martin a Dublino: la UE al centro per negoziati con Russia",
@@ -7806,24 +7825,6 @@
     "occhiello": "INDAGINE PER ARRICCHIMENTO ILLECITO SCUOTE IL GOVERNO MILEI",
     "lead_preview": "Buenos Aires, 28 giugno 2026. Il capo di gabinetto del governo argentino guidato da Javier Milei ha rassegnato le propri",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ae3499c70b9fb757",
-    "slug": "colpite-le-infrastrutture-di-comunicazione-e-difes-ae3499c70b9fb757",
-    "title": "USA attaccano Depositi di armi in Iran, colpendo radar e comunicazioni",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-06-27T22:40:33.737930+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/11/8d4a3e6d79743859d4f3b72439f82d6d.jpg",
-    "occhiello": "COLPITE LE INFRASTRUTTURE DI COMUNICAZIONE E DIFESA AEREA IRANIANE",
-    "lead_preview": "Washington, 28 giugno 2026. Gli Stati Uniti hanno condotto una serie di attacchi mirati contro Depositi di armi e postaz",
-    "tags": [
-      "attacco iran",
-      "guerra iran"
-    ],
     "hero_eligible": true
   }
 ]
