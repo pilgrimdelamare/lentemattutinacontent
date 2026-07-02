@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 2 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-02T05:45:43.050594+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/c385b478fb73b0de56218e9108d6ab3a59e763f4/skytg24/it/cronaca/2026/07/02/prime-pagine-quotidiani-oggi-2-luglio/Composite_2_luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 2 LUGLIO",
+    "lead_preview": "I giornali di oggi convergono sulla sfida al Papa da parte dei lefevbriani e sugli affari record di Donald Trump. Il Cor",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bd4157bf23d24e25",
     "slug": "ferrari-celebra-hamilton-a-silverstone-con-accesso-bd4157bf23d24e25",
     "title": "F1: Ferrari lancia accessori speciali per Lewis Hamilton",
@@ -3584,25 +3603,6 @@
     "lead_preview": "Tokyo, 30 giugno 2026. Lo yen giapponese ha raggiunto Martedì 30 giugno il valore più basso rispetto al dollaro statunit",
     "tags": [
       "crisi yen"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 1 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-01T05:46:45.075800+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/529d77685c8dc50d5511f35aad9f5598e8d3fc62/skytg24/it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 1 LUGLIO",
-    "lead_preview": "I giornali di oggi convergono sulla decisione della Corte Suprema Usa riguardo al diritto di cittadinanza per nascita. L",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
