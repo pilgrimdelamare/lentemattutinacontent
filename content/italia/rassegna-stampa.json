@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 1 luglio 2026",
+  "title": "Le prime pagine di oggi, giovedì 2 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 1 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 1 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 1 luglio 2026"
+    "Le prime pagine di oggi, giovedì 2 luglio 2026",
+    "Le prime pagine di oggi, giovedì 2 luglio 2026",
+    "Le prime pagine di oggi, giovedì 2 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 1 LUGLIO",
-  "lead": "I giornali di oggi convergono sulla decisione della Corte Suprema Usa riguardo al diritto di cittadinanza per nascita. La Stampa, Prima pagina 3 e Prima pagina 4 titolano su questo argomento, mentre La Gazzetta dello Sport e Il Corriere dello Sport si concentrano sullo sport.",
-  "corpo1": "La Stampa apre con un titolo sulla questione dei lefebvriani e il Papa, mentre Prima pagina 3 e Prima pagina 4 titolano sulla decisione della Corte Suprema Usa che boccia il decreto che negava la cittadinanza a figli di migranti illegali o temporanei. Prima pagina 6 invece si concentra sull'intervista al ministro dei Trasporti Matteo Salvini sul caos voli e treni. La Gazzetta dello Sport dedica il titolo principale al Milan e al mercato estivo.",
-  "corpo2": "Altri titoli di rilievo includono la vicenda giudiziaria che coinvolge Alessandro Bastoni su La Gazzetta dello Sport e le dure parole di Zlatan Ibrahimović dopo l'eliminazione della Germania dal Mondiale su Il Corriere dello Sport. Il tema dominante della giornata è la decisione della Corte Suprema Usa sul diritto di cittadinanza per nascita.",
+  "occhiello": "LE PRIME PAGINE DEL 2 LUGLIO",
+  "lead": "I giornali di oggi convergono sulla sfida al Papa da parte dei lefevbriani e sugli affari record di Donald Trump. Il Corriere della Sera, Repubblica, La Stampa e Il Messaggero titolano su questi argomenti, mentre La Gazzetta dello Sport e Il Corriere dello Sport si concentrano sullo sport.",
+  "corpo1": "Il Corriere della Sera apre con i guadagni record di Donald Trump e la sfida al Papa dei lefevbriani, con la consacrazione di quattro vescovi. Anche Repubblica titola su questi temi, con l'aggiunta degli affari record di Trump con le criptovalute. La Stampa invece dà spazio all'intervista al ministro della Difesa Crosetto e allo scisma dei lefevbriani, mentre Il Messaggero si concentra sulla sfida al Papa e sulla cerimonia in Svizzera.",
+  "corpo2": "Altri titoli di rilievo includono il piano del nuovo presidente Figc Gianni Malagò per portare Antonio Conte sulla panchina della Nazionale sulla Gazzetta dello Sport e il mercato del Como sul Corriere dello Sport. La giornata è dominata dalle notizie sulla Chiesa cattolica e sugli affari di Donald Trump.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-01T05:46:45.075800+00:00",
+  "published_at": "2026-07-02T05:45:43.050594+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/529d77685c8dc50d5511f35aad9f5598e8d3fc62/skytg24/it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/c385b478fb73b0de56218e9108d6ab3a59e763f4/skytg24/it/cronaca/2026/07/02/prime-pagine-quotidiani-oggi-2-luglio/Composite_2_luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/01/prime-pagine-quotidiani-oggi-1-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/02/prime-pagine-quotidiani-oggi-2-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 1 luglio 2026",
+      "title": "Oroscopo di oggi, giovedì 2 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Solo otto operatori cripto autorizzati dal primo luglio",
-      "url": "/economia/solo-otto-operatori-cripto-autorizzati-dal-primo-l-b38527664e589d99",
-      "id": "b38527664e589d99",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/f26710af43b4755e6816ea6ef18b7710.jpg",
+      "title": "Prime Video rilancia *Elle*: seconda stagione già in produzione prima ancora dell'uscita",
+      "url": "/cultura/un-prequel-di-cui-nessuno-sentiva-il-bisogno-652a7d3b7d80af7f",
+      "id": "652a7d3b7d80af7f",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/1/e41f59d2a47976177481693c8747bfee.jpg",
       "image_type": "image"
     },
     {
-      "title": "Il progressive rock torna nell'Appennino bolognese dal 3 al 5 luglio",
-      "url": "/cultura/il-progressive-rock-torna-nellappennino-bolognese-8b00f4680c450104",
-      "id": "8b00f4680c450104",
-      "image_url": "https://www.ansa.it/webimages/img_1129x635/2026/6/29/53a95db58d315365b7640b96e3d50c68.jpg",
+      "title": "Tfr automatico nei fondi pensione dal primo luglio",
+      "url": "/economia/tfr-automatico-nei-fondi-pensione-dal-primo-luglio-8d1b8573cc031319",
+      "id": "8d1b8573cc031319",
+      "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMTYvMDEvMDQvMTI1MDAwMDg2LTZmNDk0ZWNmLWM4YmYtNDhlZC05N2UwLTk5OGVkY2UzZDI3YS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
       "image_type": "image"
     }
   ],
