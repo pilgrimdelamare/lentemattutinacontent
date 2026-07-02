@@ -1,26 +1,24 @@
 {
   "id": "libro-20260701",
   "slug": "libro-del-giorno-il-crepuscolo-dei-pensieridi-emil-m-ci-20260701",
-  "title": "Il libro del giorno: «Il crepuscolo dei pensieridi Emil M. Cioran»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Il crepuscolo dei pensieridi Emil M. Cioran»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran",
   "corpo1": "Il filosofo Emil M. Cioran, un nome che evoca un fiume in piena di idee e pensieri, ha lasciato un'ennesima traccia della sua produzione letteraria con 'Il crepuscolo dei pensieri', una raccolta di aforismi scritti in romeno e recentemente tradotti in italiano. L'impressione che se ne trae è che il suo pessimismo sia diventato più cupo con il passare degli anni. Già noto per la sua visione del mondo che elogiava il suicidio come unica via di uscita per l'essere umano, in quest'opera giovanile Cioran manifesta un vitalismo iniziale poi in parte rinnegato, insieme a pensieri che rasentano l'antisemitismo e il nazionalismo. Questi aspetti della sua personalità sono risultati sorprendenti e hanno lasciato basiti i suoi estimatori, che pure avevano notato come il filosofo avesse rinnegato in seguito tali posizioni. Cioran, che visse gran parte della sua vita a Parigi in povertà, continuò a scrivere di noia, disperazione e insensatezza del vivere. I suoi pensieri, pur essendo a volte crudi e brutali, sono nondimeno attraversati da quel 'male di vivere' che abbiamo conosciuto sulla nostra pelle. Brevissimi aforismi che sferzano come staffilate, invitano a riflettere sulla fragilità e sulla 'mostruosità' dell'essere umano.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8845939146\" rel=\"sponsored\" target=\"_blank\">Il crepuscolo dei pensieridi Emil M. Cioran di  su Amazon</a></p>",
+  "corpo2": "L'operazione editoriale che porta in Italia gli scritti rumeni di Cioran non è un semplice recupero filologico, ma si inserisce in una precisa tendenza dell'industria culturale nostrana: la feticizzazione del nichilismo",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-01T07:00:42.615886+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il crepuscolo dei pensieridi Emil M. Cioran",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-crepuscolo-dei-pensieri-Emil-M-Cioran.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran\",\n  \"articleBody\": \"una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran Il filosofo Emil M. Cioran, un nome che evoca un fiume in piena di idee e pensieri, ha lasciato un'ennesima traccia della sua produzione letteraria con 'Il crepuscolo dei pensieri', una raccolta di aforismi scritti in romeno e recentemente tradotti in italiano. L'impressione che se ne trae è che il suo pessimismo sia diventato più cupo con il passare degli anni. Già noto per la sua visione del mondo che elogiava il suicidio come unica via di uscita per l'essere umano, in quest'opera giovanile Cioran manifesta un vitalismo iniziale poi in parte rinnegato, insieme a pensieri che rasentano l'antisemitismo e il nazionalismo. Questi aspetti della sua personalità sono risultati sorprendenti e hanno lasciato basiti i suoi estimatori, che pure avevano notato come il filosofo avesse rinnegato in seguito tali posizioni. Cioran, che visse gran parte della sua vita a Parigi in povertà, continuò a scrivere di noia, disperazione e insensatezza del vivere. I suoi pensieri, pur essendo a volte crudi e brutali, sono nondimeno attraversati da quel 'male di vivere' che abbiamo conosciuto sulla nostra pelle. Brevissimi aforismi che sferzano come staffilate, invitano a riflettere sulla fragilità e sulla 'mostruosità' dell'essere umano. L'operazione editoriale che porta in Italia gli scritti rumeni di Cioran non è un semplice recupero filologico, ma si inserisce in una precisa tendenza dell'industria culturale nostrana: la feticizzazione del nichilismo\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-01T07:00:42.615886+00:00\",\n  \"dateModified\": \"2026-07-01T07:00:42.615886+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260701\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260701\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-crepuscolo-dei-pensieridi-emil-m-ci-20260701",
+  "related": [
+    {
+      "title": "Il libro del giorno: «La fine del mondodi Francesco Pecoraro»",
+      "url": "/cultura/libro-del-giorno-la-fine-del-mondodi-francesco-pecoraro-20260702",
+      "id": "libro-20260702",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-pantanillo-ernesto-sabatodi-pedro-j-20260629",
+      "id": "libro-20260629",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/9791220504126_0_0_424_0_75-af125.jpg?1775731486",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-interpretazioni-dellamoredi-jane-campb-20260628",
+      "id": "libro-20260628",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/inter-7d7c9.jpg?1775778522",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-01T07:00:42.615886+00:00"
 }
