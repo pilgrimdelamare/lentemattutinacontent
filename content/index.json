@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260701",
+    "slug": "libro-del-giorno-il-crepuscolo-dei-pensieridi-emil-m-ci-20260701",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-01T07:00:42.615886+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/cioran-32f0f.jpg?1775698800",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260702",
     "slug": "libro-del-giorno-la-fine-del-mondodi-francesco-pecoraro-20260702",
     "title": "Il libro del giorno: «La fine del mondodi Francesco Pecoraro»",
@@ -3526,25 +3541,6 @@
     "lead_preview": "Berlino, 30 giugno 2026. Julian Nagelsmann, commissario tecnico della nazionale tedesca, ha ribadito la propria disponib",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260701",
-    "slug": "libro-del-giorno-il-crepuscolo-dei-pensieridi-emil-m-ci-20260701",
-    "title": "Il libro del giorno: «Il crepuscolo dei pensieridi Emil M. Cioran»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-01T07:00:42.615886+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/cioran-32f0f.jpg?1775698800",
-      "alt": "Copertina: Il crepuscolo dei pensieridi Emil M. Cioran",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/cioran-32f0f.jpg?1775698800",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "68942d39543e5e49",
