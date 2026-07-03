@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 3 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-03T05:46:04.036020+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e76e7163fd9c5cc751556c0a5523bfd63bc0f18e/skytg24/it/cronaca/2026/07/03/prime-pagine-quotidiani-oggi-3-luglio/collage_1.png?im=Resize,width=375",
+    "occhiello": "",
+    "lead_preview": "I quotidiani italiani di oggi convergono su due filoni principali: la guerra in Ucraina, con l’attacco russo più violent",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1f69a6ecb41bf148",
     "slug": "chanel-acquisisce-charvet-place-vendome-wertheimer-1f69a6ecb41bf148",
     "title": "Chanel compra Charvet Place Vendôme: il lusso ingoia l’ultima sartoria indipendente di Place Vendôme",
@@ -3677,25 +3696,6 @@
     "occhiello": "Un miliardo di euro per poche PMI, gli altri? Il conto è chiaro.",
     "lead_preview": "Milano, 1° luglio. Banca Generali e Intermonte hanno presentato oggi a Palazzo Mezzanotte, sede di Borsa Italiana, il pr",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 2 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-02T05:45:43.050594+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/c385b478fb73b0de56218e9108d6ab3a59e763f4/skytg24/it/cronaca/2026/07/02/prime-pagine-quotidiani-oggi-2-luglio/Composite_2_luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 2 LUGLIO",
-    "lead_preview": "I giornali di oggi convergono sulla sfida al Papa da parte dei lefevbriani e sugli affari record di Donald Trump. Il Cor",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
