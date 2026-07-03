@@ -1,5 +1,22 @@
 [
   {
+    "id": "libro-20260702",
+    "slug": "libro-del-giorno-la-fine-del-mondodi-francesco-pecoraro-20260702",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-02T07:00:40.883392+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un romanzo che si presenta come un lungo monologo senza trama, condotto da una voce narrante che riflette sulla vita, l'",
+    "tags": [
+      "libro del giorno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e2b474285b5a546d",
     "slug": "vasco-rossi-vendera-i-teloni-del-tour-per-benefice-e2b474285b5a546d",
     "title": "Tour sostenibile e maxitele firmate: così Vasco Rossi ricicla lo spettacolo in denaro per Don Ciotti",
@@ -3437,25 +3454,6 @@
     "lead_preview": "una raccolta di aforismi e pensieri del filosofo francese di origini rumene Emil M. Cioran",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260702",
-    "slug": "libro-del-giorno-la-fine-del-mondodi-francesco-pecoraro-20260702",
-    "title": "Il libro del giorno: «La fine del mondodi Francesco Pecoraro»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che si presenta come un lungo monologo senza trama, condotto da una voce narrante che riflette sulla vita, l'",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-02T07:00:40.883392+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
-      "alt": "Copertina: La fine del mondodi Francesco Pecoraro",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/9791255822684_0_0_464_0_75-836af.jpg?1775720145",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "369b65cd60c7f9b1",
