@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260703",
+    "slug": "libro-del-giorno-dosolina-langelo-dei-bambinidi-mara-di-20260703",
+    "title": "Il libro del giorno: «Dosolina. L’Angelo dei bambinidi Mara Di Noia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo intenso sul bene e il male, la vita, la morte e l'amore",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-03T07:01:17.071036+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170127-abcdc.jpg?1775672584",
+      "alt": "Copertina: Dosolina. L’Angelo dei bambinidi Mara Di Noia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton170127-abcdc.jpg?1775672584",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "c2e59f0d305038bc",
     "slug": "il-cremlino-risponde-alla-nomina-di-kaj-kallas-c2e59f0d305038bc",
     "title": "Mosca intensifica la pressione militare su Kiev per obiettivi strategici",
@@ -7949,21 +7968,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/28/205940701-948f6ccc-6855-4f59-9d99-4466b0451364.jpg",
     "occhiello": "SOLO POCHI OPERATORI ITALIANI AUTORIZZATI ENTRO IL 30 GIUGNO",
     "lead_preview": "Roma, 29 giugno 2026. Scade il termine per completare gli iter autorizzativi necessari a operare nel mercato delle cript",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3f091623ba42fd7a",
-    "slug": "scadenza-fiscale-il-30-giugno-e-il-termine-per-lir-3f091623ba42fd7a",
-    "title": "Scadenza fiscale: il 30 giugno è il termine per l'irpef",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-06-29T04:53:25.926783+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/06/28/205555633-8d374ac0-01e4-45e3-a888-f177de8e5f58.jpg",
-    "occhiello": "SCADENZA FISCALE: IL 30 GIUGNO È IL TERMINE PER L'IRPEF",
-    "lead_preview": "Roma, 29 giugno 2026. È arrivato il momento di fare i Conti con l'erario. Entro la giornata di domani, 30 giugno, scade ",
     "tags": [],
     "hero_eligible": true
   }
