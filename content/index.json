@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260704",
+    "slug": "libro-del-giorno-la-cacciatrice-cometedi-penny-haw-20260704",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-04T07:01:13.393355+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/61o1tec4ptl__sl1500_-27e36.jpg?1778576511",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo ispirato alla storia vera di Caroline Herschel, astronoma e matematica britannica del XVIII secolo",
+    "tags": [
+      "caroline herschel",
+      "astronomia ottocento",
+      "donne scienza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "05d070d24276597e",
     "slug": "berrettini-sfida-dimitrov-un-pass-per-gli-ottavi-05d070d24276597e",
     "title": "Berrettini sfida dimitrov, un pass per gli ottavi",
@@ -2798,25 +2817,6 @@
     "lead_preview": "Roma, 3 luglio 2026. Tiziana Baudo ha espresso profondo rammarico per la mancata partecipazione della famiglia alla pres",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260704",
-    "slug": "libro-del-giorno-la-cacciatrice-cometedi-penny-haw-20260704",
-    "title": "Il libro del giorno: «La cacciatrice»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo ispirato alla storia vera di Caroline Herschel, astronoma e matematica britannica del XVIII secolo",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-04T07:01:13.393355+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/61o1tec4ptl__sl1500_-27e36.jpg?1778576511",
-      "alt": "Copertina: La cacciatrice",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/61o1tec4ptl__sl1500_-27e36.jpg?1778576511",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "81ba5a22821b5b47",
