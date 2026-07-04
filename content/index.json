@@ -1,5 +1,20 @@
 [
   {
+    "id": "cddce3e3618f5d09",
+    "slug": "un-sito-di-informazione-che-vende-laccesso-alla-pr-cddce3e3618f5d09",
+    "title": "Ansa mette l'informazione a pagamento: o vendi i dati o versi 16,99 euro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-03T12:39:23.595111+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/2debfe4dd364c5996a4f480a61128c2c.jpg",
+    "occhiello": "UN SITO DI INFORMAZIONE CHE VENDE L'ACCESSO ALLA PROPRIA NEUTRALITÀ",
+    "lead_preview": "Roma, 3 luglio 2026. L'agenzia di stampa Ansa ha aggiornato il proprio portale di informazione subordinando la lettura d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "158d10676b4815e9",
     "slug": "aumentano-le-ore-di-inchiesta-in-rai-parola-di-ros-158d10676b4815e9",
     "title": "Aumento delle ore di inchiesta in rai: il piano di rossi",
@@ -1805,24 +1820,6 @@
     "tags": [
       "nato_kiev_2026",
       "aiuti_ucraina_120mld"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cddce3e3618f5d09",
-    "slug": "un-sito-di-informazione-che-vende-laccesso-alla-pr-cddce3e3618f5d09",
-    "title": "ANSA obbliga 16,99 euro annui per 10 articoli/mese senza tracciamento",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-03T12:39:23.595111+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/2debfe4dd364c5996a4f480a61128c2c.jpg",
-    "occhiello": "UN SITO DI INFORMAZIONE CHE VENDE L'ACCESSO ALLA PROPRIA NEUTRALITÀ",
-    "lead_preview": "Roma, 3 luglio 2026. L'agenzia di stampa Ansa ha aggiornato il proprio portale di informazione subordinando la lettura d",
-    "tags": [
-      "ansa",
-      "cookie profilazione"
     ],
     "hero_eligible": true
   },
