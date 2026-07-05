@@ -1,5 +1,24 @@
 [
   {
+    "id": "ba5485a1f6dbd0e0",
+    "slug": "quattrocento-opere-per-il-nuovo-allestimento-a-vil-ba5485a1f6dbd0e0",
+    "title": "Livorno riapre il Museo Fattori: 400 opere in mostra nella Villa Mimbelli rinnovata",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-04T11:49:44.920482+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/4/ace9c84714329919f309c032f161f1a8.jpg",
+    "occhiello": "QUATTROCENTO OPERE PER IL NUOVO ALLESTIMENTO A VILLA MIMBELLI",
+    "lead_preview": "Livorno, 4 luglio. Il Museo civico Giovanni Fattori riapre al pubblico all'interno della cornice ottocentesca di Villa M",
+    "tags": [
+      "riapertura museo fattori",
+      "villa mimbelli restyling",
+      "mostra livorno 400 opere"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ef99741a40a332cd",
     "slug": "sting-infiamma-perugia-larena-di-umbria-jazz-regis-ef99741a40a332cd",
     "title": "Sting incanta Perugia: Umbria Jazz esaurita con il musicista icona",
@@ -1093,24 +1112,6 @@
     "tags": [
       "cagliari calcio",
       "akarakiri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ba5485a1f6dbd0e0",
-    "slug": "quattrocento-opere-per-il-nuovo-allestimento-a-vil-ba5485a1f6dbd0e0",
-    "title": "Livorno, Fattori torna in 400 tele: Villa Mimbelli si rifà il look",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-04T11:49:44.920482+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/4/ace9c84714329919f309c032f161f1a8.jpg",
-    "occhiello": "QUATTROCENTO OPERE PER IL NUOVO ALLESTIMENTO A VILLA MIMBELLI",
-    "lead_preview": "Livorno, 4 luglio. Il Museo civico Giovanni Fattori riapre al pubblico all'interno della cornice ottocentesca di Villa M",
-    "tags": [
-      "museo fattori",
-      "villa mimbelli"
     ],
     "hero_eligible": true
   },
