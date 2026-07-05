@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260705",
+    "slug": "libro-del-giorno-suicidi-imperfettidi-fabrizio-coscia-20260705",
+    "title": "Coscia svela: artisti e scrittori scelgono la morte per il genio o il dolore?",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-05T07:00:39.474108+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un'analisi sulla tematica del suicidio nelle figure di artisti e scrittori",
+    "tags": [
+      "suicidio artisti",
+      "genio e dolore",
+      "libro coscia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "21f11cec062bad1d",
     "slug": "tennis-zverev-vince-e-svela-il-borsone-della-madre-21f11cec062bad1d",
     "title": "Tennis: Zverev vince ma spiazza con i suoi 12 telai nel borsone dichiarati intoccabili",
@@ -1093,25 +1112,6 @@
       "tornatore 2026"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260705",
-    "slug": "libro-del-giorno-suicidi-imperfettidi-fabrizio-coscia-20260705",
-    "title": "Il libro del giorno: «Suicidi imperfettidi Fabrizio Coscia»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'analisi sulla tematica del suicidio nelle figure di artisti e scrittori",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-05T07:00:39.474108+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
-      "alt": "Copertina: Suicidi imperfettidi Fabrizio Coscia",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "df07fce8a8f9aa93",
