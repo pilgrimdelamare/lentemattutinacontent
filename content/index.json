@@ -1,5 +1,24 @@
 [
   {
+    "id": "c1cf0a22f50eba60",
+    "slug": "tennis-la-rivincita-di-jasmine-paolini-su-sakkari-c1cf0a22f50eba60",
+    "title": "Tennis: La sfida della Paolini, dall'ombra del delusionismo alla gloria di Wimbledon",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-07-04T13:56:15.498496+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/77f1350e9ab50b2407e4ba12379a815f93686267/skysport/it/tennis/2026/07/04/paolini-sakkari-wimbledon-risultato/paolini_ipa_1.jpg",
+    "occhiello": "Wimbledon 2026: Paolini batte Sakkari, primo italiano negli ottavi dal 2014",
+    "lead_preview": "Londra, 4 luglio. Jasmine Paolini ha sconfitto Maria Sakkari con un perentorio 6-1 nel primo set, conquistando un posto ",
+    "tags": [
+      "wimbledon 2026",
+      "paolini sakkari",
+      "tennis italiano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b67710823ed107eb",
     "slug": "sinner-e-ciurnelli-si-allenano-insieme-a-wimbledon-b67710823ed107eb",
     "title": "Tennis: Sinner sfida il protocollo a Wimbledon allenandosi con Ciurnelli",
@@ -1102,24 +1121,6 @@
       "juventus femminile",
       "allenatore guerrero",
       "calcio donne"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1cf0a22f50eba60",
-    "slug": "tennis-la-rivincita-di-jasmine-paolini-su-sakkari-c1cf0a22f50eba60",
-    "title": "Jasmine Paolini, la nuova Speranza del tennis italiano",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-04T13:56:15.498496+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/77f1350e9ab50b2407e4ba12379a815f93686267/skysport/it/tennis/2026/07/04/paolini-sakkari-wimbledon-risultato/paolini_ipa_1.jpg",
-    "occhiello": "Wimbledon 2026: Paolini batte Sakkari, primo italiano negli ottavi dal 2014",
-    "lead_preview": "Londra, 4 luglio. Jasmine Paolini ha sconfitto Maria Sakkari con un perentorio 6-1 nel primo set, conquistando un posto ",
-    "tags": [
-      "wimbledon 2026",
-      "jasmine paolini"
     ],
     "hero_eligible": true
   },
