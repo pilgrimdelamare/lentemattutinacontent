@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260705",
+    "slug": "libro-del-giorno-suicidi-imperfettidi-fabrizio-coscia-20260705",
+    "title": "Il libro del giorno: «Suicidi imperfettidi Fabrizio Coscia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'analisi sulla tematica del suicidio nelle figure di artisti e scrittori",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-05T07:00:39.474108+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
+      "alt": "Copertina: Suicidi imperfettidi Fabrizio Coscia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "4be60f360343175f",
     "slug": "tennis-mertens-cancella-rybakina-in-1-ora-e-23-min-4be60f360343175f",
     "title": "Tennis: Mertens schiaccia Rybakina e vince £2,5 milioni con un dominio bruciante",
@@ -8211,21 +8230,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/6b249c8625cdf7be643350aa3276a144.jpg",
     "occhiello": "TOKYO GUARDA AL MERCOSUR, UN SEGNALE A BRUXELLES",
     "lead_preview": "Roma, 30 giugno 2026. Il Mercosur ha avviato negoziati formali con il Giappone per un accordo di libero scambio, con l'o",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ab9bea5561c9c7f5",
-    "slug": "lazio-il-mercato-estivo-entra-nel-vivo-per-asp-ab9bea5561c9c7f5",
-    "title": "Lazio, il mercato estivo entra nel vivo per asp",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-06-30T22:07:03.671832+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/32da8b5c8ac3df26cc6b04069a1b3bce0075bd5b/skysport/it/calcio/calciomercato/video/2026/06/30/1108773_1782849912196_thumb_494.0000001_1782850736174.jpg",
-    "occhiello": "LAZIO, IL MERCATO ESTIVO ENTRA NEL VIVO PER ASP",
-    "lead_preview": "Roma, 30 giugno 2026. La dirigenza della Lazio prosegue il lavoro di trattativa per l'acquisizione del calciatore Asp, c",
     "tags": [],
     "hero_eligible": true
   }
