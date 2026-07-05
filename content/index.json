@@ -1,5 +1,23 @@
 [
   {
+    "id": "45f3ff70d70dd453",
+    "slug": "de-fusco-porta-sofocle-a-salonicco-45f3ff70d70dd453",
+    "title": "De Fusco porta Sofocle a Salonicco",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-05T11:41:07.451032+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ffe78cc81a9ad7e39528a94923a477c.jpg",
+    "occhiello": "DE FUSCO A SALONICCO CON EDIPO RE",
+    "lead_preview": "Roma, 5 luglio.",
+    "tags": [
+      "de fusco",
+      "festival salonicco"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "56c507cb4b0bea3a",
     "slug": "lima-multa-a-1400-euro-chi-non-espone-la-bandiera-56c507cb4b0bea3a",
     "title": "Lima multa a 1.400 euro chi non espone la bandiera: scatta l’obbligo dal Centro alla periferia",
@@ -8268,21 +8286,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/9/82d36287e41725083eb48c4311eefa10.jpg",
     "occhiello": "IL DDL MERITO INTRODUCE PREMI SELETTIVI NELLA PUBBLICA AMMINISTRAZIONE",
     "lead_preview": "Roma, 30 giugno 2026. Il Ministro per la Pubblica Amministrazione Paolo Zangrillo ha illustrato i contenuti del nuovo di",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "05dc57270ac7e35c",
-    "slug": "trump-dichiara-sistema-cinese-cittadinanza-modello-05dc57270ac7e35c",
-    "title": "Trump applaude pechino per le politiche sulla cittadinanza",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-06-30T17:56:22.465138+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/30/b59db4ffdbcbfdf3c29a085b87e91b16.jpg",
-    "occhiello": "TRUMP APPLAUDE PECHINO PER LE POLITICHE SULLA CITTADINANZA",
-    "lead_preview": "Washington, 30 giugno 2026. Il Presidente degli Stati Uniti Donald Trump ha espresso pubblicamente apprezzamento per il ",
     "tags": [],
     "hero_eligible": true
   }
