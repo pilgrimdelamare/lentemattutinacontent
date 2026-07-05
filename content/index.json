@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, domenica 5 luglio 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-07-05T04:01:55.325004+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — DOMENICA 5 LUGLIO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "7964d69684b0a852",
     "slug": "basket-mike-james-esordisce-con-team-usa-e-firma-u-7964d69684b0a852",
     "title": "Basket: Team USA aggancia la Rep. Dominicana in finale rocambolesca, James debutta da leader",
@@ -3324,26 +3344,6 @@
       "politica monetaria ue"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, sabato 4 luglio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-07-04T04:03:32.296407+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — SABATO 4 LUGLIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "922c51080ef14496",
