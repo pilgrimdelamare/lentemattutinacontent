@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 6 luglio 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-07-06T04:01:23.425264+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 6 LUGLIO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "b42ca5e24a922e3e",
     "slug": "petro-affossa-i-protocolli-domani-passa-la-staffa-b42ca5e24a922e3e",
     "title": "Petro affossa i protocolli: domani passa la staffa a un misterioso alleato riformista",
@@ -1501,26 +1521,6 @@
       "doppio venus williams"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, domenica 5 luglio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-07-05T04:01:55.325004+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — DOMENICA 5 LUGLIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "7964d69684b0a852",
