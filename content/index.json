@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-06T19:53:26.090696+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SISTEMA RISOLTO",
+    "lead_preview": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d266c1fcecc263b4",
     "slug": "meloni-al-quirinale-cassese-costituzione-lo-permet-d266c1fcecc263b4",
     "title": "Meloni al Quirinale? Cassese lo dice possibile: addio a imparzialità e regole",
@@ -17,25 +36,6 @@
       "elezione presidente"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-06T19:38:13.195919+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IRREAGGIUNGIBILE DA 20 MINUTI",
-    "lead_preview": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattando sugli utenti italiani che non possono ",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2dc56e9949892c96",
