@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 3 luglio 2026",
+  "title": "Le prime pagine di oggi, lunedì 6 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 3 luglio 2026",
-    "Le prime pagine di oggi, venerdì 3 luglio 2026",
-    "Le prime pagine di oggi, venerdì 3 luglio 2026"
+    "Le prime pagine di oggi, lunedì 6 luglio 2026",
+    "Le prime pagine di oggi, lunedì 6 luglio 2026",
+    "Le prime pagine di oggi, lunedì 6 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "",
-  "lead": "I quotidiani italiani di oggi convergono su due filoni principali: la guerra in Ucraina, con l’attacco russo più violento su Kiev che ha provocato decine di vittime e la richiesta di Zelensky agli Usa per i sistemi Patriot, e il caos istituzionale alla Rai, dove l’ondata di dimissioni nella Vigilanza rischia un’infrazione Ue. Solo il Corriere della Sera e la Gazzetta dello Sport si concentrano sul mercato calcistico e i Mondiali. La Repubblica, il Messaggero e il Giornale dedicano spazio anche alle dichiarazioni di Roberta Metsola sul rafforzamento della difesa europea.",
-  "corpo1": "Il Corriere della Sera apre con la guerra in Ucraina, dove un attacco russo «più duro» su Kiev ha causato «oltre 20 vittime» secondo fonti ucraine, mentre il presidente Zelensky ha chiesto agli Stati Uniti la licenza per l’utilizzo dei sistemi missilistici Patriot. Sullo sfondo, l’ondata di dimissioni nella Vigilanza Rai, che ha azzerato la commissione e solleva il rischio di un’infrazione da parte dell’Unione europea, con l’opposizione che accusa il governo di paralisi. La Repubblica segue con il «caos» alla Rai, dove dopo le dimissioni dei consiglieri di opposizione hanno lasciato anche quelli di maggioranza, definendo l’atto «frutto della paralisi in corso». Il Messaggero dedica ampio spazio all’intervista di Roberta Metsola, presidente del Parlamento europeo, che chiede maggiori investimenti nella difesa e avverte che «l’Europa non può più contare sugli Stati Uniti». Il Giornale, invece, si concentra sul mercato calcistico: il Milan potrebbe dire addio a Rafael Leão, mentre la Juventus accelera con le operazioni di mercato, con nomi come Dibu Martínez, Kolo Muani e Muharemovic in cima alla lista di Spalletti. La Gazzetta dello Sport lascia da parte politica e guerra per focalizzarsi sui Mondiali: la Spagna ha superato l’Austria con un netto 3-0, mentre l’Argentina si prepara alla sfida con Messi in campo.",
-  "corpo2": "Sulle prime pagine compaiono anche i dettagli dell’attacco russo a Kiev, con decine di morti e la promessa di Zelensky di «reagire», e le proteste dell’opposizione contro la gestione della Vigilanza Rai. Il Sole 24 Ore e La Stampa dedicano spazio ai riflessi economici della guerra e alle tensioni geopolitiche, mentre il Fatto Quotidiano approfondisce il caso Rai con le accuse di «manovre politiche». La giornata è dominata dall’emergenza ucraina e dalla crisi istituzionale italiana, con il calcio che fa da contraltare solo su alcuni giornali.",
+  "occhiello": "LE PRIME PAGINE 6 LUGLIO 2026",
+  "lead": "La tensione tra Stati Uniti, Russia e Polonia domina la prima pagina dei principali quotidiani italiani. *La Repubblica*, *La Stampa*, *Il Corriere della Sera* e *Il Messaggero* aprono con le dichiarazioni di Donald Trump su Giorgia Meloni e le minacce di Vladimir Putin alla Polonia alla vigilia del vertice Nato. *Il Corriere dello Sport* si concentra invece sulla Formula 1 e sulla vittoria di Charles Leclerc in Brasile. Solo *La Gazzetta dello Sport* si distingue con un taglio sportivo esclusivo.",
+  "corpo1": "La Repubblica punta su Trump e Meloni, titolando con l’appello del presidente Usa per un “ordine restrittivo” contro la premier italiana e sulla minaccia di Putin alla Polonia in vista del vertice Nato di domani in Turchia. La Stampa replica con lo stesso focus sulle parole di Trump su Truth e sulle dichiarazioni del Cremlino che accusano Varsavia di sostenere Kiev. Il Corriere della Sera apre invece con le tensioni internazionali, segnalando le accuse russe a Polonia e alleati per l’aiuto a Kiev, ma dedica spazio anche alla vittoria di Charles Leclerc in Brasile. Il Messaggero affianca alle dichiarazioni di Trump e Putin la presa di posizione del ministro Crosetto sulla difesa, escludendo alternative alla spesa sanitaria.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-03T05:46:04.036020+00:00",
+  "published_at": "2026-07-06T05:46:05.006117+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e76e7163fd9c5cc751556c0a5523bfd63bc0f18e/skytg24/it/cronaca/2026/07/03/prime-pagine-quotidiani-oggi-3-luglio/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/ebb49edba8f881da6a404a33554e3d2fe4e44c28/skytg24/it/cronaca/2026/07/06/prime-pagine-quotidiani-oggi-6-luglio/collage_1.png?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/03/prime-pagine-quotidiani-oggi-3-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/06/prime-pagine-quotidiani-oggi-6-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 3 luglio 2026",
+      "title": "Oroscopo di oggi, lunedì 6 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Vertice del 20 luglio sul trattato commerciale nordamericano",
-      "url": "/economia/vertice-del-20-luglio-sul-trattato-commerciale-nor-1800a21e7e41bb84",
-      "id": "1800a21e7e41bb84",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/adf005845d4f0a747af9375cba3b6ffc.jpg",
-      "image_type": "image"
+      "title": "La festa degli esclusi, new york capitale del 4 luglio anti maga",
+      "url": "/cronaca/la-festa-degli-esclusi-new-york-capitale-del-4-lug-bdcd1f207cd639af",
+      "id": "bdcd1f207cd639af",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/224029713-92a57c16-b19b-45b1-844a-3bc6c4f30839.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Prime Video rilancia *Elle*: seconda stagione già in produzione prima ancora dell'uscita",
-      "url": "/cultura/un-prequel-di-cui-nessuno-sentiva-il-bisogno-652a7d3b7d80af7f",
-      "id": "652a7d3b7d80af7f",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/1/e41f59d2a47976177481693c8747bfee.jpg",
+      "title": "Le pagine di accesso agli articoli diventano un ostacolo",
+      "url": "/esteri/ansa-1699-annui-per-chi-rifiuta-i-cookie-e-legge-1-55af1ff68aaaf058",
+      "id": "55af1ff68aaaf058",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/71214fb6c1720cd3c1abcb7a6943a1c4.jpg",
       "image_type": "image"
     }
   ],
