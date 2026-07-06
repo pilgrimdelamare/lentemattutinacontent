@@ -1,0 +1,60 @@
+{
+  "id": "680827f10560c602",
+  "slug": "cinque-giornalisti-aggrediti-a-genova-durante-cort-680827f10560c602",
+  "title": "Cinque giornalisti aggrediti a Genova durante corteo sull'insicurezza",
+  "titles": [
+    "Cinque giornalisti aggrediti a Genova durante corteo sull'insicurezza",
+    "Salvo cronista di Repubblica smartphone rotto in scontri a Sestri Ponente",
+    "Proteste Genova: corteo sulla Sicurezza degenera in aggressioni a operatori"
+  ],
+  "title_winner": null,
+  "section": "cronaca",
+  "occhiello": "CRONISTI AGGREDITI DURANTE CORTEO A GENOVA",
+  "lead": "Genova, 6 luglio 2026. Alle 18:30, a Genova Sestri Ponente, si sono registrati momenti di tensione durante un corteo sulla sicurezza urbana. , almeno cinque giornalisti sono stati aggrediti mentre documentavano l’evento. Massimiliano Salvo, cronista di Repubblica, è stato strattonato e ha subito la rottura del display del proprio smartphone mentre documentava l'evento. Fabio Bussalino e Davide Pambianchi, fotografi rispettivamente di Repubblica e del Secolo XIX, sono stati strattonati e impediti nell'esercizio della loro professione. Gli scontri sono scoppiati mentre i partecipanti al corteo, secondo quanto riferito dalle forze dell’ordine presenti, scandivano slogan contro l’amministrazione",
+  "corpo1": "Comunale e chiedevano maggiore presenza delle istituzioni sul territorio. Le volanti della Polizia municipale, intervenute tempestivamente, hanno circoscritto l’area e separato i gruppi in contrasto, evitando ulteriori escalation. . , «questo episodio si inserisce in un trend preoccupante di intolleranza verso",
+  "corpo2": "Chi svolge il proprio lavoro in condizioni di normalità democratica». . . . . . .",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "chiara_esposito_01",
+    "firma": "Chiara Esposito",
+    "sezione": "cronaca"
+  },
+  "published_at": "2026-07-06T21:04:46.714325+00:00",
+  "image": {
+    "type": "feed_image",
+    "url": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/07/06/224358717-57e3c995-7a0a-489f-bdf5-02e9409f3d62.jpg",
+    "source": "Repubblica Cronaca",
+    "credit": "Repubblica Cronaca",
+    "license": "editorial"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cinque giornalisti aggrediti a Genova durante corteo sull'insicurezza\",\n  \"description\": \"Genova, 6 luglio 2026. Alle 18:30, a Genova Sestri Ponente, si sono registrati momenti di tensione durante un corteo sulla sicurezza urbana. , almeno cinque giornalisti sono stati aggrediti mentre documentavano l’evento. Massimiliano Salvo, cronista di Repubblica, è stato strattonato e ha subito la \",\n  \"articleBody\": \"Genova, 6 luglio 2026. Alle 18:30, a Genova Sestri Ponente, si sono registrati momenti di tensione durante un corteo sulla sicurezza urbana. , almeno cinque giornalisti sono stati aggrediti mentre documentavano l’evento. Massimiliano Salvo, cronista di Repubblica, è stato strattonato e ha subito la rottura del display del proprio smartphone mentre documentava l'evento. Fabio Bussalino e Davide Pambianchi, fotografi rispettivamente di Repubblica e del Secolo XIX, sono stati strattonati e impediti nell'esercizio della loro professione. Gli scontri sono scoppiati mentre i partecipanti al corteo, secondo quanto riferito dalle forze dell’ordine presenti, scandivano slogan contro l’amministrazione Comunale e chiedevano maggiore presenza delle istituzioni sul territorio. Le volanti della Polizia municipale, intervenute tempestivamente, hanno circoscritto l’area e separato i gruppi in contrasto, evitando ulteriori escalation. . , «questo episodio si inserisce in un trend preoccupante di intolleranza verso Chi svolge il proprio lavoro in condizioni di normalità democratica». . . . . . .\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Chiara Esposito\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-06T21:04:46.714325+00:00\",\n  \"dateModified\": \"2026-07-06T21:04:46.714325+00:00\",\n  \"url\": \"https://lentemattutina.it/cronaca/680827f10560c602\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cronaca/680827f10560c602\"\n  },\n  \"articleSection\": \"Cronaca\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/localirep/img/rep-genova/2026/07/06/224358717-57e3c995-7a0a-489f-bdf5-02e9409f3d62.jpg\",\n    \"creditText\": \"Repubblica Cronaca\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Cronaca",
+  "source_type": "competitor",
+  "original_url": "https://genova.repubblica.it/cronaca/2026/07/06/news/genova_sestri_tafferugli_al_corteo_per_la_sicurezza_con_la_destra_schierata_cronisti_aggrediti-425455593/?rss",
+  "related": [
+    {
+      "title": "Gino Paoli disperso: trovato scomparso l'85enne a Brentonico (Trento)",
+      "url": "/cronaca/anziano-di-85-anni-disperso-da-giovedi-nelle-colli-14bab9c312359dfb",
+      "id": "14bab9c312359dfb",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/04/135604078-9695392e-081b-49d5-80cb-a6e7e0cc12b9.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Mantovano vara il decalogo anti-fentanyl",
+      "url": "/cronaca/furti-fentanyl-40-mantovano-obbliga-controlli-raff-20cbaddc2d687946",
+      "id": "20cbaddc2d687946",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/213929016-2df96b57-ff42-4395-b715-258e8fb09736.jpg",
+      "image_type": "feed_image"
+    },
+    {
+      "title": "Papa Leone XIV: 'L'immigrazione non è un crimine, costruisce gli Usa'",
+      "url": "/cronaca/il-monito-del-papa-a-trump-lamerica-una-nazione-pl-fe41fbc9dce7b939",
+      "id": "fe41fbc9dce7b939",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/233756868-2deed18b-1851-44bc-8d9d-89ae3595c226.jpg",
+      "image_type": "feed_image"
+    }
+  ],
+  "hero_eligible": true
+}
