@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260706",
+    "slug": "libro-del-giorno-i-linguaggi-del-fumettodi-daniele-barb-20260706",
+    "title": "Il libro del giorno: «I linguaggi del fumettodi Daniele Barbieri»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'attenta analisi delle dinamiche comunicative del fumetto",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-06T07:00:49.993938+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/9788867908455_0_0_424_0_75-ea1e6.jpg?1780581618",
+      "alt": "Copertina: I linguaggi del fumettodi Daniele Barbieri",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/9788867908455_0_0_424_0_75-ea1e6.jpg?1780581618",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "48f70088021b146a",
     "slug": "calcio-fifa-sequestra-17-rolex-da-1-milione-ai-gio-48f70088021b146a",
     "title": "Messico: Sequestrati 17 orologi di lusso a giocatori per regalo non autorizzato",
@@ -8315,21 +8334,6 @@
       "eurovision song contest",
       "canada eurovision"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "617377076eab4420",
-    "slug": "il-fondo-clara-vista-acquisisce-lottanta-per-cento-617377076eab4420",
-    "title": "Il fondo clara vista acquisisce l'ottanta per cento del frosinone",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-01T12:55:44.307111+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/61d6ce29d4f982e1e310be7a8b9e700d4f283dd5/skysport/it/calcio/calciomercato/video/2026/07/01/frosinone-stirpe-cessione-fondo-usa-intervista-1108870/stirpe_frosinone_sky_screen.jpg",
-    "occhiello": "IL FONDO CLARA VISTA ACQUISISCE L'OTTANTA PER CENTO DEL FROSINONE",
-    "lead_preview": "Frosinone, 1 luglio 2026. Il Frosinone Calcio cambia assetto proprietario con l'ingresso del Fondo statunitense Clara Vi",
-    "tags": [],
     "hero_eligible": true
   }
 ]
