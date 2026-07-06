@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260705",
+    "slug": "libro-del-giorno-suicidi-imperfettidi-fabrizio-coscia-20260705",
+    "title": "Fabrizio Coscia analizza il suicidio di artisti e scrittori: da Wallace a Pavese",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-05T07:00:39.474108+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un'analisi sulla tematica del suicidio nelle figure di artisti e scrittori",
+    "tags": [
+      "suicidio artisti",
+      "libro coscia",
+      "analisi letteraria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f27b81ce97fefa15",
     "slug": "bardella-pronto-a-guidare-la-destra-francese-ma-la-f27b81ce97fefa15",
     "title": "Macron sotto attacco, la destra francese si spacca",
@@ -474,25 +493,6 @@
     "lead_preview": "Londra, 4 luglio 2026 Alexander Zverev ha battuto Marcos Giron , conquistando così l'accesso agli ottavi di finale del t",
     "tags": [
       "wimbledon 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260705",
-    "slug": "libro-del-giorno-suicidi-imperfettidi-fabrizio-coscia-20260705",
-    "title": "Coscia svela: artisti e scrittori scelgono la morte per il genio o il dolore?",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-07-05T07:00:39.474108+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L214xH312/suicidi-55c09.jpg?1775712911",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "Un'analisi sulla tematica del suicidio nelle figure di artisti e scrittori",
-    "tags": [
-      "suicidio artisti",
-      "genio e dolore",
-      "libro coscia"
     ],
     "hero_eligible": true
   },
