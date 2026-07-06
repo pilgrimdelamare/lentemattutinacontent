@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 66 minuti di interruzione.",
+  "title": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
   "titles": [
-    "Claude è tornato online dopo 66 minuti di interruzione.",
-    "Claude è tornato online dopo 66 minuti di interruzione.",
-    "Claude è tornato online dopo 66 minuti di interruzione."
+    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
+    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
+    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE RIPRISTINATO",
-  "lead": "Claude è tornato online dopo 66 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 66 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CLAUDE IRREAGGIUNGIBILE DA 20 MINUTI",
+  "lead": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattando sugli utenti italiani che non possono accedere alle funzionalità del sistema.",
+  "corpo1": "Il problema è iniziato 20 minuti fa e sta interessando l'intera piattaforma. Le funzionalità di elaborazione e risposta sono compromesse, pertanto gli utenti non possono interagire con il sistema. Questo comporta un blocco delle operazioni e dei servizi dipendenti. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-23T15:29:58.000194+00:00",
+  "published_at": "2026-07-06T19:38:13.195919+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Samsung abbandona il formato verticale per il galaxy z fold",
+      "url": "/tecnologia/samsung-abbandona-il-formato-verticale-per-il-gala-2a4cf2f6ee61a668",
+      "id": "2a4cf2f6ee61a668",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/03/170336402-1c0eb6fe-a478-4a28-becd-24b1defb848e.jpg",
       "image_type": "image"
     },
     {
-      "title": "Sei rischi di sicurezza su nove restano totalmente scoperti",
-      "url": "/tecnologia/sei-rischi-di-sicurezza-su-nove-restano-totalmente-774017b3e7030158",
-      "id": "774017b3e7030158",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/06/23/105751475-efe0e5fe-66ae-4be4-94a2-30e9d14ef174.jpg",
+      "title": "Giovanni Tommaso: «Addio alla chitarra dopo 75 minuti, non servono bis» a Umbria Jazz",
+      "url": "/cultura/a-78-anni-giovanni-tommaso-spegne-la-chitarra-no-b-8a99cc302077ddc4",
+      "id": "8a99cc302077ddc4",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ce0b73d7ca34026d4ccd5a537c647b9.jpg",
       "image_type": "image"
     },
     {
-      "title": "Le sigle dei cartoni animati: quando l'italia inventava le parole al posto di google",
-      "url": "/tecnologia/le-sigle-dei-cartoni-animati-quando-litalia-invent-6dda8743fb70670b",
-      "id": "6dda8743fb70670b",
-      "image_url": "https://media-assets.wired.it/photos/615dae6035c15c27e8b01890/16:9/w_1280,c_limit/photo45.jpg",
+      "title": "Acquaroli celebra il legame tra territorio e Servizio pubblico radiotelevisivo",
+      "url": "/cultura/acquaroli-celebra-il-legame-tra-territorio-e-servi-d27f138d83d59f8a",
+      "id": "d27f138d83d59f8a",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/cab5387f601fc09ef0035ca57d66ca48.jpg",
       "image_type": "image"
     }
   ],
