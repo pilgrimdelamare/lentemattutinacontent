@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 6 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-06T05:46:05.006117+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/ebb49edba8f881da6a404a33554e3d2fe4e44c28/skytg24/it/cronaca/2026/07/06/prime-pagine-quotidiani-oggi-6-luglio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 6 LUGLIO 2026",
+    "lead_preview": "La tensione tra Stati Uniti, Russia e Polonia domina la prima pagina dei principali quotidiani italiani. *La Repubblica*",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9f6f71b191aa3076",
     "slug": "calcio-brasile-affronta-norvegia-9f6f71b191aa3076",
     "title": "Calcio: Brasile e Norvegia si sfidano negli ottavi",
@@ -5588,25 +5607,6 @@
     "tags": [
       "ritiro polonara",
       "basket italiano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 3 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-03T05:46:04.036020+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e76e7163fd9c5cc751556c0a5523bfd63bc0f18e/skytg24/it/cronaca/2026/07/03/prime-pagine-quotidiani-oggi-3-luglio/collage_1.png?im=Resize,width=375",
-    "occhiello": "",
-    "lead_preview": "I quotidiani italiani di oggi convergono su due filoni principali: la guerra in Ucraina, con l’attacco russo più violent",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
