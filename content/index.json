@@ -1,5 +1,22 @@
 [
   {
+    "id": "5961258cbf767249",
+    "slug": "bolsonaro-perde-porto-darmi-e-11-fucili-sequestrat-5961258cbf767249",
+    "title": "Bolsonaro perde porto d'armi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-05T09:43:01.130788+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/9/94bfbebec638e6ce5b8bc296bb331e70.jpg",
+    "occhiello": "Il giudice Alexandre de Moraes ha revocato il porto d’armi e la licenza da collezionista dell’ex presidente Jair Bolsonaro",
+    "lead_preview": "Brasilia, 5 luglio.",
+    "tags": [
+      "caso bolsonaro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, lunedì 6 luglio 2026",
@@ -467,25 +484,6 @@
       "moto gp",
       "race of champions",
       "misano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5961258cbf767249",
-    "slug": "bolsonaro-perde-porto-darmi-e-11-fucili-sequestrat-5961258cbf767249",
-    "title": "Bolsonaro perde le armi: sequestrate 11 pistole dal giudice all’ex Presidente",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-05T09:43:01.130788+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/9/94bfbebec638e6ce5b8bc296bb331e70.jpg",
-    "occhiello": "Il giudice Alexandre de Moraes ha revocato il porto d’armi e la licenza da collezionista dell’ex presidente Jair Bolsonaro",
-    "lead_preview": "Brasilia, 5 luglio.",
-    "tags": [
-      "revoca porto d'armi",
-      "bolsonaro sequestro",
-      "giudice de moraes"
     ],
     "hero_eligible": true
   },
