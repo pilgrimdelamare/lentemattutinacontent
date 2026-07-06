@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260706",
+    "slug": "libro-del-giorno-i-linguaggi-del-fumettodi-daniele-barb-20260706",
+    "title": "Il saggio che svela come le strisce diventano storie irresistibili",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-06T07:00:49.993938+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/9788867908455_0_0_424_0_75-ea1e6.jpg?1780581618",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un'analisi delle dinamiche comunicative del fumetto",
+    "tags": [
+      "fumetto analisi",
+      "comunicazione visiva",
+      "saggio fumettistico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "78bfdeefd99a81fc",
     "slug": "tennis-sinner-sbanca-wimbledon-e-rivela-il-suo-seg-78bfdeefd99a81fc",
     "title": "Tennis: Sinner investe sul fisico per domare Mochizuki",
@@ -970,25 +989,6 @@
     "lead_preview": "Roma, 5 luglio — Roberto Giacobbo annuncia una nuova stagione di programmi dedicati ai misteri storici. Stavolta il Sant",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260706",
-    "slug": "libro-del-giorno-i-linguaggi-del-fumettodi-daniele-barb-20260706",
-    "title": "Il libro del giorno: «I linguaggi del fumettodi Daniele Barbieri»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'attenta analisi delle dinamiche comunicative del fumetto",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-06T07:00:49.993938+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/9788867908455_0_0_424_0_75-ea1e6.jpg?1780581618",
-      "alt": "Copertina: I linguaggi del fumettodi Daniele Barbieri",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L205xH312/9788867908455_0_0_424_0_75-ea1e6.jpg?1780581618",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "48f70088021b146a",
