@@ -1,5 +1,23 @@
 [
   {
+    "id": "f27b81ce97fefa15",
+    "slug": "bardella-pronto-a-guidare-la-destra-francese-ma-la-f27b81ce97fefa15",
+    "title": "Macron sotto attacco, la destra francese si spacca",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-05T15:02:17.160495+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/4/8ff2a22e36f112843e51870e1e346c3a.jpg",
+    "occhiello": "Marine Le Pen a 48 ore dalla sentenza che deciderà il suo futuro politico",
+    "lead_preview": "Parigi, 5 luglio 2026.",
+    "tags": [
+      "crisi francese",
+      "processo le pen"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3b2d74d72f8c256b",
     "slug": "pastore-cinese-liberato-dopo-due-udienze-di-rieduc-3b2d74d72f8c256b",
     "title": "Pechino tace su rilascio pastore Jin: poliziotto chiude la comunicazione con 'nessun commento'",
@@ -701,25 +719,6 @@
       "attacco parlamento iran",
       "ghalibaf vendetta",
       "kamikaze teheran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f27b81ce97fefa15",
-    "slug": "bardella-pronto-a-guidare-la-destra-francese-ma-la-f27b81ce97fefa15",
-    "title": "Bardella pronto a guidare la destra francese, ma la sentenza lo fermerà domani",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-05T15:02:17.160495+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/4/8ff2a22e36f112843e51870e1e346c3a.jpg",
-    "occhiello": "Marine Le Pen a 48 ore dalla sentenza che deciderà il suo futuro politico",
-    "lead_preview": "Parigi, 5 luglio 2026.",
-    "tags": [
-      "processo le pen",
-      "elezioni francia 2026",
-      "bardella destra"
     ],
     "hero_eligible": true
   },
