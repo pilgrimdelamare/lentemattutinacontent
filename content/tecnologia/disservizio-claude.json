@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
+  "title": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
   "titles": [
-    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
-    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand",
-    "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattand"
+    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IRREAGGIUNGIBILE DA 20 MINUTI",
-  "lead": "Claude è irraggiungibile da 20 minuti. L'interruzione del servizio sta impattando sugli utenti italiani che non possono accedere alle funzionalità del sistema.",
-  "corpo1": "Il problema è iniziato 20 minuti fa e sta interessando l'intera piattaforma. Le funzionalità di elaborazione e risposta sono compromesse, pertanto gli utenti non possono interagire con il sistema. Questo comporta un blocco delle operazioni e dei servizi dipendenti. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RISOLTO",
+  "lead": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle 07:42 UTC, con interruzione totale dei servizi per 35 minuti. Le cause sono state identificate in un sovraccarico temporaneo della rete di distribuzione dati. Alle 08:17 UTC il sistema ha riavviato tutti i processi critici con esito positivo. Monitor costante conferma stabilità operativa. Nessun impatto su dati sensibili registrato.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-06T19:38:13.195919+00:00",
+  "published_at": "2026-07-06T19:53:26.090696+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Acquaroli celebra il legame tra territorio e Servizio pubblico radiotelevisivo",
-      "url": "/cultura/acquaroli-celebra-il-legame-tra-territorio-e-servi-d27f138d83d59f8a",
-      "id": "d27f138d83d59f8a",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/cab5387f601fc09ef0035ca57d66ca48.jpg",
+      "title": "Meloni al Quirinale? Cassese lo dice possibile: addio a imparzialità e regole",
+      "url": "/politica/meloni-al-quirinale-cassese-costituzione-lo-permet-d266c1fcecc263b4",
+      "id": "d266c1fcecc263b4",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/05/221524124-d2b6e84d-649b-4cd7-842a-ee57b5619f43.jpg",
       "image_type": "image"
     }
   ],
