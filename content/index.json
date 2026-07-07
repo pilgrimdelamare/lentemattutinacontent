@@ -1,5 +1,23 @@
 [
   {
+    "id": "d7a18d9c224d6c07",
+    "slug": "aumento-del-prezzo-della-benzina-e-gasolio-d7a18d9c224d6c07",
+    "title": "Aumento del prezzo della benzina e gasolio",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-07-07T07:42:00.024043+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/13/8c83611eb1181caa50cc0bf14ba43b6c.jpg",
+    "occhiello": "AUMENTO DEL PREZZO DELLA BENZINA E GASOLIO",
+    "lead_preview": "Roma, 7 luglio. I prezzi dei carburanti continuano a salire: la benzina self raggiunge 1,852 euro al litro, mentre il ga",
+    "tags": [
+      "prezzo benzina",
+      "carburanti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "17beedc0f0ce95d8",
     "slug": "tennis-sinner-e-cobolli-ai-quarti-di-wimbledon-sto-17beedc0f0ce95d8",
     "title": "Tennis: Sinner e Cobolli ai quarti di Wimbledon, storica striscia azzurra",
@@ -8414,21 +8432,6 @@
       "fellini museum",
       "mostra invisibili"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "03a8e6d11fc36169",
-    "slug": "inail-un-avanzo-di-17-miliardi-mentre-il-lavoro-so-03a8e6d11fc36169",
-    "title": "Inail, un avanzo di 1,7 miliardi mentre il lavoro soffre",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-01T12:21:59.514352+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2020/12/16/3972f4c400bea3b07a7e0432f3bba1eb.jpg",
-    "occhiello": "Inail, UN AVANZO DI 1,7 MILIARDI MENTRE IL LAVORO SOFFRE",
-    "lead_preview": "Roma, 1 luglio 2026. L’istituto Nazionale per l’Assicurazione contro gli infortuni sul lavoro ha chiuso l’esercizio 2025",
-    "tags": [],
     "hero_eligible": true
   }
 ]
