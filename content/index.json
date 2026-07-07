@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260707",
+    "slug": "libro-del-giorno-giochi-ruolodi-tommaso-giovanni-palaia-20260707",
+    "title": "Stefano Boni svela come i giochi di ruolo sono passati dal teatro al fantasy",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-07T07:01:41.331711+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/1705140012ttlzt-817aa.jpg?1775788487",
+    "occhiello": "SAGGIO D'APERTURA SENZA CORPI PESANTI",
+    "lead_preview": "Roma, 7 luglio. Un saggio di Stefano Boni svela come i giochi di ruolo siano passati dal teatro psicologico degli anni S",
+    "tags": [
+      "giochi di ruolo",
+      "stefano boni",
+      "saggio fantasy"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c48473c9fe54f58b",
     "slug": "petrolio-in-rialzo-brent-a-7285-dollari-c48473c9fe54f58b",
     "title": "Prezzo petrolio in aumento: Brent a 72,85 dollari",
@@ -1039,25 +1058,6 @@
     "lead_preview": "Udine, 6 luglio L’Udinese Calcio ha aperto ufficialmente la stagione 2026-27 con una mossa in controtendenza: la conferm",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260707",
-    "slug": "libro-del-giorno-giochi-ruolodi-tommaso-giovanni-palaia-20260707",
-    "title": "Il libro del giorno: «Giochi»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un saggio divulgativo sull'evoluzione dei giochi di ruolo, dal teatro psicologico al fantasy narrativo",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-07T07:01:41.331711+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/1705140012ttlzt-817aa.jpg?1775788487",
-      "alt": "Copertina: Giochi",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/1705140012ttlzt-817aa.jpg?1775788487",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "a7fcd08a0f339249",
