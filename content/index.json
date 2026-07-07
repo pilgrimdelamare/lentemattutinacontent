@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 7 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-07T05:45:29.264112+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/1f1d477f25261f6cd443c3b17c48e4f5d18f1881/skytg24/it/cronaca/2026/07/07/prime-pagine-quotidiani-oggi-7-luglio/rassegnastampa7luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE, 7 LUGLIO 2026",
+    "lead_preview": "I giornali italiani oggi convergono su due temi principali: le tensioni tra la premier italiana Meloni e il presidente s",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e2e13ad4ae2cfe7e",
     "slug": "panama-sfida-usa-e-cina-mulino-si-allea-con-il-gia-e2e13ad4ae2cfe7e",
     "title": "Panama sfida USA e Cina: Mulino si allea con il Giappone per il commercio asiatico",
@@ -1217,25 +1236,6 @@
     "lead_preview": "Brasilia, 5 luglio.",
     "tags": [
       "caso bolsonaro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 6 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-06T05:46:05.006117+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/ebb49edba8f881da6a404a33554e3d2fe4e44c28/skytg24/it/cronaca/2026/07/06/prime-pagine-quotidiani-oggi-6-luglio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 6 LUGLIO 2026",
-    "lead_preview": "La tensione tra Stati Uniti, Russia e Polonia domina la prima pagina dei principali quotidiani italiani. *La Repubblica*",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
