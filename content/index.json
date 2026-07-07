@@ -1,5 +1,24 @@
 [
   {
+    "id": "235b5af8a2f3baf9",
+    "slug": "tennis-cobolli-e-paolini-fuori-da-wimbledon-al-pri-235b5af8a2f3baf9",
+    "title": "Tennis: Cobolli e Paolini eliminati al primo turno di Wimbledon",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-07-06T14:18:08.932317+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/fe451ef9fc1c88fd494cba8b4b58c70b.jpg",
+    "occhiello": "COBOLLI E PAOLINI FUORI DAL GIOCO DI WIMBLEDON",
+    "lead_preview": "Londra, 6 luglio 2026 Flavio Cobolli e Jasmine Paolini sono fuori dal torneo di Wimbledon 2026 già al primo turno. Cobol",
+    "tags": [
+      "wimbledon 2026",
+      "cobolli",
+      "paolini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8c858346efc88d58",
     "slug": "messico-82-sulle-auto-nuove-754mila-nel-primo-seme-8c858346efc88d58",
     "title": "Messico, +8,2% sulle auto nuove: 754mila nel primo semestre, il record batte ogni previsione",
@@ -901,23 +920,6 @@
       "guerra ucraina",
       "putin",
       "nato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "235b5af8a2f3baf9",
-    "slug": "tennis-cobolli-e-paolini-fuori-da-wimbledon-al-pri-235b5af8a2f3baf9",
-    "title": "Tennis: Cobolli e Paolini fuori da Wimbledon al primo turno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-06T14:18:08.932317+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/fe451ef9fc1c88fd494cba8b4b58c70b.jpg",
-    "occhiello": "COBOLLI E PAOLINI FUORI DAL GIOCO DI WIMBLEDON",
-    "lead_preview": "Londra, 6 luglio 2026 Flavio Cobolli e Jasmine Paolini sono fuori dal torneo di Wimbledon 2026 già al primo turno. Cobol",
-    "tags": [
-      "wimbledon 2026"
     ],
     "hero_eligible": true
   },
