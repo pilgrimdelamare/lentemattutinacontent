@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude riprende operazioni dopo 35 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-06T19:53:26.090696+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SISTEMA RISOLTO",
+    "lead_preview": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+    "tags": [
+      "claude down",
+      "disservizio claude"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2db2b5b06b91a230",
     "slug": "f1-sainz-penalizzato-per-cambio-gomme-irregolare-2db2b5b06b91a230",
     "title": "F1: Sainz penalizzato per cambio gomme irregolare",
@@ -714,25 +732,6 @@
       "romics d'oro 2026",
       "lupin the third",
       "takeshi koike"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude torna operativo dopo blackout: 35 minuti di panico, ora tutto funziona",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-07-06T19:53:26.090696+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SISTEMA RISOLTO",
-    "lead_preview": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
-    "tags": [
-      "blackout claude",
-      "disagi sistema",
-      "guasto tecnico"
     ],
     "hero_eligible": true
   },
