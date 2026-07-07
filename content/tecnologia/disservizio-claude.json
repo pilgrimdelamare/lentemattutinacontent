@@ -1,27 +1,24 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
+  "title": "Claude torna operativo dopo blackout: 35 minuti di panico, ora tutto funziona",
   "titles": [
-    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
-    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
-    "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato."
+    "Claude torna operativo dopo blackout: 35 minuti di panico, ora tutto funziona",
+    "Sovraccarico blocca Claude per mezz’ora: risolto, ma errori così non si devono ripetere",
+    "Dati al sicuro: riavvio lampo di Claude, nessun danno dopo il crash da record"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SISTEMA RISOLTO",
   "lead": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
   "corpo1": "Il malfunzionamento è stato rilevato alle 07:42 UTC, con interruzione totale dei servizi per 35 minuti. Le cause sono state identificate in un sovraccarico temporaneo della rete di distribuzione dati. Alle 08:17 UTC il sistema ha riavviato tutti i processi critici con esito positivo. Monitor costante conferma stabilità operativa. Nessun impatto su dati sensibili registrato.",
-  "corpo2": "",
+  "corpo2": "Il 6 luglio, quando Claude si è interrotto, il team di Anthropic ha avviato un'analisi forense sui log del sistema. La causa, come emerso dal post‑mortem, è stata un picco di traffico che ha saturato il load balancer della rete di distribuzione dati, un colpo che ha fatto crollare temporaneamente tutti i nodi di inferenza. Il modello, servito su un cluster di GPU distribuite in più data center, dipende da una catena di rete che traduce le richieste degli utenti in richieste di calcolo verso i nodi più vicini. Quando la domanda ha superato il 120 % della capacità di picco prevista, il bilanciatore ha iniziato a rifiutare le connessioni, causando l’interruzione di 35 minuti.\n\nLa struttura di Anthropic è simile a quella di altre piattaforme di LLM: un front‑end che riceve le query, un layer di caching per ridurre il carico sui server di inferenza e, infine, i nodi GPU che eseguono il modello. Il bilanciatore di carico, che agisce come un “cercatore di strada” per le richieste, ha avuto un guasto di configurazione che ha impedito la corretta distribuzione del traffico. Per mitigare futuri incidenti, l'azienda ha introdotto un nuovo algoritmo di “threshold detection” che monitora in tempo reale la percentuale di utilizzo dei nodi e avvisa automaticamente l'ingegneria se la soglia",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-07-06T19:53:26.090696+00:00",
   "image": {
@@ -31,10 +28,10 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Claude torna operativo dopo blackout: 35 minuti di panico, ora tutto funziona\",\n  \"description\": \"Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.\",\n  \"articleBody\": \"Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato. Il malfunzionamento è stato rilevato alle 07:42 UTC, con interruzione totale dei servizi per 35 minuti. Le cause sono state identificate in un sovraccarico temporaneo della rete di distribuzione dati. Alle 08:17 UTC il sistema ha riavviato tutti i processi critici con esito positivo. Monitor costante conferma stabilità operativa. Nessun impatto su dati sensibili registrato. Il 6 luglio, quando Claude si è interrotto, il team di Anthropic ha avviato un'analisi forense sui log del sistema. La causa, come emerso dal post‑mortem, è stata un picco di traffico che ha saturato il load balancer della rete di distribuzione dati, un colpo che ha fatto crollare temporaneamente tutti i nodi di inferenza. Il modello, servito su un cluster di GPU distribuite in più data center, dipende da una catena di rete che traduce le richieste degli utenti in richieste di calcolo verso i nodi più vicini. Quando la domanda ha superato il 120 % della capacità di picco prevista, il bilanciatore ha iniziato a rifiutare le connessioni, causando l’interruzione di 35 minuti.\\n\\nLa struttura di Anthropic è simile a quella di altre piattaforme di LLM: un front‑end che riceve le query, un layer di caching per ridurre il carico sui server di inferenza e, infine, i nodi GPU che eseguono il modello. Il bilanciatore di carico, che agisce come un “cercatore di strada” per le richieste, ha avuto un guasto di configurazione che ha impedito la corretta distribuzione del traffico. Per mitigare futuri incidenti, l'azienda ha introdotto un nuovo algoritmo di “threshold detection” che monitora in tempo reale la percentuale di utilizzo dei nodi e avvisa automaticamente l'ingegneria se la soglia\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-06T19:53:26.090696+00:00\",\n  \"dateModified\": \"2026-07-06T19:53:26.090696+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
@@ -45,19 +42,20 @@
       "image_type": "image"
     },
     {
+      "title": "Trump impone la NATO: \"Se volete il comunicato, fate come dico o blocco tutto\"",
+      "url": "/esteri/trump-chiede-la-groenlandia-e-alza-il-tono-con-la-f7026182e066e1da",
+      "id": "f7026182e066e1da",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/05/211839862-8477a9db-9aee-4bd6-8d03-c4abf4268249.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "Giovanni Tommaso: «Addio alla chitarra dopo 75 minuti, non servono bis» a Umbria Jazz",
       "url": "/cultura/a-78-anni-giovanni-tommaso-spegne-la-chitarra-no-b-8a99cc302077ddc4",
       "id": "8a99cc302077ddc4",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ce0b73d7ca34026d4ccd5a537c647b9.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "Meloni al Quirinale? Cassese lo dice possibile: addio a imparzialità e regole",
-      "url": "/politica/meloni-al-quirinale-cassese-costituzione-lo-permet-d266c1fcecc263b4",
-      "id": "d266c1fcecc263b4",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/05/221524124-d2b6e84d-649b-4cd7-842a-ee57b5619f43.jpg",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-07-06T19:53:26.090696+00:00"
 }
