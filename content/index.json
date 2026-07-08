@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260708",
+    "slug": "libro-del-giorno-linaffondabile-samdi-loricangi-20260708",
+    "title": "Il libro del giorno: «L’inaffondabile Samdi Loricangi»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un albo illustrato che racconta le avventure di un coraggioso gatto durante la Seconda Guerra Mondiale",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-08T07:01:53.187220+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/71uyrdhehkl__sl1500_-4ddc9.jpg?1775670516",
+      "alt": "Copertina: L’inaffondabile Samdi Loricangi",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/71uyrdhehkl__sl1500_-4ddc9.jpg?1775670516",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "76b0955a3d904b32",
     "slug": "btp-italiano-a-381-spread-con-bund-tocca-79-punti-76b0955a3d904b32",
     "title": "BTP italiano a 3,81%: spread con Bund tocca 79 punti base",
@@ -8499,21 +8518,6 @@
     "tags": [
       "mondiali calcio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a319429cd0b5ed11",
-    "slug": "figc-simonelli-e-calcagno-nuovi-vicepresidenti-fed-a319429cd0b5ed11",
-    "title": "La figc ridefinisce gli assetti di vertice con due nomine",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-01T15:15:42.263772+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/25/f8277ec7bffc90d45a5f15454d777b12.jpg",
-    "occhiello": "LA FIGC RIDEFINISCE GLI ASSETTI DI VERTICE CON DUE NOMINE",
-    "lead_preview": "Roma, 1 luglio 2026. La Federazione Italiana Giuoco Calcio ha ufficializzato la nomina dei nuovi vicepresidenti federali",
-    "tags": [],
     "hero_eligible": true
   }
 ]
