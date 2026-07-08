@@ -1,5 +1,24 @@
 [
   {
+    "id": "f614bd88f9dba052",
+    "slug": "venezuela-chiede-aiuto-a-cile-peru-e-giappone-23-m-f614bd88f9dba052",
+    "title": "Venezuela chiede soccorso: 2,3 miliardi di dollari in danni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-08T08:03:37.971070+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/7/6773fff4cd46f567f556e6946591d3ff.jpg",
+    "occhiello": "VENEZUELA CHIEDE AIUTO A TOKYO",
+    "lead_preview": "Caracas, 8 luglio 2026. Il governo del Venezuela ha ufficialmente incaricato una delegazione di esperti cileni, peruvian",
+    "tags": [
+      "venezuela aiuti",
+      "danni venezuela",
+      "ricostruzione venezuela"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "59d2c87c3999642b",
     "slug": "calcio-la-doppietta-di-thuram-che-la-francia-non-d-59d2c87c3999642b",
     "title": "Calcio: Thuram decide con doppietta in 22’ e Francia vola in finale",
@@ -810,25 +829,6 @@
       "calciomercato milan",
       "interesse roma gila",
       "lazio resiste gila"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f614bd88f9dba052",
-    "slug": "venezuela-chiede-aiuto-a-cile-peru-e-giappone-23-m-f614bd88f9dba052",
-    "title": "Venezuela chiede aiuto a Cile, Perù e Giappone: 2,3 miliardi di danni da alluvioni",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-07-08T08:03:37.971070+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/7/6773fff4cd46f567f556e6946591d3ff.jpg",
-    "occhiello": "VENEZUELA CHIEDE AIUTO A TOKYO",
-    "lead_preview": "Caracas, 8 luglio 2026. Il governo del Venezuela ha ufficialmente incaricato una delegazione di esperti cileni, peruvian",
-    "tags": [
-      "alluvioni venezuela",
-      "aiuto internazionale venezuela",
-      "danni alluvioni venezuela"
     ],
     "hero_eligible": true
   },
