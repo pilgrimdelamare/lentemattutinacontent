@@ -1,5 +1,23 @@
 [
   {
+    "id": "8413843d85fe30d7",
+    "slug": "duran-duran-10mila-biglietti-venduti-in-un-giorno-8413843d85fe30d7",
+    "title": "Duran Duran, 10mila biglietti venduti in un giorno",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-08T12:16:17.465555+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/da041b805c8da6a5b7a800e0431b9f74.jpg",
+    "occhiello": "10MILA TRA GLI SCALINI DELLA REGGIA",
+    "lead_preview": "10MILA TRA GLI SCALINI DELLA REGGIA Caserta, 8 luglio — Diecimila biglietti venduti in ventiquattr’ore, coda di duecento",
+    "tags": [
+      "concerto duran duran",
+      "caserta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2db2b5b06b91a230",
     "slug": "f1-sainz-penalizzato-per-cambio-gomme-irregolare-2db2b5b06b91a230",
     "title": "F1: Sainz penalizzato per ingresso non regolare a Silverstone, Williams ricorre",
@@ -8526,21 +8544,6 @@
     "image_url": "https://sport.sky.it/assets/images/b3c749f5dfce407baeb25d6aa3552d96641e14cf/skysport/it/tennis/video/2026/07/01/1108989_1782932326281_thumb_494.0000001_1782933155563.jpg",
     "occhiello": "LA SCONFITTA DI ANDREEVA A WIMBLEDON TRA TECNICA E IMPREVISTI",
     "lead_preview": "Londra, 1 luglio 2026. Mirra Andreeva ha concluso la propria corsa al secondo turno del torneo di Wimbledon, sconfitta d",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "334ef20838dc0c34",
-    "slug": "tennis-sinner-si-schernisce-al-golf-e-ammette-la-s-334ef20838dc0c34",
-    "title": "Sinner scherza sul golf mentre wimbledon entra nel vivo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-01T23:52:04.906844+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d2fcfcfb065cfbefa63d4235e7a253890bf9989b/skysport/it/tennis/video/2026/07/01/1108952_1782921254926_thumb_494.0000001_1782921985728.jpg",
-    "occhiello": "SINNER SCHERZA SUL GOLF MENTRE WIMBLEDON ENTRA NEL VIVO",
-    "lead_preview": "Londra, 1 luglio 2026. Jannik Sinner ha commentato con ironia le proprie abilità golfistiche durante il torneo di Wimble",
     "tags": [],
     "hero_eligible": true
   }
