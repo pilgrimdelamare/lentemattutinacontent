@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 8 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-08T05:46:27.302981+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/020a52198b349ce73460f1d6b7f3c6a1061e9228/skytg24/it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 8 LUGLIO 2026 NATO E TRUMP",
+    "lead_preview": "I quotidiani nazionali dedicano l’apertura al vertice Nato di Ankara e alle dichiarazioni di Donald Trump, che critica g",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "17beedc0f0ce95d8",
     "slug": "tennis-sinner-e-cobolli-ai-quarti-di-wimbledon-sto-17beedc0f0ce95d8",
     "title": "Tennis: Sinner e Cobolli ai quarti a Wimbledon, l’Italia vola nei quarti di 7 Slam di fila",
@@ -1257,25 +1276,6 @@
     "tags": [
       "leone d'oro venezia",
       "george clooney"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 7 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-07T05:45:29.264112+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/1f1d477f25261f6cd443c3b17c48e4f5d18f1881/skytg24/it/cronaca/2026/07/07/prime-pagine-quotidiani-oggi-7-luglio/rassegnastampa7luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE, 7 LUGLIO 2026",
-    "lead_preview": "I giornali italiani oggi convergono su due temi principali: le tensioni tra la premier italiana Meloni e il presidente s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
