@@ -1,5 +1,23 @@
 [
   {
+    "id": "6a7bba1807ae8663",
+    "slug": "nordio-ignora-le-promesse-60000-detenuti-vivono-in-6a7bba1807ae8663",
+    "title": "Nordio promette riforma carceraria",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-07-07T16:08:16.049394+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/7/95566c099768e275894ca513387d62b9.jpg",
+    "occhiello": "NORDIO DIMENTICA LE PROMESSE",
+    "lead_preview": "Roma, 7 luglio — Una cella di due metri per tre, montata in meno di un’ora davanti a Montecitorio, con tanto di materass",
+    "tags": [
+      "riforma carceraria",
+      "nordio promette riforma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d7a18d9c224d6c07",
     "slug": "aumento-del-prezzo-della-benzina-e-gasolio-d7a18d9c224d6c07",
     "title": "Benzina a 1,85 e gasolio a 1,94: il record che affama gli italiani al volante",
@@ -770,24 +788,6 @@
     "tags": [
       "f1 sainz penalizzato",
       "silverstone f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6a7bba1807ae8663",
-    "slug": "nordio-ignora-le-promesse-60000-detenuti-vivono-in-6a7bba1807ae8663",
-    "title": "Nordio ignora le promesse: 60.000 detenuti vivono in celle da due metri per tre",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-07-07T16:08:16.049394+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/7/95566c099768e275894ca513387d62b9.jpg",
-    "occhiello": "NORDIO DIMENTICA LE PROMESSE",
-    "lead_preview": "Roma, 7 luglio — Una cella di due metri per tre, montata in meno di un’ora davanti a Montecitorio, con tanto di materass",
-    "tags": [
-      "carceri italiane",
-      "sovrappopolazione carceri"
     ],
     "hero_eligible": true
   },
