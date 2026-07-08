@@ -1,5 +1,24 @@
 [
   {
+    "id": "2db2b5b06b91a230",
+    "slug": "f1-sainz-penalizzato-per-cambio-gomme-irregolare-2db2b5b06b91a230",
+    "title": "F1: Sainz penalizzato per ingresso non regolare a Silverstone, Williams ricorre",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-07-07T16:10:26.430223+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f251847076cdc7d4c8a5e6137b1415bc7008028d/skysport/it/motori/formula-1/2026/07/07/f1-sainz-penalita-gp-silverstone/ansa_sainz_silverstone_f1.jpg",
+    "occhiello": "PENALITÀ DA UN GIRO PER UNA STRADA A SILVERSTONE",
+    "lead_preview": "Silverstone, 7 luglio",
+    "tags": [
+      "penalità sainz",
+      "silverstone 2024",
+      "ricorso williams"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "98508f7f26bb0d31",
     "slug": "sky-sport-documentario-su-giampiero-boniperti-98508f7f26bb0d31",
     "title": "Sky presentà un documentario su Boniperti: la Juventus nel segno di un simbolo",
@@ -1057,24 +1076,6 @@
     "tags": [
       "claude down",
       "disservizio claude"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2db2b5b06b91a230",
-    "slug": "f1-sainz-penalizzato-per-cambio-gomme-irregolare-2db2b5b06b91a230",
-    "title": "F1: Sainz penalizzato per cambio gomme irregolare",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-07T16:10:26.430223+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f251847076cdc7d4c8a5e6137b1415bc7008028d/skysport/it/motori/formula-1/2026/07/07/f1-sainz-penalita-gp-silverstone/ansa_sainz_silverstone_f1.jpg",
-    "occhiello": "PENALITÀ DA UN GIRO PER UNA STRADA A SILVERSTONE",
-    "lead_preview": "Silverstone, 7 luglio",
-    "tags": [
-      "f1 sainz penalizzato",
-      "silverstone f1"
     ],
     "hero_eligible": true
   },
