@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 7 luglio 2026",
+  "title": "Le prime pagine di oggi, mercoledì 8 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 7 luglio 2026",
-    "Le prime pagine di oggi, martedì 7 luglio 2026",
-    "Le prime pagine di oggi, martedì 7 luglio 2026"
+    "Le prime pagine di oggi, mercoledì 8 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 8 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 8 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE, 7 LUGLIO 2026",
-  "lead": "I giornali italiani oggi convergono su due temi principali: le tensioni tra la premier italiana Meloni e il presidente statunitense Trump, e lo scandalo relativo alla squalifica di un giocatore americano durante i Mondiali di calcio. Entrambi gli argomenti sono trattati da più giornali, con diverse angolazioni.",
-  "corpo1": "Il Sole 24 Ore in apertura parla di \"Effetto Pnrr, ora la Pa paga le fatture con 16,1 giorni di anticipo medio\". La Repubblica titola \"Gelo tra Meloni e Trump\", con un focus sul comportamento della premier italiana verso gli attacchi del presidente Usa. Il Corriere della Sera apre con \"Vertice Nato, il gelo di Meloni verso Trump\", includendo analisi sulle reazioni di Meloni e il contesto internazionale. La Stampa titola \"Trump, mani sui mondiali\", riferendosi all'intervento del presidente Usa per far togliere la squalifica a un giocatore americano. Il Fatto Quotidiano in apertura scrive \"Nato per sfasciare tutto\", riferendosi alle azioni di Trump e al loro impatto sulle relazioni internazionali e sul calcio.",
-  "corpo2": "Altri titoli di rilievo includono: \"Il Mondiale preso a calci: lo scandalo del rosso cancellato\" (La Gazzetta dello Sport), \"Spagna in festa, CR7 in lacrime\" (La Gazzetta dello Sport), e \"Fincantieri, poker di M&A per il polo della subacquea\" (Il Sole 24 Ore). Il tema dominante della giornata è il rapporto teso tra Meloni e Trump e lo scandalo nel calcio.",
+  "occhiello": "LE PRIME PAGINE 8 LUGLIO 2026 NATO E TRUMP",
+  "lead": "I quotidiani nazionali dedicano l’apertura al vertice Nato di Ankara e alle dichiarazioni di Donald Trump, che critica gli alleati europei e annuncia attacchi all’Iran. *Il Messaggero* e *La Repubblica* si soffermano sulla reazione della premier Meloni. *Il Fatto Quotidiano* e *Libero* titolano invece sulla candidatura di Marine Le Pen alle presidenziali francesi, mentre *la Gazzetta dello Sport* e *Corriere dello Sport* aprono sul trionfo di Messi ai Mondiali. *Il Tempo* e *Il Giornale* segnalano anche l’arresto di due ex 007 per spionaggio.",
+  "corpo1": "Il Messaggero titola su Donald Trump che “scuote il vertice della Nato” e accusa Berlino, Londra e Parigi di essersi “sfilate”. La Repubblica stampa le parole di Trump contro Meloni: “Sbaglia” e “non ci aiuta”, ma sottolinea un rapporto “cordiale”. Il Fatto Quotidiano apre su Marine Le Pen che annuncia la candidatura all’Eliseo nonostante la condanna a tre anni, mentre Libero dedica spazio all’arresto di due ex 007 arrestati a Roma per spionaggio a favore della Russia. La Gazzetta dello Sport celebra in prima pagina “Estasi Messi”, protagonista della rimonta dell’Argentina ai Mondiali. Corriere dello Sport fa lo stesso con la prestazione del capitano dell’Albiceleste, decisivo nella vittoria ai quarti.",
+  "corpo2": "Il Tempo e Il Giornale segnalano anche la morte dell’attentatrice di Monaco in Ucraina e l’uccisione di un attentatore a Roma. Il Corriere della Sera, invece, dedica una pagina all’intervista al presidente del Ppe, che commenta le tensioni tra alleati. Il tema dominante della giornata resta l’instabilità geopolitica e i colpi di scena sportivi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-07T05:45:29.264112+00:00",
+  "published_at": "2026-07-08T05:46:27.302981+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/1f1d477f25261f6cd443c3b17c48e4f5d18f1881/skytg24/it/cronaca/2026/07/07/prime-pagine-quotidiani-oggi-7-luglio/rassegnastampa7luglio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/020a52198b349ce73460f1d6b7f3c6a1061e9228/skytg24/it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio/collage_1.png?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/07/prime-pagine-quotidiani-oggi-7-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 7 luglio 2026",
+      "title": "Oroscopo di oggi, mercoledì 8 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
