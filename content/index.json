@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260708",
+    "slug": "libro-del-giorno-linaffondabile-samdi-loricangi-20260708",
+    "title": "Karl e il suo gatto coraggioso: così un micio diventa simbolo di Speranza nella Berlino in Guerra",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-08T07:01:53.187220+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/71uyrdhehkl__sl1500_-4ddc9.jpg?1775670516",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un albo illustrato che racconta le avventure di un coraggioso gatto durante la Seconda Guerra Mondiale",
+    "tags": [
+      "libro seconda guerra mondiale",
+      "berlino in guerra",
+      "simbolo speranza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "76b0955a3d904b32",
     "slug": "btp-italiano-a-381-spread-con-bund-tocca-79-punti-76b0955a3d904b32",
     "title": "BTP al 3,81% e spread a 79 punti: l’Italia paga più caro il debito",
@@ -876,25 +895,6 @@
     "lead_preview": "Roma, 7 luglio 2026. Takeshi Koike, il regista dietro la celebre saga di Lupin the IIIrd, riceve il Romics d'oro alla ra",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260708",
-    "slug": "libro-del-giorno-linaffondabile-samdi-loricangi-20260708",
-    "title": "Il libro del giorno: «L’inaffondabile Samdi Loricangi»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un albo illustrato che racconta le avventure di un coraggioso gatto durante la Seconda Guerra Mondiale",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-08T07:01:53.187220+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/71uyrdhehkl__sl1500_-4ddc9.jpg?1775670516",
-      "alt": "Copertina: L’inaffondabile Samdi Loricangi",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L200xH312/71uyrdhehkl__sl1500_-4ddc9.jpg?1775670516",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "37bc1b3298b6fda9",
