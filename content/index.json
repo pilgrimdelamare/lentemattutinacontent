@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 9 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-09T05:53:32.873929+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/c2cd7d5117d5f6fb1bc1ca5c8d6369e689036a71/skytg24/it/cronaca/2026/07/09/prime-pagine-quotidiani-oggi-9-luglio/Composite_9_luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 9 LUGLIO",
+    "lead_preview": "I giornali italiani convergono sulla situazione internazionale, in particolare sull'Iran e sugli Stati Uniti. Il Corrier",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0035fd13d3b2ae87",
     "slug": "trump-attacca-oltre-80-siti-in-iran-in-risposta-ag-0035fd13d3b2ae87",
     "title": "Trump alza il tiro contro teheran",
@@ -1120,25 +1139,6 @@
     "tags": [
       "mostra onali",
       "palazzo merulana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 8 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-08T05:46:27.302981+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/020a52198b349ce73460f1d6b7f3c6a1061e9228/skytg24/it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 8 LUGLIO 2026 NATO E TRUMP",
-    "lead_preview": "I quotidiani nazionali dedicano l’apertura al vertice Nato di Ankara e alle dichiarazioni di Donald Trump, che critica g",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
