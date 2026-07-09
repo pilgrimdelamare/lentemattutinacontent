@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 8 luglio 2026",
+  "title": "Le prime pagine di oggi, giovedì 9 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 8 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 8 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 8 luglio 2026"
+    "Le prime pagine di oggi, giovedì 9 luglio 2026",
+    "Le prime pagine di oggi, giovedì 9 luglio 2026",
+    "Le prime pagine di oggi, giovedì 9 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 8 LUGLIO 2026 NATO E TRUMP",
-  "lead": "I quotidiani nazionali dedicano l’apertura al vertice Nato di Ankara e alle dichiarazioni di Donald Trump, che critica gli alleati europei e annuncia attacchi all’Iran. *Il Messaggero* e *La Repubblica* si soffermano sulla reazione della premier Meloni. *Il Fatto Quotidiano* e *Libero* titolano invece sulla candidatura di Marine Le Pen alle presidenziali francesi, mentre *la Gazzetta dello Sport* e *Corriere dello Sport* aprono sul trionfo di Messi ai Mondiali. *Il Tempo* e *Il Giornale* segnalano anche l’arresto di due ex 007 per spionaggio.",
-  "corpo1": "Il Messaggero titola su Donald Trump che “scuote il vertice della Nato” e accusa Berlino, Londra e Parigi di essersi “sfilate”. La Repubblica stampa le parole di Trump contro Meloni: “Sbaglia” e “non ci aiuta”, ma sottolinea un rapporto “cordiale”. Il Fatto Quotidiano apre su Marine Le Pen che annuncia la candidatura all’Eliseo nonostante la condanna a tre anni, mentre Libero dedica spazio all’arresto di due ex 007 arrestati a Roma per spionaggio a favore della Russia. La Gazzetta dello Sport celebra in prima pagina “Estasi Messi”, protagonista della rimonta dell’Argentina ai Mondiali. Corriere dello Sport fa lo stesso con la prestazione del capitano dell’Albiceleste, decisivo nella vittoria ai quarti.",
-  "corpo2": "Il Tempo e Il Giornale segnalano anche la morte dell’attentatrice di Monaco in Ucraina e l’uccisione di un attentatore a Roma. Il Corriere della Sera, invece, dedica una pagina all’intervista al presidente del Ppe, che commenta le tensioni tra alleati. Il tema dominante della giornata resta l’instabilità geopolitica e i colpi di scena sportivi.",
+  "occhiello": "LE PRIME PAGINE DEL 9 LUGLIO",
+  "lead": "I giornali italiani convergono sulla situazione internazionale, in particolare sull'Iran e sugli Stati Uniti. Il Corriere della Sera, La Repubblica e La Stampa titolano su questo tema, mentre la Gazzetta dello Sport si concentra sul calcio.",
+  "corpo1": "Il Corriere della Sera apre con le ultime mosse di Donald Trump, con i nuovi raid in Iran e le armi a Kiev. La Repubblica titola \"Trump, tregua con la Nato ma altre bombe sull'Iran\", mentre La Stampa parla dei nuovi raid di Trump in Iran. Il Messaggero si concentra sulla difesa europea e sulla Nato, con la nascita del blocco militare Ue. La Gazzetta dello Sport celebra il 20esimo anniversario della Coppa del Mondo conquistata dagli Azzurri a Berlino.",
+  "corpo2": "Altri titoli di rilievo includono l'arresto di Mario Adinolfi su La Repubblica e il nuovo allenatore del Milan sulla Gazzetta dello Sport e sul Corriere dello Sport. La situazione internazionale domina la scena dei giornali italiani di oggi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-08T05:46:27.302981+00:00",
+  "published_at": "2026-07-09T05:53:32.873929+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/020a52198b349ce73460f1d6b7f3c6a1061e9228/skytg24/it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/c2cd7d5117d5f6fb1bc1ca5c8d6369e689036a71/skytg24/it/cronaca/2026/07/09/prime-pagine-quotidiani-oggi-9-luglio/Composite_9_luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,14 +35,21 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/08/prime-pagine-quotidiani-oggi-8-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/09/prime-pagine-quotidiani-oggi-9-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 8 luglio 2026",
+      "title": "Oroscopo di oggi, giovedì 9 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "8 luglio 1998: thuram stende la croazia con una doppietta",
+      "url": "/sport/calcio-la-doppietta-di-thuram-che-la-francia-non-d-59d2c87c3999642b",
+      "id": "59d2c87c3999642b",
+      "image_url": "https://sport.sky.it/assets/images/d7e025ca9a93aaba1b30282eddf371afe44d7021/skysport/it/calcio/mondiali/mondiali-calcio-accadde-oggi-8-luglio/thuram_esultanza_getty_1998_francia_croazia.jpg",
+      "image_type": "feed_image"
     },
     {
       "title": "La festa degli esclusi, new york capitale del 4 luglio anti maga",
@@ -50,13 +57,6 @@
       "id": "bdcd1f207cd639af",
       "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/224029713-92a57c16-b19b-45b1-844a-3bc6c4f30839.jpg",
       "image_type": "feed_image"
-    },
-    {
-      "title": "Le pagine di accesso agli articoli diventano un ostacolo",
-      "url": "/esteri/ansa-1699-annui-per-chi-rifiuta-i-cookie-e-legge-1-55af1ff68aaaf058",
-      "id": "55af1ff68aaaf058",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/71214fb6c1720cd3c1abcb7a6943a1c4.jpg",
-      "image_type": "image"
     }
   ],
   "hero_eligible": true
