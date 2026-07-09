@@ -1,5 +1,24 @@
 [
   {
+    "id": "76b0955a3d904b32",
+    "slug": "btp-italiano-a-381-spread-con-bund-tocca-79-punti-76b0955a3d904b32",
+    "title": "BTP al 3,81% e spread a 79: scatta il campanello d’allarme sui mercati",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-07-08T06:56:00.864793+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/819a9871800454e0de70ba0201d003ee.jpg",
+    "occhiello": "Rendimento del BTP decennale italiano al 3,81%",
+    "lead_preview": "Roma, 8 luglio. Il rendimento del BTP decennale italiano sale al 3,81%, mentre lo spread tra BTP e Bund tedesco si attes",
+    "tags": [
+      "btp 3.81%",
+      "spread btp-bund",
+      "mercati finanziari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d8712103907e72d3",
     "slug": "basket-lowry-si-ritira-il-7-finisce-in-museo-d8712103907e72d3",
     "title": "Basket: I Raptors ritirano il numero 7 per Lowry dopo vent’anni di carriera",
@@ -578,25 +597,6 @@
       "libro seconda guerra mondiale",
       "berlino in guerra",
       "simbolo speranza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "76b0955a3d904b32",
-    "slug": "btp-italiano-a-381-spread-con-bund-tocca-79-punti-76b0955a3d904b32",
-    "title": "BTP al 3,81% e spread a 79 punti: l’Italia paga più caro il debito",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-08T06:56:00.864793+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/819a9871800454e0de70ba0201d003ee.jpg",
-    "occhiello": "Rendimento del BTP decennale italiano al 3,81%",
-    "lead_preview": "Roma, 8 luglio. Il rendimento del BTP decennale italiano sale al 3,81%, mentre lo spread tra BTP e Bund tedesco si attes",
-    "tags": [
-      "btp 3.81%",
-      "spread bund 79",
-      "debito pubblico italia"
     ],
     "hero_eligible": true
   },
