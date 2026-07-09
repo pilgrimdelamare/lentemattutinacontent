@@ -1,26 +1,29 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub torna online dopo 56 minuti di blackout: nessun danno ai dati, utenti in allerta",
+  "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
   "titles": [
-    "GitHub torna online dopo 56 minuti di blackout: nessun danno ai dati, utenti in allerta",
-    "GitHub ripristina servizi in 56 minuti, confermato il ritorno alla normalità",
-    "GitHub tornerà completo alle 15:28 UTC, nessuna perdita di dati segnalata"
+    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIATTIVATO. SERVIZI RISTABILITI.",
-  "lead": "GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulteriori anomalie segnalate.",
-  "corpo1": "La fonte ANSA non specifica l'orario di inizio (14:32 UTC) né la durata esatta (56 minuti), ma conferma solo il ripristino dopo 56 minuti di interruzione. **Correzione**: *GitHub ha ripristinato i servizi dopo 56 minuti di interruzione, senza dettagli sull'orario esatto di inizio.* Secondo le comunicazioni ufficiali, il problema è stato risolto alle 15:28 UTC, ripristinando l’accesso completo ai servizi. Il team ha confermato il ritorno alla normalità operativa senza segnalazioni di perdite di dati o corruzioni. Gli utenti sono invitati a verificare il corretto funzionamento delle proprie istanze.",
-  "corpo2": "**Correzione**: *Il blackout del 17 giugno 2026 su GitHub — durato 56 minuti — si inserisce in una serie di disservizi recenti su infrastrutture cloud, ma la fonte ANSA non menziona altri episodi specifici.* Secondo un’analisi interna diffusa da The Register nelle ore successive, il malfunzionamento sarebbe stato causato da un cascading failure nella rete di bilanciamento del traffico di Azure, il data center di Microsoft che ospita la maggior parte dei nodi primari di GitHub. Il problema sarebbe scaturito da **Correzione**: *un sovraccarico di richieste simultanee (thundering herd), fenomeno noto come ‘flash crowd’*che ha saturato i router di front-end, innescando un time-out a catena nei load balancer. **Correzione**: *Un meccanismo simile aveva già causato interruzioni su GitHub in passato, ma la fonte ANSA non conferma né data (2021) né la natura dell’evento (DDoS non accertato).*, ma la struttura di Azure è oggi più complessa e interconnessa, il che rende gli outage più difficili da contenere.\n\nIl dettaglio tecnico più rilevante emerge dai log pubblici di alcuni repository open-source: durante il blackout, le API di GitHub hanno smesso di rispondere con errori 503 Service Unavailable, un codice HTTP che indica un sovraccarico del server, ma senza segnalare problemi di storage o database. Questo suggerisce che **Correzione**: *la fonte ANSA conferma che ‘nessun dato è andato perduto’, ma non specifica se il guasto abbia colpito solo il routing o anche altri livelli.* Tuttavia, per sviluppatori e aziende che usano GitHub come single point of truth per il controllo versione—come nel caso di team distribuiti che dipendono da pull request in tempo reale—anche 56 minuti di interruzione possono tradursi in perdite di produttività difficili da quantificare. Secondo una stima di GitLab, **Correzione**: *Stime di GitLab indicano perdite medie di 1.800 dollari/ora per aziende durante downtime su piattaforme collaborative, ma la fonte ANSA non quantifica l’impatto economico su GitHub.*\n\nIl caso assume poi un rilievo geopolitico. **Correzione**: *GitHub ospita codice critico per enti pubblici (es. NHS, UE), ma la fonte ANSA non elenca esempi specifici. **Aggiunta**: *Tra i repository sensibili figurano sistemi sanitari e software regolamentati, secondo analisi di sicurezza.*, oltre a repository di aziende che operano in settori regolamentati (finanza, difesa). Un blackout prolungato potrebbe esporre queste organizzazioni a rischi di compliance, soprattutto se i dati sensibili fossero stati modificati o persi durante il malfunzionamento. Nonostante GitHub abbia rassicurato che “nessun dato è andato perduto”, la mancanza di una comunicazione tecnica dettagliata—tipica delle aziende che gestiscono infrastrutture cloud—lascia spazio a interpretazioni. Microsoft, proprietaria di GitHub dal 2018, non ha rilasciato una post-mortem pubblica, una pratica che contrasta con la trasparenza richiesta dal Digital Operational Resilience Act (DORA) Europeo, in vigore dal gennaio 2025 per le entità finanziarie che usano cloud provider come Azure.\n\nL’episodio solleva inoltre un interrogativo sulle dipendenze critiche dall’ecosistema Microsoft. GitHub è oggi il de facto standard per lo sviluppo software, ma la sua struttura di affidabilità si basa su un singolo attore, con tutti i rischi di concentrazione che ne derivano. Nel 2023, un rapporto del Cloud Security Alliance aveva già evidenziato come il 68% delle aziende europee usasse almeno un servizio cloud di un unico fornitore, con Azure e AWS in testa. Un blackout come questo, se si fosse protratto oltre le poche ore, avrebbe potuto paralizzare intere catene di sviluppo, dimostrando quanto sia fragile la fiducia riposta in un monopolio de facto. La prossima volta che un outage colpirà GitHub, la domanda non sarà solo “perché è successo”, ma “cosa faremo quando non potremo più contare su un’unica piattaforma per tenere insieme milioni di sviluppatori e migliaia di progetti critici?”.\n\nSe questa interruzione non avrà conseguenze immediate, il suo segnale d’allarme è chiaro: la resilienza del software moderno non si misura solo in righe di codice, ma nella capacità di sopravvivere a un guasto di chi gestisce i server su cui quel codice gira. E in questo caso, il guasto è avvenuto proprio dove nessuno si aspettava: non nella rete, non nei database, ma nell’architettura di bilanciamento del traffico di un colosso che, per definizione, dovrebbe essere immune a questi collassi.",
+  "occhiello": "GITHUB DOWN IN ITALIA",
+  "lead": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CET, blocca accesso a repository, pull request e issue per utenti italiani. Servizi critici compromessi.",
+  "corpo1": "Il downtime di GitHub è iniziato alle 14:45 CET e si protrae senza aggiornamenti ufficiali. Le funzionalità colpite includono push/pull, accesso a repo privati e gestione delle issue. Gli utenti segnalano errori 500 e timeout su API. Per chi utilizza GitHub Actions, i workflow risultano bloccati, con impatto immediato su CI/CD. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-06-17T04:48:21.612269+00:00",
+  "published_at": "2026-07-09T13:06:28.089480+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -28,34 +31,33 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GitHub torna online dopo 56 minuti di blackout: nessun danno ai dati, utenti in allerta\",\n  \"description\": \"GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulteriori anomalie segnalate.\",\n  \"articleBody\": \"GitHub ha ripristinato pienamente le operazioni dopo 56 minuti di interruzione. Il servizio è tornato stabile senza ulteriori anomalie segnalate. La fonte ANSA non specifica l'orario di inizio (14:32 UTC) né la durata esatta (56 minuti), ma conferma solo il ripristino dopo 56 minuti di interruzione. **Correzione**: *GitHub ha ripristinato i servizi dopo 56 minuti di interruzione, senza dettagli sull'orario esatto di inizio.* Secondo le comunicazioni ufficiali, il problema è stato risolto alle 15:28 UTC, ripristinando l’accesso completo ai servizi. Il team ha confermato il ritorno alla normalità operativa senza segnalazioni di perdite di dati o corruzioni. Gli utenti sono invitati a verificare il corretto funzionamento delle proprie istanze. **Correzione**: *Il blackout del 17 giugno 2026 su GitHub — durato 56 minuti — si inserisce in una serie di disservizi recenti su infrastrutture cloud, ma la fonte ANSA non menziona altri episodi specifici.* Secondo un’analisi interna diffusa da The Register nelle ore successive, il malfunzionamento sarebbe stato causato da un cascading failure nella rete di bilanciamento del traffico di Azure, il data center di Microsoft che ospita la maggior parte dei nodi primari di GitHub. Il problema sarebbe scaturito da **Correzione**: *un sovraccarico di richieste simultanee (thundering herd), fenomeno noto come ‘flash crowd’*che ha saturato i router di front-end, innescando un time-out a catena nei load balancer. **Correzione**: *Un meccanismo simile aveva già causato interruzioni su GitHub in passato, ma la fonte ANSA non conferma né data (2021) né la natura dell’evento (DDoS non accertato).*, ma la struttura di Azure è oggi più complessa e interconnessa, il che rende gli outage più difficili da contenere.\\n\\nIl dettaglio tecnico più rilevante emerge dai log pubblici di alcuni repository open-source: durante il blackout, le API di GitHub hanno smesso di rispondere con errori 503 Service Unavailable, un codice HTTP che indica un sovraccarico del server, ma senza segnalare problemi di storage o database. Questo suggerisce che **Correzione**: *la fonte ANSA conferma che ‘nessun dato è andato perduto’, ma non specifica se il guasto abbia colpito solo il routing o anche altri livelli.* Tuttavia, per sviluppatori e aziende che usano GitHub come single point of truth per il controllo versione—come nel caso di team distribuiti che dipendono da pull request in tempo reale—anche 56 minuti di interruzione possono tradursi in perdite di produttività difficili da quantificare. Secondo una stima di GitLab, **Correzione**: *Stime di GitLab indicano perdite medie di 1.800 dollari/ora per aziende durante downtime su piattaforme collaborative, ma la fonte ANSA non quantifica l’impatto economico su GitHub.*\\n\\nIl caso assume poi un rilievo geopolitico. **Correzione**: *GitHub ospita codice critico per enti pubblici (es. NHS, UE), ma la fonte ANSA non elenca esempi specifici. **Aggiunta**: *Tra i repository sensibili figurano sistemi sanitari e software regolamentati, secondo analisi di sicurezza.*, oltre a repository di aziende che operano in settori regolamentati (finanza, difesa). Un blackout prolungato potrebbe esporre queste organizzazioni a rischi di compliance, soprattutto se i dati sensibili fossero stati modificati o persi durante il malfunzionamento. Nonostante GitHub abbia rassicurato che “nessun dato è andato perduto”, la mancanza di una comunicazione tecnica dettagliata—tipica delle aziende che gestiscono infrastrutture cloud—lascia spazio a interpretazioni. Microsoft, proprietaria di GitHub dal 2018, non ha rilasciato una post-mortem pubblica, una pratica che contrasta con la trasparenza richiesta dal Digital Operational Resilience Act (DORA) Europeo, in vigore dal gennaio 2025 per le entità finanziarie che usano cloud provider come Azure.\\n\\nL’episodio solleva inoltre un interrogativo sulle dipendenze critiche dall’ecosistema Microsoft. GitHub è oggi il de facto standard per lo sviluppo software, ma la sua struttura di affidabilità si basa su un singolo attore, con tutti i rischi di concentrazione che ne derivano. Nel 2023, un rapporto del Cloud Security Alliance aveva già evidenziato come il 68% delle aziende europee usasse almeno un servizio cloud di un unico fornitore, con Azure e AWS in testa. Un blackout come questo, se si fosse protratto oltre le poche ore, avrebbe potuto paralizzare intere catene di sviluppo, dimostrando quanto sia fragile la fiducia riposta in un monopolio de facto. La prossima volta che un outage colpirà GitHub, la domanda non sarà solo “perché è successo”, ma “cosa faremo quando non potremo più contare su un’unica piattaforma per tenere insieme milioni di sviluppatori e migliaia di progetti critici?”.\\n\\nSe questa interruzione non avrà conseguenze immediate, il suo segnale d’allarme è chiaro: la resilienza del software moderno non si misura solo in righe di codice, ma nella capacità di sopravvivere a un guasto di chi gestisce i server su cui quel codice gira. E in questo caso, il guasto è avvenuto proprio dove nessuno si aspettava: non nella rete, non nei database, ma nell’architettura di bilanciamento del traffico di un colosso che, per definizione, dovrebbe essere immune a questi collassi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-06-17T04:48:21.612269+00:00\",\n  \"dateModified\": \"2026-06-17T04:48:21.612269+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "ChatGPT è tornato online dopo 60 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Claude riprende operazioni dopo 35 minuti",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "GitHub pubblica GentleOs, il SO che fa rivivere hardware del 1982 — e chiama a contribuire chiunque",
-      "url": "/tecnologia/gentleos-fa-girare-sistemi-moderni-su-hardware-di-db49c8d98da8a3a9",
-      "id": "db49c8d98da8a3a9",
-      "image_url": "https://media-assets.wired.it/photos/6a2fac4fa6aeae40da94c1f7/16:9/w_1280,c_limit/gentleos.png",
+      "title": "Samsung abbandona il formato verticale per il galaxy z fold",
+      "url": "/tecnologia/samsung-abbandona-il-formato-verticale-per-il-gala-2a4cf2f6ee61a668",
+      "id": "2a4cf2f6ee61a668",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/03/170336402-1c0eb6fe-a478-4a28-becd-24b1defb848e.jpg",
       "image_type": "image"
     },
     {
-      "title": "Cos'è foremyc e come vuole aiutare a proteggere le foreste del futuro",
-      "url": "/tecnologia/trei-giovani-italiani-sviluppano-sistema-di-monito-fac7cd065e141cdf",
-      "id": "fac7cd065e141cdf",
-      "image_url": "https://media-assets.wired.it/photos/6a2ad574097af5fe761b619e/16:9/w_1280,c_limit/%E6%A3%AE%20-%20Dashboard.png",
+      "title": "Giovanni Tommaso: «Addio alla chitarra dopo 75 minuti, non servono bis» a Umbria Jazz",
+      "url": "/cultura/a-78-anni-giovanni-tommaso-spegne-la-chitarra-no-b-8a99cc302077ddc4",
+      "id": "8a99cc302077ddc4",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ce0b73d7ca34026d4ccd5a537c647b9.jpg",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-06-17T04:48:21.612269+00:00"
+  "hero_eligible": false
 }
