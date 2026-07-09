@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+  "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
   "titles": [
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
-    "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C"
+    "GitHub è tornato online dopo 25 minuti di interruzione.",
+    "GitHub è tornato online dopo 25 minuti di interruzione.",
+    "GitHub è tornato online dopo 25 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB DOWN IN ITALIA",
-  "lead": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CET, blocca accesso a repository, pull request e issue per utenti italiani. Servizi critici compromessi.",
-  "corpo1": "Il downtime di GitHub è iniziato alle 14:45 CET e si protrae senza aggiornamenti ufficiali. Le funzionalità colpite includono push/pull, accesso a repo privati e gestione delle issue. Gli utenti segnalano errori 500 e timeout su API. Per chi utilizza GitHub Actions, i workflow risultano bloccati, con impatto immediato su CI/CD. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 25 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 25 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-09T13:06:28.089480+00:00",
+  "published_at": "2026-07-09T13:17:00.879326+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
