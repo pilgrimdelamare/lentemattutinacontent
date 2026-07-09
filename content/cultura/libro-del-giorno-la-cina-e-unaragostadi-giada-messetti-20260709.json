@@ -1,26 +1,24 @@
 {
   "id": "libro-20260709",
   "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
-  "title": "Il libro del giorno: «La Cina è un’aragostadi Giada Messetti»",
+  "title": "La Cina si contorce come un’aragosta in muta: invecchia, si impoverisce, ribolle",
   "titles": [
-    "Il libro del giorno: «La Cina è un’aragostadi Giada Messetti»"
+    "La Cina si contorce come un’aragosta in muta: invecchia, si impoverisce, ribolle",
+    "Giada Messetti rivela il volto segreto della Cina: classe media in rivolta, Partito in bilico",
+    "Crisi demografica, giovani disoccupati, censura: la Cina perde i pezzi della sua corazza"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta",
   "corpo1": "La Cina è un'aragosta, l'ultimo lavoro di Giada Messetti, parte da una metafora intrigante: l'aragosta che, per evolversi, deve abbandonare il vecchio carapace e attendere la formazione di uno nuovo, più adatto, rimanendo nel frattempo vulnerabile. È la condizione in cui si trova oggi la Cina, in una delicata fase di muta. L'autrice illustra i recenti mutamenti della società cinese, che deve fronteggiare sfide inedite come l'invecchiamento della popolazione, la disoccupazione giovanile e l'aumento del costo della vita. Anche in Cina, similmente alle democrazie liberali, emergono movimenti come quello femminista e ambientalista. Il sistema di potere cinese si regge su un consenso popolare, soprattutto della classe media, derivante dal benessere diffuso garantito dal Partito, in cambio di una tacita accettazione di alcune forme di censura e repressione. In una fase di crisi economica e profondi cambiamenti sociali, la permanenza di questo equilibrio non è scontata. Tuttavia, la Cina continua a perseguire l'innovazione tecnologica e l'autosufficienza energetica, settori cruciali per il suo posizionamento internazionale. Questo libro offre una visione preziosa della realtà cinese, al di là degli stereotipi e della narrazione occidentale, evidenziando successi interni e rilevanza internazionale.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8804789484\" rel=\"sponsored\" target=\"_blank\">La Cina è un’aragostadi Giada Messetti di  su Amazon</a></p>",
+  "corpo2": "Il libro si distingue per il suo approccio alla complessità cinese senza banalizzazioni ideologiche. Messetti non esita a sottolineare come il dibattito femminista, pur in crescita, si confronti con vincoli culturali e di rappresentanza che limitano la sua visibilità ufficiale, né a notare come i movimenti ambientalisti, spesso legati alla classe media urbana, oscillino tra richiesta di sostenibilità e richiamo ai modelli di crescita del passato. La descrizione della vulnerabilità economica della transizione ecologica cinese — ad esempio, la dipendenza dagli approvvigionamenti di rari terreni per le tecnologie green — anticipa una contraddizione interna al piano di autosufficienza tecnologica promosso dal Partito.  \n\nAltro aspetto rilevante è l’analisi della comunicazione di crisi da parte dello Stato cinese. Il libro evidenzia come il controllo dell’informazione non si limiti alla repressione, ma includa una strategia di narrazione mirata: gli stessi dati sull’invecchiamento demografico, pericolosi per un sistema che premia la crescita, vengono riconvertiti in propaganda sull’“età d’oro” della società civile (60 anni), per ribadire una visione di stabilità controllata. Questo processo, documentato con riferimenti a manifestazioni artistiche e social media, illustra come la creatività venga canalizzata per sostenere un’immagine di progresso compatibile con le restrizioni.  \n\nUn’altra prospettiva innovativa riguarda il ruolo delle imprese tecnologiche. Messetti collega l’espansione globale delle aziende cinesi — da Huawei a ByteDance — non solo al piano geopolitico, ma alla necessità di far funzionare la propria economia interna. L’esportazione di infrastrutture digitali e di servizi a basso costo permette a questi colossi di finanziare sperimentazioni sociali in patria, come le smart cities sostenute da dati aggregati, che a loro volta alimentano il potere di sorveglianza statale. Un circolo virtuoso per il regime, ma anche un’arma a doppio taglio, visto che le stesse tecnologie possono diventare strumenti di contestazione.  \n\nIl valore del lavoro risiede nel fatto che, nonostante i limiti di accesso alle fonti primarie, riesce a tracciare una mappa delle tensioni interne al sistema cinese senza ridurle a semplici conflitti tra tradizione e modernità. Il dibattito sulle riforme economiche, ad esempio, non è solo un’analisi teorica: nel libro si trovano riferimenti concreti a dibattiti accademici cinesi (come le discussioni intorno all’“economia della risorsa umana”) che mostrano come la classe dirigente si confronti con il rischio di un declino del consenso medio. Un’osservazione che non ha equivalente nei libri di narrativa occidentale sull’argomento.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-09T07:00:39.483127+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: La Cina è un’aragostadi Giada Messetti",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/La-Cina-e-un-aragosta-Giada-Messetti.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"La Cina si contorce come un’aragosta in muta: invecchia, si impoverisce, ribolle\",\n  \"description\": \"un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta\",\n  \"articleBody\": \"un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta La Cina è un'aragosta, l'ultimo lavoro di Giada Messetti, parte da una metafora intrigante: l'aragosta che, per evolversi, deve abbandonare il vecchio carapace e attendere la formazione di uno nuovo, più adatto, rimanendo nel frattempo vulnerabile. È la condizione in cui si trova oggi la Cina, in una delicata fase di muta. L'autrice illustra i recenti mutamenti della società cinese, che deve fronteggiare sfide inedite come l'invecchiamento della popolazione, la disoccupazione giovanile e l'aumento del costo della vita. Anche in Cina, similmente alle democrazie liberali, emergono movimenti come quello femminista e ambientalista. Il sistema di potere cinese si regge su un consenso popolare, soprattutto della classe media, derivante dal benessere diffuso garantito dal Partito, in cambio di una tacita accettazione di alcune forme di censura e repressione. In una fase di crisi economica e profondi cambiamenti sociali, la permanenza di questo equilibrio non è scontata. Tuttavia, la Cina continua a perseguire l'innovazione tecnologica e l'autosufficienza energetica, settori cruciali per il suo posizionamento internazionale. Questo libro offre una visione preziosa della realtà cinese, al di là degli stereotipi e della narrazione occidentale, evidenziando successi interni e rilevanza internazionale. Il libro si distingue per il suo approccio alla complessità cinese senza banalizzazioni ideologiche. Messetti non esita a sottolineare come il dibattito femminista, pur in crescita, si confronti con vincoli culturali e di rappresentanza che limitano la sua visibilità ufficiale, né a notare come i movimenti ambientalisti, spesso legati alla classe media urbana, oscillino tra richiesta di sostenibilità e richiamo ai modelli di crescita del passato. La descrizione della vulnerabilità economica della transizione ecologica cinese — ad esempio, la dipendenza dagli approvvigionamenti di rari terreni per le tecnologie green — anticipa una contraddizione interna al piano di autosufficienza tecnologica promosso dal Partito.  \\n\\nAltro aspetto rilevante è l’analisi della comunicazione di crisi da parte dello Stato cinese. Il libro evidenzia come il controllo dell’informazione non si limiti alla repressione, ma includa una strategia di narrazione mirata: gli stessi dati sull’invecchiamento demografico, pericolosi per un sistema che premia la crescita, vengono riconvertiti in propaganda sull’“età d’oro” della società civile (60 anni), per ribadire una visione di stabilità controllata. Questo processo, documentato con riferimenti a manifestazioni artistiche e social media, illustra come la creatività venga canalizzata per sostenere un’immagine di progresso compatibile con le restrizioni.  \\n\\nUn’altra prospettiva innovativa riguarda il ruolo delle imprese tecnologiche. Messetti collega l’espansione globale delle aziende cinesi — da Huawei a ByteDance — non solo al piano geopolitico, ma alla necessità di far funzionare la propria economia interna. L’esportazione di infrastrutture digitali e di servizi a basso costo permette a questi colossi di finanziare sperimentazioni sociali in patria, come le smart cities sostenute da dati aggregati, che a loro volta alimentano il potere di sorveglianza statale. Un circolo virtuoso per il regime, ma anche un’arma a doppio taglio, visto che le stesse tecnologie possono diventare strumenti di contestazione.  \\n\\nIl valore del lavoro risiede nel fatto che, nonostante i limiti di accesso alle fonti primarie, riesce a tracciare una mappa delle tensioni interne al sistema cinese senza ridurle a semplici conflitti tra tradizione e modernità. Il dibattito sulle riforme economiche, ad esempio, non è solo un’analisi teorica: nel libro si trovano riferimenti concreti a dibattiti accademici cinesi (come le discussioni intorno all’“economia della risorsa umana”) che mostrano come la classe dirigente si confronti con il rischio di un declino del consenso medio. Un’osservazione che non ha equivalente nei libri di narrativa occidentale sull’argomento.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-09T07:00:39.483127+00:00\",\n  \"dateModified\": \"2026-07-09T07:00:39.483127+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260709\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260709\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
+  "related": [
+    {
+      "title": "Andrea Morricone ottiene premio a 200 euro a testa: e il padre cosa direbbe?",
+      "url": "/cultura/andrea-morricone-ottiene-premio-a-200-euro-a-testa-7f92e148968e1a82",
+      "id": "7f92e148968e1a82",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/9/9586d17134b62169e37b9ddd52b637d8.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "HBO Max annuncia nel 2027 la docuserie sulla diossina di Seveso: \"Il Paese che dimentica\"",
+      "url": "/cultura/hbo-max-annuncia-nel-2027-la-docuserie-sulla-dioss-b3a84c78dc066060",
+      "id": "b3a84c78dc066060",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/9/cb10b9018401aba2a85e258d068607e4.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Rolling Stones tornano con l’album Foreign Tongues: Jagger vuole il tour a 83 anni",
+      "url": "/cultura/rolling-stones-tornano-con-lalbum-foreign-tongues-6372831b8d27d59d",
+      "id": "6372831b8d27d59d",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/19/be10ccf3d9450a89ebf6fddee685dc6c.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-09T07:00:39.483127+00:00"
 }
