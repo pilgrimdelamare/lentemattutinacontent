@@ -1,5 +1,20 @@
 [
   {
+    "id": "8413843d85fe30d7",
+    "slug": "duran-duran-10mila-biglietti-venduti-in-un-giorno-8413843d85fe30d7",
+    "title": "Duran Duran, 10mila biglietti venduti in un giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-08T12:16:17.465555+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/da041b805c8da6a5b7a800e0431b9f74.jpg",
+    "occhiello": "10MILA TRA GLI SCALINI DELLA REGGIA",
+    "lead_preview": "10MILA TRA GLI SCALINI DELLA REGGIA Caserta, 8 luglio — Diecimila biglietti venduti in ventiquattr’ore, coda di duecento",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "31d039f596e28919",
     "slug": "kupchan-liran-rischia-di-incendiare-il-medio-orien-31d039f596e28919",
     "title": "Kupchan: «L’Iran rischia di incendiare il Medio Oriente, ma non si sopravvaluti»",
@@ -697,24 +712,6 @@
       "premio strega deutschland",
       "libro lo sbilico",
       "pierantozzi einaudi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8413843d85fe30d7",
-    "slug": "duran-duran-10mila-biglietti-venduti-in-un-giorno-8413843d85fe30d7",
-    "title": "Duran Duran, 10mila biglietti venduti in un giorno",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-08T12:16:17.465555+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/da041b805c8da6a5b7a800e0431b9f74.jpg",
-    "occhiello": "10MILA TRA GLI SCALINI DELLA REGGIA",
-    "lead_preview": "10MILA TRA GLI SCALINI DELLA REGGIA Caserta, 8 luglio — Diecimila biglietti venduti in ventiquattr’ore, coda di duecento",
-    "tags": [
-      "concerto duran duran",
-      "caserta"
     ],
     "hero_eligible": true
   },
