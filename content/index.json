@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260709",
+    "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
+    "title": "La Cina si contorce come un’aragosta in muta: invecchia, si impoverisce, ribolle",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-09T07:00:39.483127+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788804789482_0_0_0_0_0-73f6d.jpg?1775698663",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta",
+    "tags": [
+      "crisi demografica cinese",
+      "economia cinese 2024",
+      "società cinese invecchiamento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "da5395361c5301e5",
     "slug": "basket-curry-sbotta-su-lebron-prima-golf-poi-baske-da5395361c5301e5",
     "title": "Basket: Curry liquida il sogno Curry-LeBron con una battuta al golf",
@@ -1039,25 +1058,6 @@
     "lead_preview": "Napoli, 8 luglio. Durante il summit NATO ad Ankara, il Presidente degli Stati Uniti, Donald Trump, ha dichiarato che il ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260709",
-    "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
-    "title": "Il libro del giorno: «La Cina è un’aragostadi Giada Messetti»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-09T07:00:39.483127+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788804789482_0_0_0_0_0-73f6d.jpg?1775698663",
-      "alt": "Copertina: La Cina è un’aragostadi Giada Messetti",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788804789482_0_0_0_0_0-73f6d.jpg?1775698663",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "d5bd8d959371857a",
