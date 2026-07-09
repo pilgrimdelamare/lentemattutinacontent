@@ -1,5 +1,23 @@
 [
   {
+    "id": "d5bd8d959371857a",
+    "slug": "israele-colpisce-auto-a-gaza-uccide-3-d5bd8d959371857a",
+    "title": "Israele colpisce auto a Gaza, uccide cooperante e 2 bambini",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-07-08T08:16:26.046732+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/10/d5baa5f41a102b1da103a9ddf7a0b293.jpg",
+    "occhiello": "RAID A GAZA CITY, COOPERANTE E 2 BAMBINI UCCISI",
+    "lead_preview": "Gaza, 8 luglio 2026 — Un raid israeliano ha colpito un'auto a Gaza City, uccidendo un cooperante e due bambini, secondo ",
+    "tags": [
+      "raid gaza",
+      "conflitto israele"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "623225e7f51c0d7d",
     "slug": "cagliari-presentato-il-nuovo-look-romano-e-akaraki-623225e7f51c0d7d",
     "title": "Il Cagliari presenta Romano e Akarakiri",
@@ -589,24 +607,6 @@
       "crosetto trump iran",
       "basi militari italia",
       "difesa usa italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d5bd8d959371857a",
-    "slug": "israele-colpisce-auto-a-gaza-uccide-3-d5bd8d959371857a",
-    "title": "Raid israeliano uccide cooperante e due bambini a Gaza City",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-08T08:16:26.046732+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/10/d5baa5f41a102b1da103a9ddf7a0b293.jpg",
-    "occhiello": "RAID A GAZA CITY, COOPERANTE E 2 BAMBINI UCCISI",
-    "lead_preview": "Gaza, 8 luglio 2026 — Un raid israeliano ha colpito un'auto a Gaza City, uccidendo un cooperante e due bambini, secondo ",
-    "tags": [
-      "raid gaza",
-      "conflitto israele"
     ],
     "hero_eligible": true
   },
