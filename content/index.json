@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 C",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-09T13:06:28.089480+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB DOWN IN ITALIA",
+    "lead_preview": "GitHub risulta irraggiungibile da 15 minuti. Il problema, segnalato alle 14:45 CET, blocca accesso a repository, pull re",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d309f6c7675f2679",
     "slug": "rob-reiner-candidato-agli-emmy-postumi-il-figlio-k-d309f6c7675f2679",
     "title": "Rob Reiner candidato a un Emmy postumo 10 anni dopo la sua uccisione da parte del figlio",
@@ -8596,21 +8615,6 @@
       "accordo italia-turchia trasporti",
       "nuove rotte marittime mediterraneo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0954edda1398a24e",
-    "slug": "trump-valuta-il-disimpegno-militare-dallarabia-sau-0954edda1398a24e",
-    "title": "Trump considera ritiro Usa in Arabia Saudita: MBS accusato di dislealtà",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-02T12:45:29.757457+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/07/02/1782978779-AP25324744675225.jpg",
-    "occhiello": "TRUMP VALUTA IL DISIMPEGNO MILITARE DALL'ARABIA SAUDITA",
-    "lead_preview": "Washington, 2 luglio 2026. La guerra in Medio Oriente ha logorato l'alleanza tra gli Stati Uniti e l'Arabia Saudita, spi",
-    "tags": [],
     "hero_eligible": true
   }
 ]
