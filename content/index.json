@@ -1,5 +1,23 @@
 [
   {
+    "id": "cdeb2f3a63430f36",
+    "slug": "rai-corsini-attacca-ranucci-con-report-la-bomba-er-cdeb2f3a63430f36",
+    "title": "RAI, Corsini attacca Ranucci: «Con Report la bomba era forse un bluff»",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-07-10T00:15:42.861100+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/09/214922411-46d5fbe0-6355-47f1-8d9f-448db694a8fd.jpg",
+    "occhiello": "RAI, FDI SPARA CONTRO RANUCCI",
+    "lead_preview": "RAI, FDI SPARA CONTRO RANUCCI Roma, 10 luglio — Il direttore degli approfondimenti di Rai1 Paolo Corsini è un dirigente ",
+    "tags": [
+      "rai report",
+      "caso ranucci"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bc60ef4d1392ed5b",
     "slug": "tennis-sinner-si-allena-a-londra-a-24-ore-dalla-se-bc60ef4d1392ed5b",
     "title": "Tennis: Sinner in palestra a 2 giorni dalla semifinale di Wimbledon",
@@ -8637,21 +8655,6 @@
       "ia-economia",
       "mercati-finanziari"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "37a7d721ac8f4ee0",
-    "slug": "mimit-chiude-in-ribasso-benzina-self-a-1804-euro-a-37a7d721ac8f4ee0",
-    "title": "Benzina a quasi due euro: il Mimit parla di ribassi, ma i dati mostrano un'altra realtà",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-02T07:38:05.399911+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/7/2339d4cd0f01d3fb0695914532e67f17.jpg",
-    "occhiello": "Benzina a quasi due euro: il Mimit parla di ribassi, ma i dati mostrano un'altra realtà",
-    "lead_preview": "Roma, 2 luglio. Benzina a 1,893 euro al litro in autostrada, il diesel a 1,968, mentre Il ministro delle Imprese e del M",
-    "tags": [],
     "hero_eligible": true
   }
 ]
