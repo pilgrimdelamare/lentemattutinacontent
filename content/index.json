@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260710",
+    "slug": "libro-del-giorno-bellissima-dea-storia-clara-calamaidi--20260710",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-10T07:00:37.913543+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo biografico sulla vita dell'attrice italiana Clara Calamai durante il fascismo e la guerra",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5ba86a96bc56450e",
     "slug": "calcio-caressa-si-commuove-ancora-5ba86a96bc56450e",
     "title": "Caressa: \"la telecronaca mi commuove ancora\"",
@@ -461,25 +476,6 @@
       "lebron allenamento"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260710",
-    "slug": "libro-del-giorno-bellissima-dea-storia-clara-calamaidi--20260710",
-    "title": "Il libro del giorno: «Bellissima Dea. Storia»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo biografico sulla vita dell'attrice italiana Clara Calamai durante il fascismo e la guerra",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-10T07:00:37.913543+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
-      "alt": "Copertina: Bellissima Dea. Storia",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "e8343007175eac71",
