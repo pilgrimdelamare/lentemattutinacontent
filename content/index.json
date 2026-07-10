@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 10 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-10T05:51:04.704137+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/3ba2f5d0315bccfed146906a1da02ec681646a44/skytg24/it/cronaca/2026/07/10/prime-pagine-quotidiani-oggi-10-luglio/Composite_10_luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 10 LUGLIO 2026",
+    "lead_preview": "Il 10 luglio 2026, i quotidiani italiani si concentrano principalmente sul nuovo blocco dello Stretto di Hormuz in segui",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260709",
     "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
     "title": "La Cina si trasforma",
@@ -1153,25 +1172,6 @@
     "tags": [
       "marilyn manson concerti",
       "tour italia 2023"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 9 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-09T05:53:32.873929+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/c2cd7d5117d5f6fb1bc1ca5c8d6369e689036a71/skytg24/it/cronaca/2026/07/09/prime-pagine-quotidiani-oggi-9-luglio/Composite_9_luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 9 LUGLIO",
-    "lead_preview": "I giornali italiani convergono sulla situazione internazionale, in particolare sull'Iran e sugli Stati Uniti. Il Corrier",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
