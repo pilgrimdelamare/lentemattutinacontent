@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260710",
+    "slug": "libro-del-giorno-bellissima-dea-storia-clara-calamaidi--20260710",
+    "title": "Il libro del giorno: «Bellissima Dea. Storia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo biografico sulla vita dell'attrice italiana Clara Calamai durante il fascismo e la guerra",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-10T07:00:37.913543+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
+      "alt": "Copertina: Bellissima Dea. Storia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "e8343007175eac71",
     "slug": "alfie-haaland-si-trasferisce-in-svizzera-e8343007175eac71",
     "title": "Alfie Haaland si trasferisce ad Andermatt tra miliardari norvegesi",
@@ -8582,24 +8601,6 @@
     "occhiello": "TOR VERGATA SI PREPARA A OSPITARE 250MILA FAN DI ULTIMO",
     "lead_preview": "Roma, 2 luglio 2026. La capitale si prepara all'invasione pacifica di Ultimo, atteso il 4 luglio per un maxi raduno che ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d907c4322f927896",
-    "slug": "il-mercato-del-lavoro-italiano-perde-22000-posizio-d907c4322f927896",
-    "title": "Istat: 22mila occupati in meno a maggio, il mercato del lavoro frena dopo anni di illusioni",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-07-02T08:23:43.743736+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/bc65b52a5a06448136e7b08672612631.jpg",
-    "occhiello": "IL MERCATO DEL LAVORO ITALIANO PERDE 22.000 POSIZIONI A MAGGIO",
-    "lead_preview": "Roma, 2 luglio 2026. L'Istituto nazionale di statistica certifica un'inversione di tendenza negativa per l'occupazione n",
-    "tags": [
-      "istat occupazione maggio 2026",
-      "crisi mercato lavoro italia"
-    ],
     "hero_eligible": true
   }
 ]
