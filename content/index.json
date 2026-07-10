@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260709",
+    "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
+    "title": "La Cina si trasforma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-09T07:00:39.483127+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788804789482_0_0_0_0_0-73f6d.jpg?1775698663",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f03bd2500fdcfcc9",
     "slug": "ciclismo-pogacar-stacca-vingegaard-sul-tourmalet-e-f03bd2500fdcfcc9",
     "title": "6ª tappa, Pogačar domina sul Tourmalet",
@@ -572,25 +587,6 @@
       "trasferimento haaland",
       "miliardari norvegesi",
       "andermatt svizzera"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260709",
-    "slug": "libro-del-giorno-la-cina-e-unaragostadi-giada-messetti-20260709",
-    "title": "La Cina si contorce come un’aragosta in muta: invecchia, si impoverisce, ribolle",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-07-09T07:00:39.483127+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9788804789482_0_0_0_0_0-73f6d.jpg?1775698663",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un'analisi della società cinese contemporanea attraverso la metafora dell'aragosta",
-    "tags": [
-      "crisi demografica cinese",
-      "economia cinese 2024",
-      "società cinese invecchiamento"
     ],
     "hero_eligible": true
   },
