@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 10 luglio 2026",
+  "title": "Le prime pagine di oggi, sabato 11 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 10 luglio 2026",
-    "Le prime pagine di oggi, venerdì 10 luglio 2026",
-    "Le prime pagine di oggi, venerdì 10 luglio 2026"
+    "Le prime pagine di oggi, sabato 11 luglio 2026",
+    "Le prime pagine di oggi, sabato 11 luglio 2026",
+    "Le prime pagine di oggi, sabato 11 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 10 LUGLIO 2026",
-  "lead": "Il 10 luglio 2026, i quotidiani italiani si concentrano principalmente sul nuovo blocco dello Stretto di Hormuz in seguito ai raid tra Usa e Iran. Corriere della Sera, La Repubblica, Messaggero e Stampa dedicano ampio spazio alla crisi geopolitica, mentre Gazzetta dello Sport e Corriere dello Sport puntano sull’acquisto dell’Inter. La Stampa segnala l’escalation nell’ambito Italia-Russia, con espulsioni diplomatiche.",
-  "corpo1": "Corriere della Sera apre con il blocco di Hormuz dopo i raid Usa-Iran e la risposta iraniana. La Repubblica ribadisce l’interruzione del traffico nel Golfo, con richiami alla Russia su Kiev. La Stampa dedica la prima pagina alla \"guerra di spie\" tra Italia e Russia, con espulsioni reciproche di diplomatici. Il Messaggero replica sulle tensioni a Hormuz e sull’azione italiana contro i russi. Gazzetta dello Sport e Corriere dello Sport si concentrano sull’acquisto dell’Inter dell’esterno israeliano Khalaili. La Repubblica menziona i vertici europei su clima e energia.",
-  "corpo2": "Altri titoli secondari includono la crisi idrica nel Po (Stampa), i record di caldo in Europa (Corriere della Sera, Messaggero) e il rigore sbagliato da Mbappé (Gazzetta). Il tema dominante rimane il rinnovato blocco a Hormuz e le ripercussioni energetiche globali.",
+  "occhiello": "LE PRIME PAGINE 11 LUGLIO: TRUMP, IRA E SINNER DOMINANO",
+  "lead": "I quotidiani italiani si concentrano oggi su dichiarazioni di Donald Trump riguardo un presunto piano dell’Iran per ucciderlo, sull’incertezza politica internazionale e su eventi sportivi. Tra i temi affrontati: l’allerta Usa-Iran, la sospensione di Report e le repliche su Ranucci, Sinner in finale a Wimbledon e nuove assunzioni negli agenti di polizia. Sky Go promuove offerte e decoder, mentre alcune testate dedicano spazio a dibattiti interni alla Rai.",
+  "corpo1": "Logo-sky-go apre con la promozione dei 30 giorni di prova e il nuovo decoder Sky Stream. Prima pagina 3 e 4 titolano sulle dichiarazioni di Trump e sull’allerta iraniana, citando Crosetto e l’incertezza di Teheran su Hormuz. Prima pagina 5 presenta l’intervista a Zangrillo sull’assunzione di 18mila agenti. Prima pagina 6 e 7 riprendono le dichiarazioni di Trump e lo svolgimento del caso Ranucci. Prima pagina 8 include una dichiarazione di accessibilità.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-10T05:51:04.704137+00:00",
+  "published_at": "2026-07-11T06:14:35.941721+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/3ba2f5d0315bccfed146906a1da02ec681646a44/skytg24/it/cronaca/2026/07/10/prime-pagine-quotidiani-oggi-10-luglio/Composite_10_luglio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/1b313a80c862a51fee20d0b3e452300021678081/skytg24/it/cronaca/2026/07/11/prime-pagine-quotidiani-oggi-11-luglio/rassegna_stampa_11_luglio_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/10/prime-pagine-quotidiani-oggi-10-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/11/prime-pagine-quotidiani-oggi-11-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 10 luglio 2026",
+      "title": "Oroscopo di oggi, sabato 11 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
+      "title": "WOLFSBURG, 9 luglio 2026 - Volkswagen annuncia taglio fino a 50.000 posti di lavoro entro il 2030",
+      "url": "/economia/volkswagen-taglia-50mila-posti-entro-il-2030-la-gr-dec71818679349f7",
+      "id": "dec71818679349f7",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/4/f0a5da452fe9051e89b93fe30b228ce2.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "8 luglio 1998: thuram stende la croazia con una doppietta",
       "url": "/sport/calcio-la-doppietta-di-thuram-che-la-francia-non-d-59d2c87c3999642b",
       "id": "59d2c87c3999642b",
       "image_url": "https://sport.sky.it/assets/images/d7e025ca9a93aaba1b30282eddf371afe44d7021/skysport/it/calcio/mondiali/mondiali-calcio-accadde-oggi-8-luglio/thuram_esultanza_getty_1998_francia_croazia.jpg",
-      "image_type": "feed_image"
-    },
-    {
-      "title": "La festa degli esclusi, new york capitale del 4 luglio anti maga",
-      "url": "/cronaca/la-festa-degli-esclusi-new-york-capitale-del-4-lug-bdcd1f207cd639af",
-      "id": "bdcd1f207cd639af",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/224029713-92a57c16-b19b-45b1-844a-3bc6c4f30839.jpg",
       "image_type": "feed_image"
     }
   ],
