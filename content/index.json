@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-11T06:55:34.312992+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f419dbfe3531c06d",
     "slug": "wemby-rinnova-con-i-san-antonio-spurs-f419dbfe3531c06d",
     "title": "Wemby rinnova con i san antonio spurs",
@@ -8517,24 +8536,6 @@
       "clausola energetica ue",
       "auto elettriche esenzioni",
       "pompe calore regole ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db9bf50f93885261",
-    "slug": "confindustria-invoca-il-ruolo-delle-imprese-estere-db9bf50f93885261",
-    "title": "Confindustria invoca il ruolo delle imprese estere per la crescita",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-02T09:17:16.267199+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/8/29/3ae63099ab56e9572aca8171057bd56f.jpg",
-    "occhiello": "CONFINDUSTRIA INVOCA IL RUOLO DELLE IMPRESE ESTERE PER LA CRESCITA",
-    "lead_preview": "Roma, 2 luglio 2026. Confindustria identifica nelle imprese a controllo estero un motore di sviluppo fondamentale per l'",
-    "tags": [
-      "confindustria",
-      "annual meeting 2026"
     ],
     "hero_eligible": true
   }
