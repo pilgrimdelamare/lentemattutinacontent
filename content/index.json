@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260711",
+    "slug": "libro-del-giorno-senzatitolodi-federico-lotito-20260711",
+    "title": "Il libro del giorno: «Senzatitolodi Federico Lotito»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una silloge di poesie che esplora le contraddizioni dell'essere umano",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-11T07:00:38.092796+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/9791281751309_0_0_424_0_75-3be73.jpg?1775998833",
+      "alt": "Copertina: Senzatitolodi Federico Lotito",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/9791281751309_0_0_424_0_75-3be73.jpg?1775998833",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "ad1f2ce9b6b240a1",
     "slug": "roque-castro-si-offre-come-mediatore-con-usa-ad1f2ce9b6b240a1",
     "title": "Roque Castro si offre come mediatore col governo USA, intellettuali cubani protestano",
@@ -8520,25 +8539,6 @@
     "tags": [
       "assicurazioni 2025",
       "mercato ania"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "def2b52364878c61",
-    "slug": "auto-elettriche-e-pompe-di-calore-nelle-deroghe-ue-def2b52364878c61",
-    "title": "Bruxelles allarga la clausola energetica: auto elettriche e pompe di calore esentate dal deficit",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-07-02T09:22:46.697594+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/8/4/2924725f7557912b611e67e1b67e3bd4.jpg",
-    "occhiello": "AUTO ELETTRICHE E POMPE DI CALORE NELLE DEROGHE UE",
-    "lead_preview": "Bruxelles, 2 luglio 2026. La clausola energetica europea si amplia per includere investimenti strategici in auto elettri",
-    "tags": [
-      "clausola energetica ue",
-      "auto elettriche esenzioni",
-      "pompe calore regole ue"
     ],
     "hero_eligible": true
   }
