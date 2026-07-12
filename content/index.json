@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260712",
+    "slug": "libro-del-giorno-magnolia-quartetdi-mario-fortunato-20260712",
+    "title": "Il libro del giorno: «Magnolia quartetdi Mario Fortunato»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che esplora la vita di un pittore e le sue relazioni con tre giovani chef",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-12T07:00:38.347143+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L233xH312/71wka6z-l0l__sl1339_-754b0.jpg?1775694441",
+      "alt": "Copertina: Magnolia quartetdi Mario Fortunato",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L233xH312/71wka6z-l0l__sl1339_-754b0.jpg?1775694441",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "c6412bad4b9ffc77",
     "slug": "tennis-wimbledon-derby-ceco-per-la-corona-muchova-c6412bad4b9ffc77",
     "title": "Derby ceco a wimbledon, la nuova campionessa vale milioni",
@@ -8525,21 +8544,6 @@
     "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/06/30/1782804635-GettyImages-2162235643.jpg",
     "occhiello": "IL 92,5 PER CENTO DELLE FAMIGLIE GIAPPONESI POSSIEDE UN CONDIZIONATORE",
     "lead_preview": "Tokyo, 1 luglio 2026. L'aria condizionata non è più un semplice comfort estivo in Asia orientale, ma un pilastro dell'in",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b7fbdba32766d52a",
-    "slug": "ciclismo-paul-seixas-sfida-pogacar-al-tour-de-fran-b7fbdba32766d52a",
-    "title": "Ciclismo: Seixas affronta Pogačar",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-02T12:20:48.840906+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/26/3c20df50e27e399ada16668e3d08b549.jpg",
-    "occhiello": "IL CICLISTA FRANCESE PAUL SEIXAS DEBUTTA AL TOUR DE FRANCE",
-    "lead_preview": "Parigi, 2 luglio 2026. Paul Seixas, diciannovenne talento del ciclismo francese, si prepara al debutto nella Grande Bouc",
     "tags": [],
     "hero_eligible": true
   }
