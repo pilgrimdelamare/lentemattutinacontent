@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260712",
+    "slug": "libro-del-giorno-magnolia-quartetdi-mario-fortunato-20260712",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-12T07:00:38.347143+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L233xH312/71wka6z-l0l__sl1339_-754b0.jpg?1775694441",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che esplora la vita di un pittore e le sue relazioni con tre giovani chef",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2d82da75b0339c11",
     "slug": "cuba-e-stati-uniti-riprendono-il-dialogo-2d82da75b0339c11",
     "title": "Cuba e usa: il nipote di raúl castro al centro del dialogo storico",
@@ -381,25 +396,6 @@
     "lead_preview": "Roma, 11 luglio 2026. L'acqua dispersa in rete costerebbe 9,8 miliardi all'anno secondo la Cgia Mestre, nonostante la ma",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260712",
-    "slug": "libro-del-giorno-magnolia-quartetdi-mario-fortunato-20260712",
-    "title": "Il libro del giorno: «Magnolia quartetdi Mario Fortunato»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che esplora la vita di un pittore e le sue relazioni con tre giovani chef",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-12T07:00:38.347143+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L233xH312/71wka6z-l0l__sl1339_-754b0.jpg?1775694441",
-      "alt": "Copertina: Magnolia quartetdi Mario Fortunato",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L233xH312/71wka6z-l0l__sl1339_-754b0.jpg?1775694441",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "c6412bad4b9ffc77",
