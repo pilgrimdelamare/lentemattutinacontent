@@ -1,5 +1,20 @@
 [
   {
+    "id": "460fd856d318a9a0",
+    "slug": "cuba-loscurita-che-continua-460fd856d318a9a0",
+    "title": "Cuba, l'oscurità che continua",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-12T15:12:59.525344+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/6147386c4c7e307e20388a068a86d991.jpg",
+    "occhiello": "CUBA, L'OSCURITÀ CHE CONTINUA",
+    "lead_preview": "Havana, 12 luglio. Dopo quarantotto ore di interruzione, la rete elettrica di Cuba è stata ripristinata stamani alle 6:3",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "88994b872f8d6878",
     "slug": "macron-dichiara-sostegno-allucraina-88994b872f8d6878",
     "title": "Macron dice sì all'Ucraina",
@@ -538,25 +553,6 @@
     "tags": [
       "libro del giorno",
       "mario fortunato"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "460fd856d318a9a0",
-    "slug": "cuba-loscurita-che-continua-460fd856d318a9a0",
-    "title": "Cuba torna alla luce dopo due giorni di blackout totale, ma il razionamento resta",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-12T15:12:59.525344+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/6147386c4c7e307e20388a068a86d991.jpg",
-    "occhiello": "CUBA, L'OSCURITÀ CHE CONTINUA",
-    "lead_preview": "Havana, 12 luglio. Dopo quarantotto ore di interruzione, la rete elettrica di Cuba è stata ripristinata stamani alle 6:3",
-    "tags": [
-      "blackout cubana",
-      "interruzione rete elettrica cuba",
-      "razionamento energia cuba"
     ],
     "hero_eligible": true
   },
