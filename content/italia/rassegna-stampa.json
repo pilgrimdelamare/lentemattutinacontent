@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, sabato 11 luglio 2026",
+  "title": "Le prime pagine di oggi, lunedì 13 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, sabato 11 luglio 2026",
-    "Le prime pagine di oggi, sabato 11 luglio 2026",
-    "Le prime pagine di oggi, sabato 11 luglio 2026"
+    "Le prime pagine di oggi, lunedì 13 luglio 2026",
+    "Le prime pagine di oggi, lunedì 13 luglio 2026",
+    "Le prime pagine di oggi, lunedì 13 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 11 LUGLIO: TRUMP, IRA E SINNER DOMINANO",
-  "lead": "I quotidiani italiani si concentrano oggi su dichiarazioni di Donald Trump riguardo un presunto piano dell’Iran per ucciderlo, sull’incertezza politica internazionale e su eventi sportivi. Tra i temi affrontati: l’allerta Usa-Iran, la sospensione di Report e le repliche su Ranucci, Sinner in finale a Wimbledon e nuove assunzioni negli agenti di polizia. Sky Go promuove offerte e decoder, mentre alcune testate dedicano spazio a dibattiti interni alla Rai.",
-  "corpo1": "Logo-sky-go apre con la promozione dei 30 giorni di prova e il nuovo decoder Sky Stream. Prima pagina 3 e 4 titolano sulle dichiarazioni di Trump e sull’allerta iraniana, citando Crosetto e l’incertezza di Teheran su Hormuz. Prima pagina 5 presenta l’intervista a Zangrillo sull’assunzione di 18mila agenti. Prima pagina 6 e 7 riprendono le dichiarazioni di Trump e lo svolgimento del caso Ranucci. Prima pagina 8 include una dichiarazione di accessibilità.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE DEL 13 LUGLIO 2026: HORMUZ E SINNER DOMINANO I TITOLI",
+  "lead": "Le prime pagine dei principali quotidiani italiani si concentrano sulla tensione nel Golfo di Hormuz e la vittoria di Jannik Sinner a Wimbledon. Prima pagina 3, Prima pagina 4, Prima pagina 5 e Prima pagina 7 dedicano spazio significativo al conflitto tra Iran e Stati Uniti, mentre Prima pagina 6 e Prima pagina 8 affrontano questioni politiche e giudiziarie. Solo Prima pagina 9 presenta un focus specifico sul riscaldamento globale.",
+  "corpo1": "Prima pagina 3 apre con “Bombe su Hormuz. L’Iran: lo Stretto vale più dell’atomica” e accompagna la vittoria di Sinner con “Ancora Sinner. È lui il re a Wimbledon”. Prima pagina 4 titola “A Hormuz torna la guerra”, mentre Prima pagina 5 riferisce di “Iran-Usa, la battaglia su Hormuz” e “Il nostro Mondiale” per Sinner. Prima pagina 6 si concentra su “Social sotto accusa dai tribunali Usa” e il caldo estremo. Prima pagina 7 dedica l’intera pagina a “Mitico” per Sinner. Prima pagina 8 discute l’attentato a Ranucci e la sinistra che “difende i terroristi rossi”. Prima pagina 9 presenta “Hormuz, l’arma del ricatto” e il caldo estivo. Prima pagina 10 segnala il dibattito su riarmo e governo.",
+  "corpo2": "Spiccano anche le analisi su Zverev sconfitto da Sinner, l’indagine sull’attentato a Ranucci e le polemiche su Zelensky. La guerra in Hormuz e la vittoria sportiva di Sinner rimangono i temi centrali delle prime pagine.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-11T06:14:35.941721+00:00",
+  "published_at": "2026-07-13T05:50:38.168916+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/1b313a80c862a51fee20d0b3e452300021678081/skytg24/it/cronaca/2026/07/11/prime-pagine-quotidiani-oggi-11-luglio/rassegna_stampa_11_luglio_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/2bc7d9f9912de2bfb7bdf001d8ab65ab20bdc09a/skytg24/it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio/rassegna13luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,14 +35,21 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/11/prime-pagine-quotidiani-oggi-11-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, sabato 11 luglio 2026",
+      "title": "Oroscopo di oggi, domenica 12 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
+    },
+    {
+      "title": "La Notte della Taranta parte alla fine di luglio con 20 concerti itineranti in Salento",
+      "url": "/cultura/la-notte-della-taranta-celebra-il-mediterraneo-con-04ccfe9cf4c67dfa",
+      "id": "04ccfe9cf4c67dfa",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/11/122a1e8b583387dbf08920ad264f4fcb.jpg",
+      "image_type": "image"
     },
     {
       "title": "WOLFSBURG, 9 luglio 2026 - Volkswagen annuncia taglio fino a 50.000 posti di lavoro entro il 2030",
@@ -50,13 +57,6 @@
       "id": "dec71818679349f7",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/4/f0a5da452fe9051e89b93fe30b228ce2.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "8 luglio 1998: thuram stende la croazia con una doppietta",
-      "url": "/sport/calcio-la-doppietta-di-thuram-che-la-francia-non-d-59d2c87c3999642b",
-      "id": "59d2c87c3999642b",
-      "image_url": "https://sport.sky.it/assets/images/d7e025ca9a93aaba1b30282eddf371afe44d7021/skysport/it/calcio/mondiali/mondiali-calcio-accadde-oggi-8-luglio/thuram_esultanza_getty_1998_francia_croazia.jpg",
-      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
