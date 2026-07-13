@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 13 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-13T05:50:38.168916+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/2bc7d9f9912de2bfb7bdf001d8ab65ab20bdc09a/skytg24/it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio/rassegna13luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL 13 LUGLIO 2026: HORMUZ E SINNER DOMINANO I TITOLI",
+    "lead_preview": "Le prime pagine dei principali quotidiani italiani si concentrano sulla tensione nel Golfo di Hormuz e la vittoria di Ja",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6238933066f72b15",
     "slug": "benedetta-rossi-parte-per-adozione-internazionale-6238933066f72b15",
     "title": "Benedetta Rossi adotta due bambine: l'Italia resta ferma con l'adozione",
@@ -726,25 +745,6 @@
     "tags": [
       "roque castro",
       "proteste intellettuali cubani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 11 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-11T06:14:35.941721+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/1b313a80c862a51fee20d0b3e452300021678081/skytg24/it/cronaca/2026/07/11/prime-pagine-quotidiani-oggi-11-luglio/rassegna_stampa_11_luglio_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 11 LUGLIO: TRUMP, IRA E SINNER DOMINANO",
-    "lead_preview": "I quotidiani italiani si concentrano oggi su dichiarazioni di Donald Trump riguardo un presunto piano dell’Iran per ucci",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
