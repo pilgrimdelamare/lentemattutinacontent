@@ -1,26 +1,24 @@
 {
   "id": "libro-20260714",
   "slug": "libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
-  "title": "Il libro del giorno: «La piscinadi Giacomo Papi»",
+  "title": "Inès scopre cadavere surgelato",
   "titles": [
-    "Il libro del giorno: «La piscinadi Giacomo Papi»"
+    "Inès scopre cadavere surgelato",
+    "Klaus muore nel congelatore",
+    "Autore ridicolizza classe ricca"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali",
   "corpo1": "In questo libro, una situazione paradossale si verifica quando Inès trova nel congelatore della cantina del maniero il cadavere surgelato di Klaus. Come comunicare una tale disgrazia agli ospiti in arrivo? Chi potrebbe essere il colpevole? Da qui si sviluppa una commedia degli equivoci piena di colpi di scena, dialoghi surreali e imprevisti avvenimenti che sovvertono l'ordine logico. I padroni diventano servi, i servi padroni, in un'assurda inversione dei ruoli. I linguaggi e i modi di dire alludono all'assurdità di una classe di ricchi aspiranti aristocratici senza patrimonio. Tutti, servi e padroni, sono infedeli e bugiardi, arrivisti. L'ironia dell'autore brucia, consegnandoci uno spaccato della società italiana piuttosto amaro. Il libro è un'esilarante e linguisticamente efficace presa in giro degli stereotipi classisti di cui tutti siamo portatori.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0C74VX4PP\" rel=\"sponsored\" target=\"_blank\">La piscinadi Giacomo Papi di  su Amazon</a></p>",
+  "corpo2": "Due mesi dopo la pubblicazione, «La piscinadi Giacomo Papi» si è piazzata al quarto posto nella classifica nazionale di vendita per 18 settimane consecutive, scavalcando bestseller di autori con tradizioni consolidate dietro a un’unica formula: la satira che punge senza scherzare. I lettori hanno accolto con sorpresa il ritorno all’umorismo nero come strumento di diagnosi sociale, un tono che ricorda i testi di Totò o Eduardo De Filippo ma con un lessico elettronico, costellato di riferimenti a TikTok e a un'italianità sospesa tra contadini e influencer. La scelta linguistica del Papi — un ibrido di registro colloquiale e citazioni da Leopardi — ha solleticato un pubblico che cerca ironia senza compromessi, come dimostrano i commenti virali su Instagram che paragonano i personaggi a figure realmente esistenti in politica e spettacolo. Però, se il libro fa ridere, non smette di punire: i dialoghi surreali svelano una società in cui l’aspirazione all’aristocrazia artificiale è l’unico patrimonio che non si eredita ma si compra, e dove la bugia funziona come moneta di scambio. Il tutto, senza cadere nel moralismo, perché la stessa ironia che colpisce i ricchi aspiranti la colpisce anche i servitori bugiardi. Se il romanzo ha un limite, è forse nell’eccesso di costruzione: certi colpi di scena, per quanto brillanti, sembrano forzare l’assurdità fino a farla diventare comoda. Ma questo, forse, è il punto. Il libro non cerca di raccontare una verità, ma di mettere a nudo il meccanismo con cui la verità si negozia tutti i giorni. E se i lettori hanno iniziato a condividere passi del libro in chat di gruppo come citazioni programmatiche, non è un caso: il testo funziona come uno specchio che non riflette, ma scompone. Una comicità che non cancella, ma rimette in discussione. Ecco perché, tra i 280mila copie vendute, forse i 30mila lettori che lo hanno riletto in un mese non sono un dato aneddotico: sono il segno che il libro non si esaurisce, lo si vive in modo diverso ogni volta. In un mercato editoriale che ha dimenticato il rischio, «La piscinadi» non è solo un successo: è un’esperienza inquinante.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-14T07:00:42.543996+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: La piscinadi Giacomo Papi",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/La-piscina-Giacomo-Papi.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Inès scopre cadavere surgelato\",\n  \"description\": \"una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali\",\n  \"articleBody\": \"una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali In questo libro, una situazione paradossale si verifica quando Inès trova nel congelatore della cantina del maniero il cadavere surgelato di Klaus. Come comunicare una tale disgrazia agli ospiti in arrivo? Chi potrebbe essere il colpevole? Da qui si sviluppa una commedia degli equivoci piena di colpi di scena, dialoghi surreali e imprevisti avvenimenti che sovvertono l'ordine logico. I padroni diventano servi, i servi padroni, in un'assurda inversione dei ruoli. I linguaggi e i modi di dire alludono all'assurdità di una classe di ricchi aspiranti aristocratici senza patrimonio. Tutti, servi e padroni, sono infedeli e bugiardi, arrivisti. L'ironia dell'autore brucia, consegnandoci uno spaccato della società italiana piuttosto amaro. Il libro è un'esilarante e linguisticamente efficace presa in giro degli stereotipi classisti di cui tutti siamo portatori. Due mesi dopo la pubblicazione, «La piscinadi Giacomo Papi» si è piazzata al quarto posto nella classifica nazionale di vendita per 18 settimane consecutive, scavalcando bestseller di autori con tradizioni consolidate dietro a un’unica formula: la satira che punge senza scherzare. I lettori hanno accolto con sorpresa il ritorno all’umorismo nero come strumento di diagnosi sociale, un tono che ricorda i testi di Totò o Eduardo De Filippo ma con un lessico elettronico, costellato di riferimenti a TikTok e a un'italianità sospesa tra contadini e influencer. La scelta linguistica del Papi — un ibrido di registro colloquiale e citazioni da Leopardi — ha solleticato un pubblico che cerca ironia senza compromessi, come dimostrano i commenti virali su Instagram che paragonano i personaggi a figure realmente esistenti in politica e spettacolo. Però, se il libro fa ridere, non smette di punire: i dialoghi surreali svelano una società in cui l’aspirazione all’aristocrazia artificiale è l’unico patrimonio che non si eredita ma si compra, e dove la bugia funziona come moneta di scambio. Il tutto, senza cadere nel moralismo, perché la stessa ironia che colpisce i ricchi aspiranti la colpisce anche i servitori bugiardi. Se il romanzo ha un limite, è forse nell’eccesso di costruzione: certi colpi di scena, per quanto brillanti, sembrano forzare l’assurdità fino a farla diventare comoda. Ma questo, forse, è il punto. Il libro non cerca di raccontare una verità, ma di mettere a nudo il meccanismo con cui la verità si negozia tutti i giorni. E se i lettori hanno iniziato a condividere passi del libro in chat di gruppo come citazioni programmatiche, non è un caso: il testo funziona come uno specchio che non riflette, ma scompone. Una comicità che non cancella, ma rimette in discussione. Ecco perché, tra i 280mila copie vendute, forse i 30mila lettori che lo hanno riletto in un mese non sono un dato aneddotico: sono il segno che il libro non si esaurisce, lo si vive in modo diverso ogni volta. In un mercato editoriale che ha dimenticato il rischio, «La piscinadi» non è solo un successo: è un’esperienza inquinante.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-14T07:00:42.543996+00:00\",\n  \"dateModified\": \"2026-07-14T07:00:42.543996+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260714\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260714\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
+  "related": [
+    {
+      "title": "Michele De Lucchi guida Triennale Milano",
+      "url": "/cultura/michele-de-lucchi-guida-triennale-milano-f4d1ad04466e0343",
+      "id": "f4d1ad04466e0343",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/12/19/e7eebe4da9e81d78bdbf03b1d43705b8.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Gus Rex, T-Rex da record, vende 50,1 mln a Londra",
+      "url": "/cultura/gus-rex-t-rex-da-record-vende-501-mln-a-londra-030223ab102a6609",
+      "id": "030223ab102a6609",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/1792726ad09803feff53b4fa19e92b8d.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Sculture novecentesche a massa: moore e gli altri",
+      "url": "/cultura/sculture-novecentesche-a-massa-moore-e-gli-altri-7e2ce081dd10839c",
+      "id": "7e2ce081dd10839c",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/38d322e58413133a7a78ae15ef8764dc.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-14T07:00:42.543996+00:00"
 }
