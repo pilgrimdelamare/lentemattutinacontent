@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260714",
+    "slug": "libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
+    "title": "Inès scopre cadavere surgelato",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-14T07:00:42.543996+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f4d1ad04466e0343",
     "slug": "michele-de-lucchi-guida-triennale-milano-f4d1ad04466e0343",
     "title": "Michele De Lucchi guida Triennale Milano",
@@ -583,25 +598,6 @@
       "tennis"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260714",
-    "slug": "libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
-    "title": "Il libro del giorno: «La piscinadi Giacomo Papi»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-14T07:00:42.543996+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
-      "alt": "Copertina: La piscinadi Giacomo Papi",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "89457f5f70e11137",
