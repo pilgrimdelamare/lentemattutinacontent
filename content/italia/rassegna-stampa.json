@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 13 luglio 2026",
+  "title": "Le prime pagine di oggi, martedì 14 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 13 luglio 2026",
-    "Le prime pagine di oggi, lunedì 13 luglio 2026",
-    "Le prime pagine di oggi, lunedì 13 luglio 2026"
+    "Le prime pagine di oggi, martedì 14 luglio 2026",
+    "Le prime pagine di oggi, martedì 14 luglio 2026",
+    "Le prime pagine di oggi, martedì 14 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DEL 13 LUGLIO 2026: HORMUZ E SINNER DOMINANO I TITOLI",
-  "lead": "Le prime pagine dei principali quotidiani italiani si concentrano sulla tensione nel Golfo di Hormuz e la vittoria di Jannik Sinner a Wimbledon. Prima pagina 3, Prima pagina 4, Prima pagina 5 e Prima pagina 7 dedicano spazio significativo al conflitto tra Iran e Stati Uniti, mentre Prima pagina 6 e Prima pagina 8 affrontano questioni politiche e giudiziarie. Solo Prima pagina 9 presenta un focus specifico sul riscaldamento globale.",
-  "corpo1": "Prima pagina 3 apre con “Bombe su Hormuz. L’Iran: lo Stretto vale più dell’atomica” e accompagna la vittoria di Sinner con “Ancora Sinner. È lui il re a Wimbledon”. Prima pagina 4 titola “A Hormuz torna la guerra”, mentre Prima pagina 5 riferisce di “Iran-Usa, la battaglia su Hormuz” e “Il nostro Mondiale” per Sinner. Prima pagina 6 si concentra su “Social sotto accusa dai tribunali Usa” e il caldo estremo. Prima pagina 7 dedica l’intera pagina a “Mitico” per Sinner. Prima pagina 8 discute l’attentato a Ranucci e la sinistra che “difende i terroristi rossi”. Prima pagina 9 presenta “Hormuz, l’arma del ricatto” e il caldo estivo. Prima pagina 10 segnala il dibattito su riarmo e governo.",
-  "corpo2": "Spiccano anche le analisi su Zverev sconfitto da Sinner, l’indagine sull’attentato a Ranucci e le polemiche su Zelensky. La guerra in Hormuz e la vittoria sportiva di Sinner rimangono i temi centrali delle prime pagine.",
+  "occhiello": "LE PRIME PAGINE – 14 LUGLIO 2026: TENSIONI E POLITICA",
+  "lead": "Le prime pagine di martedì 14 luglio 2026 si concentrano sulle tensioni geopolitiche nel Golfo, le alleanze europee contro missili russi e le divisioni interne in Italia. Tra i temi dominanti spiccano il piano Usa di un pedaggio navale a Hormuz, la nascita di un \"scudo europeo\" per l’Ucraina, il dibattito sulla riforma elettorale e i preparativi per le Olimpiadi di Roma. Sky Go promuove la sua offerta. Quattro quotidiani si focalizzano sulle elezioni Usa, due su politica interna, due su eventi sportivi.",
+  "corpo1": "Prima pagina 3 apre con \"Hormuz, la tassa di Trump\" e il blocco Usa sullo Stretto, mentre dedica spazio all’alleanza ucraina. Prima pagina 4 titola \"Scudo anti-missili europeo\" e menziona la divisione di destra sui referendum. Prima pagina 5 apre con le richieste delle regioni industriali per le Zes e il dibattito sul voto segreto. Prima pagina 6 presenta il decreto sicurezza e i rischi climatici. Prima pagina 7 annuncia un record di entrate e l’intervista a Dimon. Prima pagina 8 si focalizza su calcio e tennis con Sinner. Prima pagina 9 approfondisce il caso Ranucci e la difesa Ue. Prima pagina 10 conclude con Trump e pedaggio a Hormuz, la povertà da climatizzatori e un caso di violenza domestica.",
+  "corpo2": "I titoli secondari includono l’alleanza anti-missili europea, i raid Usa nel Golfo, la spaccatura di Forza Italia e il mercato del lavoro. La guerra fredda nel Golfo e le elezioni Usa emergono come tema dominante, seguiti da iniziative europee per la sicurezza.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-13T05:50:38.168916+00:00",
+  "published_at": "2026-07-14T05:51:53.405896+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/2bc7d9f9912de2bfb7bdf001d8ab65ab20bdc09a/skytg24/it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio/rassegna13luglio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/4631833ea76bc5f0e3f3ed2437b8a7913f17f678/skytg24/it/cronaca/2026/07/14/prime-pagine-quotidiani-oggi-14-luglio/rassegna14luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/14/prime-pagine-quotidiani-oggi-14-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, domenica 12 luglio 2026",
+      "title": "Oroscopo di oggi, martedì 14 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
