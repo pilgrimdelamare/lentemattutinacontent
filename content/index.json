@@ -1,5 +1,20 @@
 [
   {
+    "id": "7cf6e70368740020",
+    "slug": "perito-moreno-il-ghiacciaio-argentino-che-si-sta-s-7cf6e70368740020",
+    "title": "Perito moreno, il ghiacciaio argentino che si sta sciogliendo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-07-14T00:31:13.556258+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/9e5f1ca1026b195f015f12334d7e4527.jpg",
+    "occhiello": "PERITO MORENO, IL GHIACCIAIO ARGENTINO CHE SI STA SCIOGLIENDO",
+    "lead_preview": "Santa Cruz, 14 luglio. Il ghiacciaio Perito Moreno, una delle attrazioni più famose della Patagonia Argentina, si sta ri",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d51239a8889be412",
     "slug": "il-mito-de-niro-a-roma-sceneggiatura-senza-ricordi-d51239a8889be412",
     "title": "Il mito de niro a roma: sceneggiatura senza ricordi",
@@ -580,23 +595,6 @@
     "occhiello": "IRAN PRONTO AD ABANDONARE IL MEMORANDUM D'INTESA",
     "lead_preview": "Teheran, 13 luglio. L'Iran ha dichiarato che abbandonerà il memorandum d'intesa con gli Stati Uniti se Washington non ri",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7cf6e70368740020",
-    "slug": "perito-moreno-il-ghiacciaio-argentino-che-si-sta-s-7cf6e70368740020",
-    "title": "Perito moreno, il ghiacciaio argentino che si sta sciogliendo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-14T00:31:13.556258+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/9e5f1ca1026b195f015f12334d7e4527.jpg",
-    "occhiello": "PERITO MORENO, IL GHIACCIAIO ARGENTINO CHE SI STA SCIOGLIENDO",
-    "lead_preview": "Santa Cruz, 14 luglio. Il ghiacciaio Perito Moreno, una delle attrazioni più famose della Patagonia Argentina, si sta ri",
-    "tags": [
-      "ghiacciaio perito moreno"
-    ],
     "hero_eligible": true
   },
   {
