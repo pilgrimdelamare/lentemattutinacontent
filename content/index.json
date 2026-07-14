@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260714",
+    "slug": "libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
+    "title": "Il libro del giorno: «La piscinadi Giacomo Papi»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una scintillante commedia degli equivoci piena di colpi di scena e dialoghi surreali",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-14T07:00:42.543996+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
+      "alt": "Copertina: La piscinadi Giacomo Papi",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "89457f5f70e11137",
     "slug": "atalanta-stringe-per-lattaccante-bosniaco-89457f5f70e11137",
     "title": "Atalanta stringe per l’attaccante bosniaco",
@@ -8521,21 +8540,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/2/717c29938d60da15e9a20dfa5cc64601.jpg",
     "occhiello": "EGITTO CON IL FIATO SOSPESO PER MOHAMED SALAH",
     "lead_preview": "Roma, 2 luglio. Il commissario tecnico dell'Egitto, Hossam Hassan, ha dichiarato che la presenza di Mohamed Salah nella ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "db91459aa5edb8a3",
-    "slug": "trump-annuncia-il-piegamento-delliran-ai-microfoni-db91459aa5edb8a3",
-    "title": "Trump annuncia il piegamento dell'iran ai microfoni di cnbc",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-02T22:13:18.515353+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/26/c46df610307b3d8ee484c91079e133fc.jpg",
-    "occhiello": "TRUMP ANNUNCIA IL PIEGAMENTO DELL'IRAN AI MICROFONI DI CNBC",
-    "lead_preview": "New York, 2 luglio. Donald Trump, 47° Presidente degli Stati Uniti, ha dichiarato in un'intervista alla CNBC che l'Iran ",
     "tags": [],
     "hero_eligible": true
   }
