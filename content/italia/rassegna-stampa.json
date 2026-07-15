@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 14 luglio 2026",
+  "title": "Le prime pagine di oggi, mercoledì 15 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 14 luglio 2026",
-    "Le prime pagine di oggi, martedì 14 luglio 2026",
-    "Le prime pagine di oggi, martedì 14 luglio 2026"
+    "Le prime pagine di oggi, mercoledì 15 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 15 luglio 2026",
+    "Le prime pagine di oggi, mercoledì 15 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE – 14 LUGLIO 2026: TENSIONI E POLITICA",
-  "lead": "Le prime pagine di martedì 14 luglio 2026 si concentrano sulle tensioni geopolitiche nel Golfo, le alleanze europee contro missili russi e le divisioni interne in Italia. Tra i temi dominanti spiccano il piano Usa di un pedaggio navale a Hormuz, la nascita di un \"scudo europeo\" per l’Ucraina, il dibattito sulla riforma elettorale e i preparativi per le Olimpiadi di Roma. Sky Go promuove la sua offerta. Quattro quotidiani si focalizzano sulle elezioni Usa, due su politica interna, due su eventi sportivi.",
-  "corpo1": "Prima pagina 3 apre con \"Hormuz, la tassa di Trump\" e il blocco Usa sullo Stretto, mentre dedica spazio all’alleanza ucraina. Prima pagina 4 titola \"Scudo anti-missili europeo\" e menziona la divisione di destra sui referendum. Prima pagina 5 apre con le richieste delle regioni industriali per le Zes e il dibattito sul voto segreto. Prima pagina 6 presenta il decreto sicurezza e i rischi climatici. Prima pagina 7 annuncia un record di entrate e l’intervista a Dimon. Prima pagina 8 si focalizza su calcio e tennis con Sinner. Prima pagina 9 approfondisce il caso Ranucci e la difesa Ue. Prima pagina 10 conclude con Trump e pedaggio a Hormuz, la povertà da climatizzatori e un caso di violenza domestica.",
-  "corpo2": "I titoli secondari includono l’alleanza anti-missili europea, i raid Usa nel Golfo, la spaccatura di Forza Italia e il mercato del lavoro. La guerra fredda nel Golfo e le elezioni Usa emergono come tema dominante, seguiti da iniziative europee per la sicurezza.",
+  "occhiello": "LE PRIME PAGINE 15 LUGLIO 2026: GOVERNO ABBATTUTO SULLE PREFERENZE E MUNDIALI IN FONDO",
+  "lead": "Le prime pagine dei principali quotidiani italiani dedicano spazio alla sconfitta del governo Meloni sull'emendamento alle preferenze elettorali, bocciato con un voto decisivo. Tra i titoli emergono riferimenti al ruolo di \"franchi tiratori\" nella maggioranza e alle reazioni della premier. Alcuni quotidiani danno spazio anche all'esito della sfida Mondiale, con la Spagna che ha battuto la Francia. I giornali menzionati includono Prima Pagina 3, 4, 5, 6, 10, 11, 12, con accenti diversi su legge elettorale e Mondiale.",
+  "corpo1": "Prima Pagina 3 apre con il governo battuto sulla legge elettorale, sottolineando i contatti della premier con i vice e il voto segreto che ha bocciato l'emendamento. Prima Pagina 4 rivede la stessa sconfitta, evidenziando i franchi tiratori che hanno affondato l'iniziativa. Prima Pagina 5 ribadisce la sconfitta di Meloni, con il titolo \"Preferenze, sconfitta Meloni\" e l'annuncio di elezioni anticipate da parte di Schlein, Conte e Renzi. Prima Pagina 6 ribadisce la battaglia sulla riforma elettorale, mentre Prima Pagina 7 e 8 danno spazio alla sconfitta Mondiale della Francia e all'avanzata della Spagna. Prima Pagina 9 usa il titolo \"Il golpe spagnolo\" per descrivere il risultato di Spagna-Francia. Prima Pagina 10, 11 e 12 si concentrano sull'approvazione del disegno di legge e il ruolo di donne \"franche tiratrici\" nel bloccare le preferenze.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-14T05:51:53.405896+00:00",
+  "published_at": "2026-07-15T05:56:21.049916+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/4631833ea76bc5f0e3f3ed2437b8a7913f17f678/skytg24/it/cronaca/2026/07/14/prime-pagine-quotidiani-oggi-14-luglio/rassegna14luglio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/716bac03a9b87666581e39b2032bbaa11a8d5c78/skytg24/it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,7 +35,7 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/14/prime-pagine-quotidiani-oggi-14-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio",
   "related": [
     {
       "title": "Oroscopo di oggi, martedì 14 luglio 2026",
