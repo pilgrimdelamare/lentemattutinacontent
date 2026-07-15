@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-15T00:14:40.625144+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "5b120d1dedc1a084",
     "slug": "seven-people-hospitalized-after-bull-run-in-pamplo-5b120d1dedc1a084",
     "title": "Pamplona, sette feriti in ospedale dopo il caos della corsa dei tori",
@@ -1480,25 +1499,6 @@
     "lead_preview": "Roma, 10 luglio. Grottaglie, città nota per le ceramiche artistiche, ospita fino al 18 ottobre 81 opere provenienti da 2",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 35 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-11T07:10:40.019428+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 35 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "ad1f2ce9b6b240a1",
