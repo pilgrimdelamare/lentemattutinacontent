@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260715",
+    "slug": "libro-del-giorno-il-sangue-non-mente-unindagine-nives-b-20260715",
+    "title": "Il libro del giorno: «Il sangue non mente. Un’indagine»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo psicologico con radici nella provincia emiliana",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-15T07:01:55.962449+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/61ky_kfmcwl__sl1430_-41ed0.jpg?1775794156",
+      "alt": "Copertina: Il sangue non mente. Un’indagine",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/61ky_kfmcwl__sl1430_-41ed0.jpg?1775794156",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "a3d890e39a82d0dd",
     "slug": "modena-brugman-si-unisce-alla-squadra-fino-al-2027-a3d890e39a82d0dd",
     "title": "Brugman al modena, contratto fino al 2027",
@@ -8544,21 +8563,6 @@
     "tags": [
       "mercato fiorentina"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a28056b3c9d6f762",
-    "slug": "brooksby-studia-sinner-gli-appunti-in-panchina-a28056b3c9d6f762",
-    "title": "Brooksby \"studia\" sinner: gli appunti in panchina",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-03T17:52:57.280670+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/403e4fcdfecc11741a39bb47590a675983d510ae/skysport/it/tennis/video/2026/07/03/1109423_1783095896831_thumb_494.0000001_1783097151884.jpg",
-    "occhiello": "BROOKSBY \"STUDIA\" SINNER: GLI APPUNTI IN PANCHINA",
-    "lead_preview": "Londra, 3 luglio — Jannik Sinner non ha vinto solo contro Cameron Norrie a Wimbledon, ma anche contro la sua stessa imma",
-    "tags": [],
     "hero_eligible": true
   }
 ]
