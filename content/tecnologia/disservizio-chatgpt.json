@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 35 minuti di interruzione.",
+  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT è tornato online dopo 35 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 35 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 35 minuti di interruzione."
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RIPRISTINATO",
-  "lead": "ChatGPT è tornato online dopo 35 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 35 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-11T07:10:40.019428+00:00",
+  "published_at": "2026-07-15T00:14:40.625144+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Samsung abbandona il formato verticale per il galaxy z fold",
-      "url": "/tecnologia/samsung-abbandona-il-formato-verticale-per-il-gala-2a4cf2f6ee61a668",
-      "id": "2a4cf2f6ee61a668",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/03/170336402-1c0eb6fe-a478-4a28-becd-24b1defb848e.jpg",
+      "title": "Apple lancia beta pubblica, siri ai bloccata in europa",
+      "url": "/tecnologia/apple-lancia-beta-pubblica-siri-ai-bloccata-in-eur-8bb58e90c17511b4",
+      "id": "8bb58e90c17511b4",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/14/160547496-c35353c3-1c7c-4604-a352-2286099eacf4.jpg",
       "image_type": "image"
     }
   ],
