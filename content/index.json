@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 15 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-15T05:56:21.049916+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/716bac03a9b87666581e39b2032bbaa11a8d5c78/skytg24/it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 15 LUGLIO 2026: GOVERNO ABBATTUTO SULLE PREFERENZE E MUNDIALI IN FONDO",
+    "lead_preview": "Le prime pagine dei principali quotidiani italiani dedicano spazio alla sconfitta del governo Meloni sull'emendamento al",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f4d1ad04466e0343",
     "slug": "michele-de-lucchi-guida-triennale-milano-f4d1ad04466e0343",
     "title": "Triennale milano con direttore creativo: l'architetto michele de lucchi",
@@ -939,25 +958,6 @@
       "licensing globale",
       "mercato licenze",
       "licensing italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 13 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-13T05:50:38.168916+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/2bc7d9f9912de2bfb7bdf001d8ab65ab20bdc09a/skytg24/it/cronaca/2026/07/13/prime-pagine-quotidiani-oggi-13-luglio/rassegna13luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DEL 13 LUGLIO 2026: HORMUZ E SINNER DOMINANO I TITOLI",
-    "lead_preview": "Le prime pagine dei principali quotidiani italiani si concentrano sulla tensione nel Golfo di Hormuz e la vittoria di Ja",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
