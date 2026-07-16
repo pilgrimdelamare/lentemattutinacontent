@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260716",
+    "slug": "libro-del-giorno-la-vita-che-ci-restadi-christina-b-ass-20260716",
+    "title": "Il libro del giorno: «La vita  che ci restadi Christina B. Assouad»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che esplora le conseguenze di un femminicidio sulla sorella della vittima",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-16T07:00:39.782500+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/7135wr7z4sl__sl1499_-1089c.jpg?1775718375",
+      "alt": "Copertina: La vita  che ci restadi Christina B. Assouad",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/7135wr7z4sl__sl1499_-1089c.jpg?1775718375",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "8ab6f000683e8049",
     "slug": "mondiali-2027-profezia-di-pedri-diventa-realta-il-8ab6f000683e8049",
     "title": "Mondiali 2027: profezia di pedri diventa realtà, il post del 2026",
@@ -8501,23 +8520,6 @@
       "diamond league 2026",
       "atletica eugene",
       "wanda diamond league"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "74b9a54737e1ebe8",
-    "slug": "calcio-barbieri-gratis-ai-mondiali-arias-trasforma-74b9a54737e1ebe8",
-    "title": "Servizi di barbieria dentro gli impianti sportivi di los angeles",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-03T08:47:42.471755+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/c785760c2612e45620a41cba3b3ae8c4.jpg",
-    "occhiello": "SERVIZI DI BARBIERIA DENTRO GLI IMPIANTI SPORTIVI DI LOS ANGELES",
-    "lead_preview": "Los Angeles, 3 luglio 2026. L'iniziativa di alcuni barbieri locali trasforma gli spazi dello stadio di Los Angeles in un",
-    "tags": [
-      "mondiali 2026"
     ],
     "hero_eligible": true
   }
