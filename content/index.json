@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 16 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-16T05:50:59.609687+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e041813e398ab02a56ebdf2df4cc702fb697106f/skytg24/it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio/Composite_16_luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 16 LUGLIO 2026 // LEGGE ELETTORALE E GOVERNO NEL CAOS",
+    "lead_preview": "Le testate italiane si concentrano sulla discussione della legge elettorale alla Camera e sulle divisioni nella maggiora",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "13087dc4ae8fb54d",
     "slug": "delusione-mondiale-per-la-francia-13087dc4ae8fb54d",
     "title": "Delusione mondiale per la francia",
@@ -725,25 +744,6 @@
     "occhiello": "RENDITI ITALIANI AL 3,9%, SPREAD A 78,5 PUNTI",
     "lead_preview": "Roma, 14 luglio. I rendimenti dei titoli di Stato italiani raggiungono il 3,9%, mentre lo spread BTP-Bund si allarga a 7",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 15 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-15T05:56:21.049916+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/716bac03a9b87666581e39b2032bbaa11a8d5c78/skytg24/it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 15 LUGLIO 2026: GOVERNO ABBATTUTO SULLE PREFERENZE E MUNDIALI IN FONDO",
-    "lead_preview": "Le prime pagine dei principali quotidiani italiani dedicano spazio alla sconfitta del governo Meloni sull'emendamento al",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
