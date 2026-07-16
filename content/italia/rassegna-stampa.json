@@ -1,17 +1,17 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 15 luglio 2026",
+  "title": "Le prime pagine di oggi, giovedì 16 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 15 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 15 luglio 2026",
-    "Le prime pagine di oggi, mercoledì 15 luglio 2026"
+    "Le prime pagine di oggi, giovedì 16 luglio 2026",
+    "Le prime pagine di oggi, giovedì 16 luglio 2026",
+    "Le prime pagine di oggi, giovedì 16 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 15 LUGLIO 2026: GOVERNO ABBATTUTO SULLE PREFERENZE E MUNDIALI IN FONDO",
-  "lead": "Le prime pagine dei principali quotidiani italiani dedicano spazio alla sconfitta del governo Meloni sull'emendamento alle preferenze elettorali, bocciato con un voto decisivo. Tra i titoli emergono riferimenti al ruolo di \"franchi tiratori\" nella maggioranza e alle reazioni della premier. Alcuni quotidiani danno spazio anche all'esito della sfida Mondiale, con la Spagna che ha battuto la Francia. I giornali menzionati includono Prima Pagina 3, 4, 5, 6, 10, 11, 12, con accenti diversi su legge elettorale e Mondiale.",
-  "corpo1": "Prima Pagina 3 apre con il governo battuto sulla legge elettorale, sottolineando i contatti della premier con i vice e il voto segreto che ha bocciato l'emendamento. Prima Pagina 4 rivede la stessa sconfitta, evidenziando i franchi tiratori che hanno affondato l'iniziativa. Prima Pagina 5 ribadisce la sconfitta di Meloni, con il titolo \"Preferenze, sconfitta Meloni\" e l'annuncio di elezioni anticipate da parte di Schlein, Conte e Renzi. Prima Pagina 6 ribadisce la battaglia sulla riforma elettorale, mentre Prima Pagina 7 e 8 danno spazio alla sconfitta Mondiale della Francia e all'avanzata della Spagna. Prima Pagina 9 usa il titolo \"Il golpe spagnolo\" per descrivere il risultato di Spagna-Francia. Prima Pagina 10, 11 e 12 si concentrano sull'approvazione del disegno di legge e il ruolo di donne \"franche tiratrici\" nel bloccare le preferenze.",
+  "occhiello": "LE PRIME PAGINE 16 LUGLIO 2026 // LEGGE ELETTORALE E GOVERNO NEL CAOS",
+  "lead": "Le testate italiane si concentrano sulla discussione della legge elettorale alla Camera e sulle divisioni nella maggioranza. Il Corriere della Sera, Repubblica, La Stampa e Fatto Quotidiano propongono scenari diversi per il futuro del governo, mentre Gazzetta dello Sport e Corriere dello Sport si focalizzano sul Mondiale dell’Argentina. Il quotidiano di Torino segnala un’intervista alla segretaria del Pd Elly Schlein.",
+  "corpo1": "Il Corriere della Sera titola sull’atteggiamento di Giorgia Meloni, che mantiene la spinta per il premio di maggioranza e la scelta del leader, nonostante l’opposizione di Lega e Forza Italia. Repubblica apre con l’intervista alla segretaria del Pd Elly Schlein, che accusa Meloni di fallire e annuncia pronto il partito a guidare il Paese. La Stampa segnala la decisione della Camera sulla legge elettorale, con l’avvertimento della premier di non scherzare ulteriormente. Fatto Quotidiano riferisce della riforma elettorale all’esame, con il premio al 42% e le nomine parlamentari. Gazzetta dello Sport celebra il gol decisivo di Lautaro Martinez, mentre Corriere dello Sport sottolinea le lacrime del giocatore dopo il goal all’Inghilterra.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-15T05:56:21.049916+00:00",
+  "published_at": "2026-07-16T05:50:59.609687+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/716bac03a9b87666581e39b2032bbaa11a8d5c78/skytg24/it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/e041813e398ab02a56ebdf2df4cc702fb697106f/skytg24/it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio/Composite_16_luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/15/prime-pagine-quotidiani-oggi-15-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 14 luglio 2026",
+      "title": "Oroscopo di oggi, giovedì 16 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
