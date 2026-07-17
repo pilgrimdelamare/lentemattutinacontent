@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 16 luglio 2026",
+  "title": "Le prime pagine di oggi, venerdì 17 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 16 luglio 2026",
-    "Le prime pagine di oggi, giovedì 16 luglio 2026",
-    "Le prime pagine di oggi, giovedì 16 luglio 2026"
+    "Le prime pagine di oggi, venerdì 17 luglio 2026",
+    "Le prime pagine di oggi, venerdì 17 luglio 2026",
+    "Le prime pagine di oggi, venerdì 17 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 16 LUGLIO 2026 // LEGGE ELETTORALE E GOVERNO NEL CAOS",
-  "lead": "Le testate italiane si concentrano sulla discussione della legge elettorale alla Camera e sulle divisioni nella maggioranza. Il Corriere della Sera, Repubblica, La Stampa e Fatto Quotidiano propongono scenari diversi per il futuro del governo, mentre Gazzetta dello Sport e Corriere dello Sport si focalizzano sul Mondiale dell’Argentina. Il quotidiano di Torino segnala un’intervista alla segretaria del Pd Elly Schlein.",
-  "corpo1": "Il Corriere della Sera titola sull’atteggiamento di Giorgia Meloni, che mantiene la spinta per il premio di maggioranza e la scelta del leader, nonostante l’opposizione di Lega e Forza Italia. Repubblica apre con l’intervista alla segretaria del Pd Elly Schlein, che accusa Meloni di fallire e annuncia pronto il partito a guidare il Paese. La Stampa segnala la decisione della Camera sulla legge elettorale, con l’avvertimento della premier di non scherzare ulteriormente. Fatto Quotidiano riferisce della riforma elettorale all’esame, con il premio al 42% e le nomine parlamentari. Gazzetta dello Sport celebra il gol decisivo di Lautaro Martinez, mentre Corriere dello Sport sottolinea le lacrime del giocatore dopo il goal all’Inghilterra.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE 17 LUGLIO 2026",
+  "lead": "I quotidiani italiani dedicano ampio spazio al caso del gioielliere Mario Roggero, al nodo giudiziario del Ponte Morandi e al calciomercato estivo. Il tema dominante è la reazione del presidente Mattarella al tentativo del Guardasigilli Nordio di intervenire per la grazia a Roggero. Altri titoli si concentrano sulle condanne per l’incidente del ponte e i movimenti di mercato, con particolare attenzione a Juventus e Roma.",
+  "corpo1": "Il quotidiano torinese \"Prima pagina 5\" apre con il caso Roggero, segnalando l’intervento del presidente Mattarella contro Nordio. \"Prima pagina 6\" e \"Prima pagina 10\" riprendono lo stesso tema, evidenziando il divieto del Colle all’iter per la grazia. \"Prima pagina 7\" e \"Prima pagina 8\" si concentrano sul calciomercato, con l’acquisto della Juve del terzino turco Celik e le trattative per Pellegrino. \"Prima pagina 9\" aggiunge dettagli sull’affare Juve-Roma. \"Prima pagina 3\" e \"Prima pagina 4\" presentano le sentenze del processo Ponte Morandi, con 32 condanne e 25 assoluzioni. Alcuni quotidiani, come \"Prima pagina 1\" e \"Prima pagina 2\", ospitano contenuti testuali non riconducibili a titoli specifici.",
+  "corpo2": "Altri spazi sono occupati da aggiornamenti su leggi elettorali e dichiarazioni di accessibilità. Il filone dominante rimane la convergenza su questioni di giustizia e calcio, con particolare enfasi sui dibattiti politico-giuridici legati alla clemenza del presidente.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,19 +23,19 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-16T05:50:59.609687+00:00",
+  "published_at": "2026-07-17T05:45:24.026497+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e041813e398ab02a56ebdf2df4cc702fb697106f/skytg24/it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio/Composite_16_luglio.jpg?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/6b96d6109ad6c06237a73313438c63e480e916b5/skytg24/it/cronaca/2026/07/17/prime-pagine-quotidiani-oggi-17-luglio/collage_hero.jpg?im=Resize,width=375",
+    "source": "Brillant sun shining in blue sky overhead in southwest Florida USA",
+    "credit": "Prima pagina — Brillant sun shining in blue sky overhead in southwest Florida USA",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/17/prime-pagine-quotidiani-oggi-17-luglio",
   "related": [
     {
       "title": "Oroscopo di oggi, giovedì 16 luglio 2026",
@@ -45,17 +45,17 @@
       "image_type": "none"
     },
     {
+      "title": "16 luglio 2026: inizia crowdfunding per film su federico aldrovandi",
+      "url": "/cultura/16-luglio-2026-inizia-crowdfunding-per-film-su-fed-3291d1d933df1ae4",
+      "id": "3291d1d933df1ae4",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2012/7/9/12bdd8fa08e4f30af79c6cedd04ac9ed.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "La Notte della Taranta parte alla fine di luglio con 20 concerti itineranti in Salento",
       "url": "/cultura/la-notte-della-taranta-celebra-il-mediterraneo-con-04ccfe9cf4c67dfa",
       "id": "04ccfe9cf4c67dfa",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/11/122a1e8b583387dbf08920ad264f4fcb.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "WOLFSBURG, 9 luglio 2026 - Volkswagen annuncia taglio fino a 50.000 posti di lavoro entro il 2030",
-      "url": "/economia/volkswagen-taglia-50mila-posti-entro-il-2030-la-gr-dec71818679349f7",
-      "id": "dec71818679349f7",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/4/f0a5da452fe9051e89b93fe30b228ce2.jpg",
       "image_type": "image"
     }
   ],
