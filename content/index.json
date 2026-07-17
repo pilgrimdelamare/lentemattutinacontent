@@ -1,18 +1,22 @@
 [
   {
-    "id": "5e98b0e22286b446",
-    "slug": "barachini-stabilisce-regole-per-luso-dellia-negli-5e98b0e22286b446",
-    "title": "Barachini impone AI dichiarata in spot istituzionali",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-07-16T09:16:04.316458+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/8/ac863c6bf252faa3897405e1d3df482e.jpg",
-    "occhiello": "SPOT ISTITUZIONALI SOLO CON VOCI UMANE",
-    "lead_preview": "Roma, 16 luglio. Il Sottosegretario all'Informazione e all'Editoria, Federico Barachini, ha annunciato nuovi criteri per",
-    "tags": [],
-    "hero_eligible": true
+    "id": "libro-20260717",
+    "slug": "libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
+    "title": "Il libro del giorno: «Verrà l’alba, starai benedi Gianluca Gotto»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-17T07:00:44.343632+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
+      "alt": "Copertina: Verrà l’alba, starai benedi Gianluca Gotto",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
+    "image_type": "url",
+    "hero_eligible": false
   },
   {
     "id": "0d6e9a9372449331",
@@ -812,6 +816,21 @@
     "image_url": "https://sport.sky.it/assets/images/ecaf475d2248a86868cc4936fe77670dac68fe78/skysport/it/tennis/video/2026/07/16/1112427_1784233456562_thumb_494.0000001_1784233710946.jpg",
     "occhiello": "SINNER SECONDO A WIMBLEDON, FOGNINI E PENNETTA COMMENTANO A MILANO MARITTIMA",
     "lead_preview": "Milano Marittima, 16 luglio. Fabio Fognini e Flavia Pennetta hanno commentato il secondo trionfo consecutivo di Jannik S",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "5e98b0e22286b446",
+    "slug": "barachini-stabilisce-regole-per-luso-dellia-negli-5e98b0e22286b446",
+    "title": "Spot istituzionali solo con voci umane",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-07-16T09:16:04.316458+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/8/ac863c6bf252faa3897405e1d3df482e.jpg",
+    "occhiello": "SPOT ISTITUZIONALI SOLO CON VOCI UMANE",
+    "lead_preview": "Roma, 16 luglio. Il Sottosegretario all'Informazione e all'Editoria, Federico Barachini, ha annunciato nuovi criteri per",
     "tags": [],
     "hero_eligible": true
   },
@@ -8442,21 +8461,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/3/2539e5ca673466da6ee439c4e789d688.jpg",
     "occhiello": "LIDIA JORGE VINCE IL PREMIO CAMOES 2026 PER LA LETTERATURA",
     "lead_preview": "Lisbona, 3 luglio 2026. La scrittrice portoghese Lidia Jorge è la vincitrice del Premio Camoes 2026, il più prestigioso ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3200f2e4c69ed7db",
-    "slug": "zucchero-celebra-i-venticinque-anni-di-baila-sexy-3200f2e4c69ed7db",
-    "title": "Zucchero celebra i venticinque anni di baila sexy thing",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-07-03T15:28:43.324608+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/23/19f410c1bf438e4d3f6fe612706255c0.jpg",
-    "occhiello": "ZUCCHERO CELEBRA I VENTICINQUE ANNI DI BAILA SEXY THING",
-    "lead_preview": "Roma, 3 luglio 2026. Adelmo Fornaciari, in arte Zucchero, ufficializza il ritorno negli stadi italiani per celebrare il ",
     "tags": [],
     "hero_eligible": true
   }
