@@ -1,5 +1,22 @@
 [
   {
+    "id": "libro-20260717",
+    "slug": "libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-17T07:00:44.343632+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su",
+    "tags": [
+      "libro del giorno"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e4d593eb78757802",
     "slug": "scimmia-con-labbra-arancioni-a-rischio-nel-congo-e4d593eb78757802",
     "title": "Scimmia con labbra arancioni a rischio nel congo",
@@ -1208,25 +1225,6 @@
     "lead_preview": "Teheran, 16 luglio. L'Iran ha lanciato minacce contro le infrastrutture regionali, avvertendo che in caso di attacco da ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260717",
-    "slug": "libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
-    "title": "Il libro del giorno: «Verrà l’alba, starai benedi Gianluca Gotto»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-17T07:00:44.343632+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
-      "alt": "Copertina: Verrà l’alba, starai benedi Gianluca Gotto",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "0d6e9a9372449331",
