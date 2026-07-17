@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 17 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-17T05:45:24.026497+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/6b96d6109ad6c06237a73313438c63e480e916b5/skytg24/it/cronaca/2026/07/17/prime-pagine-quotidiani-oggi-17-luglio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 17 LUGLIO 2026",
+    "lead_preview": "I quotidiani italiani dedicano ampio spazio al caso del gioielliere Mario Roggero, al nodo giudiziario del Ponte Morandi",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3fc758233c1cbec7",
     "slug": "fmi-taglia-pil-eurolandia-a-09-per-guerra-medio-or-3fc758233c1cbec7",
     "title": "Fmi taglia pil eurolandia a +0,9% per guerra medio oriente",
@@ -1049,25 +1068,6 @@
     "occhiello": "SPAGNA IN FINALE AI MONDIALI",
     "lead_preview": "Roma, 15 luglio. Il primo Ministro esulta dopo la vittoria sulla Francia: \"spettacolare, siamo in finale\"",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 16 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-16T05:50:59.609687+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e041813e398ab02a56ebdf2df4cc702fb697106f/skytg24/it/cronaca/2026/07/16/prime-pagine-quotidiani-oggi-16-luglio/Composite_16_luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 16 LUGLIO 2026 // LEGGE ELETTORALE E GOVERNO NEL CAOS",
-    "lead_preview": "Le testate italiane si concentrano sulla discussione della legge elettorale alla Camera e sulle divisioni nella maggiora",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
