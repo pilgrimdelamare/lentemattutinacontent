@@ -1,5 +1,20 @@
 [
   {
+    "id": "aeea7211f77f840a",
+    "slug": "iran-minaccia-infrastrutture-usa-nel-medio-oriente-aeea7211f77f840a",
+    "title": "Teheran minaccia infrastrutture regionali",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-16T10:00:57.852411+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/3/12/b2465def189428fa59462f4f8ca71d4b.jpg",
+    "occhiello": "TEHERAN MINACCIA INFRASTRUTTURE REGIONALI",
+    "lead_preview": "Teheran, 16 luglio. L'Iran ha lanciato minacce contro le infrastrutture regionali, avvertendo che in caso di attacco da ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260717",
     "slug": "libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
     "title": "Il libro del giorno: «Verrà l’alba, starai benedi Gianluca Gotto»",
@@ -757,21 +772,6 @@
       "guerra iran",
       "sicurezza elettorale"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "aeea7211f77f840a",
-    "slug": "iran-minaccia-infrastrutture-usa-nel-medio-oriente-aeea7211f77f840a",
-    "title": "Teheran minaccia infrastrutture regionali",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-16T10:00:57.852411+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/3/12/b2465def189428fa59462f4f8ca71d4b.jpg",
-    "occhiello": "TEHERAN MINACCIA INFRASTRUTTURE REGIONALI",
-    "lead_preview": "Teheran, 16 luglio. L'Iran ha lanciato minacce contro le infrastrutture regionali, avvertendo che in caso di attacco da ",
-    "tags": [],
     "hero_eligible": true
   },
   {
