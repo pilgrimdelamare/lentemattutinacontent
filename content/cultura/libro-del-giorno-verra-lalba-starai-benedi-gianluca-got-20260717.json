@@ -1,26 +1,24 @@
 {
   "id": "libro-20260717",
   "slug": "libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
-  "title": "Il libro del giorno: «Verrà l’alba, starai benedi Gianluca Gotto»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Verrà l’alba, starai benedi Gianluca Gotto»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su",
   "corpo1": "E se la vita, quella vera, quella che si meritava di vivere, non fosse ancora iniziata? Questo è il quesito che si pone la protagonista del romanzo, Veronica, una giovane donna che ha tentato di cambiare vita trasferendosi a Melbourne, in Australia, per allontanarsi da un passato doloroso e da genitori troppo invadenti. La sua esistenza è diventata una routine di lavoro e palestra, senza spazio per amicizie o relazioni sentimentali. La sua mente è tutta votata all'organizzazione, la precisione e la disciplina, ma è anche preda di ossessioni che generano ansia e stress. La pandemia da COVID aggrava la sua situazione, fino a quando un imprevisto la costringe a fermarsi e a guardare dentro se stessa. A questo punto, Veronica decide di intraprendere un nuovo viaggio, questa volta nello Sri Lanka, dove incontra Camilla, una giovane donna spezzata dagli eventi della vita. Insieme, attraversano l'isola, scoprendo usanze e tradizioni locali, e incontrando persone gentili e disinteressate. Il percorso di salvezza di Camilla e Veronica si intreccia con la storia di un grande amore, mai dimenticato, che sembra dare una seconda possibilità.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8804773189\" rel=\"sponsored\" target=\"_blank\">Verrà l’alba, starai benedi Gianluca Gotto di  su Amazon</a></p>",
+  "corpo2": "Gotto sceglie lo Sri Lanka non come mero esotismo, ma come specchio capovolto dei nostri meccanismi di fuga. La figura di Camilla — una donna che ha smesso di curare le apparenze per vivere in un villaggio rurale — diventa il contrappunto necessario a Veronica. L’una, schiava della programmazione; l’altra, abbandonata al caso. L’intreccio tra le due traiettorie non è mera simbiosi narrativa: è un esperimento di antropologia relazionale. Gotto si immerge nei riti locali non per esotizzare, ma per mostrare come la cultura collettiva possa svelare il vuoto esistenziale che i protagonisti portano dentro. La scelta del viaggio come momento di \"disorganizzazione\" è geniale: l’unico modo per Veronica di smettere di controllare tutto è perderlo.  \n\nL’autore non nasconde la sua agenda: il libro è un invito a smantellare i miti della \"vita perfetta\" costruita su orari, obiettivi KPI, e social media. La pandemia, in questo senso, non è un episodio estraneo ma il catalizzatore di un malessere cronico. Gotto non idealizza niente. Nemmeno il \"secondo act\" che Veronica cerca a Colombo: i personaggi non hanno epifanie da soap, ma scontri con la mediocrità quotidiana. L’unico miracolo è il tempo perduto che si rigenera, lentamente.  \n\nIl romanzo ha scalato le classifiche italiane per tre mesi consecutivi — un dato che smentisce l’idea che gli italiani non leggano di crescita personale — eppure non sembra interessare a nessuno. Forse perché Gotto non offre ricette. Non esiste un guru, una trappola da evitare, un mantra da ripetere. Solo due donne che camminano, una in cerca del proprio inizio, l’altra del proprio fine. Se la cultura popolare non riesce a sostenere narrazioni così complesse, non è un limite dell’autore. È un limite dei lettori.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-17T07:00:44.343632+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Verrà l’alba, starai benedi Gianluca Gotto",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Verra-l-alba-starai-bene-Gianluca-Gotto.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su\",\n  \"articleBody\": \"un poderoso romanzo che ci illumina sui rapporti interpersonali e soprattutto su E se la vita, quella vera, quella che si meritava di vivere, non fosse ancora iniziata? Questo è il quesito che si pone la protagonista del romanzo, Veronica, una giovane donna che ha tentato di cambiare vita trasferendosi a Melbourne, in Australia, per allontanarsi da un passato doloroso e da genitori troppo invadenti. La sua esistenza è diventata una routine di lavoro e palestra, senza spazio per amicizie o relazioni sentimentali. La sua mente è tutta votata all'organizzazione, la precisione e la disciplina, ma è anche preda di ossessioni che generano ansia e stress. La pandemia da COVID aggrava la sua situazione, fino a quando un imprevisto la costringe a fermarsi e a guardare dentro se stessa. A questo punto, Veronica decide di intraprendere un nuovo viaggio, questa volta nello Sri Lanka, dove incontra Camilla, una giovane donna spezzata dagli eventi della vita. Insieme, attraversano l'isola, scoprendo usanze e tradizioni locali, e incontrando persone gentili e disinteressate. Il percorso di salvezza di Camilla e Veronica si intreccia con la storia di un grande amore, mai dimenticato, che sembra dare una seconda possibilità. Gotto sceglie lo Sri Lanka non come mero esotismo, ma come specchio capovolto dei nostri meccanismi di fuga. La figura di Camilla — una donna che ha smesso di curare le apparenze per vivere in un villaggio rurale — diventa il contrappunto necessario a Veronica. L’una, schiava della programmazione; l’altra, abbandonata al caso. L’intreccio tra le due traiettorie non è mera simbiosi narrativa: è un esperimento di antropologia relazionale. Gotto si immerge nei riti locali non per esotizzare, ma per mostrare come la cultura collettiva possa svelare il vuoto esistenziale che i protagonisti portano dentro. La scelta del viaggio come momento di \\\"disorganizzazione\\\" è geniale: l’unico modo per Veronica di smettere di controllare tutto è perderlo.  \\n\\nL’autore non nasconde la sua agenda: il libro è un invito a smantellare i miti della \\\"vita perfetta\\\" costruita su orari, obiettivi KPI, e social media. La pandemia, in questo senso, non è un episodio estraneo ma il catalizzatore di un malessere cronico. Gotto non idealizza niente. Nemmeno il \\\"secondo act\\\" che Veronica cerca a Colombo: i personaggi non hanno epifanie da soap, ma scontri con la mediocrità quotidiana. L’unico miracolo è il tempo perduto che si rigenera, lentamente.  \\n\\nIl romanzo ha scalato le classifiche italiane per tre mesi consecutivi — un dato che smentisce l’idea che gli italiani non leggano di crescita personale — eppure non sembra interessare a nessuno. Forse perché Gotto non offre ricette. Non esiste un guru, una trappola da evitare, un mantra da ripetere. Solo due donne che camminano, una in cerca del proprio inizio, l’altra del proprio fine. Se la cultura popolare non riesce a sostenere narrazioni così complesse, non è un limite dell’autore. È un limite dei lettori.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-17T07:00:44.343632+00:00\",\n  \"dateModified\": \"2026-07-17T07:00:44.343632+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260717\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260717\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-la-vita-che-ci-restadi-christina-b-ass-20260716",
+      "id": "libro-20260716",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/7135wr7z4sl__sl1499_-1089c.jpg?1775718375",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-sangue-non-mente-unindagine-nives-b-20260715",
+      "id": "libro-20260715",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L218xH312/61ky_kfmcwl__sl1430_-41ed0.jpg?1775794156",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-la-piscinadi-giacomo-papi-20260714",
+      "id": "libro-20260714",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L199xH312/71ssbmu3mql__sl1500_-60920.jpg?1775709351",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-17T07:00:44.343632+00:00"
 }
