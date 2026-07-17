@@ -1,20 +1,5 @@
 [
   {
-    "id": "f42f01a16a51768e",
-    "slug": "brent-a-8444-dollari-wti-scende-a-7924-f42f01a16a51768e",
-    "title": "Petrolio in calo, Brent a 84,44 e Wti a 79,24 dollari",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-16T06:17:16.171907+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/9/02004d656f353d5f8dba54a978fc0dbe.jpg",
-    "occhiello": "BRENT A 84,44 DOLLARI, WTI SCENDE A 79,24",
-    "lead_preview": "Roma, 16 luglio. Il barile di Brent passa di mano a 84,44 dollari e il greggio Wti scambiato a 79,24 dollari, con il pre",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "2b877c465756a8c8",
     "slug": "kuwait-respinge-droni-teheran-denuncia-colpo-a-osp-2b877c465756a8c8",
     "title": "Kuwait respinge droni, teheran denuncia colpo a ospedale",
@@ -26,6 +11,21 @@
     "image_url": "https://images.pexels.com/photos/35327453/pexels-photo-35327453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "occhiello": "KUWAIT RESPINGE DRONI, TEHERAN DENUNCIA COLPO A OSPEDALE",
     "lead_preview": "Kuwait City, 16 luglio. L'Iran ha condannato i raid aerei statunitensi eseguiti nelle vicinanze di un ospedale per bambi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "f42f01a16a51768e",
+    "slug": "brent-a-8444-dollari-wti-scende-a-7924-f42f01a16a51768e",
+    "title": "Petrolio in calo, Brent a 84,44 e Wti a 79,24 dollari",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-07-16T06:17:16.171907+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/9/02004d656f353d5f8dba54a978fc0dbe.jpg",
+    "occhiello": "BRENT A 84,44 DOLLARI, WTI SCENDE A 79,24",
+    "lead_preview": "Roma, 16 luglio. Il barile di Brent passa di mano a 84,44 dollari e il greggio Wti scambiato a 79,24 dollari, con il pre",
     "tags": [],
     "hero_eligible": true
   },
