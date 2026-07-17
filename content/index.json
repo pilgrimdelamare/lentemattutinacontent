@@ -1,20 +1,5 @@
 [
   {
-    "id": "f8198e10523e7a10",
-    "slug": "obbligo-assicurazione-preventivatori-offline-f8198e10523e7a10",
-    "title": "Obbligo assicurazione, preventivatori offline",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-16T11:51:36.949212+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/18/9f22f315deb7d41160a4b3348449348c.jpg",
-    "occhiello": "OBBLIGO ASSICURAZIONE, PREVENTIVATORI OFFLINE",
-    "lead_preview": "Roma, 16 luglio. Entra in vigore oggi l'obbligo di assicurazione per i monopattini e i preventivatori online delle compa",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "89053376fb0308d8",
     "slug": "basket-giuseppe-mangone-incanta-las-vegas-caleb-wi-89053376fb0308d8",
     "title": "Quarta scelta draft fa 35 punti a las vegas",
@@ -26,6 +11,21 @@
     "image_url": "https://sport.sky.it/assets/images/f194cbbfb3a95f8adfd4dd2ec4642d9310273773/skysport/it/nba/video/2026/07/16/giuseppe-mangone-caleb-wilson-nba-summer-league-1112271/caleb_wilson_getty_1.jpg",
     "occhiello": "QUARTA SCELTA DRAFT FA 35 PUNTI A LAS VEGAS",
     "lead_preview": "Las Vegas, 16 luglio. Giuseppe Mangone, Player Development Coach dell'Olimpia Milano, ha preso parte alla Summer League ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "f8198e10523e7a10",
+    "slug": "obbligo-assicurazione-preventivatori-offline-f8198e10523e7a10",
+    "title": "Obbligo assicurazione, preventivatori offline",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-07-16T11:51:36.949212+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/18/9f22f315deb7d41160a4b3348449348c.jpg",
+    "occhiello": "OBBLIGO ASSICURAZIONE, PREVENTIVATORI OFFLINE",
+    "lead_preview": "Roma, 16 luglio. Entra in vigore oggi l'obbligo di assicurazione per i monopattini e i preventivatori online delle compa",
     "tags": [],
     "hero_eligible": true
   },
