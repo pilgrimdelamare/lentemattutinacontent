@@ -1,26 +1,29 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude riprende operazioni dopo 35 minuti",
+  "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "Claude riprende operazioni dopo 35 minuti",
-    "Sovraccarico rete dati blocca Claude",
-    "Dati sensibili al sicuro, Claude riparte"
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RISOLTO",
-  "lead": "Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.",
-  "corpo1": "Il malfunzionamento è stato rilevato alle 07:42 UTC, con interruzione totale dei servizi per 35 minuti. Le cause sono state identificate in un sovraccarico temporaneo della rete di distribuzione dati. Alle 08:17 UTC il sistema ha riavviato tutti i processi critici con esito positivo. Monitor costante conferma stabilità operativa. Nessun impatto su dati sensibili registrato.",
-  "corpo2": "Le 35 minuti di blackout di Claude non sono stati un episodio isolato, ma il sintomo di una vulnerabilità sistemica che la stessa Anthropic ha confermato in un aggiornamento tecnico pubblicato dopo il ripristino. Secondo il report interno diffuso alle 21:15 UTC dello stesso giorno, l’incidente è stato innescato da un picco di richieste pari al 230% della capacità ordinaria della rete di distribuzione dati, gestita tramite infrastrutture AWS in Virginia e Oregon. Il sovraccarico, secondo la ricostruzione, è stato amplificato da un errore di routing automatico che ha dirottato il traffico su un cluster secondario non progettato per sostenere carichi di quel livello. Anthropic ha attribuito la responsabilità a un “configurazione di bilanciamento adattivo non ottimale”, una frase che, tradotta dal gergo tecnico, significa che il sistema non era stato testato per scenari di stress reali, ma solo in simulazioni teoriche.\n\nLa dinamica ricorda il collasso di Fastly nel giugno 2021, quando un aggiornamento software difettoso MISE offline siti come Amazon, Reddit e Twitch per un’ora. Allora, come oggi, il problema non fu un attacco esterno, ma un difetto interno di progettazione — una dimostrazione che la resilienza dei sistemi di intelligenza artificiale non dipende solo dalla Potenza dei modelli, ma dalla solidità delle infrastrutture che li supportano. Anthropic ha annunciato un audit indipendente delle procedure di gestione del traffico, ma non ha reso noto se i server coinvolti siano stati potenziati per evitare il ripetersi dello stesso errore. Il comunicato, inoltre, non ha fornito dettagli sui clienti diretti colpiti dall’interruzione, limitandosi a specificare che “le richieste di inferenza sono state temporaneamente sospese” senza quantificare l’impatto economico.\n\nQuel che è certo è che, per 35 minuti, milioni di utenti — tra cui sviluppatori, aziende e istituzioni che si affidano a Claude per automazione di processi, assistenza clienti e analisi testuale — si sono trovati senza accesso a un servizio che, secondo i dati di Anthropic, processa oltre 150 milioni di richieste al giorno. Se un’infrastruttura del genere non regge un picco di traffico pari a poco più del doppio della media, la domanda non è se ci saranno altri blackout, ma quando e con quali conseguenze.",
+  "occhiello": "CLAUDE IN DOWN",
+  "lead": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-06T19:53:26.090696+00:00",
+  "published_at": "2026-07-18T15:30:42.853602+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -28,34 +31,33 @@
     "credit": "Claude",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Claude riprende operazioni dopo 35 minuti\",\n  \"description\": \"Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato.\",\n  \"articleBody\": \"Claude ha ripreso le operazioni dopo 35 minuti di disservizio non programmato. Il malfunzionamento è stato rilevato alle 07:42 UTC, con interruzione totale dei servizi per 35 minuti. Le cause sono state identificate in un sovraccarico temporaneo della rete di distribuzione dati. Alle 08:17 UTC il sistema ha riavviato tutti i processi critici con esito positivo. Monitor costante conferma stabilità operativa. Nessun impatto su dati sensibili registrato. Le 35 minuti di blackout di Claude non sono stati un episodio isolato, ma il sintomo di una vulnerabilità sistemica che la stessa Anthropic ha confermato in un aggiornamento tecnico pubblicato dopo il ripristino. Secondo il report interno diffuso alle 21:15 UTC dello stesso giorno, l’incidente è stato innescato da un picco di richieste pari al 230% della capacità ordinaria della rete di distribuzione dati, gestita tramite infrastrutture AWS in Virginia e Oregon. Il sovraccarico, secondo la ricostruzione, è stato amplificato da un errore di routing automatico che ha dirottato il traffico su un cluster secondario non progettato per sostenere carichi di quel livello. Anthropic ha attribuito la responsabilità a un “configurazione di bilanciamento adattivo non ottimale”, una frase che, tradotta dal gergo tecnico, significa che il sistema non era stato testato per scenari di stress reali, ma solo in simulazioni teoriche.\\n\\nLa dinamica ricorda il collasso di Fastly nel giugno 2021, quando un aggiornamento software difettoso MISE offline siti come Amazon, Reddit e Twitch per un’ora. Allora, come oggi, il problema non fu un attacco esterno, ma un difetto interno di progettazione — una dimostrazione che la resilienza dei sistemi di intelligenza artificiale non dipende solo dalla Potenza dei modelli, ma dalla solidità delle infrastrutture che li supportano. Anthropic ha annunciato un audit indipendente delle procedure di gestione del traffico, ma non ha reso noto se i server coinvolti siano stati potenziati per evitare il ripetersi dello stesso errore. Il comunicato, inoltre, non ha fornito dettagli sui clienti diretti colpiti dall’interruzione, limitandosi a specificare che “le richieste di inferenza sono state temporaneamente sospese” senza quantificare l’impatto economico.\\n\\nQuel che è certo è che, per 35 minuti, milioni di utenti — tra cui sviluppatori, aziende e istituzioni che si affidano a Claude per automazione di processi, assistenza clienti e analisi testuale — si sono trovati senza accesso a un servizio che, secondo i dati di Anthropic, processa oltre 150 milioni di richieste al giorno. Se un’infrastruttura del genere non regge un picco di traffico pari a poco più del doppio della media, la domanda non è se ci saranno altri blackout, ma quando e con quali conseguenze.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-06T19:53:26.090696+00:00\",\n  \"dateModified\": \"2026-07-06T19:53:26.090696+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_claude\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_claude\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Samsung abbandona il formato verticale per il galaxy z fold",
-      "url": "/tecnologia/samsung-abbandona-il-formato-verticale-per-il-gala-2a4cf2f6ee61a668",
-      "id": "2a4cf2f6ee61a668",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/03/170336402-1c0eb6fe-a478-4a28-becd-24b1defb848e.jpg",
+      "title": "ChatGPT è tornato online dopo 40 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Giovanni Tommaso: «Addio alla chitarra dopo 75 minuti, non servono bis» a Umbria Jazz",
-      "url": "/cultura/a-78-anni-giovanni-tommaso-spegne-la-chitarra-no-b-8a99cc302077ddc4",
-      "id": "8a99cc302077ddc4",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ce0b73d7ca34026d4ccd5a537c647b9.jpg",
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "F1: Sainz penalizzato per cambio gomme irregolare",
-      "url": "/sport/f1-sainz-penalizzato-per-cambio-gomme-irregolare-2db2b5b06b91a230",
-      "id": "2db2b5b06b91a230",
-      "image_url": "https://sport.sky.it/assets/images/f251847076cdc7d4c8a5e6137b1415bc7008028d/skysport/it/motori/formula-1/2026/07/07/f1-sainz-penalita-gp-silverstone/ansa_sainz_silverstone_f1.jpg",
-      "image_type": "feed_image"
+      "title": "Apple lancia beta pubblica, siri ai bloccata in europa",
+      "url": "/tecnologia/apple-lancia-beta-pubblica-siri-ai-bloccata-in-eur-8bb58e90c17511b4",
+      "id": "8bb58e90c17511b4",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/14/160547496-c35353c3-1c7c-4604-a352-2286099eacf4.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-07-06T19:53:26.090696+00:00"
+  "hero_eligible": false
 }
