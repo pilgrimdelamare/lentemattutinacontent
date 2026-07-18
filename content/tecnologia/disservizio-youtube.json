@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è down da 15 minuti. Il blackout colpisce milioni di utenti italiani imp",
+  "title": "YouTube è tornato online dopo 27 minuti di interruzione.",
   "titles": [
-    "YouTube è down da 15 minuti. Il blackout colpisce milioni di utenti italiani imp",
-    "YouTube è down da 15 minuti. Il blackout colpisce milioni di utenti italiani imp",
-    "YouTube è down da 15 minuti. Il blackout colpisce milioni di utenti italiani imp"
+    "YouTube è tornato online dopo 27 minuti di interruzione.",
+    "YouTube è tornato online dopo 27 minuti di interruzione.",
+    "YouTube è tornato online dopo 27 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ALLERTA ROSSA: YOUTUBE NON RAGGIUNGIBILE",
-  "lead": "YouTube è down da 15 minuti. Il blackout colpisce milioni di utenti italiani impossibilitati a guardare video, live e contenuti premium.",
-  "corpo1": "Dalle ore 09:45 il servizio YouTube risulta completamente irraggiungibile su territorio nazionale. Il problema interessa streaming video, dirette, ricerca e accesso all'area membership. YouTube Premium non eroga i contenuti a pagamento già fatturati, bloccando di fatto un servizio per cui gli utenti hanno versato denaro. Le API di embed sono offline, compromettendo anche siti terzi. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RIPRISTINATO",
+  "lead": "YouTube è tornato online dopo 27 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 27 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T21:24:29.853102+00:00",
+  "published_at": "2026-07-18T21:36:36.170707+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
-  "related": [],
+  "related": [
+    {
+      "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
