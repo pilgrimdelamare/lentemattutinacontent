@@ -1,17 +1,17 @@
 {
   "id": "monitor_tiktok",
   "slug": "disservizio-tiktok",
-  "title": "TikTok è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
   "titles": [
-    "TikTok è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi."
+    "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
+    "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
+    "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TIKTOK IN DOWN",
-  "lead": "TikTok è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio TikTok risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
+  "lead": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionamento infrastrutturale ora completamente risolto.",
+  "corpo1": "L'interruzione del servizio TikTok è iniziata alle ore 09:12 ed è terminata alle 09:55, con una durata complessiva di 43 minuti. Il problema ha interessato l'accesso all'applicazione e alla relativa piattaforma web. I sistemi di monitoraggio hanno registrato il ripristino completo delle funzionalità. Allo stato attuale la piattaforma risulta pienamente operativa e raggiungibile dagli utenti. L'intervento tecnico ha consentito di riallineare i nodi interessati dal disservizio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T21:30:22.864820+00:00",
+  "published_at": "2026-07-18T21:52:28.610018+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/tiktok.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-tiktok",
-  "related": [],
+  "related": [
+    {
+      "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
