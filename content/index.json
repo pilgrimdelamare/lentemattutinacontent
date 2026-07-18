@@ -1,20 +1,5 @@
 [
   {
-    "id": "b21552127a2c6d5b",
-    "slug": "calcio-scaloni-esprime-emozione-per-il-supporto-de-b21552127a2c6d5b",
-    "title": "Argentina unita sotto la guida di scaloni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-18T07:31:48.711806+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/18/91b1e9d134cee4f41c35a4229654176a.jpg",
-    "occhiello": "ARGENTINA UNITA SOTTO LA GUIDA DI SCALONI",
-    "lead_preview": "Buenos Aires, 18 luglio. Lionel Scaloni, allenatore della Nazionale Argentina, esprime emozione per come il Paese si sia",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "47bbd46de6ecfe40",
     "slug": "usa-petroliere-a-hormuz-non-colpite-e-falso-47bbd46de6ecfe40",
     "title": "Usa: petroliere a hormuz non colpite, è falso",
@@ -26,6 +11,21 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/0e79bf4cb5af78f0f67d0374d166962f.jpg",
     "occhiello": "USA: PETROLIERE A HORMUZ NON COLPITE, È FALSO",
     "lead_preview": "Manama, 18 luglio. Due basi statunitensi in Bahrein e Kuwait sarebbero state colpite dall'Iran secondo quanto riportato ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "b21552127a2c6d5b",
+    "slug": "calcio-scaloni-esprime-emozione-per-il-supporto-de-b21552127a2c6d5b",
+    "title": "Argentina unita sotto la guida di scaloni",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-07-18T07:31:48.711806+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/18/91b1e9d134cee4f41c35a4229654176a.jpg",
+    "occhiello": "ARGENTINA UNITA SOTTO LA GUIDA DI SCALONI",
+    "lead_preview": "Buenos Aires, 18 luglio. Lionel Scaloni, allenatore della Nazionale Argentina, esprime emozione per come il Paese si sia",
     "tags": [],
     "hero_eligible": true
   },
