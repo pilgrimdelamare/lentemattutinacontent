@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
   "titles": [
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
+    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
+    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIATTIVATO. SERVIZIO RIPRISTINATO SENZA INTOPPI.",
+  "lead": "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo un'interruzione di 52 minuti. L'interruzione è stata risolta con successo.",
+  "corpo1": "Il sistema Monitor de La Lente Mattutina, noto come Claude, ha sperimentato un'interruzione il [inserire la data e l'ora], iniziando alle [inserire l'ora]. L'interruzione è durata per un totale di 52 minuti, durante i quali il team tecnico ha lavorato diligentemente per identificare e risolvere la causa alla radice del problema. L'interruzione è stata causata da [inserire la causa se disponibile], che è stata affrontata rapidamente per garantire il ripristino del servizio. Attualmente, il sistema è pienamente operativo e funzionale. Il team di supporto tecnico ringrazia gli utenti per la loro pazienza e si impegna a mantenere la stabilità del sistema per il futuro.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T15:30:42.853602+00:00",
+  "published_at": "2026-07-18T16:07:02.521207+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
