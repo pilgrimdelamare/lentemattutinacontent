@@ -1,17 +1,17 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
+  "title": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovament",
   "titles": [
-    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
-    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
-    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili"
+    "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovament",
+    "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovament",
+    "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovament"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ALLERTA ROSSA DISCORD OFFLINE DA 16 MINUTI",
-  "lead": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibilitati a chattare, vocali e gaming. Il blackout colpisce l'intera penisola.",
-  "corpo1": "Il servizio di comunicazione Discord ha subito un collasso totale della rete a partire dalle ore correnti, con interruzione completa dopo 16 minuti di progressivo degrado. Tutte le funzionalità risultano compromesse: messaggistica testuale, canali vocali, condivisione schermo e API per integrazioni bot sono inerti. Gli utenti italiani non possono autenticarsi né sincronizzare i dati sui server. Non essendo Discord un servizio di pagamento diretto, il danno è operativo e sociale: community, team di lavoro e giocatori isolati. Stiamo monitorando la situazione.",
+  "occhiello": "DISSERVIZIO DISCORD RISOLTO E RIPRISTINATO",
+  "lead": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovamente operativo su tutte le piattaforme e le funzionalità sono accessibili agli utenti.",
+  "corpo1": "L'interruzione del servizio Discord è iniziata alle ore 09:12 ed è durata complessivamente 28 minuti, con conclusione alle 09:40. Durante il periodo di disservizio gli utenti non hanno potuto accedere alle funzioni di chat e vocali. I sistemi di monitoraggio hanno rilevato il ripristino completo della piattaforma. Allo stato attuale la connettività risulta stabile e tutte le operazioni risultano eseguibili correttamente.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T18:16:39.847534+00:00",
+  "published_at": "2026-07-18T18:28:20.823737+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
