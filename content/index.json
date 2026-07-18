@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-18T21:52:28.610018+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
+    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionam",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3c18cc8a35af01fc",
     "slug": "il-tormentone-dellestate-italiana-torna-in-luce-3c18cc8a35af01fc",
     "title": "Treccani celebra Giuni Russo e 'Un'estate al mare' a Roma",
@@ -8355,24 +8374,6 @@
     "occhiello": "LA STRETTA DI MANTOVANO PIÙ CONTROLLI SUI FARMACI E UN DECALOGO DI REGOLE",
     "lead_preview": "OCCHIELLO Ospedali sotto tiro: il decalogo di Mantovano per fermare il furto di fentanyl Roma, 4 luglio 2026 — Il minist",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "fe41fbc9dce7b939",
-    "slug": "il-monito-del-papa-a-trump-lamerica-una-nazione-pl-fe41fbc9dce7b939",
-    "title": "Papa Leone XIV: 'L'immigrazione non è un crimine, costruisce gli Usa'",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-07-03T23:48:10.280074+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/03/233756868-2deed18b-1851-44bc-8d9d-89ae3595c226.jpg",
-    "occhiello": "IL MONITO DEL PAPA A TRUMP: “L’AMERICA UNA NAZIONE PLASMATA DAGLI IMMIGRATI”",
-    "lead_preview": "Il papa Leone XIV ha dichiarato a Lampedusa, il 4 luglio 2026: *«L’immigrazione non è un crimine, è la storia degli Stat",
-    "tags": [
-      "papa leone xiv",
-      "immigrazione usa"
-    ],
     "hero_eligible": true
   }
 ]
