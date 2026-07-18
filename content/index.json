@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-18T22:24:55.859790+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "ALLERTA ROSSA: CLAUDE OFFLINE DA 20 MINUTI",
+    "lead_preview": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere al servizio ne utilizzare le funzioni di",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "eece086d155d7eea",
     "slug": "caldo-estremo-costa-fino-a-12-miliardi-lanno-eece086d155d7eea",
     "title": "Caldo estremo costa fino a 12 miliardi l'anno",
@@ -321,25 +340,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T16:49:56.595513+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLOUDE RIPRISTINATO DOPO DISGUIDO",
-    "lead_preview": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne conferma la piena operatività e la ripresa",
-    "tags": [
-      "downtime",
-      "claude",
       "disservizi"
     ],
     "hero_eligible": false
