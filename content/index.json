@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260718",
+    "slug": "libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-18T07:01:36.168147+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio sui simboli dei tarocchi Torre e Fulmine, esplorati attraverso arte, letteratura e filosofia",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "eed1b085b2385458",
     "slug": "calcio-francia-e-inghilterra-si-sfidano-per-il-bro-eed1b085b2385458",
     "title": "Finale per il bronzo mondiale a miami",
@@ -591,25 +606,6 @@
       "game show"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260718",
-    "slug": "libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
-    "title": "Il libro del giorno: «Il fulmine sulla torre. Shock e festa fra tarocchi, arte e vitadi Chiara Tartagni»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un saggio sui simboli dei tarocchi Torre e Fulmine, esplorati attraverso arte, letteratura e filosofia",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-18T07:01:36.168147+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
-      "alt": "Copertina: Il fulmine sulla torre. Shock e festa fra tarocchi, arte e vitadi Chiara Tartagni",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "2ec44b28822f2ecd",
