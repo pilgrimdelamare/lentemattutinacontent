@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 26 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-18T22:30:33.652893+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRISTINATO",
+    "lead_preview": "Claude è tornato online dopo 26 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "0f23055694d85a77",
     "slug": "inter-su-spence-trattativa-in-salita-e-romero-nel-0f23055694d85a77",
     "title": "Inter su spence, trattativa in salita e romero nel mirino",
@@ -13,25 +32,6 @@
     "lead_preview": "Milano, 17 luglio. L'Inter ha incontrato ostacoli nella trattativa per Destiny Spence e ha avviato valutazioni sul profi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T22:24:55.859790+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "ALLERTA ROSSA: CLAUDE OFFLINE DA 20 MINUTI",
-    "lead_preview": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere al servizio ne utilizzare le funzioni di",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "eece086d155d7eea",
