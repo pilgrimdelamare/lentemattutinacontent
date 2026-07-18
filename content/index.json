@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-18T16:49:56.595513+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLOUDE RIPRISTINATO DOPO DISGUIDO",
+    "lead_preview": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne conferma la piena operatività e la ripresa",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
@@ -50,25 +69,6 @@
     "lead_preview": "Båstad, 18 luglio. Matteo Darderi ha vinto la finale di Båstad battendo Alex Vallejo 6‑4, 6‑7, 6‑3, in una partita che h",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T15:30:42.853602+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IN DOWN",
-    "lead_preview": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d65ac455dc3cbb3e",
