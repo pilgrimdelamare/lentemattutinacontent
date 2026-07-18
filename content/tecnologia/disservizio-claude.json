@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere ",
+  "title": "Claude è tornato online dopo 26 minuti di interruzione.",
   "titles": [
-    "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere ",
-    "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere ",
-    "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere "
+    "Claude è tornato online dopo 26 minuti di interruzione.",
+    "Claude è tornato online dopo 26 minuti di interruzione.",
+    "Claude è tornato online dopo 26 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ALLERTA ROSSA: CLAUDE OFFLINE DA 20 MINUTI",
-  "lead": "Claude è irraggiungibile da 20 minuti. Gli utenti italiani non possono accedere al servizio ne utilizzare le funzioni di chat e generazione contenuti.",
-  "corpo1": "Il sistema centrale di Claude ha interrotto le risposte alle 14:40 ora italiana. Da allora il gateway di API risulta non raggiungibile e le sessioni attive sono state troncate. Sono compromesse la chat, la sintesi testuale e ogni integrazione terza parte. Per gli utenti con abbonamento a pagamento il blocco impedisce l'erogazione del servizio già fatturato, con disservizio diretto e senza possibilità di utilizzo. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIPRISTINATO",
+  "lead": "Claude è tornato online dopo 26 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 26 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T22:24:55.859790+00:00",
+  "published_at": "2026-07-18T22:30:33.652893+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,13 +38,6 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
       "title": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
       "url": "/tecnologia/disservizio-tiktok",
       "id": "monitor_tiktok",
@@ -56,6 +49,13 @@
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     }
   ],
