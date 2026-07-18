@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-18T16:39:21.806976+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIPRISTINATO",
+    "lead_preview": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "dfcf3d3be5673709",
     "slug": "rugby-italia-travolta-dallaustralia-57-10-senza-qu-dfcf3d3be5673709",
     "title": "Rugby, italia travolta dall'australia: 57-10 senza quesada",
@@ -2642,25 +2661,6 @@
       "inflazione usa"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 40 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-15T00:39:51.540029+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 40 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "7cf6e70368740020",
