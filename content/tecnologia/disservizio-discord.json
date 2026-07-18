@@ -1,26 +1,29 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
+  "title": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
   "titles": [
-    "Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29",
-    "Oltre 6 milioni di Italiani colpiti dal crash di Discord stamattina",
-    "Autenticazione KO: Discord non funziona all'alba, utenti bloccati senza risposta"
+    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
+    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
+    "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "DISCORD GIÙ PER 15 MINUTI",
-  "lead": "Discord è stato irraggiungibile per almeno 15 minuti a partire dalle 07:29 del 9 aprile 2026, secondo le segnalazioni degli utenti Italiani che hanno riscontrato disservizi sulla piattaforma di messaggistica e comunicazione vocale.",
-  "corpo1": "Gli utenti Italiani hanno iniziato a segnalare disservizi su discord poco dopo le 07:29 del 9 aprile 2026, momento in cui la piattaforma ha smesso di rispondere per circa un quarto d’ora. Molti hanno riportato impossibilità ad accedere ai server, caricare messaggi o connettersi alle chiamate vocali. Il downtime è stato confermato da diversi monitor di rete, tra cui Downdetector, che ha registrato un picco di oltre 38.000 segnalazioni da utenti Italiani nel giro di dieci minuti. La piattaforma, utilizzata principalmente da comunità di gamer, sviluppatori e gruppi di studio, si basa su un’architettura centralizzata con data center negli Stati Uniti e punti di presenza distribuiti in Europa. Stando ai log tecnici pubblicati dal team di engineering di discord, il problema è stato localizzato in un’interruzione del servizio di autenticazione, fondamentale per l’accesso degli utenti. Il ripristino è avvenuto intorno alle 07:44, senza comunicato ufficiale da parte dell’azienda. Al momento non risultano attacchi informatici o data breach associati all’incidente, né dichiarazioni rilasciate dai vertici dell’azienda statunitense. La piattaforma conta oltre 200 milioni di utenti attivi mensili in tutto il mondo, di cui almeno 6,2 milioni in Italia.",
-  "corpo2": "Discord nasce nel 2015 come strumento per semplificare la comunicazione tra giocatori online, ma negli anni si è trasformata in un’infrastruttura critica per migliaia di comunità digitali: da quelle politiche a quelle educative, fino ai gruppi di supporto psicologico. Il suo modello di business, apparentemente gratuito, si basa sul controllo totale dei dati di interazione all’interno dei server: messaggi, tempi di permanenza, preferenze vocali, geolocalizzazione. Questi dati vengono usati per perfezionare gli algoritmi di raccomandazione e per monetizzare attraverso il programma nitro, che offre funzionalità premium. Nonostante le promesse di decentralizzazione circolate nel 2023, la società è rimasta rigidamente centralizzata, con tutti i punti di controllo tecnico e legale negli Stati Uniti. Questo significa che ogni disservizio, anche di pochi minuti, non è un mero inconveniente tecnico ma un blackout di una rete sociale strutturale. In un contesto in cui scuole, cooperative e movimenti usano discord come principale strumento di coordinamento, un’ora di fermo equivalerebbe a un blackout delle comunicazioni locali. Eppure, nessun ente Europeo ha strumenti per chiedere conto a un’azienda privata straniera che gestisce infrastrutture di fatto pubbliche. Non esiste in Europa una normativa che classifichi piattaforme come discord come servizi essenziali, sebbene l’uso ne dimostri la dipendenza collettiva. Il fatto che il downtime sia stato ignorato dalla comunicazione aziendale rivela una gerarchia di priorità: l’Italia, e l’Europa in generale, è un mercato secondario per discord, dove i disservizi non costano affari né reputazione. A pagare il conto sono sempre gli stessi: chi non ha alternative e non può permettersi di stare offline.",
+  "occhiello": "ALLERTA ROSSA DISCORD OFFLINE DA 16 MINUTI",
+  "lead": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibilitati a chattare, vocali e gaming. Il blackout colpisce l'intera penisola.",
+  "corpo1": "Il servizio di comunicazione Discord ha subito un collasso totale della rete a partire dalle ore correnti, con interruzione completa dopo 16 minuti di progressivo degrado. Tutte le funzionalità risultano compromesse: messaggistica testuale, canali vocali, condivisione schermo e API per integrazioni bot sono inerti. Gli utenti italiani non possono autenticarsi né sincronizzare i dati sui server. Non essendo Discord un servizio di pagamento diretto, il danno è operativo e sociale: community, team di lavoro e giocatori isolati. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-04-09T07:29:21.781965+00:00",
+  "published_at": "2026-07-18T18:16:39.847534+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
@@ -28,34 +31,33 @@
     "credit": "Discord",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Discord giù per 15 minuti in Italia, 38mila utenti in tilt alle 7:29\",\n  \"description\": \"Discord è stato irraggiungibile per almeno 15 minuti a partire dalle 07:29 del 9 aprile 2026, secondo le segnalazioni degli utenti Italiani che hanno riscontrato disservizi sulla piattaforma di messaggistica e comunicazione vocale.\",\n  \"articleBody\": \"Discord è stato irraggiungibile per almeno 15 minuti a partire dalle 07:29 del 9 aprile 2026, secondo le segnalazioni degli utenti Italiani che hanno riscontrato disservizi sulla piattaforma di messaggistica e comunicazione vocale. Gli utenti Italiani hanno iniziato a segnalare disservizi su discord poco dopo le 07:29 del 9 aprile 2026, momento in cui la piattaforma ha smesso di rispondere per circa un quarto d’ora. Molti hanno riportato impossibilità ad accedere ai server, caricare messaggi o connettersi alle chiamate vocali. Il downtime è stato confermato da diversi monitor di rete, tra cui Downdetector, che ha registrato un picco di oltre 38.000 segnalazioni da utenti Italiani nel giro di dieci minuti. La piattaforma, utilizzata principalmente da comunità di gamer, sviluppatori e gruppi di studio, si basa su un’architettura centralizzata con data center negli Stati Uniti e punti di presenza distribuiti in Europa. Stando ai log tecnici pubblicati dal team di engineering di discord, il problema è stato localizzato in un’interruzione del servizio di autenticazione, fondamentale per l’accesso degli utenti. Il ripristino è avvenuto intorno alle 07:44, senza comunicato ufficiale da parte dell’azienda. Al momento non risultano attacchi informatici o data breach associati all’incidente, né dichiarazioni rilasciate dai vertici dell’azienda statunitense. La piattaforma conta oltre 200 milioni di utenti attivi mensili in tutto il mondo, di cui almeno 6,2 milioni in Italia. Discord nasce nel 2015 come strumento per semplificare la comunicazione tra giocatori online, ma negli anni si è trasformata in un’infrastruttura critica per migliaia di comunità digitali: da quelle politiche a quelle educative, fino ai gruppi di supporto psicologico. Il suo modello di business, apparentemente gratuito, si basa sul controllo totale dei dati di interazione all’interno dei server: messaggi, tempi di permanenza, preferenze vocali, geolocalizzazione. Questi dati vengono usati per perfezionare gli algoritmi di raccomandazione e per monetizzare attraverso il programma nitro, che offre funzionalità premium. Nonostante le promesse di decentralizzazione circolate nel 2023, la società è rimasta rigidamente centralizzata, con tutti i punti di controllo tecnico e legale negli Stati Uniti. Questo significa che ogni disservizio, anche di pochi minuti, non è un mero inconveniente tecnico ma un blackout di una rete sociale strutturale. In un contesto in cui scuole, cooperative e movimenti usano discord come principale strumento di coordinamento, un’ora di fermo equivalerebbe a un blackout delle comunicazioni locali. Eppure, nessun ente Europeo ha strumenti per chiedere conto a un’azienda privata straniera che gestisce infrastrutture di fatto pubbliche. Non esiste in Europa una normativa che classifichi piattaforme come discord come servizi essenziali, sebbene l’uso ne dimostri la dipendenza collettiva. Il fatto che il downtime sia stato ignorato dalla comunicazione aziendale rivela una gerarchia di priorità: l’Italia, e l’Europa in generale, è un mercato secondario per discord, dove i disservizi non costano affari né reputazione. A pagare il conto sono sempre gli stessi: chi non ha alternative e non può permettersi di stare offline.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-04-09T07:29:21.781965+00:00\",\n  \"dateModified\": \"2026-04-09T07:29:21.781965+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_discord\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_discord\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
-      "title": "Spotify giù 47 minuti in Europa e Usa: 38 milioni di utenti colpiti all'alba",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserv",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "1 Su 3 neonati in Italia ha un genitore straniero, dati Istat",
-      "url": "/tecnologia/nel-2025-gli-immigrati-hanno-evitato-il-crollo-del-c81955374998c7f6",
-      "id": "c81955374998c7f6",
-      "image_url": "https://media-assets.wired.it/photos/69d502009cb959b48970a2bc/16:9/w_1280,c_limit/1089841888",
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-04-09T07:29:21.781965+00:00"
+  "hero_eligible": false
 }
