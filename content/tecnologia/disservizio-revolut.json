@@ -1,0 +1,63 @@
+{
+  "id": "monitor_revolut",
+  "slug": "disservizio-revolut",
+  "title": "Revolut è irraggiungibile da 70 minuti. Gli utenti italiani non possono pagare n",
+  "titles": [
+    "Revolut è irraggiungibile da 70 minuti. Gli utenti italiani non possono pagare n",
+    "Revolut è irraggiungibile da 70 minuti. Gli utenti italiani non possono pagare n",
+    "Revolut è irraggiungibile da 70 minuti. Gli utenti italiani non possono pagare n"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "ALLERTA ROSSA REVOLUT SERVIZI OFFLINE",
+  "lead": "Revolut è irraggiungibile da 70 minuti. Gli utenti italiani non possono pagare né accedere all'app. Disagi immediati nei pagamenti quotidiani.",
+  "corpo1": "Da 70 minuti il sistema Revolut non risponde. Il problema è iniziato alle ore centrali della mattinata e ha colpito l'intera infrastruttura italiana. Risultano compromesse le funzioni di pagamento, trasferimento fondi, ricarica e accesso all'area personale. Chi è al supermercato o in metro non può completare la transazione. Il blocco paralizza chi usa la carta per spese urgenti. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-07-18T18:28:29.851507+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/revolut.com",
+    "source": "Revolut",
+    "credit": "Revolut",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
+  "related": [
+    {
+      "title": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
