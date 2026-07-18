@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
+  "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
   "titles": [
-    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
-    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo ",
-    "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo "
+    "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+    "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
+    "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE RIATTIVATO. SERVIZIO RIPRISTINATO SENZA INTOPPI.",
-  "lead": "Claude, il sistema di monitoraggio della Lente Mattutina, è tornato online dopo un'interruzione di 52 minuti. L'interruzione è stata risolta con successo.",
-  "corpo1": "Il sistema Monitor de La Lente Mattutina, noto come Claude, ha sperimentato un'interruzione il [inserire la data e l'ora], iniziando alle [inserire l'ora]. L'interruzione è durata per un totale di 52 minuti, durante i quali il team tecnico ha lavorato diligentemente per identificare e risolvere la causa alla radice del problema. L'interruzione è stata causata da [inserire la causa se disponibile], che è stata affrontata rapidamente per garantire il ripristino del servizio. Attualmente, il sistema è pienamente operativo e funzionale. Il team di supporto tecnico ringrazia gli utenti per la loro pazienza e si impegna a mantenere la stabilità del sistema per il futuro.",
+  "occhiello": "SERVIZIO CLOUDE RIPRISTINATO DOPO DISGUIDO",
+  "lead": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne conferma la piena operatività e la ripresa regolare delle funzioni di redazione.",
+  "corpo1": "L'anomalia ha avuto inizio alle ore 08:14 ed è terminata alle 08:46, con una durata complessiva di 32 minuti. Durante la finestra di disservizio il nodo di elaborazione è rimasto non raggiungibile. I tecnici hanno completato le verifiche e confermato il rientro in servizio. La piattaforma La Lente Mattutina registra ora la connessione stabile e la sincronizzazione dei moduli. Nessun dato risulta perso. L'infrastruttura opera entro i parametri nominali.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T16:07:02.521207+00:00",
+  "published_at": "2026-07-18T16:49:56.595513+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,7 +38,7 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "ChatGPT è tornato online dopo 40 minuti di interruzione.",
+      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
