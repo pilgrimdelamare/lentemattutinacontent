@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-19T16:57:49.000662+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "6c88fd60bb66320b",
     "slug": "arresti-a-miami-per-estradizione-e-accusa-di-stupr-6c88fd60bb66320b",
     "title": "Arresti a miami per estradizione e accusa di stupro",
@@ -163,25 +182,6 @@
     "lead_preview": "Roma, 19 luglio. Polla-Mattiot presenta un nuovo lavoro dedicato a quella che definisce una \"ecologia sociale ed esisten",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-19T15:42:12.176901+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "1a74503ee278513d",
