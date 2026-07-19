@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "21 minuti di blackout per 200 milioni di utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-07-18T16:39:21.806976+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
+    "lead_preview": "Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenz",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3a9b1bce4abfedb7",
     "slug": "bce-e-trimestrali-guidano-la-settimana-dei-mercati-3a9b1bce4abfedb7",
     "title": "Bce e trimestrali guidano la settimana dei mercati",
@@ -41,21 +56,6 @@
     "image_url": "https://sport.sky.it/assets/images/b0c31c465828ddf8f81b004ae1b3d18eaeae4626/skysport/it/calcio/serie-a/2026/07/18/ekhator-infortunio-juve-basilea-news/ekhator_juventus_screen.jpg",
     "occhiello": "JUVENTUS, EKHATOR SI FERMA A 30 MINUTI DAL DEBUTTO",
     "lead_preview": "Basilea, 19 luglio. Jeff Ekhator, attaccante della Juventus e acquisto più oneroso del mercato bianconero finora, è usci",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT va giù 21 minuti in Europa e OpenAI tace sul motivo",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-07-18T16:39:21.806976+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
-    "lead_preview": "Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenz",
     "tags": [],
     "hero_eligible": true
   },
