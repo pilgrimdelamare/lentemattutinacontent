@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "Disservizio risolto: tiktok di nuovo online",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-18T21:52:28.610018+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
+    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionam",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "4063de189c0464e6",
     "slug": "lodissea-di-nolan-incassa-75-milioni-in-italia-e-r-4063de189c0464e6",
     "title": "L'Odissea di Nolan incassa 7,5 milioni in Italia e recupera i costi",
@@ -719,25 +734,6 @@
     "lead_preview": "Caracas, 18 luglio. Il Ministro dell'Economia Rodríguez ha annunciato che il Venezuela otterrà 346 milioni di dollari da",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato so",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T21:52:28.610018+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
-    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionam",
-    "tags": [
-      "downtime",
-      "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_chatgpt",
