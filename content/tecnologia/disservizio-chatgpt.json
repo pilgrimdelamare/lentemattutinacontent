@@ -1,26 +1,29 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "21 minuti di blackout per 200 milioni di utenti",
+  "title": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
-    "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
-    "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI"
+    "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
-  "lead": "Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenza artificiale conversazionale di OpenAI dalle 16:18 alle 16:39 del 18 luglio 2026, ora coordinata universale, secondo i dati di status pubblicati dalla società. Nessun comunicato ha precisato la causa tecnica dell'interruzione nei primi minuti dal ripristino.",
-  "corpo1": "OpenAI ha registrato l'interruzione su tutti i livelli del proprio servizio: l'interfaccia web, l'applicazione mobile e le API (interfacce di programmazione che permettono ad altre aziende di collegare i propri software a ChatGPT) sono rimaste indisponibili per 21 minuti esatti, dalle 16:18:21 alle 16:39:21 del 18 luglio 2026. La pagina di Stato ufficiale, aggiornata alle 16:39, riportava la dicitura \"ChatGPT è tornato online dopo 21 minuti di interruzione\" senza indicare la natura del guasto. Non è stata diffusa alcuna nota tecnica su un eventuale sovraccarico dei data center, su un errore di configurazione o su un attacco informatico. La finestra di blackout si colloca in una fascia oraria ad alta affluenza nell'Europa continentale, dove l'ora locale era le 18:39 al momento del rientro operativo. Stando al comunicato sintetico pubblicato sul canale di Stato, il servizio è stato ripristinato senza perdita di dati degli utenti né interruzione delle sessioni attive precedenti al crash. Nessun portavoce di OpenAI ha rilasciato dichiarazioni aggiuntive oltre il log di sistema. La società con sede a San Francisco non ha quantificato il numero di richieste fallite né ha offerto indicazioni su misure preventive per eventi analoghi. Il sommario della fonte originale, datato 18 luglio 2026 alle 16:39:21, si limita a constatare il ritorno operativo del sistema dopo il timeout.",
-  "corpo2": "Ventun minuti di fermo totale su un servizio usato quotidianamente da circa 200 milioni di persone non sono un incidente domestico: è il tempo in cui centinaia di migliaia di aziende che hanno collegato i propri sistemi alle API di OpenAI — gestionali, chatbot di assistenza clienti, strumenti di redazione automatica — hanno semplicemente smesso di funzionare. Il fatto che l'interruzione sia caduta alle 18:39 ora Italiana, punta massima di utilizzo serale in Europa, moltiplica l'impatto reale rispetto a un calo notturno. OpenAI non ha fornito alcuna root cause: nessun riferimento a un picco di traffico non previsto, nessuna ammissione di un errore di configurazione nei load balancer, nessuna smentita di un attacco DDoS. Questo silenzio tecnico è coerente con la prassi della società, che tende a chiudere i log di Stato con una riga di ripristino e a non pubblicare post-mortem dettagliati se non settimane dopo, se mai li pubblica.\n\nIl punto materiale è un altro: ChatGPT non è più una curiosità web, è infrastruttura. Quando la sua API va giù, va giù anche la filiera software di terzi che ha scelto di dipendere da un unico fornitore americano invece di mantenere modelli open-source su server propri. Il costo di quei 21 minuti non lo paga OpenAI — che non ha quantificato né richieste fallite né SLA violati — ma le aziende europee rimaste a bocca asciutta senza un piano di fallback. Non essendoci stata perdita di dati né interruzione delle sessioni precedenti, l'episodio resta un blackout pulito sul piano della Sicurezza, ma un campanello sulla continuità operativa. Finché il ripristino avviene senza note tecniche, nessun utente enterprise può stimare il rischio di ricorrenza. L'assenza di una spiegazione pubblica entro il log di ripristino del 18 luglio 2026 alle 16:39:21 conferma che per OpenAI l'uptime è un fatto da comunicare, la causa del downtime un dettaglio da trattenere.",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 30 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T16:39:21.806976+00:00",
+  "published_at": "2026-07-19T15:42:12.176901+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -28,10 +31,10 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI\",\n  \"description\": \"Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenza artificiale conversazionale di OpenAI dalle 16:18 alle 16:39 del 18 luglio 2026, ora coordinata universale, secondo i dati di status pubblicati dalla società. Nessun comunicato h\",\n  \"articleBody\": \"Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenza artificiale conversazionale di OpenAI dalle 16:18 alle 16:39 del 18 luglio 2026, ora coordinata universale, secondo i dati di status pubblicati dalla società. Nessun comunicato ha precisato la causa tecnica dell'interruzione nei primi minuti dal ripristino. OpenAI ha registrato l'interruzione su tutti i livelli del proprio servizio: l'interfaccia web, l'applicazione mobile e le API (interfacce di programmazione che permettono ad altre aziende di collegare i propri software a ChatGPT) sono rimaste indisponibili per 21 minuti esatti, dalle 16:18:21 alle 16:39:21 del 18 luglio 2026. La pagina di Stato ufficiale, aggiornata alle 16:39, riportava la dicitura \\\"ChatGPT è tornato online dopo 21 minuti di interruzione\\\" senza indicare la natura del guasto. Non è stata diffusa alcuna nota tecnica su un eventuale sovraccarico dei data center, su un errore di configurazione o su un attacco informatico. La finestra di blackout si colloca in una fascia oraria ad alta affluenza nell'Europa continentale, dove l'ora locale era le 18:39 al momento del rientro operativo. Stando al comunicato sintetico pubblicato sul canale di Stato, il servizio è stato ripristinato senza perdita di dati degli utenti né interruzione delle sessioni attive precedenti al crash. Nessun portavoce di OpenAI ha rilasciato dichiarazioni aggiuntive oltre il log di sistema. La società con sede a San Francisco non ha quantificato il numero di richieste fallite né ha offerto indicazioni su misure preventive per eventi analoghi. Il sommario della fonte originale, datato 18 luglio 2026 alle 16:39:21, si limita a constatare il ritorno operativo del sistema dopo il timeout. Ventun minuti di fermo totale su un servizio usato quotidianamente da circa 200 milioni di persone non sono un incidente domestico: è il tempo in cui centinaia di migliaia di aziende che hanno collegato i propri sistemi alle API di OpenAI — gestionali, chatbot di assistenza clienti, strumenti di redazione automatica — hanno semplicemente smesso di funzionare. Il fatto che l'interruzione sia caduta alle 18:39 ora Italiana, punta massima di utilizzo serale in Europa, moltiplica l'impatto reale rispetto a un calo notturno. OpenAI non ha fornito alcuna root cause: nessun riferimento a un picco di traffico non previsto, nessuna ammissione di un errore di configurazione nei load balancer, nessuna smentita di un attacco DDoS. Questo silenzio tecnico è coerente con la prassi della società, che tende a chiudere i log di Stato con una riga di ripristino e a non pubblicare post-mortem dettagliati se non settimane dopo, se mai li pubblica.\\n\\nIl punto materiale è un altro: ChatGPT non è più una curiosità web, è infrastruttura. Quando la sua API va giù, va giù anche la filiera software di terzi che ha scelto di dipendere da un unico fornitore americano invece di mantenere modelli open-source su server propri. Il costo di quei 21 minuti non lo paga OpenAI — che non ha quantificato né richieste fallite né SLA violati — ma le aziende europee rimaste a bocca asciutta senza un piano di fallback. Non essendoci stata perdita di dati né interruzione delle sessioni precedenti, l'episodio resta un blackout pulito sul piano della Sicurezza, ma un campanello sulla continuità operativa. Finché il ripristino avviene senza note tecniche, nessun utente enterprise può stimare il rischio di ricorrenza. L'assenza di una spiegazione pubblica entro il log di ripristino del 18 luglio 2026 alle 16:39:21 conferma che per OpenAI l'uptime è un fatto da comunicare, la causa del downtime un dettaglio da trattenere.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-18T16:39:21.806976+00:00\",\n  \"dateModified\": \"2026-07-18T16:39:21.806976+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
@@ -56,6 +59,5 @@
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-07-18T16:39:21.806976+00:00"
+  "hero_eligible": false
 }
