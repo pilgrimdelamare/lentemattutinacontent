@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-19T15:42:12.176901+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 30 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1a74503ee278513d",
     "slug": "10-anni-estati-piu-care-trasporti-e-cibo-guidano-1a74503ee278513d",
     "title": "10 anni, estati più care: trasporti e cibo guidano",
@@ -86,21 +105,6 @@
     "image_url": "https://sport.sky.it/assets/images/f341db05b2f267a8d737a36f1faeee76dd45e737/skysport/it/calcio/serie-a/2026/07/18/inter-juventus-milan-napoli-amichevoli-estive-2026-sky/amichevoli_luglio.jpg",
     "occhiello": "SKY SPORT, IL TEATRO DELLE AMICHEVOLI: INTER, JUVE, MILAN E TORINO IN PRIMA LINEA",
     "lead_preview": "Roma, 18 luglio 2026 — A partire dal 18 luglio, Sky Sport trasmetterà un mese di Calcio d'eccellenza con le amichevoli p",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "21 minuti di blackout per 200 milioni di utenti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-07-18T16:39:21.806976+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
-    "lead_preview": "Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenz",
     "tags": [],
     "hero_eligible": true
   },
