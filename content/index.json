@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "Disservizio risolto: tiktok di nuovo online",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-18T21:52:28.610018+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
+    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionam",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9e59f4bd8ff8aed1",
     "slug": "mojtaba-khamenei-non-sarebbe-in-iran-secon-i-pasda-9e59f4bd8ff8aed1",
     "title": "Mojtaba khamenei non sarebbe in iran secon i pasdaran",
@@ -473,23 +488,6 @@
     "occhiello": "QUARANT'ANNI DI CARRIERA, TOUR ITALIANO AL VIA DA PADOVA",
     "lead_preview": "Padova, 19 luglio. Suzanne Vega ha aperto a Padova il suo Flying with angel tour, la serie di concerti Italiana che tocc",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok ripristina servizio dopo 43 minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-07-18T21:52:28.610018+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "DISSERVIZIO RISOLTO: TIKTOK DI NUOVO ONLINE",
-    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione. Il servizio era stato sospeso a causa di un anomalo malfunzionam",
-    "tags": [
-      "disservizio tiktok"
-    ],
     "hero_eligible": true
   },
   {
