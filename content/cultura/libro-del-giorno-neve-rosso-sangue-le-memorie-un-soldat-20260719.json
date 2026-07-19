@@ -1,26 +1,24 @@
 {
   "id": "libro-20260719",
   "slug": "libro-del-giorno-neve-rosso-sangue-le-memorie-un-soldat-20260719",
-  "title": "Il libro del giorno: «Neve rosso sangue. Le memorie»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Neve rosso sangue. Le memorie»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "le memorie di un soldato tedesco sul fronte orientale durante la Seconda Guerra Mondiale",
   "corpo1": "Le macchie di sangue dei caduti spiccavano sul candido manto nevoso, mentre il rosso dei feriti si mescolava al bianco del suolo imbiancato. Questi uomini, compagni di battaglia e nemici, diventavano così carne e sangue, \"proprio come noi!\". Nel diario di guerra di Günter Koschorrek, un giovane soldato tedesco di appena vent'anni, si intravede una rara e spontanea riflessione sull'umanità dei combattenti. Inviato al fronte di Stalingrado nell'autunno del 1942, il mitragliere della 24a Divisione corazzata annotava le sue impressioni in fogli che, ben custoditi, riemergono solo decenni dopo. Il volume, Neve rosso sangue, recentemente tradotto per i lettori italiani, offre non solo un resoconto storico-militare ma anche un documento della sofferenza collettiva. Koschorrek racconta la sua esperienza all'inferno del fronte orientale, dalla fuga verso ovest fino alla difesa della testa di ponte di Nikopol. La sua penna, priva di retorica, restituisce un'immagine cruda della guerra, come nel drammatico episodio in cui assiste a esecuzioni sommarie di prigionieri. Attraverso le sue memorie, l'autore ci offre un'affascinante testimonianza di un conflitto che ha segnato profondamente il destino di tanti, un'esperienza tanto personale quanto universale.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8831430459\" rel=\"sponsored\" target=\"_blank\">Neve rosso sangue. Le memorie di un soldato tedesco sul fronte orientale, 1942-1945di Günter K. Koschorrek su Amazon</a></p>",
+  "corpo2": "Koschorrek non era un intellettuale né un dissidente: era un ragazzo della Germania nazista catapultato nella macchina da Guerra più letale del secolo, e proprio per questo le sue pagine valgono più di mille saggi accademici sulla \"banalità del male\". Il fronte orientale non è il teatro di una Guerra raccontata dai vincitori: è il luogo dove la Wehrmacht perdeva ogni certezza e i soldati come lui smettevano di essere ingranaggi per tornare, a tratti, esseri umani spaventati. La traduzione Italiana di Neve rosso sangue arriva in un momento in cui il mercato editoriale nostrano ha riscoperto la memorialistica bellica tedesca non come riabilitazione storica ma come specchio della fragilità individuale sotto la violenza di Stato. Non a caso Pasolini, parlando della Guerra come \"naturalezza della storia\", avrebbe riconosciuto in questo diario la stessa verità brutale che cercava nei corpi dei ragazzi italiani uccisi dalla propaganda: la Guerra non nobilita, spoglia. Koschorrek descrive l'esecuzione sommaria di prigionieri senza giudicare i commilitoni, e proprio questa assenza di giudizio è il dato più inquietante — perché mostra come l'obbedienza sia diventata grammatica quotidiana, non eccezione morale. Il libro non chiede perdono per la Germania: chiede al lettore di guardare la neve macchiata e capire che quei ventenni erano identici ai nostri coetanei mandati a morire altrove. La cruda penna dell'autore non lascia spazio a consolazioni: la sofferenza collettiva di cui parla corpo1 non è condivisione eroica ma coincidenza tragica di corpi sacrificati. Se Neve rosso sangue continua a vendere nelle librerie italiane come testimonianza senza filtri, tra due anni il dibattito sulla memorialistica di Guerra non potrà più essere confinato alle celebrazioni istituzionali, perché i lettori avranno già scelto la voce dei mitraglieri ignoranti su quella dei generali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-19T07:33:44.044019+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Neve rosso sangue. Le memorie",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Neve-rosso-sangue-Gunter-K-Koschorrek.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"le memorie di un soldato tedesco sul fronte orientale durante la Seconda Guerra Mondiale\",\n  \"articleBody\": \"le memorie di un soldato tedesco sul fronte orientale durante la Seconda Guerra Mondiale Le macchie di sangue dei caduti spiccavano sul candido manto nevoso, mentre il rosso dei feriti si mescolava al bianco del suolo imbiancato. Questi uomini, compagni di battaglia e nemici, diventavano così carne e sangue, \\\"proprio come noi!\\\". Nel diario di guerra di Günter Koschorrek, un giovane soldato tedesco di appena vent'anni, si intravede una rara e spontanea riflessione sull'umanità dei combattenti. Inviato al fronte di Stalingrado nell'autunno del 1942, il mitragliere della 24a Divisione corazzata annotava le sue impressioni in fogli che, ben custoditi, riemergono solo decenni dopo. Il volume, Neve rosso sangue, recentemente tradotto per i lettori italiani, offre non solo un resoconto storico-militare ma anche un documento della sofferenza collettiva. Koschorrek racconta la sua esperienza all'inferno del fronte orientale, dalla fuga verso ovest fino alla difesa della testa di ponte di Nikopol. La sua penna, priva di retorica, restituisce un'immagine cruda della guerra, come nel drammatico episodio in cui assiste a esecuzioni sommarie di prigionieri. Attraverso le sue memorie, l'autore ci offre un'affascinante testimonianza di un conflitto che ha segnato profondamente il destino di tanti, un'esperienza tanto personale quanto universale. Koschorrek non era un intellettuale né un dissidente: era un ragazzo della Germania nazista catapultato nella macchina da Guerra più letale del secolo, e proprio per questo le sue pagine valgono più di mille saggi accademici sulla \\\"banalità del male\\\". Il fronte orientale non è il teatro di una Guerra raccontata dai vincitori: è il luogo dove la Wehrmacht perdeva ogni certezza e i soldati come lui smettevano di essere ingranaggi per tornare, a tratti, esseri umani spaventati. La traduzione Italiana di Neve rosso sangue arriva in un momento in cui il mercato editoriale nostrano ha riscoperto la memorialistica bellica tedesca non come riabilitazione storica ma come specchio della fragilità individuale sotto la violenza di Stato. Non a caso Pasolini, parlando della Guerra come \\\"naturalezza della storia\\\", avrebbe riconosciuto in questo diario la stessa verità brutale che cercava nei corpi dei ragazzi italiani uccisi dalla propaganda: la Guerra non nobilita, spoglia. Koschorrek descrive l'esecuzione sommaria di prigionieri senza giudicare i commilitoni, e proprio questa assenza di giudizio è il dato più inquietante — perché mostra come l'obbedienza sia diventata grammatica quotidiana, non eccezione morale. Il libro non chiede perdono per la Germania: chiede al lettore di guardare la neve macchiata e capire che quei ventenni erano identici ai nostri coetanei mandati a morire altrove. La cruda penna dell'autore non lascia spazio a consolazioni: la sofferenza collettiva di cui parla corpo1 non è condivisione eroica ma coincidenza tragica di corpi sacrificati. Se Neve rosso sangue continua a vendere nelle librerie italiane come testimonianza senza filtri, tra due anni il dibattito sulla memorialistica di Guerra non potrà più essere confinato alle celebrazioni istituzionali, perché i lettori avranno già scelto la voce dei mitraglieri ignoranti su quella dei generali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-19T07:33:44.044019+00:00\",\n  \"dateModified\": \"2026-07-19T07:33:44.044019+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260719\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260719\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-neve-rosso-sangue-le-memorie-un-soldat-20260719",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
+      "id": "libro-20260718",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
+      "id": "libro-20260717",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-la-vita-che-ci-restadi-christina-b-ass-20260716",
+      "id": "libro-20260716",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/7135wr7z4sl__sl1499_-1089c.jpg?1775718375",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-19T07:33:44.044019+00:00"
 }
