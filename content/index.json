@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Disservizio discord risolto e ripristinato",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-18T18:16:39.847534+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISSERVIZIO DISCORD RISOLTO E RIPRISTINATO",
+    "lead_preview": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovamente operativo su tutte le piattaforme e le",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "06d242f488f2271e",
     "slug": "polla-mattiot-lancia-ecologia-sociale-sul-silenzio-06d242f488f2271e",
     "title": "Polla-mattiot lancia ecologia sociale sul silenzio come rivoluzione",
@@ -525,24 +540,6 @@
     "occhiello": "DESCHAMPS AMMETTE ERRORE, RABIOT ATTACCA I COMPAGNI",
     "lead_preview": "Mondiali, 19 luglio. Didier Deschamps ha assunto la piena responsabilità delle scelte del primo tempo dichiarando \"le sc",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord riprende servizio: 28 minuti di blackout colpiscono migliaia di utenti!",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-07-18T18:16:39.847534+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISSERVIZIO DISCORD RISOLTO E RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovamente operativo su tutte le piattaforme e le",
-    "tags": [
-      "discord blackout",
-      "servizio ripristinato"
-    ],
     "hero_eligible": true
   },
   {
