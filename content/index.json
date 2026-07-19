@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260718",
+    "slug": "libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-18T07:01:36.168147+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio sui simboli dei tarocchi Torre e Fulmine, esplorati attraverso arte, letteratura e filosofia",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, domenica 19 luglio 2026",
@@ -403,21 +418,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/18/91b1e9d134cee4f41c35a4229654176a.jpg",
     "occhiello": "ARGENTINA UNITA SOTTO LA GUIDA DI SCALONI",
     "lead_preview": "Buenos Aires, 18 luglio. Lionel Scaloni, allenatore della Nazionale Argentina, esprime emozione per come il Paese si sia",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260718",
-    "slug": "libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
-    "title": "Il libro del giorno",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-18T07:01:36.168147+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un saggio sui simboli dei tarocchi Torre e Fulmine, esplorati attraverso arte, letteratura e filosofia",
     "tags": [],
     "hero_eligible": true
   },
