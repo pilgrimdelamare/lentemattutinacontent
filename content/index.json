@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT va giù 21 minuti in Europa e OpenAI tace sul motivo",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-07-18T16:39:21.806976+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "21 MINUTI DI BLACKOUT PER 200 MILIONI DI UTENTI",
+    "lead_preview": "Roma, 18 luglio. ChatGPT è tornato online dopo 21 minuti di interruzione. L'outage ha colpito il servizio di intelligenz",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "4304e667cd34bfce",
     "slug": "5mila-fan-riempiono-villa-manin-per-festeggiare-60-4304e667cd34bfce",
     "title": "5mila fan riempiono villa manin per festeggiare 60 anni dei pooh",
@@ -829,25 +844,6 @@
     "lead_preview": "Caracas, 18 luglio. Il Ministro dell'Economia Rodríguez ha annunciato che il Venezuela otterrà 346 milioni di dollari da",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T16:39:21.806976+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d5a202777af1f55e",
