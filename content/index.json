@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord riprende servizio: 28 minuti di blackout colpiscono migliaia di utenti!",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-18T18:16:39.847534+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISSERVIZIO DISCORD RISOLTO E RIPRISTINATO",
+    "lead_preview": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovamente operativo su tutte le piattaforme e le",
+    "tags": [
+      "discord blackout",
+      "servizio ripristinato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "09fdd4a0daf0c1f6",
     "slug": "tennis-darderi-affronta-rublev-09fdd4a0daf0c1f6",
     "title": "Tennis: Darderi affronta Rublev",
@@ -564,25 +582,6 @@
       "bratislava pride"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibili",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T18:16:39.847534+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "ALLERTA ROSSA DISCORD OFFLINE DA 16 MINUTI",
-    "lead_preview": "Discord non è raggiungibile da 16 minuti. Milioni di utenti italiani impossibilitati a chattare, vocali e gaming. Il bla",
-    "tags": [
-      "downtime",
-      "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_chatgpt",
