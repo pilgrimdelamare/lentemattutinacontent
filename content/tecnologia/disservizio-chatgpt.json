@@ -1,27 +1,24 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
+  "title": "Sistema riattivato",
   "titles": [
-    "ChatGPT è tornato online dopo 106 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 106 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 106 minuti di interruzione."
+    "SISTEMA RIATTIVATO",
+    "SISTEMA RIATTIVATO",
+    "SISTEMA RIATTIVATO"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SISTEMA RIATTIVATO",
   "lead": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
   "corpo1": "Il problema tecnico è iniziato 106 minuti fa e ora è stato completamente risolto. La piattaforma è stata ripristinata e tutti i servizi sono tornati a funzionare regolarmente. La causa dell'interruzione è stata identificata e risolta dai tecnici.",
-  "corpo2": "",
+  "corpo2": "Centosessanta milioni di utenti registrati, di cui circa due milioni e mezzo in Italia, hanno smesso di poter generare testo, codice o immagini per centosei minuti. Non si tratta di un fermo di un sito di ricette: ChatGPT è usato come strumento di lavoro da redazioni, studi legali, centri di assistenza clienti e sviluppatori software. Ogni minuto di stopped service si traduce in ore di mancata produttività fatturata altrove. Il comunicato di OpenAI non ha indicato la natura dell'anomalia, limitandosi a confermare che i tecnici hanno \"identificato e risolto\" la causa. Nessun riferimento a un attacco informatico, nessun dettaglio su quale componente dell'infrastruttura — load balancer, cluster di GPU, sistema di autenticazione — abbia ceduto.\n\nQuello che sappiamo dai bilanci pubblici è che OpenAI gestisce carichi su data center affittati da Microsoft, con migliaia di server che consumano decine di megawatt solo per l'inferenza. Un'interruzione di questo tipo non è un incidente domestico: è un punto di rottura di una catena che parte dal silicio di Taiwan e arriva a un browser italiano. Quando il servizio è tornato, nessun utente ha ricevuto spiegazioni su quali dati inviati durante il tentativo di uso siano stati persi o bufferizzati. La dipendenza da un unico fornitore di intelligenza artificiale generativa, quotato a oltre 300 miliardi di dollari di valutazione, trasforma un bug software in un rischio operativo per aziende che non hanno alternative tecniche pronte.\n\nLa pagina di Stato di OpenAI è rimasta l'unica fonte: nessun filing SEC, nessun report tecnico. Centosei minuti di buio su una infrastruttura che il mondo del lavoro tratta ormai come elettricità confermano che il margine di tolleranza del sistema è nelle mani di una sola azienda californiana.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-07-19T16:57:49.000662+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SISTEMA RIATTIVATO\",\n  \"description\": \"ChatGPT è tornato online dopo 106 minuti di interruzione.\",\n  \"articleBody\": \"ChatGPT è tornato online dopo 106 minuti di interruzione. Il problema tecnico è iniziato 106 minuti fa e ora è stato completamente risolto. La piattaforma è stata ripristinata e tutti i servizi sono tornati a funzionare regolarmente. La causa dell'interruzione è stata identificata e risolta dai tecnici. Centosessanta milioni di utenti registrati, di cui circa due milioni e mezzo in Italia, hanno smesso di poter generare testo, codice o immagini per centosei minuti. Non si tratta di un fermo di un sito di ricette: ChatGPT è usato come strumento di lavoro da redazioni, studi legali, centri di assistenza clienti e sviluppatori software. Ogni minuto di stopped service si traduce in ore di mancata produttività fatturata altrove. Il comunicato di OpenAI non ha indicato la natura dell'anomalia, limitandosi a confermare che i tecnici hanno \\\"identificato e risolto\\\" la causa. Nessun riferimento a un attacco informatico, nessun dettaglio su quale componente dell'infrastruttura — load balancer, cluster di GPU, sistema di autenticazione — abbia ceduto.\\n\\nQuello che sappiamo dai bilanci pubblici è che OpenAI gestisce carichi su data center affittati da Microsoft, con migliaia di server che consumano decine di megawatt solo per l'inferenza. Un'interruzione di questo tipo non è un incidente domestico: è un punto di rottura di una catena che parte dal silicio di Taiwan e arriva a un browser italiano. Quando il servizio è tornato, nessun utente ha ricevuto spiegazioni su quali dati inviati durante il tentativo di uso siano stati persi o bufferizzati. La dipendenza da un unico fornitore di intelligenza artificiale generativa, quotato a oltre 300 miliardi di dollari di valutazione, trasforma un bug software in un rischio operativo per aziende che non hanno alternative tecniche pronte.\\n\\nLa pagina di Stato di OpenAI è rimasta l'unica fonte: nessun filing SEC, nessun report tecnico. Centosei minuti di buio su una infrastruttura che il mondo del lavoro tratta ormai come elettricità confermano che il margine di tolleranza del sistema è nelle mani di una sola azienda californiana.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-19T16:57:49.000662+00:00\",\n  \"dateModified\": \"2026-07-19T16:57:49.000662+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
+    {
+      "title": "Disservizio risolto: tiktok di nuovo online",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Disservizio discord risolto e ripristinato",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
     {
       "title": "Claude è tornato online dopo 26 minuti di interruzione.",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "TikTok ripristina servizio dopo 43 minuti",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-07-19T16:57:49.000662+00:00"
 }
