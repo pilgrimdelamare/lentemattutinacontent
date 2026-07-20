@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "Satispay è tornato online dopo 27 minuti di interruzione.",
   "titles": [
-    "Satispay è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserviz"
+    "Satispay è tornato online dopo 27 minuti di interruzione.",
+    "Satispay è tornato online dopo 27 minuti di interruzione.",
+    "Satispay è tornato online dopo 27 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY IN DOWN",
-  "lead": "Satispay è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 16 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIPRISTINATO",
+  "lead": "Satispay è tornato online dopo 27 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 27 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T10:02:06.975137+00:00",
+  "published_at": "2026-07-20T10:12:39.988758+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
-  "related": [
-    {
-      "title": "Claude è tornato online dopo 26 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Sistema riattivato",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
