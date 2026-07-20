@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Sistema riattivato",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-19T16:57:49.000662+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "86f3c9cc74efea9d",
     "slug": "paola-turci-anticipa-lalbum-con-manchi-86f3c9cc74efea9d",
     "title": "Paola turci anticipa l'album con manchi",
@@ -383,21 +398,6 @@
     "image_url": "https://i.guim.co.uk/img/media/b32908c7a7eaabb7194ecfdee23a1b24b43d95e9/241_0_3500_2801/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=e5e4406003f97c870e080274503b5ca0",
     "occhiello": "BORDELLO E MINIERE ILLEGALI NEL TERRITORIO INDIGENO SARARÉ",
     "lead_preview": "Sararé, 20 luglio. Le forze brasiliane hanno distrutto il bordello abusivo ai piedi di Vila Cururu, insediamento minerar",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Sistema riattivato",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-07-19T16:57:49.000662+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
     "tags": [],
     "hero_eligible": true
   },
