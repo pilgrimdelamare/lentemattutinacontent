@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è tornato online dopo 27 minuti di interruzione.",
+  "title": "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
   "titles": [
-    "Satispay è tornato online dopo 27 minuti di interruzione.",
-    "Satispay è tornato online dopo 27 minuti di interruzione.",
-    "Satispay è tornato online dopo 27 minuti di interruzione."
+    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RIPRISTINATO",
-  "lead": "Satispay è tornato online dopo 27 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 27 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SATISPAY IN DOWN",
+  "lead": "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 26 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T10:12:39.988758+00:00",
+  "published_at": "2026-07-20T16:21:38.973761+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
