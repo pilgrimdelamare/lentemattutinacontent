@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è tornato online dopo 27 minuti di interruzione.",
+  "title": "YouTube è tornato online dopo 85 minuti di interruzione.",
   "titles": [
-    "YouTube è tornato online dopo 27 minuti di interruzione.",
-    "YouTube è tornato online dopo 27 minuti di interruzione.",
-    "YouTube è tornato online dopo 27 minuti di interruzione."
+    "YouTube è tornato online dopo 85 minuti di interruzione.",
+    "YouTube è tornato online dopo 85 minuti di interruzione.",
+    "YouTube è tornato online dopo 85 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "YOUTUBE RIPRISTINATO",
-  "lead": "YouTube è tornato online dopo 27 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 27 minuti. Il servizio risulta ora pienamente operativo.",
+  "lead": "YouTube è tornato online dopo 85 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 85 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-18T21:36:36.170707+00:00",
+  "published_at": "2026-07-20T17:26:29.543164+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,17 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Claude è tornato online dopo 32 minuti di interruzione. Il sistema Monitor ne co",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 21 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Claude è tornato online dopo 26 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
