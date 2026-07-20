@@ -12,7 +12,7 @@
   "occhiello": "UNA SECONDA STELLA DAL MERCATO, NON DAL CAMPO",
   "lead": "Roma, 20 luglio. La stampa spagnola celebra la vittoria dei Mondiali da parte de \"La Roja\", un trionfo che ha portato la \"seconda stella\" sulla maglia e ha spinto i media a incoronare la squadra \"invincibile\" e \"re di tutti i tempi\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono le vittorie nel calcio moderno.",
   "corpo1": "i media a incoronare la squadra \"invincibile\" e \"re di tutti i tempi\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono",
-  "corpo2": "le vittorie nel calcio moderno. i titoli spagnoli, con la consueta enfasi, hanno decretato \"La Roja\" non solo campione del mondo ma, a sentir loro, una potenza calcistica senza paragoni, \"re di tutti i tempi\". L'ottenimento della \"seconda stella\" è diventato il pretesto per una retorica che dipinge un quadro di dominio assoluto e di invincibilità, una narrazione che, stando all'ANSA, risuona attraverso le principali testate. Questo tipo di celebrazione, tuttavia, è un classico del sistema sport",
+  "corpo2": "La retorica della \"Roja invincibile\" che i media spagnoli oggi sbandierano, celebrando la seconda stella come fosse un dono divino, ignora la complessa e spietata architettura che sorregge ogni successo nel calcio moderno",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -27,12 +27,19 @@
     "credit": "",
     "source": "original"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"UNA SECONDA STELLA DAL MERCATO, NON DAL CAMPO\",\n  \"description\": \"Roma, 20 luglio. La stampa spagnola celebra la vittoria dei Mondiali da parte de \\\"La Roja\\\", un trionfo che ha portato la \\\"seconda stella\\\" sulla maglia e ha spinto i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esal\",\n  \"articleBody\": \"Roma, 20 luglio. La stampa spagnola celebra la vittoria dei Mondiali da parte de \\\"La Roja\\\", un trionfo che ha portato la \\\"seconda stella\\\" sulla maglia e ha spinto i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono le vittorie nel calcio moderno. i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono le vittorie nel calcio moderno. i titoli spagnoli, con la consueta enfasi, hanno decretato \\\"La Roja\\\" non solo campione del mondo ma, a sentir loro, una potenza calcistica senza paragoni, \\\"re di tutti i tempi\\\". L'ottenimento della \\\"seconda stella\\\" è diventato il pretesto per una retorica che dipinge un quadro di dominio assoluto e di invincibilità, una narrazione che, stando all'ANSA, risuona attraverso le principali testate. Questo tipo di celebrazione, tuttavia, è un classico del sistema sport\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-20T07:05:10.597860+00:00\",\n  \"dateModified\": \"2026-07-20T07:05:10.597860+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/2b38a0b3ba8c6e0b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/2b38a0b3ba8c6e0b\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1280x720/2026/7/20/2254306d4142932788757b7d5920e0eb.jpg\",\n    \"creditText\": \"\"\n  }\n}",
-  "priority": 6,
-  "source": "ANSA Sport",
-  "source_type": "ansa",
-  "original_url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/20/mondiali-la-stampa-spagnola-celebra-la-roja-invincibile_fb68c4a3-784e-4777-8888-03b1f08f533b.html",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"UNA SECONDA STELLA DAL MERCATO, NON DAL CAMPO\",\n  \"description\": \"Roma, 20 luglio. La stampa spagnola celebra la vittoria dei Mondiali da parte de \\\"La Roja\\\", un trionfo che ha portato la \\\"seconda stella\\\" sulla maglia e ha spinto i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esal\",\n  \"articleBody\": \"Roma, 20 luglio. La stampa spagnola celebra la vittoria dei Mondiali da parte de \\\"La Roja\\\", un trionfo che ha portato la \\\"seconda stella\\\" sulla maglia e ha spinto i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono le vittorie nel calcio moderno. i media a incoronare la squadra \\\"invincibile\\\" e \\\"re di tutti i tempi\\\", come riportato da ANSA. Questa narrazione trionfalistica, che esalta il successo e la superiorità, tende a ignorare la complessa architettura su cui si reggono La retorica della \\\"Roja invincibile\\\" che i media spagnoli oggi sbandierano, celebrando la seconda stella come fosse un dono divino, ignora la complessa e spietata architettura che sorregge ogni successo nel calcio moderno\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Davide Longo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-20T07:05:10.597860+00:00\",\n  \"dateModified\": \"2026-07-20T07:05:10.597860+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/2b38a0b3ba8c6e0b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/2b38a0b3ba8c6e0b\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/una-seconda-stella-dal-mercato-non-dal-campo-2b38a0b3ba8c6e0b",
   "related": [
+    {
+      "title": "Sky pubblica liste di mercato senza conferme ufficiali",
+      "url": "/sport/sky-pubblica-liste-di-mercato-senza-conferme-uffic-76ba214594a8aed3",
+      "id": "76ba214594a8aed3",
+      "image_url": "https://sport.sky.it/assets/images/b94a930213e29ff32f55c5a15e8e962fd5bfcc61/skysport/it/calcio/calciomercato/video/2026/07/20/1113185_1784560957076_thumb_494.0000001_1784561085157.jpg",
+      "image_type": "feed_image"
+    },
     {
       "title": "Tennis: Musetti torna in campo a Monte-Carlo dopo due mesi di stop",
       "url": "/sport/tennis-musetti-torna-a-monte-carlo-4e55bb2b54124c70",
@@ -46,14 +53,8 @@
       "id": "bc2f463b931409ba",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/9/635ac7792744fc46df39ae08adcbb011.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "Rugby: Cannone in campo domani contro gli All Blacks, la FIR scommette sul riscatto",
-      "url": "/sport/rugby-cannone-scende-in-campo-con-gli-all-blacks-d-13062cdd5cb0339b",
-      "id": "13062cdd5cb0339b",
-      "image_url": "https://sport.sky.it/assets/images/cfe5ad7c8e25e362bf744cf0479c295d2cb7b1d4/skysport/it/rugby/video/2026/07/06/1109924_1783328255056_thumb_494.0000001_1783328285143.jpg",
-      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-07-20T07:05:10.597860+00:00"
 }
