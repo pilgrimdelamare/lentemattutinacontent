@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "Claude è tornato online dopo 31 minuti di interruzione.",
   "titles": [
-    "Claude è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi."
+    "Claude è tornato online dopo 31 minuti di interruzione.",
+    "Claude è tornato online dopo 31 minuti di interruzione.",
+    "Claude è tornato online dopo 31 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 26 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIPRISTINATO",
+  "lead": "Claude è tornato online dopo 31 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 31 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T13:26:35.974460+00:00",
+  "published_at": "2026-07-20T13:31:47.251368+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
-      "title": "Sistema riattivato",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
       "title": "Disservizio risolto: tiktok di nuovo online",
       "url": "/tecnologia/disservizio-tiktok",
       "id": "monitor_tiktok",
       "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Sistema riattivato",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
