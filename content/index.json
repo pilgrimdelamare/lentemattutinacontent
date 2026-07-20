@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Sistema riattivato",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-19T16:57:49.000662+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f82d9eded998757f",
     "slug": "omar-artan-bloccato-alla-frontiera-ma-pagato-dalla-f82d9eded998757f",
     "title": "Omar artan bloccato alla frontiera ma pagato dalla fifa",
@@ -476,25 +491,6 @@
       "casa del jazz roma"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-19T16:57:49.000662+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "ChatGPT è tornato online dopo 106 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6c88fd60bb66320b",
