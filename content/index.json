@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "YouTube è tornato online dopo 85 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-07-20T17:26:29.543164+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE RIPRISTINATO",
+    "lead_preview": "YouTube è tornato online dopo 85 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "youtube",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "76ba214594a8aed3",
     "slug": "sky-pubblica-liste-di-mercato-senza-conferme-uffic-76ba214594a8aed3",
     "title": "Sky pubblica liste di mercato senza conferme ufficiali",
@@ -8191,23 +8210,6 @@
       "f1 silverstone",
       "pole position antonelli",
       "record f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4be60f360343175f",
-    "slug": "tennis-mertens-cancella-rybakina-in-1-ora-e-23-min-4be60f360343175f",
-    "title": "Tennis: Mertens vince il titolo, Rybakina ko in 1h23",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-04T17:45:42.634743+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fd5f9994773e19fb6e7615fd9a0c66306bfa31c4/skysport/it/tennis/video/2026/07/04/1109627_1783179996530_thumb_494.0000001_1783180030945.jpg",
-    "occhiello": "WIMBLEDON, FUORI RYBAKINA: MERTENS VINCE IN 2 SET",
-    "lead_preview": "Londra, 4 luglio. Elena Rybakina è stata eliminata da Elise Mertens in 1 ora e 23 minuti. Mertens ha vinto il titolo. Il",
-    "tags": [
-      "wimbledon"
     ],
     "hero_eligible": true
   }
