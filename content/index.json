@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260720",
+    "slug": "libro-del-giorno-le-scarpe-alla-bebedi-franca-cavagnoli-20260720",
+    "title": "Il libro del giorno: «Le scarpe alla bebèdi Franca Cavagnoli e Mara Cerri»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una tenera storia illustrata che esplora l'amicizia tra due bambine",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-20T07:01:36.929639+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L275xH312/9791255071167_0_0_464_0_75-6524c.jpg?1781276452",
+      "alt": "Copertina: Le scarpe alla bebèdi Franca Cavagnoli e Mara Cerri",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L275xH312/9791255071167_0_0_464_0_75-6524c.jpg?1781276452",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "3fb5290e9196e480",
     "slug": "automobilismo-kimi-antonelli-vince-a-spa-3fb5290e9196e480",
     "title": "Sponsor e podio: la mercedes vende la festa del papà",
@@ -8224,25 +8243,6 @@
       "tennis cobolli",
       "wimbledon 2024",
       "crisi fisica tennis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "95d79ecd20ed1037",
-    "slug": "capirossi-prima-vittoria-con-ducati-indimenticabil-95d79ecd20ed1037",
-    "title": "MotoGP: Capirossi rivela come la vittoria del 2001 cambiò per sempre la Ducati",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-04T13:16:37.164877+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/094ba180599a37937e88d011a55f15b5f716a6c8/skysport/it/motori/motogp/video/2026/07/04/1109542_1783165389637_thumb_494.0000001_1783165998849.jpg",
-    "occhiello": "CAPIROSSI: \"PRIMA VITTORIA CON DUCATI INDIMENTICABILE\"",
-    "lead_preview": "CAPIROSSI: \"QUELLA VICTORIA CAMBIÒ LA STORIA DELLA DUCATI\" Bologna, 4 luglio. Loris Capirossi, ex pilota Ducati e attual",
-    "tags": [
-      "moto gp 2001",
-      "ducati storia",
-      "loris capirossi"
     ],
     "hero_eligible": true
   }
