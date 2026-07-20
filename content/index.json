@@ -1,5 +1,20 @@
 [
   {
+    "id": "61977ce1336601db",
+    "slug": "mariani-presenta-programmi-aereo-a-farnborough-61977ce1336601db",
+    "title": "Mariani presenta programmi aereo a Farnborough",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-07-20T11:58:44.322282+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/20/e047a8a2f3426c5f8be719d426970c2a.jpg",
+    "occhiello": "FARNBOROUGH, LEONARDO PUNTA SU COOPERAZIONE E BASE INDUSTRIALE",
+    "lead_preview": "Farnborough, 20 luglio. Lorenzo Mariani, manager di Leonardo, ha presentato al Farnborough Airshow i principali programm",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "621c7fc9d4875479",
     "slug": "calcio-torres-segna-al-106-e-regala-il-mondiale-al-621c7fc9d4875479",
     "title": "Calcio: Torres segna al 106' e regala il Mondiale alla Spagna",
@@ -8220,25 +8235,6 @@
       "f1 gran bretagna",
       "hamilton mercedes",
       "gara silverstone"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "16d3a93f01558364",
-    "slug": "dividendi-record-mentre-la-fabbrica-chiude-contite-16d3a93f01558364",
-    "title": "Setzer a Continental svende Contitech con 12.000 posti a rischio: i sindacati minacciano ricorsi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-04T12:29:33.863124+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2020/5/26/e13df05d1f8637632d41eb7d4ffa1dea.jpg",
-    "occhiello": "DIVIDENDI RECORD MENTRE LA FABBRICA CHIUDE: CONTITECH VENDUTA PER 4 MILIARDI",
-    "lead_preview": "Roma, 4 luglio. Continental ha incassato 2,5 miliardi di euro tra dividendi e buyback azionari negli ultimi dodici mesi,",
-    "tags": [
-      "vendita contitech",
-      "licenziamenti continental",
-      "sindacati contitech"
     ],
     "hero_eligible": true
   }
