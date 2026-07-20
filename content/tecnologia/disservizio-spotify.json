@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è irraggiungibile da 47 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin",
   "titles": [
-    "Spotify è irraggiungibile da 47 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 47 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 47 minuti. Gli utenti italiani segnalano disservizi"
+    "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin",
+    "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin",
+    "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY IN DOWN",
-  "lead": "Spotify è irraggiungibile da 47 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 47 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SPOTIFY: DISSERVIZIO RISOLTO E RIPRISTINATO",
+  "lead": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streaming è nuovamente pienamente operativo per tutti gli utenti collegati.",
+  "corpo1": "L'interruzione del servizio Spotify è iniziata alle ore 09:12 ed è durata complessivamente 84 minuti, con conclusione dell'evento alle 10:36. Durante la finestra di disservizio gli utenti non hanno potuto riprodurre contenuti audio né sincronizzare le proprie librerie. I sistemi di monitoraggio hanno registrato l'anomalia sui nodi di autenticazione. Alle 10:36 il traffico è rientrato nei parametri nominali e la piattaforma è stata dichiarata operativa. La continuità del servizio è ora confermata.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T16:37:52.973899+00:00",
+  "published_at": "2026-07-20T17:15:03.207301+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
-  "related": [],
+  "related": [
+    {
+      "title": "Claude è tornato online dopo 26 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Disservizio risolto: tiktok di nuovo online",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
