@@ -1,5 +1,20 @@
 [
   {
+    "id": "f66a3fa2137f2241",
+    "slug": "serena-rossi-incanta-alla-cavea-del-parco-della-mu-f66a3fa2137f2241",
+    "title": "Serena rossi in scena a roma",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-21T08:38:37.009404+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/21/879791eb6a932a40e02ec0965f544ac0.jpg",
+    "occhiello": "SERENA ROSSI IN SCENA A ROMA",
+    "lead_preview": "Roma, 23 luglio. L'attrice e cantante Serena Rossi si esibirà il 23 luglio nella Cavea del Parco della Musica con il con",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260721",
     "slug": "libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
     "title": "Il libro del giorno",
@@ -121,25 +136,6 @@
     "occhiello": "JUVENTUS RISPOLVERA IL ROSA PER LA MAGLIA TRASFERTA",
     "lead_preview": "Torino, 21 luglio. La Juventus ha presentato la nuova maglia da trasferta per la stagione 2026-2027, caratterizzata da u",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f66a3fa2137f2241",
-    "slug": "serena-rossi-incanta-alla-cavea-del-parco-della-mu-f66a3fa2137f2241",
-    "title": "Serena Rossi incanta alla Cavea del Parco della Musica con 'SereNata a Napoli'",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-21T08:38:37.009404+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/21/879791eb6a932a40e02ec0965f544ac0.jpg",
-    "occhiello": "SERENA ROSSI IN SCENA A ROMA",
-    "lead_preview": "Roma, 23 luglio. L'attrice e cantante Serena Rossi si esibirà il 23 luglio nella Cavea del Parco della Musica con il con",
-    "tags": [
-      "serena rossi",
-      "concerto napoli",
-      "parco della musica"
-    ],
     "hero_eligible": true
   },
   {
