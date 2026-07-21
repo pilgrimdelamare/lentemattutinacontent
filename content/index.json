@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260721",
+    "slug": "libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-21T07:01:30.318892+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/9788854533929_0_0_424_0_75-9d52d.jpg?1775672132",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
@@ -325,25 +340,6 @@
     "lead_preview": "Beirut, 21 luglio. L'Esercito libanese ha iniziato il suo dispiegamento nel villaggio di Zawtar al-Gharbiya, nella regio",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260721",
-    "slug": "libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
-    "title": "Il libro del giorno: «Distanza»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-21T07:01:30.318892+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/9788854533929_0_0_424_0_75-9d52d.jpg?1775672132",
-      "alt": "Copertina: Distanza",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/9788854533929_0_0_424_0_75-9d52d.jpg?1775672132",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "96119018d3116f9d",
