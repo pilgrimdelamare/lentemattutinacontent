@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify: disservizio risolto e ripristinato",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-20T17:15:03.207301+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY: DISSERVIZIO RISOLTO E RIPRISTINATO",
+    "lead_preview": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streaming è nuovamente pienamente operativo per ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, martedì 21 luglio 2026",
@@ -204,25 +219,6 @@
     "lead_preview": "Madrid, 20 luglio. La nazionale spagnola di calcio, la Roja, è stata ricevuta al Palazzo della Zarzuela dal re Felipe VI",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streamin",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-20T17:15:03.207301+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY: DISSERVIZIO RISOLTO E RIPRISTINATO",
-    "lead_preview": "Spotify è tornato online dopo 84 minuti di interruzione. Il servizio di streaming è nuovamente pienamente operativo per ",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f5f140ecefa999f2",
