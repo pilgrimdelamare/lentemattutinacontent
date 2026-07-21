@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260721",
+    "slug": "libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
+    "title": "Il libro del giorno: «Distanza»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-21T07:01:30.318892+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/9788854533929_0_0_424_0_75-9d52d.jpg?1775672132",
+      "alt": "Copertina: Distanza",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L202xH312/9788854533929_0_0_424_0_75-9d52d.jpg?1775672132",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "96119018d3116f9d",
     "slug": "de-la-espriella-riceve-taglia-milionaria-per-lassa-96119018d3116f9d",
     "title": "De la espriella riceve taglia milionaria per l'assassinio",
@@ -8169,25 +8188,6 @@
       "incontro trump netanyahu",
       "vertice nato",
       "trump netanyahu"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9a7b9b6cfd96a317",
-    "slug": "francia-le-pen-lancia-bardella-come-successore-des-9a7b9b6cfd96a317",
-    "title": "Marine Le Pen cede la candidatura a Bardella: il RN sceglie l’erede designato domani",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-07-04T19:39:31.102587+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/2/1b9278e0538d3830a327e826811320fb.jpg",
-    "occhiello": "LE PEN, 'SE MI VIETANO DI CORRERE PER LE PRESIDENZIALI SOSTERRÒ BARDELLA'",
-    "lead_preview": "Marine Le Pen ha dichiarato che, in caso di esclusione dalle presidenziali francesi del 2027, sosterrà Jordan Bardella c",
-    "tags": [
-      "le pen bardella",
-      "rn 2027",
-      "candidatura presidenziale francia"
     ],
     "hero_eligible": true
   }
