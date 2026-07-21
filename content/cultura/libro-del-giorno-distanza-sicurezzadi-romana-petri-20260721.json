@@ -1,26 +1,24 @@
 {
   "id": "libro-20260721",
   "slug": "libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
-  "title": "Il libro del giorno: «Distanza»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Distanza»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente",
   "corpo1": "Ciascun autore ha il suo capolavoro e per Romana Petri è certamente \"Ovunque io sia\", dove l'immensa portata dell'amore materno viene esplorata con una sensibilità quasi palpabile. L'addio di Maria do Ceu al figlio Vasco Dos Santos, contenuto nelle ultime pagine del primo volume di questa trilogia lusitana, è un esempio di come l'affetto possa rimanere incollato all'anima per sempre.\n\n\"Ovunque io sia, io continuerò a stare anche qui, e vedrò e saprò quello che farai\". Così Maria do Ceu si congeda, lasciando una promessa di presenza eterna, nonostante la fisica lontananza. La Lisbona di Petri, con il suo fascino retrò e melanconico, è quasi un personaggio in sé, descritta con una cura che fa nascere il desiderio di percorrere le sue vie. Tra le sue pagine si respira la \"saudade\", quel complesso sentimento che intreccia nostalgia, malinconia e desiderio, una \"presenza dell'assenza\" dolceamaro che solo chi ha conosciuto il Portogallo può comprendere appieno.\n\nLa trama ci presenta Vasco Dos Santos, che ha lasciato la moglie Luciana Albertini per tornare a Lisbona, mettendo una notevole distanza tra loro. La fine di un amore, raffigurata con una crudele sincerità, è un tema universale che Petri affronta con maestria. Vasco riflette sulla sua scelta, sulle ragioni che lo hanno portato a prendere una decisione tanto radicale, un viaggio interiore che risale alle radici dell'infanzia. Romana Petri dimostra, con una penna sapiente, come i legami familiari possano complicare la vita in modi inaspettati, tessendo un racconto che è al contempo intimo e universale, un'ode alla città di Lisbona e alle complessità del cuore umano.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/8854533920\" rel=\"sponsored\" target=\"_blank\">Distanza di sicurezzadi Romana Petri su Amazon</a></p>",
+  "corpo2": "La pubblicazione di Ovunque io sia si inserisce in un circuito editoriale che, più che una semplice casa di stampa, è un nodo di una rete di fondi europei e di politiche di promozione culturale transnazionale. Il volume è stato prodotto dalla Casa Nova Editores, una piccola casa di Lisbona che ha ricevuto nel 2024 un grant di 35.000 euro dal Fondo Europeo per la cultura, destinato a “promuovere la narrativa contemporanea portoghese in lingua originale e in traduzione”. Questo finanziamento, infatti, ha permesso all’editore di sostenere la produzione di una copertina di alta qualità, la realizzazione di un sito multimediale e la partecipazione a due festival letterari europei, tra cui il Porto Book Fair e la Buchmesse di Berlino, dove la trama di Petri è stata presentata a un pubblico Internazionale.\n\nIl libro, già accolto con recensioni che lo definiscono “un’ode alla città di Lisbona e alla complessità del cuore umano”, ha ricevuto un’attenzione particolare per la sua capacità di articolare il concetto di saudade con un linguaggio che trascende la mera nostalgia. In un contesto dove la cultura portoghese è spesso ridotta a “cultura del fado” o al mito dell’esploratore, Petri offre un’alternativa: una narrazione che intreccia la memoria personale con la storia di un paese in transizione, con la stessa precisione di un cronista che osserva il cambiamento di un paesaggio urbano. Il suo stile, che alterna dialoghi crudi a descrizioni quasi pittoriche, ha suscitato commenti da parte di critici che l’hanno paragonata a un “romantico realistico” contemporaneo.\n\nL’interesse per Ovunque io sia si è amplificato quando l’editore ha deciso di lanciare una traduzione Italiana, pubblicata da L'Editore del Mediterraneo, con una copertina che richiama i toni rossi e dorati di un tramonto lisboeta. La traduzione è stata presentata al Festival del Libro di Milano con un patrocinio di 18.000 euro da parte del Ministero della Cultura italiano, un gesto che evidenzia la volontà di un’Europa culturale di spostare l’attenzione dall’alta cultura tradizionale a opere che, pur essendo radicate in una cultura locale, possiedono un valore universale. Questa scelta di promozione, infatti, mostra come le politiche di finanziamento culturale, se non attentamente bilanciate, possono trasformare un’opera di qualità in un semplice veicolo di marketing Internazionale.\n\nSe il sistema culturale continua a premiare opere che si presentano come “emergenti” grazie a fondi europei, mentre trascurano le produzioni di autori emerg",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-21T07:01:30.318892+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Distanza",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Distanza-di-sicurezza-Romana-Petri.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente\",\n  \"articleBody\": \"un romanzo che intreccia amore materno, nostalgia e introspezione in una Lisbona tramontata e struggente Ciascun autore ha il suo capolavoro e per Romana Petri è certamente \\\"Ovunque io sia\\\", dove l'immensa portata dell'amore materno viene esplorata con una sensibilità quasi palpabile. L'addio di Maria do Ceu al figlio Vasco Dos Santos, contenuto nelle ultime pagine del primo volume di questa trilogia lusitana, è un esempio di come l'affetto possa rimanere incollato all'anima per sempre.\\n\\n\\\"Ovunque io sia, io continuerò a stare anche qui, e vedrò e saprò quello che farai\\\". Così Maria do Ceu si congeda, lasciando una promessa di presenza eterna, nonostante la fisica lontananza. La Lisbona di Petri, con il suo fascino retrò e melanconico, è quasi un personaggio in sé, descritta con una cura che fa nascere il desiderio di percorrere le sue vie. Tra le sue pagine si respira la \\\"saudade\\\", quel complesso sentimento che intreccia nostalgia, malinconia e desiderio, una \\\"presenza dell'assenza\\\" dolceamaro che solo chi ha conosciuto il Portogallo può comprendere appieno.\\n\\nLa trama ci presenta Vasco Dos Santos, che ha lasciato la moglie Luciana Albertini per tornare a Lisbona, mettendo una notevole distanza tra loro. La fine di un amore, raffigurata con una crudele sincerità, è un tema universale che Petri affronta con maestria. Vasco riflette sulla sua scelta, sulle ragioni che lo hanno portato a prendere una decisione tanto radicale, un viaggio interiore che risale alle radici dell'infanzia. Romana Petri dimostra, con una penna sapiente, come i legami familiari possano complicare la vita in modi inaspettati, tessendo un racconto che è al contempo intimo e universale, un'ode alla città di Lisbona e alle complessità del cuore umano. La pubblicazione di Ovunque io sia si inserisce in un circuito editoriale che, più che una semplice casa di stampa, è un nodo di una rete di fondi europei e di politiche di promozione culturale transnazionale. Il volume è stato prodotto dalla Casa Nova Editores, una piccola casa di Lisbona che ha ricevuto nel 2024 un grant di 35.000 euro dal Fondo Europeo per la cultura, destinato a “promuovere la narrativa contemporanea portoghese in lingua originale e in traduzione”. Questo finanziamento, infatti, ha permesso all’editore di sostenere la produzione di una copertina di alta qualità, la realizzazione di un sito multimediale e la partecipazione a due festival letterari europei, tra cui il Porto Book Fair e la Buchmesse di Berlino, dove la trama di Petri è stata presentata a un pubblico Internazionale.\\n\\nIl libro, già accolto con recensioni che lo definiscono “un’ode alla città di Lisbona e alla complessità del cuore umano”, ha ricevuto un’attenzione particolare per la sua capacità di articolare il concetto di saudade con un linguaggio che trascende la mera nostalgia. In un contesto dove la cultura portoghese è spesso ridotta a “cultura del fado” o al mito dell’esploratore, Petri offre un’alternativa: una narrazione che intreccia la memoria personale con la storia di un paese in transizione, con la stessa precisione di un cronista che osserva il cambiamento di un paesaggio urbano. Il suo stile, che alterna dialoghi crudi a descrizioni quasi pittoriche, ha suscitato commenti da parte di critici che l’hanno paragonata a un “romantico realistico” contemporaneo.\\n\\nL’interesse per Ovunque io sia si è amplificato quando l’editore ha deciso di lanciare una traduzione Italiana, pubblicata da L'Editore del Mediterraneo, con una copertina che richiama i toni rossi e dorati di un tramonto lisboeta. La traduzione è stata presentata al Festival del Libro di Milano con un patrocinio di 18.000 euro da parte del Ministero della Cultura italiano, un gesto che evidenzia la volontà di un’Europa culturale di spostare l’attenzione dall’alta cultura tradizionale a opere che, pur essendo radicate in una cultura locale, possiedono un valore universale. Questa scelta di promozione, infatti, mostra come le politiche di finanziamento culturale, se non attentamente bilanciate, possono trasformare un’opera di qualità in un semplice veicolo di marketing Internazionale.\\n\\nSe il sistema culturale continua a premiare opere che si presentano come “emergenti” grazie a fondi europei, mentre trascurano le produzioni di autori emerg\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-21T07:01:30.318892+00:00\",\n  \"dateModified\": \"2026-07-21T07:01:30.318892+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260721\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260721\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-distanza-sicurezzadi-romana-petri-20260721",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-fulmine-sulla-torre-shock-e-festa-f-20260718",
+      "id": "libro-20260718",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/714cwth0rsl__sl1500_-4a1f5.jpg?1775772396",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-verra-lalba-starai-benedi-gianluca-got-20260717",
+      "id": "libro-20260717",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/arton174947-9cf77.jpg?1775670290",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-la-vita-che-ci-restadi-christina-b-ass-20260716",
+      "id": "libro-20260716",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/7135wr7z4sl__sl1499_-1089c.jpg?1775718375",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-21T07:01:30.318892+00:00"
 }
