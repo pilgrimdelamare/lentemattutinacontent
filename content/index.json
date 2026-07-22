@@ -1,5 +1,24 @@
 [
   {
+    "id": "c06e6c6668eebdc5",
+    "slug": "gas-ttf-116-6061-lallarme-bollette-torna-ad-accend-c06e6c6668eebdc5",
+    "title": "GAS TTF +1,16%: 60,61€, l'allarme bollette torna ad accendersi",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-07-22T07:10:15.453838+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2020/5/27/74c6601fdd8d726f966f0209ed5e82a2.0",
+    "occhiello": "GAS AD AMSTERDAM, IL PREZZO CHE ARRIVA IN CUCINA",
+    "lead_preview": "Roma, 22 luglio. I contratti future del gas naturale al TTF di Amsterdam hanno registrato un rialzo dell'1,16% in apertu",
+    "tags": [
+      "gas ttf",
+      "bollette gas",
+      "prezzo gas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "630a72f85f0a35cf",
     "slug": "4-miliardi-su-amazon-il-prezzo-per-le-pmi-italiane-630a72f85f0a35cf",
     "title": "4 miliardi su amazon, il prezzo per le pmi italiane",
@@ -8129,23 +8148,6 @@
       "sequestro orologi",
       "fifa veto premi",
       "giocatori messicani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5961258cbf767249",
-    "slug": "bolsonaro-perde-porto-darmi-e-11-fucili-sequestrat-5961258cbf767249",
-    "title": "Bolsonaro perde porto d'armi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-07-05T09:43:01.130788+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/9/94bfbebec638e6ce5b8bc296bb331e70.jpg",
-    "occhiello": "Il giudice Alexandre de Moraes ha revocato il porto d’armi e la licenza da collezionista dell’ex presidente Jair Bolsonaro",
-    "lead_preview": "Brasilia, 5 luglio.",
-    "tags": [
-      "caso bolsonaro"
     ],
     "hero_eligible": true
   }
