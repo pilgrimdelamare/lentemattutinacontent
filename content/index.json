@@ -1,5 +1,23 @@
 [
   {
+    "id": "3eae2f4036ef5370",
+    "slug": "tennis-jannik-sinner-guida-litalia-agli-us-open-di-3eae2f4036ef5370",
+    "title": "Tennis: Jannik Sinner guida l'Italia agli Us Open di New York",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-07-22T08:29:04.346138+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/12/af5a582403608e49ead894bcf187d8a0.jpg",
+    "occhiello": "SINNER GUIDA OTTO AZZURRI AGLI US OPEN",
+    "lead_preview": "New York, 30 agosto. Jannik Sinner conduce la delegazione azzurra agli Us Open, ultimo slam dell'anno, dove in tabellone",
+    "tags": [
+      "jannik sinner",
+      "us open 2023"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eff19c6976c25171",
     "slug": "azzurre-pronte-per-i-quarti-di-finale-eff19c6976c25171",
     "title": "Pallavolo: Italia sfida l'Olanda nei quarti di finale della Volley Nations League",
@@ -8132,25 +8150,6 @@
       "bandiera peruviana",
       "multe lima",
       "obbligo esposizione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "45f3ff70d70dd453",
-    "slug": "de-fusco-porta-sofocle-a-salonicco-45f3ff70d70dd453",
-    "title": "Teatro di Roma in tournée in Grecia con Lazzareschi-Mandracchia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-05T11:41:07.451032+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/2ffe78cc81a9ad7e39528a94923a477c.jpg",
-    "occhiello": "DE FUSCO A SALONICCO CON EDIPO RE",
-    "lead_preview": "Roma, 5 luglio.",
-    "tags": [
-      "teatro di roma",
-      "lazzareschi-mandracchia",
-      "edipo re"
     ],
     "hero_eligible": true
   }
