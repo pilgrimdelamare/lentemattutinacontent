@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260722",
+    "slug": "libro-del-giorno-stare-al-giocodi-fatima-daas-20260722",
+    "title": "Il libro del giorno: «Stare al giocodi Fatima Daas»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo di formazione che esplora le complessità dell'adolescenza in una banlieue parigina",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-22T07:33:23.434853+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L221xH312/9791256361984_0_0_464_0_75-0ed2c.jpg?1783504978",
+      "alt": "Copertina: Stare al giocodi Fatima Daas",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L221xH312/9791256361984_0_0_464_0_75-0ed2c.jpg?1783504978",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "1736962d90f97bf0",
     "slug": "uomo-messicano-muore-fuggendo-dallice-1736962d90f97bf0",
     "title": "Un turista messicano morto in florida",
@@ -8134,21 +8153,6 @@
       "race of champions",
       "pole bulega"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dafe95ba860468ac",
-    "slug": "roberto-giacobbo-torna-in-tv-santo-graal-oriente-e-dafe95ba860468ac",
-    "title": "Giacobbbo torna sul graal",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-07-05T10:55:07.620437+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/5/23798ae47fbfc54eb55f4ce87a0784d3.jpg",
-    "occhiello": "GIACOBBBO TORNA SUL GRAAL",
-    "lead_preview": "Roma, 5 luglio — Roberto Giacobbo annuncia una nuova stagione di programmi dedicati ai misteri storici. Stavolta il Sant",
-    "tags": [],
     "hero_eligible": true
   }
 ]
