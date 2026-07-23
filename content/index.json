@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 23 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-23T05:56:43.494283+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/55037e553eca7b5f36a8ded9fa17f6d842e4f370/skytg24/it/cronaca/2026/07/23/prime-pagine-quotidiani-oggi-23-luglio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 23 LUGLIO 2026",
+    "lead_preview": "Il panorama della stampa italiana di oggi si concentra su un mix di cronaca locale, politica nazionale e sport. I titoli",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, giovedì 23 luglio 2026",
@@ -3354,25 +3373,6 @@
     "occhiello": "LA CAMERA VOTA LA LEGGE ELETTORALE",
     "lead_preview": "Roma, 16 luglio. La Camera dei Deputati ha discusso con toni accesi la nuova legge elettorale. Durante la seduta, Elly S",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 17 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-17T05:45:24.026497+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/6b96d6109ad6c06237a73313438c63e480e916b5/skytg24/it/cronaca/2026/07/17/prime-pagine-quotidiani-oggi-17-luglio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 17 LUGLIO 2026",
-    "lead_preview": "I quotidiani italiani dedicano ampio spazio al caso del gioielliere Mario Roggero, al nodo giudiziario del Ponte Morandi",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
