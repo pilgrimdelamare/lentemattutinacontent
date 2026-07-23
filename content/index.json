@@ -1,20 +1,5 @@
 [
   {
-    "id": "803c00305ecf061f",
-    "slug": "prima-mostra-monografica-di-pontormo-al-quirinale-803c00305ecf061f",
-    "title": "Prima mostra monografica di pontormo al quirinale, in partnership con uffizi",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-07-23T09:33:42.158996+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/23/194ebe82c97e36f7ea5f4538660f92ca.jpg",
-    "occhiello": "PRIMA MOSTRA MONOGRAFICA DI PONTORMO AL QUIRINALE, IN PARTNERSHIP CON UFFIZI",
-    "lead_preview": "Roma, 23 luglio 2026. Le Scuderie del Quirinale ospitano la prima mostra monografica dedicata a Pontormo, in collaborazi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "3c160119bbd00fc8",
     "slug": "lutto-nella-famiglia-di-montella-morta-la-sorella-3c160119bbd00fc8",
     "title": "Lutto nella famiglia di montella: morta la sorella caterina",
@@ -26,6 +11,21 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/164bc5bcf4129ec6676b04dc8d70ff60.jpg",
     "occhiello": "LUTTO NELLA FAMIGLIA DI MONTELLA: MORTA LA SORELLA CATERINA",
     "lead_preview": "Avellino, 22 luglio 2026. La famiglia di Montella, un piccolo comune nella provincia di Avellino, è stata scossa da una ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "803c00305ecf061f",
+    "slug": "prima-mostra-monografica-di-pontormo-al-quirinale-803c00305ecf061f",
+    "title": "Prima mostra monografica di pontormo al quirinale, in partnership con uffizi",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-23T09:33:42.158996+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/23/194ebe82c97e36f7ea5f4538660f92ca.jpg",
+    "occhiello": "PRIMA MOSTRA MONOGRAFICA DI PONTORMO AL QUIRINALE, IN PARTNERSHIP CON UFFIZI",
+    "lead_preview": "Roma, 23 luglio 2026. Le Scuderie del Quirinale ospitano la prima mostra monografica dedicata a Pontormo, in collaborazi",
     "tags": [],
     "hero_eligible": true
   },
