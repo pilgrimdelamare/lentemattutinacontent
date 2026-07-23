@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260723",
+    "slug": "libro-del-giorno-la-primogenitadi-sonia-milan-20260723",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-07-23T07:01:31.413336+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/arton170991-c2008.jpg?1775671017",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un affascinante romanzo storico che intreccia la vita di donne coraggiose tra il XIX secolo e il presente",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8fb087d63daccc6e",
     "slug": "giudice-a-berlin-ex-autofficina-contro-i-tagli-ue-8fb087d63daccc6e",
     "title": "Giudice a berlin: ex autofficina contro i tagli ue",
@@ -321,25 +336,6 @@
       "politica"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260723",
-    "slug": "libro-del-giorno-la-primogenitadi-sonia-milan-20260723",
-    "title": "Il libro del giorno: «La primogenitadi Sonia Milan»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un affascinante romanzo storico che intreccia la vita di donne coraggiose tra il XIX secolo e il presente",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-23T07:01:31.413336+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/arton170991-c2008.jpg?1775671017",
-      "alt": "Copertina: La primogenitadi Sonia Milan",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/arton170991-c2008.jpg?1775671017",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "9b8213a2b0ae2f8e",
