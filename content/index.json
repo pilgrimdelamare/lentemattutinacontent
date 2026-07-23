@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, giovedì 23 luglio 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-07-23T04:22:39.916794+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — GIOVEDÌ 23 LUGLIO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "00453a85deeb37ba",
     "slug": "bce-ferma-i-tassi-inflazione-sotto-il-3-00453a85deeb37ba",
     "title": "Bce ferma i tassi: inflazione sotto il 3%",
@@ -443,26 +463,6 @@
     "lead_preview": "Roma, 23 luglio. L'attrice e cantante Serena Rossi si esibirà il 23 luglio nella Cavea del Parco della Musica con il con",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, mercoledì 22 luglio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-07-22T04:11:43.757298+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — MERCOLEDÌ 22 LUGLIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "869aa8b4985ca252",
