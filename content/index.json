@@ -1,5 +1,20 @@
 [
   {
+    "id": "4df94ae4ec953559",
+    "slug": "400-persone-evacuate-a-cap-ferret-4df94ae4ec953559",
+    "title": "Almeno 400 persone tratte in salvo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-07-24T07:47:54.565258+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/ff43bf030680aa5a56d60158b42a8e94.jpg",
+    "occhiello": "ALMENO 400 PERSONE TRATTE IN SALVO",
+    "lead_preview": "Cap Ferret, 24 luglio. Centinaia di persone fuggono in barca dall'incendio a Cap Ferret, mentre le fiamme hanno avvolto ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5996ab0160a5f16b",
     "slug": "industria-in-ritiro-inflazione-in-aumento-5996ab0160a5f16b",
     "title": "Industria in ritiro, inflazione in aumento",
@@ -427,23 +442,6 @@
     "occhiello": "PRIMA MOSTRA MONOGRAFICA DI PONTORMO AL QUIRINALE, IN PARTNERSHIP CON UFFIZI",
     "lead_preview": "Roma, 23 luglio 2026. Le Scuderie del Quirinale ospitano la prima mostra monografica dedicata a Pontormo, in collaborazi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4df94ae4ec953559",
-    "slug": "400-persone-evacuate-a-cap-ferret-4df94ae4ec953559",
-    "title": "400 Persone evacuate a Cap Ferret",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-07-24T07:47:54.565258+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/ff43bf030680aa5a56d60158b42a8e94.jpg",
-    "occhiello": "ALMENO 400 PERSONE TRATTE IN SALVO",
-    "lead_preview": "Cap Ferret, 24 luglio. Centinaia di persone fuggono in barca dall'incendio a Cap Ferret, mentre le fiamme hanno avvolto ",
-    "tags": [
-      "incendio cap ferret"
-    ],
     "hero_eligible": true
   },
   {
