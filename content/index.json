@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, sabato 25 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-25T06:14:43.751949+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e06e73f649dc57972a4430c4843069181b0b2f5d/skytg24/it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio/collage_rass_25luglio.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DI OGGI",
+    "lead_preview": "I giornali di oggi convergono sull'argomento del caro benzina e sulle tensioni internazionali. Il Corriere della Sera, L",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, sabato 25 luglio 2026",
@@ -851,25 +870,6 @@
     "occhiello": "PARIGI, 22 LUGLIO 2026 — SIAD TROVATO TROVATO MORTO, ERA SOSPETTATO DI COLLEGAMENTI CON EPSTEIN",
     "lead_preview": "Parigi, 22 luglio 2026. Siad Trovato, sospettato di aver reclutato giovani modelle per il famigerato pedofilo statuniten",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 23 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-23T05:56:43.494283+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/55037e553eca7b5f36a8ded9fa17f6d842e4f370/skytg24/it/cronaca/2026/07/23/prime-pagine-quotidiani-oggi-23-luglio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 23 LUGLIO 2026",
-    "lead_preview": "Il panorama della stampa italiana di oggi si concentra su un mix di cronaca locale, politica nazionale e sport. I titoli",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
