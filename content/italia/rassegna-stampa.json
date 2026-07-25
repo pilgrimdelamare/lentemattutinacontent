@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 23 luglio 2026",
+  "title": "Le prime pagine di oggi, sabato 25 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 23 luglio 2026",
-    "Le prime pagine di oggi, giovedì 23 luglio 2026",
-    "Le prime pagine di oggi, giovedì 23 luglio 2026"
+    "Le prime pagine di oggi, sabato 25 luglio 2026",
+    "Le prime pagine di oggi, sabato 25 luglio 2026",
+    "Le prime pagine di oggi, sabato 25 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 23 LUGLIO 2026",
-  "lead": "Il panorama della stampa italiana di oggi si concentra su un mix di cronaca locale, politica nazionale e sport. I titoli di apertura vanno dal caso di Bologna e la morte di Fakir a questioni politiche sull'uso delle chat di Delmastro, passando per le trattative per il nuovo ct della nazionale e le ultime mosse del calciomercato. I quotidiani si alternano tra reportage sul Medio Oriente, notizie di politica interna e approfondimenti sul settore sportivo.",
-  "corpo1": "Sky Go propone una nuova offerta di prova di 30 giorni e un articolo sul decoder Sky Stream. Il Giornale 3 apre con il caso di Bologna, intitolando la pagina “Il film della morte di Fakir” e “Nuove immagini: la lite in strada e le frasi degli agenti”. Il Giornale 4 si concentra sulla politica, con “Uno scudo per Delmastro” e “Negata l’autorizzazione all’uso delle chat dell’ex sottosegretario”. Il Giornale 5 dedica la prima pagina al conflitto in Medio Oriente, intitolato “Nella battaglia di Hormuz”, e al caso Fakir con “Rianimato con le manette”. Il Giornale 6 riprende Bologna con “In un nuovo video le fasi del suo delirio” e la politica con “No alle chat di Delmastro”. Il Giornale 7 parla delle trattative per il nuovo ct della nazionale, intitolando “Pep sul filo” e “Malagò prende tempo”. Il Giornale 8 apre con il calciomercato, “Più Kessie, più Juve”, e le mosse di Inter e Roma. Il Giornale 9 focalizza la Juventus, con “La zavorra da 171 milioni” e “La somma degli stipendi lordi è la più alta della Serie A”. Il Giornale 10 si concentra su Delmastro e la politica, intitolando “Salvano Delmastro e pure il clan Senese”. Il Giornale 11 e 12 trattano il caso Salis, con “Condannata, sfrutta e licenzia gli assistenti” e “Indagine su Lepore”.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE DI OGGI",
+  "lead": "I giornali di oggi convergono sull'argomento del caro benzina e sulle tensioni internazionali. Il Corriere della Sera, La Repubblica e Il Giornale titolano su questi temi, mentre La Gazzetta dello Sport si concentra sullo sport.",
+  "corpo1": "Il Corriere della Sera apre con l'allarme per gas e carburanti, mentre La Repubblica titola sulle tensioni tra Usa e Iran. Il Giornale dedica la prima pagina al caro benzina e al piano del governo per contrastarlo. La Stampa parla di benzina e rincari sulle vacanze, e di un vertice a Palazzo Chigi per riportare le tariffe sotto i due euro al litro. Il Sole 24 Ore punta sui rincari di petrolio e gas e il loro impatto sul Pil.",
+  "corpo2": "Altri titoli di rilievo includono quelli su Bologna e il caso di Fakir, e sulle tensioni in Cisgiordania. Il tema dominante della giornata è il caro benzina e le tensioni internazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-23T05:56:43.494283+00:00",
+  "published_at": "2026-07-25T06:14:43.751949+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/55037e553eca7b5f36a8ded9fa17f6d842e4f370/skytg24/it/cronaca/2026/07/23/prime-pagine-quotidiani-oggi-23-luglio/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/e06e73f649dc57972a4430c4843069181b0b2f5d/skytg24/it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio/collage_rass_25luglio.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/23/prime-pagine-quotidiani-oggi-23-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 23 luglio 2026",
+      "title": "Oroscopo di oggi, sabato 25 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
+      "title": "Parigi, 22 luglio 2026 — siad trovato trovato morto, era sospettato di collegamenti con epstein",
+      "url": "/esteri/trovato-morto-a-parigi-siad-trovato-3d888119ef898bd4",
+      "id": "3d888119ef898bd4",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/10/08e7cb3f271ce15bfb1f75f0ed07e0f9.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "Enti locali aperti alla rottamazione fino al 31 luglio",
       "url": "/economia/enti-locali-aperti-alla-rottamazione-fino-al-31-lu-321307c9904722e4",
       "id": "321307c9904722e4",
       "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/19/183906143-7920ad57-d1cd-4d39-8a1b-2d2e05b6b7db.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "La Notte della Taranta parte alla fine di luglio con 20 concerti itineranti in Salento",
-      "url": "/cultura/la-notte-della-taranta-celebra-il-mediterraneo-con-04ccfe9cf4c67dfa",
-      "id": "04ccfe9cf4c67dfa",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/11/122a1e8b583387dbf08920ad264f4fcb.jpg",
       "image_type": "image"
     }
   ],
