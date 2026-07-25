@@ -1,5 +1,20 @@
 [
   {
+    "id": "1dfe5279cc611d2c",
+    "slug": "robot-per-salvare-il-pianeta-1dfe5279cc611d2c",
+    "title": "Robot per salvare il pianeta",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-07-25T16:55:16.246593+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/25/184514796-765fecda-0034-4396-b463-0c24f6669caf.jpg",
+    "occhiello": "ROBOT PER SALVARE IL PIANETA",
+    "lead_preview": "Losanna, 25 luglio 2026. Tre scienziati propongono un nuovo paradigma per la robotica: non solo macchine performanti, ma",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "49a71c4578861436",
     "slug": "donne-del-cinema-premiate-a-venezia-49a71c4578861436",
     "title": "Donne del cinema premiate a venezia",
@@ -7959,25 +7974,6 @@
     "tags": [
       "riforma carceraria",
       "nordio promette riforma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d7a18d9c224d6c07",
-    "slug": "aumento-del-prezzo-della-benzina-e-gasolio-d7a18d9c224d6c07",
-    "title": "Benzina a 1,85 e gasolio a 1,94: il record che affama gli italiani al volante",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-07T07:42:00.024043+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/13/8c83611eb1181caa50cc0bf14ba43b6c.jpg",
-    "occhiello": "AUMENTO DEL PREZZO DELLA BENZINA E GASOLIO",
-    "lead_preview": "Roma, 7 luglio. I prezzi dei carburanti continuano a salire: la benzina self raggiunge 1,852 euro al litro, mentre il ga",
-    "tags": [
-      "prezzi benzina",
-      "carburanti record",
-      "aumento costi"
     ],
     "hero_eligible": true
   }
