@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub è tornato online dopo 30 minuti di interruzione.",
   "titles": [
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub è tornato online dopo 30 minuti di interruzione.",
+    "GitHub è tornato online dopo 30 minuti di interruzione.",
+    "GitHub è tornato online dopo 30 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SISTEMA RIATTIVATO",
+  "lead": "GitHub è tornato online dopo 30 minuti di interruzione.",
+  "corpo1": "Il disservizio è iniziato 30 minuti fa e ora è stato completamente risolto. La piattaforma è tornata a funzionare correttamente, consentendo agli utenti di accedere e utilizzare i servizi senza problemi. La durata dell'interruzione è stata limitata e il sistema è stato riattivato con successo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-24T20:00:04.829119+00:00",
+  "published_at": "2026-07-25T13:02:25.000690+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,13 +38,6 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
       "title": "YouTube è tornato online dopo 85 minuti di interruzione.",
       "url": "/tecnologia/disservizio-youtube",
       "id": "monitor_youtube",
@@ -56,6 +49,13 @@
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
