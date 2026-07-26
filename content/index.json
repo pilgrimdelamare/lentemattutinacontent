@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "Sistema riattivato",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-07-25T13:02:25.000690+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "SISTEMA RIATTIVATO",
+    "lead_preview": "GitHub è tornato online dopo 30 minuti di interruzione.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "dfae71a21b3e91c1",
     "slug": "droni-ucraini-su-belgorod-russia-colpisce-porti-su-dfae71a21b3e91c1",
     "title": "Droni ucraini su belgorod, russia colpisce porti sul mar nero",
@@ -136,25 +151,6 @@
     "lead_preview": "100 MILIONI PER RINNOVARE LE STRUTTURE NERAZZRE Appiano Gentile, 25 luglio. L'Inter investe 100 milioni per rinnovare la",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 30 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-25T13:02:25.000690+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "GitHub è tornato online dopo 30 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c21bc52546781843",
