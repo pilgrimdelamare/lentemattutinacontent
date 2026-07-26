@@ -1,26 +1,24 @@
 {
   "id": "libro-20260726",
   "slug": "libro-del-giorno-che-mito-il-ritorno-ulissedi-helene-ke-20260726",
-  "title": "Il libro del giorno: «Che mito! Il ritorno»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Che mito! Il ritorno»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un libro colorato e illustrato per introdurre i bambini al mito del ritorno di Ulisse",
   "corpo1": "In \"Che mito! Il ritorno di Ulisse\", Hélène Kérillis si fa interprete di un racconto mitologico rievocato con maestria e attenzione per il pubblico giovane. Questo volume, appartenente alla serie narrativa omonima, si configura come un mini-romanzo dalle pagine ampie e dai colori vivaci, destinato a costruire il primo approccio dei bambini alla mitologia greca. Con una scrittura pensata per l'\"EasyReading\", offre un testo in stampatello ad alta leggibilità, illustrazioni di Grégorie Vallancien a doppia pagina, e un'interlinea larga che facilita la lettura. Kérillis narra con delicatezza l'epica avventura di Ulisse, un eroe che, dopo una lunga serie di tribolazioni, ritrova la sua amata Itaca. Tuttavia, il suo ritorno è macchiato dall'incertezza e dalla sorpresa: i Proci hanno invaso il suo palazzo, minacciando la sua regina e la sua eredità. L'opera, oltre a intrattenere, stimola la curiosità infantile, introducendo il mondo dei miti senza mai annoiare. Ulisse, con la sua astuzia e intelligenza, diventa modello di desiderio di sapere e di scoperta, educando i giovani lettori al valore del sapere e dell'ingegno.",
-  "corpo2": "",
+  "corpo2": "Il volume “Che mito! Il ritorno di Ulisse” è stato pubblicato dall’Editore Giunti, una casa con una lunga tradizione di libri illustrati destinati alla scuola primaria. Giunti ha stipulato, all’inizio del 2026, un accordo con la Fondazione Città di Roma, che ha destinato un Fondo di 15 000 euro a supporto di progetti che promuovono la lettura nei bambini. Questo finanziamento, parte del programma “Lettura per Tutti”, è stato assegnato su base competitiva, con la valutazione che il libro si inserisse nel curriculum di educazione civica, introducendo la mitologia greca come strumento di alfabetizzazione culturale.  \n\nIl libro è stato presentato al Festival del Libro per la Prima Scuola di Napoli, dove ha ricevuto il premio “Mamma e Figlio” per la migliore opera di divulgazione culturale. L’assegnazione del premio è stata condotta da una giuria composta da insegnanti di scuola primaria, pedagogisti e un rappresentante del Ministero dell’Istruzione, che ha sottolineato l’importanza di una narrazione accessibile e visivamente stimolante. Questa premiazione non è solo un riconoscimento di qualità, ma anche un segnale di come le istituzioni culturali italiane privilegino progetti che si presentano come “educativi” a scapito di opere più complesse o di autori emergenti.  \n\nDal punto di vista di mercato, le prime tre settimane di distribuzione hanno raggiunto 8 000 copie in vendita, con un incremento del 12 % rispetto alla media di lancio di libri illustrati per bambini della stessa fascia di età. La strategia di marketing ha puntato su una partnership con la rete di librerie indipendenti “Il Libro di Casa”, che ha garantito una esposizione frontale nelle prime pagine dei punti vendita. Inoltre, Giunti ha pubblicato una versione digitale interattiva, con animazioni delle scene chiave, che ha guadagnato 3 500 download nella prima settimana, dimostrando una forte propensione dei genitori a integrare la lettura tradizionale con strumenti multimediali.  \n\nIl successo di “Che mito! Il ritorno di Ulisse” evidenzia come il sistema culturale italiano, tramite fondi pubblici e premi, continui a valorizzare opere che si presentano come “culturali” ma che in realtà servono a consolidare una narrativa di lettura standardizzata. Se questa tendenza persiste, il dibattito pubblico italiano rischierà di essere filtrato da una selezione di testi che privilegiano la commercializzazione di miti e la Sicurezza di un pubblico giovane, lasciando in secondo piano opere che esplorano la complessità dei miti stessi. Il protagonista di questa dinamica è la Fondazione Città di Roma, la cui finanza ha garantito la visibilità di un prodotto che, pur educando, non sfida le strutture culturali esistenti.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-26T07:01:20.710439+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Che mito! Il ritorno",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Che-mito-Il-ritorno-di-Ulisse.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un libro colorato e illustrato per introdurre i bambini al mito del ritorno di Ulisse\",\n  \"articleBody\": \"un libro colorato e illustrato per introdurre i bambini al mito del ritorno di Ulisse In \\\"Che mito! Il ritorno di Ulisse\\\", Hélène Kérillis si fa interprete di un racconto mitologico rievocato con maestria e attenzione per il pubblico giovane. Questo volume, appartenente alla serie narrativa omonima, si configura come un mini-romanzo dalle pagine ampie e dai colori vivaci, destinato a costruire il primo approccio dei bambini alla mitologia greca. Con una scrittura pensata per l'\\\"EasyReading\\\", offre un testo in stampatello ad alta leggibilità, illustrazioni di Grégorie Vallancien a doppia pagina, e un'interlinea larga che facilita la lettura. Kérillis narra con delicatezza l'epica avventura di Ulisse, un eroe che, dopo una lunga serie di tribolazioni, ritrova la sua amata Itaca. Tuttavia, il suo ritorno è macchiato dall'incertezza e dalla sorpresa: i Proci hanno invaso il suo palazzo, minacciando la sua regina e la sua eredità. L'opera, oltre a intrattenere, stimola la curiosità infantile, introducendo il mondo dei miti senza mai annoiare. Ulisse, con la sua astuzia e intelligenza, diventa modello di desiderio di sapere e di scoperta, educando i giovani lettori al valore del sapere e dell'ingegno. Il volume “Che mito! Il ritorno di Ulisse” è stato pubblicato dall’Editore Giunti, una casa con una lunga tradizione di libri illustrati destinati alla scuola primaria. Giunti ha stipulato, all’inizio del 2026, un accordo con la Fondazione Città di Roma, che ha destinato un Fondo di 15 000 euro a supporto di progetti che promuovono la lettura nei bambini. Questo finanziamento, parte del programma “Lettura per Tutti”, è stato assegnato su base competitiva, con la valutazione che il libro si inserisse nel curriculum di educazione civica, introducendo la mitologia greca come strumento di alfabetizzazione culturale.  \\n\\nIl libro è stato presentato al Festival del Libro per la Prima Scuola di Napoli, dove ha ricevuto il premio “Mamma e Figlio” per la migliore opera di divulgazione culturale. L’assegnazione del premio è stata condotta da una giuria composta da insegnanti di scuola primaria, pedagogisti e un rappresentante del Ministero dell’Istruzione, che ha sottolineato l’importanza di una narrazione accessibile e visivamente stimolante. Questa premiazione non è solo un riconoscimento di qualità, ma anche un segnale di come le istituzioni culturali italiane privilegino progetti che si presentano come “educativi” a scapito di opere più complesse o di autori emergenti.  \\n\\nDal punto di vista di mercato, le prime tre settimane di distribuzione hanno raggiunto 8 000 copie in vendita, con un incremento del 12 % rispetto alla media di lancio di libri illustrati per bambini della stessa fascia di età. La strategia di marketing ha puntato su una partnership con la rete di librerie indipendenti “Il Libro di Casa”, che ha garantito una esposizione frontale nelle prime pagine dei punti vendita. Inoltre, Giunti ha pubblicato una versione digitale interattiva, con animazioni delle scene chiave, che ha guadagnato 3 500 download nella prima settimana, dimostrando una forte propensione dei genitori a integrare la lettura tradizionale con strumenti multimediali.  \\n\\nIl successo di “Che mito! Il ritorno di Ulisse” evidenzia come il sistema culturale italiano, tramite fondi pubblici e premi, continui a valorizzare opere che si presentano come “culturali” ma che in realtà servono a consolidare una narrativa di lettura standardizzata. Se questa tendenza persiste, il dibattito pubblico italiano rischierà di essere filtrato da una selezione di testi che privilegiano la commercializzazione di miti e la Sicurezza di un pubblico giovane, lasciando in secondo piano opere che esplorano la complessità dei miti stessi. Il protagonista di questa dinamica è la Fondazione Città di Roma, la cui finanza ha garantito la visibilità di un prodotto che, pur educando, non sfida le strutture culturali esistenti.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-26T07:01:20.710439+00:00\",\n  \"dateModified\": \"2026-07-26T07:01:20.710439+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260726\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260726\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-che-mito-il-ritorno-ulissedi-helene-ke-20260726",
+  "related": [
+    {
+      "title": "Il libro del giorno: «L’accompagnatricedi Ken Greenhall»",
+      "url": "/cultura/libro-del-giorno-laccompagnatricedi-ken-greenhall-20260724",
+      "id": "libro-20260724",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/i__id15594_mw1000__1x-9f489.jpg?1780214428",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-la-primogenitadi-sonia-milan-20260723",
+      "id": "libro-20260723",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/arton170991-c2008.jpg?1775671017",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-stare-al-giocodi-fatima-daas-20260722",
+      "id": "libro-20260722",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L221xH312/9791256361984_0_0_464_0_75-0ed2c.jpg?1783504978",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-26T07:01:20.710439+00:00"
 }
