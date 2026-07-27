@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260727",
+    "slug": "libro-del-giorno-grinta-il-potere-della-passione-e-dell-20260727",
+    "title": "Il libro del giorno: «Grinta. Il potere della passione e della perseveranzadi Angela Duckworth»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio che esplora il ruolo della determinazione e della perseveranza nel raggiungimento del successo in vari ambiti",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-27T07:01:30.769050+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/arton169920-bba4f.jpg?1775668487",
+      "alt": "Copertina: Grinta. Il potere della passione e della perseveranzadi Angela Duckworth",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/arton169920-bba4f.jpg?1775668487",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "7ef35e688c94c95d",
     "slug": "sorpasso-storico-verstappen-supera-hamilton-al-gp-7ef35e688c94c95d",
     "title": "Sorpasso storico: verstappen supera hamilton al gp d'ungheria",
@@ -7868,25 +7887,6 @@
       "libro gatto berlino",
       "seconda guerra mondiale",
       "storia vera animali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "76b0955a3d904b32",
-    "slug": "btp-italiano-a-381-spread-con-bund-tocca-79-punti-76b0955a3d904b32",
-    "title": "BTP al 3,81% e spread a 79: scatta il campanello d’allarme sui mercati",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-07-08T06:56:00.864793+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/819a9871800454e0de70ba0201d003ee.jpg",
-    "occhiello": "Rendimento del BTP decennale italiano al 3,81%",
-    "lead_preview": "Roma, 8 luglio. Il rendimento del BTP decennale italiano sale al 3,81%, mentre lo spread tra BTP e Bund tedesco si attes",
-    "tags": [
-      "btp 3.81%",
-      "spread btp-bund",
-      "mercati finanziari"
     ],
     "hero_eligible": true
   }
