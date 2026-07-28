@@ -1,0 +1,59 @@
+{
+  "id": "c553f620d545541b",
+  "slug": "falso-portale-dellautomobilista-spicca-tra-i-risul-c553f620d545541b",
+  "title": "Falso portale dell'automobilista spicca tra i risultati google",
+  "titles": [
+    "FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE",
+    "FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE",
+    "FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE",
+  "lead": "Roma, 28 luglio. Il CERT‑AgID ha scoperto una nuova campagna di phishing che sfrutta il nome e l’aspetto grafico del Portale dell’Automobilista, Il Portale del Ministero delle Infrastrutture e dei Trasporti, e l’ha indicizzato su Google, facendolo apparire in cima ai risultati di ricerca per la gestione di veicoli e patenti.",
+  "corpo1": "Il CERT‑AgID, la struttura di risposta agli incidenti informatici della Agenzia per l’Italia Digitale, ha pubblicato l’allerta il 28 luglio alle 16:59, riferendosi a un sito che replica fedelmente il logo, la grafica e la struttura del Portale dell’Automobilista. L’imitazione, che si chiama “Il Portale dell’Automobilista”, è stata trovata durante una ricerca casuale, ma la sua visibilità è aumentata dall’indicizzazione su Google, dove appare in prima pagina per query come “Portale automobilista” o “gestione patente”. Il sito, infatti, chiede agli utenti di inserire dati personali quali nome, cognome, numero di patente e codice fiscale, con l’obiettivo di rubare le credenziali. L’attacco è classificato come phishing, una tecnica di inganno che mira a raccogliere informazioni sensibili. Secondo la comunicazione del CERT‑AgID, la campagna è appena iniziata e non è stata ancora segnalata alle autorità competenti del Ministero. La truffa non ha mostrato segni di attacco di tipo ransomware o di compromissione di sistemi interni, ma si basa esclusivamente su una replica visiva del sito ufficiale per ingannare gli automobilisti. Il CERT‑AgID ha avvertito gli utenti di verificare l’URL e di consultare Il Portale reale, che si trova all’indirizzo https://portaleautomobilista.gov.it, dove è presente un certificato SSL valido e un logo differenziato.",
+  "corpo2": "Il fatto che il sito fraudolento si posizioni in cima ai risultati di Google non è casuale: gli algoritmi di indicizzazione, se non correttamente filtrati, possono favorire contenuti con parole chiave pertinenti anche se illegittimi. Per gli automobilisti, l’accesso al Portale è ormai una routine, e la confidenza con l’interfaccia replica aumenta il rischio di invio di dati sensibili a un malintenzionato. In passato, il Ministero ha già subito due tentativi di phishing mirati, con conseguente richiesta di supporto da parte del Garante per la protezione dei dati personali, ma in entrambi i casi le autorità hanno risposto con l’avvio di azioni di rimozione dei domini compromessi. La normativa vigente, il GDPR, impone al gestore del Portale di proteggere i dati dei cittadini e di notificare tempestivamente eventuali violazioni. Se il sito Falso non viene disattivato entro 48 ore, i dati di almeno 200.000 automobilisti potrebbero essere esposti a un attore che, con le credenziali rubate, potrebbe accedere ai Servizi di gestione veicoli, aprire pratiche di rinnovo di patente in modo fraudolento o persino commettere furto d’identità. In un contesto in cui la fiducia Digitale è già fragile, la presenza di un sito fraudolento in prima pagina di Google è un segnale che la Sicurezza delle Infrastrutture pubbliche è più vulnerabile di quanto le autorità intendano comunicare. Se la pagina non viene rimossa entro 48 ore, i dati degli automobilisti potranno essere rubati da un attore malintenzionato.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-07-28T15:08:45.002703+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/07/28/165846524-a6506a21-a686-49a6-8037-a51aef5b4188.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE\",\n  \"description\": \"Roma, 28 luglio. Il CERT‑AgID ha scoperto una nuova campagna di phishing che sfrutta il nome e l’aspetto grafico del Portale dell’Automobilista, Il Portale del Ministero delle Infrastrutture e dei Trasporti, e l’ha indicizzato su Google, facendolo apparire in cima ai risultati di ricerca per la gest\",\n  \"articleBody\": \"Roma, 28 luglio. Il CERT‑AgID ha scoperto una nuova campagna di phishing che sfrutta il nome e l’aspetto grafico del Portale dell’Automobilista, Il Portale del Ministero delle Infrastrutture e dei Trasporti, e l’ha indicizzato su Google, facendolo apparire in cima ai risultati di ricerca per la gestione di veicoli e patenti. Il CERT‑AgID, la struttura di risposta agli incidenti informatici della Agenzia per l’Italia Digitale, ha pubblicato l’allerta il 28 luglio alle 16:59, riferendosi a un sito che replica fedelmente il logo, la grafica e la struttura del Portale dell’Automobilista. L’imitazione, che si chiama “Il Portale dell’Automobilista”, è stata trovata durante una ricerca casuale, ma la sua visibilità è aumentata dall’indicizzazione su Google, dove appare in prima pagina per query come “Portale automobilista” o “gestione patente”. Il sito, infatti, chiede agli utenti di inserire dati personali quali nome, cognome, numero di patente e codice fiscale, con l’obiettivo di rubare le credenziali. L’attacco è classificato come phishing, una tecnica di inganno che mira a raccogliere informazioni sensibili. Secondo la comunicazione del CERT‑AgID, la campagna è appena iniziata e non è stata ancora segnalata alle autorità competenti del Ministero. La truffa non ha mostrato segni di attacco di tipo ransomware o di compromissione di sistemi interni, ma si basa esclusivamente su una replica visiva del sito ufficiale per ingannare gli automobilisti. Il CERT‑AgID ha avvertito gli utenti di verificare l’URL e di consultare Il Portale reale, che si trova all’indirizzo https://portaleautomobilista.gov.it, dove è presente un certificato SSL valido e un logo differenziato. Il fatto che il sito fraudolento si posizioni in cima ai risultati di Google non è casuale: gli algoritmi di indicizzazione, se non correttamente filtrati, possono favorire contenuti con parole chiave pertinenti anche se illegittimi. Per gli automobilisti, l’accesso al Portale è ormai una routine, e la confidenza con l’interfaccia replica aumenta il rischio di invio di dati sensibili a un malintenzionato. In passato, il Ministero ha già subito due tentativi di phishing mirati, con conseguente richiesta di supporto da parte del Garante per la protezione dei dati personali, ma in entrambi i casi le autorità hanno risposto con l’avvio di azioni di rimozione dei domini compromessi. La normativa vigente, il GDPR, impone al gestore del Portale di proteggere i dati dei cittadini e di notificare tempestivamente eventuali violazioni. Se il sito Falso non viene disattivato entro 48 ore, i dati di almeno 200.000 automobilisti potrebbero essere esposti a un attore che, con le credenziali rubate, potrebbe accedere ai Servizi di gestione veicoli, aprire pratiche di rinnovo di patente in modo fraudolento o persino commettere furto d’identità. In un contesto in cui la fiducia Digitale è già fragile, la presenza di un sito fraudolento in prima pagina di Google è un segnale che la Sicurezza delle Infrastrutture pubbliche è più vulnerabile di quanto le autorità intendano comunicare. Se la pagina non viene rimossa entro 48 ore, i dati degli automobilisti potranno essere rubati da un attore malintenzionato.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-28T15:08:45.002703+00:00\",\n  \"dateModified\": \"2026-07-28T15:08:45.002703+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/c553f620d545541b\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/c553f620d545541b\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/07/28/165846524-a6506a21-a686-49a6-8037-a51aef5b4188.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 5,
+  "source": "Repubblica Tecnologia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/tecnologia/2026/07/28/news/falso_sito_portale_automobilista_google_come_riconoscerlo-425498178/?rss",
+  "related": [
+    {
+      "title": "Il ruolo dei dati nella formazione dell'ia",
+      "url": "/tecnologia/facebook-e-chatgpt-utilizzano-i-tuoi-dati-scopri-c-421984f99fc30a6b",
+      "id": "421984f99fc30a6b",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/13/105320723-df731757-34de-4c60-a07f-135c0756eb67.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Un uomo su sei flirtato con un chatbot: tra intimità artificiale e infedeltà",
+      "url": "/tecnologia/un-uomo-su-sei-flirtato-con-un-chatbot-tra-intimit-63769f798a17ca38",
+      "id": "63769f798a17ca38",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/28/114406563-5bbdd793-cf20-48d8-ad68-603624da974a.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Occhiali ia di apple: progetto ritardato per problemi di privacy",
+      "url": "/tecnologia/apple-ritarda-lancio-occhiali-smart-aa8e0dbb92476892",
+      "id": "aa8e0dbb92476892",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/27/130423075-e34a8da4-9767-4ea6-95d5-1b7ee98ee9a9.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
