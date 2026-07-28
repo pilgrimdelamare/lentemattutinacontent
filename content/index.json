@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260728",
+    "slug": "libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-07-28T07:01:28.378397+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7a45f31c29765ebe",
     "slug": "accordo-con-troyes-per-il-difensore-francese-7a45f31c29765ebe",
     "title": "Accordo con troyes per il difensore francese",
@@ -397,25 +412,6 @@
     "lead_preview": "Philadelphia, 27 luglio. Steph Curry, stella dei Golden State Warriors, ha commentato con rassegnazione la decisione di ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260728",
-    "slug": "libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
-    "title": "Il libro del giorno: «Il tempo della finedi Katrine Engberg»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-07-28T07:01:28.378397+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
-      "alt": "Copertina: Il tempo della finedi Katrine Engberg",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "6b241434a332d3c4",
