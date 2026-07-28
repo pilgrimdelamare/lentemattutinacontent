@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 28 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-28T05:57:01.110621+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/152296f6e529faefb3cb13294bda0eaf3d5c7831/skytg24/it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio/rassegnastampa28lu.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 28 LUGLIO 2026",
+    "lead_preview": "Oggi i principali quotidiani italiani aprono le pagine con titoli che si concentrano su due tematiche principali: le pol",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260727",
     "slug": "libro-del-giorno-grinta-il-potere-della-passione-e-dell-20260727",
     "title": "Il libro del giorno",
@@ -1232,25 +1251,6 @@
     "occhiello": "MATTEO ACCORSI RINNOVA FINO AL 2028, POI PESARO",
     "lead_preview": "Roma, 24 luglio 2026. La Virtus Bologna ha annunciato il prolungamento del contratto del talento Matteo Accorsi fino al ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 25 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-25T06:14:43.751949+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e06e73f649dc57972a4430c4843069181b0b2f5d/skytg24/it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio/collage_rass_25luglio.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE DI OGGI",
-    "lead_preview": "I giornali di oggi convergono sull'argomento del caro benzina e sulle tensioni internazionali. Il Corriere della Sera, L",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
