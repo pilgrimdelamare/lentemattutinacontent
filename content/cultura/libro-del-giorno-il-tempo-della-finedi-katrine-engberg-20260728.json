@@ -1,26 +1,24 @@
 {
   "id": "libro-20260728",
   "slug": "libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
-  "title": "Il libro del giorno: «Il tempo della finedi Katrine Engberg»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «Il tempo della finedi Katrine Engberg»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra",
   "corpo1": "In un'inedita Danimarca, dove il passato nazista getta ombre sul presente, Katrine Engberg ci porta in un intreccio di suspense e verità nascoste. Con \"Il tempo della fine\" (Marsilio, 2025), l'autrice danese ci introduce a Liv Jensen, una quasi trentenne ex poliziotta di Copenhagen, ora investigatrice privata, che si ritrova coinvolta in un caso di omicidio irrisolto. Affidata da Petter, suo ex capo, al fascicolo del decesso di Gert Linde, Liv si immerge in un labirinto di segreti che mettono a rischio non solo la sua vita ma anche quella dei suoi nuovi vicini ebrei, i Leon, ombreggiati da un passato di persecuzioni naziste. Tra le ombre del passato danese si annidano personaggi come Nima, un immigrato iraniano, e Jan Leon, un uomo legato a un dramma familiare che risale alla guerra. L'abilità di Engberg nel tessere una trama complessa, dove ogni indizio si incastra come un puzzle, è degna di nota. I personaggi, delineati con empatia e profondità, vivono tra drammi interiori e tensioni esterne, rendendo questo romanzo ben più di un semplice crime story. Si tratta di un viaggio attraverso il tempo, dove le verità del passato, apparentemente sepolte, emergono con forza, guidati dalla tenacia di una protagonista che, nonostante le sue fragilità, non si tira indietro di fronte al pericolo.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0FFP11KX6\" rel=\"sponsored\" target=\"_blank\">Il tempo della finedi Katrine Engberg di  su Amazon</a></p>",
+  "corpo2": "Quando un'autrice come Katrine Engberg, con un passato da attrice, ballerina e coreografa – ruoli che l'hanno vista partecipare a produzioni come \"The Keeper of Lost Causes\" – approda al genere thriller con un successo editor",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-07-28T07:01:28.378397+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: Il tempo della finedi Katrine Engberg",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/Il-tempo-della-fine-Katrine-Engberg.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra\",\n  \"articleBody\": \"un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra In un'inedita Danimarca, dove il passato nazista getta ombre sul presente, Katrine Engberg ci porta in un intreccio di suspense e verità nascoste. Con \\\"Il tempo della fine\\\" (Marsilio, 2025), l'autrice danese ci introduce a Liv Jensen, una quasi trentenne ex poliziotta di Copenhagen, ora investigatrice privata, che si ritrova coinvolta in un caso di omicidio irrisolto. Affidata da Petter, suo ex capo, al fascicolo del decesso di Gert Linde, Liv si immerge in un labirinto di segreti che mettono a rischio non solo la sua vita ma anche quella dei suoi nuovi vicini ebrei, i Leon, ombreggiati da un passato di persecuzioni naziste. Tra le ombre del passato danese si annidano personaggi come Nima, un immigrato iraniano, e Jan Leon, un uomo legato a un dramma familiare che risale alla guerra. L'abilità di Engberg nel tessere una trama complessa, dove ogni indizio si incastra come un puzzle, è degna di nota. I personaggi, delineati con empatia e profondità, vivono tra drammi interiori e tensioni esterne, rendendo questo romanzo ben più di un semplice crime story. Si tratta di un viaggio attraverso il tempo, dove le verità del passato, apparentemente sepolte, emergono con forza, guidati dalla tenacia di una protagonista che, nonostante le sue fragilità, non si tira indietro di fronte al pericolo. Quando un'autrice come Katrine Engberg, con un passato da attrice, ballerina e coreografa – ruoli che l'hanno vista partecipare a produzioni come \\\"The Keeper of Lost Causes\\\" – approda al genere thriller con un successo editor\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-28T07:01:28.378397+00:00\",\n  \"dateModified\": \"2026-07-28T07:01:28.378397+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260728\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260728\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-grinta-il-potere-della-passione-e-dell-20260727",
+      "id": "libro-20260727",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/arton169920-bba4f.jpg?1775668487",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-che-mito-il-ritorno-ulissedi-helene-ke-20260726",
+      "id": "libro-20260726",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L225xH312/71pxy4241-l__sl1385_-2d523.jpg?1775838125",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno: «L’accompagnatricedi Ken Greenhall»",
+      "url": "/cultura/libro-del-giorno-laccompagnatricedi-ken-greenhall-20260724",
+      "id": "libro-20260724",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L198xH312/i__id15594_mw1000__1x-9f489.jpg?1780214428",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-07-28T07:01:28.378397+00:00"
 }
