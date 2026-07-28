@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260728",
+    "slug": "libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
+    "title": "Il libro del giorno: «Il tempo della finedi Katrine Engberg»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-07-28T07:01:28.378397+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
+      "alt": "Copertina: Il tempo della finedi Katrine Engberg",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "6b241434a332d3c4",
     "slug": "fiducia-delle-imprese-tedesche-a-867-6b241434a332d3c4",
     "title": "Fiducia delle imprese tedesche a 86,7",
@@ -7846,25 +7865,6 @@
       "torino calcio vendita",
       "cairo presidente torino",
       "calcio mercato estate"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e8d37268afda56f5",
-    "slug": "unai-gomez-alludinese-45-milioni-per-il-trequartis-e8d37268afda56f5",
-    "title": "Udinese: 40 milioni per Unai Gomez, trequartista basco fino al",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-08T13:05:33.752800+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/4cdc02998b4f6c7f6c9079f323a3effe.jpg",
-    "occhiello": "L’Udinese ha ufficializzato l’ingaggio a titolo definitivo del trequartista spagnolo Unai Gomez",
-    "lead_preview": "Udine, 8 luglio 2026. L’Udinese ha ufficializzato l’ingaggio a titolo definitivo del trequartista spagnolo Unai Gomez, 2",
-    "tags": [
-      "calciomercato udinese",
-      "ingaggio unai gomez",
-      "trequartista basco"
     ],
     "hero_eligible": true
   }
