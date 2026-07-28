@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, sabato 25 luglio 2026",
+  "title": "Le prime pagine di oggi, martedì 28 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, sabato 25 luglio 2026",
-    "Le prime pagine di oggi, sabato 25 luglio 2026",
-    "Le prime pagine di oggi, sabato 25 luglio 2026"
+    "Le prime pagine di oggi, martedì 28 luglio 2026",
+    "Le prime pagine di oggi, martedì 28 luglio 2026",
+    "Le prime pagine di oggi, martedì 28 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI OGGI",
-  "lead": "I giornali di oggi convergono sull'argomento del caro benzina e sulle tensioni internazionali. Il Corriere della Sera, La Repubblica e Il Giornale titolano su questi temi, mentre La Gazzetta dello Sport si concentra sullo sport.",
-  "corpo1": "Il Corriere della Sera apre con l'allarme per gas e carburanti, mentre La Repubblica titola sulle tensioni tra Usa e Iran. Il Giornale dedica la prima pagina al caro benzina e al piano del governo per contrastarlo. La Stampa parla di benzina e rincari sulle vacanze, e di un vertice a Palazzo Chigi per riportare le tariffe sotto i due euro al litro. Il Sole 24 Ore punta sui rincari di petrolio e gas e il loro impatto sul Pil.",
-  "corpo2": "Altri titoli di rilievo includono quelli su Bologna e il caso di Fakir, e sulle tensioni in Cisgiordania. Il tema dominante della giornata è il caro benzina e le tensioni internazionali.",
+  "occhiello": "LE PRIME PAGINE 28 LUGLIO 2026",
+  "lead": "Oggi i principali quotidiani italiani aprono le pagine con titoli che si concentrano su due tematiche principali: le politiche di carburante e le attività di Meloni in Val di Susa. Alcuni giornali dedicano l’intera prima pagina al cantiere dei No Tav, altri al decreto sul caro benzina, altri ancora alla crisi della nazionale. I titoli sono in linea con le notizie di settore e la politica nazionale, senza alcuna opinione personale.",
+  "corpo1": "Il primo giornale apre con una sezione dedicata a Sky Go, con titoli “Offerta Prova 30 giorni” e “Il decoder Sky Stream”. Il secondo, invece, si focalizza sul cantiere di Val di Susa, con la copertina “No Tav, stretta sui violenti” e un reportage “Quell’odore di bruciato nel cantiere”. Il terzo quotidiano presenta il decreto sui carburanti con “Mancano i soldi per abbassare il costo della benzina”, accompagnato da una voce sul calcio “Pasticcio Nazionale”. Il quarto si concentra sul decreto “Diesel giù, niente tassa sul fumo”, evidenziando anche la crisi della nazionale con “Caos Italia, Maldini lascia Ct, Mancini più di Conte”. Il quinto porta la nota “Concordato fiscale, spuntano i premi alle partite Iva che rinnovano l’adesione” e “Gasolio, 17 centesimi di ribasso”. Il sesto, in modo più ampio, dedica la prima pagina alla “Crisi Nazionale” con “Italia da rifare”, e un editoriale sulla morale nazionale. Il settimo si occupa delle misure economiche con “Meno tasse, ecco come si fa”, mentre l’ottavo parla del decreto carburanti con “Carburanti, primo sconto. Ma vale solo per il gasolio”. L’ultimo, in alto, evidenzia “Il rischio bancario offrirà altre sorprese” e la situazione di Meloni nei cantieri Tav.",
+  "corpo2": "Tra gli altri titoli di rilievo si trovano “Ilva, i g”, “Mini sconto solo sul diesel”, “Tabacco” e “Ultimatum all’ex Ilva: 90 giorni per bonificare op”. Tutti i giornali si concentrano su questioni di politica interna, prezzi dei carburanti e la situazione della nazionale, senza ulteriori interpretazioni.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-25T06:14:43.751949+00:00",
+  "published_at": "2026-07-28T05:57:01.110621+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e06e73f649dc57972a4430c4843069181b0b2f5d/skytg24/it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio/collage_rass_25luglio.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/152296f6e529faefb3cb13294bda0eaf3d5c7831/skytg24/it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio/rassegnastampa28lu.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/25/prime-pagine-quotidiani-oggi-25-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio",
   "related": [
     {
-      "title": "Oroscopo di oggi, sabato 25 luglio 2026",
+      "title": "Oroscopo di oggi, martedì 28 luglio 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
+      "title": "Giorno 26 luglio: meloni, accanto alla germania, condanna l'odio e gli estremismi",
+      "url": "/politica/meloni-condanna-odio-e-estremismi-79058185c9547acb",
+      "id": "79058185c9547acb",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/20/6d6923eb7d9c70844022f75aebd3de55.jpg",
+      "image_type": "image"
+    },
+    {
       "title": "Parigi, 22 luglio 2026 — siad trovato trovato morto, era sospettato di collegamenti con epstein",
       "url": "/esteri/trovato-morto-a-parigi-siad-trovato-3d888119ef898bd4",
       "id": "3d888119ef898bd4",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/10/08e7cb3f271ce15bfb1f75f0ed07e0f9.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Enti locali aperti alla rottamazione fino al 31 luglio",
-      "url": "/economia/enti-locali-aperti-alla-rottamazione-fino-al-31-lu-321307c9904722e4",
-      "id": "321307c9904722e4",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/19/183906143-7920ad57-d1cd-4d39-8a1b-2d2e05b6b7db.jpg",
       "image_type": "image"
     }
   ],
