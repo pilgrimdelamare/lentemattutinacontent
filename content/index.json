@@ -1,5 +1,20 @@
 [
   {
+    "id": "67e556efde201e5e",
+    "slug": "tav-non-approvato-congresso-diviso-67e556efde201e5e",
+    "title": "Tav non approvato: congresso diviso",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-07-28T15:04:58.774456+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/1/28/fd4fdc8257efb40c3cad5fb2d9fe2a02.jpg",
+    "occhiello": "TAV NON APPROVATO: CONGRESSO DIVISO",
+    "lead_preview": "Torino, 28 luglio. Il Consiglio regionale del Piemonte ha visto la maggioranza e la minoranza non riuscire a approvare i",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260728",
     "slug": "libro-del-giorno-il-tempo-della-finedi-katrine-engberg-20260728",
     "title": "Il libro del giorno",
@@ -131,21 +146,6 @@
     "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/28/165846524-a6506a21-a686-49a6-8037-a51aef5b4188.jpg",
     "occhiello": "FALSO PORTALE DELL'AUTOMOBILISTA SPICCA TRA I RISULTATI GOOGLE",
     "lead_preview": "Roma, 28 luglio. Il CERT‑AgID ha scoperto una nuova campagna di phishing che sfrutta il nome e l’aspetto grafico del Por",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "67e556efde201e5e",
-    "slug": "tav-non-approvato-congresso-diviso-67e556efde201e5e",
-    "title": "Tav non approvato: congresso diviso",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-07-28T15:04:58.774456+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/1/28/fd4fdc8257efb40c3cad5fb2d9fe2a02.jpg",
-    "occhiello": "TAV NON APPROVATO: CONGRESSO DIVISO",
-    "lead_preview": "Torino, 28 luglio. Il Consiglio regionale del Piemonte ha visto la maggioranza e la minoranza non riuscire a approvare i",
     "tags": [],
     "hero_eligible": true
   },
