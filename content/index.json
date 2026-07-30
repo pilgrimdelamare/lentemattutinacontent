@@ -1,5 +1,20 @@
 [
   {
+    "id": "71378c4011bdbbe9",
+    "slug": "da-domani-obblighi-per-i-produttori-71378c4011bdbbe9",
+    "title": "Da domani obblighi per i produttori",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-07-30T10:09:01.272854+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2018/3/27/f751271866d6a2158c49036f125855c9.jpg",
+    "occhiello": "DA DOMANI OBBLIGHI PER I PRODUTTORI",
+    "lead_preview": "Roma, 30 luglio. A partire da domani, l'Italia attiverà il \"diritto alla riparazione\", introducendo nuovi obblighi per i",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "53efd89e36701b65",
     "slug": "enel-acquista-impianto-eolico-da-84-mw-stima-contr-53efd89e36701b65",
     "title": "Enel acquista impianto eolico da 84 mw, stima contributi a ebitda di 16 milioni euro l'anno",
@@ -7794,21 +7809,6 @@
     "tags": [
       "wimbledon 2024"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260710",
-    "slug": "libro-del-giorno-bellissima-dea-storia-clara-calamaidi--20260710",
-    "title": "Il libro del giorno",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-07-10T07:00:37.913543+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788882522346_0_0_424_0_75-340a3.jpg?1775770521",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo biografico sulla vita dell'attrice italiana Clara Calamai durante il fascismo e la guerra",
-    "tags": [],
     "hero_eligible": true
   }
 ]
