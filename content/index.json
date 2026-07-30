@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 30 luglio 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-07-30T05:45:37.695211+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/060565ea74636beb30967378ede39a0cd7bb4ea5/skytg24/it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 30 LUGLIO 2026",
+    "lead_preview": "Le principali testate italiane aprono le pagine con titoli che si concentrano sul dibattito sul riconoscimento facciale ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2be5c318276f680c",
     "slug": "lo-spread-btp-bund-a-quota-80-decennale-italiano-s-2be5c318276f680c",
     "title": "Lo spread btp-bund a quota 80, decennale italiano sale a 3,92%",
@@ -871,25 +890,6 @@
     "occhiello": "LO YEN AI MINIMI DA UN ANNO, L'EURO RESISTE",
     "lead_preview": "Roma, 28 luglio. L'euro poco mosso in avvio di giornata, scambiato a 1,1366 dollari secondo ANSA. In contemporanea, lo y",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 28 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-28T05:57:01.110621+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/152296f6e529faefb3cb13294bda0eaf3d5c7831/skytg24/it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio/rassegnastampa28lu.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 28 LUGLIO 2026",
-    "lead_preview": "Oggi i principali quotidiani italiani aprono le pagine con titoli che si concentrano su due tematiche principali: le pol",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
