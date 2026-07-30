@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 28 luglio 2026",
+  "title": "Le prime pagine di oggi, giovedì 30 luglio 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 28 luglio 2026",
-    "Le prime pagine di oggi, martedì 28 luglio 2026",
-    "Le prime pagine di oggi, martedì 28 luglio 2026"
+    "Le prime pagine di oggi, giovedì 30 luglio 2026",
+    "Le prime pagine di oggi, giovedì 30 luglio 2026",
+    "Le prime pagine di oggi, giovedì 30 luglio 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 28 LUGLIO 2026",
-  "lead": "Oggi i principali quotidiani italiani aprono le pagine con titoli che si concentrano su due tematiche principali: le politiche di carburante e le attività di Meloni in Val di Susa. Alcuni giornali dedicano l’intera prima pagina al cantiere dei No Tav, altri al decreto sul caro benzina, altri ancora alla crisi della nazionale. I titoli sono in linea con le notizie di settore e la politica nazionale, senza alcuna opinione personale.",
-  "corpo1": "Il primo giornale apre con una sezione dedicata a Sky Go, con titoli “Offerta Prova 30 giorni” e “Il decoder Sky Stream”. Il secondo, invece, si focalizza sul cantiere di Val di Susa, con la copertina “No Tav, stretta sui violenti” e un reportage “Quell’odore di bruciato nel cantiere”. Il terzo quotidiano presenta il decreto sui carburanti con “Mancano i soldi per abbassare il costo della benzina”, accompagnato da una voce sul calcio “Pasticcio Nazionale”. Il quarto si concentra sul decreto “Diesel giù, niente tassa sul fumo”, evidenziando anche la crisi della nazionale con “Caos Italia, Maldini lascia Ct, Mancini più di Conte”. Il quinto porta la nota “Concordato fiscale, spuntano i premi alle partite Iva che rinnovano l’adesione” e “Gasolio, 17 centesimi di ribasso”. Il sesto, in modo più ampio, dedica la prima pagina alla “Crisi Nazionale” con “Italia da rifare”, e un editoriale sulla morale nazionale. Il settimo si occupa delle misure economiche con “Meno tasse, ecco come si fa”, mentre l’ottavo parla del decreto carburanti con “Carburanti, primo sconto. Ma vale solo per il gasolio”. L’ultimo, in alto, evidenzia “Il rischio bancario offrirà altre sorprese” e la situazione di Meloni nei cantieri Tav.",
-  "corpo2": "Tra gli altri titoli di rilievo si trovano “Ilva, i g”, “Mini sconto solo sul diesel”, “Tabacco” e “Ultimatum all’ex Ilva: 90 giorni per bonificare op”. Tutti i giornali si concentrano su questioni di politica interna, prezzi dei carburanti e la situazione della nazionale, senza ulteriori interpretazioni.",
+  "occhiello": "LE PRIME PAGINE 30 LUGLIO 2026",
+  "lead": "Le principali testate italiane aprono le pagine con titoli che si concentrano sul dibattito sul riconoscimento facciale e sulla sicurezza nazionale, con un accento particolare sul decreto in discussione e le sue implicazioni. Nel frattempo, le riviste sportive si focalizzano sull'arrivo di giocatori chiave per la Juventus e il Milan, mentre alcune pagine presentano offerte promozionali per servizi digitali.",
+  "corpo1": "Il primo numero di una testata nazionale presenta l’offerta “Prova 30 giorni” e un articolo sul decoder Sky Stream. Al terzo numero la cronaca si concentra sul “scontro in Senato” con il tema della sicurezza e del riconoscimento facciale, citando la tensione tra le parti e le dichiarazioni di Trump sul Medio Oriente. Il quarto numero ripete la discussione sul controllo con l’IA, con il “blitz del governo” e la critica dell’opposizione come “Grande Fratello”. Il quinto numero approfondisce la stessa tematica, parlando del decreto sulla videosorveglianza e delle reazioni delle imprese del Nord. Il sesto numero tratta la stessa tematica, indicando l’uso di dati biometrici in piazze e stadi. Il settimo numero si sposta sul calciomercato, con titoli che parlano di un potenziale trasferimento a Juventus e delle trattative di altri club. L’ottavo numero continua la linea sportiva, annunciando il ritorno di giocatori chiave e i piani di squadra. Il nono numero, ancora sul calcio, evidenzia gli ultimi scambi di giocatori e le dichiarazioni di Mancini. Il decimo numero si concentra su una dichiarazione di accessibilità.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-28T05:57:01.110621+00:00",
+  "published_at": "2026-07-30T05:45:37.695211+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/152296f6e529faefb3cb13294bda0eaf3d5c7831/skytg24/it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio/rassegnastampa28lu.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/060565ea74636beb30967378ede39a0cd7bb4ea5/skytg24/it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio/collage_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,7 +35,7 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/28/prime-pagine-quotidiani-oggi-28-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio",
   "related": [
     {
       "title": "Oroscopo di oggi, martedì 28 luglio 2026",
