@@ -1,5 +1,20 @@
 [
   {
+    "id": "7ac0abf4700791f5",
+    "slug": "ambasciatore-cattaneo-accoglie-vespucci-a-montreal-7ac0abf4700791f5",
+    "title": "Ambasciatore Cattaneo accoglie Vespucci a Montreal, dimostrando forte legame tra Italia e Canada",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-08-01T00:59:11.426487+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/973dce87dae45431825e3ab14446c2f6.jpg",
+    "occhiello": "NAVE VESPUCCI A MONTREAL",
+    "lead_preview": "Montreal, 1 agosto.  La nave Vespucci è arrivata a Montreal, dove è stata accolta dall'Ambasciatore Cattaneo.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "268b58b9bef498e5",
     "slug": "roglic-fuori-per-inforunio-268b58b9bef498e5",
     "title": "Roglic fuori per inforunio",
@@ -7784,21 +7799,6 @@
     "tags": [
       "notte della taranta"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9187696b0d1acf3a",
-    "slug": "calcio-scaloni-avverte-sulla-svizzera-9187696b0d1acf3a",
-    "title": "Calcio: Scaloni avverte, Svizzera squadra che mai si arrende",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-11T08:53:59.127573+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/e71fb57b4b82405a3c8c8e115e92f479.jpg",
-    "occhiello": "LA SVIZZERA È UN AVVERSARIO TEMIBILE",
-    "lead_preview": "Buenos Aires, 11 luglio. Lionel Scaloni, ct della nazionale Argentina, ha parlato della prossima partita contro la Svizz",
-    "tags": [],
     "hero_eligible": true
   }
 ]
