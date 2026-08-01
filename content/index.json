@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260801",
+    "slug": "libro-del-giorno-figli-delle-lupedi-luigi-lodola-20260801",
+    "title": "Il libro del giorno: «Figli delle lupedi Luigi Lodola»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nella Pompei del primo secolo",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-01T07:00:24.400123+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
+      "alt": "Copertina: Figli delle lupedi Luigi Lodola",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "14f651c62b0ff0eb",
     "slug": "banco-bpm-cancella-la-fusione-con-mps-14f651c62b0ff0eb",
     "title": "Banco BPM dice NO a MPS: fusione saltata, Condizioni non rispettate",
@@ -7779,21 +7798,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/80500d8798a1c7ee26eada656465dc64.jpg",
     "occhiello": "ANSA INSERISCE COOKIE: 9,8 MIGLIAIA DI EURO PER ACQUA PERDITA",
     "lead_preview": "Roma, 11 luglio 2026. L'acqua dispersa in rete costerebbe 9,8 miliardi all'anno secondo la Cgia Mestre, nonostante la ma",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6412bad4b9ffc77",
-    "slug": "tennis-wimbledon-derby-ceco-per-la-corona-muchova-c6412bad4b9ffc77",
-    "title": "Derby ceco a wimbledon, la nuova campionessa vale milioni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-11T07:18:43.736366+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/49eb758b64a0412ca46c526e8bec3178c2c23446/skysport/it/tennis/2026/07/11/muchova-noskova-wimbledon-2026-tv-streaming/muchova_noskova_wimbledon.jpg",
-    "occhiello": "DERBY CECO A WIMBLEDON, LA NUOVA CAMPIONESSA VALE MILIONI",
-    "lead_preview": "Roma, 11 luglio. La finale femminile di Wimbledon 2026 vedrà confrontarsi due tenniste ceche, Karolina Muchova e Linda N",
     "tags": [],
     "hero_eligible": true
   }
