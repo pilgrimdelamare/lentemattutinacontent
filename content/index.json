@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, sabato 1 agosto 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-08-01T04:21:38.493015+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — SABATO 1 AGOSTO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "04c2bfea599a2dae",
     "slug": "sinner-torna-a-pechino-per-difendere-il-titolo-04c2bfea599a2dae",
     "title": "Tennis: Sinner torna a Pechino, campione in carica difende il titolo",
@@ -197,26 +217,6 @@
     "lead_preview": "Londra, 30 luglio 2026 — Lloyds Banking Group ha annunciato un piano quadriennale per ridurre i costi del gruppo di 2 mi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 31 luglio 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-07-31T04:01:00.902735+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 31 LUGLIO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "24287f0298ae9b49",
