@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260801",
+    "slug": "libro-del-giorno-figli-delle-lupedi-luigi-lodola-20260801",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-01T07:00:24.400123+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nella Pompei del primo secolo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "04c2bfea599a2dae",
     "slug": "sinner-torna-a-pechino-per-difendere-il-titolo-04c2bfea599a2dae",
     "title": "Sinner torna a pechino per difendere il titolo",
@@ -147,25 +162,6 @@
     "lead_preview": "Baku, 1 agosto 2026. Mohammad Bagher Ghalibaf, Speaker del Parlamento iraniano e figura di spicco della Guardia Rivoluzi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260801",
-    "slug": "libro-del-giorno-figli-delle-lupedi-luigi-lodola-20260801",
-    "title": "Il libro del giorno: «Figli delle lupedi Luigi Lodola»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico ambientato nella Pompei del primo secolo",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-08-01T07:00:24.400123+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
-      "alt": "Copertina: Figli delle lupedi Luigi Lodola",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "14f651c62b0ff0eb",
