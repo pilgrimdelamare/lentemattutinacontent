@@ -1,5 +1,23 @@
 [
   {
+    "id": "21e29c4c3d18e5e0",
+    "slug": "iran-dichiara-vittoria-contro-usa-e-israele-21e29c4c3d18e5e0",
+    "title": "Iran dichiara vittoria su USA/Israele: petroliera colpita a Hormuz",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-08-01T07:42:24.111006+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/21/49c75719414587471f103f448fafaa6a.jpg",
+    "occhiello": "IRAN DICHIARA VITTORIA CONTRO USA E ISRAELE",
+    "lead_preview": "Baku, 1 agosto 2026. Mohammad Bagher Ghalibaf, Speaker del Parlamento iraniano e figura di spicco della Guardia Rivoluzi",
+    "tags": [
+      "iran usa israele",
+      "petroliera hormuz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "66995e5f39fdaf58",
     "slug": "zorro-apre-le-giornate-del-cinema-muto-66995e5f39fdaf58",
     "title": "Retrospettiva cinematografica, ma ansa parla di cookie",
@@ -159,21 +177,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/31/7ccffe552c222d232fed923df014b59d.jpg",
     "occhiello": "ROMA SFIDA UE: BLOCCO SCHENGEN CON MADRID",
     "lead_preview": "Roma, 31 luglio. L'Italia ha deciso di sospendere unilateralmente e per un mese gli accordi di Schengen con la Spagna, i",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "21e29c4c3d18e5e0",
-    "slug": "iran-dichiara-vittoria-contro-usa-e-israele-21e29c4c3d18e5e0",
-    "title": "Iran dichiara vittoria contro usa e israele",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-08-01T07:42:24.111006+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/21/49c75719414587471f103f448fafaa6a.jpg",
-    "occhiello": "IRAN DICHIARA VITTORIA CONTRO USA E ISRAELE",
-    "lead_preview": "Baku, 1 agosto 2026. Mohammad Bagher Ghalibaf, Speaker del Parlamento iraniano e figura di spicco della Guardia Rivoluzi",
     "tags": [],
     "hero_eligible": true
   },
