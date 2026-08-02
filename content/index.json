@@ -1,5 +1,20 @@
 [
   {
+    "id": "edf9ed38ca62b818",
+    "slug": "tennis-eala-supera-osaka-edf9ed38ca62b818",
+    "title": "Tennis: Eala supera Osaka",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-08-02T07:37:19.484220+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2070d4a3de2d886d569499b415821198afca893c/skysport/it/tennis/video/2026/08/02/1115484_1785651681884_thumb_494.0000001_1785651882672.jpg",
+    "occhiello": "EALA SOPRA OSAKA: PRIMA FINALE WTA 500",
+    "lead_preview": "Washington, 2 agosto 2026. La filippina Alexandra Eala ha raggiunto la prima finale in un torneo WTA 500, battendo la gi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f86026c9d2a4c0d6",
     "slug": "tennis-cobolli-punta-torino-le-finals-sono-lobiett-f86026c9d2a4c0d6",
     "title": "Tennis: Cobolli punta Torino, 'Le Finals sono l'obiettivo'",
@@ -7777,24 +7792,6 @@
     "tags": [
       "ingaggio hjulmand",
       "atletico madrid"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d4f89cd23b08f95a",
-    "slug": "merlier-rimonta-e-vince-sprint-a-bergerac-d4f89cd23b08f95a",
-    "title": "Ciclismo: Tim Merlier conquista la tappa a Bergerac superando Girmay",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-11T16:25:59.426997+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/10/92db3a3f1f5f1e16b8ea511b5702287b.jpg",
-    "occhiello": "MERLIER RIMONTA E VINCE SPRINT A BERGERAC",
-    "lead_preview": "Bergerac, 11 luglio. Tim Merlier si aggiudica la tappa al Tour de France, superando Biniam Girmay nello sprint finale. I",
-    "tags": [
-      "tour de france",
-      "vittoria merlier"
     ],
     "hero_eligible": true
   }
