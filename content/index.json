@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-04T19:09:24.638123+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IN DOWN",
+    "lead_preview": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "feb995d6e707d49d",
     "slug": "messico-regolamentazione-social-via-consenso-non-d-feb995d6e707d49d",
     "title": "Messico, regolamentazione social via consenso, non divieto",
@@ -4717,21 +4736,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/5e94facec5c5494a7e709ac0aa3ba5a7.jpg",
     "occhiello": "ROGGERO IN CELLA A BOLLATE: \"RIGIDITÀ MA SI AMBIENTA\"",
     "lead_preview": "Bollate, 18 luglio. Il gioielliere Roggero ha trascorso la prima notte di detenzione nel carcere di Bollate, dove ha dic",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Disservizio discord risolto e ripristinato",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-07-18T18:16:39.847534+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISSERVIZIO DISCORD RISOLTO E RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 28 minuti di interruzione. Il servizio è nuovamente operativo su tutte le piattaforme e le",
     "tags": [],
     "hero_eligible": true
   },
