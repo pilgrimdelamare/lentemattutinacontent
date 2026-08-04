@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 4 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-04T05:47:07.998538+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5e74d36abb4a33313743340567f08e5c65820fc0/skytg24/it/cronaca/2026/08/04/prime-pagine-quotidiani-oggi-4-agosto/Composite_4_agosto.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE MIGRAZIONI E POLITICA",
+    "lead_preview": "Oggi, 4 agosto 2026, i quotidiani italiani convergono su temi migratori e politici. Il Corriere della Sera, La Repubblic",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "feb995d6e707d49d",
     "slug": "messico-regolamentazione-social-via-consenso-non-d-feb995d6e707d49d",
     "title": "Messico, regolamentazione social via consenso, non divieto",
@@ -1062,25 +1081,6 @@
     "occhiello": "CARACAS CONVOCA AMBASCIATORE TEHERAN, SCONVOLGIMENTO IN ALLEANZA STORICA",
     "lead_preview": "Caracas, 29 luglio. Il Venezuela ha richiamato a sorpresa l'Ambasciatore in Iran, Paese alleato storico, dopo una dichia",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 30 luglio 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-07-30T05:45:37.695211+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/060565ea74636beb30967378ede39a0cd7bb4ea5/skytg24/it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 30 LUGLIO 2026",
-    "lead_preview": "Le principali testate italiane aprono le pagine con titoli che si concentrano sul dibattito sul riconoscimento facciale ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
