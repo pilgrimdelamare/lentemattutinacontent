@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260804",
+    "slug": "libro-del-giorno-semiotica-della-fine-saggi-sul-capital-20260804",
+    "title": "Il libro del giorno: «Semiotica della fine. Saggi sul capitalismo e l’apocalissedi Alessandro Sbordoni»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio teorico che esplora l'apocalisse del capitalismo e la fine del mondo come noi l'abbiamo conosciuta",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-04T07:00:24.357657+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
+      "alt": "Copertina: Semiotica della fine. Saggi sul capitalismo e l’apocalissedi Alessandro Sbordoni",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, martedì 4 agosto 2026",
@@ -7775,24 +7794,6 @@
     "occhiello": "ADOZIONE: RITARDO DI 50 MESI PER LE COPPIE ITALIANE",
     "lead_preview": "Roma, 12 luglio 2026 – la cuoca Benedetta Rossi e il marito hanno annunciato la loro partenza per l’adozione Internazion",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a5065884810f51ac",
-    "slug": "jude-bellingham-guida-linghilterra-contro-la-norve-a5065884810f51ac",
-    "title": "Calcio: Bellingham dichiara strategia vs Norvegia, chiave il controllo dei 3.2 dribbling per gioco",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-12T08:42:12.172873+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/12/e8b6e12f3bf912c295f57ac31d7eab4a.jpg",
-    "occhiello": "JUDE BELLINGHAM GUIDA L’INGHILTERRA CONTRO LA NORVEGIA",
-    "lead_preview": "Roma, 12 luglio. Jude Bellingham, centrocampista della nazionale inglese, ha confermato la sua disponibilità per il matc",
-    "tags": [
-      "mondiali",
-      "jude bellingham"
-    ],
     "hero_eligible": true
   }
 ]
