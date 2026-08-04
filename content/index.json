@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260804",
+    "slug": "libro-del-giorno-semiotica-della-fine-saggi-sul-capital-20260804",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-04T07:00:24.357657+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio teorico che esplora l'apocalisse del capitalismo e la fine del mondo come noi l'abbiamo conosciuta",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è tornato online dopo 85 minuti di interruzione.",
@@ -201,25 +216,6 @@
     "lead_preview": "Roma, 4 agosto 2026. Il rendimento del BTP italiano, cioè il tasso d'interesse che lo Stato paga per indebitarsi, è schi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260804",
-    "slug": "libro-del-giorno-semiotica-della-fine-saggi-sul-capital-20260804",
-    "title": "Il libro del giorno: «Semiotica della fine. Saggi sul capitalismo e l’apocalissedi Alessandro Sbordoni»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un saggio teorico che esplora l'apocalisse del capitalismo e la fine del mondo come noi l'abbiamo conosciuta",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-08-04T07:00:24.357657+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
-      "alt": "Copertina: Semiotica della fine. Saggi sul capitalismo e l’apocalissedi Alessandro Sbordoni",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "rassegnista_daily",
