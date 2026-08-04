@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 30 luglio 2026",
+  "title": "Le prime pagine di oggi, martedì 4 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 30 luglio 2026",
-    "Le prime pagine di oggi, giovedì 30 luglio 2026",
-    "Le prime pagine di oggi, giovedì 30 luglio 2026"
+    "Le prime pagine di oggi, martedì 4 agosto 2026",
+    "Le prime pagine di oggi, martedì 4 agosto 2026",
+    "Le prime pagine di oggi, martedì 4 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 30 LUGLIO 2026",
-  "lead": "Le principali testate italiane aprono le pagine con titoli che si concentrano sul dibattito sul riconoscimento facciale e sulla sicurezza nazionale, con un accento particolare sul decreto in discussione e le sue implicazioni. Nel frattempo, le riviste sportive si focalizzano sull'arrivo di giocatori chiave per la Juventus e il Milan, mentre alcune pagine presentano offerte promozionali per servizi digitali.",
-  "corpo1": "Il primo numero di una testata nazionale presenta l’offerta “Prova 30 giorni” e un articolo sul decoder Sky Stream. Al terzo numero la cronaca si concentra sul “scontro in Senato” con il tema della sicurezza e del riconoscimento facciale, citando la tensione tra le parti e le dichiarazioni di Trump sul Medio Oriente. Il quarto numero ripete la discussione sul controllo con l’IA, con il “blitz del governo” e la critica dell’opposizione come “Grande Fratello”. Il quinto numero approfondisce la stessa tematica, parlando del decreto sulla videosorveglianza e delle reazioni delle imprese del Nord. Il sesto numero tratta la stessa tematica, indicando l’uso di dati biometrici in piazze e stadi. Il settimo numero si sposta sul calciomercato, con titoli che parlano di un potenziale trasferimento a Juventus e delle trattative di altri club. L’ottavo numero continua la linea sportiva, annunciando il ritorno di giocatori chiave e i piani di squadra. Il nono numero, ancora sul calcio, evidenzia gli ultimi scambi di giocatori e le dichiarazioni di Mancini. Il decimo numero si concentra su una dichiarazione di accessibilità.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE MIGRAZIONI E POLITICA",
+  "lead": "Oggi, 4 agosto 2026, i quotidiani italiani convergono su temi migratori e politici. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero dedicano la prima pagina alla gestione degli sbarchi e alle tensioni tra Italia e Spagna. Il Sole 24 Ore apre con notizie sui “Funerali don Mazzi”. Gazzetta dello Sport e Corriere dello Sport riservano la copertina al mercato calcistico. Altri titoli affrontano questioni di accessibilità e dichiarazioni di partiti.",
+  "corpo1": "Il Corriere della Sera apre con l’attacco di Madrid sugli sbarchi, riportando la replica di Meloni: “Sono in calo”. La Repubblica dedica la prima pagina allo stop imposto dalla segretaria del Partito democratico alle primarie del campo largo, includendo la risposta di Schlein a Conte: “Non funziona così”. La Stampa mette in evidenza la sfida sui migranti tra Spagna e Italia, con la dichiarazione del governo iberico: “Il vostro esecutivo non è in grado di gestire gli arrivi, noi sì”. Il Messaggero riporta le parole del governo secondo cui gli sbarchi in Italia sarebbero dimezzati e segnala l’appello di Meloni agli hub UE. Il Sole 24 Ore apre con “Funerali don Mazzi: Offerta Prova 30 giorni”. Un altro quotidiano (identificato come Il Giornale) pubblica “Funerali don Mazzi: Il decoder Sky Stream”. La Gazzetta dello Sport dedica la copertina al futuro incerto di Rafa Leão al Milan, mentre il Corriere dello Sport mette in primo piano l’intrigo Suzuki, con Juventus e PSG interessati al portiere del Parma.",
+  "corpo2": "Altre notizie di rilievo includono il blitz di Salvini sui L, la dichiarazione di accessibilità e vari approfondimenti su politiche migratorie. Il tema dominante della giornata resta la gestione dei flussi migratori.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,39 +23,39 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-07-30T05:45:37.695211+00:00",
+  "published_at": "2026-08-04T05:47:07.998538+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/060565ea74636beb30967378ede39a0cd7bb4ea5/skytg24/it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio/collage_hero.jpg?im=Resize,width=375",
-    "source": "logo-sky-go",
-    "credit": "Prima pagina — logo-sky-go",
+    "url": "https://tg24.sky.it/assets/images/5e74d36abb4a33313743340567f08e5c65820fc0/skytg24/it/cronaca/2026/08/04/prime-pagine-quotidiani-oggi-4-agosto/Composite_4_agosto.jpg?im=Resize,width=375",
+    "source": "Funerali don Mazzi",
+    "credit": "Prima pagina — Funerali don Mazzi",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/07/30/prime-pagine-quotidiani-oggi-30-luglio",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/04/prime-pagine-quotidiani-oggi-4-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 28 luglio 2026",
+      "title": "Oroscopo di oggi, martedì 4 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Giorno 26 luglio: meloni, accanto alla germania, condanna l'odio e gli estremismi",
-      "url": "/politica/meloni-condanna-odio-e-estremismi-79058185c9547acb",
-      "id": "79058185c9547acb",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/20/6d6923eb7d9c70844022f75aebd3de55.jpg",
+      "title": "Messico, regolamentazione social via consenso, non divieto",
+      "url": "/sport/messico-regolamentazione-social-via-consenso-non-d-feb995d6e707d49d",
+      "id": "feb995d6e707d49d",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/385b04a933eb9da7211efe18d4d143de.jpg",
       "image_type": "image"
     },
     {
-      "title": "Parigi, 22 luglio 2026 — siad trovato trovato morto, era sospettato di collegamenti con epstein",
-      "url": "/esteri/trovato-morto-a-parigi-siad-trovato-3d888119ef898bd4",
-      "id": "3d888119ef898bd4",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/10/08e7cb3f271ce15bfb1f75f0ed07e0f9.jpg",
+      "title": "SpaceX investe massicciamente nell'IA",
+      "url": "/economia/spacex-investe-massicciamente-nellia-45b8a445196f2328",
+      "id": "45b8a445196f2328",
+      "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDgvMDMvMTQxMDQ2NDkzLWYyNmYyYzk3LWQyMTUtNGU0MS05NjJiLTYyNzM2MzQ2NDYzZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
       "image_type": "image"
     }
   ],
