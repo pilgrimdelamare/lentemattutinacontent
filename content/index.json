@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è tornato online dopo 85 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-04T20:19:47.604518+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD RIPRISTINATO",
+    "lead_preview": "Discord è tornato online dopo 85 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "51b5f851be3ba352",
     "slug": "caro-carburante-e-scioperi-dimezzano-lutile-operat-51b5f851be3ba352",
     "title": "Caro carburante e scioperi dimezzano l'utile operativo",
@@ -43,25 +62,6 @@
     "lead_preview": "Roma, 4 agosto 2026. La trombosi del viaggiatore, un rischio concreto ma spesso sottovalutato associato ai voli a lungo ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-04T19:09:24.638123+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD IN DOWN",
-    "lead_preview": "Discord è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "feb995d6e707d49d",
