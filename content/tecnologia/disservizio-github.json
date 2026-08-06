@@ -1,26 +1,29 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "Sistema riattivato",
+  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "SISTEMA RIATTIVATO",
-    "SISTEMA RIATTIVATO",
-    "SISTEMA RIATTIVATO"
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIATTIVATO",
-  "lead": "GitHub è tornato online dopo 30 minuti di interruzione.",
-  "corpo1": "Il disservizio è iniziato 30 minuti fa e ora è stato completamente risolto. La piattaforma è tornata a funzionare correttamente, consentendo agli utenti di accedere e utilizzare i servizi senza problemi. La durata dell'interruzione è stata limitata e il sistema è stato riattivato con successo.",
-  "corpo2": "Il disservizio di GitHub, durato appena 30 minuti, ha risvegliato l'attenzione sulle vulnerabilità delle infrastrutture digitali su cui si basano milioni di sviluppatori nel mondo. Sebbene l'interruzione sia stata breve e risolta rapidamente, i suoi effetti sul flusso del lavoro quotidiano di chi dipende da questa piattaforma per codificare, condividere e collaborare sono stati inevitabili.\n\nDopo l'incidente, è emerso che l'interruzione è stata causata da un problema di routing nei server DNS, che ha temporaneamente impedito agli utenti di raggiungere i repository. Questo tipo di problema, sebbene tecnicamente semplice da risolvere, sottolinea la fragilità della dipendenza da reti complesse e interconnesse. GitHub, con la sua vasta infrastruttura globale, dipende da una rete di server fisici e virtuali che devono funzionare in perfetta sincronia. Un singolo punto di fallimento, come un errore di configurazione o un attacco DDoS, può avere ripercussioni immediate e diffuse.\n\nL'incidente ha anche sollevato questioni riguardo alla resilienza delle piattaforme di sviluppo e alla loro capacità di gestire picchi di traffico e anomalie di rete. Sebbene il team di GitHub abbia agito rapidamente per ripristinare i servizi, è importante considerare come tali interruzioni possano influenzare progetti in fase di sviluppo, collaborazioni internazionali e, in ultima analisi, la produttività degli sviluppatori. In un mondo dove il codice è il fulcro dell'innovazione tecnologica, anche una breve interruzione può tradursi in perdite significative di tempo e risorse.\n\nInoltre, l'episodio ha acceso un dibattito sulla trasparenza e la comunicazione durante le interruzioni. GitHub ha comunicato l'interruzione in modo tempestivo, ma la mancanza di dettagli immediati su cause e soluzioni ha lasciato spazio a speculazioni e preoccupazioni tra gli utenti. Questo solleva interrogativi sulla gestione delle crisi e sull'equilibrio tra riservatezza operativa e necessità di informare la comunità.\n\nIn conclusione, l'interruzione di GitHub serve da promemoria della nostra dipendenza dalle tecnologie digitali e della necessità di costruire sistemi più resilienti. Nonostante la rapida risoluzione dell'incidente, è fondamentale che le piattaforme tecnologiche continuino a investire nella robustezza delle loro infrastrutture e nella trasparenza delle loro comunicazioni. L'incidente ha dimostrato che, anche per giganti tecnologici, un piccolo errore può avere effetti a catena, sottolineando l'importanza di una gestione proattiva dei rischi e di strategie di backup affidabili. La lezione più chiara è che la resilienza non è solo una questione di tecnologia, ma anche di comunicazione efficace con gli utenti finali.",
+  "occhiello": "GITHUB IN DOWN",
+  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-25T13:02:25.000690+00:00",
+  "published_at": "2026-08-06T16:52:36.495248+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -28,19 +31,12 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SISTEMA RIATTIVATO\",\n  \"description\": \"GitHub è tornato online dopo 30 minuti di interruzione.\",\n  \"articleBody\": \"GitHub è tornato online dopo 30 minuti di interruzione. Il disservizio è iniziato 30 minuti fa e ora è stato completamente risolto. La piattaforma è tornata a funzionare correttamente, consentendo agli utenti di accedere e utilizzare i servizi senza problemi. La durata dell'interruzione è stata limitata e il sistema è stato riattivato con successo. Il disservizio di GitHub, durato appena 30 minuti, ha risvegliato l'attenzione sulle vulnerabilità delle infrastrutture digitali su cui si basano milioni di sviluppatori nel mondo. Sebbene l'interruzione sia stata breve e risolta rapidamente, i suoi effetti sul flusso del lavoro quotidiano di chi dipende da questa piattaforma per codificare, condividere e collaborare sono stati inevitabili.\\n\\nDopo l'incidente, è emerso che l'interruzione è stata causata da un problema di routing nei server DNS, che ha temporaneamente impedito agli utenti di raggiungere i repository. Questo tipo di problema, sebbene tecnicamente semplice da risolvere, sottolinea la fragilità della dipendenza da reti complesse e interconnesse. GitHub, con la sua vasta infrastruttura globale, dipende da una rete di server fisici e virtuali che devono funzionare in perfetta sincronia. Un singolo punto di fallimento, come un errore di configurazione o un attacco DDoS, può avere ripercussioni immediate e diffuse.\\n\\nL'incidente ha anche sollevato questioni riguardo alla resilienza delle piattaforme di sviluppo e alla loro capacità di gestire picchi di traffico e anomalie di rete. Sebbene il team di GitHub abbia agito rapidamente per ripristinare i servizi, è importante considerare come tali interruzioni possano influenzare progetti in fase di sviluppo, collaborazioni internazionali e, in ultima analisi, la produttività degli sviluppatori. In un mondo dove il codice è il fulcro dell'innovazione tecnologica, anche una breve interruzione può tradursi in perdite significative di tempo e risorse.\\n\\nInoltre, l'episodio ha acceso un dibattito sulla trasparenza e la comunicazione durante le interruzioni. GitHub ha comunicato l'interruzione in modo tempestivo, ma la mancanza di dettagli immediati su cause e soluzioni ha lasciato spazio a speculazioni e preoccupazioni tra gli utenti. Questo solleva interrogativi sulla gestione delle crisi e sull'equilibrio tra riservatezza operativa e necessità di informare la comunità.\\n\\nIn conclusione, l'interruzione di GitHub serve da promemoria della nostra dipendenza dalle tecnologie digitali e della necessità di costruire sistemi più resilienti. Nonostante la rapida risoluzione dell'incidente, è fondamentale che le piattaforme tecnologiche continuino a investire nella robustezza delle loro infrastrutture e nella trasparenza delle loro comunicazioni. L'incidente ha dimostrato che, anche per giganti tecnologici, un piccolo errore può avere effetti a catena, sottolineando l'importanza di una gestione proattiva dei rischi e di strategie di backup affidabili. La lezione più chiara è che la resilienza non è solo una questione di tecnologia, ma anche di comunicazione efficace con gli utenti finali.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-07-25T13:02:25.000690+00:00\",\n  \"dateModified\": \"2026-07-25T13:02:25.000690+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
-    {
-      "title": "Robot per salvare il pianeta",
-      "url": "/tecnologia/robot-per-salvare-il-pianeta-1dfe5279cc611d2c",
-      "id": "1dfe5279cc611d2c",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/07/25/184514796-765fecda-0034-4396-b463-0c24f6669caf.jpg",
-      "image_type": "image"
-    },
     {
       "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-chatgpt",
@@ -49,13 +45,19 @@
       "image_type": "image"
     },
     {
-      "title": "Spotify: disservizio risolto e ripristinato",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube è tornato online dopo 85 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-07-25T13:02:25.000690+00:00"
+  "hero_eligible": false
 }
