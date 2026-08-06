@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 6 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-06T05:45:28.781660+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/958399801edc7ef7b5eff5434e880936fbdb54d2/skytg24/it/cronaca/2026/08/06/prime-pagine-quotidiani-oggi-6-agosto/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 6 AGOSTO 2026",
+    "lead_preview": "Oggi i quotidiani italiani convergono su tre temi principali: la vicenda Delmastro, la richiesta di 36 miliardi di fondi",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, giovedì 6 agosto 2026",
@@ -250,25 +269,6 @@
     "occhiello": "SU VISITA A NAYPYIDAW, SU CUI SI DISCUTE DI ASSISTENZA MEDICA",
     "lead_preview": "Naypyidaw, 3 agosto. Aung San Suu Kyi ha incontrato un delegato della Croce rossa, secondo comunicato dell’ufficio della",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 4 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-04T05:47:07.998538+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5e74d36abb4a33313743340567f08e5c65820fc0/skytg24/it/cronaca/2026/08/04/prime-pagine-quotidiani-oggi-4-agosto/Composite_4_agosto.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE MIGRAZIONI E POLITICA",
-    "lead_preview": "Oggi, 4 agosto 2026, i quotidiani italiani convergono su temi migratori e politici. Il Corriere della Sera, La Repubblic",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
