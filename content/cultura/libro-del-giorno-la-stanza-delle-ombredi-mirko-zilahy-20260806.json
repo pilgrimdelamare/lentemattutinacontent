@@ -1,26 +1,24 @@
 {
   "id": "libro-20260806",
   "slug": "libro-del-giorno-la-stanza-delle-ombredi-mirko-zilahy-20260806",
-  "title": "Il libro del giorno: «La stanza delle ombredi Mirko Zilahy»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «La stanza delle ombredi Mirko Zilahy»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "un thriller ambientato nella Roma oscura e decadente",
   "corpo1": "In questo libro, Mirko Zilahy ci porta in un viaggio attraverso le ombre di Roma, dove il confine tra arte e realtà si fa sempre più labile. Il protagonista, Nemo Sperati, è un professore di arte con un dono unico: può disegnare con precisione una scena semplicemente chiudendo gli occhi e immergendosi nella 'stanza delle ombre'. Questa abilità lo porta a collaborare con la polizia per risolvere un caso di omicidio, dove il corpo della vittima è stato ritrovato sulle rive del Tevere. Nemo, figlio di un artista falsario, si trova a dover affrontare il suo passato e a scavare nella sua stessa identità per smascherare l'assassino. Tra il mattatoio di Testaccio e la trattoria di Sora Lella, Zilahy ci guida attraverso una Roma oscura e decadente, dove l'arte e la realtà si intrecciano in modo inquietante. Un viaggio che porterà Nemo a scoprire la verità sui delitti e a trovare un po' di pace per se stesso. Un libro consigliato a chi ama l'arte, gli enigmi e i colpi di scena.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0F9Z2KHVH\" rel=\"sponsored\" target=\"_blank\">La stanza delle ombredi Mirko Zilahy di  su Amazon</a></p>",
+  "corpo2": "Il “La stanza delle ombredi” di Mirko Zilahy, pubblicato lo scorso mese da Editori Sospesi, è più di un semplice thriller urbano. Il suo editore, noto per aver promosso opere che interrogano la memoria collettiva, ha ricevuto un contributo dal Fondo per la Cultura Italiana di 2024, destinato a “progetti che ritornano al tessuto urbano e al suo tessuto emotivo”. In questo senso, la",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "laura_bianchi_01",
+    "firma": "Laura Bianchi",
+    "sezione": "cultura"
   },
   "published_at": "2026-08-06T07:00:22.864476+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: La stanza delle ombredi Mirko Zilahy",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/La-stanza-delle-ombre-Mirko-Zilahy.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"un thriller ambientato nella Roma oscura e decadente\",\n  \"articleBody\": \"un thriller ambientato nella Roma oscura e decadente In questo libro, Mirko Zilahy ci porta in un viaggio attraverso le ombre di Roma, dove il confine tra arte e realtà si fa sempre più labile. Il protagonista, Nemo Sperati, è un professore di arte con un dono unico: può disegnare con precisione una scena semplicemente chiudendo gli occhi e immergendosi nella 'stanza delle ombre'. Questa abilità lo porta a collaborare con la polizia per risolvere un caso di omicidio, dove il corpo della vittima è stato ritrovato sulle rive del Tevere. Nemo, figlio di un artista falsario, si trova a dover affrontare il suo passato e a scavare nella sua stessa identità per smascherare l'assassino. Tra il mattatoio di Testaccio e la trattoria di Sora Lella, Zilahy ci guida attraverso una Roma oscura e decadente, dove l'arte e la realtà si intrecciano in modo inquietante. Un viaggio che porterà Nemo a scoprire la verità sui delitti e a trovare un po' di pace per se stesso. Un libro consigliato a chi ama l'arte, gli enigmi e i colpi di scena. Il “La stanza delle ombredi” di Mirko Zilahy, pubblicato lo scorso mese da Editori Sospesi, è più di un semplice thriller urbano. Il suo editore, noto per aver promosso opere che interrogano la memoria collettiva, ha ricevuto un contributo dal Fondo per la Cultura Italiana di 2024, destinato a “progetti che ritornano al tessuto urbano e al suo tessuto emotivo”. In questo senso, la\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Laura Bianchi\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-08-06T07:00:22.864476+00:00\",\n  \"dateModified\": \"2026-08-06T07:00:22.864476+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260806\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260806\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-la-stanza-delle-ombredi-mirko-zilahy-20260806",
+  "related": [
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-semiotica-della-fine-saggi-sul-capital-20260804",
+      "id": "libro-20260804",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L195xH312/71uprz98ftl__sl1500_-89ebe.jpg?1775669993",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-figli-delle-lupedi-luigi-lodola-20260801",
+      "id": "libro-20260801",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L222xH312/figli_delle_lupe-54f2b.jpg?1775812120",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno: «L’Oltre: Eugenio Montale tra filosofia, fisica e religionedi Adriana Beverini»",
+      "url": "/cultura/libro-del-giorno-loltre-eugenio-montale-tra-filosofia-f-20260730",
+      "id": "libro-20260730",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61vntuxykpl__sl1499_-d462f.jpg?1775764858",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-08-06T07:00:22.864476+00:00"
 }
