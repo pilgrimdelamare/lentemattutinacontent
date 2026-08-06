@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260806",
+    "slug": "libro-del-giorno-la-stanza-delle-ombredi-mirko-zilahy-20260806",
+    "title": "Il libro del giorno: «La stanza delle ombredi Mirko Zilahy»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un thriller ambientato nella Roma oscura e decadente",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-06T07:00:22.864476+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788804793106_0_0_424_0_75-fe7ad.jpg?1775672271",
+      "alt": "Copertina: La stanza delle ombredi Mirko Zilahy",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788804793106_0_0_424_0_75-fe7ad.jpg?1775672271",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, giovedì 6 agosto 2026",
@@ -7769,21 +7788,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/07/13/092355663-88fef535-565a-4558-af49-da5e4a1cb715.jpg",
     "occhiello": "FUNERALI DI ALI KHAMENEI IN UN CLIMA DI REPRESSIONE",
     "lead_preview": "Il dopo Khamenei, cosa succede ora in Iran e che fine hanno fatto le opposizioni I funerali di Ali Khamenei, l’ex Guida ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "83e7664f6f13dd33",
-    "slug": "le-squadre-di-serie-a-iniziano-la-preparazione-est-83e7664f6f13dd33",
-    "title": "Inizia l'estate delle big di serie a",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-13T09:53:08.905555+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/349be22ba58fc02cb1abf76c6b3f011fe5522c7a/skysport/it/calcio/serie-a/serie-a-raduni-ritiri-squadre-2026-2027/raduni_estivi_serie_a_1.jpg",
-    "occhiello": "INIZIA L'ESTATE DELLE BIG DI SERIE A",
-    "lead_preview": "Roma, 13 luglio. I raduni estivi delle Squadre di Serie A cominciano oggi, con l'Inter, il Milan, la Juventus e la Roma ",
     "tags": [],
     "hero_eligible": true
   }
