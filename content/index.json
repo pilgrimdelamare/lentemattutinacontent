@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-06T16:52:36.495248+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3e8abf1288d5885e",
     "slug": "trump-alleggia-di-muniti-in-evidenza-la-crisi-iran-3e8abf1288d5885e",
     "title": "Trump alleggia di muniti in evidenza la crisi iranita",
@@ -2686,21 +2705,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/25/90686582b7e87f848414c3b8c8e91c53.jpg",
     "occhiello": "IL MAN DI NUORO RINNOVA LA SPERANZA CULTURALE",
     "lead_preview": "Nuoro, 25 luglio. Al Museo d'Arte della Sardegna (Man) una nuova esposizione invita a recuperare l'entusiasmo del Novece",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Sistema riattivato",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-07-25T13:02:25.000690+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "GitHub è tornato online dopo 30 minuti di interruzione.",
     "tags": [],
     "hero_eligible": true
   },
