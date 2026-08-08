@@ -1,5 +1,24 @@
 [
   {
+    "id": "36d1454b1d77dba1",
+    "slug": "germano-attacca-meloni-stesse-tasse-ma-senza-sanit-36d1454b1d77dba1",
+    "title": "Germano attacca Meloni: 40% in meno servizi nelle aree interne",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-07T12:21:12.557386+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/7/3e08781aeb9d6498ce6ec9fe4e91cb45.jpg",
+    "occhiello": "GERMANO ATTACCA IL GOVERNO SULLE AREE INTERNE",
+    "lead_preview": "Roma, 7 agosto. Elio Germano accusa il governo Meloni di avere negato diritti fondamentali a chi vive nelle aree interne",
+    "tags": [
+      "germano vs meloni",
+      "aree interne italia",
+      "servizi pubblici"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1bcd94a3f62cc715",
     "slug": "lincoln-memorial-imbrattato-vasca-da-20-milioni-ch-1bcd94a3f62cc715",
     "title": "Lincoln Memorial imbrattato: vasca da 20 milioni chiusa per misteriosa sostanza rossa",
@@ -246,25 +265,6 @@
       "trump minaccia ergastolo",
       "crisi iran usa",
       "scorte armi segrete"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "36d1454b1d77dba1",
-    "slug": "germano-attacca-meloni-stesse-tasse-ma-senza-sanit-36d1454b1d77dba1",
-    "title": "Germano attacca Meloni: \"Stesse tasse, ma senza Sanità né trasporti\"",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-08-07T12:21:12.557386+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/7/3e08781aeb9d6498ce6ec9fe4e91cb45.jpg",
-    "occhiello": "GERMANO ATTACCA IL GOVERNO SULLE AREE INTERNE",
-    "lead_preview": "Roma, 7 agosto. Elio Germano accusa il governo Meloni di avere negato diritti fondamentali a chi vive nelle aree interne",
-    "tags": [
-      "attacco germano meloni",
-      "aree interne italia",
-      "tasse senza servizi"
     ],
     "hero_eligible": true
   },
