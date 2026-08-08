@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260808",
+    "slug": "libro-del-giorno-madri-e-figlidi-theodor-kallifatides-20260808",
+    "title": "Kallifatides scrive il suo capolavoro: Madri e figli tra Grecia e Svezia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-08T07:31:10.615910+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788862436168_0_0_424_0_75-e0cf5.jpg?1786021244",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un viaggio emotivo tra Grecia e Svezia, tessuto di ricordi e parole",
+    "tags": [
+      "libro kallifatides",
+      "letteratura greca",
+      "narrativa svedese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "98263330d767cf10",
     "slug": "arctic-energy-partners-trasporta-materiali-in-groe-98263330d767cf10",
     "title": "Arctic Energy sfida Nuuk: container per trivelle sbarcano a Groenlandia senza permesso",
@@ -535,25 +554,6 @@
       "calcio amichevole"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260808",
-    "slug": "libro-del-giorno-madri-e-figlidi-theodor-kallifatides-20260808",
-    "title": "Il libro del giorno: «Madri e figlidi Theodor Kallifatides»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un viaggio emotivo tra Grecia e Svezia, tessuto di ricordi e parole",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-08-08T07:31:10.615910+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788862436168_0_0_424_0_75-e0cf5.jpg?1786021244",
-      "alt": "Copertina: Madri e figlidi Theodor Kallifatides",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788862436168_0_0_424_0_75-e0cf5.jpg?1786021244",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "84007ec17491403c",
