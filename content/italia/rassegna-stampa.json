@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 6 agosto 2026",
+  "title": "Le prime pagine di oggi, sabato 8 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 6 agosto 2026",
-    "Le prime pagine di oggi, giovedì 6 agosto 2026",
-    "Le prime pagine di oggi, giovedì 6 agosto 2026"
+    "Le prime pagine di oggi, sabato 8 agosto 2026",
+    "Le prime pagine di oggi, sabato 8 agosto 2026",
+    "Le prime pagine di oggi, sabato 8 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 6 AGOSTO 2026",
-  "lead": "Oggi i quotidiani italiani convergono su tre temi principali: la vicenda Delmastro, la richiesta di 36 miliardi di fondi europei per energia e difesa, e l’ondata di caldo record. La Repubblica e La Stampa aprono con inchieste su Delmastro, Il Sole 24 Ore mette in evidenza la crisi climatica, mentre La Gazzetta dello Sport dedica la prima pagina al mercato calcistico. Il Corriere della Sera presenta in copertina un annuncio Sky Go. Altri giornali trattano, in spazi secondari, la politica americana e la questione dell’accessibilità.",
-  "corpo1": "La Repubblica apre con il titolo “I segreti di Delmastro”, seguito da un approfondimento sulla decisione della Camera di non ammettere le chat tra il deputato FdI e l’imprenditore Mauro Caroccia, e segnala la domanda italiana di 36 miliardi di fondi UE per difesa ed energia; La Stampa dedica la sua prima pagina alla “questione Delmastro”, con la stessa negazione parlamentare e la medesima richiesta di risorse comunitarie; Il Sole 24 Ore mette in primo piano l’ondata di caldo, con il bollino rosso per tutte le città e l’allarme sui ghiacciai in agonia, aggiungendo il rischio di approvvigionamento energetico; Il Messaggero riprende la “questione Delmastro”, cita il ministro Nordio sul valore dei dati nei telefoni e la critica di Schlein a Borsellino, inserendo anche la richiesta di flessibilità europea; La Gazzetta dello Sport dedica la copertina al derby estivo con Federico Dimarco protagonista, al mercato della Juventus, della Juventus, del Milan e al tennis; Tuttosport, nella sua prima pagina, evidenzia la Juventus al centro del mercato con gli obiettivi Suzuki e Lucumí, menziona la Fiorentina e il risultato della Nazionale di Spalletti contro il Chelsea; Il Corriere della Sera presenta in copertina l’annuncio “logo‑sky‑go: Offerta Prova 30 giorni” e “logo‑sky‑go: Il decoder Sky Stream”.",
-  "corpo2": "Altre pagine mostrano titoli su “scelta dem nel Michigan”, la “dichiarazione di accessibilità” e varie rubriche di attualità. Il tema dominante della giornata resta la combinazione di politica interna, richiesta di fondi europei e emergenza climatica.",
+  "occhiello": "LE PRIME PAGINE 8 AGOSTO 2026",
+  "lead": "Oggi i quotidiani italiani aprono con la crisi diplomatica tra Italia e Spagna, dopo la decisione di Roma di chiudere i confini con Madrid e la risposta di controlli alle frontiere per i viaggiatori italiani. *Corriere della Sera* e *La Repubblica* dedicano le prime pagine allo scontro istituzionale, mentre *Il Messaggero* e *Il Resto del Carlino* sottolineano le tensioni con titoli secchi e immediati. Solo *La Stampa* si discosta, aprendo su allerta meteo e casi di cronaca locale.",
+  "corpo1": "*Corriere della Sera* titola su \"Italia e Spagna, ora è scontro totale\" con un aut aut a Roma e la ritorsione di Madrid che dispone controlli immediati alle frontiere. *La Repubblica* punta su \"Il muro dell'Italia, crisi con la Spagna\" riassumendo la posizione di Sánchez che chiede la riapertura dei confini e la reazione italiana negando ultimatum. *Il Messaggero* apre con \"Picchiato a morte nel parcheggio\" a Cervia, affiancando la notizia allo scontro diplomatico in un riquadro separato. *Il Resto del Carlino* sceglie \"Il nostro amore\" come titolo principale, accanto a \"Grandine e afa: allerta temporali di calore al Nord\" in un box laterale.",
+  "corpo2": "*La Stampa* dedica la prima pagina a \"Covid, procura di Roma indaga sull'esposto di Conte\" e a \"Il nostro amore\" come tema sentimentale. *Il Tempo* invece titola su \"Grandine e afa\" con allerta temporali al Nord, affiancando la notizia della crisi con la Spagna solo in un trafiletto in basso. La giornata si chiude così su due temi dominanti: il confronto istituzionale e l'emergenza meteo.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-08-06T05:45:28.781660+00:00",
+  "published_at": "2026-08-08T06:13:27.393137+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/958399801edc7ef7b5eff5434e880936fbdb54d2/skytg24/it/cronaca/2026/08/06/prime-pagine-quotidiani-oggi-6-agosto/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/9f6efbf28785b5ecaf1279a438db3effc66ed269/skytg24/it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto/rassegna_8_agosto_hero.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/08/06/prime-pagine-quotidiani-oggi-6-agosto",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 6 agosto 2026",
+      "title": "Oroscopo di oggi, sabato 8 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Fifa conferma fiducia a infantino nonostante ammissione di errori",
-      "url": "/sport/fifa-conferma-fiducia-a-infantino-nonostante-ammis-40ce901a5e6f9c3d",
-      "id": "40ce901a5e6f9c3d",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/22/2194ca6035c55d05f96548f1b681686c.jpg",
+      "title": "Sabato convegno e concerto per casella e stravinskij",
+      "url": "/cultura/sabato-convegno-e-concerto-per-casella-e-stravinsk-9242c54a59c970f6",
+      "id": "9242c54a59c970f6",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/4e5b0cf09f755bb75e2996ef5be361d1.jpg",
       "image_type": "image"
     }
   ],
