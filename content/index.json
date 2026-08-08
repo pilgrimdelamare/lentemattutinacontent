@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, sabato 8 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-08T06:13:27.393137+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/9f6efbf28785b5ecaf1279a438db3effc66ed269/skytg24/it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto/rassegna_8_agosto_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 8 AGOSTO 2026",
+    "lead_preview": "Oggi i quotidiani italiani aprono con la crisi diplomatica tra Italia e Spagna, dopo la decisione di Roma di chiudere i ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ef35f2461621915f",
     "slug": "fusoliere-a-pezzi-boeing-nel-mirino-ef35f2461621915f",
     "title": "FAA ordina ispezioni su 1.900 Boeing 737 Max: crepe nella fusoliera minacciano la Sicurezza",
@@ -564,25 +583,6 @@
     "occhiello": "FIFA CONFERMA FIDUCIA A INFANTINO NONOSTANTE AMMISSIONE DI ERRORI",
     "lead_preview": "Rabat, 6 agosto. La FIFA ha ribadito il suo pieno sostegno al Presidente Gianni Infantino, a seguito di un incontro con ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 6 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-06T05:45:28.781660+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/958399801edc7ef7b5eff5434e880936fbdb54d2/skytg24/it/cronaca/2026/08/06/prime-pagine-quotidiani-oggi-6-agosto/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 6 AGOSTO 2026",
-    "lead_preview": "Oggi i quotidiani italiani convergono su tre temi principali: la vicenda Delmastro, la richiesta di 36 miliardi di fondi",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
