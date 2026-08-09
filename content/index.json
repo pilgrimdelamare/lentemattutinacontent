@@ -1,5 +1,24 @@
 [
   {
+    "id": "806858584c4a7a14",
+    "slug": "nuoto-marchand-fuori-dagli-europei-per-infortunio-806858584c4a7a14",
+    "title": "Nuoto: L’azzurro Marchand fuori dagli Europei per infortunio, rischio recidiva",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-08T14:07:34.369506+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/8/3/3d7e935413a05ddb63184dd4196ed973.jpg",
+    "occhiello": "FRANÇOIS MARCHAND ESCLUSO DALLE PROVE DEI 200 E 400 MISTI",
+    "lead_preview": "Budapest, 8 agosto 2026. Il nuotatore francese François Marchand non scenderà in acqua nei 200 e 400 metri misti ai Camp",
+    "tags": [
+      "infortunio marchand",
+      "europei nuoto 2026",
+      "nuoto azzurro"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "74fda9119afd41fe",
     "slug": "canada-in-fiamme-20mila-evacuati-104-incendi-fuori-74fda9119afd41fe",
     "title": "Canada, British Columbia in fiamme: 20.000 evacuati, 104 incendi fuori controllo",
@@ -387,25 +406,6 @@
       "nba free agency",
       "jaylen brown trade",
       "celtics sixers"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "806858584c4a7a14",
-    "slug": "nuoto-marchand-fuori-dagli-europei-per-infortunio-806858584c4a7a14",
-    "title": "Nuoto: Marchand out per infortunio, la Francia perde le batterie domani",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-08T14:07:34.369506+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/8/3/3d7e935413a05ddb63184dd4196ed973.jpg",
-    "occhiello": "FRANÇOIS MARCHAND ESCLUSO DALLE PROVE DEI 200 E 400 MISTI",
-    "lead_preview": "Budapest, 8 agosto 2026. Il nuotatore francese François Marchand non scenderà in acqua nei 200 e 400 metri misti ai Camp",
-    "tags": [
-      "nuoto marchand infortunio",
-      "europei nuoto 2026",
-      "francois marchand escluso"
     ],
     "hero_eligible": true
   },
