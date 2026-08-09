@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260808",
+    "slug": "libro-del-giorno-madri-e-figlidi-theodor-kallifatides-20260808",
+    "title": "Kallifatides scrive la storia di sua madre novantenne tra Grecia e Svezia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-08-08T07:31:10.615910+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788862436168_0_0_424_0_75-e0cf5.jpg?1786021244",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un viaggio emotivo tra Grecia e Svezia, tessuto di ricordi e parole",
+    "tags": [
+      "libro kallifatides",
+      "storia famigliare",
+      "grecia svezia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2b0e845677e3b117",
     "slug": "tennis-eala-7-vittorie-di-fila-a-toronto-ora-sfida-2b0e845677e3b117",
     "title": "Tennis: Eala, settime vittoria di fila a Toronto e vola contro Bencic",
@@ -352,25 +371,6 @@
     "tags": [
       "napoli",
       "campionato calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260808",
-    "slug": "libro-del-giorno-madri-e-figlidi-theodor-kallifatides-20260808",
-    "title": "Kallifatides scrive il suo capolavoro: Madri e figli tra Grecia e Svezia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-08-08T07:31:10.615910+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788862436168_0_0_424_0_75-e0cf5.jpg?1786021244",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un viaggio emotivo tra Grecia e Svezia, tessuto di ricordi e parole",
-    "tags": [
-      "libro kallifatides",
-      "letteratura greca",
-      "narrativa svedese"
     ],
     "hero_eligible": true
   },
