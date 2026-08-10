@@ -1,5 +1,22 @@
 [
   {
+    "id": "e4ded87923d439b7",
+    "slug": "indagini-in-corso-ma-nessun-nome-cosa-accade-e4ded87923d439b7",
+    "title": "Indagini in corso, ma nessun nome: cosa accade?",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-10T12:06:24.811761+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/c1cdfc4c44e3f3d24a9b8b7e7b271b10.jpg",
+    "occhiello": "GUARDIA DI FINANZA SMASCHERA FRODI NEL CARBURANTE",
+    "lead_preview": "Roma, 10 agosto.",
+    "tags": [
+      "frodi carburante"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "32d1b282c0c59ab5",
     "slug": "il-governo-consegna-1000-euro-alle-famiglie-con-ne-32d1b282c0c59ab5",
     "title": "Il governo consegna 1000 euro alle famiglie con neonati",
@@ -7947,24 +7964,6 @@
     "occhiello": "DAVIDE CASARIN A LAS VEGAS: INCONTRO CON JAYSON TATUM, FUTURO CON VIRTUS BOLOGNA",
     "lead_preview": "Las Vegas, 16 luglio 2026 - Davide Casarin, guardia della Virtus Bologna e della nazionale Italiana, sta vivendo un'espe",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7bc5087f1055c8b2",
-    "slug": "nicaragua-rompe-legami-con-litalia-per-accuse-taja-7bc5087f1055c8b2",
-    "title": "Il Nicaragua rompe i legami con l'Italia dopo le critiche di Tajani",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-07-16T10:19:35.602925+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/a8d5868830ca973abb3a802acf2bfaa6.jpg",
-    "occhiello": "MANAGUA RISPONDE A TAJANI: \"VOGLIAMO ROMPERE I LEGAMI\"",
-    "lead_preview": "Managua, 16 luglio. Il vicepremier del Nicaragua ha dichiarato che il Paese intende interrompere i legami con l'Italia d",
-    "tags": [
-      "nicaragua italia",
-      "critiche tajani"
-    ],
     "hero_eligible": true
   }
 ]
