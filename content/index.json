@@ -1,5 +1,24 @@
 [
   {
+    "id": "be85afd1ea1ce0b0",
+    "slug": "calcio-monza-juric-nuovo-allenatore-salvezza-in-ci-be85afd1ea1ce0b0",
+    "title": "Calcio: Monza sceglie Juric per la salvezza in Serie A, Palladino esonerato",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-09T16:17:10.585427+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/9/9b60dc7774be696e10b7ac59ad73476f.jpg",
+    "occhiello": "JURIC AL MONZA, ULTIMA SPERANZA IN SERIE A",
+    "lead_preview": "Monza, 9 agosto. Il Monza affida la panchina a Damir Juric per il debutto in Serie A dopo i fallimenti con Roma e Atalan",
+    "tags": [
+      "monza juric",
+      "esonerato palladino",
+      "serie a 2024"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9343723f48143696",
     "slug": "calcio-spalletti-presenta-la-sua-squadra-ecco-chi-9343723f48143696",
     "title": "Calcio: Spalletti presenta la sua squadra: ecco chi scenderà in campo mercoledì",
@@ -698,25 +717,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "be85afd1ea1ce0b0",
-    "slug": "calcio-monza-juric-nuovo-allenatore-salvezza-in-ci-be85afd1ea1ce0b0",
-    "title": "Calcio: Monza chiama Juric a guidare la squadra in Serie A",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-09T16:17:10.585427+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/9/9b60dc7774be696e10b7ac59ad73476f.jpg",
-    "occhiello": "JURIC AL MONZA, ULTIMA SPERANZA IN SERIE A",
-    "lead_preview": "Monza, 9 agosto. Il Monza affida la panchina a Damir Juric per il debutto in Serie A dopo i fallimenti con Roma e Atalan",
-    "tags": [
-      "calcio serie a",
-      "monza juric",
-      "esonero palladino"
     ],
     "hero_eligible": true
   },
