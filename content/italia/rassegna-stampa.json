@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, sabato 8 agosto 2026",
+  "title": "Le prime pagine di oggi, lunedì 10 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, sabato 8 agosto 2026",
-    "Le prime pagine di oggi, sabato 8 agosto 2026",
-    "Le prime pagine di oggi, sabato 8 agosto 2026"
+    "Le prime pagine di oggi, lunedì 10 agosto 2026",
+    "Le prime pagine di oggi, lunedì 10 agosto 2026",
+    "Le prime pagine di oggi, lunedì 10 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 8 AGOSTO 2026",
-  "lead": "Oggi i quotidiani italiani aprono con la crisi diplomatica tra Italia e Spagna, dopo la decisione di Roma di chiudere i confini con Madrid e la risposta di controlli alle frontiere per i viaggiatori italiani. *Corriere della Sera* e *La Repubblica* dedicano le prime pagine allo scontro istituzionale, mentre *Il Messaggero* e *Il Resto del Carlino* sottolineano le tensioni con titoli secchi e immediati. Solo *La Stampa* si discosta, aprendo su allerta meteo e casi di cronaca locale.",
-  "corpo1": "*Corriere della Sera* titola su \"Italia e Spagna, ora è scontro totale\" con un aut aut a Roma e la ritorsione di Madrid che dispone controlli immediati alle frontiere. *La Repubblica* punta su \"Il muro dell'Italia, crisi con la Spagna\" riassumendo la posizione di Sánchez che chiede la riapertura dei confini e la reazione italiana negando ultimatum. *Il Messaggero* apre con \"Picchiato a morte nel parcheggio\" a Cervia, affiancando la notizia allo scontro diplomatico in un riquadro separato. *Il Resto del Carlino* sceglie \"Il nostro amore\" come titolo principale, accanto a \"Grandine e afa: allerta temporali di calore al Nord\" in un box laterale.",
-  "corpo2": "*La Stampa* dedica la prima pagina a \"Covid, procura di Roma indaga sull'esposto di Conte\" e a \"Il nostro amore\" come tema sentimentale. *Il Tempo* invece titola su \"Grandine e afa\" con allerta temporali al Nord, affiancando la notizia della crisi con la Spagna solo in un trafiletto in basso. La giornata si chiude così su due temi dominanti: il confronto istituzionale e l'emergenza meteo.",
+  "occhiello": "LE PRIME PAGINE 10 AGOSTO 2026",
+  "lead": "I quotidiani italiani oggi si concentrano su Medio Oriente, migranti e politica interna. La Repubblica, Il Messaggero e La Stampa aprono su Netanyahu che respinge il piano Trump per Gaza, condizionando il ritiro alla disfatta di Hamas. Il Corriere della Sera e Il Gazzettino puntano invece sullo scontro con l’Ue sui migranti a Ceuta e sullo stop di Berlino alle Ong. Sky TG24 e Il Sole 24 Ore si distinguono con approfondimenti su energia e mercato, mentre la Gazzetta dello Sport dedica la prima pagina a Livio Berruti.",
+  "corpo1": "La Repubblica e Il Messaggero aprono su Netanyahu che boccia il piano di Trump per Gaza, chiedendo il disarmo di Hamas prima di qualsiasi ritiro. Il Corriere della Sera si concentra sulla crisi migratoria a Ceuta, con la Commissione Ue che chiede all’Italia di riprendere i profughi e il ministro Tajani che avverte sul rischio terrorismo, prolungando la sospensione di Schengen. Il Sole 24 Ore dedica la prima pagina alla strategia energetica italiana, con un decreto da 50 miliardi per sbloccare gli investimenti nelle rinnovabili e evitare la fuga delle aziende. Sky TG24 titola sull’offerta prova di 30 giorni e sul nuovo decoder Sky Stream. La Gazzetta dello Sport ricorda Livio Berruti, oro nei 200 metri a Roma 1960, scomparso a 87 anni.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-08-08T06:13:27.393137+00:00",
+  "published_at": "2026-08-10T05:51:20.768583+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/9f6efbf28785b5ecaf1279a438db3effc66ed269/skytg24/it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto/rassegna_8_agosto_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/bb62e49fd54a2b72e14645d7f9757cb971956e45/skytg24/it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto/collage_1.png?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, sabato 8 agosto 2026",
+      "title": "Oroscopo di oggi, domenica 9 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Sabato convegno e concerto per casella e stravinskij",
-      "url": "/cultura/sabato-convegno-e-concerto-per-casella-e-stravinsk-9242c54a59c970f6",
-      "id": "9242c54a59c970f6",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/4e5b0cf09f755bb75e2996ef5be361d1.jpg",
+      "title": "Calcio: Monza chiama Juric a guidare la squadra in Serie A",
+      "url": "/sport/calcio-monza-juric-nuovo-allenatore-salvezza-in-ci-be85afd1ea1ce0b0",
+      "id": "be85afd1ea1ce0b0",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/9/9b60dc7774be696e10b7ac59ad73476f.jpg",
       "image_type": "image"
     }
   ],
