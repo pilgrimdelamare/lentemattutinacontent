@@ -1,5 +1,24 @@
 [
   {
+    "id": "fcc45f19c5b3350c",
+    "slug": "mirko-casadei-suona-per-raoul-casadei-al-ferragost-fcc45f19c5b3350c",
+    "title": "Mirko Casadei suona per Raoul Casadei al Ferragosto",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-08-10T12:11:24.134381+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/8/5/aedec8b6176eeff2a9bd623c1441c030.jpg",
+    "occhiello": "IL LISCIO PIANGE RAOUL",
+    "lead_preview": "Gatteo Mare, 10 agosto. Il 15 agosto il Re del Liscio avrebbe compiuto 89 anni. Per celebrarlo, Mirko Casadei e i Neri p",
+    "tags": [
+      "raoul casadei",
+      "ferragosto",
+      "mirko casadei"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e4ded87923d439b7",
     "slug": "indagini-in-corso-ma-nessun-nome-cosa-accade-e4ded87923d439b7",
     "title": "Indagini in corso, ma nessun nome: cosa accade?",
@@ -7948,21 +7967,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/7/25/1c818baad07015f90e71f8cb3cf74664.jpg",
     "occhiello": "PO A -39%, ADIGE A -55% IN UN MESE",
     "lead_preview": "Roma, 16 luglio. L'Anbi denuncia un crollo della portata del Po del 39% e dell'Adige del 55% in un solo mese, con fiumi ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "dcad96ca594b765c",
-    "slug": "davide-casarin-a-las-vegas-incontro-con-jayson-tat-dcad96ca594b765c",
-    "title": "Davide casarin a las vegas: incontro con jayson tatum, futuro con virtus bologna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-16T10:29:50.836968+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/06fafdae5f3785ee6dfb9308545b6f6a3d48500e/skysport/it/nba/2026/07/16/davide-casarin-nba-summer-league-intervista/casarin_intv.jpg",
-    "occhiello": "DAVIDE CASARIN A LAS VEGAS: INCONTRO CON JAYSON TATUM, FUTURO CON VIRTUS BOLOGNA",
-    "lead_preview": "Las Vegas, 16 luglio 2026 - Davide Casarin, guardia della Virtus Bologna e della nazionale Italiana, sta vivendo un'espe",
     "tags": [],
     "hero_eligible": true
   }
