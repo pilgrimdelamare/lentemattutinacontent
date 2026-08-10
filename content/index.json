@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 10 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-10T05:51:20.768583+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/bb62e49fd54a2b72e14645d7f9757cb971956e45/skytg24/it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 10 AGOSTO 2026",
+    "lead_preview": "I quotidiani italiani oggi si concentrano su Medio Oriente, migranti e politica interna. La Repubblica, Il Messaggero e ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "be85afd1ea1ce0b0",
     "slug": "calcio-monza-juric-nuovo-allenatore-salvezza-in-ci-be85afd1ea1ce0b0",
     "title": "Calcio: Monza chiama Juric a guidare la squadra in Serie A",
@@ -959,25 +978,6 @@
     "occhiello": "TRUMP IMPALUDATO DALLE TRATTATIVE A TEHERAN",
     "lead_preview": "Roma, 7 agosto",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 8 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-08T06:13:27.393137+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/9f6efbf28785b5ecaf1279a438db3effc66ed269/skytg24/it/cronaca/2026/08/08/prime-pagine-quotidiani-oggi-8-agosto/rassegna_8_agosto_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 8 AGOSTO 2026",
-    "lead_preview": "Oggi i quotidiani italiani aprono con la crisi diplomatica tra Italia e Spagna, dopo la decisione di Roma di chiudere i ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
