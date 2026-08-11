@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 10 agosto 2026",
+  "title": "Le prime pagine di oggi, martedì 11 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 10 agosto 2026",
-    "Le prime pagine di oggi, lunedì 10 agosto 2026",
-    "Le prime pagine di oggi, lunedì 10 agosto 2026"
+    "Le prime pagine di oggi, martedì 11 agosto 2026",
+    "Le prime pagine di oggi, martedì 11 agosto 2026",
+    "Le prime pagine di oggi, martedì 11 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 10 AGOSTO 2026",
-  "lead": "I quotidiani italiani oggi si concentrano su Medio Oriente, migranti e politica interna. La Repubblica, Il Messaggero e La Stampa aprono su Netanyahu che respinge il piano Trump per Gaza, condizionando il ritiro alla disfatta di Hamas. Il Corriere della Sera e Il Gazzettino puntano invece sullo scontro con l’Ue sui migranti a Ceuta e sullo stop di Berlino alle Ong. Sky TG24 e Il Sole 24 Ore si distinguono con approfondimenti su energia e mercato, mentre la Gazzetta dello Sport dedica la prima pagina a Livio Berruti.",
-  "corpo1": "La Repubblica e Il Messaggero aprono su Netanyahu che boccia il piano di Trump per Gaza, chiedendo il disarmo di Hamas prima di qualsiasi ritiro. Il Corriere della Sera si concentra sulla crisi migratoria a Ceuta, con la Commissione Ue che chiede all’Italia di riprendere i profughi e il ministro Tajani che avverte sul rischio terrorismo, prolungando la sospensione di Schengen. Il Sole 24 Ore dedica la prima pagina alla strategia energetica italiana, con un decreto da 50 miliardi per sbloccare gli investimenti nelle rinnovabili e evitare la fuga delle aziende. Sky TG24 titola sull’offerta prova di 30 giorni e sul nuovo decoder Sky Stream. La Gazzetta dello Sport ricorda Livio Berruti, oro nei 200 metri a Roma 1960, scomparso a 87 anni.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE DEL MARTEDÌ 11 AGOSTO 2026",
+  "lead": "La prima pagina dei principali quotidiani italiani sono dominate oggi dal caso Ranucci e dal terremoto in Colombia. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero titolano tutti sul caso Ranucci, con un'attenzione particolare all'arresto di Lavitola. In secondo piano, il terremoto in Colombia, con numeri di vittime ancora incerti. Il Sole 24 Ore titola invece sullo stato dell'economia e sul mercato dell'energia.",
+  "corpo1": "Il Corriere della Sera apre con il titolo \"Ranucci, in carcere Lavitola\" e analizza le chat nelle carte dell'inchiesta. La Repubblica titola \"Ranucci, Lavitola arrestato\" e riporta le dichiarazioni del procuratore. La Stampa tiene invece a sottolineare la gravità del terremoto in Colombia, con un titolo che parla di \"strage\" e \"oltre mille morti\". Il Messaggero titola \"Ranucci, il piano per lanciarlo in politica\" e riporta le dichiarazioni di un esponente della destra. Il Sole 24 Ore, invece, si concentra sull'economia e titola \"Rinnovabili, le regole operative per il 2027\". Il Giornale titola \"La crisi energetica, l'Italia in difficoltà\". La Gazzetta dello Sport e Il Gazzettino si concentrano sull'attualità sportiva, con titoli che riguardano l'Inter e gli Europei di atletica.",
+  "corpo2": "Altre prime pagine interessanti riguardano la politica interna, con l'attenzione dei quotidiani su un possibile cambio di governo. La prima pagina del Mattino titola invece \"La crisi energetica, la verità sul prezzo dei carburanti\". La rassegna stampa di oggi è dominata dal caso Ranucci e dal terremoto in Colombia.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-08-10T05:51:20.768583+00:00",
+  "published_at": "2026-08-11T05:45:49.347617+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/bb62e49fd54a2b72e14645d7f9757cb971956e45/skytg24/it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto/collage_1.png?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/88a0e132b38d3bd3dc68d4ac0b1074a9a623e92c/skytg24/it/cronaca/2026/08/11/prime-pagine-quotidiani-oggi-11-agosto/rassegna11agosto.jpg?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/11/prime-pagine-quotidiani-oggi-11-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, domenica 9 agosto 2026",
+      "title": "Oroscopo di oggi, martedì 11 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Calcio: Monza chiama Juric a guidare la squadra in Serie A",
-      "url": "/sport/calcio-monza-juric-nuovo-allenatore-salvezza-in-ci-be85afd1ea1ce0b0",
-      "id": "be85afd1ea1ce0b0",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/9/9b60dc7774be696e10b7ac59ad73476f.jpg",
+      "title": "Nuoto: Razzetti in finale a Budapest con 4'12\"34, terzo miglior tempo",
+      "url": "/sport/nuoto-razzetti-conquista-finale-400-misti-1de2a31fd694eb43",
+      "id": "1de2a31fd694eb43",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/30/33ddcf4c4b0481ba978d6b6a2f697f5f.jpg",
       "image_type": "image"
     }
   ],
