@@ -1,5 +1,24 @@
 [
   {
+    "id": "32d1b282c0c59ab5",
+    "slug": "il-governo-consegna-1000-euro-alle-famiglie-con-ne-32d1b282c0c59ab5",
+    "title": "1.000 Euro in premio: mille famiglie si giocano il bonus neonati domani",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-10T11:52:10.510554+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/10/21/2dafd6fd226c5eccb1ccb784ebd2953d.jpg",
+    "occhiello": "1.000 EURO A CHI HA UN NEONATO DI MENO DI 5 MESI",
+    "lead_preview": "1.000 EURO A CHI HA UN NEONATO DI MENO DI 5 MESI Roma, 10 agosto. Il governo Meloni mette in cassaforte 150 milioni per ",
+    "tags": [
+      "bonus neonati",
+      "governo meloni",
+      "assegno una tantum"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7d4ab613b61d72b2",
     "slug": "ecogest-emette-bond-da-3-milioni-di-euro-7d4ab613b61d72b2",
     "title": "Ecogest lancia bond da 3 milioni per scalare Usa e Canada, il 4,5% di rendimento attira retail",
@@ -726,21 +745,6 @@
     "tags": [
       "frodi carburante"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "32d1b282c0c59ab5",
-    "slug": "il-governo-consegna-1000-euro-alle-famiglie-con-ne-32d1b282c0c59ab5",
-    "title": "Il governo consegna 1000 euro alle famiglie con neonati",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-10T11:52:10.510554+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/10/21/2dafd6fd226c5eccb1ccb784ebd2953d.jpg",
-    "occhiello": "1.000 EURO A CHI HA UN NEONATO DI MENO DI 5 MESI",
-    "lead_preview": "1.000 EURO A CHI HA UN NEONATO DI MENO DI 5 MESI Roma, 10 agosto. Il governo Meloni mette in cassaforte 150 milioni per ",
-    "tags": [],
     "hero_eligible": true
   },
   {
