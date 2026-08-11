@@ -1,5 +1,24 @@
 [
   {
+    "id": "e4ded87923d439b7",
+    "slug": "indagini-in-corso-ma-nessun-nome-cosa-accade-e4ded87923d439b7",
+    "title": "Roma, sequestri di carburante senza cifre: la Procura non risponde",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-08-10T12:06:24.811761+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/c1cdfc4c44e3f3d24a9b8b7e7b271b10.jpg",
+    "occhiello": "GUARDIA DI FINANZA SMASCHERA FRODI NEL CARBURANTE",
+    "lead_preview": "Roma, 10 agosto.",
+    "tags": [
+      "frodi carburante",
+      "guardia di finanza roma",
+      "sequestri roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c76bec8653a539c4",
     "slug": "jovanotti-spende-milioni-per-un-teatro-fantasma-al-c76bec8653a539c4",
     "title": "Jovanotti visita teatro fantasma all'Aquila",
@@ -765,23 +784,6 @@
       "ong tedesche mediterraneo",
       "salvataggio migranti",
       "politica migratoria ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e4ded87923d439b7",
-    "slug": "indagini-in-corso-ma-nessun-nome-cosa-accade-e4ded87923d439b7",
-    "title": "Indagini in corso, ma nessun nome: cosa accade?",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-08-10T12:06:24.811761+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/c1cdfc4c44e3f3d24a9b8b7e7b271b10.jpg",
-    "occhiello": "GUARDIA DI FINANZA SMASCHERA FRODI NEL CARBURANTE",
-    "lead_preview": "Roma, 10 agosto.",
-    "tags": [
-      "frodi carburante"
     ],
     "hero_eligible": true
   },
