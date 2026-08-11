@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 11 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-11T05:45:49.347617+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/88a0e132b38d3bd3dc68d4ac0b1074a9a623e92c/skytg24/it/cronaca/2026/08/11/prime-pagine-quotidiani-oggi-11-agosto/rassegna11agosto.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE DEL MARTEDÌ 11 AGOSTO 2026",
+    "lead_preview": "La prima pagina dei principali quotidiani italiani sono dominate oggi dal caso Ranucci e dal terremoto in Colombia. Il C",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1de2a31fd694eb43",
     "slug": "nuoto-razzetti-conquista-finale-400-misti-1de2a31fd694eb43",
     "title": "Nuoto: Razzetti in finale a Budapest con 4'12\"34, terzo miglior tempo",
@@ -981,25 +1000,6 @@
     "tags": [
       "nazionale calcio",
       "diana bianchedi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 10 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-10T05:51:20.768583+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/bb62e49fd54a2b72e14645d7f9757cb971956e45/skytg24/it/cronaca/2026/08/10/prime-pagine-quotidiani-oggi-10-agosto/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 10 AGOSTO 2026",
-    "lead_preview": "I quotidiani italiani oggi si concentrano su Medio Oriente, migranti e politica interna. La Repubblica, Il Messaggero e ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
