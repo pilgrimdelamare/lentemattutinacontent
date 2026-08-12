@@ -1,5 +1,24 @@
 [
   {
+    "id": "02496aadd5dfabf1",
+    "slug": "tennis-cincinnati-assente-sinner-e-alcaraz-latp-ma-02496aadd5dfabf1",
+    "title": "Tennis: Sinner-Alcaraz fuori da Cincinnati, il torneo perde due stelle",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-12T07:16:43.101360+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2dfc8cb22e7a8476f1981408d97ddb8f22558928/skysport/it/tennis/sinner-montepremi-carriera-atp-tennis/IPA_alcaraz.jpg",
+    "occhiello": "Jannik Sinner e Carlos Alcaraz non parteciperanno al torneo.",
+    "lead_preview": "Cincinnati, 12 agosto.",
+    "tags": [
+      "tennis cincinnati",
+      "assenza sinner",
+      "assenza alcaraz"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e0299625c94c785a",
     "slug": "toyota-alza-i-prezzi-400-euro-per-ogni-auto-a-caus-e0299625c94c785a",
     "title": "Yen crolla a 183,86: Toyota alza i prezzi delle auto del 400 euro a vettura",
@@ -637,25 +656,6 @@
       "fallimento fantic motor",
       "debito 57 milioni",
       "udienza 1 settembre"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "02496aadd5dfabf1",
-    "slug": "tennis-cincinnati-assente-sinner-e-alcaraz-latp-ma-02496aadd5dfabf1",
-    "title": "Tennis: Cincinnati assente Sinner e Alcaraz, l’ATP Masters diventa imprevedibile",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-12T07:16:43.101360+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2dfc8cb22e7a8476f1981408d97ddb8f22558928/skysport/it/tennis/sinner-montepremi-carriera-atp-tennis/IPA_alcaraz.jpg",
-    "occhiello": "Jannik Sinner e Carlos Alcaraz non parteciperanno al torneo.",
-    "lead_preview": "Cincinnati, 12 agosto.",
-    "tags": [
-      "cincinnati masters",
-      "assenza sinner",
-      "assenza alcaraz"
     ],
     "hero_eligible": true
   },
