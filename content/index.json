@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-12T15:20:45.133761+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE IN DOWN",
+    "lead_preview": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "72c868e03277f43e",
     "slug": "nuoto-simona-quadarella-vince-loro-e-annuncia-la-r-72c868e03277f43e",
     "title": "Nuoto: Quadarella oro e sprona: 'Partiti col piede giusto'",
@@ -8155,21 +8174,6 @@
       "evasione fisco",
       "uil denuncia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f1d479fec9265354",
-    "slug": "deschamps-saluta-la-nazionale-dopo-lultimo-mondial-f1d479fec9265354",
-    "title": "Deschamps saluta la nazionale dopo l'ultimo mondiale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-17T17:42:17.025673+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/3c79d2d57413eab08933c05b9525dd0f.jpg",
-    "occhiello": "DESCHAMPS SALUTA LA NAZIONALE DOPO L'ULTIMO MONDIALE",
-    "lead_preview": "Londra, 17 luglio. Didier Deschamps ha annunciato alla vigilia del suo ultimo match da commissario tecnico della Francia",
-    "tags": [],
     "hero_eligible": true
   }
 ]
