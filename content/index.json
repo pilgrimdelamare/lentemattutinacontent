@@ -1,5 +1,24 @@
 [
   {
+    "id": "ae3caefe28165046",
+    "slug": "unicredit-commerzbank-fusione-da-850550-miliardi-l-ae3caefe28165046",
+    "title": "UniCredit-Commerzbank: fusione da 850+550 miliardi, la BCE dà l’ok ma la guerra vera è ora",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-12T15:22:32.735801+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/12/170413168-f16dbabd-d2ab-4272-9185-c4bb5d134f06.jpg",
+    "occhiello": "UNICREDIT SI SMARCHIA DA FRANCOFORTE",
+    "lead_preview": "Milano, 12 agosto 2026. La Banca Centrale Europea ha dato ieri il via libera condizionato alla fusione tra UniCredit e C",
+    "tags": [
+      "fusione unicredit commerzbank",
+      "bce ok fusione",
+      "processo approvazione bancaria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
@@ -8155,24 +8174,6 @@
     "lead_preview": "Santiago, 17 luglio. Tre morti e decine di sfollati a causa di violenti temporali in Cile, nei quali il Presidente Kast ",
     "tags": [
       "temporali cile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9e35c7badb171b74",
-    "slug": "uil-neuvantaggio-fisco-recupero-002-nei-comuni-9e35c7badb171b74",
-    "title": "UIL denuncia: Comuni recuperano solo 0,02% del fisco evaso",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-07-17T09:45:21.877262+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/11/25/7b46aa6f3707c9ee06b388f652cbac8c.jpg",
-    "occhiello": "UIL: NEUVANTAGGIO FISCO RECUPERO 0,02% NEI COMUNI",
-    "lead_preview": "Roma, 17 luglio 2026. La UIL denuncia che i Comuni italiani riescono a recuperare solo lo 0,02% del fisco evaso, un prob",
-    "tags": [
-      "evasione fisco",
-      "uil denuncia"
     ],
     "hero_eligible": true
   }
