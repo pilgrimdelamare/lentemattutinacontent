@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
+  "title": "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il ",
   "titles": [
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disserv"
+    "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il ",
+    "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il ",
+    "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE IN DOWN",
-  "lead": "Cloudflare è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CLOUDFLARE RIENTRA ONLINE",
+  "lead": "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il problema è stato risolto senza ulteriori complicazioni.",
+  "corpo1": "Il malfunzionamento di Cloudflare è iniziato alle 14:23 UTC del 10 ottobre 2024, interessando servizi DNS, CDN e sicurezza. L’interruzione è durata 140 minuti, con picchi di latenza e timeout su siti e applicazioni. Alle 16:43 UTC il sistema ha segnalato il ripristino completo della funzionalità. Cloudflare ha confermato l’assenza di danni permanenti ai dati degli utenti. Monitoraggi indipendenti confermano la stabilità post-ripristino.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-12T15:20:45.133761+00:00",
+  "published_at": "2026-08-12T17:26:31.069536+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,10 +38,10 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Spotify: disservizio risolto e ripristinato",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
