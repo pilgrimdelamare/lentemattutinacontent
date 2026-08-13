@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 12 agosto 2026",
+  "title": "Le prime pagine di oggi, giovedì 13 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 12 agosto 2026",
-    "Le prime pagine di oggi, mercoledì 12 agosto 2026",
-    "Le prime pagine di oggi, mercoledì 12 agosto 2026"
+    "Le prime pagine di oggi, giovedì 13 agosto 2026",
+    "Le prime pagine di oggi, giovedì 13 agosto 2026",
+    "Le prime pagine di oggi, giovedì 13 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE - 12 AGOSTO 2026",
-  "lead": "Tutti i principali quotidiani italiani dedicano la prima pagina al caso Ranucci, con accuse di presunti legami con Lavitola e pressioni politiche sulla Rai. *Il Fatto Quotidiano*, *la Repubblica* e *Il Messaggero* aprono sullo scontro tra opposizione e destra, mentre *Corriere della Sera* e *la Gazzetta dello Sport* mettono in evidenza i successi azzurri agli Europei. Solo *Il Mattino* riserva spazio anche alla cronaca economica.",
-  "corpo1": "Il Fatto Quotidiano* titola sulla \"Offerta Prova 30 giorni\" per Ranucci, Lavitola e Tavares, mentre *la Repubblica* punta sull'\"Assedio a Ranucci\" e la reazione di Salvini, che chiede l'esclusione del giornalista da Report. *Il Messaggero* scrive dell'\"affondo della destra\" contro Ranucci, accusato di legami con Lavitola, e riporta la sua replica: \"Vogliono sospendermi\". *Il Corriere della Sera* dedica la prima pagina ai successi degli azzurri agli Europei, con Martinenghi, Quadarella e Batocletti vincitori di oro. *La Gazzetta dello Sport* segue la stessa linea, sottolineando l'\"Italia di campioni\" nella finale di atletica e nuoto. *Il Mattino* invece si concentra sul mercato del calciomercato, con la Roma vicina a Spence e Morata.",
-  "corpo2": "Diversi quotidiani approfondiscono i dettagli dell'inchiesta su Ranucci, con *Il Messaggero* che evidenzia una \"lunga telefonata notturna\" tra il giornalista e Lavitola dopo la perquisizione. *Il Corriere della Sera* e *la Repubblica* dedicano spazio anche alla questione migratoria, con Spagna e Italia che si accusano reciprocamente. Il tema dominante della giornata resta comunque la vicenda giudiziaria e politica che coinvolge Ranucci.",
+  "occhiello": "LE PRIME PAGINE 13 AGOSTO 2026",
+  "lead": "Tutti i principali quotidiani italiani aprono con la confessione di Giovanni Lavitola sull’attentato a Sigfrido Ranucci, definita in modi diversi ma sempre in evidenza. Mentre *la Repubblica*, *Il Messaggero* e *La Stampa* si concentrano sul caso giudiziario, *Il Secolo XIX* e *Il Resto del Carlino* dedicano spazio all’eclissi solare che ha attraversato l’Europa. *Il Corriere dello Sport* e *Tuttosport* spostano invece l’attenzione sul calciomercato, con Inter, Juventus e Milan protagoniste.",
+  "corpo1": "Il *Corriere della Sera* apre con la confessione di Lavitola: “Io il mandante dell’attentato a Ranucci, volevo fargli aumentare la scorta”. Anche *la Repubblica* dà ampio spazio alla stessa notizia, sottolineando le cinque ore di interrogatorio a Rebibbia e le reazioni dei familiari della vittima. *Il Messaggero* titola invece sull’eclissi solare come fenomeno collettivo che ha affascinato l’Italia, mentre *La Stampa* la definisce “la magia del Sole nero”. Sul fronte sportivo, *Il Corriere dello Sport* e *Tuttosport* aprono con il calciomercato: l’Inter porta a termine l’acquisto di Spence e si muove verso Jones, mentre Frattesi sembra destinato alla Lazio e la Juventus è vicina a Suzuki e Lucumì.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,22 +23,22 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-08-12T06:03:38.470894+00:00",
+  "published_at": "2026-08-13T05:46:24.840132+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/51cbfc9a62ea8da7f4a113f8dc2c85cb664b5441/skytg24/it/cronaca/2026/08/12/prime-pagine-quotidiani-oggi-12-agosto/collage_1.png?im=Resize,width=375",
-    "source": "Ranucci, Lavitola, Tavares",
-    "credit": "Prima pagina — Ranucci, Lavitola, Tavares",
+    "url": "https://tg24.sky.it/assets/images/2e016635bc86886a4a576e2d1517c7c10dd6a239/skytg24/it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto/collage_hero.jpg?im=Resize,width=375",
+    "source": "logo-sky-go",
+    "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/08/12/prime-pagine-quotidiani-oggi-12-agosto",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 12 agosto 2026",
+      "title": "Oroscopo di oggi, giovedì 13 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Il governo rivela: benzina a 1,98 euro al litro, diesel fermo a 2,07",
-      "url": "/economia/benzina-a-1983-euro-il-mimit-registra-calo-dello-0-0dc4e242b4a26f43",
-      "id": "0dc4e242b4a26f43",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/10/deae1c278a1714ae0077255d9ee323bc.jpg",
+      "title": "Peluso: ‘De Caro strumentalizza mio figlio Andrea, operaio mai coinvolto’",
+      "url": "/economia/vertenza-ilva-madre-di-andrea-spara-contro-de-caro-bead90839612c1bd",
+      "id": "bead90839612c1bd",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/243112452a7994b586c1908747e92827.jpg",
       "image_type": "image"
     }
   ],
