@@ -1,5 +1,24 @@
 [
   {
+    "id": "31ce876e24ed7493",
+    "slug": "5000-marinai-allo-stremo-la-uss-abraham-lincoln-pi-31ce876e24ed7493",
+    "title": "USS Abraham Lincoln: 5.000 marinai al limite, 250 giorni in mare senza pause",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-08-12T16:01:38.260226+00:00",
+    "image_type": "image",
+    "image_url": "https://i.guim.co.uk/img/media/56e122503dac04f5e60a5fc9de36923be558c49b/522_415_2109_1687/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09c91f3b9b055bb8cf6b1d056b608ec2",
+    "occhiello": "MARINAI IN GRIGIO SOVRASTANO L'ABRAMO LINCOLN",
+    "lead_preview": "San Diego, 12 agosto. La portaerei USS Abraham Lincoln — 5.000 marinai e marines a bordo, 250 giorni consecutivi in mare",
+    "tags": [
+      "us navy crisi",
+      "portaerei abraham lincoln",
+      "marinai in mare"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e0299625c94c785a",
     "slug": "toyota-alza-i-prezzi-400-euro-per-ogni-auto-a-caus-e0299625c94c785a",
     "title": "Toyota alza i prezzi delle auto: +400 euro a causa dello yen a 183,86",
@@ -633,24 +652,6 @@
       "sec trump",
       "truth social",
       "accesso anteprima"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "31ce876e24ed7493",
-    "slug": "5000-marinai-allo-stremo-la-uss-abraham-lincoln-pi-31ce876e24ed7493",
-    "title": "5000 Marinai allo stremo: la USS Abraham Lincoln piange 250 giorni in mare e allerta suicidi",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-08-12T16:01:38.260226+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/56e122503dac04f5e60a5fc9de36923be558c49b/522_415_2109_1687/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09c91f3b9b055bb8cf6b1d056b608ec2",
-    "occhiello": "MARINAI IN GRIGIO SOVRASTANO L'ABRAMO LINCOLN",
-    "lead_preview": "San Diego, 12 agosto. La portaerei USS Abraham Lincoln — 5.000 marinai e marines a bordo, 250 giorni consecutivi in mare",
-    "tags": [
-      "uss abraham lincoln",
-      "guerra iran"
     ],
     "hero_eligible": true
   },
