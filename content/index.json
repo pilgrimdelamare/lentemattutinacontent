@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 13 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-13T05:46:24.840132+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/2e016635bc86886a4a576e2d1517c7c10dd6a239/skytg24/it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto/collage_hero.jpg?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 13 AGOSTO 2026",
+    "lead_preview": "Tutti i principali quotidiani italiani aprono con la confessione di Giovanni Lavitola sull’attentato a Sigfrido Ranucci,",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bead90839612c1bd",
     "slug": "vertenza-ilva-madre-di-andrea-spara-contro-de-caro-bead90839612c1bd",
     "title": "Peluso: ‘De Caro strumentalizza mio figlio Andrea, operaio mai coinvolto’",
@@ -893,25 +912,6 @@
       "torino rifiuti",
       "new york appalto",
       "farid industrie"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 12 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-12T06:03:38.470894+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/51cbfc9a62ea8da7f4a113f8dc2c85cb664b5441/skytg24/it/cronaca/2026/08/12/prime-pagine-quotidiani-oggi-12-agosto/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE - 12 AGOSTO 2026",
-    "lead_preview": "Tutti i principali quotidiani italiani dedicano la prima pagina al caso Ranucci, con accuse di presunti legami con Lavit",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
