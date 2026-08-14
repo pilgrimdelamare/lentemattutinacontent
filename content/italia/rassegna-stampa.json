@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 13 agosto 2026",
+  "title": "Le prime pagine di oggi, venerdì 14 agosto 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 13 agosto 2026",
-    "Le prime pagine di oggi, giovedì 13 agosto 2026",
-    "Le prime pagine di oggi, giovedì 13 agosto 2026"
+    "Le prime pagine di oggi, venerdì 14 agosto 2026",
+    "Le prime pagine di oggi, venerdì 14 agosto 2026",
+    "Le prime pagine di oggi, venerdì 14 agosto 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 13 AGOSTO 2026",
-  "lead": "Tutti i principali quotidiani italiani aprono con la confessione di Giovanni Lavitola sull’attentato a Sigfrido Ranucci, definita in modi diversi ma sempre in evidenza. Mentre *la Repubblica*, *Il Messaggero* e *La Stampa* si concentrano sul caso giudiziario, *Il Secolo XIX* e *Il Resto del Carlino* dedicano spazio all’eclissi solare che ha attraversato l’Europa. *Il Corriere dello Sport* e *Tuttosport* spostano invece l’attenzione sul calciomercato, con Inter, Juventus e Milan protagoniste.",
-  "corpo1": "Il *Corriere della Sera* apre con la confessione di Lavitola: “Io il mandante dell’attentato a Ranucci, volevo fargli aumentare la scorta”. Anche *la Repubblica* dà ampio spazio alla stessa notizia, sottolineando le cinque ore di interrogatorio a Rebibbia e le reazioni dei familiari della vittima. *Il Messaggero* titola invece sull’eclissi solare come fenomeno collettivo che ha affascinato l’Italia, mentre *La Stampa* la definisce “la magia del Sole nero”. Sul fronte sportivo, *Il Corriere dello Sport* e *Tuttosport* aprono con il calciomercato: l’Inter porta a termine l’acquisto di Spence e si muove verso Jones, mentre Frattesi sembra destinato alla Lazio e la Juventus è vicina a Suzuki e Lucumì.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE 14 AGOSTO 2026",
+  "lead": "I giornali italiani si concentrano oggi sul caso Ranucci e la confessione di Lavitola, che ha dichiarato di essere il mandante dell'attentato al giornalista. La Rai accusa Ranucci di aver danneggiato la sua reputazione aziendale e la raccolta pubblicitaria. Inoltre, i giornali riportano sul record di turisti in Italia e le questioni legate ai migranti e alla crisi del Golfo. La giornata sportiva è trionfale per l'Italia, con le medaglie d'oro di Sara Curtis e Dariya Derkach agli Europei di nuoto.",
+  "corpo1": "La prima pagina del Corriere della Sera è dedicata al caso Ranucci e la confessione di Lavitola, che ha dichiarato di essere il mandante dell'attentato al giornalista. Il pm vuole sentire Ranucci e la Rai accusa il conduttore di aver danneggiato la sua reputazione aziendale e la raccolta pubblicitaria. Il caso è al centro dell'attenzione dei giornali, insieme alla situazione in Cisgiordania e alle accuse statunitensi a Israele. La Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore. Mentre il giornalista sarà ascoltato dagli inquirenti. La Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore.\n\nLa prima pagina di Repubblica è anch'essa dedicata al caso Ranucci e la confessione di Lavitola. Il pm vuole sentire Ranucci e la Rai accusa il conduttore di aver danneggiato la sua reputazione aziendale e la raccolta pubblicitaria. Nel frattempo, la Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore. Mentre il giornalista sarà ascoltato dagli inquirenti. La Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore.\n\nLa prima pagina di La Stampa è dedicata al record di turisti in Italia e le questioni legate ai migranti e alla crisi del Golfo. Il Ministero ha presentato i dati sul record di turisti in Italia, che sono stati spinti soprattutto dalla crisi del Golfo. La crescita maggiore si registra in Piemonte. Intanto, prosegue l'emergenza a Catania per l'attività eruttiva dell'Etna. Spazio anche alla questione migranti, con la tensione tra M e M.\n\nLa prima pagina di Il Sole 24 Ore è dedicata al caso Ranucci e la confessione di Lavitola. Il pm vuole sentire Ranucci e la Rai accusa il conduttore di aver danneggiato la sua reputazione aziendale e la raccolta pubblicitaria. Nel frattempo, la Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore. Mentre il giornalista sarà ascoltato dagli inquirenti. La Rai ha presentato una relazione con 4 punti sulla sospensione del conduttore.\n\nLa prima pagina di La Gazzetta dello Sport è dedicata all'impresa di Sara Curtis e Dariya Derkach agli Europei di nuoto. Sara Curtis conquista l'oro europeo nei 50 dorso e un altro record mondiale. Spazio anche alla questione del mercato bianconero e all'accordo su Lukumi ormai a un passo dalla conclusione.",
+  "corpo2": "Altre prime pagine di rilievo: \"Il Giornale\" titola su \"L'assedio dei colon in Cisgiordania\" e \"Il Foglio\" su \"La tensione a Catania\". Il tema dominante della giornata è il caso Ranucci e la crisi del Golfo.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-08-13T05:46:24.840132+00:00",
+  "published_at": "2026-08-14T06:01:47.690022+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/2e016635bc86886a4a576e2d1517c7c10dd6a239/skytg24/it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto/collage_hero.jpg?im=Resize,width=375",
+    "url": "https://tg24.sky.it/assets/images/bf211eb6b0d4865a19821f979b569a64baa80a94/skytg24/it/cronaca/2026/08/14/prime-pagine-quotidiani-oggi-14-agosto/collage_1.png?im=Resize,width=375",
     "source": "logo-sky-go",
     "credit": "Prima pagina — logo-sky-go",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto",
+  "original_url": "https://tg24.sky.it/cronaca/2026/08/14/prime-pagine-quotidiani-oggi-14-agosto",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 13 agosto 2026",
+      "title": "Oroscopo di oggi, venerdì 14 agosto 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,11 +52,11 @@
       "image_type": "image"
     },
     {
-      "title": "Peluso: ‘De Caro strumentalizza mio figlio Andrea, operaio mai coinvolto’",
-      "url": "/economia/vertenza-ilva-madre-di-andrea-spara-contro-de-caro-bead90839612c1bd",
-      "id": "bead90839612c1bd",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/243112452a7994b586c1908747e92827.jpg",
-      "image_type": "image"
+      "title": "Mercedes domina il box, ferrari in difficoltà",
+      "url": "/sport/f1-kimi-antonelli-domina-russell-in-mercedes-a77d86812bca0163",
+      "id": "a77d86812bca0163",
+      "image_url": "https://sport.sky.it/assets/images/9111f3ece600721d2fd498ddd5d4331afc643fc7/skysport/it/motori/formula-1/video/2026/07/05/f1-gp-silverstone-kimi-antonelli-commento-bobbi-video-1109840/russell_antonelli-ipa.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
