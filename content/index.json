@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-14T02:50:26.561763+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE IN DOWN",
+    "lead_preview": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "e42191e71fd0a0a5",
     "slug": "nuoto-ceccon-in-semifinale-con-2432-record-italian-e42191e71fd0a0a5",
     "title": "Ceccon sorprende nel 50 dorso",
@@ -8188,24 +8207,5 @@
     "lead_preview": "Torino, 17 luglio. La Juventus sta trattando la cessione di Nico Gonzalez all'Atletico Madrid e di Juan Cabal al Besikta",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 26 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-18T22:30:33.652893+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 26 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
