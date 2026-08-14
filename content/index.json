@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 14 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-14T06:01:47.690022+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/bf211eb6b0d4865a19821f979b569a64baa80a94/skytg24/it/cronaca/2026/08/14/prime-pagine-quotidiani-oggi-14-agosto/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 14 AGOSTO 2026",
+    "lead_preview": "I giornali italiani si concentrano oggi sul caso Ranucci e la confessione di Lavitola, che ha dichiarato di essere il ma",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, venerdì 14 agosto 2026",
@@ -516,25 +535,6 @@
     "occhiello": "DEPRESSIONE A BORDO DELLA LINCOLN",
     "lead_preview": "Washington, 13 agosto. Numerosi marinai della Portaerei nucleare Abraham Lincoln avrebbero tentato il suicidio gettandos",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 13 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-13T05:46:24.840132+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/2e016635bc86886a4a576e2d1517c7c10dd6a239/skytg24/it/cronaca/2026/08/13/prime-pagine-quotidiani-oggi-13-agosto/collage_hero.jpg?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 13 AGOSTO 2026",
-    "lead_preview": "Tutti i principali quotidiani italiani aprono con la confessione di Giovanni Lavitola sull’attentato a Sigfrido Ranucci,",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
