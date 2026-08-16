@@ -1,5 +1,24 @@
 [
   {
+    "id": "4ab91b576d887856",
+    "slug": "pioggia-interrompe-match-cincinnati-4ab91b576d887856",
+    "title": "Pioggia interrompe match cincinnati",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-15T16:52:18.686961+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/e7d10d59139173574d3fdb175c2dc6a9.jpg",
+    "occhiello": "PIOGGIA INTERROMPE MATCH CINCINNATI",
+    "lead_preview": "Cincinnati, 15 agosto.",
+    "tags": [
+      "cincinnati",
+      "alluvione",
+      "calcio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e82051f170edf5c7",
     "slug": "cobolli-valuta-la-sua-prestazione-a-cincinnati-e82051f170edf5c7",
     "title": "Tennis: Flavio Cobolli dichiara: \"Grande Prova\" contro Kecmanovic",
@@ -195,21 +214,6 @@
       "formula 1",
       "kimi antonelli"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4ab91b576d887856",
-    "slug": "pioggia-interrompe-match-cincinnati-4ab91b576d887856",
-    "title": "Pioggia interrompe match cincinnati",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-15T16:52:18.686961+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/8/e7d10d59139173574d3fdb175c2dc6a9.jpg",
-    "occhiello": "PIOGGIA INTERROMPE MATCH CINCINNATI",
-    "lead_preview": "Cincinnati, 15 agosto.",
-    "tags": [],
     "hero_eligible": true
   },
   {
