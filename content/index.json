@@ -1,5 +1,20 @@
 [
   {
+    "id": "094ce58d56292311",
+    "slug": "cincinnati-un-passaggio-che-vale-a-caro-prezzo-094ce58d56292311",
+    "title": "Cincinnati, un passaggio che vale a caro prezzo",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-17T17:56:01.307190+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/6/3c41b2cebeb30f4c5935dacf8b60e91d.jpg",
+    "occhiello": "CINCINNATI, UN PASSAGGIO CHE VALE A CARO PREZZO",
+    "lead_preview": "Cincinnati, 17 agosto 2026. Flavio Cobolli ha strappato il pass per gli ottavi di finale del Masters 1000, superando il ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
@@ -8197,21 +8212,6 @@
       "zaniolo udinese",
       "adeguamento ingaggio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "09fdd4a0daf0c1f6",
-    "slug": "tennis-darderi-affronta-rublev-09fdd4a0daf0c1f6",
-    "title": "Rublev sfida darderi a bastad",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-07-19T06:35:02.390263+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/b3006d30902e5257abff8ab9682da66744403413/skysport/it/tennis/2026/07/18/darderi-vallejo-atp-bastad-risultato/darderi_ansa_2.jpg",
-    "occhiello": "RUBLEV SFIDA DARDERI A BASTAD",
-    "lead_preview": "Il 19 luglio a Bastad, Luciano Darderi, campione uscente del torneo svedese, se la vedrà in finale contro Andrey Rublev,",
-    "tags": [],
     "hero_eligible": true
   }
 ]
