@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 17 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-17T05:47:50.918531+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/82b5281b3c6313c52abf18c79082098f0b4c8ef5/skytg24/it/cronaca/2026/08/17/prime-pagine-quotidiani-oggi-17-agosto/collage_1.png?im=Resize,width=375",
+    "occhiello": "LE PRIME PAGINE 17 AGOSTO",
+    "lead_preview": "I giornali di oggi convergono su vari argomenti, tra cui gli Europei di atletica e nuoto, l'attacco ucraino a Mosca e l'",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, lunedì 17 agosto 2026",
@@ -510,25 +529,6 @@
     "occhiello": "QUASI IL 4% SUL DEBITO PUBBLICO ITALIANO",
     "lead_preview": "Roma, 13 agosto. Il rendimento dei titoli di Stato italiani, i BTP, si attesta al 3,93%, mentre quello dei Bund tedeschi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 14 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-14T06:01:47.690022+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/bf211eb6b0d4865a19821f979b569a64baa80a94/skytg24/it/cronaca/2026/08/14/prime-pagine-quotidiani-oggi-14-agosto/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 14 AGOSTO 2026",
-    "lead_preview": "I giornali italiani si concentrano oggi sul caso Ranucci e la confessione di Lavitola, che ha dichiarato di essere il ma",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
