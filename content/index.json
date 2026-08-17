@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-17T14:55:54.337044+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "68023f4a66a07577",
     "slug": "efficienza-tattica-e-conti-il-lens-smentisce-il-do-68023f4a66a07577",
     "title": "Efficienza tattica e conti: il lens smentisce il dominio economico del psg",
@@ -3691,25 +3710,6 @@
     "lead_preview": "Roma, 7 agosto. L’intelligence degli Stati Uniti ha ricalibrato la valutazione sul rischio di un attacco limitato da par",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 453 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-07T00:11:06.429123+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SISTEMA RIATTIVATO",
-    "lead_preview": "GitHub è tornato online dopo 453 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "5cc51af03335c335",
