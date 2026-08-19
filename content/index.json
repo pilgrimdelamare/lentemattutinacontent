@@ -1,5 +1,20 @@
 [
   {
+    "id": "e8acf9800329ee4f",
+    "slug": "nakashima-sorprende-medvedev-nel-masters-1000-e8acf9800329ee4f",
+    "title": "Nakashima sorprende medvedev nel masters 1000",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-19T07:46:45.395036+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/14/7d08365759d9656546f5e568b505d80d.jpg",
+    "occhiello": "NAKASHIMA SORPRENDE MEDVEDEV NEL MASTERS 1000",
+    "lead_preview": "Cincinnati, 19 agosto. Brandon Nakashima, numero 22 del mondo, ha eliminato il russo Daniil Medvedev, settima testa di S",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a2378a011866bed5",
     "slug": "36-gol-in-bundesliga-kane-vince-la-scarpa-doro-a2378a011866bed5",
     "title": "36 gol in bundesliga: kane vince la scarpa d'oro",
@@ -101,21 +116,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/11/25/b2950ad85f13af0ae0898168d6334327.jpg",
     "occhiello": "OCEANIA IN ITALIA: 19 MILLE PROIEZIONI IN IMAX",
     "lead_preview": "Milano, 19 agosto. Il Film Disney Oceania, live action, arriva in Italia in 19 sale con 952 proiezioni IMAX, 14 EPIC, 10",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e8acf9800329ee4f",
-    "slug": "nakashima-sorprende-medvedev-nel-masters-1000-e8acf9800329ee4f",
-    "title": "Nakashima sorprende medvedev nel masters 1000",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-19T07:46:45.395036+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/14/7d08365759d9656546f5e568b505d80d.jpg",
-    "occhiello": "NAKASHIMA SORPRENDE MEDVEDEV NEL MASTERS 1000",
-    "lead_preview": "Cincinnati, 19 agosto. Brandon Nakashima, numero 22 del mondo, ha eliminato il russo Daniil Medvedev, settima testa di S",
     "tags": [],
     "hero_eligible": true
   },
