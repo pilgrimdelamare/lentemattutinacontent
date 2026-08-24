@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 24 agosto 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-08-24T04:27:08.053962+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 24 AGOSTO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1483264b9e2090a1",
     "slug": "shein-punta-a-23-miliardi-di-euro-1483264b9e2090a1",
     "title": "Shein punta a 23 miliardi di euro",
@@ -421,26 +441,6 @@
     "lead_preview": "Ljubljana, 21 agosto. Luka Dončić ha riunito i Los Angeles Lakers nella sua Slovenia per un ritiro pre-stagionale di qua",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, venerdì 21 agosto 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-08-21T04:21:23.945507+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — VENERDÌ 21 AGOSTO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d6431d840fdff252",
