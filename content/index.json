@@ -1,5 +1,24 @@
 [
   {
+    "id": "737b0182a8e574b1",
+    "slug": "ue-61-miliardi-per-armi-allucraina-bruxelles-sbors-737b0182a8e574b1",
+    "title": "UE: 6,1 miliardi per armi all'Ucraina, Bruxelles sborsa ancora",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-08-24T07:05:57.868005+00:00",
+    "image_type": "image",
+    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDgvMjQvMDYzNTI2MzU2LTg1YzI3M2E0LTA3MGMtNGViYS1hMzMyLTY0OTUzODY2OTQ2MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
+    "occhiello": "UE SBLOCCA 6,1 MILIARDI PER DIFESA UCRAINA",
+    "lead_preview": "Bruxelles, 24 agosto. La Commissione Europea ha approvato un pacchetto di 6,1 miliardi di euro destinato a nuovi approvv",
+    "tags": [
+      "ue ucraina",
+      "aiuti militari",
+      "difesa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d53f7243b70c1dfb",
     "slug": "conte-sfida-il-campo-largo-arma-o-pace-la-scelta-d-d53f7243b70c1dfb",
     "title": "Conte sfida il campo largo: arma o pace, la scelta divide",
@@ -8182,24 +8201,5 @@
     "lead_preview": "Gaza, 20 luglio 2026. L'Organizzazione palestinese Hamas ha nominato Khalil al Hayya come nuovo Leader politico, dopo l'",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-07-21T12:42:04.009873+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
