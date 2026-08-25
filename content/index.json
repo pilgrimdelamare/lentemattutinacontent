@@ -1,20 +1,5 @@
 [
   {
-    "id": "6ef90b18a4ebd441",
-    "slug": "milano-apre-incerta-inwit-e-mps-in-controtendenza-6ef90b18a4ebd441",
-    "title": "Milano apre incerta, inwit e mps in controtendenza",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-08-24T07:23:04.586339+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2012/7/24/0c1232513f9b72f3804eaa04e0b8896c.jpg",
-    "occhiello": "MILANO APRE INCERTA, INWIT E MPS IN CONTROTENDENZA",
-    "lead_preview": "Milano, 24 agosto. La Borsa di Milano apre la seduta odierna con il principale Indice Ftse Mib in lieve flessione dello ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "41ea6f3ff67f774b",
     "slug": "nucleare-italia-punta-al-ritorno-decreti-entro-lan-41ea6f3ff67f774b",
     "title": "Nucleare, il conto arriverà ai nipoti senza preventivo",
@@ -26,6 +11,21 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/24/003d95d0781c0e1c5ecb8da51c0db0fc.jpg",
     "occhiello": "NUCLEARE, IL CONTO ARRIVERÀ AI NIPOTI SENZA PREVENTIVO",
     "lead_preview": "Rimini, 24 agosto. il ministro dell'Ambiente e della Sicurezza energetica, Gilberto Pichetto Fratin, ha annunciato che e",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "6ef90b18a4ebd441",
+    "slug": "milano-apre-incerta-inwit-e-mps-in-controtendenza-6ef90b18a4ebd441",
+    "title": "Milano apre incerta, inwit e mps in controtendenza",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-24T07:23:04.586339+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2012/7/24/0c1232513f9b72f3804eaa04e0b8896c.jpg",
+    "occhiello": "MILANO APRE INCERTA, INWIT E MPS IN CONTROTENDENZA",
+    "lead_preview": "Milano, 24 agosto. La Borsa di Milano apre la seduta odierna con il principale Indice Ftse Mib in lieve flessione dello ",
     "tags": [],
     "hero_eligible": true
   },
