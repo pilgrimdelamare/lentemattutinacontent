@@ -1,5 +1,20 @@
 [
   {
+    "id": "db62036e6122b53e",
+    "slug": "arrivo-di-jayden-oosterwolde-a-roma-db62036e6122b53e",
+    "title": "Arrivo di jayden oosterwolde a roma",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-08-25T10:35:00.012573+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/8d3f6d1f8162c46f2fccc5f3b23fd6db.jpg",
+    "occhiello": "ARRIVO DI JAYDEN OOSTERWOLDE A ROMA",
+    "lead_preview": "Ciampino, 25 agosto. Il difensore olandese Jayden Oosterwolde è atterrato all'aeroporto di Ciampino per unirsi alla squa",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8cb2b4ffbc0b2f2e",
     "slug": "il-sassuolo-muove-il-mercato-tra-entrate-e-cession-8cb2b4ffbc0b2f2e",
     "title": "Il sassuolo muove il mercato tra entrate e cessioni",
@@ -8154,25 +8169,6 @@
     "occhiello": "DUE VITTIME COLPI DI PISTOLA NELL'HINTERLAND DI CAGLIARI",
     "lead_preview": "Quartucciu, 23 luglio. Un uomo e una donna sono morti dopo essere stati raggiunti da colpi d'arma da fuoco all'alba di o",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3eae2f4036ef5370",
-    "slug": "tennis-jannik-sinner-guida-litalia-agli-us-open-di-3eae2f4036ef5370",
-    "title": "Tennis: Sinner da numero 4 a New York, Alcaraz il rivale!",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-07-22T08:29:04.346138+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/12/af5a582403608e49ead894bcf187d8a0.jpg",
-    "occhiello": "SINNER GUIDA OTTO AZZURRI AGLI US OPEN",
-    "lead_preview": "New York, 30 agosto. Jannik Sinner conduce la delegazione azzurra agli Us Open, ultimo slam dell'anno, dove in tabellone",
-    "tags": [
-      "sinner us open",
-      "alcaraz tennis",
-      "tennis slam"
-    ],
     "hero_eligible": true
   }
 ]
