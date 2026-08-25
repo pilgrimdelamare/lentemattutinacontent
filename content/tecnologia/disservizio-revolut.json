@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Revolut è tornato online dopo 48 minuti di interruzione.",
   "titles": [
-    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi"
+    "Revolut è tornato online dopo 48 minuti di interruzione.",
+    "Revolut è tornato online dopo 48 minuti di interruzione.",
+    "Revolut è tornato online dopo 48 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT IN DOWN",
-  "lead": "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Revolut risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "REVOLUT RIPRISTINATO",
+  "lead": "Revolut è tornato online dopo 48 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 48 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-25T04:52:43.721670+00:00",
+  "published_at": "2026-08-25T05:23:05.855698+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
       "title": "GitHub è tornato online dopo 403 minuti di interruzione.",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
