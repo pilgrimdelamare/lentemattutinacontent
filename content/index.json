@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-26T12:04:32.822755+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY IN DOWN",
+    "lead_preview": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8ac23028682fb6ed",
     "slug": "carlo-ezpeleta-nuovo-presidente-di-motogp-dopo-la-8ac23028682fb6ed",
     "title": "MotoGP: Carlos Ezpeleta alla guida del MotoGP",
@@ -8103,21 +8122,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/28/88cea99afc5dca562f910e82d64bb92b.jpg",
     "occhiello": "INFLAZIONE SPAGNA: RINCARI AUMENTANO, DUBBI SU DATI",
     "lead_preview": "Madrid, 30 luglio. L'ufficio nazionale di statistica spagnolo (INE) ha comunicato un'accelerazione dell'inflazione al 3,",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b28321b7d06a24fc",
-    "slug": "soluzioni-finanziarie-per-spa-silenzio-sui-salari-b28321b7d06a24fc",
-    "title": "Soluzioni finanziarie per s.p.a., silenzio sui salari",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-07-30T07:13:23.439415+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/07/30/Immagini/Ritagli/AdobeStock_1440326890-U70204081312wbw-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "SOLUZIONI FINANZIARIE PER S.P.A., SILENZIO SUI SALARI",
-    "lead_preview": "Roma, 30 luglio 2026. Confindustria Toscana Centro e Costa, che riunisce le associazioni di Firenze, Livorno e Massa-Car",
     "tags": [],
     "hero_eligible": true
   }
