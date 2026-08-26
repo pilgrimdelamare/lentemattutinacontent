@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260826",
+    "slug": "libro-del-giorno-il-morso-del-varanodi-william-bavone-20260826",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-08-26T07:01:26.856489+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81tgca11e7l__sl1500_-07027.jpg?1787727607",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo classico ambientato a Bologna, che segna l'esordio di una nuova saga investigativa",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "76125eed430bed39",
     "slug": "waverinka-e-le-sorelle-williams-allus-open-76125eed430bed39",
     "title": "Waverinka e le sorelle williams all'us open",
@@ -2242,25 +2257,6 @@
     "lead_preview": "Sassuolo, 25 agosto 2026. Il Sassuolo spinge sul mercato estivo per definire lo scambio di prestiti con il Cagliari che ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260826",
-    "slug": "libro-del-giorno-il-morso-del-varanodi-william-bavone-20260826",
-    "title": "Il libro del giorno: «Il morso del varanodi William Bavone»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un giallo classico ambientato a Bologna, che segna l'esordio di una nuova saga investigativa",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-08-26T07:01:26.856489+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81tgca11e7l__sl1500_-07027.jpg?1787727607",
-      "alt": "Copertina: Il morso del varanodi William Bavone",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81tgca11e7l__sl1500_-07027.jpg?1787727607",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "6d097fc5974d3487",
