@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 26 agosto 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-08-26T05:51:12.281041+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/37229638ee108f1afb0e356ecee17d861dee0f80/skytg24/it/cronaca/2026/08/26/prime-pagine-quotidiani-oggi-26-agosto/1_Corriere.jpg",
+    "occhiello": "`: ALL CAPS, MAX 6 WORDS, START WITH \"LE PRIME PAGINE\" + DATE/THEME.\n        *   ``: MAX 80 WORDS, SINGLE PARAGRAPH, NEUTRAL CONVERGENCE/DIVERGENCE OF PAPERS.\n        *   ``: 100-130 WORDS, CONTINUOUS PROSE (NOT A LIST), NEWSPAPER BY NEWSPAPER, OPENING HEADLINES.\n        *   ``: 60-80 WORDS, OTHER RELEVANT HEADLINES, CLOSING SENTENCE ON DOMINANT THEME.\nNO MARKDOWN (NO BOLD, NO ITALICS, NO ASTERISKS), CORRECT ITALIAN, ZERO OPINIONS.\n\n    *   *CORRIERE DELLA SERA*: CIA MISSION TO MOSCOW.\n    *   *LA REPUBBLICA*: FUEL PRICES (\"BENZINA SENZA FRENI\"), CIA TO MOSCOW, ITALIAN WEAPONS TO KYIV.\n    *   *LA STAMPA*: TRUMP-PUTIN SECRET NEGOTIATION (DISENGAGEMENT FROM KYIV FOR IRAN SUPPORT), DIESEL PRICES (3 EURO PEAK), CDM ON EXCISE CUTS.\n    *   *IL MESSAGGERO*: DIESEL PRICES (\"GASOLIO ALLE STELLE\"), CIA TO MOSCOW, CHINA VS TRUMP ON IRAN.\n    *   *LA GAZZETTA DELLO SPORT*: INTER VS ROMA (SERIE A), COMO ON KEAN, JUVENTUS.\n    *   *CORRIERE DELLO SPORT*: JUVENTUS TRANSFER MARKET (SORLOH, ZIRKZEE, KESSIE), YILDIZ INJURY, GASPERINI ON DYBALA.\n\n    *   *CONVERGENCE:* FUEL PRICES (SPECIFICALLY DIESEL/GASOLINE) AND THE CIA MISSION TO MOSCOW (UKRAINE/RUSSIA CONFLICT).\n    *   *DIVERGENCE:* SPORTS PAPERS (INTER, ROMA, JUVENTUS).\n\n    *   ``: LE PRIME PAGINE DEL 26 AGOSTO\n    *   ``: I PRINCIPALI QUOTIDIANI SI CONCENTRANO OGGI SUL RINCARO DEI CARBURANTI E SUGLI SVILUPPI DELLA GUERRA IN UCRAINA, CON PARTICOLARE ATTENZIONE ALLA MISSIONE DEL CAPO DELLA CIA A MOSCA. CORRIERE DELLA SERA, LA REPUBBLICA, LA STAMPA E IL MESSAGGERO DEDICANO SPAZIO A QUESTI TEMI. LA GAZZETTA DELLO SPORT E IL CORRIERE DELLO SPORT SI OCCUPANO INVECE DI CALCIO, TRA L'ANALISI DEL CAMPIONATO E LE ULTIME OPERAZIONI DI MERCATO.\n    *   ``: IL CORRIERE DELLA SERA RIPORTA LA MISSIONE DEL CAPO DELLA CIA A MOSCA. LA REPUBBLICA TITOLA SUL RINCARO DELLA BENZINA E SUGLI SCONTI PREVISTI PER I PROSSIMI WEEKEND, CITANDO LA MISSIONE DELLA CIA E L'INVIO DI ARMI ITALIANE A KIEV. LA STAMPA PARLA DI UNA TRATTATIVA SEGRETA TRA TRUMP E PUTIN SUL DISIMPEGNO A KIEV IN CAMBIO DI APPOGGIO CONTRO L'IRAN, RIPORTANDO INOLTRE IL PICCO DEL DIESEL A 3 EURO. IL MESSAGGERO SI APRE CON IL COSTO DEL GASOLIO IN AUTOSTRADA E I NUOVI MINI-SCONTI, MENZIONANDO IL BLITZ DELLA CIA A MOSCA E LE TENSIONI TRA CINA E TRUMP PER LE SANZIONI ALL'IRAN.\n    *   ``: IN ALTRE SEZIONI DELLE PRIME PAGINE, LA STAMPA PUBBLICA UN REPORTAGE DALLA SASSONIA. LA GAZZETTA DELLO SPORT ANALIZZA IL DUELLO TRA INTER E ROMA E L'INTERESSE DEL COMO PER KEAN. IL CORRIERE DELLO SPORT SEGUE LE TRATTATIVE DELLA JUVENTUS PER UN ATTACCANTE E L'INFORTUNIO DI YILDIZ. I TEMI DOMINANTI DELLA GIORNATA SONO L'ECONOMIA DEI CARBURANTI E LA DIPLOMAZIA INTERNAZIONALE.\n\n    *   NO MARKDOWN? YES.\n    *   NO BOLD/ITALICS? YES.\n    *   NO EDITORIAL COMMENTS? YES.\n    *   CORRECT TAGS? YES.\n    *   WORD COUNTS:\n        *   LEAD: ~55 WORDS (LIMIT 80). OK.\n        *   CORPO1: ~115 WORDS (LIMIT 100-130). OK.\n        *   CORPO2: ~65 WORDS (LIMIT 60-80). OK.\n    *   CORRECT DATE: WEDNESDAY, AUGUST 26, 2026.LE PRIME PAGINE DEL 26 AGOSTO",
+    "lead_preview": "`: Max 80 words, single paragraph, neutral convergence/divergence of papers.\n        *   ``: 100-130 words, continuous p",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0eba67c5b0d676fb",
     "slug": "il-premier-britannico-a-kyiv-per-i-trentacinque-an-0eba67c5b0d676fb",
     "title": "Il premier britannico a kyiv per i trentacinque anni d'indipendenza",
@@ -2979,25 +2998,6 @@
     "occhiello": "TAIWAN BLINDA LE SUE ROTTE COMMERCIALI",
     "lead_preview": "Taipei, 17 agosto. Il governo di Taiwan ha annunciato un bilancio per la difesa che nel 2027 raggiungerà la cifra record",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 17 agosto 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-08-17T05:47:50.918531+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/82b5281b3c6313c52abf18c79082098f0b4c8ef5/skytg24/it/cronaca/2026/08/17/prime-pagine-quotidiani-oggi-17-agosto/collage_1.png?im=Resize,width=375",
-    "occhiello": "LE PRIME PAGINE 17 AGOSTO",
-    "lead_preview": "I giornali di oggi convergono su vari argomenti, tra cui gli Europei di atletica e nuoto, l'attacco ucraino a Mosca e l'",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
