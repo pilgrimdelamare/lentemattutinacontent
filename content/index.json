@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-26T12:19:51.683354+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY RIPRISTINATO",
+    "lead_preview": "Spotify è tornato online dopo 30 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "75a3cd55ab365184",
     "slug": "esposto-alla-consob-dopo-lofferta-di-acquisto-75a3cd55ab365184",
     "title": "Esposto alla consob dopo l'offerta di acquisto",
@@ -88,25 +107,6 @@
     "lead_preview": "Roma, 26 agosto 2026. Mentre il governo Meloni ha annunciato l'invio di generatori di corrente all'Ucraina, la reale int",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-26T12:04:32.822755+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY IN DOWN",
-    "lead_preview": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "8ac23028682fb6ed",
