@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 161 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-26T17:57:31.360184+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 161 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "cd3991945311ebe3",
     "slug": "il-caro-carburanti-colpisce-i-tavoli-cd3991945311ebe3",
     "title": "Il caro-carburanti colpisce i tavoli",
@@ -486,25 +505,6 @@
     "lead_preview": "Roma, 25 agosto 2026. Dal primo ottobre il canale 57 del digitale terrestre vedrà la chiusura definitiva di RAI Scuola, ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-26T15:31:31.822164+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "3cbc7e4f64506dcc",
