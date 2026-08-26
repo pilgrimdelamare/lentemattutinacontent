@@ -1,5 +1,20 @@
 [
   {
+    "id": "2e6870324aea8490",
+    "slug": "rimini-la-munchner-philharmoniker-inaugura-la-sagr-2e6870324aea8490",
+    "title": "Rimini, la munchner philharmoniker inaugura la sagra",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-25T12:56:57.099061+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/87c604056704c04ffaba7514955e2738.jpg",
+    "occhiello": "RIMINI, LA MUNCHNER PHILHARMONIKER INAUGURA LA SAGRA",
+    "lead_preview": "Rimini, 25 agosto 2026. La Munchner Philharmoniker inaugura la Sagra Musicale Malatestiana al Teatro Galli, diretta da L",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "307ee339a84385cf",
     "slug": "bari-entro-dicembre-il-completamento-del-parco-arc-307ee339a84385cf",
     "title": "Bari, entro dicembre il completamento del parco archeologico",
@@ -1418,21 +1433,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/ad9cd5192b61da8811de717c1bf7000d.jpg",
     "occhiello": "VENEZIA OSPITA LA PRIMA FINZIONE SUL VALORE DEI DATI DIGITALI",
     "lead_preview": "Venezia, 25 agosto 2026. L'anteprima della prima fiction dedicata al valore dei dati digitali debutta nella laguna venet",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2e6870324aea8490",
-    "slug": "rimini-la-munchner-philharmoniker-inaugura-la-sagr-2e6870324aea8490",
-    "title": "Rimini, la munchner philharmoniker inaugura la sagra",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-08-25T12:56:57.099061+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/87c604056704c04ffaba7514955e2738.jpg",
-    "occhiello": "RIMINI, LA MUNCHNER PHILHARMONIKER INAUGURA LA SAGRA",
-    "lead_preview": "Rimini, 25 agosto 2026. La Munchner Philharmoniker inaugura la Sagra Musicale Malatestiana al Teatro Galli, diretta da L",
     "tags": [],
     "hero_eligible": true
   },
