@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260826",
+    "slug": "libro-del-giorno-il-morso-del-varanodi-william-bavone-20260826",
+    "title": "Il libro del giorno: «Il morso del varanodi William Bavone»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un giallo classico ambientato a Bologna, che segna l'esordio di una nuova saga investigativa",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-26T07:01:26.856489+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81tgca11e7l__sl1500_-07027.jpg?1787727607",
+      "alt": "Copertina: Il morso del varanodi William Bavone",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81tgca11e7l__sl1500_-07027.jpg?1787727607",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "3935802c97282606",
     "slug": "lammareggiamento-nazionale-nuovi-dati-sulle-sussis-3935802c97282606",
     "title": "L'Ammareggiamento nazionale: nuovi dati sulle sussistenze umanoide in Italia",
@@ -8120,21 +8139,6 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829721238_0_0_424_0_75-d8a9b.jpg?1775853692",
     "occhiello": "Il libro del giorno",
     "lead_preview": "un thriller che intreccia mistero e storia, ambientato nella Danimarca del secondo dopoguerra",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "88d47a78e81b81c5",
-    "slug": "iran-riceve-400-lancia-missili-anti-aerei-cinesi-88d47a78e81b81c5",
-    "title": "Iran riceve 400 lancia-missili anti-aerei cinesi",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-07-29T06:24:39.720539+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/8886f5547f04d195afe85a8f7f7ea346.jpg",
-    "occhiello": "IRAN RICEVE 400 LANCIA-MISSILI ANTI-AEREI CINESI",
-    "lead_preview": "Roma, 29 luglio. Secondo Reuters, l'Iran sta per ricevere un consistente carico di 400 lanciamissili antiaerei prodotti ",
     "tags": [],
     "hero_eligible": true
   }
