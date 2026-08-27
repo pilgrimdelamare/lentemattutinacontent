@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 161 minuti di interruzione.",
+  "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
   "titles": [
-    "GitHub è tornato online dopo 161 minuti di interruzione.",
-    "GitHub è tornato online dopo 161 minuti di interruzione.",
-    "GitHub è tornato online dopo 161 minuti di interruzione."
+    "GitHub è tornato online dopo 116 minuti di interruzione.",
+    "GitHub è tornato online dopo 116 minuti di interruzione.",
+    "GitHub è tornato online dopo 116 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 161 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 161 minuti. Il servizio risulta ora pienamente operativo.",
+  "lead": "GitHub è tornato online dopo 116 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 116 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-26T17:57:31.360184+00:00",
+  "published_at": "2026-08-27T12:04:26.291844+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
