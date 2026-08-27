@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260827",
+    "slug": "libro-del-giorno-il-diario-lilithdi-grazia-giordano-20260827",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-27T07:00:42.427509+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9791282304078_0_0_424_0_75-20364.jpg?1787749990",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un memoriale dell'anima e un manifesto sull'autodeterminazione femminile che riscrive il mito di Lilith.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "13e1fd2b224e6902",
     "slug": "flavio-cobolli-e-belinda-bencic-sconfitti-in-final-13e1fd2b224e6902",
     "title": "Tennis: Cobolli e Bencic vinsero fino ad oggi",
@@ -2201,25 +2216,6 @@
     "lead_preview": "Milano, 26 agosto 2026. L'emittente televisiva Sky Sport ha confermato la programmazione integrale per la trasmissione i",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260827",
-    "slug": "libro-del-giorno-il-diario-lilithdi-grazia-giordano-20260827",
-    "title": "Il libro del giorno: «Il diario»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "Un memoriale dell'anima e un manifesto sull'autodeterminazione femminile che riscrive il mito di Lilith.",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-08-27T07:00:42.427509+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9791282304078_0_0_424_0_75-20364.jpg?1787749990",
-      "alt": "Copertina: Il diario",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9791282304078_0_0_424_0_75-20364.jpg?1787749990",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "7cb6d1ce14c2672a",
