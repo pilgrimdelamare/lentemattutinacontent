@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, giovedì 27 agosto 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-08-27T04:02:32.165099+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — GIOVEDÌ 27 AGOSTO 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "4fe6e0cfe58efbc7",
     "slug": "blocco-navale-e-sanzioni-al-posto-dei-missili-cont-4fe6e0cfe58efbc7",
     "title": "Blocco navale e sanzioni al posto dei missili contro teheran",
@@ -2741,26 +2761,6 @@
     "lead_preview": "Roma, 25 agosto. Kyrylo Budanov, capo di gabinetto del Presidente ucraino Volodymyr Zelensky e già numero uno dell'Intel",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, mercoledì 26 agosto 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-08-26T04:09:09.207979+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — MERCOLEDÌ 26 AGOSTO 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "47058546be93ffdf",
