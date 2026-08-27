@@ -1,5 +1,20 @@
 [
   {
+    "id": "6e280e0bc7eeff19",
+    "slug": "goethe-a-roma-tra-visita-guidata-e-brindisi-6e280e0bc7eeff19",
+    "title": "Goethe a roma tra visita guidata e brindisi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-08-27T17:04:04.111753+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/739ec3bcbd1033646a282e4cfd967da2.jpg",
+    "occhiello": "GOETHE A ROMA TRA VISITA GUIDATA E BRINDISI",
+    "lead_preview": "Roma, 27 agosto. La Casa di Goethe celebra la ricorrenza dei 277 anni dalla nascita dello scrittore tedesco attraverso u",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8a3d0537d3932ee3",
     "slug": "il-portale-ansa-bloccato-dai-cookie-mentre-la-part-8a3d0537d3932ee3",
     "title": "Il portale ansa bloccato dai cookie mentre la partita è online",
@@ -7903,25 +7918,6 @@
       "zelensky ucraina",
       "conflitto russo-ucraino",
       "cessate il fuoco fallito"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f834e911451da4d1",
-    "slug": "ciclismo-addio-al-sergente-di-ferro-ferretti-muore-f834e911451da4d1",
-    "title": "Ciclismo: Muore Giancarlo Ferretti, l'allenatore che ha scritto la storia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-09T22:12:44.094952+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/744c2f0d1a740d58d20f3affb13e5dd9553e709d/skysport/it/ciclismo/2026/08/09/giancarlo-ferretti-morto/getty_ferretti.jpg",
-    "occhiello": "SCOMPARE UN PILASTRO DEL CICLISMO: LA DISCIPLINA COME MODELLO",
-    "lead_preview": "Roma, 9 agosto. Giancarlo Ferretti, figura iconica del Ciclismo italiano noto come il \"Sergente di ferro\" per la sua rig",
-    "tags": [
-      "ciclismo ferretti",
-      "allenatore ferretti",
-      "ciclismo storico"
     ],
     "hero_eligible": true
   }
