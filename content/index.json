@@ -1,5 +1,20 @@
 [
   {
+    "id": "6cf6a60a23539006",
+    "slug": "il-titolo-sul-sito-ansa-che-diventa-un-caso-editor-6cf6a60a23539006",
+    "title": "Il titolo sul sito ansa che diventa un caso editoriale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-08-27T13:21:39.254206+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/63c4d9077e5c54ca2e41b3a7c29b2949.jpg",
+    "occhiello": "IL TITOLO SUL SITO ANSA CHE DIVENTA UN CASO EDITORIALE",
+    "lead_preview": "Roma, 27 agosto 2026. L'annuncio della pubblicazione del volume intitolato Calcutta una pozzanghera, L'Avana una sedia i",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2bef8077e2bdd4d2",
     "slug": "medioevo-nel-pordenonese-con-centocinquanta-appunt-2bef8077e2bdd4d2",
     "title": "Medioevo nel pordenonese con centocinquanta appuntamenti",
@@ -7985,24 +8000,6 @@
       "atletica leggera",
       "sofia dosso",
       "record 4\"12"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "099238821f09e1b9",
-    "slug": "calcio-diaw-diouf-incanta-chivu-il-portiere-che-sa-099238821f09e1b9",
-    "title": "Calcio: Inter vince a Singapore, Chivu apre le porte a tutti i portieri",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-08T15:46:00.115980+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bb7f82ee62bd571266dbaf1eb85c6a53b3b542d0/skysport/it/calcio/serie-a/video/2026/08/08/inter-juventus-chivu-intervista-1116702/SCREEN_CHIVU.jpg",
-    "occhiello": "CHIVU SULLA PORTA: \"NO TITOLARI, TUTTI HANNO VOCE\"",
-    "lead_preview": "Milano, 8 agosto 2026.",
-    "tags": [
-      "inter singapore",
-      "chivu portieri"
     ],
     "hero_eligible": true
   }
