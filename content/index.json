@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-27T12:04:26.291844+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 116 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "54b7391736685294",
     "slug": "arriva-in-italia-linvenzione-della-pioggia-di-duff-54b7391736685294",
     "title": "Arriva in italia l'invenzione della pioggia di duffy",
@@ -2010,25 +2029,6 @@
     "lead_preview": "Città del Messico, 25 agosto 2026. Il Parlamento dello Stato di Sinaloa ha approvato la nomina di una nuova Governatrice",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 161 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-26T17:57:31.360184+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 161 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "cd3991945311ebe3",
