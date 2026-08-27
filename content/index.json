@@ -1,5 +1,20 @@
 [
   {
+    "id": "e74bbef6b815a1ca",
+    "slug": "gas-un-calo-minimo-che-non-salvera-nessuno-e74bbef6b815a1ca",
+    "title": "Gas, un calo minimo che non salverà nessuno",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-08-27T07:18:40.731482+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2020/5/27/74c6601fdd8d726f966f0209ed5e82a2.0",
+    "occhiello": "GAS, UN CALO MINIMO CHE NON SALVERÀ NESSUNO",
+    "lead_preview": "Milano, 27 agosto 2026. I future sul gas naturale in Europa, riferimento TTF di Amsterdam, hanno registrato in mattinata",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9c4ea7ab51dbe58c",
     "slug": "a-new-york-il-sorteggio-degli-us-open-senza-il-num-9c4ea7ab51dbe58c",
     "title": "A new york il sorteggio degli us open senza il numero uno azzurro",
@@ -8099,24 +8114,5 @@
     "lead_preview": "Roma, 4 agosto. L'attrice Serena Rossi è stata insignita del premio \"Campari Passion for Film\" alla Biennale, un riconos",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è tornato online dopo 85 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-04T20:19:47.604518+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 85 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
