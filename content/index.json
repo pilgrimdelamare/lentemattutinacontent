@@ -1,5 +1,20 @@
 [
   {
+    "id": "5aa7d8c0117a5583",
+    "slug": "f1-partita-in-corso-5aa7d8c0117a5583",
+    "title": "F1: Partita in corso",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-28T17:03:35.112462+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/1f2d300467ce87839941c7bae287720934e3c96a/skysport/it/motori/motogp/lgp-detail-page/2026/granpremio-aragona/live/prove-libere-1/diggia_scivolata_screen.jpg",
+    "occhiello": "DI GIANNANTOINIO CHIUDE IL VENERDÌ DI ARAGON AL QUARTO TEMPO",
+    "lead_preview": "Aragon, 28 agosto 2026. Nelle pre-qualifiche del Gran Premio di Aragon, il pilota del team VR46 Fabio Di Giannantonio ha",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "79b497910f3e6aea",
     "slug": "il-paragone-di-spalletti-tra-tennis-e-calcio-79b497910f3e6aea",
     "title": "Il paragone di spalletti tra tennis e calcio",
@@ -7573,24 +7588,6 @@
     "occhiello": "PIETRA AURISINA UNISCE RAVENNA AD AQUILEIA",
     "lead_preview": "Ravenna, 17 agosto. La mostra \"La Pietra di Aurisina sulle rotte adriatiche\" apre il 21 agosto nei locali del Museo Nazi",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0751228b5247773d",
-    "slug": "scompare-ultraleggero-a-cosenza-con-2-a-bordo-rice-0751228b5247773d",
-    "title": "Ultraleggero scompare a bordo con due passeggeri: ricerche in corso a Cosenza",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-08-17T08:06:56.567812+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/17/100323472-a66b8c52-8ced-480b-9a0f-e0cd0dbad877.jpg",
-    "occhiello": "SCOMPARSO ULTRALEGGERO A COSENZA CON DUE A BORDO: RICERCHE IN CORSO",
-    "lead_preview": "scomparso ultraleggero a Cosenza con due a bordo: ricerche in corso cosenza, 17 agosto. Un ultraleggero con due passegge",
-    "tags": [
-      "scomparso ultraleggero cosenza",
-      "ricerche aeree cosenza"
-    ],
     "hero_eligible": true
   }
 ]
