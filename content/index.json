@@ -1,5 +1,20 @@
 [
   {
+    "id": "7e9ee9a72ea972c0",
+    "slug": "milano-brinda-ma-non-voi-7e9ee9a72ea972c0",
+    "title": "Milano brinda, ma non voi.",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-28T07:18:56.193577+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg",
+    "occhiello": "MILANO BRINDA, MA NON VOI.",
+    "lead_preview": "Milano, 28 agosto. La Borsa di Milano ha aperto la giornata con il segno più, registrando un rialzo dello 0,80% per l'in",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d363ebf0b296759c",
     "slug": "prezzo-del-gasolio-a-2131-euro-al-litro-d363ebf0b296759c",
     "title": "Prezzo del gasolio a 2,131 euro al litro",
@@ -2299,21 +2314,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/27/114022045-f22f4976-4754-40c6-a9ef-6f8f33ef7067.jpg",
     "occhiello": "UN RADUNO DI GRUPPI ESTREMI ORGANIZZATO NEL NORD ITALIA",
     "lead_preview": "Roma, 27 agosto 2026. Si terrà tra il 3 e il 6 settembre un Raduno neonazista in un luogo del Nord Italia ancora non pre",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7e9ee9a72ea972c0",
-    "slug": "milano-brinda-ma-non-voi-7e9ee9a72ea972c0",
-    "title": "Milano brinda, ma non voi.",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-28T07:18:56.193577+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/30/fed3bbe683832f5e961058827776cd96.jpg",
-    "occhiello": "MILANO BRINDA, MA NON VOI.",
-    "lead_preview": "Milano, 28 agosto. La Borsa di Milano ha aperto la giornata con il segno più, registrando un rialzo dello 0,80% per l'in",
     "tags": [],
     "hero_eligible": true
   },
