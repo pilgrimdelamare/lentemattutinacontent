@@ -1,5 +1,20 @@
 [
   {
+    "id": "6d72d11d0a1050cc",
+    "slug": "ottantasei-posti-a-rischio-nella-sede-milanese-di-6d72d11d0a1050cc",
+    "title": "Ottantasei posti a rischio nella sede milanese di diageo",
+    "section": "economia",
+    "priority": 7,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-08-28T10:43:59.820536+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/6ef1225d19b4822a509ade97f2b6e233.jpg",
+    "occhiello": "OTTANTASEI POSTI A RISCHIO NELLA SEDE MILANESE DI DIAGEO",
+    "lead_preview": "Milano, 28 agosto 2026. L'accordo tra la multinazionale Diageo e i sindacati, raggiunto nella tarda serata del 27 agosto",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "03cd3e13c6287673",
     "slug": "il-capo-della-cia-a-mosca-per-fermare-lasse-di-put-03cd3e13c6287673",
     "title": "Il capo della cia a mosca per fermare l'asse di putin",
@@ -7616,25 +7631,6 @@
       "calcio mercato piccoli",
       "bologna fiorentina",
       "prestito riscatto 18m"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare ferma internet per 140 minuti: milioni di siti a terra",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-08-12T17:26:31.069536+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIENTRA ONLINE",
-    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il problema è stato risolto senza ulteriori",
-    "tags": [
-      "cloudflare outage",
-      "interruzione servizi web",
-      "disagi internet"
     ],
     "hero_eligible": true
   }
