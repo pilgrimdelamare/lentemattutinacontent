@@ -1,5 +1,20 @@
 [
   {
+    "id": "17126dd3ebaa3554",
+    "slug": "due-bambini-su-tre-senza-scuola-nello-yemen-17126dd3ebaa3554",
+    "title": "Due bambini su tre senza scuola nello yemen",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-08-28T11:48:35.481345+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/12/22/728c9900d9769fc7bec000c031d6a967.jpg",
+    "occhiello": "DUE BAMBINI SU TRE SENZA SCUOLA NELLO YEMEN",
+    "lead_preview": "Roma, 28 agosto 2026. Secondo quanto reso noto da un'indagine diffusa da Save the Children e riportata dall'agenzia ANSA",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "68999d63eeb010d9",
     "slug": "sace-e-ctbc-bank-schierano-i-loro-risorse-per-un-f-68999d63eeb010d9",
     "title": "SACE e Ctbc Bank schierano i loro risorse per un futuro economico forte con l'Asia",
@@ -7600,24 +7615,5 @@
     "lead_preview": "Montreal, 13 agosto. Nella notte tra giovedì e venerdì la finale del Canada Open 2026 si deciderà tra due statunitensi: ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-14T02:50:26.561763+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IN DOWN",
-    "lead_preview": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
