@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260828",
+    "slug": "libro-del-giorno-vero-il-romanzo-marco-aurelio-limperat-20260828",
+    "title": "Il libro del giorno: «Vero. Il romanzo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Un romanzo storico che esplora l'anima tormentata dell'imperatore filosofo Marco Aurelio.",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-28T07:00:46.935093+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788835747734_0_0_424_0_75-193f9.jpg?1787771417",
+      "alt": "Copertina: Vero. Il romanzo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788835747734_0_0_424_0_75-193f9.jpg?1787771417",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "679d57281d0784ff",
     "slug": "fifa-nel-mirino-tra-accuse-e-tensioni-sui-cookie-679d57281d0784ff",
     "title": "Fifa nel mirino tra accuse e tensioni sui cookie",
@@ -7716,23 +7735,6 @@
       "guerra al crimine messico",
       "omicidi messico",
       "crimine messico"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "72c868e03277f43e",
-    "slug": "nuoto-simona-quadarella-vince-loro-e-annuncia-la-r-72c868e03277f43e",
-    "title": "Nuoto: Quadarella oro e sprona: 'Partiti col piede giusto'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-11T18:21:15.591980+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/28/f933f8ab0fb9960cc7e3cad27b93fea2.jpg",
-    "occhiello": "Simona Quadarella conquista l'oro e parla di soddisfazione",
-    "lead_preview": "Roma. Simona Quadarella, dopo aver conquistato la medaglia d'oro, ha dichiarato: \"Siamo partiti col piede giusto\"., sott",
-    "tags": [
-      "nuoto quadarella"
     ],
     "hero_eligible": true
   }
