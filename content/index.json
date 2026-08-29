@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260829",
+    "slug": "libro-del-giorno-la-figlia-della-servadi-patrizia-carra-20260829",
+    "title": "Il libro del giorno: «La figlia della servadi Patrizia Carrano»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un affresco familiare che mette in luce le figure invisibili del servizio domestico",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-08-29T07:00:46.424555+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/arton169898-df5e8.jpg?1787820687",
+      "alt": "Copertina: La figlia della servadi Patrizia Carrano",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/arton169898-df5e8.jpg?1787820687",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "6874942daa92acb0",
     "slug": "bastianini-frenato-dalla-moto-nel-gp-di-aragon-6874942daa92acb0",
     "title": "Bastianini frenato dalla moto nel gp di aragon",
@@ -7562,21 +7581,6 @@
     "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDgvMjQvMDUxNjIxOTYxLTEyZjIwNzcwLWJjMDItNGEwNS1hYjY0LTQ0N2IxY2FmN2UyMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
     "occhiello": "DRONI UCCIDONO BAMBINI SU UN CENTRO DI ACCOGLIENZA",
     "lead_preview": "Krasnodar, 24 agosto.",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1483264b9e2090a1",
-    "slug": "shein-punta-a-23-miliardi-di-euro-1483264b9e2090a1",
-    "title": "Shein punta a 23 miliardi di euro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-08-24T00:53:39.938326+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/11/29/2528cd49c8197ec24479930384dd456d.jpg",
-    "occhiello": "SHEIN PUNTA A 23 MILIARDI DI EURO",
-    "lead_preview": "Hong Kong, 24 agosto. Il colosso cinese del fast fashion Shein ha annunciato che sarà quotato alla Borsa di Hong Kong a ",
     "tags": [],
     "hero_eligible": true
   }
