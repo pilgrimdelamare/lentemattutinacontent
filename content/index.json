@@ -1,5 +1,20 @@
 [
   {
+    "id": "cb4242bdd21f4b32",
+    "slug": "primarie-il-vero-gioco-di-potere-cb4242bdd21f4b32",
+    "title": "Primarie, il vero gioco di potere",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-08-29T01:27:24.285522+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/28/211913630-a642ac8c-4ce3-4301-8c01-12ef8a2db835.jpg",
+    "occhiello": "PRIMARIE, IL VERO GIOCO DI POTERE",
+    "lead_preview": "Roma, 29 agosto.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0a26f12c7a71025e",
     "slug": "conte-scopre-le-primarie-quando-deve-unire-la-coal-0a26f12c7a71025e",
     "title": "Conte scopre le primarie quando deve unire la coalizione",
@@ -7571,21 +7586,6 @@
       "crollo palazzina via vico",
       "incidente perugia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c3940924d9322359",
-    "slug": "codacons-controesodo-puo-costare-fino-a-270-euro-a-c3940924d9322359",
-    "title": "Codacons, 'controesodo può costare fino a 270 euro a famiglia'",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-22T07:48:44.499053+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/22/3e24ab20556c5086f6e480d361587afc.jpg",
-    "occhiello": "CODACONS, 'CONTROESODO PUÒ COSTARE FINO A 270 EURO A FAMIGLIA'",
-    "lead_preview": "IL CONTROESODO COSTA 270 EURO ALLE FAMIGLIE ITALIANE Roma, 22 agosto. Il controesodo di fine agosto, con milioni di ital",
-    "tags": [],
     "hero_eligible": true
   }
 ]
