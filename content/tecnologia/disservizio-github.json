@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
   "titles": [
-    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi."
+    "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
+    "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
+    "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIAPRE DOPO 77 MINUTI",
+  "lead": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. Il disservizio, che ha interessato i servizi principali, si è concluso dopo settantasette minuti di interruzione. Gli utenti possono ora accedere alle proprie repository senza limitazioni.",
+  "corpo1": "Le anomalie sono state rilevate in orario mattutino, generando errori di connessione e tempi di risposta elevati per gli sviluppatori. Il team tecnico ha identificato la causa e applicato le correzioni necessarie. Attualmente, i sistemi di monitoraggio confermano la stabilità delle infrastrutture. I tempi di latenza sono tornati ai valori standard. Non si registrano ulteriori segnalazioni di malfunzionamenti. La piattaforma è pienamente operativa e accessibile a tutti gli utenti registrati. Si consiglia di verificare la sincronizzazione dei repository locali per assicurarsi che non vi siano conflitti di versione derivanti dall'interruzione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T07:47:59.391340+00:00",
+  "published_at": "2026-08-30T08:46:15.253052+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
-  "related": [],
+  "related": [
+    {
+      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 58 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
