@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
+  "title": "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "GitHub è tornato online dopo 116 minuti di interruzione.",
-    "GitHub è tornato online dopo 116 minuti di interruzione.",
-    "GitHub è tornato online dopo 116 minuti di interruzione."
+    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 116 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 116 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "GITHUB IN DOWN",
+  "lead": "GitHub è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-27T12:04:26.291844+00:00",
+  "published_at": "2026-08-30T07:47:59.391340+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
-  "related": [
-    {
-      "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Revolut è tornato online dopo 48 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
