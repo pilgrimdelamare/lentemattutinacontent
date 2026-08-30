@@ -1,17 +1,17 @@
 {
   "id": "monitor_netflix",
   "slug": "disservizio-netflix",
-  "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Netflix è tornato online dopo 97 minuti di interruzione.",
   "titles": [
-    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
+    "Netflix è tornato online dopo 97 minuti di interruzione.",
+    "Netflix è tornato online dopo 97 minuti di interruzione.",
+    "Netflix è tornato online dopo 97 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NETFLIX IN DOWN",
-  "lead": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Netflix risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "NETFLIX RIPRISTINATO",
+  "lead": "Netflix è tornato online dopo 97 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Netflix è stato risolto. L'interruzione è durata circa 97 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T07:34:58.584499+00:00",
+  "published_at": "2026-08-30T08:52:06.011420+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/netflix.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-netflix",
   "related": [
     {
-      "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Satispay è tornato online dopo 63 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Apple annuncia iPhone 14 Pro, Apple Watch ed Evento americano",
-      "url": "/tecnologia/apple-annuncia-iphone-14-pro-apple-watch-ed-evento-536fda8cd6558a43",
-      "id": "536fda8cd6558a43",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/08/27/114256575-b3364d16-0cc6-4f42-86c7-85405442de0c.jpg",
+      "title": "TikTok è tornato online dopo 83 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     }
   ],
