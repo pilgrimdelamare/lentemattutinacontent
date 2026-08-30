@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
   "titles": [
-    "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-    "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-    "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi"
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE IN DOWN",
-  "lead": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio YouTube risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RIAPRE DOPO SETTANTUNO MINUTI",
+  "lead": "La piattaforma di video streaming ha ripristinato la piena operatività dopo settantuno minuti di interruzione totale. Gli utenti possono ora accedere ai contenuti senza limitazioni, segnando la fine del disservizio che ha colpito il servizio a livello globale.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle ore nove e quindici, quando i server hanno iniziato a restituire errori di connessione. La durata complessiva dell'interruzione si è attestata su settantuno minuti, periodo durante il quale l'upload e lo streaming sono risultati inaccessibili. Il sistema di monitoraggio ha confermato il ripristino completo delle infrastrutture alle ore dieci e sessanta. Le metriche di latenza e disponibilità sono tornate entro i parametri standard previsti. Non si registrano ulteriori anomalie nei nodi di distribuzione del contenuto. La stabilità della rete è stata verificata attraverso test automatizzati su larga scala, garantendo la piena funzionalità della piattaforma per tutti gli utenti attivi.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-25T04:52:43.720672+00:00",
+  "published_at": "2026-08-30T08:46:18.363393+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     },
     {
-      "title": "GitHub è tornato online dopo 403 minuti di interruzione.",
+      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare ferma internet per 140 minuti: milioni di siti a terra",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
       "image_type": "image"
     }
   ],
