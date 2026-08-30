@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:46:18.364402+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIAPERTO DOPO FERMO",
+    "lead_preview": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha interrotto l'accesso ai servizi, è durato n",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_revolut",
     "slug": "disservizio-revolut",
     "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
@@ -7601,21 +7620,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/7513f3b0a57c142c9e5773e25dfcee9c.jpg",
     "occhiello": "TELEGRAMMI DI MASCAGNI CONSEGNATI DAL COMUNE DI CERIGNOLA A LIVORNO",
     "lead_preview": "Roma, 25 agosto 2026. Risalgono al 1895 e al 1930 i telegrammi originali con cui il compositore livornese ringraziava Ce",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e830ef0b8f99d51b",
-    "slug": "marina-storti-diventa-leader-della-juventus-e830ef0b8f99d51b",
-    "title": "Juventus, marina storti nel cda",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-25T12:23:15.022741+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/0dca20dd855ce39731a315d1b3945c77.jpg",
-    "occhiello": "JUVENTUS, MARINA STORTI NEL CDA",
-    "lead_preview": "Torino, 25 agosto 2026. La Juventus Football Club ha comunicato la cooptazione di Marina Storti nel Consiglio di amminis",
     "tags": [],
     "hero_eligible": true
   }
