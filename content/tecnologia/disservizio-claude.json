@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
   "titles": [
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
+    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
+    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
+    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IN DOWN",
-  "lead": "Claude è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Claude risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO CLAUDE RIAPERTO DOPO FERMO",
+  "lead": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha interrotto l'accesso ai servizi, è durato novantuno minuti. Il sistema è ora stabile e accessibile a tutti gli utenti registrati.",
+  "corpo1": "Le anomalie sono state rilevate in fase di autenticazione, bloccando le richieste in ingresso. Il team tecnico ha isolato il nodo responsabile del malfunzionamento e ha ripristinato la piena capacità di elaborazione. I test di integrità confermano la stabilità dell'infrastruttura. Non si registrano perdite di dati durante il periodo di inattività. I tempi di risposta sono rientrati nei parametri standard. L'accesso è stato riabilitato progressivamente per garantire un carico di lavoro distribuito. Il monitoraggio continuo è attivo per prevenire eventuali ripresentazioni del guasto.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-14T02:50:26.561763+00:00",
+  "published_at": "2026-08-30T08:46:18.364402+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare ferma internet per 140 minuti: milioni di siti a terra",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 453 minuti di interruzione.",
+      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
       "image_type": "image"
     }
   ],
