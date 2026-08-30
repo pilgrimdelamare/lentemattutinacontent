@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:46:17.844090+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT RIAPRE DOPO SETTANTUNO MINUTI",
+    "lead_preview": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività dei servizi. L'interruzione, durata sett",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
@@ -7597,21 +7616,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/0dca20dd855ce39731a315d1b3945c77.jpg",
     "occhiello": "JUVENTUS, MARINA STORTI NEL CDA",
     "lead_preview": "Torino, 25 agosto 2026. La Juventus Football Club ha comunicato la cooptazione di Marina Storti nel Consiglio di amminis",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4154c591a3104c09",
-    "slug": "un-formato-televisivo-che-usa-volti-celebri-per-co-4154c591a3104c09",
-    "title": "Un formato televisivo che usa volti celebri per coprire il vuoto di idee",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-08-25T11:57:12.917107+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/d072ecfa80339858aa370954d82f5d7a.jpg",
-    "occhiello": "UN FORMATO TELEVISIVO CHE USA VOLTI CELEBRI PER COPRIRE IL VUOTO DI IDEE",
-    "lead_preview": "Roma, 25 agosto 2026. Netflix lancia sul proprio catalogo digitale la competizione fisica denominata Physical Italia, un",
     "tags": [],
     "hero_eligible": true
   }
