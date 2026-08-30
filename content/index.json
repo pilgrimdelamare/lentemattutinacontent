@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è tornato online dopo 83 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:52:05.574613+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK RIPRISTINATO",
+    "lead_preview": "TikTok è tornato online dopo 83 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T07:48:13.621789+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "TIKTOK IN DOWN",
-    "lead_preview": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "tiktok",
       "disservizi"
     ],
     "hero_eligible": false
