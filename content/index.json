@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è tornato online dopo 69 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:57:53.661372+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY RIPRISTINATO",
+    "lead_preview": "Spotify è tornato online dopo 69 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "b751f09d2035c683",
     "slug": "ciclismo-pogacar-cade-e-mas-si-fa-onorare-la-vuelt-b751f09d2035c683",
     "title": "Ciclismo: Pogacar cade e Mas si fa onorare, la Vuelta cambia volto in un battito",
@@ -7221,25 +7240,6 @@
     "lead_preview": "Roma, 25 agosto 2026. Il Ministro dell'Economia Giancarlo Giorgetti ha fornito rassicurazioni ufficiali al Presidente de",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-26T12:19:51.683354+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY RIPRISTINATO",
-    "lead_preview": "Spotify è tornato online dopo 30 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "75a3cd55ab365184",
