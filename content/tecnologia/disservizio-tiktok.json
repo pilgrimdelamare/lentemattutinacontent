@@ -1,17 +1,17 @@
 {
   "id": "monitor_tiktok",
   "slug": "disservizio-tiktok",
-  "title": "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi."
+    "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "TIKTOK IN DOWN",
-  "lead": "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio TikTok risulta non disponibile dalle ultime 31 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "lead": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio TikTok risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T16:21:38.975053+00:00",
+  "published_at": "2026-08-30T07:48:13.621789+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/tiktok.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-tiktok",
-  "related": [],
+  "related": [
+    {
+      "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
