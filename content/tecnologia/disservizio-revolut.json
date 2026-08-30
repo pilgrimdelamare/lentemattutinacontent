@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è tornato online dopo 48 minuti di interruzione.",
+  "title": "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
   "titles": [
-    "Revolut è tornato online dopo 48 minuti di interruzione.",
-    "Revolut è tornato online dopo 48 minuti di interruzione.",
-    "Revolut è tornato online dopo 48 minuti di interruzione."
+    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT RIPRISTINATO",
-  "lead": "Revolut è tornato online dopo 48 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 48 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "REVOLUT OFFLINE: CRITICITÀ TOTALE",
+  "lead": "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani non possono effettuare pagamenti, bonifici o consultare i propri saldi bancari in questo momento.",
+  "corpo1": "Il malfunzionamento è iniziato alle ore correnti, bloccando l'accesso all'applicazione mobile e al portale web. Le funzionalità compromesse includono l'autenticazione, l'invio di fondi, la gestione delle carte virtuali e la visualizzazione delle transazioni. Per chi dipende da Revolut per acquisti quotidiani o trasferimenti urgenti, la situazione genera un blocco operativo immediato. Non sono disponibili alternative interne per completare le operazioni finanziarie. Il sistema di pagamento è attualmente inoperante. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-25T05:23:05.855698+00:00",
+  "published_at": "2026-08-30T07:57:03.846874+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
-  "related": [
-    {
-      "title": "GitHub è tornato online dopo 403 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "YouTube è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
