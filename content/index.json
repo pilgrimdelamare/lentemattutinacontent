@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T07:48:13.621789+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK IN DOWN",
+    "lead_preview": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_netflix",
     "slug": "disservizio-netflix",
     "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
@@ -7585,21 +7604,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/c97342bf2d7dc20d30f4bf8b8557d96f.jpg",
     "occhiello": "LA SANTA SEDE OFFRE SOSTEGNO DIPLOMATICO PER I NEGOZIATI",
     "lead_preview": "Mosca, 25 agosto 2026. L'arcivescovo Paul Richard Gallagher, Segretario per i Rapporti con gli Stati e le Organizzazioni",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6c2e7a2ce24d4d8b",
-    "slug": "da-rai-scuola-a-italiana-per-cancellare-la-didatti-6c2e7a2ce24d4d8b",
-    "title": "Da rai scuola a italiana per cancellare la didattica",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-08-25T11:34:32.270736+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/25/130123593-521bf357-0ef4-4a66-a974-17a8aa81c60c.jpg",
-    "occhiello": "DA RAI SCUOLA A ITALIANA PER CANCELLARE LA DIDATTICA",
-    "lead_preview": "Roma, 25 agosto 2026. Il canale tematico RAI Scuola chiuderà i battenti il prossimo primo ottobre per lasciare spazio al",
     "tags": [],
     "hero_eligible": true
   }
