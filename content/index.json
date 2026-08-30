@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_netflix",
+    "slug": "disservizio-netflix",
+    "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T07:34:58.584499+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/netflix.com",
+    "occhiello": "NETFLIX IN DOWN",
+    "lead_preview": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "netflix",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "55489229fcde2920",
     "slug": "pressione-italiana-sui-confini-spagnoli-55489229fcde2920",
     "title": "Meloni pronta a blindare i confini: l'Italia valuta il blocco Schengen con Madrid",
@@ -7581,21 +7600,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/25/130123593-521bf357-0ef4-4a66-a974-17a8aa81c60c.jpg",
     "occhiello": "DA RAI SCUOLA A ITALIANA PER CANCELLARE LA DIDATTICA",
     "lead_preview": "Roma, 25 agosto 2026. Il canale tematico RAI Scuola chiuderà i battenti il prossimo primo ottobre per lasciare spazio al",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "91aa174017a6866b",
-    "slug": "tribunali-e-caporalato-digitale-sulle-strade-itali-91aa174017a6866b",
-    "title": "Glovo inizia a proteggere i corriere, rispettando le norme labori",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-25T11:42:08.678956+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/3a0cec091c89ce5ff5fa479f3a88a814.jpg",
-    "occhiello": "TRIBUNALI E CAPORALATO DIGITALE SULLE STRADE ITALIANE",
-    "lead_preview": "Roma, 25 agosto 2026. L'azienda spagnola Glovo è stata obbligata dai giudici, secondo quanto reso noto dalla sigla sinda",
     "tags": [],
     "hero_eligible": true
   }
