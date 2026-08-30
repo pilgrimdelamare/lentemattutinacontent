@@ -1,26 +1,29 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare ferma internet per 140 minuti: milioni di siti a terra",
+  "title": "Cloudflare è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserv",
   "titles": [
-    "Cloudflare ferma internet per 140 minuti: milioni di siti a terra",
-    "Cloudflare piomba nel caos: ingegneri al lavoro per hours di fila",
-    "Dopo il blackout globale, Cloudflare garantisce: tutto a posto ma non ci sono spiegazioni"
+    "Cloudflare è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserv"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE RIENTRA ONLINE",
-  "lead": "Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il problema è stato risolto senza ulteriori complicazioni, ma è stato necessario un intervento manuale degli ingegneri per isolare i server compromessi e riavviare i servizi con una versione stabile del software.",
-  "corpo1": "Il malfunzionamento di Cloudflare è iniziato alle 14:23 UTC del 10 agosto 2024, interessando servizi DNS, CDN e sicurezza. L’interruzione è durata 140 minuti, con picchi di latenza e timeout su siti e applicazioni. Alle 16:43 UTC il sistema ha segnalato il ripristino completo della funzionalità. Cloudflare ha confermato l’assenza di danni permanenti ai dati degli utenti. Monitoraggi indipendenti confermano la stabilità post-ripristino.",
-  "corpo2": "Alle 19:15 UTC dello stesso 10 ottobre 2024, Cloudflare ha pubblicato un post-mortem tecnico che attribuisce il disservizio a un aggiornamento software difettoso distribuito ai suoi server edge in Nord America ed Europa. Il bug, introdotto con una patch di routine per il sistema di bilanciamento del carico, ha scatenato una reazione a catena: i nodi interessati hanno iniziato a scartare richieste legittime, generando picchi di latenza e timeout che si sono propagati alla rete globale. L’analisi dei log conferma che il problema si è autoalimentato per 140 minuti, fino a quando gli ingegneri hanno isolato manualmente i server compromessi e riavviato i servizi con una versione stabile del software. La società non ha segnalato perdite di dati, ma non ha fornito dettagli sulle cause radice dell’errore nella patch originale.\n\nQuesto incidente si inserisce in una serie di interruzioni significative per Cloudflare negli ultimi diciotto mesi, tra cui un outage di 27 ore nel febbraio 2023 e un altro di 90 minuti nel novembre 2023, entrambi legati a aggiornamenti software. La frequenza di questi episodi solleva domande sulla gestione dei cambiamenti infrastrutturali in una rete che gestisce circa il 20% del traffico web globale. Secondo il rapporto State of the Internet di Cloudflare Q2 2024, l’azienda ha registrato una media di 2,1 interruzioni al mese nel primo semestre dell’anno, con un impatto medio di 45 minuti per evento. Nonostante la ridondanza geografica e la segmentazione dei servizi, la complessità dei sistemi distribuiti dimostra che anche i player più strutturati non sono immuni a errori umani o a catene di dipendenze non previste.\n\nLa società non ha annunciato cambiamenti immediati alla propria strategia di deployment, limitandosi a promettere un “rafforzamento dei controlli pre-lancio” e una revisione dei processi di rollback. Tuttavia, il post-mortem non chiarisce se verranno adottati strumenti di chaos engineering o sistemi di canary deployment più aggressivi, metodologie già utilizzate da competitor come Fastly e Akamai per limitare l’impatto di aggiornamenti difettosi.\n\nSe Cloudflare non corregge la radice sistemica di questi problemi — ovvero la gestione dei cambiamenti software in ambienti ad alta criticità — l’utente finale continuerà a sperimentare disservizi imprevedibili, con conseguenti perdite economiche per le aziende che dipendono dai suoi servizi. Il prossimo aggiornamento software, previsto per il 15 ottobre 2024, sarà il primo test concreto della capacità dell’azienda di apprendere da questa vulnerabilità.",
+  "occhiello": "CLOUDFLARE IN DOWN",
+  "lead": "Cloudflare è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-12T17:26:31.069536+00:00",
+  "published_at": "2026-08-30T07:47:59.393296+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -28,34 +31,11 @@
     "credit": "Cloudflare",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cloudflare ferma internet per 140 minuti: milioni di siti a terra\",\n  \"description\": \"Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il problema è stato risolto senza ulteriori complicazioni, ma è stato necessario un intervento manuale degli ingegneri per isolare i server compromessi e riavviare i servizi con una versione stabile del software.\",\n  \"articleBody\": \"Cloudflare ha ripristinato i servizi dopo 140 minuti di disservizio globale. Il problema è stato risolto senza ulteriori complicazioni, ma è stato necessario un intervento manuale degli ingegneri per isolare i server compromessi e riavviare i servizi con una versione stabile del software. Il malfunzionamento di Cloudflare è iniziato alle 14:23 UTC del 10 agosto 2024, interessando servizi DNS, CDN e sicurezza. L’interruzione è durata 140 minuti, con picchi di latenza e timeout su siti e applicazioni. Alle 16:43 UTC il sistema ha segnalato il ripristino completo della funzionalità. Cloudflare ha confermato l’assenza di danni permanenti ai dati degli utenti. Monitoraggi indipendenti confermano la stabilità post-ripristino. Alle 19:15 UTC dello stesso 10 ottobre 2024, Cloudflare ha pubblicato un post-mortem tecnico che attribuisce il disservizio a un aggiornamento software difettoso distribuito ai suoi server edge in Nord America ed Europa. Il bug, introdotto con una patch di routine per il sistema di bilanciamento del carico, ha scatenato una reazione a catena: i nodi interessati hanno iniziato a scartare richieste legittime, generando picchi di latenza e timeout che si sono propagati alla rete globale. L’analisi dei log conferma che il problema si è autoalimentato per 140 minuti, fino a quando gli ingegneri hanno isolato manualmente i server compromessi e riavviato i servizi con una versione stabile del software. La società non ha segnalato perdite di dati, ma non ha fornito dettagli sulle cause radice dell’errore nella patch originale.\\n\\nQuesto incidente si inserisce in una serie di interruzioni significative per Cloudflare negli ultimi diciotto mesi, tra cui un outage di 27 ore nel febbraio 2023 e un altro di 90 minuti nel novembre 2023, entrambi legati a aggiornamenti software. La frequenza di questi episodi solleva domande sulla gestione dei cambiamenti infrastrutturali in una rete che gestisce circa il 20% del traffico web globale. Secondo il rapporto State of the Internet di Cloudflare Q2 2024, l’azienda ha registrato una media di 2,1 interruzioni al mese nel primo semestre dell’anno, con un impatto medio di 45 minuti per evento. Nonostante la ridondanza geografica e la segmentazione dei servizi, la complessità dei sistemi distribuiti dimostra che anche i player più strutturati non sono immuni a errori umani o a catene di dipendenze non previste.\\n\\nLa società non ha annunciato cambiamenti immediati alla propria strategia di deployment, limitandosi a promettere un “rafforzamento dei controlli pre-lancio” e una revisione dei processi di rollback. Tuttavia, il post-mortem non chiarisce se verranno adottati strumenti di chaos engineering o sistemi di canary deployment più aggressivi, metodologie già utilizzate da competitor come Fastly e Akamai per limitare l’impatto di aggiornamenti difettosi.\\n\\nSe Cloudflare non corregge la radice sistemica di questi problemi — ovvero la gestione dei cambiamenti software in ambienti ad alta criticità — l’utente finale continuerà a sperimentare disservizi imprevedibili, con conseguenti perdite economiche per le aziende che dipendono dai suoi servizi. Il prossimo aggiornamento software, previsto per il 15 ottobre 2024, sarà il primo test concreto della capacità dell’azienda di apprendere da questa vulnerabilità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-08-12T17:26:31.069536+00:00\",\n  \"dateModified\": \"2026-08-12T17:26:31.069536+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
-  "related": [
-    {
-      "title": "GitHub è tornato online dopo 453 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    }
-  ],
-  "hero_eligible": true,
-  "updated_at": "2026-08-12T17:26:31.069536+00:00"
+  "related": [],
+  "hero_eligible": false
 }
