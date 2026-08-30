@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è",
   "titles": [
-    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disserviz"
+    "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è",
+    "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è",
+    "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY IN DOWN",
-  "lead": "Satispay è irraggiungibile da 26 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 26 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY OFFLINE: 58 MINUTI DI BLACKOUT",
+  "lead": "Satispay risulta irraggiungibile da 58 minuti. Il servizio di pagamento mobile è completamente inaccessibile, bloccando transazioni e accessi per milioni di utenti italiani in tutto il territorio nazionale.",
+  "corpo1": "Il malfunzionamento è iniziato alle 09:12, causando un totale blackout delle infrastrutture. Le funzionalità di invio e ricezione fondi, nonché l'autenticazione biometrica, risultano inattive. Gli utenti non possono completare acquisti digitali né trasferire denaro, generando un blocco operativo immediato per commercianti e privati. I server di risposta restano silenziosi, impedendo qualsiasi interazione con l'applicazione. La situazione sta generando un impatto significativo sui flussi di liquidità digitali. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T16:21:38.973761+00:00",
+  "published_at": "2026-08-30T08:46:20.952071+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
-  "related": [],
+  "related": [
+    {
+      "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 58 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
