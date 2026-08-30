@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 80 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T09:08:06.199580+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIPRISTINATO",
+    "lead_preview": "ChatGPT è tornato online dopo 80 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "567aa3b3a3dbf3bd",
     "slug": "calcio-messi-segna-4-gol-e-il-miami-salta-al-secon-567aa3b3a3dbf3bd",
     "title": "Calcio: Messi segna 4 gol e il Miami salta al secondo posto della Eastern Conference",
@@ -7617,21 +7636,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/d43977d20c842dcf9dfae10196e271b3.jpg",
     "occhiello": "BARI, ENTRO DICEMBRE IL COMPLETAMENTO DEL PARCO ARCHEOLOGICO",
     "lead_preview": "Roma, 25 agosto 2026. Questa mattina il sopralluogo sul cantiere del Parco archeologico di Bari ha definito i tempi per ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c20f1bb84ff677e8",
-    "slug": "tiktok-multa-euro5billione-per-trattare-dati-minor-c20f1bb84ff677e8",
-    "title": "Brasile multa tiktok per violazioni privacy minori",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-08-25T13:44:35.470361+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/6/420f4b719231cb8f23833cde1a4a9732.jpg",
-    "occhiello": "BRASILE MULTA TIKTOK PER VIOLAZIONI PRIVACY MINORI",
-    "lead_preview": "Brasilia, 25 agosto. Il Brasile ha imposto una multa di 25 milioni di euro a TikTok per aver raccolto e utilizzato i dat",
     "tags": [],
     "hero_eligible": true
   }
