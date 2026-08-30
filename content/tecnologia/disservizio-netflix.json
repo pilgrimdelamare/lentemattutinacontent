@@ -1,0 +1,63 @@
+{
+  "id": "monitor_netflix",
+  "slug": "disservizio-netflix",
+  "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+  "titles": [
+    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "NETFLIX IN DOWN",
+  "lead": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Netflix risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-08-30T07:34:58.584499+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/netflix.com",
+    "source": "Netflix",
+    "credit": "Netflix",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-netflix",
+  "related": [
+    {
+      "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Apple annuncia iPhone 14 Pro, Apple Watch ed Evento americano",
+      "url": "/tecnologia/apple-annuncia-iphone-14-pro-apple-watch-ed-evento-536fda8cd6558a43",
+      "id": "536fda8cd6558a43",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/08/27/114256575-b3364d16-0cc6-4f42-86c7-85405442de0c.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
