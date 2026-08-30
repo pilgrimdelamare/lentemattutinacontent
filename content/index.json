@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è tornato online dopo 58 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:46:15.241050+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD RIPRISTINATO",
+    "lead_preview": "Discord è tornato online dopo 58 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_tiktok",
     "slug": "disservizio-tiktok",
     "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
@@ -7589,21 +7608,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/26/03b7a0727089e4a28d2b0b3198a95d1a.jpg",
     "occhiello": "CENTO MILIONI PER SAVINHO DAL MANCHESTER CITY AL TOTTENHAM",
     "lead_preview": "Londra, 25 agosto 2026. L'esterno brasiliano Sávio Moreira de Oliveira, noto come Savinho, si trasferisce dal Manchester",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d83d22246b4553f",
-    "slug": "la-santa-sede-offre-sostegno-diplomatico-per-i-neg-8d83d22246b4553f",
-    "title": "La santa sede offre sostegno diplomatico per i negoziati",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-08-25T12:12:19.963069+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/c97342bf2d7dc20d30f4bf8b8557d96f.jpg",
-    "occhiello": "LA SANTA SEDE OFFRE SOSTEGNO DIPLOMATICO PER I NEGOZIATI",
-    "lead_preview": "Mosca, 25 agosto 2026. L'arcivescovo Paul Richard Gallagher, Segretario per i Rapporti con gli Stati e le Organizzazioni",
     "tags": [],
     "hero_eligible": true
   }
