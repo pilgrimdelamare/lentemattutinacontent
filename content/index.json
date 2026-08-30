@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:46:15.253052+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIAPRE DOPO 77 MINUTI",
+    "lead_preview": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. Il disservizio, che ha interessato i serv",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_whatsapp",
     "slug": "disservizio-whatsapp",
     "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
@@ -5265,25 +5284,6 @@
     "lead_preview": "Roma, 27 agosto 2026. Il Sottosegretario americano Colby interviene sui rapporti transatlantici definendo gli Stati Unit",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-27T12:04:26.291844+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 116 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "54b7391736685294",
