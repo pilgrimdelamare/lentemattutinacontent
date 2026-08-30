@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:46:15.236051+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "SERVIZIO WHATSAPP RIABILITATO COMPLETAMENTE",
+    "lead_preview": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività dopo settantasette minuti di disservizio",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è tornato online dopo 58 minuti di interruzione.",
@@ -7593,21 +7612,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/d072ecfa80339858aa370954d82f5d7a.jpg",
     "occhiello": "UN FORMATO TELEVISIVO CHE USA VOLTI CELEBRI PER COPRIRE IL VUOTO DI IDEE",
     "lead_preview": "Roma, 25 agosto 2026. Netflix lancia sul proprio catalogo digitale la competizione fisica denominata Physical Italia, un",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c98901d40b59def5",
-    "slug": "cento-milioni-per-savinho-dal-manchester-city-al-t-c98901d40b59def5",
-    "title": "Savino vende il Manchester City per la sfida a Spin City",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-25T12:21:24.537171+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/26/03b7a0727089e4a28d2b0b3198a95d1a.jpg",
-    "occhiello": "CENTO MILIONI PER SAVINHO DAL MANCHESTER CITY AL TOTTENHAM",
-    "lead_preview": "Londra, 25 agosto 2026. L'esterno brasiliano Sávio Moreira de Oliveira, noto come Savinho, si trasferisce dal Manchester",
     "tags": [],
     "hero_eligible": true
   }
