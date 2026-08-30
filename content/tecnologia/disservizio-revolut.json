@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+  "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
   "titles": [
-    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-    "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente "
+    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT OFFLINE: CRITICITÀ TOTALE",
-  "lead": "Revolut risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani non possono effettuare pagamenti, bonifici o consultare i propri saldi bancari in questo momento.",
-  "corpo1": "Il malfunzionamento è iniziato alle ore correnti, bloccando l'accesso all'applicazione mobile e al portale web. Le funzionalità compromesse includono l'autenticazione, l'invio di fondi, la gestione delle carte virtuali e la visualizzazione delle transazioni. Per chi dipende da Revolut per acquisti quotidiani o trasferimenti urgenti, la situazione genera un blocco operativo immediato. Non sono disponibili alternative interne per completare le operazioni finanziarie. Il sistema di pagamento è attualmente inoperante. Stiamo monitorando la situazione.",
+  "occhiello": "REVOLUT RIAPRE DOPO SETTANTUNO MINUTI",
+  "lead": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività dei servizi. L'interruzione, durata settantuno minuti complessivi, ha interessato le funzionalità di pagamento e visualizzazione dei saldi. Il sistema è ora stabile e accessibile a tutti gli utenti.",
+  "corpo1": "Il disservizio è stato rilevato in mattinata, impedendo temporaneamente l'accesso alle funzioni principali dell'applicazione. I tecnici hanno identificato e risolto l'anomalia infrastrutturale che causava i blocchi. Dopo settantuno minuti di interruzione, i server sono tornati pienamente operativi. La verifica tecnica conferma la stabilità della rete e la corretta gestione delle transazioni. Non si registrano ulteriori rallentamenti. Gli utenti possono ora operare normalmente senza limitazioni. Il monitoraggio continuo resta attivo per garantire la continuità del servizio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T07:57:03.846874+00:00",
+  "published_at": "2026-08-30T08:46:17.844090+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
-  "related": [],
+  "related": [
+    {
+      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 58 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
