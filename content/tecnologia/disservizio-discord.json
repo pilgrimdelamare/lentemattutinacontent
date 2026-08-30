@@ -1,17 +1,17 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord è tornato online dopo 85 minuti di interruzione.",
+  "title": "Discord è tornato online dopo 58 minuti di interruzione.",
   "titles": [
-    "Discord è tornato online dopo 85 minuti di interruzione.",
-    "Discord è tornato online dopo 85 minuti di interruzione.",
-    "Discord è tornato online dopo 85 minuti di interruzione."
+    "Discord è tornato online dopo 58 minuti di interruzione.",
+    "Discord è tornato online dopo 58 minuti di interruzione.",
+    "Discord è tornato online dopo 58 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "DISCORD RIPRISTINATO",
-  "lead": "Discord è tornato online dopo 85 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Discord è stato risolto. L'interruzione è durata circa 85 minuti. Il servizio risulta ora pienamente operativo.",
+  "lead": "Discord è tornato online dopo 58 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Discord è stato risolto. L'interruzione è durata circa 58 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-04T20:19:47.604518+00:00",
+  "published_at": "2026-08-30T08:46:15.241050+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
-      "title": "YouTube è tornato online dopo 85 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "GitHub è tornato online dopo 116 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Claude è tornato online dopo 26 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     }
   ],
