@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-08-30T08:52:03.185648+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_tiktok",
     "slug": "disservizio-tiktok",
     "title": "TikTok è tornato online dopo 83 minuti di interruzione.",
@@ -7613,21 +7632,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/9af301df945864b32154e35c72201f95.jpg",
     "occhiello": "ARRIVA IL SEQUEL DI COME FARSI LASCIARE IN 10 GIORNI",
     "lead_preview": "Roma, 25 agosto 2026. Paramount Pictures avvia ufficialmente la produzione del seguito della commedia romantica del 2003",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8ba8d7f3434365c0",
-    "slug": "quattrocentotrentuno-nuovi-sportelli-automatici-in-8ba8d7f3434365c0",
-    "title": "Posta elettronica aumenta la sua presenza con 43 nuovi Postamat",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-08-25T09:53:31.133811+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/1463e9c72056fdc5007084c8ce8a72e2.jpg",
-    "occhiello": "QUATTROCENTOTRENTUNO NUOVI SPORTELLI AUTOMATICI INSTALLATI NEI PRIMI SEI MESI",
-    "lead_preview": "Roma, 25 agosto 2026. Poste Italiane ha ampliato la propria rete dei Postamat con quattrocentotrentuno nuove installazio",
     "tags": [],
     "hero_eligible": true
   }
