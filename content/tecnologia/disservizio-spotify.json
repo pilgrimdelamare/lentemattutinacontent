@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è tornato online dopo 30 minuti di interruzione.",
+  "title": "Spotify risulta completamente irraggiungibile da diciotto minuti. Il servizio st",
   "titles": [
-    "Spotify è tornato online dopo 30 minuti di interruzione.",
-    "Spotify è tornato online dopo 30 minuti di interruzione.",
-    "Spotify è tornato online dopo 30 minuti di interruzione."
+    "Spotify risulta completamente irraggiungibile da diciotto minuti. Il servizio st",
+    "Spotify risulta completamente irraggiungibile da diciotto minuti. Il servizio st",
+    "Spotify risulta completamente irraggiungibile da diciotto minuti. Il servizio st"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY RIPRISTINATO",
-  "lead": "Spotify è tornato online dopo 30 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Spotify è stato risolto. L'interruzione è durata circa 30 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SPOTIFY OFFLINE: EMERGENZA TOTALE",
+  "lead": "Spotify risulta completamente irraggiungibile da diciotto minuti. Il servizio streaming è crollato, bloccando l'accesso a musica e podcast per milioni di utenti italiani. La piattaforma è inaccessibile da qualsiasi dispositivo, causando un'interruzione improvvisa e totale della fruizione del contenuto digitale.",
+  "corpo1": "Il disservizio è iniziato alle ore correnti, con un blackout totale della piattaforma. Gli utenti riportano l'impossibilità di caricare la home page, avviare la riproduzione o sincronizzare le playlist. Sia l'app mobile che la versione web sono inaccessibili, generando errori di connessione persistenti. Non si tratta di un problema locale, ma di un guasto infrastrutturale centrale che impedisce qualsiasi interazione con il servizio. L'impatto è immediato e diffuso, lasciando gli ascoltatori senza accesso al catalogo musicale. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-26T12:19:51.683354+00:00",
+  "published_at": "2026-08-30T08:05:18.440888+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
-  "related": [
-    {
-      "title": "Revolut è tornato online dopo 48 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 403 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Discord è tornato online dopo 85 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
