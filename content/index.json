@@ -1,5 +1,20 @@
 [
   {
+    "id": "5d1edc7ff052a1fb",
+    "slug": "test-estivo-a-messina-per-gli-azzurri-di-de-giorgi-5d1edc7ff052a1fb",
+    "title": "Test estivo a messina per gli azzurri di de giorgi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-08-30T21:50:05.385361+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/24/e66e9031b30afe1e4538cb3857aa5768.jpg",
+    "occhiello": "TEST ESTIVO A MESSINA PER GLI AZZURRI DI DE GIORGI",
+    "lead_preview": "Messina, 30 agosto 2026. L'Italia supera il Brasile per tre set a uno nel test amichevole disputato sul parquet sicilian",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1930524b38e838cb",
     "slug": "calcio-vittoria-sofferta-a-cagliari-lallenatore-no-1930524b38e838cb",
     "title": "Calcio: l'Inter batte il Cagliari in trasferta e sogna la Champions",
@@ -2297,21 +2312,6 @@
     "image_url": "https://sport.sky.it/assets/images/2f9b6d92ce2a4c6c14dd6e12d86528e5300c9b23/skysport/it/calcio/serie-c/video/2026/08/29/1120759_1788039381300_thumb_494.0000001_1788040009330.jpg",
     "occhiello": "IL CAMPIONATO DI SERIE C RIPARTE DAL GOL DECISIVO",
     "lead_preview": "La Spezia, 29 agosto 2026. La formazione dello Spezia si impone per una rete a zero sul Campobasso nella seconda giornat",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5d1edc7ff052a1fb",
-    "slug": "test-estivo-a-messina-per-gli-azzurri-di-de-giorgi-5d1edc7ff052a1fb",
-    "title": "Test estivo a messina per gli azzurri di de giorgi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-30T21:50:05.385361+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/24/e66e9031b30afe1e4538cb3857aa5768.jpg",
-    "occhiello": "TEST ESTIVO A MESSINA PER GLI AZZURRI DI DE GIORGI",
-    "lead_preview": "Messina, 30 agosto 2026. L'Italia supera il Brasile per tre set a uno nel test amichevole disputato sul parquet sicilian",
     "tags": [],
     "hero_eligible": true
   },
