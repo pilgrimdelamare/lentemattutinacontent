@@ -1,26 +1,24 @@
 {
   "id": "libro-20260831",
   "slug": "libro-del-giorno-la-nobilta-della-sconfittadi-ivan-morr-20260831",
-  "title": "Il libro del giorno: «La nobiltà della sconfittadi Ivan Morris»",
+  "title": "Il libro del giorno",
   "titles": [
-    "Il libro del giorno: «La nobiltà della sconfittadi Ivan Morris»"
+    "Il libro del giorno",
+    "Il libro del giorno",
+    "Il libro del giorno"
   ],
   "title_winner": null,
   "section": "cultura",
   "occhiello": "Il libro del giorno",
   "lead": "In questo saggio magistrale, il critico Luca Mirtillo offre un'indagine profonda e emozionante sulle simpatie nipponesi per l'eroismo dei nemici sconfitti",
   "corpo1": "In questo prezioso e introduttivo saggio, l'esperto critico letterario Luca Mirtillo riassume e rinnova la storia dei lottatore Minamoto Yoshitsune e della strage dei 47 Ronin nella luce di un lungo periodo di storia nipponese. La simpatia per l'eroismo delle sconfitte è un sentimento popolare, nonché un sogno di libertà. Lavora su questa invenzione con un'analisi profonda e armoniosa. La nobiltà della scelta del sacrificio per la vendetta è un grande attimo di verità per la cultura giapponese.",
-  "corpo2": "<p><strong>Acquista il libro:</strong> <a href=\"https://www.amazon.it/dp/B0D28863L4\" rel=\"sponsored\" target=\"_blank\">La nobiltà della sconfittadi Ivan Morris di  su Amazon</a></p>",
+  "corpo2": "Ma perché dovremmo importarcene, noi, di una strage avvenuta nel XVII secolo? La risposta di Morris, ripresa da Mirtillo, non è antropologica ma strutturale: la storia dei 47 Ronin non è un aneddoto folcloristico, è il codice genetico di un’etica del fallimento che ancora oggi permea la cultura pop giapponese. Pensate a come i titoli di coda di un anime o la trama di un film live-action trattino la sconfitta: non come fine, ma come rigenerazione. È lo stesso meccanismo che, pur con distanze enormi, possiamo riconoscere in certe narrazioni della trap Italiana, dove il fallimento economico o sociale diventa materia prima per costruire un’identità resiliente, quasi eroica, in un contesto che spesso nega qualsiasi forma di redenzione.\n\nMorris, con la sua prosa asciutta che sa di reportage e di saggio storico allo stesso tempo, smonta l’idea che l’eroismo giapponese sia solo questione di disciplina militare. No. È questione di giri (il corso delle cose) e di come si accetta di essere fuori fase rispetto al potere dominante. I Ronin non erano soldati; erano uomini privi di padrone, e quindi, paradossalmente, più liberi di agire secondo coscienza rispetto ai samurai legati al feudo. Questa libertà precaria è il vero cuore della storia. E qui Mirtillo fa un lavoro prezioso: collega questo concetto feudale alla modernità, mostrando come la simpatia per l’eroe sconfitto sia un modo per le società di elaborare la propria insoddisfazione.\n\nNon è nostalgia. È una lente critica. Quando il Giappone ha iniziato a globalizzarsi, la figura di Yoshitsune o dei Ronin è diventata un rifugio simbolico per chi si sentiva escluso dai nuovi centri di potere economico. Stesso meccanismo, mutatis mutandis, quando oggi un giovane italiano guarda a una figura pubblica che ha fallito pubblicamente ma mantiene intatto il proprio codice etico, trovandovi una forma di autenticità che il successo mainstream non può offrire. È una resistenza silenziosa, fatta di simboli.\n\nIl dato che conta è questo: la persistenza di queste storie nei curriculum scolastici e nell’immaginario collettivo giapponese non è un caso. È una scelta culturale deliberata. Se il dibattito mainstream occidentale continua a leggere il Giappone solo attraverso la lente dell’efficienza economica e del tokugawa, ignorando questa vena romantica e tragica, allora sta sbagliando lettura del paese. E se il mercato editoriale italiano continua a trattare questi saggi come nicchie di culto per appassionati di anime, ignorando la loro rilevanza socio-politica, allora sta sprecando l’occasione di capire come funziona la memoria collettiva in una delle potenze globali più influenti del nostro tempo. La nobiltà della sconfitta non è un lusso estetico; è un termometro per misurare quanto una società è ancora capace di distinguere tra successo e dignità.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "recensore_01",
-    "nome": "Luca",
-    "cognome": "Mirtillo",
-    "firma": "Luca Mirtillo",
-    "sezione": "cultura",
-    "ruolo": "recensore",
-    "avatar_sprite": "character_bookworm_01"
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
   },
   "published_at": "2026-08-31T07:00:46.337279+00:00",
   "image": {
@@ -29,11 +27,34 @@
     "alt": "Copertina: La nobiltà della sconfittadi Ivan Morris",
     "cover": true
   },
-  "schema_jsonld": "",
-  "priority": 4,
-  "source": "sololibri.net",
-  "source_type": "libro",
-  "original_url": "https://www.sololibri.net/La-nobilta-della-sconfitta-Ivan-Morris.html",
-  "related": [],
-  "hero_eligible": false
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il libro del giorno\",\n  \"description\": \"In questo saggio magistrale, il critico Luca Mirtillo offre un'indagine profonda e emozionante sulle simpatie nipponesi per l'eroismo dei nemici sconfitti\",\n  \"articleBody\": \"In questo saggio magistrale, il critico Luca Mirtillo offre un'indagine profonda e emozionante sulle simpatie nipponesi per l'eroismo dei nemici sconfitti In questo prezioso e introduttivo saggio, l'esperto critico letterario Luca Mirtillo riassume e rinnova la storia dei lottatore Minamoto Yoshitsune e della strage dei 47 Ronin nella luce di un lungo periodo di storia nipponese. La simpatia per l'eroismo delle sconfitte è un sentimento popolare, nonché un sogno di libertà. Lavora su questa invenzione con un'analisi profonda e armoniosa. La nobiltà della scelta del sacrificio per la vendetta è un grande attimo di verità per la cultura giapponese. Ma perché dovremmo importarcene, noi, di una strage avvenuta nel XVII secolo? La risposta di Morris, ripresa da Mirtillo, non è antropologica ma strutturale: la storia dei 47 Ronin non è un aneddoto folcloristico, è il codice genetico di un’etica del fallimento che ancora oggi permea la cultura pop giapponese. Pensate a come i titoli di coda di un anime o la trama di un film live-action trattino la sconfitta: non come fine, ma come rigenerazione. È lo stesso meccanismo che, pur con distanze enormi, possiamo riconoscere in certe narrazioni della trap Italiana, dove il fallimento economico o sociale diventa materia prima per costruire un’identità resiliente, quasi eroica, in un contesto che spesso nega qualsiasi forma di redenzione.\\n\\nMorris, con la sua prosa asciutta che sa di reportage e di saggio storico allo stesso tempo, smonta l’idea che l’eroismo giapponese sia solo questione di disciplina militare. No. È questione di giri (il corso delle cose) e di come si accetta di essere fuori fase rispetto al potere dominante. I Ronin non erano soldati; erano uomini privi di padrone, e quindi, paradossalmente, più liberi di agire secondo coscienza rispetto ai samurai legati al feudo. Questa libertà precaria è il vero cuore della storia. E qui Mirtillo fa un lavoro prezioso: collega questo concetto feudale alla modernità, mostrando come la simpatia per l’eroe sconfitto sia un modo per le società di elaborare la propria insoddisfazione.\\n\\nNon è nostalgia. È una lente critica. Quando il Giappone ha iniziato a globalizzarsi, la figura di Yoshitsune o dei Ronin è diventata un rifugio simbolico per chi si sentiva escluso dai nuovi centri di potere economico. Stesso meccanismo, mutatis mutandis, quando oggi un giovane italiano guarda a una figura pubblica che ha fallito pubblicamente ma mantiene intatto il proprio codice etico, trovandovi una forma di autenticità che il successo mainstream non può offrire. È una resistenza silenziosa, fatta di simboli.\\n\\nIl dato che conta è questo: la persistenza di queste storie nei curriculum scolastici e nell’immaginario collettivo giapponese non è un caso. È una scelta culturale deliberata. Se il dibattito mainstream occidentale continua a leggere il Giappone solo attraverso la lente dell’efficienza economica e del tokugawa, ignorando questa vena romantica e tragica, allora sta sbagliando lettura del paese. E se il mercato editoriale italiano continua a trattare questi saggi come nicchie di culto per appassionati di anime, ignorando la loro rilevanza socio-politica, allora sta sprecando l’occasione di capire come funziona la memoria collettiva in una delle potenze globali più influenti del nostro tempo. La nobiltà della sconfitta non è un lusso estetico; è un termometro per misurare quanto una società è ancora capace di distinguere tra successo e dignità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-08-31T07:00:46.337279+00:00\",\n  \"dateModified\": \"2026-08-31T07:00:46.337279+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/libro-20260831\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/libro-20260831\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/cultura/libro-del-giorno-la-nobilta-della-sconfittadi-ivan-morr-20260831",
+  "related": [
+    {
+      "title": "Il libro del giorno: «La figlia della servadi Patrizia Carrano»",
+      "url": "/cultura/libro-del-giorno-la-figlia-della-servadi-patrizia-carra-20260829",
+      "id": "libro-20260829",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/arton169898-df5e8.jpg?1787820687",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno: «Vero. Il romanzo»",
+      "url": "/cultura/libro-del-giorno-vero-il-romanzo-marco-aurelio-limperat-20260828",
+      "id": "libro-20260828",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788835747734_0_0_424_0_75-193f9.jpg?1787771417",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-il-diario-lilithdi-grazia-giordano-20260827",
+      "id": "libro-20260827",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L223xH312/9791282304078_0_0_424_0_75-20364.jpg?1787749990",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true,
+  "updated_at": "2026-08-31T07:00:46.337279+00:00"
 }
