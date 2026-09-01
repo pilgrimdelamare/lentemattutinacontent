@@ -1,5 +1,20 @@
 [
   {
+    "id": "f88d509bcf4dc5ec",
+    "slug": "raid-russo-a-kiev-sette-morti-nel-deposito-ferrovi-f88d509bcf4dc5ec",
+    "title": "Raid russo a kiev: sette morti nel deposito ferroviario",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-01T06:25:11.819803+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/29/4098c775389c03688f403fe178231752.jpg",
+    "occhiello": "RAID RUSSO A KIEV: SETTE MORTI NEL DEPOSITO FERROVIARIO",
+    "lead_preview": "Kiev, 1 settembre 2026. Sette persone sono morte e un ferito è ricoverato in ospedale in seguito a un raid russo che ha ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3e33f62b5d242049",
     "slug": "euro-fermo-a-11609-dollari-lattesa-paralizza-i-mer-3e33f62b5d242049",
     "title": "Euro fermo a 1,1609 dollari: l'attesa paralizza i mercati",
@@ -7632,25 +7647,6 @@
     "occhiello": "SICUREZZA E NARCOTRAFFICO, VERTICE TRA MESSICO E USA A WASHINGTON",
     "lead_preview": "SICUREZZA, UN TERMINE CHE COPRE TUTTO E NON SPIEGA NIENTE Washington, 27 agosto. un vertice tra Messico e Stati Uniti si",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7ecb25c32c39a5f3",
-    "slug": "marotta-difende-la-linea-federale-sul-caso-simonel-7ecb25c32c39a5f3",
-    "title": "Marotta difende la linea federale sul caso simonelli",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-27T18:13:44.731833+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/28/4e0f2a152fd7a2947f96fb29a7fa29ba.jpg",
-    "occhiello": "MAROTTA DIFENDE LA LINEA FEDERALE SUL CASO SIMONELLI",
-    "lead_preview": "Milano, 27 agosto 2026. Giuseppe Marotta è intervenuto pubblicamente sulla questione legata a Simonelli, confermando che",
-    "tags": [
-      "futbol",
-      "politica",
-      "giudiziario"
-    ],
     "hero_eligible": true
   }
 ]
