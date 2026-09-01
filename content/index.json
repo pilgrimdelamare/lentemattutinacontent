@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260901",
+    "slug": "libro-del-giorno-i-fratelli-zzlidi-alex-cousseau-e-anne-20260901",
+    "title": "Il libro del giorno: «I fratelli Zzlidi Alex Cousseau e Anne-Lise Boutin»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una fiaba illustrata sull'accoglienza e il valore della diversità",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-01T07:00:45.293603+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/zzli-2ceb7.jpg?1787754107",
+      "alt": "Copertina: I fratelli Zzlidi Alex Cousseau e Anne-Lise Boutin",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/zzli-2ceb7.jpg?1787754107",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "3945a4bace364abb",
     "slug": "roster-affollato-rockets-sheppard-gioca-il-suo-fut-3945a4bace364abb",
     "title": "Roster affollato, rockets: sheppard gioca il suo futuro",
@@ -7637,21 +7656,6 @@
     "image_url": "https://sport.sky.it/assets/images/43014da0d076e89fdd056df28ee434e31d5ddc71/skysport/it/calcio/calciomercato/video/2026/08/27/1120286_1787863251975_thumb_494.0000001_1787864140525.jpg",
     "occhiello": "LA ROMA INTERROMPE LE TRATTATIVE DI MERCATO PER IL DIFENSORE",
     "lead_preview": "Roma, 27 agosto 2026. La Roma ha ufficialmente rinunciato all'acquisto del difensore Jayden Oosterwolde, interrompendo l",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f65cb37f7f854b22",
-    "slug": "le-forze-democratiche-siriane-si-sciolgono-f65cb37f7f854b22",
-    "title": "Le forze democratiche siriane si sciolgono",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-08-26T23:40:44.380953+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMDgvMjYvMTQzNjA0ODY1LTc5ZjRmYjQyLTZiMjktNDYwNS1iMDI5LWJhYjQ3Y2M4MTU3Ni5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "LE FORZE DEMOCRATICHE SIRIANE SI SCIOLGONO",
-    "lead_preview": "Damasco, 26 agosto 2026. Le Forze democratiche siriane, principale formazione armata a guida curda del Paese, hanno annu",
     "tags": [],
     "hero_eligible": true
   }
