@@ -1,5 +1,20 @@
 [
   {
+    "id": "7e9333bcec0738f4",
+    "slug": "un-titolo-accademico-al-volto-piu-noto-del-cinema-7e9333bcec0738f4",
+    "title": "Un titolo accademico al volto più noto del cinema italiano",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-01T11:30:26.871993+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/d27899f4f9455da3af2ccf252a46fe1f.jpg",
+    "occhiello": "UN TITOLO ACCADEMICO AL VOLTO PIÙ NOTO DEL CINEMA ITALIANO",
+    "lead_preview": "Roma, 1 settembre 2026. L'Università di Foggia conferisce la Laurea honoris causa a Pierfrancesco Favino in filologia, l",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c1ff7806be815dc0",
     "slug": "ex-lega-rispolverano-il-vecchio-marchio-contro-sal-c1ff7806be815dc0",
     "title": "Ex lega rispolverano il vecchio marchio contro salvini",
@@ -7636,21 +7651,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/7dc014587917b9f6163102635b291061.jpg",
     "occhiello": "BOLOGNA OSPITA L'ANTEPRIMA DEL NUOVO FILM DI OLIVIA WILDE",
     "lead_preview": "Bologna, 28 agosto 2026. Il film The Invite. Il piacere è tutto nostro, diretto e interpretato da Olivia Wilde, arriva i",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "df4ae9354f1e7e6b",
-    "slug": "roma-premia-odisseo-nel-primo-semestre-df4ae9354f1e7e6b",
-    "title": "Il boom del mito greco",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-08-27T12:14:05.425325+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/38ff878d11ee2976f3228ae304407e82.jpg",
-    "occhiello": "ROMA PREMIA ODISSEO NEL PRIMO SEMESTRE",
-    "lead_preview": "Roma, 27 agosto 2026. Consegnati nel primo semestre dell'anno 290.000 testi nelle Biblioteche di Roma, registrando un bo",
     "tags": [],
     "hero_eligible": true
   }
