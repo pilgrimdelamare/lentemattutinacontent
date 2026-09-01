@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260901",
+    "slug": "libro-del-giorno-i-fratelli-zzlidi-alex-cousseau-e-anne-20260901",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-01T07:00:45.293603+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/zzli-2ceb7.jpg?1787754107",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "Una fiaba illustrata sull'accoglienza e il valore della diversità",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6845d8267769b823",
     "slug": "minacce-di-distruzione-totale-da-washington-verso-6845d8267769b823",
     "title": "Minacce di distruzione totale da washington verso teheran",
@@ -2454,25 +2469,6 @@
     "lead_preview": "Ravenna, 31 agosto 2026. Trenta opere dell'artista Alberto Orioli vengono esposte al pubblico a partire dal 4 settembre ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260901",
-    "slug": "libro-del-giorno-i-fratelli-zzlidi-alex-cousseau-e-anne-20260901",
-    "title": "Il libro del giorno: «I fratelli Zzlidi Alex Cousseau e Anne-Lise Boutin»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "una fiaba illustrata sull'accoglienza e il valore della diversità",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-01T07:00:45.293603+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/zzli-2ceb7.jpg?1787754107",
-      "alt": "Copertina: I fratelli Zzlidi Alex Cousseau e Anne-Lise Boutin",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L234xH312/zzli-2ceb7.jpg?1787754107",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "3945a4bace364abb",
