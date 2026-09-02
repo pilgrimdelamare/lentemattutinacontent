@@ -1,5 +1,23 @@
 [
   {
+    "id": "66de72e11152eb4f",
+    "slug": "ferrari-a-milano-apre-il-fine-settimana-del-gran-p-66de72e11152eb4f",
+    "title": "Ferrari a milano apre il fine settimana del gran premio d'italia",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-02T14:18:34.513003+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ac1e3d54ee92d836789e28b6000647d69035c132/skysport/it/motori/formula-1/2026/09/02/f1-drive-to-monza-leclerc-hamilton-foto/f1_ferrari_milano_tifosi_duomo_palazzo_reale.jpg",
+    "occhiello": "FERRARI A MILANO APRE IL FINE SETTIMANA DEL GRAN PREMIO D'ITALIA",
+    "lead_preview": "Milano, 2 settembre 2026. Charles Leclerc e Lewis Hamilton incontrano i tifosi nel cuore di Milano nell'evento inaugural",
+    "tags": [
+      "gran premio d'italia",
+      "ferrari milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "97482a318989befd",
     "slug": "gonet-chiede-di-archiviare-il-caso-vorcaro-e-attac-97482a318989befd",
     "title": "Brasilia, il procuratore generale chiede l'archiviazione",
@@ -7667,21 +7685,6 @@
       "fisco under 35",
       "esodo cervelli"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "db4bf7d1d9c418ef",
-    "slug": "bogota-rimangia-il-blocco-del-2015-sul-glifosato-db4bf7d1d9c418ef",
-    "title": "Bogotà rimangia il blocco del 2015 sul glifosato",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-08-28T18:31:18.665970+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/15/c5d5e8f3425c8653a6566ff353d06ee9.jpg",
-    "occhiello": "BOGOTÀ RIMANGIA IL BLOCCO DEL 2015 SUL GLIFOSATO",
-    "lead_preview": "Bogotà, 28 agosto 2026. Il governo della Colombia ha annunciato la revoca dello stop alle fumigazioni aeree con glifosat",
-    "tags": [],
     "hero_eligible": true
   }
 ]
