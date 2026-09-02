@@ -1,5 +1,20 @@
 [
   {
+    "id": "9a412b735ac9387e",
+    "slug": "calcio-gli-azzurri-devono-decidere-subito-per-chiu-9a412b735ac9387e",
+    "title": "Calcio: Gli Azzurri devono decidere subito per chiudere la fase di transizione",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-02T18:47:58.606508+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/29/b257ee0327daa4c1b580db02757658d2.jpg",
+    "occhiello": "IL CT CHIEDE TEMPO ZERO TRA I NUOVI E I VECCHI",
+    "lead_preview": "Roma, 2 settembre 2026. L'agenzia Ansa raccoglie le dichiarazioni ufficiali degli Azzurri sulla necessità di decisioni r",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "fa9796fc5d42f001",
     "slug": "raid-diretti-e-risposta-su-kuwait-accendono-il-gol-fa9796fc5d42f001",
     "title": "Raid Usa colpiscono Iran: 11 morti e Teheran risponde con missili sui confini",
@@ -7646,25 +7661,6 @@
     "tags": [
       "downtime",
       "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:46:15.236051+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "SERVIZIO WHATSAPP RIABILITATO COMPLETAMENTE",
-    "lead_preview": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività dopo settantasette minuti di disservizio",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
