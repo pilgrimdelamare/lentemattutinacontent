@@ -1,5 +1,23 @@
 [
   {
+    "id": "136ce5b55999e5d5",
+    "slug": "medvedev-avanza-a-new-york-136ce5b55999e5d5",
+    "title": "Medvedev avanza a new york",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-02T18:20:28.141604+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/7a573948949af8228c0a40ced48cf69af2b8815a/skysport/it/tennis/2026/09/02/us-open-2026-risultati-oggi-2-settembre/medvedev_ipa.jpg",
+    "occhiello": "MEDVEDEV AVANZA A NEW YORK",
+    "lead_preview": "New York, 2 settembre 2026. Daniil Medvedev si qualifica al terzo turno degli US Open superando l'americano Sebastian Go",
+    "tags": [
+      "us open 2026",
+      "medvedev"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3f3a3032a9daf119",
     "slug": "qualificati-italiani-a-caccia-di-ranking-e-milioni-3f3a3032a9daf119",
     "title": "Qualificati italiani a caccia di ranking e milioni a new york",
@@ -7652,21 +7670,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/79ea28796974eba7bda2080ab981b249.jpg",
     "occhiello": "INFLAZIONE AL 3,4 PERCENTO E STRETTA MONETARIA IN ARRIVO",
     "lead_preview": "Roma, 29 agosto 2026. L'inflazione nell'Eurozona si attesta al 3,3% mentre in Italia sale al 3,4%, raggiungendo i livell",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0423724ef89426ee",
-    "slug": "roma-scommette-a-rate-balerdi-il-gioco-del-riscatt-0423724ef89426ee",
-    "title": "Roma scommette a rate: balerdi, il gioco del riscatto obbligatorio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-29T09:58:49.999212+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/22/8f873440d58db9610fbd5bd035e1928f.jpg",
-    "occhiello": "ROMA SCOMMETTE A RATE: BALERDI, IL GIOCO DEL RISCATTO OBBLIGATORIO",
-    "lead_preview": "Roma, 29 agosto. Il difensore Leonardo Balerdi è a un passo dal vestire la maglia giallorossa, con l'accordo tra la Roma",
     "tags": [],
     "hero_eligible": true
   }
