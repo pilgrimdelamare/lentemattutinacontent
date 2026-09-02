@@ -1,5 +1,20 @@
 [
   {
+    "id": "411947beee449859",
+    "slug": "treni-fermi-per-24-ore-lunedi-sera-scattera-lo-sto-411947beee449859",
+    "title": "Treni fermi per 24 ore: lunedì sera scatterà lo stop nazionale",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-02T19:39:44.489510+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/12/8ea0fe7583b135a41cea405b765f40dd.jpg",
+    "occhiello": "FERROVIE, SCIOPERO GENERALE DEI TRENI DEL 7 E 8 SETTEMBRE",
+    "lead_preview": "Milano, 2 settembre 2026. Dalle 21 di lunedì alle 21 di martedì si terrà uno sciopero dei treni proclamato per le date d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ddd51b0886f7e36d",
     "slug": "istanbul-ospita-la-fase-finale-del-torneo-di-palla-ddd51b0886f7e36d",
     "title": "Istanbul ospita la fase finale del torneo di pallavolo",
@@ -7630,25 +7645,6 @@
     "tags": [
       "downtime",
       "youtube",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:46:18.364402+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIAPERTO DOPO FERMO",
-    "lead_preview": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha interrotto l'accesso ai servizi, è durato n",
-    "tags": [
-      "downtime",
-      "claude",
       "disservizi"
     ],
     "hero_eligible": false
