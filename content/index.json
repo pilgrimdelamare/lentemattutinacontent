@@ -1,5 +1,20 @@
 [
   {
+    "id": "15654ebbd671bf1b",
+    "slug": "buenos-aires-e-montevideo-firmano-il-patto-sui-cie-15654ebbd671bf1b",
+    "title": "Buenos aires e montevideo firmano il patto sui cieli aperti",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-02T18:31:21.740289+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/22/1df7390e018d3a975508b18685aef14f.jpg",
+    "occhiello": "BUENOS AIRES E MONTEVIDEO FIRMANO IL PATTO SUI CIELI APERTI",
+    "lead_preview": "Buenos Aires, 2 settembre 2026. Argentina e Uruguay siglano un accordo di cieli aperti sul trasporto aereo per promuover",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "cc41f72a3b0518e5",
     "slug": "tre-attori-italiani-nel-cast-della-serie-the-gentl-cc41f72a3b0518e5",
     "title": "Tre attori italiani nel cast della serie the gentlemen 2",
@@ -7650,25 +7665,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è tornato online dopo 58 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:46:15.241050+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 58 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
