@@ -1,5 +1,20 @@
 [
   {
+    "id": "538a89f0e82b0d78",
+    "slug": "addio-alla-lazio-romagnoli-sceglie-il-qatar-538a89f0e82b0d78",
+    "title": "Addio alla lazio, romagnoli sceglie il qatar",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-02T22:39:40.098272+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/fa13c5ab650f8ce31925563ed6a4df072aff7191/skysport/it/calcio/calciomercato/video/2026/09/02/1121605_1788380449905_thumb_494.0000001_1788380925837.jpg",
+    "occhiello": "ADDIO ALLA LAZIO, ROMAGNOLI SCEGLIE IL QATAR",
+    "lead_preview": "Roma, 2 settembre 2026. Alessio Romagnoli lascia la Lazio e si trasferisce in Qatar, ponendo fine a un'era e chiudendo l",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6b2f8687e0c2e6e4",
     "slug": "petroliere-in-fiamme-a-hormuz-dopo-lurto-con-le-mi-6b2f8687e0c2e6e4",
     "title": "Petroliere in fiamme a hormuz dopo l'urto con le mine",
@@ -7616,24 +7631,5 @@
     "lead_preview": "Dañino, 29 agosto. Tadej Pogacar è uscito di scena dalla Vuelta a Spagna dopo una caduta avvenuta a circa 33 chilometri ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_netflix",
-    "slug": "disservizio-netflix",
-    "title": "Netflix è tornato online dopo 97 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:52:06.011420+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/netflix.com",
-    "occhiello": "NETFLIX RIPRISTINATO",
-    "lead_preview": "Netflix è tornato online dopo 97 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
