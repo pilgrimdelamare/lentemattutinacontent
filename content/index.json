@@ -1,5 +1,20 @@
 [
   {
+    "id": "3293c6bc9ff278ab",
+    "slug": "giulia-presutti-lascia-la-conduzione-di-report-3293c6bc9ff278ab",
+    "title": "Giulia presutti lascia la conduzione di report",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-09-02T19:57:37.414296+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/2/12b6eb7f9544e90934dff6a2994b02af.jpg",
+    "occhiello": "GIULIA PRESUTTI LASCIA LA CONDUZIONE DI REPORT",
+    "lead_preview": "Roma, 2 settembre 2026. Giulia Presutti ha annunciato la rinuncia alla conduzione di Report, il programma di giornalismo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5dc2b764176f5114",
     "slug": "pallavolo-il-ct-ammette-la-crisi-di-lucidita-prima-5dc2b764176f5114",
     "title": "Pallavolo: il CT ammette la crisi di lucidità prima del recupero in Eurovolley",
@@ -7625,25 +7640,6 @@
     "tags": [
       "downtime",
       "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è tornato online dopo 83 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:52:05.574613+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "TIKTOK RIPRISTINATO",
-    "lead_preview": "TikTok è tornato online dopo 83 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "tiktok",
       "disservizi"
     ],
     "hero_eligible": false
