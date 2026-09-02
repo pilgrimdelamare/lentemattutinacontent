@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260902",
+    "slug": "libro-del-giorno-lestate-dei-ricordidi-jenny-hale-20260902",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-02T07:00:43.895661+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81x5wph5jal__sl1500_-d4c88.jpg?1787830019",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un emozionante romanzo di formazione ambientato su un'isola dell'Oceano Atlantico",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a36607d4a686fffe",
     "slug": "la-lettera-della-madre-dopo-la-sparatoria-ad-aarau-a36607d4a686fffe",
     "title": "Svizzera, Italiana 22enne resta uccisa a rave ad Aarau: killer arrestato",
@@ -2189,25 +2204,6 @@
     "lead_preview": "Monza, 2 settembre. Il Gran Premio d'Italia del 1999 è passato alla storia per il drammatico ritiro di Mika Häkkinen, il",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260902",
-    "slug": "libro-del-giorno-lestate-dei-ricordidi-jenny-hale-20260902",
-    "title": "Il libro del giorno: «L’estate dei ricordidi Jenny Hale»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un emozionante romanzo di formazione ambientato su un'isola dell'Oceano Atlantico",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-02T07:00:43.895661+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81x5wph5jal__sl1500_-d4c88.jpg?1787830019",
-      "alt": "Copertina: L’estate dei ricordidi Jenny Hale",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L201xH312/81x5wph5jal__sl1500_-d4c88.jpg?1787830019",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "98b7e71d5d70aecd",
