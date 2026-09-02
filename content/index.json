@@ -1,5 +1,20 @@
 [
   {
+    "id": "facc269560f6a8f2",
+    "slug": "il-risultato-finale-della-partita-di-serie-c-di-le-facc269560f6a8f2",
+    "title": "Il risultato finale della partita di serie c di lega pro",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-02T22:29:52.807111+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/68b47d9fe869cfaac39230d0f77d86a0e3926f64/skysport/it/calcio/serie-c/video/2026/09/02/1121624_1788384352804_thumb_494.0000001_1788385235971.jpg",
+    "occhiello": "IL RISULTATO FINALE DELLA PARTITA DI SERIE C DI LEGA PRO",
+    "lead_preview": "Roma, 2 settembre 2026. La partita tra il Catania e il Savoia si è conclusa con il punteggio di zero a tre, secondo quan",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0d8db4be6f4e4436",
     "slug": "trapani-un-investimento-pnrr-da-17-milioni-per-lex-0d8db4be6f4e4436",
     "title": "Trapani, un investimento pnrr da 1,7 milioni per l'ex convento",
@@ -7621,25 +7636,6 @@
     "tags": [
       "downtime",
       "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:52:03.185648+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIPRISTINATO",
-    "lead_preview": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
