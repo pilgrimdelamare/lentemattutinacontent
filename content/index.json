@@ -1,5 +1,20 @@
 [
   {
+    "id": "edaec48c89d9ad7e",
+    "slug": "giornalista-lasia-agenzia-di-comunicazione-politic-edaec48c89d9ad7e",
+    "title": "Giornalista lasia agenzia di comunicazione politica",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-09-01T14:59:19.017653+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/811a5fa92c54ead8bdd687f3b15cbf47.jpg",
+    "occhiello": "GIORNALISTA LASIA AGENZIA DI COMUNICAZIONE POLITICA",
+    "lead_preview": "Roma, 1 settembre. Il giornalista Calabresi ha annunciato la sua uscita da Chora, agenzia di comunicazione con cui ha co",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "41a314ed7de96071",
     "slug": "pezeshkian-sfida-trump-liran-rispetta-laccordo-sol-41a314ed7de96071",
     "title": "Teheran chiede a washington il rispetto degli accordi",
@@ -1694,21 +1709,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/5f75d539fe6f8f3ec64ffa68a4b03863.jpg",
     "occhiello": "NEW YORK, LA SELEZIONE NATURALE DEL CEMENTO",
     "lead_preview": "Roma, 1 settembre. Sul cemento di New York, il primo turno degli Us Open ha imposto la sua selezione tra i tennisti ital",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "edaec48c89d9ad7e",
-    "slug": "giornalista-lasia-agenzia-di-comunicazione-politic-edaec48c89d9ad7e",
-    "title": "Giornalista lasia agenzia di comunicazione politica",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-09-01T14:59:19.017653+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/811a5fa92c54ead8bdd687f3b15cbf47.jpg",
-    "occhiello": "GIORNALISTA LASIA AGENZIA DI COMUNICAZIONE POLITICA",
-    "lead_preview": "Roma, 1 settembre. Il giornalista Calabresi ha annunciato la sua uscita da Chora, agenzia di comunicazione con cui ha co",
     "tags": [],
     "hero_eligible": true
   },
