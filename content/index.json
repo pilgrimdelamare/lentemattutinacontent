@@ -1,5 +1,23 @@
 [
   {
+    "id": "311b39474640c9d1",
+    "slug": "il-mattone-elettorale-di-fratelli-ditalia-divide-l-311b39474640c9d1",
+    "title": "Il mattone elettorale di fratelli d'italia divide la maggioranza",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-09-02T23:31:08.833888+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/02/224705626-60dcadb1-05e8-4749-815b-5d6bd623ca69.jpg",
+    "occhiello": "IL MATTONE ELETTORALE DI FRATELLI D'ITALIA DIVIDE LA MAGGIORANZA",
+    "lead_preview": "Roma, 3 settembre 2026. Matteo Salvini annuncia lo stop al ballottaggio nella riforma della Legge Elettorale, mentre Fra",
+    "tags": [
+      "riforma legge elettorale",
+      "ballottaggio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28bd842d0df53804",
     "slug": "il-veto-dei-governatori-del-nord-28bd842d0df53804",
     "title": "Il veto dei governatori del nord",
@@ -7612,24 +7630,5 @@
     "lead_preview": "Roma, 29 agosto 2026. José Mourinho, l'attuale tecnico del Real Madrid, ha dichiarato che Kylian Mbappé meriterebbe Il P",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato online dopo 69 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-30T08:57:53.661372+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY RIPRISTINATO",
-    "lead_preview": "Spotify è tornato online dopo 69 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
