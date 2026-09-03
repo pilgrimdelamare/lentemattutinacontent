@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260903",
+    "slug": "libro-del-giorno-affetti-non-desideratidi-elena-rui-20260903",
+    "title": "Il libro del giorno: «Affetti non desideratidi Elena Rui»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una raccolta di racconti dal titolo ossimorico",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-03T07:00:42.722219+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
+      "alt": "Copertina: Affetti non desideratidi Elena Rui",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "5c5249b08bf7d0a1",
     "slug": "spread-a-829-punti-e-rendimento-italiano-al-419-pe-5c5249b08bf7d0a1",
     "title": "Spread a 82,9 punti e rendimento italiano al 4,19 per cento",
@@ -7610,21 +7629,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/10a1efc223c33d153f5eb914041113fb.jpg",
     "occhiello": "SCONTRO SUL SERVIZIO PUBBLICO DOPO L'ADDIO AL PROGRAMMA",
     "lead_preview": "Roma, 29 agosto 2026. Fratelli d'Italia ha espresso contrarietà alla concessione del Teatro dell'Efebo a Sigfrido Ranucc",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4299ab8a89eec9e1",
-    "slug": "lex-deputato-del-movimento-5-stelle-ricoverato-a-l-4299ab8a89eec9e1",
-    "title": "L'ex deputato del movimento 5 stelle ricoverato a l'avana",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-08-29T11:05:10.396822+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2016/8/7/3f90679623fa23ff4ddf6caad0b1bf93.jpg",
-    "occhiello": "L'EX DEPUTATO DEL MOVIMENTO 5 STELLE RICOVERATO A L'AVANA",
-    "lead_preview": "L'Avana, 29 agosto 2026. Alessandro Di Battista, ex Deputato del Movimento 5 Stelle, è stato ricoverato in ospedale in g",
     "tags": [],
     "hero_eligible": true
   }
