@@ -1,5 +1,20 @@
 [
   {
+    "id": "1aa2d46493062f04",
+    "slug": "il-cinema-italiano-tra-dialogo-e-botteghino-1aa2d46493062f04",
+    "title": "Il cinema italiano tra dialogo e botteghino",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-03T12:51:46.398913+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/683a65b7610b782491b1b5acf768bb1c.jpg",
+    "occhiello": "IL CINEMA ITALIANO TRA DIALOGO E BOTTEGHINO",
+    "lead_preview": "Roma, 3 settembre 2026. La Mostra Internazionale d'Arte Cinematografica di Venezia ospita il dibattito sul futuro del si",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c85836c4bd265092",
     "slug": "un-piccolo-tatuaggio-sul-polpaccio-costa-lesclusio-c85836c4bd265092",
     "title": "Un piccolo tatuaggio sul polpaccio costa l'esclusione dal concorso di polizia",
@@ -7627,21 +7642,6 @@
     "image_url": "https://sport.sky.it/assets/images/a52ea013c0478a70b77501eb82b0bf1030371a84/skysport/it/tennis/video/2026/08/30/cobolli-intervista-us-open-video/Cobolli_screen.jpg",
     "occhiello": "FLAVIO COBOLLI AL NUMERO SEI DEL MONDO",
     "lead_preview": "New York, 30 agosto 2026. Flavio Cobolli si presenta sui campi di Flushing Meadows occupando la sesta posizione del rank",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "71b4ef31d52d520f",
-    "slug": "calcio-roma-pesca-de-roon-per-1-milione-el-aynaoui-71b4ef31d52d520f",
-    "title": "El aynaoui lascia la roma per 4 milioni, arriva de roon",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-30T00:22:29.058233+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6e5a9a8391b1771cae51610c1bbd730751f49b93/skysport/it/calcio/calciomercato/2026/08/30/roma-de-roon-calciomercato-news/de_roon_el_aynaoui_ipa.jpg",
-    "occhiello": "EL AYNAOUI LASCIA LA ROMA PER 4 MILIONI, ARRIVA DE ROON",
-    "lead_preview": "Roma, 30 agosto. La Roma sta definendo l'acquisto di Marten De Roon dall'Atalanta per circa 1 milione di euro di bonus, ",
     "tags": [],
     "hero_eligible": true
   }
