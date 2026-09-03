@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260903",
+    "slug": "libro-del-giorno-affetti-non-desideratidi-elena-rui-20260903",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-03T07:00:42.722219+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una raccolta di racconti dal titolo ossimorico",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b480ec38051d0e8a",
     "slug": "trenta-milioni-e-cinque-scelte-revocate-ai-clipper-b480ec38051d0e8a",
     "title": "Clippers: multa record da 30 milioni e Ballmer fuori per un anno",
@@ -2468,25 +2483,6 @@
     "lead_preview": "Teheran, 1 settembre 2026. Martedì attorno alle 18:30 ora Italiana, il comando delle forze statunitensi in Medio Oriente",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260903",
-    "slug": "libro-del-giorno-affetti-non-desideratidi-elena-rui-20260903",
-    "title": "Il libro del giorno: «Affetti non desideratidi Elena Rui»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "una raccolta di racconti dal titolo ossimorico",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-03T07:00:42.722219+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
-      "alt": "Copertina: Affetti non desideratidi Elena Rui",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "362c69661804f0bd",
