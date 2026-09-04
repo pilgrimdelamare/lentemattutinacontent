@@ -1,5 +1,23 @@
 [
   {
+    "id": "e08e2bc8a47f1e95",
+    "slug": "un-morto-e-tre-feriti-a-odessa-e08e2bc8a47f1e95",
+    "title": "Un morto e tre feriti a odessa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-04T06:01:18.762193+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
+    "occhiello": "UN MORTO E TRE FERITI A ODESSA",
+    "lead_preview": "Odessa, 4 settembre. Un raid russo ha colpito la città di Odessa, provocando la morte di una persona e il ferimento di a",
+    "tags": [
+      "raid odessa",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e0b7222080c046f",
     "slug": "inflazione-in-venezuela-ferma-al-500-annuo-1e0b7222080c046f",
     "title": "Inflazione in venezuela ferma al 500% annuo",
@@ -2275,21 +2293,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/19/3d09fdfe92ff9f5d0e3a381d68c5c9a0.jpg",
     "occhiello": "CONSIP LANCIA LA PRIMA GARA PER LA QUALITÀ DEI CANTIERI",
     "lead_preview": "Roma, 3 settembre 2026. Consip ha avviato la prima gara per i Servizi di verifica della progettazione, introducendo un n",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e08e2bc8a47f1e95",
-    "slug": "un-morto-e-tre-feriti-a-odessa-e08e2bc8a47f1e95",
-    "title": "Un morto e tre feriti a odessa",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-04T06:01:18.762193+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
-    "occhiello": "UN MORTO E TRE FERITI A ODESSA",
-    "lead_preview": "Odessa, 4 settembre. Un raid russo ha colpito la città di Odessa, provocando la morte di una persona e il ferimento di a",
     "tags": [],
     "hero_eligible": true
   },
