@@ -1,5 +1,20 @@
 [
   {
+    "id": "4aa7992d92be482b",
+    "slug": "il-brent-tocca-i-95-dollari-mentre-il-wti-sale-a-9-4aa7992d92be482b",
+    "title": "Il brent tocca i 95 dollari mentre il wti sale a 91",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-09-04T06:14:22.894930+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/2/186142a97d544390c7e44135273c076f.jpg",
+    "occhiello": "IL BRENT TOCCA I 95 DOLLARI MENTRE IL WTI SALE A 91",
+    "lead_preview": "Milano, 4 settembre 2026. Il greggio Internazionale registra un nuovo movimento al rialzo sui mercati globali, con le qu",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "6f17ea32f2ceba3a",
     "slug": "missili-e-droni-sui-sistemi-satellitari-e-hangar-6f17ea32f2ceba3a",
     "title": "Missili e droni sui sistemi satellitari e hangar",
@@ -7628,24 +7643,6 @@
     "occhiello": "IL RENDIMENTO DI CAMPO E IL PESO DEI BILANCI",
     "lead_preview": "Milano, 30 agosto 2026. L'Inter supera il Cagliari per uno a zero al termine di una sfida decisa dai dettagli, mentre Cr",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ab9b0c766b872731",
-    "slug": "la-serie-c-regola-i-conti-sul-campo-ab9b0c766b872731",
-    "title": "La serie c regola i conti sul campo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-30T22:25:10.767710+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/70c64e97a6771d521b13a5801bfe85898999c0ed/skysport/it/calcio/serie-c/video/2026/08/30/1121003_1788125219711_thumb_494.0000001_1788125400234.jpg",
-    "occhiello": "LA SERIE C REGOLA I CONTI SUL CAMPO",
-    "lead_preview": "Crema, 30 agosto 2026. L'Union Brescia supera in trasferta la Pergolettese con il risultato di zero a uno nella gara val",
-    "tags": [
-      "serie c",
-      "union brescia"
-    ],
     "hero_eligible": true
   }
 ]
