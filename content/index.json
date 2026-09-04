@@ -1,5 +1,20 @@
 [
   {
+    "id": "1aa2d46493062f04",
+    "slug": "il-cinema-italiano-tra-dialogo-e-botteghino-1aa2d46493062f04",
+    "title": "Il cinema italiano tra dialogo e botteghino",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-03T12:51:46.398913+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/683a65b7610b782491b1b5acf768bb1c.jpg",
+    "occhiello": "IL CINEMA ITALIANO TRA DIALOGO E BOTTEGHINO",
+    "lead_preview": "Roma, 3 settembre 2026. La Mostra Internazionale d'Arte Cinematografica di Venezia ospita il dibattito sul futuro del si",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "69ead8d35a9bb0e2",
     "slug": "ventotto-anni-di-gestione-nerazzurra-e-il-bilancio-69ead8d35a9bb0e2",
     "title": "Ventotto anni di gestione nerazzurra e il bilancio degli acquisti",
@@ -2173,21 +2188,6 @@
       "acquisizione mapei",
       "werner janikowo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1aa2d46493062f04",
-    "slug": "il-cinema-italiano-tra-dialogo-e-botteghino-1aa2d46493062f04",
-    "title": "Il cinema italiano tra dialogo e botteghino",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-03T12:51:46.398913+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/683a65b7610b782491b1b5acf768bb1c.jpg",
-    "occhiello": "IL CINEMA ITALIANO TRA DIALOGO E BOTTEGHINO",
-    "lead_preview": "Roma, 3 settembre 2026. La Mostra Internazionale d'Arte Cinematografica di Venezia ospita il dibattito sul futuro del si",
-    "tags": [],
     "hero_eligible": true
   },
   {
