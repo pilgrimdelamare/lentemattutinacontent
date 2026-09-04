@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260903",
+    "slug": "libro-del-giorno-affetti-non-desideratidi-elena-rui-20260903",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-03T07:00:42.722219+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "una raccolta di racconti dal titolo ossimorico",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, venerdì 4 settembre 2026",
@@ -1322,21 +1337,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2013/10/22/c98c580c7bef06834d5fcb390d2ba931.jpg",
     "occhiello": "VARIAZIONI MINIME CELANO STAGNAZIONE REALE",
     "lead_preview": "Roma, 3 settembre 2026. L'Europa finanziaria ha aperto la giornata con movimenti minimi e senza una direzione univoca, u",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260903",
-    "slug": "libro-del-giorno-affetti-non-desideratidi-elena-rui-20260903",
-    "title": "Il libro del giorno",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-03T07:00:42.722219+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/9788868514860_0_0_424_0_75-4d3e6.jpg?1787748030",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "una raccolta di racconti dal titolo ossimorico",
     "tags": [],
     "hero_eligible": true
   },
