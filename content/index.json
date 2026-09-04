@@ -1,5 +1,20 @@
 [
   {
+    "id": "e08e2bc8a47f1e95",
+    "slug": "un-morto-e-tre-feriti-a-odessa-e08e2bc8a47f1e95",
+    "title": "Un morto e tre feriti a odessa",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-04T06:01:18.762193+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
+    "occhiello": "UN MORTO E TRE FERITI A ODESSA",
+    "lead_preview": "Odessa, 4 settembre. Un raid russo ha colpito la città di Odessa, provocando la morte di una persona e il ferimento di a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "df1c8d873cb9f57b",
     "slug": "barilla-compra-lazienda-americana-goodles-df1c8d873cb9f57b",
     "title": "Barilla compra l'azienda americana goodles",
@@ -7635,24 +7650,5 @@
       "union brescia"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 327 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-08-31T20:33:15.398167+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 327 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
