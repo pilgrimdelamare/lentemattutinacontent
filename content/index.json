@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:41:49.840783+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
@@ -7651,21 +7670,6 @@
     "image_url": "https://sport.sky.it/assets/images/df127818c544ff16fcff726767623e70073eb268/skysport/it/tennis/video/2026/09/01/cobolli-us-open-intervista-video-1121390/cobolli-stamp_ok.jpg",
     "occhiello": "RIMONTA AL PRIMO TURNO DEGLI US OPEN 2026",
     "lead_preview": "New York, 1 settembre 2026. Flavio Cobolli ha superato il primo turno degli US Open battendo l'argentino Camilo Ugo Cara",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "bec9e3f67ef84a09",
-    "slug": "calcio-lamine-yamal-spacca-la-liga-doppietta-show-bec9e3f67ef84a09",
-    "title": "Cinque reti a madrid e oltre cinquanta gol in blaugrana",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-31T21:51:21.772037+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/31/230183c5a86e0b8e1aa1e8bb3d66144c.jpg",
-    "occhiello": "CINQUE RETI A MADRID E OLTRE CINQUANTA GOL IN BLAUGRANA",
-    "lead_preview": "Madrid, 31 agosto 2026. Il Barcellona si impone per cinque reti a due sul campo del Rayo Vallecano nella sfida valida pe",
     "tags": [],
     "hero_eligible": true
   }
