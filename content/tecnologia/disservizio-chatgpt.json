@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+  "title": "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
   "titles": [
-    "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
-    "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
-    "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente "
+    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
+    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
+    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-  "lead": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani segnalano errori di connessione. L'impatto operativo è immediato e critico per chi dipende dall'assistente per lavoro e studio.",
-  "corpo1": "Il sistema di OpenAI ha interrotto tutte le comunicazioni in entrata e in uscita. Il disservizio è iniziato alle ore 09:15, registrando un picco anomalo di richieste fallite. Le funzionalità di generazione testuale, analisi dati e chat interattive sono totalmente compromesse. Gli utenti non riescono a inviare prompt né a ricevere risposte. La piattaforma web e le API restituiscono codici di errore 503. Non è possibile stabilire una tempistica per il ripristino. Stiamo monitorando la situazione.",
+  "lead": "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente fermo. Milioni di utenti italiani non possono più inviare prompt né ricevere risposte. La piattaforma è in stato di blackout totale, bloccando ogni interazione con l'intelligenza artificiale.",
+  "corpo1": "Il disservizio è iniziato alle 08:15 ora italiana. I server di OpenAI non rispondono alle richieste di connessione. Gli utenti segnalano timeout immediati e pagine di errore generiche. Le funzionalità di generazione testo, analisi dati e coding sono totalmente compromesse. Non è possibile accedere alla cronologia delle conversazioni precedenti. Chi dipende dall'AI per flussi di lavoro critici o supporto tecnico è attualmente bloccato. Non ci sono aggiornamenti ufficiali da parte del provider. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T08:55:05.977000+00:00",
+  "published_at": "2026-09-05T12:26:52.210850+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
-  "related": [
-    {
-      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
