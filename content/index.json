@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T15:04:53.231854+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_netflix",
     "slug": "disservizio-netflix",
     "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
@@ -71,25 +90,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T08:55:05.977000+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italia",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
