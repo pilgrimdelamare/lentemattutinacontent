@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare risulta irraggiungibile da venti minuti. Il malfunzionamento impedisc",
+  "title": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
   "titles": [
-    "Cloudflare risulta irraggiungibile da venti minuti. Il malfunzionamento impedisc",
-    "Cloudflare risulta irraggiungibile da venti minuti. Il malfunzionamento impedisc",
-    "Cloudflare risulta irraggiungibile da venti minuti. Il malfunzionamento impedisc"
+    "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ALERTA CRITICA: CLOUDFLARE OFFLINE",
-  "lead": "Cloudflare risulta irraggiungibile da venti minuti. Il malfunzionamento impedisce l'accesso a innumerevoli siti web e servizi digitali. Gli utenti italiani riscontrano errori di connessione immediati. La situazione sta generando un impatto significativo sulla produttività aziendale e sulla fruizione dei contenuti online in tempo reale.",
-  "corpo1": "Il sistema di Content Delivery Network ha subito un'interruzione totale delle operazioni. Da venti minuti, i nodi di distribuzione non rispondono alle richieste, bloccando la risoluzione DNS e la protezione DDoS per i clienti. Le funzionalità di caching e sicurezza sono completamente compromesse, lasciando i server di origine esposti e inaccessibili. Per le piattaforme che dipendono da Cloudflare per i gateway di pagamento, l'impossibilità di stabilire connessioni sicure sta causando un blocco immediato delle transazioni finanziarie. Gli utenti non possono completare acquisti né autenticarsi sui servizi critici. La latenza è assente perché la connessione fallisce istantaneamente. Stiamo monitorando la situazione.",
+  "occhiello": "CLOUDFLARE IN DOWN",
+  "lead": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 37 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T14:35:45.203250+00:00",
+  "published_at": "2026-09-05T22:11:57.081070+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     }
   ],
