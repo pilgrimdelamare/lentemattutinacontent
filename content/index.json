@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T21:28:33.291195+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "WHATSAPP RIPRISTINATO",
+    "lead_preview": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è tornato online dopo 145 minuti di interruzione.",
@@ -33,25 +52,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T13:43:02.785376+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "WHATSAPP RITORNATO ONLINE DOPO 229 MINUTI",
-    "lead_preview": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristinato. La piattaforma ha ripreso piena ope",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
