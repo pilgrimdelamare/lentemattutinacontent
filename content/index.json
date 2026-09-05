@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:57:13.635178+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RIPRISTINATO",
+    "lead_preview": "Satispay è tornato online dopo 515 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
@@ -204,25 +223,6 @@
     "tags": [
       "downtime",
       "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T07:33:35.831624+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completamente inaccessibile. Migliaia di utenti i",
-    "tags": [
-      "downtime",
-      "satispay",
       "disservizi"
     ],
     "hero_eligible": false
