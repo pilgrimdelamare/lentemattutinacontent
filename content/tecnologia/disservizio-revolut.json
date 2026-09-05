@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+  "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
   "titles": [
-    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina"
+    "Revolut è tornato online dopo 197 minuti di interruzione.",
+    "Revolut è tornato online dopo 197 minuti di interruzione.",
+    "Revolut è tornato online dopo 197 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT OFFLINE: CRITICITA' MASSIMA",
-  "lead": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente inaccessibile. Gli utenti italiani non possono effettuare operazioni bancarie o di pagamento. La situazione è critica e in evoluzione.",
-  "corpo1": "Il malfunzionamento è iniziato improvvisamente, bloccando l'accesso all'applicazione mobile e alla piattaforma web. Le funzionalità compromesse includono bonifici, pagamenti contactless, gestione del portafoglio e visualizzazione dei saldi. Per chi utilizza Revolut come strumento primario per transazioni quotidiane, l'impatto è immediato e operativo: impossibilità di pagare in negozi fisici o online. I server di autenticazione non rispondono, generando errori di connessione persistenti. Non sono disponibili alternative interne al sistema. Stiamo monitorando la situazione.",
+  "occhiello": "REVOLUT RIPRISTINATO",
+  "lead": "Revolut è tornato online dopo 197 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 197 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T07:33:35.830631+00:00",
+  "published_at": "2026-09-05T21:28:37.448904+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+      "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Belkin, Ugreen, Anker: i power bank con celle gel e ventole sbarcano a IFA",
-      "url": "/tecnologia/belkin-ugreen-anker-i-power-bank-con-celle-gel-e-v-4b56915a8867f11f",
-      "id": "4b56915a8867f11f",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/04/144153235-eaf10560-ac2c-4624-a79f-39c891703959.jpg",
+      "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     }
   ],
