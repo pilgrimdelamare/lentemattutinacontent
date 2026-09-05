@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:57:13.213737+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT RIPRISTINATO",
+    "lead_preview": "Revolut è tornato online dopo 81 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato online dopo 646 minuti di interruzione.",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "youtube",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_revolut",
-    "slug": "disservizio-revolut",
-    "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T21:28:37.448904+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/revolut.com",
-    "occhiello": "REVOLUT RIPRISTINATO",
-    "lead_preview": "Revolut è tornato online dopo 197 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "revolut",
       "disservizi"
     ],
     "hero_eligible": false
