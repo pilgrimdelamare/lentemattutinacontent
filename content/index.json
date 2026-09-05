@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T21:28:37.471920+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE RIAPRE DOPO QUASI OTTO ORE",
+    "lead_preview": "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'interruzione prolungata di 447 minuti. I ",
+    "tags": [
+      "downtime",
+      "youtube",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_revolut",
     "slug": "disservizio-revolut",
     "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_youtube",
-    "slug": "disservizio-youtube",
-    "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T08:29:25.777528+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/youtube.com",
-    "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inaccessibile per gli utenti italiani. Streami",
-    "tags": [
-      "downtime",
-      "youtube",
       "disservizi"
     ],
     "hero_eligible": false
