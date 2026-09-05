@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:33:16.851600+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "NUBIFLOW OFFLINE: ERRORE 522",
+    "lead_preview": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è completamente inaccessibile. Migliaia di",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
@@ -7635,21 +7654,6 @@
     "image_url": "https://sport.sky.it/assets/images/6ef8da4f2b5c0c3fb941154d2625ac192bb74d79/skysport/it/calcio/calciomercato/video/2026/08/31/1121178_1788202864684_thumb_494.0000001_1788203008149.jpg",
     "occhiello": "PAPE SARR È ATTERRATO A TORINO PER LA NUOVA AVVENTURA IN BIANCONERO",
     "lead_preview": "Torino, 31 agosto 2026. Il centrocampista Pape Sarr è atterrato nella serata del 31 agosto a Torino, segnando l'arrivo u",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "700590c117ea2d27",
-    "slug": "giuntoli-celebra-il-colpo-kessie-e-ringrazia-la-pr-700590c117ea2d27",
-    "title": "Giuntoli celebra il colpo kessié e ringrazia la proprietà",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-08-31T19:39:14.974967+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/9c2dd4fb7a2c437aa2692daee002e512.jpg",
-    "occhiello": "GIUNTOLI CELEBRA IL COLPO KESSIÉ E RINGRAZIA LA PROPRIETÀ",
-    "lead_preview": "Roma, 31 agosto 2026. Il direttore sportivo Cristiano Giuntoli ha commentato l'operazione di mercato che ha portato il c",
     "tags": [],
     "hero_eligible": true
   }
