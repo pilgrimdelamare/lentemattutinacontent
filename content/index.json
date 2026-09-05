@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T13:43:02.163886+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD RIPRISTINATO",
+    "lead_preview": "Discord è tornato online dopo 382 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
@@ -7667,21 +7686,6 @@
     "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/01/Immagini/Ritagli/Amazon_Pioltello5-U78545621814oLu-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
     "occhiello": "CINQUE MILIARDI VERSATI IN UN ANNO DAL GIOVANTE COLOSSO DI SEATTLE",
     "lead_preview": "Milano, 1 settembre 2026. Trenta miliardi di euro in quindici anni, di cui cinque spesi solo nel corso del 2025, rappres",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "07d0051b045cd205",
-    "slug": "dieci-regioni-pronte-a-discutere-la-legge-sul-fine-07d0051b045cd205",
-    "title": "Dieci regioni pronte a discutere la legge sul fine vita",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-09-01T00:48:39.432541+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/31/224739470-1c61b627-e226-41a5-8e07-1c7a2ed437fa.jpg",
-    "occhiello": "DIECI REGIONI PRONTE A DISCUTERE LA LEGGE SUL FINE VITA",
-    "lead_preview": "Roma, 1 settembre 2026. La Toscana, la Sardegna e l’Emilia-Romagna Hanno già legiferato sul Fine vita, mentre Liguria, C",
     "tags": [],
     "hero_eligible": true
   }
