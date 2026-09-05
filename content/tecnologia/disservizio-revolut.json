@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+  "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
   "titles": [
-    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
-    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
-    "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività "
+    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+    "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT RIAPRE DOPO SETTANTUNO MINUTI",
-  "lead": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività dei servizi. L'interruzione, durata settantuno minuti complessivi, ha interessato le funzionalità di pagamento e visualizzazione dei saldi. Il sistema è ora stabile e accessibile a tutti gli utenti.",
-  "corpo1": "Il disservizio è stato rilevato in mattinata, impedendo temporaneamente l'accesso alle funzioni principali dell'applicazione. I tecnici hanno identificato e risolto l'anomalia infrastrutturale che causava i blocchi. Dopo settantuno minuti di interruzione, i server sono tornati pienamente operativi. La verifica tecnica conferma la stabilità della rete e la corretta gestione delle transazioni. Non si registrano ulteriori rallentamenti. Gli utenti possono ora operare normalmente senza limitazioni. Il monitoraggio continuo resta attivo per garantire la continuità del servizio.",
+  "occhiello": "REVOLUT OFFLINE: CRITICITA' MASSIMA",
+  "lead": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente inaccessibile. Gli utenti italiani non possono effettuare operazioni bancarie o di pagamento. La situazione è critica e in evoluzione.",
+  "corpo1": "Il malfunzionamento è iniziato improvvisamente, bloccando l'accesso all'applicazione mobile e alla piattaforma web. Le funzionalità compromesse includono bonifici, pagamenti contactless, gestione del portafoglio e visualizzazione dei saldi. Per chi utilizza Revolut come strumento primario per transazioni quotidiane, l'impatto è immediato e operativo: impossibilità di pagare in negozi fisici o online. I server di autenticazione non rispondono, generando errori di connessione persistenti. Non sono disponibili alternative interne al sistema. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:46:17.844090+00:00",
+  "published_at": "2026-09-05T07:33:35.830631+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Discord è tornato online dopo 58 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Belkin, Ugreen, Anker: i power bank con celle gel e ventole sbarcano a IFA",
+      "url": "/tecnologia/belkin-ugreen-anker-i-power-bank-con-celle-gel-e-v-4b56915a8867f11f",
+      "id": "4b56915a8867f11f",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/04/144153235-eaf10560-ac2c-4624-a79f-39c891703959.jpg",
       "image_type": "image"
     }
   ],
