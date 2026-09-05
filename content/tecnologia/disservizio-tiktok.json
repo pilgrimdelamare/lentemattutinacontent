@@ -1,17 +1,17 @@
 {
   "id": "monitor_tiktok",
   "slug": "disservizio-tiktok",
-  "title": "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
   "titles": [
-    "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi."
+    "TikTok è tornato online dopo 81 minuti di interruzione.",
+    "TikTok è tornato online dopo 81 minuti di interruzione.",
+    "TikTok è tornato online dopo 81 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TIKTOK IN DOWN",
-  "lead": "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio TikTok risulta non disponibile dalle ultime 36 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "TIKTOK RIPRISTINATO",
+  "lead": "TikTok è tornato online dopo 81 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito TikTok è stato risolto. L'interruzione è durata circa 81 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:11:57.090676+00:00",
+  "published_at": "2026-09-05T22:57:13.225730+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/tiktok.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-tiktok",
-  "related": [
-    {
-      "title": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
