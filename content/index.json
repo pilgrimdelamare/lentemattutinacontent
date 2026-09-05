@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T13:43:02.785376+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "WHATSAPP RITORNATO ONLINE DOPO 229 MINUTI",
+    "lead_preview": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristinato. La piattaforma ha ripreso piena ope",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
@@ -7671,21 +7690,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/19/ae102c07c056367424696f0fb80f3aa4.jpg",
     "occhiello": "LISTINI GIAPPONESI IN ROSSO SOTTO IL PESO DELLA GEOPOLITICA",
     "lead_preview": "Tokyo, 1 settembre 2026. L'indice Nikkei 225 ha registrato un'apertura in calo dello zero virgola ottantuno per cento, c",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "660adad3ff3b4249",
-    "slug": "amazon-busnelli-rivendica-30-mld-spesi-in-15-anni-660adad3ff3b4249",
-    "title": "Cinque miliardi versati in un anno dal giovante colosso di seattle",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-01T02:17:28.120484+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/09/01/Immagini/Ritagli/Amazon_Pioltello5-U78545621814oLu-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-    "occhiello": "CINQUE MILIARDI VERSATI IN UN ANNO DAL GIOVANTE COLOSSO DI SEATTLE",
-    "lead_preview": "Milano, 1 settembre 2026. Trenta miliardi di euro in quindici anni, di cui cinque spesi solo nel corso del 2025, rappres",
     "tags": [],
     "hero_eligible": true
   }
