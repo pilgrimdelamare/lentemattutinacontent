@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è tornato online dopo 99 minuti di interruzione.",
+  "title": "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
   "titles": [
-    "YouTube è tornato online dopo 99 minuti di interruzione.",
-    "YouTube è tornato online dopo 99 minuti di interruzione.",
-    "YouTube è tornato online dopo 99 minuti di interruzione."
+    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
+    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
+    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE RIPRISTINATO",
-  "lead": "YouTube è tornato online dopo 99 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 99 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
+  "lead": "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per tutti gli utenti italiani. Streaming, ricerca e caricamento video sono bloccati. L'impatto è immediato e totale sulla piattaforma.",
+  "corpo1": "Il malfunzionamento è iniziato circa mezz'ora fa, provocando un'interruzione totale del servizio. Gli utenti italiani non riescono a caricare pagine, avviare video in streaming o accedere ai propri canali. Le funzionalità di ricerca e riproduzione sono completamente compromesse. Non si tratta di un problema locale, ma di un blackout globale che impedisce qualsiasi interazione con la piattaforma. La situazione è critica e richiede attenzione immediata da parte degli operatori tecnici. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:50:39.999404+00:00",
+  "published_at": "2026-09-05T14:35:59.457070+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
-  "related": [
-    {
-      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
