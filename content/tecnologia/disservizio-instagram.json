@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
+  "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
   "titles": [
-    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
-    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
-    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte"
+    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM RIPRISTINATO DOPO 104 MINUTI",
-  "lead": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha interessato l'applicazione è stato risolto dopo 104 minuti di interruzione. Gli utenti possono ora accedere normalmente ai propri contenuti e funzioni.",
-  "corpo1": "Il malfunzionamento è stato rilevato alle ore 08:15 UTC, causando errori di caricamento e blocchi nell'interfaccia per milioni di utenti globali. I sistemi di monitoraggio hanno registrato un ripristino graduale dei servizi a partire dalle 09:59 UTC. La piena operatività è stata confermata alle 10:00 UTC, chiudendo l'episodio dopo poco più di un'ora e mezza. I tecnici hanno verificato la stabilità delle API e dei server di distribuzione, assicurando la corretta gestione dei flussi di dati in tempo reale.",
+  "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
+  "lead": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzionamento blocca l'accesso a milioni di utenti italiani, impedendo la pubblicazione di contenuti e la ricezione di notifiche in tempo reale.",
+  "corpo1": "Il sistema di monitoraggio ha rilevato un'interruzione totale del servizio alle ore correnti. Gli utenti segnalano errori di connessione persistenti e l'impossibilità di caricare feed, storie o effettuare ricerche. La piattaforma social è inaccessibile sia tramite applicazione mobile che da browser web. Non sono disponibili aggiornamenti ufficiali da parte del provider. La situazione sta generando un impatto significativo sulla comunicazione digitale e sul flusso di informazioni in tempo reale. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:43:02.202715+00:00",
+  "published_at": "2026-09-05T22:03:56.176169+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
-  "related": [
-    {
-      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
