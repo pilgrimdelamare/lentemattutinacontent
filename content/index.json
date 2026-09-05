@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260905",
+    "slug": "libro-del-giorno-la-via-del-mare-sulle-rotte-dellimpero-20260905",
+    "title": "Il libro del giorno: «La via del mare. Sulle rotte dell’impero perduto del Portogallodi Erika Fatland»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un saggio di viaggio e antropologia che ripercorre le vestigia dell'antico impero coloniale portoghese",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-05T07:01:29.937385+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829794232_0_0_424_0_75-257b8.jpg?1787790794",
+      "alt": "Copertina: La via del mare. Sulle rotte dell’impero perduto del Portogallodi Erika Fatland",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829794232_0_0_424_0_75-257b8.jpg?1787790794",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "1631f948550b4fce",
     "slug": "larresto-di-evo-morales-e-la-nuova-priorita-della-1631f948550b4fce",
     "title": "L'arresto di evo morales è la nuova priorità della polizia a cochabamba",
@@ -7627,21 +7646,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/25/0035746ceb4f3fa29935e762c98b7dd4.jpg",
     "occhiello": "IL MODELLO COMO PUNTA SULLA TATTICA DI FABREGAS",
     "lead_preview": "Roma, 1 settembre 2026. Francesc Fàbregas Soler, tecnico del Como, incassa le dichiarazioni pubbliche dell'attaccante ch",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "78fd059a6a8a375f",
-    "slug": "il-veneto-sceglie-il-fine-vita-tra-le-tensioni-in-78fd059a6a8a375f",
-    "title": "Il veneto sceglie il fine vita tra le tensioni in aula",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-09-01T17:48:02.213287+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/4cdd58f06e51886d53819d61216dcacd.jpg",
-    "occhiello": "IL VENETO SCEGLIE IL FINE VITA TRA LE TENSIONI IN AULA",
-    "lead_preview": "Venezia, 1 settembre 2026. Il Consiglio regionale del Veneto si riunisce in maratona per discutere e votare la proposta ",
     "tags": [],
     "hero_eligible": true
   }
