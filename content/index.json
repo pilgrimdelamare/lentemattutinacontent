@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:33:35.830631+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT OFFLINE: CRITICITA' MASSIMA",
+    "lead_preview": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente inaccessibile. Gli utenti italiani non poss",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
@@ -7639,21 +7658,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/1afd80942fa3e6c6340144ad93421635.jpg",
     "occhiello": "IL MERCATO INGLESE DOMINA LA SPESA CALCISTICA EUROPEA",
     "lead_preview": "Roma, 1 settembre 2026. La Premier League si conferma il campionato senza rivali nel mercato in Europa, avvicinandosi a ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "02740fe07684af4e",
-    "slug": "pape-sarr-e-atterrato-a-torino-per-la-nuova-avvent-02740fe07684af4e",
-    "title": "Pape sarr è atterrato a torino per la nuova avventura in bianconero",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-08-31T20:51:33.814388+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6ef8da4f2b5c0c3fb941154d2625ac192bb74d79/skysport/it/calcio/calciomercato/video/2026/08/31/1121178_1788202864684_thumb_494.0000001_1788203008149.jpg",
-    "occhiello": "PAPE SARR È ATTERRATO A TORINO PER LA NUOVA AVVENTURA IN BIANCONERO",
-    "lead_preview": "Torino, 31 agosto 2026. Il centrocampista Pape Sarr è atterrato nella serata del 31 agosto a Torino, segnando l'arrivo u",
     "tags": [],
     "hero_eligible": true
   }
