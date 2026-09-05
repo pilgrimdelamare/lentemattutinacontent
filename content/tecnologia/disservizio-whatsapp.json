@@ -1,17 +1,17 @@
 {
   "id": "monitor_whatsapp",
   "slug": "disservizio-whatsapp",
-  "title": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
+  "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
   "titles": [
-    "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
-    "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
-    "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin"
+    "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 439 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "WHATSAPP RITORNATO ONLINE DOPO 229 MINUTI",
-  "lead": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristinato. La piattaforma ha ripreso piena operatività dopo un'interruzione prolungata della durata di 229 minuti, ripristinando la connettività per gli utenti globali.",
-  "corpo1": "Le anomalie operative hanno avuto inizio nelle prime ore della mattinata, generando un blocco totale delle funzionalità di invio e ricezione dei messaggi. I sistemi di monitoraggio hanno registrato un'interruzione continua del servizio per un totale di 229 minuti. Le verifiche tecniche condotte in tempo reale confermano che l'infrastruttura è stata stabilizzata e che la piattaforma è tornata pienamente operativa. Non si rilevano ulteriori criticità o rallentamenti significativi nelle performance attuali del sistema.",
+  "occhiello": "WHATSAPP RIPRISTINATO",
+  "lead": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito WhatsApp è stato risolto. L'interruzione è durata circa 439 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:43:02.785376+00:00",
+  "published_at": "2026-09-05T21:28:33.291195+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/whatsapp.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-whatsapp",
   "related": [
     {
-      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "title": "ChatGPT è tornato online dopo 145 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     }
   ],
