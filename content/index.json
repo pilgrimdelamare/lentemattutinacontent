@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T21:28:34.454792+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY RIPRISTINATO",
+    "lead_preview": "Spotify è tornato online dopo 433 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
@@ -204,25 +223,6 @@
     "tags": [
       "downtime",
       "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T07:33:16.850600+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente inaccessibile per gli utenti italiani. ",
-    "tags": [
-      "downtime",
-      "spotify",
       "disservizi"
     ],
     "hero_eligible": false
