@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
+  "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
   "titles": [
-    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
-    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett",
-    "La piattaforma di video streaming ha ripristinato la piena operatività dopo sett"
+    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE RIAPRE DOPO SETTANTUNO MINUTI",
-  "lead": "La piattaforma di video streaming ha ripristinato la piena operatività dopo settantuno minuti di interruzione totale. Gli utenti possono ora accedere ai contenuti senza limitazioni, segnando la fine del disservizio che ha colpito il servizio a livello globale.",
-  "corpo1": "Il malfunzionamento è stato rilevato alle ore nove e quindici, quando i server hanno iniziato a restituire errori di connessione. La durata complessiva dell'interruzione si è attestata su settantuno minuti, periodo durante il quale l'upload e lo streaming sono risultati inaccessibili. Il sistema di monitoraggio ha confermato il ripristino completo delle infrastrutture alle ore dieci e sessanta. Le metriche di latenza e disponibilità sono tornate entro i parametri standard previsti. Non si registrano ulteriori anomalie nei nodi di distribuzione del contenuto. La stabilità della rete è stata verificata attraverso test automatizzati su larga scala, garantendo la piena funzionalità della piattaforma per tutti gli utenti attivi.",
+  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
+  "lead": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inaccessibile per gli utenti italiani. Streaming, upload e visualizzazione video sono bloccati. L'impatto è immediato su creator e spettatori in tutto il territorio nazionale.",
+  "corpo1": "Il disservizio è iniziato alle 09:15, causando un'interruzione totale della piattaforma. Attualmente, la pagina di caricamento non risponde e i client mobili restituiscono errori di connessione. Sono compromesse tutte le funzionalità: riproduzione video, caricamento contenuti, gestione canali e interazione tramite commenti. Non si tratta di un problema di pagamento, ma di un blackout infrastrutturale che impedisce qualsiasi accesso al servizio. Gli utenti non possono né guardare né pubblicare contenuti. La situazione genera caos tra i professionisti del settore e il pubblico generale. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:46:18.363393+00:00",
+  "published_at": "2026-09-05T08:29:25.777528+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
       "url": "/tecnologia/disservizio-revolut",
       "id": "monitor_revolut",
       "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     }
   ],
