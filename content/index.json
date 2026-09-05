@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:03:56.176169+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzionamento blocca l'accesso a milioni di ut",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_youtube",
     "slug": "disservizio-youtube",
     "title": "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i",
@@ -109,25 +128,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T13:43:02.202715+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM RIPRISTINATO DOPO 104 MINUTI",
-    "lead_preview": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha interessato l'applicazione è stato risolto d",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
