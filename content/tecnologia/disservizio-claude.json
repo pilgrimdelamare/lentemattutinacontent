@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Il servizio Claude risulta irraggiungibile da sessantaquattro minuti. L'interruz",
+  "title": "Claude è tornato online dopo 646 minuti di interruzione.",
   "titles": [
-    "Il servizio Claude risulta irraggiungibile da sessantaquattro minuti. L'interruz",
-    "Il servizio Claude risulta irraggiungibile da sessantaquattro minuti. L'interruz",
-    "Il servizio Claude risulta irraggiungibile da sessantaquattro minuti. L'interruz"
+    "Claude è tornato online dopo 646 minuti di interruzione.",
+    "Claude è tornato online dopo 646 minuti di interruzione.",
+    "Claude è tornato online dopo 646 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE OFFLINE: 64 MINUTI DI BLACKOUT",
-  "lead": "Il servizio Claude risulta irraggiungibile da sessantaquattro minuti. L'interruzione totale sta bloccando le operazioni degli utenti italiani. Nessuna risposta ai prompt inviati. La piattaforma è completamente inaccessibile per tutti gli abbonati.",
-  "corpo1": "Il disservizio è iniziato alle ore 09:15, quando i server hanno smesso di rispondere alle richieste. Tutte le funzionalità di generazione testo, analisi dati e conversazione sono compromesse. Gli utenti non riescono a completare i task in corso, causando ritardi operativi significativi. Non è possibile inviare nuovi prompt né recuperare le sessioni attive. Il sistema di autenticazione risponde, ma il motore di inferenza è inattivo. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIPRISTINATO",
+  "lead": "Claude è tornato online dopo 646 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 646 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:14:37.670700+00:00",
+  "published_at": "2026-09-05T22:57:13.312259+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
-  "related": [],
+  "related": [
+    {
+      "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
