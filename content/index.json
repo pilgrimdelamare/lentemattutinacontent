@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:11:57.090676+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK IN DOWN",
+    "lead_preview": "TikTok è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
@@ -7679,21 +7698,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/ad2136ef9bc75ef2690b8750189203ed.jpg",
     "occhiello": "BRASILE, POPOLAZIONE A 214 MILIONI",
     "lead_preview": "Brasilia, 1 settembre.",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ac36797ed7afa7a",
-    "slug": "oltre-trenila-confische-durante-il-mandato-di-shei-5ac36797ed7afa7a",
-    "title": "Oltre trenila confische durante il mandato di sheinbaum",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-01T02:13:51.097996+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/a8e0081afdcd8195a58858e1850b07e1.jpg",
-    "occhiello": "OLTRE TRENILA CONFISCHE DURANTE IL MANDATO DI SHEINBAUM",
-    "lead_preview": "Città del Messico, 1 settembre 2026. Le autorità messicane hanno sequestrato duecentodieci armi provenienti dagli Stati ",
     "tags": [],
     "hero_eligible": true
   }
