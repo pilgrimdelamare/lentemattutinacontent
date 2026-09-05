@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
+  "title": "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Revolut è tornato online dopo 197 minuti di interruzione.",
-    "Revolut è tornato online dopo 197 minuti di interruzione.",
-    "Revolut è tornato online dopo 197 minuti di interruzione."
+    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+    "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT RIPRISTINATO",
-  "lead": "Revolut è tornato online dopo 197 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 197 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "REVOLUT IN DOWN",
+  "lead": "Revolut è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Revolut risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T21:28:37.448904+00:00",
+  "published_at": "2026-09-05T21:53:34.146564+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
-  "related": [
-    {
-      "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
