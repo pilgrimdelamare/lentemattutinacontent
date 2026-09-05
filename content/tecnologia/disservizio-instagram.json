@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è tornato online dopo 43 minuti di interruzione.",
+  "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
   "titles": [
-    "Instagram è tornato online dopo 43 minuti di interruzione.",
-    "Instagram è tornato online dopo 43 minuti di interruzione.",
-    "Instagram è tornato online dopo 43 minuti di interruzione."
+    "Instagram è tornato online dopo 73 minuti di interruzione.",
+    "Instagram è tornato online dopo 73 minuti di interruzione.",
+    "Instagram è tornato online dopo 73 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SISTEMA RIATTIVATO",
-  "lead": "Instagram è tornato online dopo 43 minuti di interruzione.",
-  "corpo1": "Il problema è iniziato 43 minuti fa e ora è stato completamente risolto. La piattaforma è tornata online e tutti i servizi sono stati ripristinati. La causa dell'interruzione è stata identificata e risolta dai tecnici.",
+  "occhiello": "INSTAGRAM RIPRISTINATO",
+  "lead": "Instagram è tornato online dopo 73 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Instagram è stato risolto. L'interruzione è durata circa 73 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-07-20T09:56:32.244935+00:00",
+  "published_at": "2026-09-05T09:42:30.642796+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
-  "related": [
-    {
-      "title": "Claude è tornato online dopo 26 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 25 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Disservizio risolto: tiktok di nuovo online",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
