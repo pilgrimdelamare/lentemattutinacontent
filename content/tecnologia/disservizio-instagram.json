@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
+  "title": "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
   "titles": [
-    "Instagram è tornato online dopo 73 minuti di interruzione.",
-    "Instagram è tornato online dopo 73 minuti di interruzione.",
-    "Instagram è tornato online dopo 73 minuti di interruzione."
+    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM RIPRISTINATO",
-  "lead": "Instagram è tornato online dopo 73 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Instagram è stato risolto. L'interruzione è durata circa 73 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "INSTAGRAM IN DOWN",
+  "lead": "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T09:42:30.642796+00:00",
+  "published_at": "2026-09-05T12:17:37.663511+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
