@@ -1,17 +1,17 @@
 {
   "id": "monitor_netflix",
   "slug": "disservizio-netflix",
-  "title": "Netflix è tornato online dopo 97 minuti di interruzione.",
+  "title": "Netflix è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Netflix è tornato online dopo 97 minuti di interruzione.",
-    "Netflix è tornato online dopo 97 minuti di interruzione.",
-    "Netflix è tornato online dopo 97 minuti di interruzione."
+    "Netflix è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NETFLIX RIPRISTINATO",
-  "lead": "Netflix è tornato online dopo 97 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Netflix è stato risolto. L'interruzione è durata circa 97 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "NETFLIX IN DOWN",
+  "lead": "Netflix è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Netflix risulta non disponibile dalle ultime 33 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:52:06.011420+00:00",
+  "published_at": "2026-09-05T09:18:03.478290+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/netflix.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-netflix",
-  "related": [
-    {
-      "title": "Satispay è tornato online dopo 63 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "TikTok è tornato online dopo 83 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
