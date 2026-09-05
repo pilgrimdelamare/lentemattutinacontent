@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 16 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "lead": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 17 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T19:05:45.103846+00:00",
+  "published_at": "2026-09-05T21:28:33.426777+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
