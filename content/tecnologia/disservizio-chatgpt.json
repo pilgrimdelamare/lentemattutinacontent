@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato online dopo 145 minuti di interruzione.",
   "titles": [
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato online dopo 145 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 145 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 145 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIPRISTINATO",
+  "lead": "ChatGPT è tornato online dopo 145 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 145 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T15:04:53.231854+00:00",
+  "published_at": "2026-09-05T18:43:00.652906+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,10 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
@@ -49,13 +56,6 @@
       "url": "/tecnologia/disservizio-netflix",
       "id": "monitor_netflix",
       "image_url": "https://logo.clearbit.com/netflix.com",
-      "image_type": "image"
-    },
-    {
-      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
