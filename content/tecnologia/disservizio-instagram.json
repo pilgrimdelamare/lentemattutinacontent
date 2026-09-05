@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
+  "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
   "titles": [
-    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservi"
+    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
+    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
+    "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM IN DOWN",
-  "lead": "Instagram è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "INSTAGRAM RIPRISTINATO DOPO 104 MINUTI",
+  "lead": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha interessato l'applicazione è stato risolto dopo 104 minuti di interruzione. Gli utenti possono ora accedere normalmente ai propri contenuti e funzioni.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle ore 08:15 UTC, causando errori di caricamento e blocchi nell'interfaccia per milioni di utenti globali. I sistemi di monitoraggio hanno registrato un ripristino graduale dei servizi a partire dalle 09:59 UTC. La piena operatività è stata confermata alle 10:00 UTC, chiudendo l'episodio dopo poco più di un'ora e mezza. I tecnici hanno verificato la stabilità delle API e dei server di distribuzione, assicurando la corretta gestione dei flussi di dati in tempo reale.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T12:17:37.663511+00:00",
+  "published_at": "2026-09-05T13:43:02.202715+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
-  "related": [],
+  "related": [
+    {
+      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
