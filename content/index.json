@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T21:28:37.448904+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT RIPRISTINATO",
+    "lead_preview": "Revolut è tornato online dopo 197 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
@@ -185,25 +204,6 @@
     "tags": [
       "downtime",
       "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_revolut",
-    "slug": "disservizio-revolut",
-    "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T07:33:35.830631+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/revolut.com",
-    "occhiello": "REVOLUT OFFLINE: CRITICITA' MASSIMA",
-    "lead_preview": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente inaccessibile. Gli utenti italiani non poss",
-    "tags": [
-      "downtime",
-      "revolut",
       "disservizi"
     ],
     "hero_eligible": false
