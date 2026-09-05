@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:33:35.831624+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completamente inaccessibile. Migliaia di utenti i",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
@@ -7647,21 +7666,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/31/230183c5a86e0b8e1aa1e8bb3d66144c.jpg",
     "occhiello": "CINQUE RETI A MADRID E OLTRE CINQUANTA GOL IN BLAUGRANA",
     "lead_preview": "Madrid, 31 agosto 2026. Il Barcellona si impone per cinque reti a due sul campo del Rayo Vallecano nella sfida valida pe",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6845d8267769b823",
-    "slug": "minacce-di-distruzione-totale-da-washington-verso-6845d8267769b823",
-    "title": "Minacce di distruzione totale da washington verso teheran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-01T19:18:18.179069+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/6ca7fe25afc73a6a73872c15ad1a3f62.jpg",
-    "occhiello": "MINACCE DI DISTRUZIONE TOTALE DA WASHINGTON VERSO TEHERAN",
-    "lead_preview": "Washington, 1 settembre 2026. Donald Trump ha minacciato di annientare l'Iran nel caso in cui il Paese risponda a nuove ",
     "tags": [],
     "hero_eligible": true
   }
