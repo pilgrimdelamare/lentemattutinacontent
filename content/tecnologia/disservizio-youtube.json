@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+  "title": "YouTube risulta completamente irraggiungibile da 56 minuti. Il malfunzionamento ",
   "titles": [
-    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-    "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce"
+    "YouTube risulta completamente irraggiungibile da 56 minuti. Il malfunzionamento ",
+    "YouTube risulta completamente irraggiungibile da 56 minuti. Il malfunzionamento ",
+    "YouTube risulta completamente irraggiungibile da 56 minuti. Il malfunzionamento "
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-  "lead": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inaccessibile per gli utenti italiani. Streaming, upload e visualizzazione video sono bloccati. L'impatto è immediato su creator e spettatori in tutto il territorio nazionale.",
-  "corpo1": "Il disservizio è iniziato alle 09:15, causando un'interruzione totale della piattaforma. Attualmente, la pagina di caricamento non risponde e i client mobili restituiscono errori di connessione. Sono compromesse tutte le funzionalità: riproduzione video, caricamento contenuti, gestione canali e interazione tramite commenti. Non si tratta di un problema di pagamento, ma di un blackout infrastrutturale che impedisce qualsiasi accesso al servizio. Gli utenti non possono né guardare né pubblicare contenuti. La situazione genera caos tra i professionisti del settore e il pubblico generale. Stiamo monitorando la situazione.",
+  "lead": "YouTube risulta completamente irraggiungibile da 56 minuti. Il malfunzionamento blocca l'accesso globale, paralizzando milioni di utenti italiani che non possono più riprodurre video o caricare contenuti in tempo reale.",
+  "corpo1": "Il servizio di streaming video di Google ha registrato un'interruzione totale delle operazioni. Il disservizio è iniziato circa un'ora fa, impedendo la connessione ai server centrali. Attualmente, tutte le funzionalità sono compromesse: la riproduzione dei contenuti, la navigazione nel catalogo, la gestione dei canali e l'upload di nuovi file risultano inaccessibili. Gli utenti riportano errori di connessione immediata e schermate di caricamento infinite. Non si tratta di un problema locale, ma di un blackout infrastrutturale che colpisce l'intera piattaforma. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T08:29:25.777528+00:00",
+  "published_at": "2026-09-05T13:05:33.775417+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
-  "related": [
-    {
-      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
