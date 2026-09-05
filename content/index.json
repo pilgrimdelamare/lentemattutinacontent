@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 646 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:57:13.312259+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRISTINATO",
+    "lead_preview": "Claude è tornato online dopo 646 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
@@ -223,25 +242,6 @@
     "tags": [
       "downtime",
       "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T07:33:16.852602+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE OFFLINE: CRITICITÀ MASSIMA",
-    "lead_preview": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale impedisce l'accesso a tutte le interfac",
-    "tags": [
-      "downtime",
-      "claude",
       "disservizi"
     ],
     "hero_eligible": false
