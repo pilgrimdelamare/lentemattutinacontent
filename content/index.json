@@ -1,5 +1,20 @@
 [
   {
+    "id": "e08e2bc8a47f1e95",
+    "slug": "un-morto-e-tre-feriti-a-odessa-e08e2bc8a47f1e95",
+    "title": "Un morto e tre feriti a odessa",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-04T06:01:18.762193+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
+    "occhiello": "UN MORTO E TRE FERITI A ODESSA",
+    "lead_preview": "Odessa, 4 settembre. Un raid russo ha colpito la città di Odessa, provocando la morte di una persona e il ferimento di a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1f1d7cc095381272",
     "slug": "new-york-celebra-pinocchio-a-due-secoli-da-collodi-1f1d7cc095381272",
     "title": "New york celebra pinocchio a due secoli da collodi",
@@ -1266,24 +1281,6 @@
     "occhiello": "QUATTRO ANNI DI GOVERNO MELONI TRA CELEBRAZIONI E LICENZIAMENTI REALI",
     "lead_preview": "Bari, 4 settembre 2026. Giorgia Meloni celebra a Bari il traguardo dei quattro anni alla guida del governo italiano, riv",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e08e2bc8a47f1e95",
-    "slug": "un-morto-e-tre-feriti-a-odessa-e08e2bc8a47f1e95",
-    "title": "Un morto e tre feriti a odessa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-04T06:01:18.762193+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/9/40b879143686a576a215ce80e5472197.jpg",
-    "occhiello": "UN MORTO E TRE FERITI A ODESSA",
-    "lead_preview": "Odessa, 4 settembre. Un raid russo ha colpito la città di Odessa, provocando la morte di una persona e il ferimento di a",
-    "tags": [
-      "raid odessa",
-      "guerra ucraina"
-    ],
     "hero_eligible": true
   },
   {
