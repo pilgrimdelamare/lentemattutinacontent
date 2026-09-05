@@ -1,17 +1,17 @@
 {
   "id": "monitor_whatsapp",
   "slug": "disservizio-whatsapp",
-  "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
+  "title": "WhatsApp è tornato online dopo 57 minuti di interruzione.",
   "titles": [
-    "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-    "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-    "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività "
+    "WhatsApp è tornato online dopo 57 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 57 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 57 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO WHATSAPP RIABILITATO COMPLETAMENTE",
-  "lead": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività dopo settantasette minuti di disservizio. Gli utenti possono ora inviare e ricevere messaggi, chiamate e file senza interruzioni. Il sistema è stabile e monitorato costantemente per garantire continuità operativa.",
-  "corpo1": "Il disservizio è iniziato alle ore nove e quindici, quando i server hanno registrato un picco anomalo di errori di connessione. Per settantasette minuti, gli utenti hanno riscontrato l'impossibilità di sincronizzare i dati e inviare contenuti multimediali. Il team tecnico ha identificato la causa come un guasto temporaneo all'infrastruttura di rete. Alle undici e dodici, i sistemi sono stati ripristinati e verificati. L'analisi post-incidente conferma la stabilità attuale della piattaforma. Non si segnalano ulteriori anomalie nelle performance di invio e ricezione dei messaggi in tempo reale.",
+  "occhiello": "WHATSAPP RIPRISTINATO",
+  "lead": "WhatsApp è tornato online dopo 57 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito WhatsApp è stato risolto. L'interruzione è durata circa 57 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:46:15.236051+00:00",
+  "published_at": "2026-09-05T09:42:30.354259+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/whatsapp.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-whatsapp",
   "related": [
     {
-      "title": "Discord è tornato online dopo 58 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     },
     {
-      "title": "TikTok è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
