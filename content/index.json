@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:33:16.852602+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE OFFLINE: CRITICITÀ MASSIMA",
+    "lead_preview": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale impedisce l'accesso a tutte le interfac",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_revolut",
     "slug": "disservizio-revolut",
     "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
@@ -7643,21 +7662,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/6ca7fe25afc73a6a73872c15ad1a3f62.jpg",
     "occhiello": "MINACCE DI DISTRUZIONE TOTALE DA WASHINGTON VERSO TEHERAN",
     "lead_preview": "Washington, 1 settembre 2026. Donald Trump ha minacciato di annientare l'Iran nel caso in cui il Paese risponda a nuove ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "59d075315c743213",
-    "slug": "il-mercato-inglese-domina-la-spesa-calcistica-euro-59d075315c743213",
-    "title": "Il mercato inglese domina la spesa calcistica europea",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-01T19:11:10.646374+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/1afd80942fa3e6c6340144ad93421635.jpg",
-    "occhiello": "IL MERCATO INGLESE DOMINA LA SPESA CALCISTICA EUROPEA",
-    "lead_preview": "Roma, 1 settembre 2026. La Premier League si conferma il campionato senza rivali nel mercato in Europa, avvicinandosi a ",
     "tags": [],
     "hero_eligible": true
   }
