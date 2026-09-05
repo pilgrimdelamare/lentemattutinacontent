@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T09:42:30.642796+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM RIPRISTINATO",
+    "lead_preview": "Instagram è tornato online dopo 73 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
@@ -7663,21 +7682,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/08/31/224739470-1c61b627-e226-41a5-8e07-1c7a2ed437fa.jpg",
     "occhiello": "DIECI REGIONI PRONTE A DISCUTERE LA LEGGE SUL FINE VITA",
     "lead_preview": "Roma, 1 settembre 2026. La Toscana, la Sardegna e l’Emilia-Romagna Hanno già legiferato sul Fine vita, mentre Liguria, C",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b7d0858331904f1e",
-    "slug": "lo-psichiatra-cancrini-accusa-la-politica-di-inert-b7d0858331904f1e",
-    "title": "Lo psichiatra cancrini accusa la politica di inerte abbandono",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-09-01T01:01:27.985785+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/01/023804073-00e74b9b-3c30-464b-8736-ebf2b62447bd.jpg",
-    "occhiello": "LO PSICHIATRA CANCRINI ACCUSA LA POLITICA DI INERTE ABBANDONO",
-    "lead_preview": "Roma, 1 settembre 2026. Una coppia ha ucciso la figlia disabile prima di togliersi la vita a Roma, mentre a pochi chilom",
     "tags": [],
     "hero_eligible": true
   }
