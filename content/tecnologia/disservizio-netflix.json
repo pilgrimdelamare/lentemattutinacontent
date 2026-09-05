@@ -1,17 +1,17 @@
 {
   "id": "monitor_netflix",
   "slug": "disservizio-netflix",
-  "title": "La piattaforma di streaming Netflix è tornata pienamente operativa. Il disserviz",
+  "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
   "titles": [
-    "La piattaforma di streaming Netflix è tornata pienamente operativa. Il disserviz",
-    "La piattaforma di streaming Netflix è tornata pienamente operativa. Il disserviz",
-    "La piattaforma di streaming Netflix è tornata pienamente operativa. Il disserviz"
+    "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
+    "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
+    "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO NETFLIX RIAPERTO DOPO FERMO",
-  "lead": "La piattaforma di streaming Netflix è tornata pienamente operativa. Il disservizio, che ha impedito l'accesso ai contenuti, è durato complessivamente 105 minuti. Gli utenti possono ora riprodurre film e serie senza interruzioni o errori di caricamento.",
-  "corpo1": "Il malfunzionamento è stato rilevato in modo sistematico alle ore 08:15, quando i server hanno iniziato a restituire errori di connessione. Il sistema di monitoraggio ha registrato un picco di segnalazioni negative provenienti da diverse aree geografiche. Dopo un intervento tecnico mirato, la stabilità della rete è stata ripristinata alle ore 09:60, sebbene l'orario effettivo di chiusura sia stato fissato a 105 minuti dall'inizio del blackout. I test di verifica confermano che l'infrastruttura risponde correttamente e che il flusso dati è regolare. Non sono previste ulteriori ripercussioni sulla qualità del servizio per gli abbonati attivi.",
+  "occhiello": "NETFLIX OFFLINE: BLACKOUT TOTALE",
+  "lead": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streaming è down per tutti gli utenti italiani. Nessuna connessione possibile, nessun caricamento dei contenuti. L'impatto è immediato e totale sulla fruizione del servizio.",
+  "corpo1": "Il disservizio è iniziato improvvisamente, bloccando l'accesso alla piattaforma per milioni di abbonati. Le funzionalità compromesse includono il login, la navigazione del catalogo e la riproduzione dei video. Gli utenti riportano errori di connessione persistenti e schermate di caricamento infinite. Non si tratta di un problema locale, ma di un blackout globale che impedisce qualsiasi interazione con il servizio. La situazione sta generando un forte disagio tra gli utenti che non possono accedere ai propri contenuti. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:43:02.750000+00:00",
+  "published_at": "2026-09-05T14:35:59.457585+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/netflix.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-netflix",
   "related": [
     {
-      "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     },
     {
-      "title": "Il servizio di messaggistica istantanea WhatsApp è stato completamente ripristin",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
