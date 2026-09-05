@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è tornato online dopo 69 minuti di interruzione.",
+  "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
   "titles": [
-    "Spotify è tornato online dopo 69 minuti di interruzione.",
-    "Spotify è tornato online dopo 69 minuti di interruzione.",
-    "Spotify è tornato online dopo 69 minuti di interruzione."
+    "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+    "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+    "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY RIPRISTINATO",
-  "lead": "Spotify è tornato online dopo 69 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Spotify è stato risolto. L'interruzione è durata circa 69 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+  "lead": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente inaccessibile per gli utenti italiani. La piattaforma non risponde alle richieste di connessione, bloccando l'ascolto musicale e l'accesso alle librerie personali in tempo reale.",
+  "corpo1": "Il disservizio è iniziato improvvisamente, rendendo l'applicazione inutilizzabile sia su mobile che su desktop. Gli utenti segnalano errori di caricamento continui e l'impossibilità di avviare la riproduzione. Le funzionalità di ricerca, playlist e profili sono totalmente compromesse. Non si tratta di un problema locale, ma di un'interruzione centrale del servizio. Chi dipende dalla piattaforma per il lavoro o lo svago si trova bloccato senza alternative immediate. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:57:53.661372+00:00",
+  "published_at": "2026-09-05T07:33:16.850600+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Netflix è tornato online dopo 97 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Belkin, Ugreen, Anker: i power bank con celle gel e ventole sbarcano a IFA",
+      "url": "/tecnologia/belkin-ugreen-anker-i-power-bank-con-celle-gel-e-v-4b56915a8867f11f",
+      "id": "4b56915a8867f11f",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/04/144153235-eaf10560-ac2c-4624-a79f-39c891703959.jpg",
       "image_type": "image"
     },
     {
-      "title": "Satispay è tornato online dopo 63 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Il nuovo modello di openai raggiunge la soglia critical nella cybersecurity",
+      "url": "/tecnologia/openai-blocca-astra-il-modello-critica-crea-exploi-dad650a845d1a325",
+      "id": "dad650a845d1a325",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/03/155409330-52eda099-4371-40a8-a6a7-df9a9727eaa5.jpg",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 83 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "L'audio domestico tra design e consumi digitali",
+      "url": "/tecnologia/laudio-domestico-tra-design-e-consumi-digitali-422b92681bfa1f0a",
+      "id": "422b92681bfa1f0a",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/03/163628814-bd3792bb-4437-4b08-84d7-4e6f0db8b2c0.jpg",
       "image_type": "image"
     }
   ],
