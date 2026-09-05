@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T08:29:25.777528+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inaccessibile per gli utenti italiani. Streami",
+    "tags": [
+      "downtime",
+      "youtube",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
@@ -7659,21 +7678,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/01/023804073-00e74b9b-3c30-464b-8736-ebf2b62447bd.jpg",
     "occhiello": "LO PSICHIATRA CANCRINI ACCUSA LA POLITICA DI INERTE ABBANDONO",
     "lead_preview": "Roma, 1 settembre 2026. Una coppia ha ucciso la figlia disabile prima di togliersi la vita a Roma, mentre a pochi chilom",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ce28845d0a33aef9",
-    "slug": "las-vegas-la-condanna-per-la-morte-di-tupac-ce28845d0a33aef9",
-    "title": "Las vegas, la condanna per la morte di tupac",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-01T01:35:17.645270+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/9/29/4e5860000af21bcdf5225372df23e60e.jpg",
-    "occhiello": "LAS VEGAS, LA CONDANNA PER LA MORTE DI TUPAC",
-    "lead_preview": "Roma, 1 settembre 2026. L'ex membro di una gang sarebbe stato riconosciuto colpevole della morte del rapper Tupac Shakur",
     "tags": [],
     "hero_eligible": true
   }
