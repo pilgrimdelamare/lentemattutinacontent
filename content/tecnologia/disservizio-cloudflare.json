@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
+  "title": "Cloudflare è tornato online dopo 149 minuti di interruzione.",
   "titles": [
-    "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
-    "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
-    "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è "
+    "Cloudflare è tornato online dopo 149 minuti di interruzione.",
+    "Cloudflare è tornato online dopo 149 minuti di interruzione.",
+    "Cloudflare è tornato online dopo 149 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NUBIFLOW OFFLINE: ERRORE 522",
-  "lead": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è completamente inaccessibile. Migliaia di siti italiani risultano offline. Gli utenti non possono caricare pagine né completare transazioni. L'impatto è immediato e diffuso su tutto il territorio nazionale.",
-  "corpo1": "Il sistema di edge network ha smesso di rispondere alle richieste HTTP e HTTPS. Il problema è iniziato alle 09:40 ora locale. Le funzionalità di load balancing, mitigazione DDoS e caching sono totalmente compromesse. I server di origine non ricevono traffico, causando timeout e errori 522. Per chi utilizza gateway di pagamento protetti da Cloudflare, le transazioni falliscono immediatamente, bloccando acquisti e servizi digitali. Non è possibile stabilire una tempistica per il ripristino. Stiamo monitorando la situazione.",
+  "occhiello": "CLOUDFLARE RIPRISTINATO",
+  "lead": "Cloudflare è tornato online dopo 149 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Cloudflare è stato risolto. L'interruzione è durata circa 149 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T07:33:16.851600+00:00",
+  "published_at": "2026-09-05T09:42:29.950002+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Instagram è tornato online dopo 73 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     },
     {
-      "title": "Belkin, Ugreen, Anker: i power bank con celle gel e ventole sbarcano a IFA",
-      "url": "/tecnologia/belkin-ugreen-anker-i-power-bank-con-celle-gel-e-v-4b56915a8867f11f",
-      "id": "4b56915a8867f11f",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/04/144153235-eaf10560-ac2c-4624-a79f-39c891703959.jpg",
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Il nuovo modello di openai raggiunge la soglia critical nella cybersecurity",
-      "url": "/tecnologia/openai-blocca-astra-il-modello-critica-crea-exploi-dad650a845d1a325",
-      "id": "dad650a845d1a325",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/03/155409330-52eda099-4371-40a8-a6a7-df9a9727eaa5.jpg",
+      "title": "ChatGPT risulta irraggiungibile da diciotto minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
