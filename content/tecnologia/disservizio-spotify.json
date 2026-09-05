@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify risulta completamente irraggiungibile da venticinque minuti. Il servizio",
+  "title": "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
   "titles": [
-    "Spotify risulta completamente irraggiungibile da venticinque minuti. Il servizio",
-    "Spotify risulta completamente irraggiungibile da venticinque minuti. Il servizio",
-    "Spotify risulta completamente irraggiungibile da venticinque minuti. Il servizio"
+    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
+    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
+    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-  "lead": "Spotify risulta completamente irraggiungibile da venticinque minuti. Il servizio streaming musicale è crollato, bloccando l'accesso a milioni di utenti italiani. La piattaforma non risponde alle richieste di connessione, generando un'interruzione totale del flusso audio per tutti gli abbonati attivi in questo momento.",
-  "corpo1": "Il disservizio è iniziato improvvisamente, impedendo l'avvio dell'applicazione e il caricamento delle playlist. Gli utenti segnalano errori di rete persistenti e schermate di caricamento infinite. Non è possibile riprodurre brani, podcast o contenuti offline già scaricati, rendendo il dispositivo inutilizzabile per lo streaming. L'impatto è immediato e totale, con l'assenza di qualsiasi risposta dai server centrali. La situazione sta generando un'ondata di reclami sui social network. Stiamo monitorando la situazione.",
+  "occhiello": "SPOTIFY RIPRISTINATO DOPO 98 MINUTI",
+  "lead": "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il servizio ha ripreso a funzionare regolarmente dopo un'interruzione durata novantotto minuti. Gli utenti possono ora accedere senza interruzioni.",
+  "corpo1": "Il disservizio ha interessato l'intera infrastruttura di streaming, impedendo la riproduzione dei contenuti. La anomalia è stata rilevata e successivamente risolta dal team tecnico. I sistemi di monitoraggio confermano la piena stabilità dei server. La connettività è stata ripristinata su tutti i dispositivi supportati. Non si segnalano ulteriori rallentamenti o errori residui. La piattaforma opera ora con i parametri standard di prestazioni. Gli utenti possono tornare a utilizzare il servizio in condizioni normali.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T12:26:52.211363+00:00",
+  "published_at": "2026-09-05T13:43:02.277458+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
