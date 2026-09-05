@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
+  "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
-    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente",
-    "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente"
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-  "lead": "ChatGPT risulta inaccessibile da venticinque minuti. Il servizio è completamente fermo. Milioni di utenti italiani non possono più inviare prompt né ricevere risposte. La piattaforma è in stato di blackout totale, bloccando ogni interazione con l'intelligenza artificiale.",
-  "corpo1": "Il disservizio è iniziato alle 08:15 ora italiana. I server di OpenAI non rispondono alle richieste di connessione. Gli utenti segnalano timeout immediati e pagine di errore generiche. Le funzionalità di generazione testo, analisi dati e coding sono totalmente compromesse. Non è possibile accedere alla cronologia delle conversazioni precedenti. Chi dipende dall'AI per flussi di lavoro critici o supporto tecnico è attualmente bloccato. Non ci sono aggiornamenti ufficiali da parte del provider. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T12:26:52.210850+00:00",
+  "published_at": "2026-09-05T15:04:53.231854+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
-  "related": [],
+  "related": [
+    {
+      "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
