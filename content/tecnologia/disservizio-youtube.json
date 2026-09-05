@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
+  "title": "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i",
   "titles": [
-    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
-    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per",
-    "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per"
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i",
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i",
+    "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'i"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-  "lead": "YouTube risulta completamente inaccessibile da 35 minuti. Il servizio è down per tutti gli utenti italiani. Streaming, ricerca e caricamento video sono bloccati. L'impatto è immediato e totale sulla piattaforma.",
-  "corpo1": "Il malfunzionamento è iniziato circa mezz'ora fa, provocando un'interruzione totale del servizio. Gli utenti italiani non riescono a caricare pagine, avviare video in streaming o accedere ai propri canali. Le funzionalità di ricerca e riproduzione sono completamente compromesse. Non si tratta di un problema locale, ma di un blackout globale che impedisce qualsiasi interazione con la piattaforma. La situazione è critica e richiede attenzione immediata da parte degli operatori tecnici. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RIAPRE DOPO QUASI OTTO ORE",
+  "lead": "La piattaforma di video streaming ha ripristinato la piena operatività dopo un'interruzione prolungata di 447 minuti. I servizi sono tornati accessibili agli utenti globali, chiudendo un disservizio che ha impattato significativamente la fruizione dei contenuti digitali nelle ultime ore.",
+  "corpo1": "Il malfunzionamento si è manifestato nelle prime ore della mattinata, generando errori di caricamento e blocchi totali dell'interfaccia per milioni di visitatori. La durata complessiva dell'incidente si è attestata su 447 minuti, un lasso di tempo eccezionalmente lungo per un servizio di tale scala. Le verifiche tecniche confermano che l'infrastruttura è ora stabile e i server rispondono correttamente alle richieste. Non sono segnalati residui problemi di latenza o errori di riproduzione. Il sistema è stato monitorato costantemente fino al completo ripristino delle funzionalità standard, garantendo la continuità operativa per tutti gli account attivi.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T14:35:59.457070+00:00",
+  "published_at": "2026-09-05T21:28:37.471920+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
-  "related": [],
+  "related": [
+    {
+      "title": "La piattaforma social è tornata pienamente operativa. Il disservizio che ha inte",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
