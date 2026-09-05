@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
+  "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
   "titles": [
-    "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-    "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-    "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam"
+    "Satispay è tornato online dopo 515 minuti di interruzione.",
+    "Satispay è tornato online dopo 515 minuti di interruzione.",
+    "Satispay è tornato online dopo 515 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY OFFLINE: BLACKOUT TOTALE",
-  "lead": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completamente inaccessibile. Migliaia di utenti italiani non possono effettuare transazioni, ricevere fondi o consultare il saldo. L'impatto è immediato e diffuso su tutto il territorio nazionale.",
-  "corpo1": "Il disservizio è iniziato improvvisamente, bloccando l'accesso all'applicazione mobile e al sito web. Le funzionalità di invio, ricezione e gestione dei pagamenti risultano totalmente compromesse. Gli utenti segnalano errori di connessione persistenti e l'impossibilità di autenticarsi. Questo blackout impedisce qualsiasi transazione finanziaria digitale, creando disagi significativi per chi dipende esclusivamente da questo metodo di pagamento per acquisti quotidiani o trasferimenti tra privati. La situazione richiede attenzione immediata da parte degli operatori. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIPRISTINATO",
+  "lead": "Satispay è tornato online dopo 515 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 515 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T07:33:35.831624+00:00",
+  "published_at": "2026-09-05T22:57:13.635178+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
+      "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
       "url": "/tecnologia/disservizio-cloudflare",
       "id": "monitor_cloudflare",
       "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
