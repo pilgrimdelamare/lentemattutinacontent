@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "La piattaforma di sviluppo GitHub ha ripristinato la piena operatività dopo un'i",
   "titles": [
-    "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi."
+    "La piattaforma di sviluppo GitHub ha ripristinato la piena operatività dopo un'i",
+    "La piattaforma di sviluppo GitHub ha ripristinato la piena operatività dopo un'i",
+    "La piattaforma di sviluppo GitHub ha ripristinato la piena operatività dopo un'i"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 21 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RITORNA ONLINE DOPO 382 MINUTI",
+  "lead": "La piattaforma di sviluppo GitHub ha ripristinato la piena operatività dopo un'interruzione prolungata durata 382 minuti. Il sistema è ora stabile e accessibile a tutti gli utenti, segnando la fine del disservizio che ha impattato le attività di sviluppo in tutto il mondo.",
+  "corpo1": "Il malfunzionamento è stato rilevato in modo sistematico, causando errori di autenticazione e indisponibilità dei servizi API. La durata complessiva dell'incidente si è attestata a 382 minuti, un lasso di tempo significativo che ha interrotto i flussi di lavoro di numerosi team. Le verifiche tecniche confermano che l'infrastruttura è stata completamente ripristinata. I server rispondono correttamente e le latenze sono tornate ai livelli nominali. Non sono stati segnalati ulteriori problemi residui. Il monitoraggio continuo garantisce la stabilità attuale del sistema, chiudendo definitivamente l'episodio di disservizio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T07:41:49.841303+00:00",
+  "published_at": "2026-09-05T13:43:02.278501+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
-  "related": [
-    {
-      "title": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
