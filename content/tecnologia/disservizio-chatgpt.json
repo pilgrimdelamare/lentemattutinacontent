@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 327 minuti di interruzione.",
+  "title": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT è tornato online dopo 327 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 327 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 327 minuti di interruzione."
+    "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RIPRISTINATO",
-  "lead": "ChatGPT è tornato online dopo 327 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 327 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 21 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-31T20:33:15.398167+00:00",
+  "published_at": "2026-09-05T07:41:49.840783+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Spotify è tornato online dopo 69 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Netflix è tornato online dopo 97 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay è tornato online dopo 63 minuti di interruzione.",
+      "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
       "url": "/tecnologia/disservizio-satispay",
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
