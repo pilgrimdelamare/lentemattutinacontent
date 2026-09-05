@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
+  "title": "Spotify è tornato online dopo 433 minuti di interruzione.",
   "titles": [
-    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
-    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il ",
-    "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il "
+    "Spotify è tornato online dopo 433 minuti di interruzione.",
+    "Spotify è tornato online dopo 433 minuti di interruzione.",
+    "Spotify è tornato online dopo 433 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY RIPRISTINATO DOPO 98 MINUTI",
-  "lead": "La piattaforma di streaming musicale Spotify è tornata pienamente operativa. Il servizio ha ripreso a funzionare regolarmente dopo un'interruzione durata novantotto minuti. Gli utenti possono ora accedere senza interruzioni.",
-  "corpo1": "Il disservizio ha interessato l'intera infrastruttura di streaming, impedendo la riproduzione dei contenuti. La anomalia è stata rilevata e successivamente risolta dal team tecnico. I sistemi di monitoraggio confermano la piena stabilità dei server. La connettività è stata ripristinata su tutti i dispositivi supportati. Non si segnalano ulteriori rallentamenti o errori residui. La piattaforma opera ora con i parametri standard di prestazioni. Gli utenti possono tornare a utilizzare il servizio in condizioni normali.",
+  "occhiello": "SPOTIFY RIPRISTINATO",
+  "lead": "Spotify è tornato online dopo 433 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Spotify è stato risolto. L'interruzione è durata circa 433 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T13:43:02.277458+00:00",
+  "published_at": "2026-09-05T21:28:34.454792+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
-  "related": [],
+  "related": [
+    {
+      "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è tornato online dopo 382 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
