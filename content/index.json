@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disserv",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T22:11:57.081070+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE IN DOWN",
+    "lead_preview": "Cloudflare è irraggiungibile da 37 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
@@ -204,25 +223,6 @@
     "tags": [
       "downtime",
       "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T07:33:16.851600+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "NUBIFLOW OFFLINE: ERRORE 522",
-    "lead_preview": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è completamente inaccessibile. Migliaia di",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
