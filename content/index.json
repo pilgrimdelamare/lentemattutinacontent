@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:41:49.841303+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
@@ -7655,21 +7674,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/9/29/4e5860000af21bcdf5225372df23e60e.jpg",
     "occhiello": "LAS VEGAS, LA CONDANNA PER LA MORTE DI TUPAC",
     "lead_preview": "Roma, 1 settembre 2026. L'ex membro di una gang sarebbe stato riconosciuto colpevole della morte del rapper Tupac Shakur",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4f861b54759a39d0",
-    "slug": "rimonta-al-primo-turno-degli-us-open-2026-4f861b54759a39d0",
-    "title": "Rimonta al primo turno degli us open 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-01T21:00:07.029989+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/df127818c544ff16fcff726767623e70073eb268/skysport/it/tennis/video/2026/09/01/cobolli-us-open-intervista-video-1121390/cobolli-stamp_ok.jpg",
-    "occhiello": "RIMONTA AL PRIMO TURNO DEGLI US OPEN 2026",
-    "lead_preview": "New York, 1 settembre 2026. Flavio Cobolli ha superato il primo turno degli US Open battendo l'argentino Camilo Ugo Cara",
     "tags": [],
     "hero_eligible": true
   }
