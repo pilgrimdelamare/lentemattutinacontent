@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
+  "title": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
   "titles": [
-    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
-    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int",
-    "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha int"
+    "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+    "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale",
+    "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO CLAUDE RIAPERTO DOPO FERMO",
-  "lead": "La piattaforma Claude è tornata pienamente operativa. Il disservizio, che ha interrotto l'accesso ai servizi, è durato novantuno minuti. Il sistema è ora stabile e accessibile a tutti gli utenti registrati.",
-  "corpo1": "Le anomalie sono state rilevate in fase di autenticazione, bloccando le richieste in ingresso. Il team tecnico ha isolato il nodo responsabile del malfunzionamento e ha ripristinato la piena capacità di elaborazione. I test di integrità confermano la stabilità dell'infrastruttura. Non si registrano perdite di dati durante il periodo di inattività. I tempi di risposta sono rientrati nei parametri standard. L'accesso è stato riabilitato progressivamente per garantire un carico di lavoro distribuito. Il monitoraggio continuo è attivo per prevenire eventuali ripresentazioni del guasto.",
+  "occhiello": "CLAUDE OFFLINE: CRITICITÀ MASSIMA",
+  "lead": "Da venti minuti il sistema Claude risulta irraggiungibile. L'interruzione totale impedisce l'accesso a tutte le interfacce. Gli utenti italiani subiscono un blocco immediato delle operazioni in corso, con conseguente paralisi dei flussi di lavoro automatizzati.",
+  "corpo1": "Il monitoraggio tecnico rileva un silenzio totale dai server di Claude da circa venti minuti. Non si registrano risposte alle richieste di connessione né aggiornamenti di stato. Tutte le funzionalità di inferenza, elaborazione del linguaggio e gestione delle sessioni attive sono completamente compromesse. L'assenza di feedback da parte dei nodi di rete indica un guasto infrastrutturale profondo, non un semplice rallentamento. Gli operatori non possono inviare prompt né ricevere output, bloccando qualsiasi attività dipendente dall'intelligenza artificiale. La situazione richiede interventi immediati a livello di infrastruttura di rete. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-08-30T08:46:18.364402+00:00",
+  "published_at": "2026-09-05T07:33:16.852602+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "La piattaforma di finanza digitale Revolut ha ripristinato la piena operatività ",
+      "title": "Revolut risulta irraggiungibile da venti minuti. Il servizio è completamente ina",
       "url": "/tecnologia/disservizio-revolut",
       "id": "monitor_revolut",
       "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di sviluppo collaborativo ha ripristinato la piena operatività. I",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Cloudflare è irraggiungibile da venti minuti. Il servizio di protezione e CDN è ",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di messaggistica istantanea ha ripristinato la piena operatività ",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
