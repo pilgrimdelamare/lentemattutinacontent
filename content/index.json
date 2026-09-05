@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-05T07:33:16.850600+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Spotify è irraggiungibile da venti minuti. Il servizio streaming è completamente inaccessibile per gli utenti italiani. ",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "libro-20260905",
     "slug": "libro-del-giorno-la-via-del-mare-sulle-rotte-dellimpero-20260905",
     "title": "Il libro del giorno: «La via del mare. Sulle rotte dell’impero perduto del Portogallodi Erika Fatland»",
@@ -7631,21 +7650,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/15/9c2dd4fb7a2c437aa2692daee002e512.jpg",
     "occhiello": "GIUNTOLI CELEBRA IL COLPO KESSIÉ E RINGRAZIA LA PROPRIETÀ",
     "lead_preview": "Roma, 31 agosto 2026. Il direttore sportivo Cristiano Giuntoli ha commentato l'operazione di mercato che ha portato il c",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ced0c736ec1bd7ae",
-    "slug": "il-modello-como-punta-sulla-tattica-di-fabregas-ced0c736ec1bd7ae",
-    "title": "Il modello como punta sulla tattica di fabregas",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-01T17:52:26.242527+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/25/0035746ceb4f3fa29935e762c98b7dd4.jpg",
-    "occhiello": "IL MODELLO COMO PUNTA SULLA TATTICA DI FABREGAS",
-    "lead_preview": "Roma, 1 settembre 2026. Francesc Fàbregas Soler, tecnico del Como, incassa le dichiarazioni pubbliche dell'attaccante ch",
     "tags": [],
     "hero_eligible": true
   }
