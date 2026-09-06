@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:48:35.486371+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM IN DOWN",
+    "lead_preview": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è tornato online dopo 29 minuti di interruzione.",
@@ -185,25 +204,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:03:56.176169+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzionamento blocca l'accesso a milioni di ut",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
