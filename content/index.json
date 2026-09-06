@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:37:35.431338+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB OFFLINE: CRITICITA MASSIMA",
+    "lead_preview": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere al ",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
@@ -129,25 +148,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T02:20:04.766547+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IN DOWN",
-    "lead_preview": "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "github",
       "disservizi"
     ],
     "hero_eligible": false
