@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:31:33.462767+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IN DOWN",
+    "lead_preview": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
@@ -71,25 +90,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è tornato online dopo 208 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T04:47:22.144645+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 208 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
