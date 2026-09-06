@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:37:46.169777+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT RIPRISTINATO",
+    "lead_preview": "Revolut è tornato online dopo 476 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
@@ -270,25 +289,6 @@
       "zodiaco",
       "stelle",
       "Stella D'Argento"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_revolut",
-    "slug": "disservizio-revolut",
-    "title": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T02:01:27.347924+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/revolut.com",
-    "occhiello": "REVOLUT IN DOWN",
-    "lead_preview": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "revolut",
-      "disservizi"
     ],
     "hero_eligible": false
   },
