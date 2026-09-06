@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
+  "title": "Cloudflare è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disserv",
   "titles": [
-    "Cloudflare è tornato online dopo 89 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 89 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 89 minuti di interruzione."
+    "Cloudflare è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disserv"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE RIPRISTINATO",
-  "lead": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Cloudflare è stato risolto. L'interruzione è durata circa 89 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CLOUDFLARE IN DOWN",
+  "lead": "Cloudflare è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T00:45:43.909269+00:00",
+  "published_at": "2026-09-06T01:41:30.336654+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "GitHub è tornato online dopo 93 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Claude è tornato online dopo 646 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
