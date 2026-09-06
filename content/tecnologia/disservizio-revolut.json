@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
   "titles": [
-    "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
+    "Revolut è tornato online dopo 476 minuti di interruzione.",
+    "Revolut è tornato online dopo 476 minuti di interruzione.",
+    "Revolut è tornato online dopo 476 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT IN DOWN",
-  "lead": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Revolut risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "REVOLUT RIPRISTINATO",
+  "lead": "Revolut è tornato online dopo 476 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 476 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T02:01:27.347924+00:00",
+  "published_at": "2026-09-06T09:37:46.169777+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
       "url": "/tecnologia/disservizio-satispay",
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
-      "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
       "image_type": "image"
     }
   ],
