@@ -1,17 +1,17 @@
 {
   "id": "monitor_tiktok",
   "slug": "disservizio-tiktok",
-  "title": "TikTok è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "TikTok è tornato online dopo 43 minuti di interruzione.",
   "titles": [
-    "TikTok è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
-    "TikTok è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi."
+    "TikTok è tornato online dopo 43 minuti di interruzione.",
+    "TikTok è tornato online dopo 43 minuti di interruzione.",
+    "TikTok è tornato online dopo 43 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TIKTOK IN DOWN",
-  "lead": "TikTok è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio TikTok risulta non disponibile dalle ultime 25 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "TIKTOK RIPRISTINATO",
+  "lead": "TikTok è tornato online dopo 43 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito TikTok è stato risolto. L'interruzione è durata circa 43 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T00:52:13.472615+00:00",
+  "published_at": "2026-09-06T01:11:05.140653+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/tiktok.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-tiktok",
   "related": [
     {
-      "title": "Discord è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "Claude è tornato online dopo 646 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     }
   ],
