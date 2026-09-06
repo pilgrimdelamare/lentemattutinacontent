@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T06:57:19.884159+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "ALERTA: CLOUDFLARE IRRAGGIUNGIBILE DA 21 MINUTI",
+    "lead_preview": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio impedisce l'accesso a milioni di siti web ",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
@@ -90,25 +109,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T06:07:26.180223+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE IN DOWN",
-    "lead_preview": "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
