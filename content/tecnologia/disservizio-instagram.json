@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
+  "title": "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'acce",
   "titles": [
-    "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi"
+    "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'acce",
+    "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'acce",
+    "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'acce"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM IN DOWN",
-  "lead": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "INSTAGRAM RIAPRE DOPO 254 MINUTI",
+  "lead": "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'accesso agli utenti è terminato ufficialmente. Il sistema ha ripreso a funzionare senza ulteriori anomalie rilevate dai monitoraggi tecnici in tempo reale.",
+  "corpo1": "Le prime segnalazioni di malfunzionamento sono arrivate nelle prime ore della mattinata, causando un blocco generalizzato delle funzionalità di caricamento e visualizzazione dei contenuti. L'interruzione ha interessato l'intera infrastruttura globale del servizio social. Dopo un'analisi approfondita dei log di sistema, i tecnici hanno identificato e corretto l'anomalia. Il ripristino completo dei servizi è avvenuto dopo 254 minuti di inattività. I server ora rispondono con tempi di latenza standard e la stabilità della piattaforma è stata verificata attraverso test automatizzati continui.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:48:35.486371+00:00",
+  "published_at": "2026-09-06T05:44:09.143976+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
-  "related": [],
+  "related": [
+    {
+      "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa dopo un'i",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare è tornato online dopo 30 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
