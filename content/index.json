@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "WhatsApp è tornato online dopo 95 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:14:11.048324+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "WHATSAPP RIPRISTINATO",
+    "lead_preview": "WhatsApp è tornato online dopo 95 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è tornato online dopo 208 minuti di interruzione.",
@@ -53,25 +72,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "WhatsApp è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disserviz",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T03:59:46.206285+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "WHATSAPP IN DOWN",
-    "lead_preview": "WhatsApp è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
