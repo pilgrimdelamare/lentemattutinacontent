@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 4",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:37:46.297111+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE ONLINE. SERVIZIO RIPRISTINATO.",
+    "lead_preview": "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 476 minuti. La piattaforma di video shari",
+    "tags": [
+      "downtime",
+      "youtube",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_revolut",
     "slug": "disservizio-revolut",
     "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
@@ -289,25 +308,6 @@
       "zodiaco",
       "stelle",
       "Stella D'Argento"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_youtube",
-    "slug": "disservizio-youtube",
-    "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T01:11:02.504195+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/youtube.com",
-    "occhiello": "YOUTUBE RIAPRE DOPO 43 MINUTI",
-    "lead_preview": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il servizio ha ripreso a funzionare regolarmen",
-    "tags": [
-      "downtime",
-      "youtube",
-      "disservizi"
     ],
     "hero_eligible": false
   },
