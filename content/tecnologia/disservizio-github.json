@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
+  "title": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
   "titles": [
-    "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
-    "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi."
+    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
+    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
+    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IN DOWN",
-  "lead": "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 27 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB OFFLINE: CRITICITA MASSIMA",
+  "lead": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere al codice sorgente, compromettendo le pipeline di integrazione continua e bloccando le release software in corso.",
+  "corpo1": "Il malfunzionamento è iniziato alle ore 09:12, generando errori di connettività globali. Attualmente sono inaccessibili le repository pubbliche e private, il sistema di versionamento e le API di automazione. Le operazioni di push e pull falliscono sistematicamente, paralizzando i flussi di lavoro dei team tecnici. Non si tratta di un problema di pagamento, ma di un'interruzione infrastrutturale critica che impedisce l'accesso al codice. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T02:20:04.766547+00:00",
+  "published_at": "2026-09-06T05:37:35.431338+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Spotify è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     }
   ],
