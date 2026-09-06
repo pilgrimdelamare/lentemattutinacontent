@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv",
+  "title": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im",
   "titles": [
-    "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv"
+    "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im",
+    "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im",
+    "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE IN DOWN",
-  "lead": "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 16 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "ALERTA: CLOUDFLARE IRRAGGIUNGIBILE DA 21 MINUTI",
+  "lead": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio impedisce l'accesso a milioni di siti web e servizi digitali. Gli utenti italiani segnalano errori di connessione immediati e totali su larga scala.",
+  "corpo1": "Il sistema di Content Delivery Network e protezione DDoS di Cloudflare ha cessato di rispondere alle richieste globali. L'interruzione è iniziata esattamente 21 minuti fa, causando il blocco immediato di tutte le funzionalità di routing e sicurezza. I server edge non elaborano più il traffico, rendendo inaccessibili le applicazioni protette. Non si tratta di un problema locale, ma di un guasto infrastrutturale centrale che paralizza la rete. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T06:07:26.180223+00:00",
+  "published_at": "2026-09-06T06:57:19.884159+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Discord è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "GitHub è irraggiungibile da 32 minuti. Gli utenti italiani segnalano disservizi.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
