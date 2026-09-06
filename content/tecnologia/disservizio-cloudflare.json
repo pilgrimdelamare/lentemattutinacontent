@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disserv",
+  "title": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
   "titles": [
-    "Cloudflare è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disserv",
-    "Cloudflare è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disserv"
+    "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
+    "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "CLOUDFLARE IN DOWN",
-  "lead": "Cloudflare è irraggiungibile da 33 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 33 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "lead": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Cloudflare risulta non disponibile dalle ultime 17 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T04:06:04.610164+00:00",
+  "published_at": "2026-09-06T05:31:33.461678+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -36,6 +36,28 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
-  "related": [],
+  "related": [
+    {
+      "title": "ChatGPT è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    }
+  ],
   "hero_eligible": false
 }
