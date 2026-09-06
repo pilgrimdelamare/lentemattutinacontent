@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:41:23.374390+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IN DOWN",
+    "lead_preview": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è tornato online dopo 49 minuti di interruzione.",
@@ -71,25 +90,6 @@
     "tags": [
       "downtime",
       "youtube",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T01:11:04.674323+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIAPRE DOPO 108 MINUTI",
-    "lead_preview": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disservizio, che ha interessato l'intero serv",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
