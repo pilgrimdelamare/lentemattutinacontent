@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 30 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:44:08.995402+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 30 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
@@ -90,25 +109,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T05:31:33.461678+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE IN DOWN",
-    "lead_preview": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
