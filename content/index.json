@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, domenica 6 settembre 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-09-06T04:01:46.163472+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — DOMENICA 6 SETTEMBRE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_netflix",
     "slug": "disservizio-netflix",
     "title": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
@@ -627,26 +647,6 @@
     "lead_preview": "Roma, 4 settembre 2026. Dalla fine del 2024 a oggi, le prefetture italiane hanno eseguito 2,3 milioni di controlli nelle",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, sabato 5 settembre 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-09-05T04:02:50.315853+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — SABATO 5 SETTEMBRE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "131e2d716c4299fe",
