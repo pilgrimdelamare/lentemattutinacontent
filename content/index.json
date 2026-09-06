@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è tornato online dopo 92 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:32:29.552799+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK RIPRISTINATO",
+    "lead_preview": "TikTok è tornato online dopo 92 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
@@ -71,25 +90,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T08:31:40.684855+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "TIKTOK IN DOWN",
-    "lead_preview": "TikTok è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "tiktok",
       "disservizi"
     ],
     "hero_eligible": false
