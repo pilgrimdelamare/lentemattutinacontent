@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
+  "title": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
   "titles": [
-    "Satispay è tornato online dopo 515 minuti di interruzione.",
-    "Satispay è tornato online dopo 515 minuti di interruzione.",
-    "Satispay è tornato online dopo 515 minuti di interruzione."
+    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
+    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
+    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RIPRISTINATO",
-  "lead": "Satispay è tornato online dopo 515 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 515 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SATISPAY RITORNA ONLINE DOPO FERMO",
+  "lead": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operatività dopo un'interruzione di servizio durata quarantatré minuti. Il disservizio ha interessato temporaneamente le transazioni, ma il sistema è ora completamente funzionante e accessibile a tutti gli utenti registrati.",
+  "corpo1": "Il malfunzionamento si è verificato in mattinata, impedendo temporaneamente l'esecuzione di pagamenti e trasferimenti. I tecnici hanno identificato la causa del blocco e hanno avviato le procedure di ripristino. Dopo quarantatré minuti di interruzione, i server sono tornati pienamente operativi. Le verifiche tecniche confermano la stabilità della piattaforma e la corretta elaborazione delle transazioni. Non sono stati segnalati ulteriori problemi di connettività o errori di sistema. L'operatività è stata normalizzata su tutti i canali digitali e fisici abilitati al servizio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:57:13.635178+00:00",
+  "published_at": "2026-09-06T01:11:05.081100+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Revolut è tornato online dopo 197 minuti di interruzione.",
+      "title": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
       "url": "/tecnologia/disservizio-revolut",
       "id": "monitor_revolut",
       "image_url": "https://logo.clearbit.com/revolut.com",
+      "image_type": "image"
+    },
+    {
+      "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
