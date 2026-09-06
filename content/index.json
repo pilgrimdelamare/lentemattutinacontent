@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T06:57:19.884159+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD IN DOWN",
+    "lead_preview": "Discord è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è irraggiungibile da 32 minuti. Gli utenti italiani segnalano disservizi.",
@@ -52,25 +71,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è tornato online dopo 27 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T06:18:27.784474+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 27 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
