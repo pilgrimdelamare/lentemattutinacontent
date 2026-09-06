@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 69 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T06:18:27.617352+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 69 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord è tornato online dopo 27 minuti di interruzione.",
@@ -109,25 +128,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T05:37:35.431338+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB OFFLINE: CRITICITA MASSIMA",
-    "lead_preview": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere al ",
-    "tags": [
-      "downtime",
-      "github",
       "disservizi"
     ],
     "hero_eligible": false
