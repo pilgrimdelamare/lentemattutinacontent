@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:11:05.081100+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RITORNA ONLINE DOPO FERMO",
+    "lead_preview": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operatività dopo un'interruzione di servizio du",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_youtube",
     "slug": "disservizio-youtube",
     "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:57:13.635178+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIPRISTINATO",
-    "lead_preview": "Satispay è tornato online dopo 515 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "satispay",
       "disservizi"
     ],
     "hero_eligible": false
