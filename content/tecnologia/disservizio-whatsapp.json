@@ -1,17 +1,17 @@
 {
   "id": "monitor_whatsapp",
   "slug": "disservizio-whatsapp",
-  "title": "WhatsApp è tornato online dopo 95 minuti di interruzione.",
+  "title": "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b",
   "titles": [
-    "WhatsApp è tornato online dopo 95 minuti di interruzione.",
-    "WhatsApp è tornato online dopo 95 minuti di interruzione.",
-    "WhatsApp è tornato online dopo 95 minuti di interruzione."
+    "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b",
+    "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b",
+    "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "WHATSAPP RIPRISTINATO",
-  "lead": "WhatsApp è tornato online dopo 95 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito WhatsApp è stato risolto. L'interruzione è durata circa 95 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "WHATSAPP DOWN: CRITICITA MASSIMA",
+  "lead": "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta bloccando milioni di utenti italiani. Messaggi, chiamate e videochiamate sono inaccessibili. La piattaforma è completamente offline, generando caos nelle comunicazioni personali e professionali in tempo reale.",
+  "corpo1": "Il sistema di messaggistica istantanea ha subito un arresto improvviso alle ore attuali. Da diciassette minuti, gli utenti riportano l'impossibilità di inviare o ricevere qualsiasi tipo di contenuto. Le funzionalità di testo, audio, video e condivisione file sono totalmente compromesse. L'applicazione si blocca al caricamento o restituisce errori di connessione persistente. Non si tratta di un problema locale, ma di un guasto infrastrutturale centrale che impedisce l'accesso al server. La situazione sta generando un impatto significativo sulla comunicazione d'emergenza e operativa. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T05:14:11.048324+00:00",
+  "published_at": "2026-09-06T05:37:35.433336+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/whatsapp.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-whatsapp",
   "related": [
     {
-      "title": "Discord è tornato online dopo 208 minuti di interruzione.",
+      "title": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-discord",
       "id": "monitor_discord",
       "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 65 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Cloudflare è tornato online dopo 65 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Spotify è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
