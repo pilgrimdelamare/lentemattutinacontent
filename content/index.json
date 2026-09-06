@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram è tornato online dopo 261 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T10:23:21.474260+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM RIPRISTINATO",
+    "lead_preview": "Instagram è tornato online dopo 261 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato online dopo 660 minuti di interruzione.",
@@ -347,25 +366,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T06:30:53.358041+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM IN DOWN",
-    "lead_preview": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
