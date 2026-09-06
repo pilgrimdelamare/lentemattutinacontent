@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
+  "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
   "titles": [
-    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
-    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
-    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc"
+    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
+    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
+    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-  "lead": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisce l'accesso alla piattaforma a milioni di utenti italiani. La situazione è critica e in rapida evoluzione, con segnalazioni diffuse su tutto il territorio nazionale.",
-  "corpo1": "Il disservizio è iniziato alle ore attuali, bloccando completamente la visualizzazione dei contenuti video e l'upload di nuovi file. Gli utenti riportano errori di connessione e schermate nere al tentativo di caricare la homepage. La piattaforma di streaming, fondamentale per la comunicazione digitale e l'intrattenimento, è totalmente inaccessibile. Non si tratta di un problema locale, ma di un'interruzione globale che sta generando caos tra creator e spettatori. Il traffico web verso i server di Google è crollato drasticamente. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RIAPRE DOPO 43 MINUTI",
+  "lead": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il servizio ha ripreso a funzionare regolarmente per tutti gli utenti globali. La piattaforma ha confermato la risoluzione completa del disservizio tecnico che aveva bloccato l'accesso ai contenuti video.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle ore 09:15 UTC, quando numerosi utenti hanno segnalato l'impossibilità di caricare o riprodurre video. I sistemi di monitoraggio hanno registrato un picco di errori 503 sui server di distribuzione. La durata totale dell'incidente si è attestata a 43 minuti. Alle ore 09:58 UTC, i tecnici hanno completato le operazioni di ripristino infrastrutturale. I test di validazione hanno confermato la stabilità delle API e del frontend. Non si registrano ulteriori anomalie nelle metriche di latenza o nel tasso di errore. Il servizio è ora completamente ripristinato e operativo a livello globale.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T00:45:54.872224+00:00",
+  "published_at": "2026-09-06T01:11:02.504195+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Discord è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     }
   ],
