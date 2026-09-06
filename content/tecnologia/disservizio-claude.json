@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 646 minuti di interruzione.",
+  "title": "Claude è tornato online dopo 660 minuti di interruzione.",
   "titles": [
-    "Claude è tornato online dopo 646 minuti di interruzione.",
-    "Claude è tornato online dopo 646 minuti di interruzione.",
-    "Claude è tornato online dopo 646 minuti di interruzione."
+    "Claude è tornato online dopo 660 minuti di interruzione.",
+    "Claude è tornato online dopo 660 minuti di interruzione.",
+    "Claude è tornato online dopo 660 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "CLAUDE RIPRISTINATO",
-  "lead": "Claude è tornato online dopo 646 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 646 minuti. Il servizio risulta ora pienamente operativo.",
+  "lead": "Claude è tornato online dopo 660 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 660 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:57:13.312259+00:00",
+  "published_at": "2026-09-06T10:23:21.453984+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Spotify è tornato online dopo 236 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     },
     {
-      "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
