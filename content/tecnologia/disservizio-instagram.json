@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+  "title": "Instagram è irraggiungibile da 35 minuti. Gli utenti italiani segnalano disservi",
   "titles": [
-    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
-    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
-    "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio"
+    "Instagram è irraggiungibile da 35 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 35 minuti. Gli utenti italiani segnalano disservi",
+    "Instagram è irraggiungibile da 35 minuti. Gli utenti italiani segnalano disservi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
-  "lead": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzionamento blocca l'accesso a milioni di utenti italiani, impedendo la pubblicazione di contenuti e la ricezione di notifiche in tempo reale.",
-  "corpo1": "Il sistema di monitoraggio ha rilevato un'interruzione totale del servizio alle ore correnti. Gli utenti segnalano errori di connessione persistenti e l'impossibilità di caricare feed, storie o effettuare ricerche. La piattaforma social è inaccessibile sia tramite applicazione mobile che da browser web. Non sono disponibili aggiornamenti ufficiali da parte del provider. La situazione sta generando un impatto significativo sulla comunicazione digitale e sul flusso di informazioni in tempo reale. Stiamo monitorando la situazione.",
+  "occhiello": "INSTAGRAM IN DOWN",
+  "lead": "Instagram è irraggiungibile da 35 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 35 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:03:56.176169+00:00",
+  "published_at": "2026-09-06T00:02:34.023323+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
