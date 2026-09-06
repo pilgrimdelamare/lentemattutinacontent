@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 660 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T10:23:21.453984+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRISTINATO",
+    "lead_preview": "Claude è tornato online dopo 660 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "b8d2741c35d169b3",
     "slug": "palombelli-a-forum-spazio-alla-riflessione-su-diri-b8d2741c35d169b3",
     "title": "Palombelli, 'a forum spazio alla riflessione su diritti e intelligenza artificia",
@@ -368,25 +387,6 @@
       "zodiaco",
       "stelle",
       "Stella D'Argento"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 646 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:57:13.312259+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 646 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
     ],
     "hero_eligible": false
   },
