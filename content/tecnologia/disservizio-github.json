@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
+  "title": "GitHub è tornato online dopo 69 minuti di interruzione.",
   "titles": [
-    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
-    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag",
-    "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce ag"
+    "GitHub è tornato online dopo 69 minuti di interruzione.",
+    "GitHub è tornato online dopo 69 minuti di interruzione.",
+    "GitHub è tornato online dopo 69 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB OFFLINE: CRITICITA MASSIMA",
-  "lead": "GitHub risulta irraggiungibile da ventotto minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere al codice sorgente, compromettendo le pipeline di integrazione continua e bloccando le release software in corso.",
-  "corpo1": "Il malfunzionamento è iniziato alle ore 09:12, generando errori di connettività globali. Attualmente sono inaccessibili le repository pubbliche e private, il sistema di versionamento e le API di automazione. Le operazioni di push e pull falliscono sistematicamente, paralizzando i flussi di lavoro dei team tecnici. Non si tratta di un problema di pagamento, ma di un'interruzione infrastrutturale critica che impedisce l'accesso al codice. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 69 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 69 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T05:37:35.431338+00:00",
+  "published_at": "2026-09-06T06:18:27.617352+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Discord è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Discord è tornato online dopo 27 minuti di interruzione.",
       "url": "/tecnologia/disservizio-discord",
       "id": "monitor_discord",
       "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disserv",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "TikTok è tornato online dopo 43 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     }
   ],
