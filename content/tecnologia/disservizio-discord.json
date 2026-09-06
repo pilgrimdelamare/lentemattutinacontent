@@ -1,17 +1,17 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Discord è tornato online dopo 208 minuti di interruzione.",
   "titles": [
-    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi"
+    "Discord è tornato online dopo 208 minuti di interruzione.",
+    "Discord è tornato online dopo 208 minuti di interruzione.",
+    "Discord è tornato online dopo 208 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "DISCORD IN DOWN",
-  "lead": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Discord risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "DISCORD RIPRISTINATO",
+  "lead": "Discord è tornato online dopo 208 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Discord è stato risolto. L'interruzione è durata circa 208 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:41:23.374390+00:00",
+  "published_at": "2026-09-06T04:47:22.144645+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "ChatGPT è tornato online dopo 65 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "Cloudflare è tornato online dopo 65 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "TikTok è tornato online dopo 43 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     }
   ],
