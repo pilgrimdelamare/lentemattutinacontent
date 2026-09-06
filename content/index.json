@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T00:45:45.721516+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 214 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il disservizio, che aveva bloccato l'accesso ",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_cloudflare",
     "slug": "disservizio-cloudflare",
     "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
@@ -185,25 +204,6 @@
     "tags": [
       "downtime",
       "youtube",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T21:28:33.426777+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
