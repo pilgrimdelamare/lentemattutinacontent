@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "WhatsApp è tornato online dopo 58 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T06:18:27.827478+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "WHATSAPP RIPRISTINATO",
+    "lead_preview": "WhatsApp è tornato online dopo 58 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è tornato online dopo 69 minuti di interruzione.",
@@ -109,25 +128,6 @@
     "tags": [
       "downtime",
       "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T05:37:35.433336+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "WHATSAPP DOWN: CRITICITA MASSIMA",
-    "lead_preview": "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta bloccando milioni di utenti italiani. Mes",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
