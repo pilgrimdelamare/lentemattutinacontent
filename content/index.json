@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T02:01:27.347924+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY IN DOWN",
+    "lead_preview": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T01:11:05.081100+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RITORNA ONLINE DOPO FERMO",
-    "lead_preview": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operatività dopo un'interruzione di servizio du",
-    "tags": [
-      "downtime",
-      "satispay",
       "disservizi"
     ],
     "hero_eligible": false
