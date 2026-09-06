@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_netflix",
+    "slug": "disservizio-netflix",
+    "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:32:29.735897+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/netflix.com",
+    "occhiello": "NETFLIX RIPRISTINATO",
+    "lead_preview": "Netflix è tornato online dopo 353 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "netflix",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
@@ -187,25 +206,6 @@
       "zodiaco",
       "stelle",
       "Stella D'Argento"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_netflix",
-    "slug": "disservizio-netflix",
-    "title": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T03:59:46.207308+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/netflix.com",
-    "occhiello": "NETFLIX IN DOWN",
-    "lead_preview": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "netflix",
-      "disservizi"
     ],
     "hero_eligible": false
   },
