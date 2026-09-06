@@ -1,17 +1,17 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
+  "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
-    "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
-    "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse"
+    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "DISCORD RIAPRE DOPO 108 MINUTI",
-  "lead": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disservizio, che ha interessato l'intero servizio, si è concluso dopo 108 minuti di interruzione. Gli utenti possono ora accedere senza problemi alle chat e ai canali vocali.",
-  "corpo1": "Le anomalie sono iniziate con errori di connessione e impossibilità di autenticarsi. Il sistema ha registrato un picco di segnalazioni da parte degli utenti durante l'arco temporale dell'interruzione. Dopo 108 minuti, i tecnici hanno ripristinato la piena funzionalità dei server. I monitor di stato confermano la stabilità attuale della piattaforma. Non sono previste ulteriori ripercussioni sui dati degli utenti. Il servizio è nuovamente disponibile per tutte le community e i singoli account registrati.",
+  "occhiello": "DISCORD IN DOWN",
+  "lead": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Discord risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:11:04.674323+00:00",
+  "published_at": "2026-09-06T01:41:23.374390+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
-      "title": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Instagram risulta completamente irraggiungibile da ventotto minuti. Il malfunzio",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     },
     {
-      "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     }
   ],
