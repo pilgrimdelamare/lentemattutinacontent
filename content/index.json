@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:44:08.974403+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIPRISTINATO",
+    "lead_preview": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_whatsapp",
     "slug": "disservizio-whatsapp",
     "title": "WhatsApp risulta irraggiungibile da diciassette minuti. Il blackout totale sta b",
@@ -90,25 +109,6 @@
     "tags": [
       "downtime",
       "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T05:19:52.635453+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
