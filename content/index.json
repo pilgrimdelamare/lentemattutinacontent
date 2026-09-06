@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è tornato online dopo 43 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:11:05.140653+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK RIPRISTINATO",
+    "lead_preview": "TikTok è tornato online dopo 43 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
@@ -147,25 +166,6 @@
     "tags": [
       "downtime",
       "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è tornato online dopo 81 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:57:13.225730+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "TIKTOK RIPRISTINATO",
-    "lead_preview": "TikTok è tornato online dopo 81 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "tiktok",
       "disservizi"
     ],
     "hero_eligible": false
