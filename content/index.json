@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_whatsapp",
+    "slug": "disservizio-whatsapp",
+    "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:55:21.585967+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/whatsapp.com",
+    "occhiello": "WHATSAPP IN DOWN",
+    "lead_preview": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "whatsapp",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
@@ -204,25 +223,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T21:28:33.291195+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "WHATSAPP RIPRISTINATO",
-    "lead_preview": "WhatsApp è tornato online dopo 439 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
