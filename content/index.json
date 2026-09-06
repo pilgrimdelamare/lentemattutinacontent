@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:55:21.589957+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY IN DOWN",
+    "lead_preview": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_whatsapp",
     "slug": "disservizio-whatsapp",
     "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
@@ -204,25 +223,6 @@
     "tags": [
       "downtime",
       "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:11:57.088637+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY IN DOWN",
-    "lead_preview": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "spotify",
       "disservizi"
     ],
     "hero_eligible": false
