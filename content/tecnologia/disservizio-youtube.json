@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
+  "title": "YouTube è irraggiungibile da 41 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
-    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
-    "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser"
+    "YouTube è irraggiungibile da 41 minuti. Gli utenti italiani segnalano disservizi",
+    "YouTube è irraggiungibile da 41 minuti. Gli utenti italiani segnalano disservizi",
+    "YouTube è irraggiungibile da 41 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE RIAPRE DOPO 43 MINUTI",
-  "lead": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il servizio ha ripreso a funzionare regolarmente per tutti gli utenti globali. La piattaforma ha confermato la risoluzione completa del disservizio tecnico che aveva bloccato l'accesso ai contenuti video.",
-  "corpo1": "Il malfunzionamento è stato rilevato alle ore 09:15 UTC, quando numerosi utenti hanno segnalato l'impossibilità di caricare o riprodurre video. I sistemi di monitoraggio hanno registrato un picco di errori 503 sui server di distribuzione. La durata totale dell'incidente si è attestata a 43 minuti. Alle ore 09:58 UTC, i tecnici hanno completato le operazioni di ripristino infrastrutturale. I test di validazione hanno confermato la stabilità delle API e del frontend. Non si registrano ulteriori anomalie nelle metriche di latenza o nel tasso di errore. Il servizio è ora completamente ripristinato e operativo a livello globale.",
+  "occhiello": "YOUTUBE IN DOWN",
+  "lead": "YouTube è irraggiungibile da 41 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio YouTube risulta non disponibile dalle ultime 41 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:11:02.504195+00:00",
+  "published_at": "2026-09-06T02:20:04.767577+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
+      "title": "GitHub è irraggiungibile da 27 minuti. Gli utenti italiani segnalano disservizi.",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Revolut è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     }
   ],
