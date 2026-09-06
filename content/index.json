@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T01:11:04.805224+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLT RIPRISTINATO DOPO 43 MINUTI",
+    "lead_preview": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzione di 43 minuti. Il servizio è tornato ",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
@@ -90,25 +109,6 @@
     "tags": [
       "downtime",
       "discord",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_revolut",
-    "slug": "disservizio-revolut",
-    "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-05T22:57:13.213737+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/revolut.com",
-    "occhiello": "REVOLUT RIPRISTINATO",
-    "lead_preview": "Revolut è tornato online dopo 81 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "revolut",
       "disservizi"
     ],
     "hero_eligible": false
