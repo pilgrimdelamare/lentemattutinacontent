@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
   "titles": [
-    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 17 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 17 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO 214 MINUTI",
+  "lead": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il disservizio, che aveva bloccato l'accesso alla piattaforma, si è concluso con il ripristino delle funzionalità standard per tutti gli utenti.",
+  "corpo1": "Il malfunzionamento è stato rilevato in fase iniziale, causando un'interruzione completa del servizio per un totale di tre ore e trentaquattro minuti. I sistemi di monitoraggio hanno confermato la stabilizzazione delle infrastrutture e la piena operatività dei nodi di elaborazione. Non si registrano ulteriori anomalie nelle prestazioni o nella disponibilità delle risorse. La piattaforma è ora accessibile senza limitazioni, garantendo la continuità operativa e la normale gestione delle richieste degli utenti.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T21:28:33.426777+00:00",
+  "published_at": "2026-09-06T00:45:45.721516+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "GitHub è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi.",
+      "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "GitHub è tornato online dopo 93 minuti di interruzione.",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix risulta completamente irraggiungibile da 35 minuti. Il servizio streamin",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
-      "image_type": "image"
-    },
-    {
-      "title": "YouTube risulta irraggiungibile da 34 minuti. Il servizio è completamente inacce",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
