@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Spotify è tornato online dopo 37 minuti di interruzione.",
   "titles": [
-    "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi"
+    "Spotify è tornato online dopo 37 minuti di interruzione.",
+    "Spotify è tornato online dopo 37 minuti di interruzione.",
+    "Spotify è tornato online dopo 37 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY IN DOWN",
-  "lead": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SPOTIFY RIPRISTINATO",
+  "lead": "Spotify è tornato online dopo 37 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Spotify è stato risolto. L'interruzione è durata circa 37 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:55:21.589957+00:00",
+  "published_at": "2026-09-06T02:12:57.155575+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
-  "related": [
-    {
-      "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
