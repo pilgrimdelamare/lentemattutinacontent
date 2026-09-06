@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è irraggiungibile da 32 minuti. Gli utenti italiani segnalano disservizi.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T06:57:19.884159+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IN DOWN",
+    "lead_preview": "GitHub è irraggiungibile da 32 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
@@ -33,25 +52,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 69 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T06:18:27.617352+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 69 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
       "disservizi"
     ],
     "hero_eligible": false
