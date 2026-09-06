@@ -1,17 +1,17 @@
 {
   "id": "monitor_whatsapp",
   "slug": "disservizio-whatsapp",
-  "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "WhatsApp è tornato online dopo 110 minuti di interruzione.",
   "titles": [
-    "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
-    "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
-    "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz"
+    "WhatsApp è tornato online dopo 110 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 110 minuti di interruzione.",
+    "WhatsApp è tornato online dopo 110 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "WHATSAPP IN DOWN",
-  "lead": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio WhatsApp risulta non disponibile dalle ultime 19 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "WHATSAPP RIPRISTINATO",
+  "lead": "WhatsApp è tornato online dopo 110 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito WhatsApp è stato risolto. L'interruzione è durata circa 110 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:55:21.585967+00:00",
+  "published_at": "2026-09-06T03:25:36.842321+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/whatsapp.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-whatsapp",
   "related": [
     {
-      "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "Cloudflare è tornato online dopo 65 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Discord è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "TikTok è tornato online dopo 43 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify è irraggiungibile da 31 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Claude è tornato online dopo 646 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     }
   ],
