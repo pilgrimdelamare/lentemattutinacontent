@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
+  "title": "Instagram è tornato online dopo 261 minuti di interruzione.",
   "titles": [
-    "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi",
-    "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservi"
+    "Instagram è tornato online dopo 261 minuti di interruzione.",
+    "Instagram è tornato online dopo 261 minuti di interruzione.",
+    "Instagram è tornato online dopo 261 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "INSTAGRAM IN DOWN",
-  "lead": "Instagram è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Instagram risulta non disponibile dalle ultime 29 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "INSTAGRAM RIPRISTINATO",
+  "lead": "Instagram è tornato online dopo 261 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Instagram è stato risolto. L'interruzione è durata circa 261 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T06:30:53.358041+00:00",
+  "published_at": "2026-09-06T10:23:21.474260+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Claude è tornato online dopo 660 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è tornato online dopo 236 minuti di interruzione.",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è irraggiungibile da 16 minuti. Gli utenti italiani segnalano disserv",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Netflix è irraggiungibile da 21 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
