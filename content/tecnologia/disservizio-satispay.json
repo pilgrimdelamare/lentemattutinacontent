@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
   "titles": [
-    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz"
+    "Satispay è tornato online dopo 470 minuti di interruzione.",
+    "Satispay è tornato online dopo 470 minuti di interruzione.",
+    "Satispay è tornato online dopo 470 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY IN DOWN",
-  "lead": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIPRISTINATO",
+  "lead": "Satispay è tornato online dopo 470 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 470 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T02:01:27.347924+00:00",
+  "published_at": "2026-09-06T09:32:29.578897+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "TikTok è tornato online dopo 92 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     },
     {
-      "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     }
   ],
