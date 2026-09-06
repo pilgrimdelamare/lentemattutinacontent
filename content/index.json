@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'acce",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T05:44:09.143976+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM RIAPRE DOPO 254 MINUTI",
+    "lead_preview": "La piattaforma torna pienamente operativa. Il disservizio che ha bloccato l'accesso agli utenti è terminato ufficialment",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa dopo un'i",
@@ -186,25 +205,6 @@
     "tags": [
       "downtime",
       "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T01:48:35.486371+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM IN DOWN",
-    "lead_preview": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
