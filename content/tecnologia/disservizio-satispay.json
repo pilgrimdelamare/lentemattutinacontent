@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
+  "title": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
   "titles": [
-    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
-    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati",
-    "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operati"
+    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disserviz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RITORNA ONLINE DOPO FERMO",
-  "lead": "La piattaforma di pagamenti istantanei Satispay ha ripristinato la piena operatività dopo un'interruzione di servizio durata quarantatré minuti. Il disservizio ha interessato temporaneamente le transazioni, ma il sistema è ora completamente funzionante e accessibile a tutti gli utenti registrati.",
-  "corpo1": "Il malfunzionamento si è verificato in mattinata, impedendo temporaneamente l'esecuzione di pagamenti e trasferimenti. I tecnici hanno identificato la causa del blocco e hanno avviato le procedure di ripristino. Dopo quarantatré minuti di interruzione, i server sono tornati pienamente operativi. Le verifiche tecniche confermano la stabilità della piattaforma e la corretta elaborazione delle transazioni. Non sono stati segnalati ulteriori problemi di connettività o errori di sistema. L'operatività è stata normalizzata su tutti i canali digitali e fisici abilitati al servizio.",
+  "occhiello": "SATISPAY IN DOWN",
+  "lead": "Satispay è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T01:11:05.081100+00:00",
+  "published_at": "2026-09-06T02:01:27.347924+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Spotify è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di comunicazione Discord è tornata pienamente operativa. Il disse",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "WhatsApp è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disserviz",
+      "url": "/tecnologia/disservizio-whatsapp",
+      "id": "monitor_whatsapp",
+      "image_url": "https://logo.clearbit.com/whatsapp.com",
       "image_type": "image"
     },
     {
-      "title": "YouTube è tornato pienamente operativo dopo un'interruzione di 43 minuti. Il ser",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "Instagram è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservi",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
