@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:32:29.062067+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
@@ -71,25 +90,6 @@
     "tags": [
       "downtime",
       "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio im",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T06:57:19.884159+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "ALERTA: CLOUDFLARE IRRAGGIUNGIBILE DA 21 MINUTI",
-    "lead_preview": "Cloudflare risulta completamente irraggiungibile da 21 minuti. Il disservizio impedisce l'accesso a milioni di siti web ",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
