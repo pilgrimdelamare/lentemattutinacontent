@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-06T09:37:45.987165+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIPRISTINATO",
+    "lead_preview": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "16ffcdad1b2870c5",
     "slug": "raul-castro-95-torna-al-pubblico-dopo-sospetti-di-16ffcdad1b2870c5",
     "title": "Raul castro, 95, torna al pubblico dopo sospetti di malattia",
@@ -230,25 +249,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T05:44:08.974403+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
