@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 93 minuti di interruzione.",
+  "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
   "titles": [
-    "GitHub è tornato online dopo 93 minuti di interruzione.",
-    "GitHub è tornato online dopo 93 minuti di interruzione.",
-    "GitHub è tornato online dopo 93 minuti di interruzione."
+    "GitHub è tornato online dopo 114 minuti di interruzione.",
+    "GitHub è tornato online dopo 114 minuti di interruzione.",
+    "GitHub è tornato online dopo 114 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 93 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 93 minuti. Il servizio risulta ora pienamente operativo.",
+  "lead": "GitHub è tornato online dopo 114 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 114 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:57:12.346602+00:00",
+  "published_at": "2026-09-06T01:11:02.206071+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,6 +38,13 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
+      "title": "Cloudflare è tornato online dopo 89 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
       "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
       "url": "/tecnologia/disservizio-revolut",
       "id": "monitor_revolut",
@@ -49,13 +56,6 @@
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     }
   ],
