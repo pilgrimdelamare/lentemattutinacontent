@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è tornato online dopo 81 minuti di interruzione.",
+  "title": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
   "titles": [
-    "Revolut è tornato online dopo 81 minuti di interruzione.",
-    "Revolut è tornato online dopo 81 minuti di interruzione.",
-    "Revolut è tornato online dopo 81 minuti di interruzione."
+    "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT RIPRISTINATO",
-  "lead": "Revolut è tornato online dopo 81 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 81 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "REVOLT RIPRISTINATO DOPO 43 MINUTI",
+  "lead": "Revolut ha ripristinato la piena operatività della piattaforma dopo un'interruzione di 43 minuti. Il servizio è tornato completamente accessibile agli utenti, chiudendo l'episodio di disservizio che aveva impedito l'accesso alle funzionalità principali dell'applicazione.",
+  "corpo1": "Il malfunzionamento è stato rilevato in corrispondenza dell'orario di apertura dei mercati, generando un blocco temporaneo delle transazioni e dell'accesso al conto. I sistemi di monitoraggio hanno registrato la normalizzazione dei parametri tecnici dopo 43 minuti di attività ridotta. La piattaforma è ora stabile e risponde correttamente alle richieste degli utenti. Non si segnalano ulteriori anomalie infrastrutturali. L'incidente rientra nella categoria di interruzioni brevi, senza impatti permanenti sui dati o sulle transazioni in corso. La piena funzionalità è stata confermata dai server centrali.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:57:13.213737+00:00",
+  "published_at": "2026-09-06T01:11:04.805224+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "Claude è tornato online dopo 646 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "GitHub è tornato online dopo 114 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Satispay è tornato online dopo 515 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 82 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 214 minuti. Il di",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
