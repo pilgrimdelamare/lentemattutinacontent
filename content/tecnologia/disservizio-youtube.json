@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube risulta completamente irraggiungibile da ventotto minuti. Il servizio è ",
+  "title": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
   "titles": [
-    "YouTube risulta completamente irraggiungibile da ventotto minuti. Il servizio è ",
-    "YouTube risulta completamente irraggiungibile da ventotto minuti. Il servizio è ",
-    "YouTube risulta completamente irraggiungibile da ventotto minuti. Il servizio è "
+    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
+    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc",
+    "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisc"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-  "lead": "YouTube risulta completamente irraggiungibile da ventotto minuti. Il servizio è inaccessibile per tutti gli utenti italiani. La piattaforma video più grande al mondo è fuori linea, bloccando ogni tentativo di connessione e generando un caos digitale immediato e diffuso.",
-  "corpo1": "Il disservizio ha colpito l'intera infrastruttura del portale, rendendo impossibile l'accesso sia da browser web che dalle applicazioni mobili. Gli utenti segnalano errori di connessione e schermate nere persistenti. Le funzionalità di streaming, ricerca e caricamento contenuti sono totalmente compromesse. Non si tratta di un problema locale, ma di un'interruzione globale che sta paralizzando milioni di connessioni in tempo reale. La piattaforma non risponde a nessun input, lasciando gli utenti in attesa indefinita. Stiamo monitorando la situazione.",
+  "lead": "YouTube risulta irraggiungibile da diciotto minuti. Il malfunzionamento impedisce l'accesso alla piattaforma a milioni di utenti italiani. La situazione è critica e in rapida evoluzione, con segnalazioni diffuse su tutto il territorio nazionale.",
+  "corpo1": "Il disservizio è iniziato alle ore attuali, bloccando completamente la visualizzazione dei contenuti video e l'upload di nuovi file. Gli utenti riportano errori di connessione e schermate nere al tentativo di caricare la homepage. La piattaforma di streaming, fondamentale per la comunicazione digitale e l'intrattenimento, è totalmente inaccessibile. Non si tratta di un problema locale, ma di un'interruzione globale che sta generando caos tra creator e spettatori. Il traffico web verso i server di Google è crollato drasticamente. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-05T22:04:03.287714+00:00",
+  "published_at": "2026-09-06T00:45:54.872224+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Satispay è irraggiungibile da venti minuti. Il servizio di pagamento è completam",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Discord è irraggiungibile da 19 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     }
   ],
