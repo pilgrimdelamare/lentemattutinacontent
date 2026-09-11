@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 11 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-11T06:06:13.811641+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/dbf4c430f957e33d4c7a1bfad19a533b0efa84f4/skytg24/it/cronaca/2026/09/11/prime-pagine-quotidiani-oggi-11-settembre/corriere-della-sera-051512ivy6dpr.jpg",
+    "occhiello": "LE PRIME PAGINE DI VENERDÌ 11 SETTEMBRE 2026: ELEZIONI, ENERGIA, SPORT E TORRI GEMELLE",
+    "lead_preview": "Oggi i quotidiani italiani convergono su tre filoni principali: la legge elettorale, con il via libera del Senato all’em",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "39a9376abc98d398",
     "slug": "frutta-vino-e-olio-doliva-dagli-insediamenti-illeg-39a9376abc98d398",
     "title": "Frutta, vino e olio d’oliva dagli insediamenti illegali: l’UE li segna ma Israele li nasconde",
@@ -2621,25 +2640,6 @@
       "oscar 2024 corea del sud",
       "leone venezia 2023",
       "lee chang-dong"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 7 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-07T05:51:48.318951+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/cf5e7a00c4cee2cb50c81ca0cbd8d433b5366d44/skytg24/it/cronaca/2026/09/07/prime-pagine-quotidiani-oggi-7-settembre/cor.jpg",
-    "occhiello": "LE PRIME PAGINE DEL 7 SETTEMBRE 2026: ULTRADESTRA, GUERRA E SPORT",
-    "lead_preview": "Oggi i quotidiani italiani dedicano ampio spazio al risultato elettorale in Sassonia-Anhalt, dove l’Afd ha ottenuto un s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
