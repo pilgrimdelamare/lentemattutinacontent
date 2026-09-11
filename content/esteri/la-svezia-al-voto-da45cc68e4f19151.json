@@ -1,0 +1,59 @@
+{
+  "id": "da45cc68e4f19151",
+  "slug": "la-svezia-al-voto-da45cc68e4f19151",
+  "title": "La svezia al voto",
+  "titles": [
+    "LA SVEZIA AL VOTO",
+    "LA SVEZIA AL VOTO",
+    "LA SVEZIA AL VOTO"
+  ],
+  "title_winner": null,
+  "section": "esteri",
+  "occhiello": "LA SVEZIA AL VOTO",
+  "lead": "Stoccolma, 11 settembre. La Svezia va al voto, con il Premier Kristersson che spera in un secondo mandato in coalizione con i nazionalisti.",
+  "corpo1": "Il voto见 in Svezia è considerato una sfida cruciale per il Premier Kristersson, che cerca di mantenere la sua posizione di leader del governo. La campagna elettorale ha visto una forte presenza dei partiti nazionalisti, che potrebbero giocare un ruolo determinante nel risultato finale. Secondo le ultime proiezioni, il partito di Kristersson potrebbe ottenere un numero significativo di seggi, ma la coalizione con i nazionalisti potrebbe essere l'unico modo per mantenere la maggioranza. La Svezia, membro dell'Unione Europea, della NATO e dell'ONU, è uno Stato scandinavo con una popolazione di circa 10 milioni di abitanti. Il paese ha una storia di stabilità politica e economica, ma la recente ascesa dei partiti nazionalisti ha creato un clima di incertezza.",
+  "corpo2": "La postura di Kristersson è stata descritta come cauta, mentre i nazionalisti hanno condotto una campagna più aggressiva. La questione dell'immigrazione è stata al centro del dibattito, con i nazionalisti che promettono di ridurre il numero di immigrati e di aumentare la Sicurezza. Tuttavia, la politica estera della Svezia potrebbe essere influenzata dalle alleanze Internazionali, come la NATO e l'Unione Europea. Se Kristersson dovesse mantenere la sua posizione, potrebbe essere costretto a bilanciare le richieste dei nazionalisti con le esigenze delle alleanze Internazionali. La Svezia ha una lunga storia di Cooperazione con l'Unione Europea e la NATO, e un cambio di governo potrebbe avere ripercussioni sulla politica estera del paese. Se il governo di Kristersson dovesse cadere, potrebbe essere sostituito da una coalizione di partiti di sinistra, che potrebbero avere una visione diversa sulla politica estera e sulla Sicurezza nazionale, e questo potrebbe avere un impatto significativo sulle relazioni Internazionali della Svezia nei prossimi sei-dodici mesi.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "anna_colombo_01",
+    "firma": "Anna Colombo",
+    "sezione": "esteri"
+  },
+  "published_at": "2026-09-11T18:05:05.912376+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1280x720/2026/8/20/b6cf5d656326fec8eecc56579f498648.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA SVEZIA AL VOTO\",\n  \"description\": \"Stoccolma, 11 settembre. La Svezia va al voto, con il Premier Kristersson che spera in un secondo mandato in coalizione con i nazionalisti.\",\n  \"articleBody\": \"Stoccolma, 11 settembre. La Svezia va al voto, con il Premier Kristersson che spera in un secondo mandato in coalizione con i nazionalisti. Il voto见 in Svezia è considerato una sfida cruciale per il Premier Kristersson, che cerca di mantenere la sua posizione di leader del governo. La campagna elettorale ha visto una forte presenza dei partiti nazionalisti, che potrebbero giocare un ruolo determinante nel risultato finale. Secondo le ultime proiezioni, il partito di Kristersson potrebbe ottenere un numero significativo di seggi, ma la coalizione con i nazionalisti potrebbe essere l'unico modo per mantenere la maggioranza. La Svezia, membro dell'Unione Europea, della NATO e dell'ONU, è uno Stato scandinavo con una popolazione di circa 10 milioni di abitanti. Il paese ha una storia di stabilità politica e economica, ma la recente ascesa dei partiti nazionalisti ha creato un clima di incertezza. La postura di Kristersson è stata descritta come cauta, mentre i nazionalisti hanno condotto una campagna più aggressiva. La questione dell'immigrazione è stata al centro del dibattito, con i nazionalisti che promettono di ridurre il numero di immigrati e di aumentare la Sicurezza. Tuttavia, la politica estera della Svezia potrebbe essere influenzata dalle alleanze Internazionali, come la NATO e l'Unione Europea. Se Kristersson dovesse mantenere la sua posizione, potrebbe essere costretto a bilanciare le richieste dei nazionalisti con le esigenze delle alleanze Internazionali. La Svezia ha una lunga storia di Cooperazione con l'Unione Europea e la NATO, e un cambio di governo potrebbe avere ripercussioni sulla politica estera del paese. Se il governo di Kristersson dovesse cadere, potrebbe essere sostituito da una coalizione di partiti di sinistra, che potrebbero avere una visione diversa sulla politica estera e sulla Sicurezza nazionale, e questo potrebbe avere un impatto significativo sulle relazioni Internazionali della Svezia nei prossimi sei-dodici mesi.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Anna Colombo\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-11T18:05:05.912376+00:00\",\n  \"dateModified\": \"2026-09-11T18:05:05.912376+00:00\",\n  \"url\": \"https://lentemattutina.it/esteri/da45cc68e4f19151\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/esteri/da45cc68e4f19151\"\n  },\n  \"articleSection\": \"Esteri\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1280x720/2026/8/20/b6cf5d656326fec8eecc56579f498648.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Esteri",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/11/la-svezia-va-al-voto-testa-a-testa-con-lincognita-ultradestra_3b7b89f4-b8ac-42ab-9f94-547b6277641c.html",
+  "related": [
+    {
+      "title": "Promessi 5mila dollari per il voto",
+      "url": "/esteri/promessi-5mila-dollari-per-il-voto-65642dd6b77893cd",
+      "id": "65642dd6b77893cd",
+      "image_url": "https://i.guim.co.uk/img/media/b8a73c60b7213dbe00896d11597c5d39cb69cd82/229_0_1954_1564/master/1954.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=245f29af38201f4f1403630d0a0eb812",
+      "image_type": "image"
+    },
+    {
+      "title": "Salta il viaggio di milei a oxford e l'argentina 'week' a londra",
+      "url": "/esteri/salta-il-viaggio-di-milei-a-oxford-e-largentina-we-f8ec05d72ce30d60",
+      "id": "f8ec05d72ce30d60",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/19/5b3e4e8fb65b127f0d45f4fa984809ee.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Uk economy defies forecasts with surprise 0.4% growth in july",
+      "url": "/esteri/uk-economy-defies-forecasts-with-surprise-04-growt-91bc0d04104a8c41",
+      "id": "91bc0d04104a8c41",
+      "image_url": "https://i.guim.co.uk/img/media/f49d9e9a8437e74e903d1a39fc4f8fe65f8a42e0/312_0_3107_2487/master/3107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfd1af07407092f7bd0e5f6fbae5ea62",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
