@@ -1,5 +1,20 @@
 [
   {
+    "id": "0bc190f5584f38d9",
+    "slug": "attacco-a-brixton-quattro-uomini-feriti-in-attacco-0bc190f5584f38d9",
+    "title": "Attacco a Brixton: Quattro uomini feriti in attacco gestito da gruppi giovanili",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-11T02:06:45.654517+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/16/8ba8026540752694a1fe3b46a7d7329e.jpg",
+    "occhiello": "QUATTRO PERSONE ACCOLTELLATE A LONDRA, MATRICE PER ORA NON CHIARA",
+    "lead_preview": "Londra, 10 settembre Quattro persone accoltellate in un attacco avvenuto intorno alle 16:30 nella zona di Brixton, quart",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "0f8a20bda9468e7a",
     "slug": "macron-annuncia-progetto-iniziative-aereae-nello-s-0f8a20bda9468e7a",
     "title": "Macron annuncia progetto iniziative aereae nello spazio",
@@ -8117,24 +8132,6 @@
     "occhiello": "SHELTON BATTE HURKACZ AGLI US OPEN DOPO QUATTRO SET",
     "lead_preview": "Roma, 2 settembre 2026. Ben Shelton ha conquistato la qualificazione al terzo turno degli US Open superando il polacco H",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a1002a9db97125b",
-    "slug": "continuita-istituzionale-nella-dirigenza-della-fio-4a1002a9db97125b",
-    "title": "Continuità istituzionale nella dirigenza della fiorentina",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-03T18:30:04.530559+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/1/27/102eaa06f24c246ba195cadb17bab735.jpg",
-    "occhiello": "CONTINUITÀ ISTITUZIONALE NELLA DIRIGENZA DELLA FIORENTINA",
-    "lead_preview": "Firenze, 3 settembre 2026. Catherine Commisso è stata ufficialmente nominata Vicepresidente dell'Associazione Calcio Fir",
-    "tags": [
-      "fiorentina",
-      "catherine commisso"
-    ],
     "hero_eligible": true
   }
 ]
