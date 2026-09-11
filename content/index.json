@@ -1,5 +1,20 @@
 [
   {
+    "id": "f7666bcc48a7344d",
+    "slug": "roma-10-settembre-f7666bcc48a7344d",
+    "title": "Roma, 10 settembre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-11T00:00:33.575739+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/11/05d66ce8c74417570c036bb72fd4c329.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 10 settembre. L'Università La Sapienza presenterà dal 17 ottobre all'8 maggio la nuova stagione di concerti nell'A",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f597f3d838b1f640",
     "slug": "trump-fateci-finire-il-lavoro-e-ogni-americano-avr-f597f3d838b1f640",
     "title": "Trump, 'fateci finire il lavoro e ogni americano avrà 5.000 dollari'",
@@ -8031,21 +8046,6 @@
       "miriam leone",
       "brand lavika"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9419607ece10b6b",
-    "slug": "il-centrocampista-torna-al-filadelfia-per-chiudere-d9419607ece10b6b",
-    "title": "Mandragora torna al Toro: 'Ho lasciato qualcosa in sospeso' al Filadelfia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-02T12:18:52.348156+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/2/280e7d66e70228c2194c8b25d75c910e.jpg",
-    "occhiello": "IL CENTROCAMPISTA TORNA AL FILADELFIA PER CHIUDERE UN CERCHIO",
-    "lead_preview": "Torino, 2 settembre 2026. Rolando Mandragora fa ritorno al Torino e dichiara di aver lasciato qualcosa in sospeso, sugge",
-    "tags": [],
     "hero_eligible": true
   }
 ]
