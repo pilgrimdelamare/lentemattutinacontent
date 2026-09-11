@@ -1,5 +1,20 @@
 [
   {
+    "id": "4a6943ee03a54f6b",
+    "slug": "donald-trump-annuncia-un-programma-di-riscatto-ame-4a6943ee03a54f6b",
+    "title": "Trump richiede 5.000$ per adulto se i repubblicani vincono",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-11T03:00:57.220658+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://images.agi.it/pictures/agi/agi/2026/09/11/024418512-c356f15b-da5f-4db0-aaef-fd12a1f52e48.jpg",
+    "occhiello": "TRUMP RICHIEDE 5.000$ PER ADULTO SE I REPUBBLICANI VINCONO",
+    "lead_preview": "Dallas, 11 settembre. Donald Trump, alla seconda giornata della convention repubblicana, ha ribadito la promessa di un d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2afbb5d55580b8fb",
     "slug": "bce-alza-tassi-al-425-per-una-famiglia-a-35mila-eu-2afbb5d55580b8fb",
     "title": "La banca centrale europea ha restreto i tassi di 0,25 punti: per una famiglia con reddito medio, la casa ideale è più lo",
@@ -1672,25 +1687,6 @@
       "us open 2023",
       "rybakina vs gauff",
       "finale tennis femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a6943ee03a54f6b",
-    "slug": "donald-trump-annuncia-un-programma-di-riscatto-ame-4a6943ee03a54f6b",
-    "title": "Donald Trump annuncia un programma di riscatto americano",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-11T03:00:57.220658+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2026/09/11/024418512-c356f15b-da5f-4db0-aaef-fd12a1f52e48.jpg",
-    "occhiello": "TRUMP RICHIEDE 5.000$ PER ADULTO SE I REPUBBLICANI VINCONO",
-    "lead_preview": "Dallas, 11 settembre. Donald Trump, alla seconda giornata della convention repubblicana, ha ribadito la promessa di un d",
-    "tags": [
-      "donald trump",
-      "riscatto americano",
-      "convention repubblicana"
     ],
     "hero_eligible": true
   },
