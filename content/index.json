@@ -1,5 +1,20 @@
 [
   {
+    "id": "7b0fc357357da62d",
+    "slug": "malkovich-strappa-la-volpi-il-cavallo-selvaggio-ch-7b0fc357357da62d",
+    "title": "Malkovich strappa la Volpi: il cavallo selvaggio che gli regala l’ennesima prova di genio",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-12T18:52:21.571923+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/764710f0348287bc9c3631f74e8cb8cb.jpg",
+    "occhiello": "LA COPPA VOLPI MASCHILE VA A JOHN MALKOVICH",
+    "lead_preview": "VENEZIA, 12 settembre John Malkovich vince la Coppa Volpi maschile per Wild Horse Nine, il film di Martin McDonagh che l",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "fbd97b30c3e20c34",
     "slug": "premio-per-la-migliore-sceneggiatura-a-un-bon-peti-fbd97b30c3e20c34",
     "title": "Premio per la migliore sceneggiatura a un bon petit soldat",
@@ -8665,25 +8680,6 @@
       "discord",
       "disservizi"
     ],
-    "hero_eligible": false
-  },
-  {
-    "id": "libro-20260905",
-    "slug": "libro-del-giorno-la-via-del-mare-sulle-rotte-dellimpero-20260905",
-    "title": "Il libro del giorno: «La via del mare. Sulle rotte dell’impero perduto del Portogallodi Erika Fatland»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un saggio di viaggio e antropologia che ripercorre le vestigia dell'antico impero coloniale portoghese",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-05T07:01:29.937385+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829794232_0_0_424_0_75-257b8.jpg?1787790794",
-      "alt": "Copertina: La via del mare. Sulle rotte dell’impero perduto del Portogallodi Erika Fatland",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L203xH312/9788829794232_0_0_424_0_75-257b8.jpg?1787790794",
-    "image_type": "url",
     "hero_eligible": false
   }
 ]
