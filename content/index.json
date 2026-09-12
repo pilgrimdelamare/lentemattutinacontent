@@ -1,5 +1,24 @@
 [
   {
+    "id": "8515e35975cda5d6",
+    "slug": "axios-usa-preoccupati-per-yemen-gen-cooper-in-arab-8515e35975cda5d6",
+    "title": "Cooper in Arabia Saudita: Usa bloccano guerra ma stringono cerchio a Teheran con droni e pressioni",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-11T20:05:19.350201+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/10/031bb891d2ab0f598faea11f4627a75c.jpg",
+    "occhiello": "AXIOS, 'USA PREOCCUPATI PER YEMEN, GEN. COOPER IN ARABIA SAUDITA'",
+    "lead_preview": "Riad, 11 settembre Il generale statunitense Christopher J. Cooper, capo del Pentagono per la regione del Medio Oriente, ",
+    "tags": [
+      "cooper in arabia saudita",
+      "usa yemen",
+      "droni contro iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e1e764e2aa209385",
     "slug": "riformisti-vs-centristi-europa-a-pezzi-mentre-boni-e1e764e2aa209385",
     "title": "L’ultimo appello di bonino a magi e della vedova: “+europa, non dividetevi”",
@@ -2853,25 +2872,6 @@
       "insediamenti israeliani cisgiordania",
       "etichette ue prodotti israeliani",
       "import italia sanzioni ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8515e35975cda5d6",
-    "slug": "axios-usa-preoccupati-per-yemen-gen-cooper-in-arab-8515e35975cda5d6",
-    "title": "Axios, 'usa preoccupati per yemen, gen. cooper in arabia saudita'",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-11T20:05:19.350201+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/10/031bb891d2ab0f598faea11f4627a75c.jpg",
-    "occhiello": "AXIOS, 'USA PREOCCUPATI PER YEMEN, GEN. COOPER IN ARABIA SAUDITA'",
-    "lead_preview": "Riad, 11 settembre Il generale statunitense Christopher J. Cooper, capo del Pentagono per la regione del Medio Oriente, ",
-    "tags": [
-      "yemen",
-      "usa",
-      "arabia saudita"
     ],
     "hero_eligible": true
   },
