@@ -1,5 +1,24 @@
 [
   {
+    "id": "97277977a8f599e6",
+    "slug": "domenica-ancora-alcuni-temporali-in-sicilia-poi-ri-97277977a8f599e6",
+    "title": "Domenica ancora alcuni temporali in sicilia, poi rimonta dell’anticiclone delle ",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-09-12T20:59:38.466057+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/12/223911577-1efc5775-59ec-4624-adf6-32cbefd83ddf.jpg",
+    "occhiello": "DOMENICA ANCORA ALCUNI TEMPORALI IN SICILIA, POI RIMONTA DELL’ANTICICLONE DELLE ",
+    "lead_preview": "Sicilia, 13 settembre. Domenica pomeriggio, tra le 16:30 e le 19:00, rovesci di pioggia e temporali violenti hanno colpi",
+    "tags": [
+      "temporali sicilia",
+      "anticiclone mediterraneo",
+      "meteo enna"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2a88769d8c7d2740",
     "slug": "il-boss-dei-furti-di-lusso-condanna-donnarumma-9-a-2a88769d8c7d2740",
     "title": "Assaltò casa di donnarumma a parigi nel 2023, condannato a 9 anni 'ganito'",
@@ -8639,25 +8658,6 @@
     "tags": [
       "downtime",
       "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 660 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T10:23:21.453984+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 660 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
       "disservizi"
     ],
     "hero_eligible": false
