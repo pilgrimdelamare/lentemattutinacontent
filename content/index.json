@@ -1,5 +1,24 @@
 [
   {
+    "id": "a9e0c04490210348",
+    "slug": "bellingham-e-haaland-valgono-140-milioni-ma-il-pad-a9e0c04490210348",
+    "title": "Bellingham e Haaland valgono 140 milioni, ma il Paderborn paga il prezzo della sconfitta",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-12T19:24:31.616689+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/2ef2166dd3345fbb04b47c1b550e780054f8ac26/skysport/it/calcio/bundesliga/video/2026/09/12/1124184_1789235492524_thumb_494.0000001_1789236372676.jpg",
+    "occhiello": "BORUSSIA DORTMUND-PADERBORN 3-0: GOL E HIGHLIGHTS",
+    "lead_preview": "Dortmund, 12 settembre 2026 Il Borussia Dortmund ha liquidato il Paderborn con un 3-0 che, a conti fatti, vale molto più",
+    "tags": [
+      "borussia dortmund vs paderborn",
+      "calcio bundesliga 2026",
+      "trasferimenti calciatori 2026"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dea5c473866c2ee1",
     "slug": "calcio-sorrento-monetizza-il-gol-di-di-palma-il-pi-dea5c473866c2ee1",
     "title": "Calcio: Sorrento monetizza il gol di Di Palma, il Picerno spende 120mila per un nulla",
@@ -8647,25 +8666,6 @@
     "tags": [
       "downtime",
       "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.062067+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIPRISTINATO",
-    "lead_preview": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "cloudflare",
       "disservizi"
     ],
     "hero_eligible": false
