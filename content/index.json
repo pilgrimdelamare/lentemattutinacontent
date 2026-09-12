@@ -1,5 +1,24 @@
 [
   {
+    "id": "eaeea0ce448c99e1",
+    "slug": "xi-jinping-blocca-il-summit-trump-niente-armi-a-ta-eaeea0ce448c99e1",
+    "title": "Xi Jinping blocca il summit Trump: «Niente armi a Taiwan o non verrò»",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-12T19:08:52.450689+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/12/b098f38085e78abdb493117c595906ad.jpg",
+    "occhiello": "XI AVVISA TRUMP: ARMI A TAIWAN BLOCCANO IL SUMMIT",
+    "lead_preview": "Washington, 12 settembre. La Cina ha sollecitato gli Stati Uniti a rinunciare a qualsiasi vendita di armi a Taiwan duran",
+    "tags": [
+      "xi jinping-trump summit",
+      "vendite armi taiwan",
+      "minaccia cina usa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "89ba86dfb34ef0ee",
     "slug": "rilevanza-storica-scoperta-in-portovenere-rimonta-89ba86dfb34ef0ee",
     "title": "Portovenere annuncia: reliquie di san Venerio già nel 1843, ma nessuno le aveva mai viste",
@@ -8655,25 +8674,6 @@
     "tags": [
       "downtime",
       "whatsapp",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord è tornato online dopo 176 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.053475+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD RIPRISTINATO",
-    "lead_preview": "Discord è tornato online dopo 176 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
