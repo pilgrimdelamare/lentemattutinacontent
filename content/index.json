@@ -1,5 +1,24 @@
 [
   {
+    "id": "16d0c35fd9f66022",
+    "slug": "aspetti-nuove-sorprese-allopen-degli-usa-16d0c35fd9f66022",
+    "title": "Aspetti nuove sorprese all'Open degli USA",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-12T20:16:58.263932+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/434591cce1f1dd05fc83a6a0c0f5a6ca094ce532/skysport/it/tennis/video/2026/09/12/harrison-skupski-krawietz-puetz-us-open-highlights-1124204/harrison_skupski_ipa.jpg",
+    "occhiello": "US OPEN, HARRISON/SKUPSKI TRIONFANO IN DOPPIO: BATTUTI KRAWIETZ/PUETZ. HIGHLIGHT",
+    "lead_preview": "New York, 12 settembre Christian Harrison e Neal Skupski hanno scritto un altro capitolo nella storia del doppio maschil",
+    "tags": [
+      "us open 2023",
+      "doppio maschile tennis",
+      "harrison skupski trionfo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5e233422f42b9fb6",
     "slug": "non-solo-arte-e-musei-per-gli-italiani-si-allargan-5e233422f42b9fb6",
     "title": "Enogastronomia e natura battono i musei: perché il governo continua a finanziare il vuoto culturale?",
@@ -8647,25 +8666,6 @@
     "tags": [
       "downtime",
       "revolut",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:37:45.987165+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
