@@ -1,5 +1,20 @@
 [
   {
+    "id": "7de03b68929891f1",
+    "slug": "pallavolo-europei-italia-grecia-3-0-7de03b68929891f1",
+    "title": "Pallavolo: europei; italia-grecia 3-0",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-12T21:16:10.098325+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/a86f9700f7dbf89180d5dd8136b382ef.jpg",
+    "occhiello": "PALLAVOLO: EUROPEI; ITALIA-GRECIA 3-0",
+    "lead_preview": "Pallavolo, Europa League: l’Italia schiaccia la Grecia 3-0 e conferma il dominio tecnico Roma, 12 settembre 2026 L’Itali",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "38e949eec99bc349",
     "slug": "peru-keiko-fujimori-sceglie-alvaro-vargas-llosa-co-38e949eec99bc349",
     "title": "Perù, keiko fujimori sceglie álvaro vargas llosa come ambasciatore negli stati u",
@@ -8638,24 +8653,5 @@
       "marquez magistrati uccisi"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è tornato online dopo 261 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T10:23:21.474260+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM RIPRISTINATO",
-    "lead_preview": "Instagram è tornato online dopo 261 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
