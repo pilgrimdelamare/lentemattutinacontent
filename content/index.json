@@ -1,5 +1,20 @@
 [
   {
+    "id": "745500af1119ffb9",
+    "slug": "gradina-calabrese-e-tifosi-della-guidonia-in-tempe-745500af1119ffb9",
+    "title": "Gradina calabrese e tifosi della Guidonia in tempesta",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-12T19:27:50.289693+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ccd2508a02bf64038988f37712fd49ec1bcb6ec8/skysport/it/calcio/serie-c/video/2026/09/12/1124196_1789237959145_thumb_494.0000001_1789238112027.jpg",
+    "occhiello": "GUIDONIA MONTECELIO-REGGIANA 1-1: GOL E HIGHLIGHTS",
+    "lead_preview": "Guidonia Montecelio, 12 settembre 2026 La società calcistica di una città nata per volere del regime fascista ha pareggi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8e1e09b60c3590db",
     "slug": "stoccarda-crolla-in-bundesliga-120-milioni-di-debi-8e1e09b60c3590db",
     "title": "Stoccarda crolla in Bundesliga: 120 milioni di debito e un gol che seppellisce la Speranza",
@@ -8647,25 +8662,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.578897+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIPRISTINATO",
-    "lead_preview": "Satispay è tornato online dopo 470 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "satispay",
       "disservizi"
     ],
     "hero_eligible": false
