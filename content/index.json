@@ -1,5 +1,24 @@
 [
   {
+    "id": "37e4a0dd45253848",
+    "slug": "calcio-monopoli-batte-foggia-con-un-2800-al-mese-l-37e4a0dd45253848",
+    "title": "Calcio: Monopoli batte Foggia con un 2.800€ al mese: la Serie C dove i poveri vincono ai ricchi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-12T19:31:21.834845+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/b75a01dc2aa988033e406fd0dd239b431109aae0/skysport/it/calcio/serie-c/video/2026/09/12/1124194_1789237406937_thumb_494.0000001_1789237435036.jpg",
+    "occhiello": "MONOPOLI-FOGGIA 1-0: GOL E HIGHLIGHTS",
+    "lead_preview": "Monopoli, 12 settembre 2026 Il gol di Davide Di Lorenzo al 78’ ha regalato a Monopoli la vittoria per 1-0 contro Foggia ",
+    "tags": [
+      "serie c monopoli foggia",
+      "calcio serie c disuguaglianze",
+      "monopoli vince foggia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "745500af1119ffb9",
     "slug": "gradina-calabrese-e-tifosi-della-guidonia-in-tempe-745500af1119ffb9",
     "title": "Gradina calabrese e tifosi della Guidonia in tempesta",
@@ -8646,24 +8665,5 @@
       "real madrid"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_netflix",
-    "slug": "disservizio-netflix",
-    "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.735897+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/netflix.com",
-    "occhiello": "NETFLIX RIPRISTINATO",
-    "lead_preview": "Netflix è tornato online dopo 353 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
