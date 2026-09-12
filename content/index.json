@@ -1,5 +1,20 @@
 [
   {
+    "id": "46c73bd4c39fc81b",
+    "slug": "leone-dargento-per-la-migliore-regia-a-ilya-khrzha-46c73bd4c39fc81b",
+    "title": "Leone d'argento per la migliore regia a ilya khrzhanovsky per dau",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-12T19:15:18.478255+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/9/6ca57ef2def9927cd03c0dd24a4343d5.jpg",
+    "occhiello": "LEONE D'ARGENTO PER LA MIGLIORE REGIA A ILYA KHRZHANOVSKY PER DAU",
+    "lead_preview": "VENEZIA, 12 settembre Il regista russo Ilya Andreyevich Khrzhanovsky ha vinto il Leone d’argento alla migliore regia per",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "eaeea0ce448c99e1",
     "slug": "xi-jinping-blocca-il-summit-trump-niente-armi-a-ta-eaeea0ce448c99e1",
     "title": "Xi Jinping blocca il summit Trump: «Niente armi a Taiwan o non verrò»",
@@ -8655,25 +8670,6 @@
     "tags": [
       "downtime",
       "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_whatsapp",
-    "slug": "disservizio-whatsapp",
-    "title": "WhatsApp è tornato online dopo 155 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.117819+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/whatsapp.com",
-    "occhiello": "WHATSAPP RIPRISTINATO",
-    "lead_preview": "WhatsApp è tornato online dopo 155 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "whatsapp",
       "disservizi"
     ],
     "hero_eligible": false
