@@ -1,5 +1,20 @@
 [
   {
+    "id": "dea5c473866c2ee1",
+    "slug": "calcio-sorrento-monetizza-il-gol-di-di-palma-il-pi-dea5c473866c2ee1",
+    "title": "Calcio: Sorrento monetizza il gol di Di Palma, il Picerno spende 120mila per un nulla",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-12T19:23:30.748745+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/c3838531299d3cc5dd4a2b8bd08ae2139fc5271e/skysport/it/calcio/serie-c/video/2026/09/12/1124191_1789236762116_thumb_494.0000001_1789237159130.jpg",
+    "occhiello": "SORRENTO-AZ PICERNO 1-0: GOL E HIGHLIGHTS",
+    "lead_preview": "Sorrento, 12 settembre 2026 Il gol di Giacomo Di Palma al 28’ ha chiuso una partita che, per logica economica e geografi",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "7232367f0c840314",
     "slug": "asap-rocky-chiude-gli-i-days-milano-coca-cola-7232367f0c840314",
     "title": "Asap rocky chiude gli i-days milano coca-cola",
@@ -8651,25 +8666,6 @@
     "tags": [
       "downtime",
       "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-06T09:32:29.060025+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 66 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
       "disservizi"
     ],
     "hero_eligible": false
