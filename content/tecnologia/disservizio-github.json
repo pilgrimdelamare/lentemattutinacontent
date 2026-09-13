@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
+  "title": "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
   "titles": [
-    "GitHub è tornato online dopo 66 minuti di interruzione.",
-    "GitHub è tornato online dopo 66 minuti di interruzione.",
-    "GitHub è tornato online dopo 66 minuti di interruzione."
+    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
+    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
+    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 66 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 66 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "GITHUB IRRAGGIUNGIBILE DA 15 MINUTI. ALLERTA URGENTE.",
+  "lead": "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto immediato su repository, pull request e CI/CD. Utenti italiani colpiti senza soluzione alternativa. Monitoraggio in corso.",
+  "corpo1": "GitHub ha subito un guasto di rete che ha interrotto l’accesso al servizio principale alle 14:45 ora italiana. Tutte le funzionalità core—repository, branch, pull request, workflow CI/CD e API—sono indisponibili. Gli utenti non possono accedere ai progetti, collaborare o sincronizzare codice. Le soluzioni di backup locali o mirroring non sostituiscono l’accesso diretto. Il team di GitHub sta indagando su un malfunzionamento a livello di infrastruttura cloud. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:32:29.060025+00:00",
+  "published_at": "2026-09-13T09:34:35.994919+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,25 +38,25 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "WhatsApp è tornato online dopo 155 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Vela: Leopard 3 sconfigge Northstar III con 22 minuti, il lusso che non paga i costi",
+      "url": "/sport/vela-leopard-3-sconfigge-northstar-iii-con-22-minu-85c71a32f9faa64a",
+      "id": "85c71a32f9faa64a",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/c12d4f60627febb339abe018f67d52a1.jpg",
       "image_type": "image"
     },
     {
-      "title": "Discord è tornato online dopo 176 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "25 anni fa l'impatto sulla prima torre, l'america si ferma",
+      "url": "/esteri/25-anni-fa-limpatto-sulla-prima-torre-lamerica-si-3f09ad44b6957316",
+      "id": "3f09ad44b6957316",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/7da19dc8f22070cab42e812c8479149b.jpg",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
+      "title": "Calcio: la Serie A taglia 12 minuti a partita: 78’ di gioco, meno soldi e più goal nei primi 20’",
+      "url": "/sport/calcio-la-serie-a-taglia-12-minuti-a-partita-78-di-9f4491b8004da60e",
+      "id": "9f4491b8004da60e",
+      "image_url": "https://sport.sky.it/assets/images/fdb0f4ca3d08fa5339b848f5733816822012cb3a/skysport/it/calcio/serie-a/video/2026/09/07/1122618_1788729934073_thumb_494.0000001_1788764962302.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": false
