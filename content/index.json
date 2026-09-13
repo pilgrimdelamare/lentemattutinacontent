@@ -1,5 +1,24 @@
 [
   {
+    "id": "0b6cb956bdc40228",
+    "slug": "la-lega-sfida-il-governo-15-miliardi-coperti-da-20-0b6cb956bdc40228",
+    "title": "Tensione nel centrodestra su strade sicure, la lega attacca",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-09-12T11:53:06.506156+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/512be003a7d7e74c7c1bd8434491c399.jpg",
+    "occhiello": "TENSIONE NEL CENTRODESTRA SU STRADE SICURE, LA LEGA ATTACCA",
+    "lead_preview": "MAIUSCOLO TRE GIORNI DI PROFITTI BASTANO PER 10MILA MILITARI? LA LEGA CALCOLA FUORVIANTE Roma, 12 settembre. La Lega ha ",
+    "tags": [
+      "lega attacca strade sicure",
+      "finanziamento infrastrutture",
+      "tensione centrodestra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6360dbf3be973bff",
     "slug": "iacona-a-presadiretta-un-bagno-di-realta-cittadini-6360dbf3be973bff",
     "title": "Iacona, 'a presadiretta un bagno di realtà, cittadini protagonisti'",
@@ -1576,21 +1595,6 @@
     "image_url": "https://images.agi.it/pictures/agi/agi/2023/11/12/111359310-05b6905b-5d22-47fb-8fc6-a0ccfd3ab552.jpg",
     "occhiello": "COME SI \"INGANNA\" EBOLA? CON UNA MOLECOLA CHE LE SBARRA LA STRADA",
     "lead_preview": "MAIUSCOLO Una molecola sperimentale blocca Ebola con un’efficacia 100 volte superiore agli attuali standard — e non ha t",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0b6cb956bdc40228",
-    "slug": "la-lega-sfida-il-governo-15-miliardi-coperti-da-20-0b6cb956bdc40228",
-    "title": "Tensione nel centrodestra su strade sicure, la lega attacca",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-09-12T11:53:06.506156+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/512be003a7d7e74c7c1bd8434491c399.jpg",
-    "occhiello": "TENSIONE NEL CENTRODESTRA SU STRADE SICURE, LA LEGA ATTACCA",
-    "lead_preview": "MAIUSCOLO TRE GIORNI DI PROFITTI BASTANO PER 10MILA MILITARI? LA LEGA CALCOLA FUORVIANTE Roma, 12 settembre. La Lega ha ",
     "tags": [],
     "hero_eligible": true
   },
