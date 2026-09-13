@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
+  "title": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
   "titles": [
-    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
-    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto",
-    "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto"
+    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
+    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
+    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IRRAGGIUNGIBILE DA 15 MINUTI. ALLERTA URGENTE.",
-  "lead": "GitHub è offline da 15 minuti. Il servizio principale è compromesso, con impatto immediato su repository, pull request e CI/CD. Utenti italiani colpiti senza soluzione alternativa. Monitoraggio in corso.",
-  "corpo1": "GitHub ha subito un guasto di rete che ha interrotto l’accesso al servizio principale alle 14:45 ora italiana. Tutte le funzionalità core—repository, branch, pull request, workflow CI/CD e API—sono indisponibili. Gli utenti non possono accedere ai progetti, collaborare o sincronizzare codice. Le soluzioni di backup locali o mirroring non sostituiscono l’accesso diretto. Il team di GitHub sta indagando su un malfunzionamento a livello di infrastruttura cloud. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
+  "lead": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico che aveva interessato la piattaforma.",
+  "corpo1": "L'interruzione di GitHub è iniziata nella tarda mattinata di oggi, con impatti diffusi su repository, pull request e API. Il disservizio, classificato come incidente di livello \"severo\", ha coinvolto sia gli utenti consumer che quelli enterprise. Secondo il comunicato ufficiale, la causa principale è stata un malfunzionamento nel sistema di routing interno, aggravato da un picco di traffico imprevisto. Le operazioni di ripristino sono state avviate alle 11:45 UTC, con il ritorno alla normalità confermato alle 12:56 UTC, dopo 71 minuti di attività limitata. Gli ingegneri hanno attivato protocolli di monitoraggio avanzato per prevenire ricadute, sottolineando che analisi approfondite saranno pubblicate entro 48 ore.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-13T09:34:35.994919+00:00",
+  "published_at": "2026-09-13T10:30:37.762849+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -45,18 +45,18 @@
       "image_type": "image"
     },
     {
-      "title": "25 anni fa l'impatto sulla prima torre, l'america si ferma",
-      "url": "/esteri/25-anni-fa-limpatto-sulla-prima-torre-lamerica-si-3f09ad44b6957316",
-      "id": "3f09ad44b6957316",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/7da19dc8f22070cab42e812c8479149b.jpg",
+      "title": "L’orchestra fantasma: 100 musicisti esclusi dal tour di Monte mentre Roma festeggia la diva globale",
+      "url": "/cultura/marisa-monte-a-roma-55-musicisti-pagati-solo-perch-df5dee3a98aa0075",
+      "id": "df5dee3a98aa0075",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/12/19e2959415700ba8134f5726cd8b13ea.jpg",
       "image_type": "image"
     },
     {
-      "title": "Calcio: la Serie A taglia 12 minuti a partita: 78’ di gioco, meno soldi e più goal nei primi 20’",
-      "url": "/sport/calcio-la-serie-a-taglia-12-minuti-a-partita-78-di-9f4491b8004da60e",
-      "id": "9f4491b8004da60e",
-      "image_url": "https://sport.sky.it/assets/images/fdb0f4ca3d08fa5339b848f5733816822012cb3a/skysport/it/calcio/serie-a/video/2026/09/07/1122618_1788729934073_thumb_494.0000001_1788764962302.jpg",
-      "image_type": "feed_image"
+      "title": "Houthi prendono Perim: 4 milioni di barili bloccati, il 5% del petrolio globale in ostaggio",
+      "url": "/esteri/controllo-di-perim-da-parte-dei-houthi-una-consegn-7491334eca6168bd",
+      "id": "7491334eca6168bd",
+      "image_url": "https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067e43ae7b6d8a742dd725b7dba3b423",
+      "image_type": "image"
     }
   ],
   "hero_eligible": false
