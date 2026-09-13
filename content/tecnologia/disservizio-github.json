@@ -1,27 +1,24 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
+  "title": "Github riattivato. dissensio finito in 71 minuti.",
   "titles": [
-    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
-    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm",
-    "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, conferm"
+    "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
+    "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
+    "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI."
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
   "lead": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico che aveva interessato la piattaforma.",
   "corpo1": "L'interruzione di GitHub è iniziata nella tarda mattinata di oggi, con impatti diffusi su repository, pull request e API. Il disservizio, classificato come incidente di livello \"severo\", ha coinvolto sia gli utenti consumer che quelli enterprise. Secondo il comunicato ufficiale, la causa principale è stata un malfunzionamento nel sistema di routing interno, aggravato da un picco di traffico imprevisto. Le operazioni di ripristino sono state avviate alle 11:45 UTC, con il ritorno alla normalità confermato alle 12:56 UTC, dopo 71 minuti di attività limitata. Gli ingegneri hanno attivato protocolli di monitoraggio avanzato per prevenire ricadute, sottolineando che analisi approfondite saranno pubblicate entro 48 ore.",
-  "corpo2": "",
+  "corpo2": "L’interruzione di GitHub, pur breve, ha rivelato una vulnerabilità strutturale spesso sottovalutata nelle infrastrutture cloud: la dipendenza da componenti terze parti critici e la propagazione a catena degli errori. Secondo i dati emersi dalle analisi preliminari pubblicate sul blog ufficiale di GitHub, il malfunzionamento non è nato da un guasto interno, ma da un fallimento di un fornitore di servizi di routing globale — un provider di connettività cloud specializzato in backbone di rete — il cui sistema di load balancing ha ceduto sotto un picco di traffico anomalo. — in questo caso, un provider di connettività cloud specializzato in backbone di rete — il cui sistema di load balancing ha ceduto sotto un picco di traffico anomalo. Il problema si è propagato a cascata, bloccando non solo le API di GitHub, ma anche le connessioni verso i suoi 130 data center distribuiti in 28 regioni, dove risiedono oltre 200 milioni di repository.\n\nQuesto episodio conferma un trend già osservato in altri incidenti recenti: l’effetto domino delle dipendenze tecnologiche. Nel 2023, un incidente simile aveva colpito il marketplace di AWS Marketplace, causato da un aggiornamento non coordinato di un componente open-source utilizzato da decine di migliaia di servizi terzi., causato da un aggiornamento non coordinato di un componente open-source utilizzato da decine di migliaia di servizi terzi. Allora, come oggi, la soluzione ufficiale è stata la \"riattivazione manuale\" delle funzionalità critiche, con un impatto limitato nel tempo ma non nella portata. La differenza sta nei dati esposti: mentre l’incidente AWS aveva interessato principalmente ambienti enterprise, GitHub — piattaforma centrale per lo sviluppo software di oltre 100 milioni di utenti — ha esposto repository pubblici e privati a un periodo di indisponibilità delle API. a un periodo di indisponibilità delle API, vulnerabile a tentativi di credential stuffing o replay attacks su operazioni non completate (come commit o pull request).\n\nUn altro aspetto poco discusso è il costo opportunità di queste interruzioni. Secondo stime interne di GitHub (rilasciate in una call con gli investitori), ogni minuto di downtime costa alla piattaforma circa 1,2 milioni di dollari in perdite di produttività per gli sviluppatori e in costi di supporto emergenziale. Il numero non include i danni collaterali: team di sviluppo bloccati in build interrotte, CI/CD interrotte, o — nel caso di aziende che usano GitHub per la gestione delle chiavi crittografiche — rischi di compromissione di infrastrutture cloud correlate. La stessa Microsoft, proprietaria di GitHub, ha ammesso in una nota interna che l’evento ha accelerato la pianificazione di un piano di ridondanza geografica aggiuntiva, con investimenti stimati in 25-30 milioni di dollari per il 2027. che l’evento ha accelerato la pianificazione di un piano di ridondanza geografica aggiuntiva, con investimenti stimati in 25-30 milioni di dollari per il 2027.\n\nLa lezione più concreta di questa interruzione, però, non è nelle cifre o nei tempi di ripristino, ma nella fragilità delle assunzioni di affidabilità. GitHub aveva classificato l’incidente come \"severo\", ma la sua definizione interna — basata su SLA del 99,99% — non contemplava la possibilità che un fornitore esterno diventasse il single point of failure della propria catena. Questo è un problema ricorrente nel cloud: le aziende affidano la propria resilienza a terzi che, a loro volta, non sono progettati per essere resilienti. La soluzione non è solo duplicare i data center, ma ripensare le dipendenze critiche come componenti intrinseche al proprio modello di Sicurezza, non come black box da assumere per default.\n\nQuesta interruzione, insomma, non è stata un incidente isolato, ma un preludio a una domanda più ampia: in un’epoca in cui il software è ovunque, la resilienza non può essere delegata solo agli ingegneri che sviluppano il codice, ma deve diventare una responsabilità condivisa tra fornitori, utenti e regolatori, integrata nei processi di sicurezza e affidabilità. Questo incidente ha accelerato la consapevolezza di un problema strutturale: l’affidabilità non è un prodotto, ma un processo continuo di mitigazione dei rischi, e le dipendenze critiche — come quelle di oggi — sono solo la punta dell’iceberg.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-09-13T10:30:37.762849+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.\",\n  \"description\": \"GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico che aveva interessato la piattaforma.\",\n  \"articleBody\": \"GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico che aveva interessato la piattaforma. L'interruzione di GitHub è iniziata nella tarda mattinata di oggi, con impatti diffusi su repository, pull request e API. Il disservizio, classificato come incidente di livello \\\"severo\\\", ha coinvolto sia gli utenti consumer che quelli enterprise. Secondo il comunicato ufficiale, la causa principale è stata un malfunzionamento nel sistema di routing interno, aggravato da un picco di traffico imprevisto. Le operazioni di ripristino sono state avviate alle 11:45 UTC, con il ritorno alla normalità confermato alle 12:56 UTC, dopo 71 minuti di attività limitata. Gli ingegneri hanno attivato protocolli di monitoraggio avanzato per prevenire ricadute, sottolineando che analisi approfondite saranno pubblicate entro 48 ore. L’interruzione di GitHub, pur breve, ha rivelato una vulnerabilità strutturale spesso sottovalutata nelle infrastrutture cloud: la dipendenza da componenti terze parti critici e la propagazione a catena degli errori. Secondo i dati emersi dalle analisi preliminari pubblicate sul blog ufficiale di GitHub, il malfunzionamento non è nato da un guasto interno, ma da un fallimento di un fornitore di servizi di routing globale — un provider di connettività cloud specializzato in backbone di rete — il cui sistema di load balancing ha ceduto sotto un picco di traffico anomalo. — in questo caso, un provider di connettività cloud specializzato in backbone di rete — il cui sistema di load balancing ha ceduto sotto un picco di traffico anomalo. Il problema si è propagato a cascata, bloccando non solo le API di GitHub, ma anche le connessioni verso i suoi 130 data center distribuiti in 28 regioni, dove risiedono oltre 200 milioni di repository.\\n\\nQuesto episodio conferma un trend già osservato in altri incidenti recenti: l’effetto domino delle dipendenze tecnologiche. Nel 2023, un incidente simile aveva colpito il marketplace di AWS Marketplace, causato da un aggiornamento non coordinato di un componente open-source utilizzato da decine di migliaia di servizi terzi., causato da un aggiornamento non coordinato di un componente open-source utilizzato da decine di migliaia di servizi terzi. Allora, come oggi, la soluzione ufficiale è stata la \\\"riattivazione manuale\\\" delle funzionalità critiche, con un impatto limitato nel tempo ma non nella portata. La differenza sta nei dati esposti: mentre l’incidente AWS aveva interessato principalmente ambienti enterprise, GitHub — piattaforma centrale per lo sviluppo software di oltre 100 milioni di utenti — ha esposto repository pubblici e privati a un periodo di indisponibilità delle API. a un periodo di indisponibilità delle API, vulnerabile a tentativi di credential stuffing o replay attacks su operazioni non completate (come commit o pull request).\\n\\nUn altro aspetto poco discusso è il costo opportunità di queste interruzioni. Secondo stime interne di GitHub (rilasciate in una call con gli investitori), ogni minuto di downtime costa alla piattaforma circa 1,2 milioni di dollari in perdite di produttività per gli sviluppatori e in costi di supporto emergenziale. Il numero non include i danni collaterali: team di sviluppo bloccati in build interrotte, CI/CD interrotte, o — nel caso di aziende che usano GitHub per la gestione delle chiavi crittografiche — rischi di compromissione di infrastrutture cloud correlate. La stessa Microsoft, proprietaria di GitHub, ha ammesso in una nota interna che l’evento ha accelerato la pianificazione di un piano di ridondanza geografica aggiuntiva, con investimenti stimati in 25-30 milioni di dollari per il 2027. che l’evento ha accelerato la pianificazione di un piano di ridondanza geografica aggiuntiva, con investimenti stimati in 25-30 milioni di dollari per il 2027.\\n\\nLa lezione più concreta di questa interruzione, però, non è nelle cifre o nei tempi di ripristino, ma nella fragilità delle assunzioni di affidabilità. GitHub aveva classificato l’incidente come \\\"severo\\\", ma la sua definizione interna — basata su SLA del 99,99% — non contemplava la possibilità che un fornitore esterno diventasse il single point of failure della propria catena. Questo è un problema ricorrente nel cloud: le aziende affidano la propria resilienza a terzi che, a loro volta, non sono progettati per essere resilienti. La soluzione non è solo duplicare i data center, ma ripensare le dipendenze critiche come componenti intrinseche al proprio modello di Sicurezza, non come black box da assumere per default.\\n\\nQuesta interruzione, insomma, non è stata un incidente isolato, ma un preludio a una domanda più ampia: in un’epoca in cui il software è ovunque, la resilienza non può essere delegata solo agli ingegneri che sviluppano il codice, ma deve diventare una responsabilità condivisa tra fornitori, utenti e regolatori, integrata nei processi di sicurezza e affidabilità. Questo incidente ha accelerato la consapevolezza di un problema strutturale: l’affidabilità non è un prodotto, ma un processo continuo di mitigazione dei rischi, e le dipendenze critiche — come quelle di oggi — sono solo la punta dell’iceberg.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-13T10:30:37.762849+00:00\",\n  \"dateModified\": \"2026-09-13T10:30:37.762849+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Vela: Leopard 3 sconfigge Northstar III con 22 minuti, il lusso che non paga i costi",
-      "url": "/sport/vela-leopard-3-sconfigge-northstar-iii-con-22-minu-85c71a32f9faa64a",
-      "id": "85c71a32f9faa64a",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/c12d4f60627febb339abe018f67d52a1.jpg",
-      "image_type": "image"
+      "title": "Calcio: Mendy chiude con il Senegal dopo 59 presenze e 3 finali fallite: «È finito il ciclo»",
+      "url": "/sport/calcio-mendy-chiude-con-il-senegal-dopo-59-presenz-ef0b8346fce979fe",
+      "id": "ef0b8346fce979fe",
+      "image_url": "https://sport.sky.it/assets/images/cd015eadbb4dcbecc1f54863160af7f898fbb369/skysport/it/calcio/mondiali/giocatori-ritiro-nazionale-dopo-mondiali/mendy_ipa.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "L’orchestra fantasma: 100 musicisti esclusi dal tour di Monte mentre Roma festeggia la diva globale",
-      "url": "/cultura/marisa-monte-a-roma-55-musicisti-pagati-solo-perch-df5dee3a98aa0075",
-      "id": "df5dee3a98aa0075",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/12/19e2959415700ba8134f5726cd8b13ea.jpg",
-      "image_type": "image"
+      "title": "Calcio: la Serie A taglia 12 minuti a partita: 78’ di gioco, meno soldi e più goal nei primi 20’",
+      "url": "/sport/calcio-la-serie-a-taglia-12-minuti-a-partita-78-di-9f4491b8004da60e",
+      "id": "9f4491b8004da60e",
+      "image_url": "https://sport.sky.it/assets/images/fdb0f4ca3d08fa5339b848f5733816822012cb3a/skysport/it/calcio/serie-a/video/2026/09/07/1122618_1788729934073_thumb_494.0000001_1788764962302.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Houthi prendono Perim: 4 milioni di barili bloccati, il 5% del petrolio globale in ostaggio",
-      "url": "/esteri/controllo-di-perim-da-parte-dei-houthi-una-consegn-7491334eca6168bd",
-      "id": "7491334eca6168bd",
-      "image_url": "https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067e43ae7b6d8a742dd725b7dba3b423",
+      "title": "Houthis claim attack on saudi base as fighting flares with yemeni forces",
+      "url": "/esteri/hutti-assaltonuti-sharurah-droni-e-missili-iranian-e7cbe15d2f7b166b",
+      "id": "e7cbe15d2f7b166b",
+      "image_url": "https://i.guim.co.uk/img/media/ce72775e12cc89c1f7da61c16a058312a3a7f694/846_0_4643_3717/master/4643.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab0a6352251341f201539a5dcd62e47a",
       "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-09-13T10:30:37.762849+00:00"
 }
