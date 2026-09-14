@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260914",
+    "slug": "libro-del-giorno-lo-sguardo-buiodi-natascia-ronchetti-20260914",
+    "title": "Il libro del giorno: «Lo sguardo buiodi Natascia Ronchetti»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo corale sull'animo femminile nella prima metà del Novecento",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-14T07:02:27.430802+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/9788860862570_0_0_536_0_75-f792f.jpg?1787814850",
+      "alt": "Copertina: Lo sguardo buiodi Natascia Ronchetti",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/9788860862570_0_0_536_0_75-f792f.jpg?1787814850",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "54bf641a2aa91230",
     "slug": "usta-raddoppia-i-soldi-20-montepremi-slam-e-i-fuor-54bf641a2aa91230",
     "title": "USTA raddoppia i premi: **20% in più** agli US Open 2026, ma il vero cambio è per i *fuori dal top*",
@@ -8690,25 +8709,6 @@
     "occhiello": "BAYERN MONACO-BODO: PRIMA LA PARATA ECCEZIONALE, POI HAIKIN SI FA MALE. VIDEO",
     "lead_preview": "Monaco, 11 settembre Nikita Haikin, il portiere del Bodo/Glimt, ha salvato il Bayern Monaco da un gol con un guizzo da \"",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ef2a98e97bc15df5",
-    "slug": "ocon-a-haas-resto-ma-il-mio-stipendio-6m-non-copre-ef2a98e97bc15df5",
-    "title": "Ocon a Haas: «Resto, ma il mio stipendio (6M) non copre il gap tecnologico delle top team»",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-10T23:15:12.942422+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a62d634d5d028e42ad0e436d3e76433960037d91/skysport/it/motori/formula-1/2026/09/10/f1-ocon-futuro-haas-video/f1_twitter_haas_ocon_2026_1.jpg",
-    "occhiello": "F1, OCON SUL SUO FUTURO: \"IL PROBLEMA IN HAAS NON SONO I PILOTI\"",
-    "lead_preview": "MAIUSCOLO Ocon e Haas: il pilota francese valuta l’uscita, ma la macchina è già il vero problema Madrid, 10 settembre Es",
-    "tags": [
-      "f1 haas ocon",
-      "contratto ocon 2024",
-      "gap tecnologico f1"
-    ],
     "hero_eligible": true
   }
 ]
