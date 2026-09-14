@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub KO: 71 minuti di panico globale, ripristino in corso",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-09-13T10:30:37.762849+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
+    "lead_preview": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "libro-20260914",
     "slug": "libro-del-giorno-lo-sguardo-buiodi-natascia-ronchetti-20260914",
     "title": "Il libro del giorno: «Lo sguardo buiodi Natascia Ronchetti»",
@@ -1953,24 +1968,6 @@
       "premio pascoli 2023",
       "paolo conte carriera",
       "poesia italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Github riattivato. dissensio finito in 71 minuti.",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-09-13T10:30:37.762849+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIATTIVATO. DISSENSIO FINITO IN 71 MINUTI.",
-    "lead_preview": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico",
-    "tags": [
-      "interruzione github",
-      "disservizio github"
     ],
     "hero_eligible": true
   },
