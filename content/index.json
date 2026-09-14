@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 14 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-14T05:46:42.860832+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e48322e8741d9a4e21f2ae372e1a29b20c733964/skytg24/it/cronaca/2026/09/14/prime-pagine-quotidiani-oggi-14-settembre/cor.jpg",
+    "occhiello": "LE PRIME PAGINE DI LUNEDÌ 14 SETTEMBRE 2026: GUERRA, AI E POLITICA DOMINANO LE PRIME PAGINE",
+    "lead_preview": "I quotidiani italiani aprono su tre temi centrali: la guerra in Ucraina, con l’attacco russo vicino al confine polacco e",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a8090b9ffc532601",
     "slug": "mps-corsa-per-il-si-in-assemblea-di-delfin-e-dei-f-a8090b9ffc532601",
     "title": "Mps, corsa per il sì in assemblea di delfin e dei fondi del mercato",
@@ -7327,25 +7346,6 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L204xH312/arton170169-959ba.jpg?1787763791",
     "image_type": "url",
     "hero_eligible": false
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 11 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-11T06:06:13.811641+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/dbf4c430f957e33d4c7a1bfad19a533b0efa84f4/skytg24/it/cronaca/2026/09/11/prime-pagine-quotidiani-oggi-11-settembre/corriere-della-sera-051512ivy6dpr.jpg",
-    "occhiello": "LE PRIME PAGINE DI VENERDÌ 11 SETTEMBRE 2026: ELEZIONI, ENERGIA, SPORT E TORRI GEMELLE",
-    "lead_preview": "Oggi i quotidiani italiani convergono su tre filoni principali: la legge elettorale, con il via libera del Senato all’em",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
-    "hero_eligible": true
   },
   {
     "id": "f87519ff8ca9267e",
