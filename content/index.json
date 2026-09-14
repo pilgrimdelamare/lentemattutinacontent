@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260914",
+    "slug": "libro-del-giorno-lo-sguardo-buiodi-natascia-ronchetti-20260914",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-14T07:02:27.430802+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/9788860862570_0_0_536_0_75-f792f.jpg?1787814850",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo corale sull'animo femminile nella prima metà del Novecento",
+    "tags": [
+      "romanzo femminile novecento",
+      "letteratura italiana",
+      "romanzo corale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "283e8d367b28e7ae",
     "slug": "media-iran-usa-hanno-escluso-il-capo-agenzia-nucle-283e8d367b28e7ae",
     "title": "Washington esclude Eslami dall’AIEA: l’Iran minaccia di bloccare le ispezioni nucleari",
@@ -3846,25 +3865,6 @@
     "lead_preview": "GitHub ha ripristinato i servizi dopo 71 minuti di interruzione globale, confermando la risoluzione del problema tecnico",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260914",
-    "slug": "libro-del-giorno-lo-sguardo-buiodi-natascia-ronchetti-20260914",
-    "title": "Il libro del giorno: «Lo sguardo buiodi Natascia Ronchetti»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo corale sull'animo femminile nella prima metà del Novecento",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-14T07:02:27.430802+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/9788860862570_0_0_536_0_75-f792f.jpg?1787814850",
-      "alt": "Copertina: Lo sguardo buiodi Natascia Ronchetti",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L193xH312/9788860862570_0_0_536_0_75-f792f.jpg?1787814850",
-    "image_type": "url",
-    "hero_eligible": false
   },
   {
     "id": "54bf641a2aa91230",
