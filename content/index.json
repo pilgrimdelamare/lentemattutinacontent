@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 15 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-15T05:51:11.971466+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5c505cfa71feab4ee7b634abe412ae6e47fb0738/skytg24/it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre/cor.jpg",
+    "occhiello": "",
+    "lead_preview": "Oggi i quotidiani italiani focalizzano l’attenzione su tre filoni principali: la tensione energetica tra Russia e Ucrain",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f854d036fea5221e",
     "slug": "venezia-14-settembre-f854d036fea5221e",
     "title": "Coyote incassa 5M in tre settimane: il cinema italiano preferisce i film che non offendono nessuno",
@@ -4473,25 +4492,6 @@
     "occhiello": "NBA, IRVING, TATUM E BANCHERO SI ALLENANO A DUKE CON DAME SARR E I BLUE DEVILS",
     "lead_preview": "DURHAM, 13 settembre Elhadji Dame Sarr ha allenato con i Duke Blue Devils, come confermato dai video ufficiali dell’univ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 14 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-14T05:46:42.860832+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e48322e8741d9a4e21f2ae372e1a29b20c733964/skytg24/it/cronaca/2026/09/14/prime-pagine-quotidiani-oggi-14-settembre/cor.jpg",
-    "occhiello": "LE PRIME PAGINE DI LUNEDÌ 14 SETTEMBRE 2026: GUERRA, AI E POLITICA DOMINANO LE PRIME PAGINE",
-    "lead_preview": "I quotidiani italiani aprono su tre temi centrali: la guerra in Ucraina, con l’attacco russo vicino al confine polacco e",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
