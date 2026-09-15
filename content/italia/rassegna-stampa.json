@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 14 settembre 2026",
+  "title": "Le prime pagine di oggi, martedì 15 settembre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 14 settembre 2026",
-    "Le prime pagine di oggi, lunedì 14 settembre 2026",
-    "Le prime pagine di oggi, lunedì 14 settembre 2026"
+    "Le prime pagine di oggi, martedì 15 settembre 2026",
+    "Le prime pagine di oggi, martedì 15 settembre 2026",
+    "Le prime pagine di oggi, martedì 15 settembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI LUNEDÌ 14 SETTEMBRE 2026: GUERRA, AI E POLITICA DOMINANO LE PRIME PAGINE",
-  "lead": "I quotidiani italiani aprono su tre temi centrali: la guerra in Ucraina, con l’attacco russo vicino al confine polacco e il rischio di escalation, che occupa le prime pagine del *Corriere della Sera*, *La Stampa*, *Il Messaggero* e *Il Resto del Carlino*. L’intelligenza artificiale è al centro di *La Repubblica*, *La Stampa*, *Il Giornale* e *Il Resto del Carlino*, con focus su Trump e le Big Tech. La politica italiana, con lo scontro tra Schlein e Meloni e le elezioni svedesi, compare in *La Repubblica*, *La Stampa* e *Il Resto del Carlino*. *Il Sole 24 Ore* si concentra invece su scuola, edilizia e ambiente, mentre *La Gazzetta dello Sport* dedica la copertina al mondo del calcio.",
-  "corpo1": "*Il Corriere della Sera* apre con l’attacco russo vicino al confine polacco, titolando «Guerra ai confini d’Europa» e analizzando le ragioni della trattativa bloccata. In taglio alto, il quotidiano dedica spazio ai timori sull’intelligenza artificiale, con un focus su Trump e la sua posizione su un’eventuale regolamentazione. *La Repubblica* punta sulla politica italiana con «Schlein sfida Meloni» alla Festa dell’Unità, affiancando la notizia dell’avvertimento russo sfiorato il treno dei delegati Ue. *La Stampa* replica l’apertura ucraina con «Guerra sul confine dell’Europa», mentre in spalla tratta l’intelligenza artificiale e la reazione di Trump alle Big Tech. *Il Messaggero* titola su «Attacco russo al treno al confine polacco», sottolineando la paura per i consiglieri europei, e dedica spazio all’IA e alle elezioni svedesi. *Il Sole 24 Ore* rompe la linea generale con «Istruzione: una scuola su tre da ristrutturare», seguita da temi come l’edilizia e l’impatto ambientale della guerra.",
-  "corpo2": "",
+  "occhiello": "",
+  "lead": "Oggi i quotidiani italiani focalizzano l’attenzione su tre filoni principali: la tensione energetica tra Russia e Ucraina, con l’annuncio di una presunta tregua sui raid alle raffinerie e le reazioni di Zelensky e degli Stati Uniti, che *Corriere della Sera*, *Il Messaggero*, *Il Resto del Carlino* e *Il Sole 24 Ore* dedicano ampio spazio. L’intelligenza artificiale è il secondo tema centrale, con *La Repubblica*, *La Stampa* e *Il Sole 24 Ore* che analizzano le tensioni tra Cina e Usa, le preoccupazioni di Trump su una presunta cospirazione e le ripercussioni sui mercati. La politica interna, con le mosse di Conte e il programma del M5S, occupa invece *La Repubblica*, mentre *Il Giornale* approfondisce misure locali e inchieste istituzionali. *La Gazzetta dello Sport* si concentra invece sul calcio.",
+  "corpo1": "*Corriere della Sera* apre con il balzo dei prezzi del greggio e del gas, evidenziando l’annuncio statunitense di una presunta tregua energetica tra Mosca e Kiev, ma sottolinea il cauto atteggiamento di Zelensky, che respinge l’accordo. In seconda pagina, il quotidiano approfondisce le tensioni sull’intelligenza artificiale, con le dichiarazioni di Trump che accusano una cospirazione contro l’hi-tech e le reazioni di Pechino. *La Repubblica* dedica la prima pagina alla politica, titolando sulla sfida di Conte al Pd con il programma del M5S, che vieterebbe le armi all’Ucraina, e sui timori di mercato legati all’intelligenza artificiale, con un allarme Onu contrastato dalla Cina. *La Stampa* focalizza l’attenzione sull’assenza di regole globali sull’AI, con le posizioni contrapposte di Trump e la Cina, e pubblica un’analisi critica sul rischio di cedere il potere decisionale alle macchine. In spalla, il quotidiano torinese segnala i problemi strutturali delle scuole italiane, con un edificio su tre in condizioni di degrado. *Il Messaggero* conferma il tema energetico, riportando l’annuncio di Trump sulla tregua tra Russia e Ucraina e le conseguenze sui mercati, mentre in spalla affronta la legge elettorale e le vittime dell’incidente di Crans-Montana.",
+  "corpo2": "*Il Sole 24 Ore* conferma il focus sui mercati, con il rally del petrolio e dei bond Usa e l’Ipo record della Nigeria, accanto a novità fiscali sugli affitti. *La Gazzetta dello Sport* si dedica al calcio, con l’Inter-Roma in vista e le novità della Juventus, mentre *Il Giornale* approfondisce misure locali a Bologna e un’inchiesta su un generale. *Il Resto del Carlino* replica la copertina sull’Ucraina e sull’AI, aggiungendo il ritorno a scuola dei ragazzi feriti a Crans-Montana. La giornata è dominata da energia, politica e innovazione tecnologica, con il calcio a margine.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-09-14T05:46:42.860832+00:00",
+  "published_at": "2026-09-15T05:51:11.971466+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e48322e8741d9a4e21f2ae372e1a29b20c733964/skytg24/it/cronaca/2026/09/14/prime-pagine-quotidiani-oggi-14-settembre/cor.jpg",
+    "url": "https://tg24.sky.it/assets/images/5c505cfa71feab4ee7b634abe412ae6e47fb0738/skytg24/it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre/cor.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/09/14/prime-pagine-quotidiani-oggi-14-settembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 14 settembre 2026",
+      "title": "Oroscopo di oggi, martedì 15 settembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Torna \"ex astris scientia\", napoli: \"oggi lo spazio è competizione, riscopriamo ",
-      "url": "/cultura/torna-ex-astris-scientia-napoli-oggi-lo-spazio-e-c-be5730e4dd7d3f4e",
-      "id": "be5730e4dd7d3f4e",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/c08d10f4000fb5b1300d2c3d8cb96522.jpg",
-      "image_type": "image"
+      "title": "Tennis: il dominio femminile diventa un mercato da guerra: chi vince oggi domani può crollare domani",
+      "url": "/sport/tennis-rybakina-scalza-sabalenka-9901-punti-e-il-k-88b4d27442434db1",
+      "id": "88b4d27442434db1",
+      "image_url": "https://sport.sky.it/assets/images/c0b233af46114c536b2346de78a3cf887a9adf1f/skysport/it/tennis/paolini-ranking-wta-classifica-italiane/rybakina_ansa_us.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Venezia, 13 settembre",
-      "url": "/cultura/venezia-13-settembre-20ae4abf0791b7f5",
-      "id": "20ae4abf0791b7f5",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/5/b6e834da906aa8901ad4c9e899c53661.jpg",
+      "title": "Berlusconi e Trump: 20 miliardi di promesse vuote, oggi i partiti italiani sprecano ancora",
+      "url": "/politica/da-berlusconi-a-trump-funzionano-ancora-le-promess-cb9c1c3f671aa602",
+      "id": "cb9c1c3f671aa602",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/14/081952117-b5e03c06-b168-4eed-8465-d1e3182e5bae.jpg",
       "image_type": "image"
     }
   ],
