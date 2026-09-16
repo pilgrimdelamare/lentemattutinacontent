@@ -1,5 +1,24 @@
 [
   {
+    "id": "f6ace251d391bd42",
+    "slug": "antitrust-avvia-istruttoria-per-valutare-lopas-di-f6ace251d391bd42",
+    "title": "Antitrust avvia istruttoria per valutare l'opas di intesa su mps",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-15T16:27:11.099771+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/22/9c4fc4409287a15f0f94809a05667895.jpg",
+    "occhiello": "ANTITRUST AVVIA ISTRUTTORIA PER VALUTARE L'OPAS DI INTESA SU MPS",
+    "lead_preview": "L’Antitrust valuta l’Opa di Intesa Sanpaolo su Mps: 10 miliardi di euro in gioco per 10 milioni di clienti in potenziale",
+    "tags": [
+      "opas intesa mps",
+      "istruttoria antitrust",
+      "concentrazione bancaria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8a5feb3b556e8d67",
     "slug": "mimit-carburanti-ancora-in-rialzo-diesel-a-23-in-a-8a5feb3b556e8d67",
     "title": "Mimit, carburanti ancora in rialzo, diesel a 2,3 in autostrada",
@@ -2819,21 +2838,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/28/a1cd4bb9d4c3aa2a145c18ccd5b46b83.jpg",
     "occhiello": "ANDREA BOCELLI SARÀ LA VOCE DI \"MASERATI: THE BROTHERS\"",
     "lead_preview": "MAIUSCOLO ANDREA BOCELLI CANTA PER MASERATI: IL CAPOLAVORO DEL MARKETING CHE NESSUNO SI ASPETTAVA Bologna, 15 settembre ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f6ace251d391bd42",
-    "slug": "antitrust-avvia-istruttoria-per-valutare-lopas-di-f6ace251d391bd42",
-    "title": "Antitrust avvia istruttoria per valutare l'opas di intesa su mps",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-15T16:27:11.099771+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/22/9c4fc4409287a15f0f94809a05667895.jpg",
-    "occhiello": "ANTITRUST AVVIA ISTRUTTORIA PER VALUTARE L'OPAS DI INTESA SU MPS",
-    "lead_preview": "OCCHIELLO INTESTA SANPAOLO: 10 MILIARDI DI CLIENTI IN OSPITE FORZATO Roma, 15 settembre L’Antitrust ha aperto l’istrutto",
     "tags": [],
     "hero_eligible": true
   },
