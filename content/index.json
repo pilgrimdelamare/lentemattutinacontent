@@ -1,5 +1,24 @@
 [
   {
+    "id": "44a544c24a424e7b",
+    "slug": "en-direct-guerre-en-ukraine-les-dernieres-informat-44a544c24a424e7b",
+    "title": "En direct, guerre en ukraine : les dernières informations",
+    "section": "esteri",
+    "priority": 4,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-16T05:19:29.954306+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55531447259_86545a6ac6_b.jpg",
+    "occhiello": "EN DIRECT, GUERRE EN UKRAINE : LES DERNIÈRES INFORMATIONS",
+    "lead_preview": "Kyiv, 16 settembre Il presidente ucraino Volodymyr Zelensky ha parlato con il presidente francese Emmanuel Macron poco p",
+    "tags": [
+      "colloquio zelensky-macron",
+      "assemblea generale onu 2024",
+      "guerra ucraina aggiornamenti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e47d90905608832",
     "slug": "esa-lancia-flex-e-sentinel-3c-15-miliardi-per-moni-1e47d90905608832",
     "title": "L’Esa lancia Flex e Sentinel-3C: 1,5 miliardi per controllare l’UE che sbaglia i Conti climatici",
@@ -8903,21 +8922,6 @@
       "finanziamento strade",
       "critica conti pubblici"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "64c2cc97d3c72f8c",
-    "slug": "calcio-mancini-scende-a-30-azzurri-per-la-nations-64c2cc97d3c72f8c",
-    "title": "Da Doumbia a Scamacca: la Nazionale parte a metà, con 4 portieri e un attacco da rivolgere",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-12T11:24:46.020800+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9ab8f71f087a4b0b739b0794ad1b6849d16123e2/skysport/it/calcio/nazionale/italia-convocati-mancini-lista-oriundi-modulo/mancini_getty_italia.jpg",
-    "occhiello": "CONVOCATI ITALIA, LA POSSIBILE LISTA DI MANCINI: NOVITÀ, CONFERME E SITUAZIONE O",
-    "lead_preview": "Roma, 12 settembre Roberto Mancini preconvocherà 70 giocatori per la Nazionale, ma solo 30 saranno chiamati a disputare ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
