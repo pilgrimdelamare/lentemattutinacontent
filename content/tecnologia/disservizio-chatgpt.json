@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+  "title": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati ",
   "titles": [
-    "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 129 minuti di interruzione."
+    "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati ",
+    "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati ",
+    "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RIPRISTINATO",
-  "lead": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 129 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CHATGPT IRRAGGIUNGIBILE DA ORE. ALLARME SISTEMA",
+  "lead": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati senza accesso al modello. Funzionalità di generazione testuale compromesse. Impatto immediato su ricerca, assistenza e produttività.",
+  "corpo1": "Da circa 15 minuti, OpenAI segnalava un malfunzionamento critico che ha reso ChatGPT irraggiungibile su tutte le piattaforme. Il servizio, essenziale per utenti italiani che lo utilizzano per ricerca, traduzione, assistenza tecnica e contenuti, è completamente offline. Nessuna risposta ai prompt, né modalità di accesso alternativo. Le API correlate risultano anch’esse non disponibili, colpendo anche sviluppatori e aziende che integrano il modello nei propri tool. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:37:45.987165+00:00",
+  "published_at": "2026-09-16T00:08:01.243551+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "GitHub KO: 71 minuti di panico globale, ripristino in corso",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Le 5 novità di ios 27 che tutti dovrebbero conoscere",
+      "url": "/tecnologia/le-5-novita-di-ios-27-che-tutti-dovrebbero-conosce-5ff16a2541dd3abb",
+      "id": "5ff16a2541dd3abb",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/15/130855077-b48f2619-45d9-4768-9bb2-27e28eccf580.jpg",
       "image_type": "image"
     },
     {
-      "title": "TikTok è tornato online dopo 92 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "\"Non ce ne sono le condizioni\": Italia blocca l’agenzia IA globale e spara 50 milioni al vento",
+      "url": "/economia/leuropa-regola-lia-litalia-butta-50-milioni-in-uno-7fa325c70c52859c",
+      "id": "7fa325c70c52859c",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/14/231036475-ab7de056-fb6c-4ac6-bb62-3b8d6b8b5038.jpg",
       "image_type": "image"
     }
   ],
