@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT ha ripreso la normale operatività dopo un'interruzione di 40 minuti, con",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-16T00:33:34.950286+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN TEMPO RECORD.",
+    "lead_preview": "ChatGPT ha ripreso la normale operatività dopo un'interruzione di 40 minuti, confermando la stabilità del sistema dopo u",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "b7e78fd5198a707a",
     "slug": "la-provocazione-di-corona-fondo-un-mio-partito-son-b7e78fd5198a707a",
     "title": "La provocazione di corona: “fondo un mio partito, sono il nuovo berlusconi”. ma ",
@@ -99,25 +118,6 @@
     "lead_preview": "Serie C, 15 settembre 2026. La giornata 5 del girone C della Lega Pro ha consegnato una lezione di economia dello sport ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-16T00:08:01.243551+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IRRAGGIUNGIBILE DA ORE. ALLARME SISTEMA",
-    "lead_preview": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati senza accesso al modello. Funzionalità d",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "5ff16a2541dd3abb",
