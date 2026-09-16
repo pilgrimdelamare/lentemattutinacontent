@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-16T00:08:01.243551+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IRRAGGIUNGIBILE DA ORE. ALLARME SISTEMA",
+    "lead_preview": "ChatGPT offline da almeno 15 minuti. Problema globale, utenti italiani bloccati senza accesso al modello. Funzionalità d",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "5ff16a2541dd3abb",
     "slug": "le-5-novita-di-ios-27-che-tutti-dovrebbero-conosce-5ff16a2541dd3abb",
     "title": "Le 5 novità di ios 27 che tutti dovrebbero conoscere",
@@ -8863,24 +8882,6 @@
       "sisma friuli pozzi idrici",
       "riassetto pozzi confindustria udine",
       "danni idrici post-sisma 2020"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b47f95aac85171c6",
-    "slug": "ballando-con-le-stelle-ornella-muti-e-la-tredicesi-b47f95aac85171c6",
-    "title": "Ballando con le stelle, ornella muti è la tredicesima concorrente",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-12T10:33:56.846789+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/21/e93e3c896a616a2ec1849a8b9150e93b.jpg",
-    "occhiello": "BALLANDO CON LE STELLE, ORNELLA MUTI È LA TREDICESIMA CONCORRENTE",
-    "lead_preview": "Roma, 12 settembre Ornella Muti, 68 anni, attrice che ha inciso la storia del cinema italiano con ruoli tra il melodramm",
-    "tags": [
-      "ornella muti ballando con le stelle",
-      "nuova concorrente tds"
     ],
     "hero_eligible": true
   }
