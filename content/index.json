@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Chatgpt riattivato. servizio ripristinato in tempo record.",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-09-16T00:33:34.950286+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN TEMPO RECORD.",
+    "lead_preview": "ChatGPT ha ripreso la normale operatività dopo un'interruzione di 40 minuti, confermando la stabilità del sistema dopo u",
+    "tags": [
+      "chatgpt interruzione",
+      "openai servizio ripristinato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aca3642ddfd0b0b1",
     "slug": "rubio-accusa-nuovamente-sudafrica-di-discriminazio-aca3642ddfd0b0b1",
     "title": "Rubio accusa nuovamente sudafrica di discriminazione contro gli afrikaner",
@@ -3847,25 +3865,6 @@
       "pentagono munizioni"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT ha ripreso la normale operatività dopo un'interruzione di 40 minuti, con",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-16T00:33:34.950286+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN TEMPO RECORD.",
-    "lead_preview": "ChatGPT ha ripreso la normale operatività dopo un'interruzione di 40 minuti, confermando la stabilità del sistema dopo u",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "5fdf50c8aff4d309",
