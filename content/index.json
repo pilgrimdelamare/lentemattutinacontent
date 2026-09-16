@@ -1,5 +1,24 @@
 [
   {
+    "id": "ceafc924929ab70a",
+    "slug": "linventore-misterioso-della-fotografia-ceafc924929ab70a",
+    "title": "L'inventore misterioso della fotografia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-16T15:25:44.165923+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/3/30/c089ea693ae33417573f4064096c31dc.jpg",
+    "occhiello": "NUOVI STUDI RISCRIVONO LE ORIGINI DELLA FOTOGRAFIA, NACQUE IN BRASILE",
+    "lead_preview": "MAIUSCOLO HERCULE FLORENCE, IL FOTOGRAFO BRASILEIANO CHE DAGUERRE NON CONOSCEVA São Paulo, 16 settembre Hercule Florence",
+    "tags": [
+      "fotografia",
+      "origini",
+      "scoperta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3af9c74c1a09f804",
     "slug": "seppellire-la-vergogna-sepideh-qolian-scatena-la-r-3af9c74c1a09f804",
     "title": "L’attivista sepideh qolian: “l’iran non è libero, dopo mahsa amini la lotta cont",
@@ -8880,21 +8899,6 @@
       "anticiclone mediterraneo",
       "meteo enna"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "34cc1fe8854f09fe",
-    "slug": "calabresi-grazie-a-sala-e-pisapia-milano-e-modello-34cc1fe8854f09fe",
-    "title": "Calabresi, 'grazie a sala e pisapia milano è modello di welfare'",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-09-12T20:41:42.190693+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/12/06f167db3409175113cbbca28aafb038.jpg",
-    "occhiello": "CALABRESI, 'GRAZIE A SALA E PISAPIA MILANO È MODELLO DI WELFARE'",
-    "lead_preview": "Milano, 12 settembre Enrico Calabresi ha celebrato i sindaci del Partito Democratico di Milano come modelli di welfare, ",
-    "tags": [],
     "hero_eligible": true
   }
 ]
