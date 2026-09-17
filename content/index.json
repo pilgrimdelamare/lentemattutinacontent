@@ -1,5 +1,20 @@
 [
   {
+    "id": "libro-20260916",
+    "slug": "libro-del-giorno-la-levatricedi-bibbiana-cau-20260916",
+    "title": "Il libro del giorno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-16T07:01:52.587150+00:00",
+    "image_type": "url",
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/81huspbzo0l__sl1500_-55a76.jpg?1787753368",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un romanzo storico ambientato nella Sardegna dell'inizio Novecento, dove la tradizione millenaria della levatrice scontr",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8199341dc2446541",
     "slug": "rush-finale-per-linvio-del-730-precompilato-scaden-8199341dc2446541",
     "title": "Rush finale per l’invio del 730 precompilato: scadenza al 30 settembre",
@@ -984,25 +999,6 @@
       "spread btp-bund",
       "caro-debiti italia",
       "rendimenti titoli 2024"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "libro-20260916",
-    "slug": "libro-del-giorno-la-levatricedi-bibbiana-cau-20260916",
-    "title": "Sardegna 1917: la levatrice millenaria vs l’ostetrica laureata, la Guerra che divide le donne",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-16T07:01:52.587150+00:00",
-    "image_type": "url",
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/81huspbzo0l__sl1500_-55a76.jpg?1787753368",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "un romanzo storico ambientato nella Sardegna dell'inizio Novecento, dove la tradizione millenaria della levatrice scontr",
-    "tags": [
-      "sardegna 1917 levatrici",
-      "conflitto tradizione progresso",
-      "romanzo storico ostetricia"
     ],
     "hero_eligible": true
   },
