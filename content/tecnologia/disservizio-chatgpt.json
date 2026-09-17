@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 130 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
   "titles": [
-    "ChatGPT è irraggiungibile da 130 minuti. Gli utenti italiani segnalano disserviz",
-    "ChatGPT è irraggiungibile da 130 minuti. Gli utenti italiani segnalano disserviz",
-    "ChatGPT è irraggiungibile da 130 minuti. Gli utenti italiani segnalano disserviz"
+    "ChatGPT è tornato online dopo 191 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 191 minuti di interruzione.",
+    "ChatGPT è tornato online dopo 191 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 130 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 130 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIPRISTINATO",
+  "lead": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 191 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-17T19:29:19.114447+00:00",
+  "published_at": "2026-09-17T20:29:36.194650+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -45,18 +45,18 @@
       "image_type": "image"
     },
     {
-      "title": "Città, nodo della transizione ecologica: il 74% degli italiani vive in aree urba",
-      "url": "/economia/citta-nodo-della-transizione-ecologica-il-74-degli-a4c2b2c0a66629b0",
-      "id": "a4c2b2c0a66629b0",
-      "image_url": "https://www.ansa.it",
-      "image_type": "image"
+      "title": "Leverkusen-celjie 2-0: gol e highlights",
+      "url": "/sport/calcio-leverkusen-spende-62-milioni-in-trasferimen-072f38d59003ba6f",
+      "id": "072f38d59003ba6f",
+      "image_url": "https://sport.sky.it/assets/images/a83be818827516d46ea91027a98fcb59ef5790d2/skysport/it/calcio/europa-league/video/2026/09/16/1125198_1789594751253_thumb_494.0000001_1789595494068.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "L’oro balza a 4.300 dollari: i risparmiatori italiani scappano dall’euro e comprano rifugio",
-      "url": "/economia/prezzo-oro-in-rialzo-spot-scambiato-a-4329-dollari-a86113f106efce45",
-      "id": "a86113f106efce45",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/30/738f329973995cc1c0304066c7fa5dc3.jpg",
-      "image_type": "image"
+      "title": "Anderlecht-lione 1-2: gol e highlights",
+      "url": "/sport/lione-trionfa-con-traore-la-difesa-dellanderlecht-c2c1aa2d2c019a5b",
+      "id": "c2c1aa2d2c019a5b",
+      "image_url": "https://sport.sky.it/assets/images/7693ba1d62cb790e9cf8d268a5dc943d8e61c3f6/skysport/it/calcio/europa-league/video/2026/09/16/1125195_1789594559893_thumb_494.0000001_1789595624325.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": false
