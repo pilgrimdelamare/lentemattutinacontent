@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260918",
+    "slug": "libro-del-giorno-zibaldone-autisticodi-gabriella-la-rov-20260918",
+    "title": "Il libro del giorno: «Zibaldone autisticodi Gabriella La Rovere»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "un raccoglitore di riflessioni sull’autismo e la condizione umana",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-18T07:00:17.768452+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788832819571_0_0_424_0_75-7115e.jpg?1788084058",
+      "alt": "Copertina: Zibaldone autisticodi Gabriella La Rovere",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788832819571_0_0_424_0_75-7115e.jpg?1788084058",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, venerdì 18 settembre 2026",
@@ -8850,21 +8869,6 @@
       "inflazione america",
       "warsh vs trump"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0e93a6e44744be12",
-    "slug": "lagenda-settimanale-la-fed-apre-le-danze-sul-rialz-0e93a6e44744be12",
-    "title": "L’agenda settimanale. la fed apre le danze sul rialzo dei tassi, la bank of japa",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-13T12:52:30.258348+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/12/191529723-be48a769-52ad-4012-8ee8-6bda5e49f844.jpg",
-    "occhiello": "L’AGENDA SETTIMANALE. LA FED APRE LE DANZE SUL RIALZO DEI TASSI, LA BANK OF JAPA",
-    "lead_preview": "Tokyo, 13 settembre La Bank of Japan ha appena deciso di alzare i tassi di interesse dello 0,1%. Un quarto di punto, com",
-    "tags": [],
     "hero_eligible": true
   }
 ]
