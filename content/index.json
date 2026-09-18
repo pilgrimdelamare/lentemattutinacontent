@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 18 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-18T05:46:02.086220+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/50d507d1385c932c58d63446f7e2d89f159fca27/skytg24/it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre/corriere-della-sera-051512uh66k7g.jpg",
+    "occhiello": "LE PRIME PAGINE DI OGGI",
+    "lead_preview": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, La Gazzetta dello Sport e il Corriere dello Sport apron",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, venerdì 18 settembre 2026",
@@ -6621,25 +6640,6 @@
     "occhiello": "MERCATO EUROLEGA, TUTTI GLI ACQUISTI UFFICIALI: ALEX LEN RIPARTE DAL BASKONIA",
     "lead_preview": "Vitoria-Gasteiz, 14 settembre Il Baskonia ha ufficializzato il ritorno di Alex Len, ex NBA e campione del mondo con la n",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 15 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-15T05:51:11.971466+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5c505cfa71feab4ee7b634abe412ae6e47fb0738/skytg24/it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre/cor.jpg",
-    "occhiello": "",
-    "lead_preview": "Oggi i quotidiani italiani focalizzano l’attenzione su tre filoni principali: la tensione energetica tra Russia e Ucrain",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
