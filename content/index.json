@@ -1,5 +1,20 @@
 [
   {
+    "id": "c7db74e3ec2cab54",
+    "slug": "il-dipinto-sfida-il-tempo-lidentita-si-rivela-c7db74e3ec2cab54",
+    "title": "Francesca Francavilla: il personaggio sconosciuto",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-17T10:01:18.049832+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/17/328e8c33a25fe25b8e9ac152aecc90b8.jpg",
+    "occhiello": "IL DIPINTO SFIDA IL TEMPO: L'IDENTITÀ SI RIVELA",
+    "lead_preview": "Palermo, 17 settembre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "d05102b6cd7939bf",
     "slug": "nuovo-singolo-di-cremonini-paparazzi-in-debutto-d05102b6cd7939bf",
     "title": "Nuovo singolo di cremonini: \"paparazzi\" in debutto",
@@ -184,21 +199,6 @@
     "image_url": "https://www.ansa.it",
     "occhiello": "TALENTO MINORENNE IN FUGA DAL VIVAIO",
     "lead_preview": "Manchester, 17 settembre. Il giovane JJ Gabriel, 15 anni, considerato uno dei più promettenti talenti del settore giovan",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c7db74e3ec2cab54",
-    "slug": "il-dipinto-sfida-il-tempo-lidentita-si-rivela-c7db74e3ec2cab54",
-    "title": "Il dipinto sfida il tempo: l'identità si rivela",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-17T10:01:18.049832+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/17/328e8c33a25fe25b8e9ac152aecc90b8.jpg",
-    "occhiello": "IL DIPINTO SFIDA IL TEMPO: L'IDENTITÀ SI RIVELA",
-    "lead_preview": "Palermo, 17 settembre.",
     "tags": [],
     "hero_eligible": true
   },
