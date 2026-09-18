@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 15 settembre 2026",
+  "title": "Le prime pagine di oggi, venerdì 18 settembre 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 15 settembre 2026",
-    "Le prime pagine di oggi, martedì 15 settembre 2026",
-    "Le prime pagine di oggi, martedì 15 settembre 2026"
+    "Le prime pagine di oggi, venerdì 18 settembre 2026",
+    "Le prime pagine di oggi, venerdì 18 settembre 2026",
+    "Le prime pagine di oggi, venerdì 18 settembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "",
-  "lead": "Oggi i quotidiani italiani focalizzano l’attenzione su tre filoni principali: la tensione energetica tra Russia e Ucraina, con l’annuncio di una presunta tregua sui raid alle raffinerie e le reazioni di Zelensky e degli Stati Uniti, che *Corriere della Sera*, *Il Messaggero*, *Il Resto del Carlino* e *Il Sole 24 Ore* dedicano ampio spazio. L’intelligenza artificiale è il secondo tema centrale, con *La Repubblica*, *La Stampa* e *Il Sole 24 Ore* che analizzano le tensioni tra Cina e Usa, le preoccupazioni di Trump su una presunta cospirazione e le ripercussioni sui mercati. La politica interna, con le mosse di Conte e il programma del M5S, occupa invece *La Repubblica*, mentre *Il Giornale* approfondisce misure locali e inchieste istituzionali. *La Gazzetta dello Sport* si concentra invece sul calcio.",
-  "corpo1": "*Corriere della Sera* apre con il balzo dei prezzi del greggio e del gas, evidenziando l’annuncio statunitense di una presunta tregua energetica tra Mosca e Kiev, ma sottolinea il cauto atteggiamento di Zelensky, che respinge l’accordo. In seconda pagina, il quotidiano approfondisce le tensioni sull’intelligenza artificiale, con le dichiarazioni di Trump che accusano una cospirazione contro l’hi-tech e le reazioni di Pechino. *La Repubblica* dedica la prima pagina alla politica, titolando sulla sfida di Conte al Pd con il programma del M5S, che vieterebbe le armi all’Ucraina, e sui timori di mercato legati all’intelligenza artificiale, con un allarme Onu contrastato dalla Cina. *La Stampa* focalizza l’attenzione sull’assenza di regole globali sull’AI, con le posizioni contrapposte di Trump e la Cina, e pubblica un’analisi critica sul rischio di cedere il potere decisionale alle macchine. In spalla, il quotidiano torinese segnala i problemi strutturali delle scuole italiane, con un edificio su tre in condizioni di degrado. *Il Messaggero* conferma il tema energetico, riportando l’annuncio di Trump sulla tregua tra Russia e Ucraina e le conseguenze sui mercati, mentre in spalla affronta la legge elettorale e le vittime dell’incidente di Crans-Montana.",
-  "corpo2": "*Il Sole 24 Ore* conferma il focus sui mercati, con il rally del petrolio e dei bond Usa e l’Ipo record della Nigeria, accanto a novità fiscali sugli affitti. *La Gazzetta dello Sport* si dedica al calcio, con l’Inter-Roma in vista e le novità della Juventus, mentre *Il Giornale* approfondisce misure locali a Bologna e un’inchiesta su un generale. *Il Resto del Carlino* replica la copertina sull’Ucraina e sull’AI, aggiungendo il ritorno a scuola dei ragazzi feriti a Crans-Montana. La giornata è dominata da energia, politica e innovazione tecnologica, con il calcio a margine.",
+  "occhiello": "LE PRIME PAGINE DI OGGI",
+  "lead": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, La Gazzetta dello Sport e il Corriere dello Sport aprono le loro edizioni con titoli che ruotano attorno a tre filoni principali: l’impiego di mezzi militari italiani in conflitti esteri, le tensioni politiche interne sul bilancio e le novità sportive. Il Corriere della Sera e La Stampa si concentrano sulla presenza navale e aerea italiana, La Repubblica evidenzia lo scambio tra Schlein e Meloni, Il Messaggero mette in luce la manovra economica, mentre le due testate sportive dedicano la copertina ai risultati calcistici.",
+  "corpo1": "Il Corriere della Sera apre con “Navi e jet, i due fronti dell'Italia”, un titolo che riporta l’impiego di navi mercantili italiani a Bab el‑Mandeb e di caccia italiani che “portano fuori dallo spazio aereo NATO” i droni russi. La Repubblica dedica la prima pagina all’energia e allo scambio tra Schlein e Meloni, includendo la risposta della premier alla lettera della segretaria del Pd: “Valuterò le proposte senza pregiudizi”, e menziona il piano di Crosetto per “scortare le navi italiane nel Mar Rosso”. La Stampa mette in primo piano le “navi italiane scortate nel Mar Rosso” con le parole di Crosetto sulla Marina militare, e riporta l’affermazione di Meloni sul non cedere alle provocazioni dei jet russi, aggiungendo un accenno allo stop al bollo auto nelle Regioni. Il Messaggero inizia con la “Manovra e la ‘caccia ai risparmi Pnrr’”, segnando 1,7 miliardi già destinati allo stop al bollo e altre economie dal Recovery, oltre a ricordare le missioni di scorta navale e aerea italiane contro gli Houthi e la Russia. La Gazzetta dello Sport titola “Nuovi gol, Juve” per la vittoria 5‑0 sul Nizza, con le prime reti di Alajbegovic, Woltamade e Celik e il ruolo di Nico González, e dedica spazio al Milan con “Amorim sotto tiro”. Il Corriere dello Sport, infine, apre con “Sblocco Juve” per la stessa partita, elencando gli autori dei gol e anticipando la sfida Roma‑Inter come “confronto di liv…”.",
+  "corpo2": "Tra gli altri titoli di rilievo, La Repubblica riporta il piano di Crosetto per la scorta navale, La Stampa accenna allo stop al bollo auto, Il Messaggero sottolinea la “caccia ai risparmi Pnrr”, La Gazzetta dello Sport evidenzia “Amorim sotto tiro” e il Corriere dello Sport anticipa la “sfida Roma‑Inter”. Il tema dominante della giornata è la presenza militare italiana all’estero affiancata da dibattiti economici e sportivi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-09-15T05:51:11.971466+00:00",
+  "published_at": "2026-09-18T05:46:02.086220+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/5c505cfa71feab4ee7b634abe412ae6e47fb0738/skytg24/it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre/cor.jpg",
+    "url": "https://tg24.sky.it/assets/images/50d507d1385c932c58d63446f7e2d89f159fca27/skytg24/it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre/corriere-della-sera-051512uh66k7g.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/09/15/prime-pagine-quotidiani-oggi-15-settembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 15 settembre 2026",
+      "title": "Oroscopo di oggi, venerdì 18 settembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Tennis: il dominio femminile diventa un mercato da guerra: chi vince oggi domani può crollare domani",
-      "url": "/sport/tennis-rybakina-scalza-sabalenka-9901-punti-e-il-k-88b4d27442434db1",
-      "id": "88b4d27442434db1",
-      "image_url": "https://sport.sky.it/assets/images/c0b233af46114c536b2346de78a3cf887a9adf1f/skysport/it/tennis/paolini-ranking-wta-classifica-italiane/rybakina_ansa_us.jpg",
+      "title": "Previsioni meteo, perturbazione atlantica con piogge al centro-nord. da venerdì ",
+      "url": "/cronaca/previsioni-meteo-perturbazione-atlantica-con-piogg-5a2d14b5394228a7",
+      "id": "5a2d14b5394228a7",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/16/220542915-85ef2545-a139-4563-a94e-ac82d1a7bdec.jpg",
       "image_type": "feed_image"
     },
     {
-      "title": "Berlusconi e Trump: 20 miliardi di promesse vuote, oggi i partiti italiani sprecano ancora",
-      "url": "/politica/da-berlusconi-a-trump-funzionano-ancora-le-promess-cb9c1c3f671aa602",
-      "id": "cb9c1c3f671aa602",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/14/081952117-b5e03c06-b168-4eed-8465-d1e3182e5bae.jpg",
+      "title": "Settimana europea della mobilità dal 16 al 22 settembre",
+      "url": "/economia/settimana-europea-della-mobilita-dal-16-al-22-sett-a165925baeffc69e",
+      "id": "a165925baeffc69e",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/10/9/5312fbd64212671135e33d259f8b0254.jpg",
       "image_type": "image"
     }
   ],
