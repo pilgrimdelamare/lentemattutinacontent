@@ -1,0 +1,59 @@
+{
+  "id": "1e30519776025ba9",
+  "slug": "la-bce-rilascia-il-nome-del-sistema-1e30519776025ba9",
+  "title": "La bce rilascia il nome del sistema",
+  "titles": [
+    "LA BCE RILASCIA IL NOME DEL SISTEMA",
+    "LA BCE RILASCIA IL NOME DEL SISTEMA",
+    "LA BCE RILASCIA IL NOME DEL SISTEMA"
+  ],
+  "title_winner": null,
+  "section": "economia",
+  "occhiello": "LA BCE RILASCIA IL NOME DEL SISTEMA",
+  "lead": "Roma, 18 settembre. La Presidente della BCE, Christine Lagarde, ha annunciato che lunedì lanciato il nuovo sistema di transazioni digitali tra le banche, chiamato Pontes.",
+  "corpo1": "Secondo ANSA, La Presidente della BCE ha dichiarato durante una conferenza stampa che, a partire del prossimo lunedì, sarà attivato Pontes, un meccanismo destinato a consentire alle istituzioni bancarie di eseguire scambi di denaro in Euro digitale. Il nome è stato scelto in onore delle antiche infrastrutture romane che collegavano le città. Nella dichiarazione non è stato specificato l'oggetto tecnico del sistema né il luogo esatto della conferenza, ma l'intervento è stato pubblicato Online dal sito ufficiale della BCE. La presentazione è stata accompagnata da un breve Video che mostrava la logistica del nuovo Servizio, senza entrare nel dettaglio delle tecnologie coinvolte.",
+  "corpo2": "Il lancio di Pontes segna un ulteriore passo verso la digitalizzazione del settore bancario Europeo, con l'obiettivo di ridurre i tempi di esecuzione delle transazioni interbancarie. L'iniziativa, già discussa in precedenti incontri del Consiglio dei Governatori, mira a standardizzare i pagamenti in Euro digitale, potenzialmente migliorando la trasparenza e la Sicurezza delle operazioni. Se la piattaforma verrà implementata come previsto, le banche potranno completare i trasferimenti in pochi secondi, riducendo la dipendenza dalle reti di pagamento tradizionali e aprendo la strada a una maggiore competitività del mercato. Nel breve termine, la BCE intende monitorare l'efficacia di Pontes e valutare eventuali adeguamenti regolamentari per garantire la stabilità finanziaria dell'area Euro. Se il sistema dovesse funzionare senza intoppi, la Banca Centrale potrà considerare ulteriori evoluzioni verso un Euro digitale di massa.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giorgio_ferrara_01",
+    "firma": "Giorgio Ferrara",
+    "sezione": "economia"
+  },
+  "published_at": "2026-09-18T11:43:06.412494+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/78257474a45a1ee83b99ea50ff943aac.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"LA BCE RILASCIA IL NOME DEL SISTEMA\",\n  \"description\": \"Roma, 18 settembre. La Presidente della BCE, Christine Lagarde, ha annunciato che lunedì lanciato il nuovo sistema di transazioni digitali tra le banche, chiamato Pontes.\",\n  \"articleBody\": \"Roma, 18 settembre. La Presidente della BCE, Christine Lagarde, ha annunciato che lunedì lanciato il nuovo sistema di transazioni digitali tra le banche, chiamato Pontes. Secondo ANSA, La Presidente della BCE ha dichiarato durante una conferenza stampa che, a partire del prossimo lunedì, sarà attivato Pontes, un meccanismo destinato a consentire alle istituzioni bancarie di eseguire scambi di denaro in Euro digitale. Il nome è stato scelto in onore delle antiche infrastrutture romane che collegavano le città. Nella dichiarazione non è stato specificato l'oggetto tecnico del sistema né il luogo esatto della conferenza, ma l'intervento è stato pubblicato Online dal sito ufficiale della BCE. La presentazione è stata accompagnata da un breve Video che mostrava la logistica del nuovo Servizio, senza entrare nel dettaglio delle tecnologie coinvolte. Il lancio di Pontes segna un ulteriore passo verso la digitalizzazione del settore bancario Europeo, con l'obiettivo di ridurre i tempi di esecuzione delle transazioni interbancarie. L'iniziativa, già discussa in precedenti incontri del Consiglio dei Governatori, mira a standardizzare i pagamenti in Euro digitale, potenzialmente migliorando la trasparenza e la Sicurezza delle operazioni. Se la piattaforma verrà implementata come previsto, le banche potranno completare i trasferimenti in pochi secondi, riducendo la dipendenza dalle reti di pagamento tradizionali e aprendo la strada a una maggiore competitività del mercato. Nel breve termine, la BCE intende monitorare l'efficacia di Pontes e valutare eventuali adeguamenti regolamentari per garantire la stabilità finanziaria dell'area Euro. Se il sistema dovesse funzionare senza intoppi, la Banca Centrale potrà considerare ulteriori evoluzioni verso un Euro digitale di massa.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giorgio Ferrara\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-18T11:43:06.412494+00:00\",\n  \"dateModified\": \"2026-09-18T11:43:06.412494+00:00\",\n  \"url\": \"https://lentemattutina.it/economia/1e30519776025ba9\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/economia/1e30519776025ba9\"\n  },\n  \"articleSection\": \"Economia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1280x720/2026/9/18/78257474a45a1ee83b99ea50ff943aac.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Economia",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/economia/2026/09/18/lagarde-lunedi-lanciamo-pontes-per-transazioni-digitali-tra-le-banche_1f00468a-5bee-4aa6-84da-4436178daf77.html",
+  "related": [
+    {
+      "title": "Gas, altro salto in bolletta mentre i depositi sono vuoti",
+      "url": "/economia/gas-altro-salto-in-bolletta-mentre-i-depositi-sono-3d72f660ca306f15",
+      "id": "3d72f660ca306f15",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/12/6c858b574c67b2587fcb0419bd632124.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Settimana europea della mobilità dal 16 al 22 settembre",
+      "url": "/economia/settimana-europea-della-mobilita-dal-16-al-22-sett-a165925baeffc69e",
+      "id": "a165925baeffc69e",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/10/9/5312fbd64212671135e33d259f8b0254.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Ex ilva: mantovano, per forni elettrici già presenti risorse da utilizzare",
+      "url": "/economia/ex-ilva-mantovano-per-forni-elettrici-gia-presenti-d64474a8bf59edf3",
+      "id": "d64474a8bf59edf3",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/8/dae9d72489df6c4196055262b692f316.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
