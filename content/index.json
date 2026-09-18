@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disserviz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-17T23:21:40.096779+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY IN DOWN",
+    "lead_preview": "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "4b60b3348ab94336",
     "slug": "netanyahu-revoca-cittadinanza-a-regista-israeliana-4b60b3348ab94336",
     "title": "Naza, minacce a casa della regista. netanyahu: “via la cittadinanza”",
@@ -8853,25 +8872,6 @@
       "capri award 2024",
       "angelo mellone",
       "premio musica italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2d983e06b023c018",
-    "slug": "basket-durant-sfida-leta-a-39-anni-quinto-oro-olim-2d983e06b023c018",
-    "title": "Basket: Durant sfida l'età a 39 anni: «Quinto oro olimpico, ora o mai più»",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-14T09:17:56.504152+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/717f800e93f9610b043fee2c15ab1ab207d0eeaa/skysport/it/nba/2025/09/17/kevin-durant-nba-team-usa-los-angeles-2028-parole/Kevin_Durant_Getty_Team_USA.jpg",
-    "occhiello": "DURANT VUOLE LA QUINTA MEDAGLIA D’ORO A 39 ANNI, SUPERANDO MICHAEL JORDAN E LE PROPRIE LEZIONI DI MARKETING.",
-    "lead_preview": "Kevin Durant, 40 anni e l’obiettivo impossibile: il quinto oro olimpico DURANT VUOLE LA QUINTA MEDAGLIA D’ORO A 39 ANNI,",
-    "tags": [
-      "durant oro olimpico 2024",
-      "durant record età basket",
-      "durant vs jordan"
     ],
     "hero_eligible": true
   }
