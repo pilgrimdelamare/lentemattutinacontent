@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
+  "title": "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disserviz",
   "titles": [
-    "Satispay è tornato online dopo 470 minuti di interruzione.",
-    "Satispay è tornato online dopo 470 minuti di interruzione.",
-    "Satispay è tornato online dopo 470 minuti di interruzione."
+    "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disserviz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RIPRISTINATO",
-  "lead": "Satispay è tornato online dopo 470 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 470 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SATISPAY IN DOWN",
+  "lead": "Satispay è irraggiungibile da 69 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 69 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:32:29.578897+00:00",
+  "published_at": "2026-09-17T23:21:40.096779+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "TikTok è tornato online dopo 92 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Le 5 novità di ios 27 che tutti dovrebbero conoscere",
+      "url": "/tecnologia/le-5-novita-di-ios-27-che-tutti-dovrebbero-conosce-5ff16a2541dd3abb",
+      "id": "5ff16a2541dd3abb",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/15/130855077-b48f2619-45d9-4768-9bb2-27e28eccf580.jpg",
       "image_type": "image"
     },
     {
-      "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Città, nodo della transizione ecologica: il 74% degli italiani vive in aree urba",
+      "url": "/economia/citta-nodo-della-transizione-ecologica-il-74-degli-a4c2b2c0a66629b0",
+      "id": "a4c2b2c0a66629b0",
+      "image_url": "https://www.ansa.it",
       "image_type": "image"
     }
   ],
