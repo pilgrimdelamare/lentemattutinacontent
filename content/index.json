@@ -1,5 +1,23 @@
 [
   {
+    "id": "249aabd795767828",
+    "slug": "la-juventus-e-la-vittoria-della-womens-cup-249aabd795767828",
+    "title": "La Juventus è la vittoria della Women's Cup",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-19T23:10:32.025848+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/94bc1fcdacdca7b38f245543e2b396bc431cf945/skysport/it/calcio/femminile/video/2026/09/20/1125919_1789847548036_thumb_494.0000001_1789857270351.jpg",
+    "occhiello": "IL CALCIO FEMMINILE REGISTRA IL TRIONFO DELLA JUVENTUS",
+    "lead_preview": "Roma, 20 settembre 2026. La Juventus conquista la Women's Cup, evento che raccoglie l'entusiasmo della calciatrice Marti",
+    "tags": [
+      "juventus women's cup",
+      "calcio femminile"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "30bbb8614f516ef0",
     "slug": "calcio-foggia-bloccato-sul-pari-a-foggia-la-casert-30bbb8614f516ef0",
     "title": "Calcio: Foggia bloccato sul pari a Foggia, la Casertana frena i rossoneri",
@@ -8563,21 +8581,6 @@
       "emigrazione interna 2024",
       "lavoro straniero giovani"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "283e8d367b28e7ae",
-    "slug": "media-iran-usa-hanno-escluso-il-capo-agenzia-nucle-283e8d367b28e7ae",
-    "title": "Iran esclude Mohammad Eslami dal vertice atomico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-14T08:57:55.032139+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/14/a054749c22a17990234f538f84bb60d5.jpg",
-    "occhiello": "MEDIA IRAN, USA HANNO ESCLUSO IL CAPO AGENZIA NUCLEARE DI TEHERAN DAL VERTICE AI",
-    "lead_preview": "Teheran, 14 settembre La delegazione iraniana è rientrata a Teheran dopo il vertice dell’Agenzia internazionale per l’en",
-    "tags": [],
     "hero_eligible": true
   }
 ]
