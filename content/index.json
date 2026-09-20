@@ -1,5 +1,23 @@
 [
   {
+    "id": "2dfe5cb525f474c0",
+    "slug": "golpe-al-calcio-nazionale-2dfe5cb525f474c0",
+    "title": "Golpe al calcio nazionale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-20T20:49:05.707563+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/21/3b0fe8284ca02c617c6ad2c399f77f46.jpg",
+    "occhiello": "FRANCIA, BUTEZ DEL COMO SOSTITUISCE L'INFORTUNATO RISSER",
+    "lead_preview": "Roma, 20 settembre 2026. La federazione calcistica Francese ha comunicato la sostituzione del portiere Risser, costretto",
+    "tags": [
+      "nazionale francia",
+      "butez como"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2d16126c6ddc33ff",
     "slug": "prezzi-dei-biglietti-crollati-dopo-il-caso-gasa-2d16126c6ddc33ff",
     "title": "Prezzi dei biglietti crollati dopo il caso gasa",
@@ -8327,25 +8345,6 @@
     "tags": [
       "tassi fed e debito italiano",
       "costi debito pubblico 2024"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0778bc3719b8dace",
-    "slug": "libri-novella-calligaris-si-racconta-in-pulce-le-p-0778bc3719b8dace",
-    "title": "Nuoto: Calligaris svela perché lasciò il nuoto a 21 anni e il suo libro che sfida i campioni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-15T11:32:00.350917+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/0b1d80985233b03d3c0b919e3ec5031e.jpg",
-    "occhiello": "LIBRI: NOVELLA CALLIGARIS SI RACCONTA IN 'PULCE', LE PASSIONI OLTRE LA VASCA",
-    "lead_preview": "Roma, 15 settembre Novella Calligaris, la prima atleta italiana a vincere una medaglia olimpica nel nuoto e a battere un",
-    "tags": [
-      "nuoto calligaris",
-      "libro pulce",
-      "carriera novella calligaris"
     ],
     "hero_eligible": true
   }
