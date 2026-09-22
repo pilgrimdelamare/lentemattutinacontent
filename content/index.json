@@ -1,5 +1,24 @@
 [
   {
+    "id": "54e30fc3429c6557",
+    "slug": "sempre-in-attesa-semat-lantica-azienda-sconfitta-54e30fc3429c6557",
+    "title": "Sempre in attesa, Semat: l'antica azienda sconfitta",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-22T08:16:50.767111+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/22/3dfbe43fed1c2af5ad2c08f26ff70d5e.jpg",
+    "occhiello": "STIPENDI MANCANTI, FABBRICA FERMA",
+    "lead_preview": "Taranto, 22 settembre. I lavoratori della Semat, storica azienda legata alla gestione dell'ex ILVA, incrociano le bracci",
+    "tags": [
+      "azienda",
+      "lavoratori",
+      "protesta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "82f009ae3ac876b5",
     "slug": "basket-doc-rivers-saluta-lnba-torna-in-tv-da-comme-82f009ae3ac876b5",
     "title": "Basket: Doc Rivers saluta l'NBA, torna in TV da commentatore",
@@ -8230,25 +8249,6 @@
       "abbattimento drone lituania",
       "tensioni nato-russia",
       "avvertimento tajani mosca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "894c7bddb7f24838",
-    "slug": "trump-in-azione-biden-rimossa-ora-le-centrali-usa-894c7bddb7f24838",
-    "title": "EPA azzera limiti CO₂: 600 milioni di tonnellate di emissioni in più per le centrali USA",
-    "section": "ambiente",
-    "priority": 5,
-    "journalist_firma": "Enrico Mari",
-    "published_at": "2026-09-15T10:49:09.155469+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/15/122852175-14135204-429c-403f-be7b-6c13e0be25cf.jpg",
-    "occhiello": "USA, L’EPA CANCELLA I LIMITI ALLE EMISSIONI CLIMALTERANTI DELLE CENTRALI ELETTRI",
-    "lead_preview": "Washington, 15 settembre L’Agenzia statunitense per la protezione dell’ambiente (EPA) ha revocato i limiti alle emission",
-    "tags": [
-      "epa revoca limiti co2",
-      "centrali carbone usa",
-      "emissioni gas serra epa"
     ],
     "hero_eligible": true
   }
