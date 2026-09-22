@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260922",
+    "slug": "libro-del-giorno-kumquatdi-enzo-verrengia-20260922",
+    "title": "Il libro del giorno: «Kumquatdi Enzo Verrengia»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "...",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-22T07:00:35.431387+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/51rpjfbba2l__sl1469_-97329.jpg?1787870150",
+      "alt": "Copertina: Kumquatdi Enzo Verrengia",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/51rpjfbba2l__sl1469_-97329.jpg?1787870150",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "0f0c50aa93c46ee1",
     "slug": "un-euro-stabile-che-spenna-chi-esporta-e-non-aiuta-0f0c50aa93c46ee1",
     "title": "Un euro \"stabile\" che spenna chi esporta e non aiuta chi compra",
@@ -8231,24 +8250,6 @@
     "occhiello": "LA FACCIATA INCOMPIUTA DI SAN PETRONIO A BOLOGNA TORNA A VIVERE CON IL VIDEOMAPP",
     "lead_preview": "Bologna, 18 settembre La facciata di San Petronio, simbolo incompiuto di Bologna per oltre sei secoli, si illumina per l",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a92c74f8c1cdc018",
-    "slug": "tennis-sinner-a-monte-carlo-lavoro-segreto-su-serv-a92c74f8c1cdc018",
-    "title": "Tennis: Sinner si allena a Monte Carlo, prepara la difesa del titolo a Vienna",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-15T10:43:37.491219+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/966ca6e20f2447b21d345e205c83ae88d4081464/skysport/it/tennis/video/2026/09/15/1124754_1789461441763_thumb_494.0000001_1789463053420.jpg",
-    "occhiello": "SINNER TORNA A LAVORARE SUL CAMPO: ALLENAMENTO A MONTE-CARLO",
-    "lead_preview": "Monte Carlo, 15 settembre Jannik Sinner ha ripreso a lavorare sul campo dopo due Slam consecutivi, con un allenamento ri",
-    "tags": [
-      "sinner montecarlo",
-      "tennis"
-    ],
     "hero_eligible": true
   }
 ]
