@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-22T02:13:05.921926+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY IN DOWN",
+    "lead_preview": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f0f87cfa7bf0a114",
     "slug": "cognata-di-malen-ingaggiata-dalla-roma-primavera-f0f87cfa7bf0a114",
     "title": "Cognata di malen ingaggiata dalla roma primavera",
@@ -8250,21 +8269,6 @@
       "ultimatum russo confini",
       "droni russi polonia 2024"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5d852a23b83d3923",
-    "slug": "fonderanno-le-fonti-dellevento-5d852a23b83d3923",
-    "title": "Torna 'prospettiva dante', il festival interamente dedicato al sommo poeta",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-15T09:28:14.278884+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/546edae9820e3ac3e5d1393b4d3de96f.jpg",
-    "occhiello": "TORNA 'PROSPETTIVA DANTE', IL FESTIVAL INTERAMENTE DEDICATO AL SOMMO POETA",
-    "lead_preview": "MAIUSCOLO \"DANTE RITORNA A FIRENZE SU FONDI OPACI: IL PRESIDIO DEI GRANDI NOMI È UN’OPERAZIONE DI MARKETING CULTURALE SE",
-    "tags": [],
     "hero_eligible": true
   }
 ]
