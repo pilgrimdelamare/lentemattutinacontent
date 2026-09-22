@@ -12,7 +12,7 @@
   "occhiello": "A 13 ANNI SFIORA IL RECORD MONDIALE",
   "lead": "A 13 ANNI SFIORA IL RECORD MONDIALE Roma, 21 settembre. Yu Zidi, tredici anni, nuota i 200 metri misti in 2'06\"10 ai Giochi Asiatici e sfiora il record mondiale della canadese Summer McIntosh, fermo a 2'05\"70. La cinese Yu Zidi ha firmato una doppia prestazione da record nella giornata di domenica ai Giochi Asiatici. Nei 200 metri misti ha stabilito un tempo di 2'06\"10, distante appena 37 centesimi",
   "corpo1": "dal primato mondiale della McIntosh. Nella stessa giornata aveva conquistato l'oro nei 200 farfalla con il tempo di 2'05\"08, abbassando di quasi mezzo secondo il record asiatico detenuto dalla connazionale Zhang Yufei, secondo quanto riportato da Sky Sport. Due prove, due primati sfiorati o battuti in una sola giornata: un dato che colloca la nuotinese già tra le candidate al podio mondiale della specialità. A tredici anni, Yu",
-  "corpo2": "Zidi si è già inscritta nel panorama del nuoto globale con numeri che pochi quindicenni hanno mai raggiunto. Il tempo nei 200 misti, sebbene non abbia battuto il record di McIntosh, rientra nella top 5 storica under 14 della specialità. La cancellazione del record asiatico nei 200 farfalla — appartenuto a Zhang Yufei per anni — conferma che la Cina sta costruendo un ciclo generazionale nel nuoto che va oltre il singolo risultato. La canadese McIntosh, dominatrice della specialità negli ultimi mesi, trova in questa ragazzina una rivale che non si aspettava così presto. Il dato che conta è questo: Yu Zidi ha nuotato i 200 misti in 2'06\"10 ai Giochi Asiatici, e il record mondiale di Summer McIntosh ora dista 37 centesimi — una distanza che, nei tempi del nuoto, si misura in un singolo cambio di stile.",
+  "corpo2": "La prestazione di Yu Zidi ai Giochi Asiatici, in particolare il 2'06\"10 nei 200 metri misti a soli tredici anni, si configura come un dato statistico di rara anomalia nel panorama nat",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -28,12 +28,19 @@
     "credit": "Sky Sport",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"A 13 ANNI SFIORA IL RECORD MONDIALE\",\n  \"description\": \"A 13 ANNI SFIORA IL RECORD MONDIALE Roma, 21 settembre. Yu Zidi, tredici anni, nuota i 200 metri misti in 2'06\\\"10 ai Giochi Asiatici e sfiora il record mondiale della canadese Summer McIntosh, fermo a 2'05\\\"70. La cinese Yu Zidi ha firmato una doppia prestazione da record nella giornata di domenica a\",\n  \"articleBody\": \"A 13 ANNI SFIORA IL RECORD MONDIALE Roma, 21 settembre. Yu Zidi, tredici anni, nuota i 200 metri misti in 2'06\\\"10 ai Giochi Asiatici e sfiora il record mondiale della canadese Summer McIntosh, fermo a 2'05\\\"70. La cinese Yu Zidi ha firmato una doppia prestazione da record nella giornata di domenica ai Giochi Asiatici. Nei 200 metri misti ha stabilito un tempo di 2'06\\\"10, distante appena 37 centesimi dal primato mondiale della McIntosh. Nella stessa giornata aveva conquistato l'oro nei 200 farfalla con il tempo di 2'05\\\"08, abbassando di quasi mezzo secondo il record asiatico detenuto dalla connazionale Zhang Yufei, secondo quanto riportato da Sky Sport. Due prove, due primati sfiorati o battuti in una sola giornata: un dato che colloca la nuotinese già tra le candidate al podio mondiale della specialità. A tredici anni, Yu Zidi si è già inscritta nel panorama del nuoto globale con numeri che pochi quindicenni hanno mai raggiunto. Il tempo nei 200 misti, sebbene non abbia battuto il record di McIntosh, rientra nella top 5 storica under 14 della specialità. La cancellazione del record asiatico nei 200 farfalla — appartenuto a Zhang Yufei per anni — conferma che la Cina sta costruendo un ciclo generazionale nel nuoto che va oltre il singolo risultato. La canadese McIntosh, dominatrice della specialità negli ultimi mesi, trova in questa ragazzina una rivale che non si aspettava così presto. Il dato che conta è questo: Yu Zidi ha nuotato i 200 misti in 2'06\\\"10 ai Giochi Asiatici, e il record mondiale di Summer McIntosh ora dista 37 centesimi — una distanza che, nei tempi del nuoto, si misura in un singolo cambio di stile.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-22T02:04:18.811878+00:00\",\n  \"dateModified\": \"2026-09-22T02:04:18.811878+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/5c995df09a2ce0bc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/5c995df09a2ce0bc\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://sport.sky.it/assets/images/aa283e5a43c264c0da5adc2d7b9bd521b273779c/skysport/it/altri-sport/nuoto/2026/09/21/yu-zidi-13-anni-giochi-asiatici-200-misti-tempo-record/yu_zidi_nuoto_getty.jpg\",\n    \"creditText\": \"Sky Sport\"\n  }\n}",
-  "priority": 6,
-  "source": "Sky Sport",
-  "source_type": "competitor",
-  "original_url": "https://sport.sky.it/altri-sport/nuoto/2026/09/21/yu-zidi-13-anni-giochi-asiatici-200-misti-tempo-record",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"A 13 ANNI SFIORA IL RECORD MONDIALE\",\n  \"description\": \"A 13 ANNI SFIORA IL RECORD MONDIALE Roma, 21 settembre. Yu Zidi, tredici anni, nuota i 200 metri misti in 2'06\\\"10 ai Giochi Asiatici e sfiora il record mondiale della canadese Summer McIntosh, fermo a 2'05\\\"70. La cinese Yu Zidi ha firmato una doppia prestazione da record nella giornata di domenica a\",\n  \"articleBody\": \"A 13 ANNI SFIORA IL RECORD MONDIALE Roma, 21 settembre. Yu Zidi, tredici anni, nuota i 200 metri misti in 2'06\\\"10 ai Giochi Asiatici e sfiora il record mondiale della canadese Summer McIntosh, fermo a 2'05\\\"70. La cinese Yu Zidi ha firmato una doppia prestazione da record nella giornata di domenica ai Giochi Asiatici. Nei 200 metri misti ha stabilito un tempo di 2'06\\\"10, distante appena 37 centesimi dal primato mondiale della McIntosh. Nella stessa giornata aveva conquistato l'oro nei 200 farfalla con il tempo di 2'05\\\"08, abbassando di quasi mezzo secondo il record asiatico detenuto dalla connazionale Zhang Yufei, secondo quanto riportato da Sky Sport. Due prove, due primati sfiorati o battuti in una sola giornata: un dato che colloca la nuotinese già tra le candidate al podio mondiale della specialità. A tredici anni, Yu La prestazione di Yu Zidi ai Giochi Asiatici, in particolare il 2'06\\\"10 nei 200 metri misti a soli tredici anni, si configura come un dato statistico di rara anomalia nel panorama nat\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Matteo Galli\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-22T02:04:18.811878+00:00\",\n  \"dateModified\": \"2026-09-22T02:04:18.811878+00:00\",\n  \"url\": \"https://lentemattutina.it/sport/5c995df09a2ce0bc\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/sport/5c995df09a2ce0bc\"\n  },\n  \"articleSection\": \"Sport\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
+  "original_url": "https://lentemattutina.it/sport/a-13-anni-sfiora-il-record-mondiale-5c995df09a2ce0bc",
   "related": [
+    {
+      "title": "Totti: \"a 48 anni ho detto no a genoa e como per tornare a giocare in serie a\"",
+      "url": "/sport/totti-a-48-anni-ho-detto-no-a-genoa-e-como-per-tor-10e7485c0b3b423f",
+      "id": "10e7485c0b3b423f",
+      "image_url": "https://sport.sky.it/assets/images/be0b88bf7a8b185703ac0a42df830fee21e87290/skysport/it/calcio/serie-a/2026/09/22/francesco-totti-libro-50-anni/ansa_totti.jpg",
+      "image_type": "feed_image"
+    },
     {
       "title": "Calcio: Chivu batte il record di Mourinho e porta l'Inter a quota 100 punti in serie A",
       "url": "/sport/chivu-supervisore-dei-cento-punti-nerazzurri-piu-r-ac68940d833d610f",
@@ -47,14 +54,8 @@
       "id": "b654ce83e180c6e2",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/61f3533339ef4b90ce5605e66a529bfd.jpg",
       "image_type": "image"
-    },
-    {
-      "title": "Centosettant'anni per la parità secondo il rapporto onu",
-      "url": "/sport/centosettantanni-per-la-parita-secondo-il-rapporto-5dd4123755b86778",
-      "id": "5dd4123755b86778",
-      "image_url": "https://images.agi.it/pictures/agi/agi/2026/01/08/081444249-340732e6-1f50-4503-8b54-db1c9b6f237e.jpg",
-      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": true
+  "hero_eligible": true,
+  "updated_at": "2026-09-22T02:04:18.811878+00:00"
 }
