@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è tornato online dopo 236 minuti di interruzione.",
+  "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Spotify è tornato online dopo 236 minuti di interruzione.",
-    "Spotify è tornato online dopo 236 minuti di interruzione.",
-    "Spotify è tornato online dopo 236 minuti di interruzione."
+    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY RIPRISTINATO",
-  "lead": "Spotify è tornato online dopo 236 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Spotify è stato risolto. L'interruzione è durata circa 236 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SPOTIFY IN DOWN",
+  "lead": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 25 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:53:12.390943+00:00",
+  "published_at": "2026-09-22T02:13:05.921926+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Satispay è tornato online dopo 74 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Max in Russia: la super-app registra chat, pagamenti e messaggi privati",
+      "url": "/tecnologia/max-in-russia-la-super-app-registra-chat-pagamenti-3c1f6cd0775c11e3",
+      "id": "3c1f6cd0775c11e3",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/18/134240133-16efb0a2-e8c7-4170-962c-8658b7ff8bcb.jpg",
       "image_type": "image"
     }
   ],
