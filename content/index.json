@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventise",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-23T17:49:49.765063+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIATTIVATO DOPPO 26 MINUTI",
+    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventisei minuti. La funzionalità è stata ripris",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "4043c8723a84ab7e",
     "slug": "de-laurentiis-accusa-abodi-e-giorgetti-sul-calcio-4043c8723a84ab7e",
     "title": "De laurentiis accusa abodi e giorgetti sul calcio",
@@ -13,25 +32,6 @@
     "lead_preview": "Roma, 23 settembre 2026. Durante il conferimento di un premio alla carriera presso l'Associazione della Stampa Estera a ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 26 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-23T17:18:12.309228+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 26 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "97d340490b1f4725",
