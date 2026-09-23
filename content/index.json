@@ -1,5 +1,20 @@
 [
   {
+    "id": "980c0241bf42d354",
+    "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
+    "title": "Corte dei conti indaga spese editoria",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-09-23T12:23:28.628957+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/84d753260e6b160d3bedd2d3a3c05ed2.jpg",
+    "occhiello": "CORTE DEI CONTI INDAGA SPESE EDITORIA",
+    "lead_preview": "Roma, 23 settembre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9854859d4e922d55",
     "slug": "il-tesoro-italiano-sara-costretto-rispetto-alle-is-9854859d4e922d55",
     "title": "Ocse: manovra finanziaria con margini ridotti",
@@ -8211,24 +8226,6 @@
     "occhiello": "\"'O SANG. IL MIRACOLO DI SAN GENNARO\", AL CINEMA FEDE, TRADIZIONE E IDENTITÀ POP",
     "lead_preview": "SAN GENNARO AL CINEMA, MA NON A COSTO ZERO: IL FILM DI TROILO TRA FINANZIAMENTI PUBBLICI E MERCATO DEI SACRIMI Napoli, 1",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "edfe39099a34d917",
-    "slug": "champions-a-monaco-e-barcellona-le-finali-2028-e-2-edfe39099a34d917",
-    "title": "Champions: a monaco e barcellona le finali 2028 e 2029, conference 2028 a torino",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-15T10:29:29.700354+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/18/51f388e9cdd10369f5efc615d9921a6d.jpg",
-    "occhiello": "CHAMPIONS: A MONACO E BARCELLONA LE FINALI 2028 E 2029, CONFERENCE 2028 A TORINO",
-    "lead_preview": "Monaco, 15 settembre La UEFA ha assegnato le finali della Champions League 2028 e 2029 a Monaco e Barcellona, mentre la ",
-    "tags": [
-      "finali champions 2028 2029",
-      "uefa conference league 2028 torino"
-    ],
     "hero_eligible": true
   }
 ]
