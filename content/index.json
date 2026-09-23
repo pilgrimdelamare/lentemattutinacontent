@@ -1,5 +1,23 @@
 [
   {
+    "id": "04b4f4abd6faa60e",
+    "slug": "tajani-la-russia-lancia-attacchi-ibridi-litalia-di-04b4f4abd6faa60e",
+    "title": "Tajani: la Russia lancia attacchi ibridi, l'Italia difende le infrastrutture",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-23T21:58:25.987787+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/21/c275367ba93d73a70fd3ddb19b8844f8.jpg",
+    "occhiello": "MINACCE IBRIDE E SICUREZZA EUROPEA NEL MIRINO DELLA DIPLOMAZIA",
+    "lead_preview": "Roma, 23 settembre 2026. Antonio Tajani, in un intervento rilanciato dall'agenzia di stampa ANSA, ha dichiarato che le m",
+    "tags": [
+      "minacce ibride russia",
+      "sicurezza europea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f7cff52245136d7d",
     "slug": "calcio-galasso-49-anni-muore-a-viterbo-la-viterbes-f7cff52245136d7d",
     "title": "Calcio: Galasso, 49 anni, muore a Viterbo. La Viterbese piange il vice",
@@ -8192,24 +8210,6 @@
       "internati militari italiani",
       "fossato di bolzano",
       "memoria storica cancellata"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "73117c229758aec2",
-    "slug": "firenze-omaggia-fallaci-con-20mila-euro-di-tomba-g-73117c229758aec2",
-    "title": "Firenze omaggia oriana fallaci nei 20 anni dalla morte",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-15T12:29:26.089528+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/a21aeb126aa6cd6e55d3feb976fbd216.jpg",
-    "occhiello": "FIRENZE OMAGGIA ORIANA FALLACI NEI 20 ANNI DALLA MORTE",
-    "lead_preview": "Firenze, 15 settembre Oriana Fallaci è sepolta al cimitero degli Allori a Firenze dal 1993, e il suo nome ritorna in cit",
-    "tags": [
-      "vent'anni morte oriana fallaci",
-      "omaggio fiorenza oriana fallaci"
     ],
     "hero_eligible": true
   }
