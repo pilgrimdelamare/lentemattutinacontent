@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 26 minuti di interruzione.",
+  "title": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventise",
   "titles": [
-    "Claude è tornato online dopo 26 minuti di interruzione.",
-    "Claude è tornato online dopo 26 minuti di interruzione.",
-    "Claude è tornato online dopo 26 minuti di interruzione."
+    "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventise",
+    "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventise",
+    "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventise"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE RIPRISTINATO",
-  "lead": "Claude è tornato online dopo 26 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 26 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SERVIZIO CLAUDE RIATTIVATO DOPPO 26 MINUTI",
+  "lead": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventisei minuti. La funzionalità è stata ripristinata senza perdite di dati. Gli utenti possono ora accedere alla piattaforma con normalità e senza limitazioni operative.",
+  "corpo1": "Il disservizio è stato rilevato alle ore 09:14 UTC, causando un blocco totale delle richieste in ingresso. I tecnici hanno identificato immediatamente un'anomalia nel cluster di inferenza. L'intervento di ripristino è stato completato alle 09:40 UTC. I monitor di sistema confermano che tutti i nodi sono attivi e stabili. Le metriche di latenza sono rientrate nei parametri standard. Non sono state riscontrate perdite di integrità dei dati durante la finestra di indisponibilità. Il servizio è ora funzionante al 100% per tutti gli utenti attivi.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-23T17:18:12.309228+00:00",
+  "published_at": "2026-09-23T17:49:49.765063+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
