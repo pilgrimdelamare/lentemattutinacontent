@@ -1,20 +1,5 @@
 [
   {
-    "id": "980c0241bf42d354",
-    "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
-    "title": "Corte dei conti indaga spese editoria",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-09-23T12:23:28.628957+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/84d753260e6b160d3bedd2d3a3c05ed2.jpg",
-    "occhiello": "CORTE DEI CONTI INDAGA SPESE EDITORIA",
-    "lead_preview": "Roma, 23 settembre.",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "9854859d4e922d55",
     "slug": "il-tesoro-italiano-sara-costretto-rispetto-alle-is-9854859d4e922d55",
     "title": "Ocse: manovra finanziaria con margini ridotti",
@@ -26,6 +11,21 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/22/215224415-a9e62f2d-8f36-4fc8-967f-31499bd7339b.jpg",
     "occhiello": "OCSE: MANOVRA FINANZIARIA CON MARGINI RIDOTTI",
     "lead_preview": "Roma, 23 settembre. Stefano Scarpetta, capo economista dell’OCSE, ha avvertito che il governo Italiano dovrà affrontare ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
+    "id": "980c0241bf42d354",
+    "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
+    "title": "Corte dei conti indaga spese editoria",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-09-23T12:23:28.628957+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/84d753260e6b160d3bedd2d3a3c05ed2.jpg",
+    "occhiello": "CORTE DEI CONTI INDAGA SPESE EDITORIA",
+    "lead_preview": "Roma, 23 settembre.",
     "tags": [],
     "hero_eligible": true
   },
