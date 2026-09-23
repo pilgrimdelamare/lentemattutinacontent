@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è tornato online dopo 660 minuti di interruzione.",
+  "title": "Il servizio Claude risulta irraggiungibile da ventuno minuti. L'interruzione imp",
   "titles": [
-    "Claude è tornato online dopo 660 minuti di interruzione.",
-    "Claude è tornato online dopo 660 minuti di interruzione.",
-    "Claude è tornato online dopo 660 minuti di interruzione."
+    "Il servizio Claude risulta irraggiungibile da ventuno minuti. L'interruzione imp",
+    "Il servizio Claude risulta irraggiungibile da ventuno minuti. L'interruzione imp",
+    "Il servizio Claude risulta irraggiungibile da ventuno minuti. L'interruzione imp"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE RIPRISTINATO",
-  "lead": "Claude è tornato online dopo 660 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 660 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CRITICO: CLAUDE OFFLINE DA 21 MINUTI",
+  "lead": "Il servizio Claude risulta irraggiungibile da ventuno minuti. L'interruzione impedisce l'accesso alle interfacce chat e alle API per gli utenti italiani, bloccando le operazioni in corso e causando errori di connessione immediati.",
+  "corpo1": "Il sistema di monitoraggio ha rilevato un'interruzione totale del servizio a partire dalle ore correnti. Tutte le richieste inviate restituiscono errori di timeout o connetività negata. Le funzionalità di generazione testuale, analisi dati e integrazione API sono completamente compromesse. Gli utenti non possono avviare nuove sessioni né recuperare quelle attive. La piattaforma non risponde ai tentativi di autenticazione né agli aggiornamenti di stato. Si tratta di un guasto infrastrutturale che blocca l'intero ecosistema di sviluppo e utilizzo dell'assistente. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T10:23:21.453984+00:00",
+  "published_at": "2026-09-23T17:13:01.929847+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,21 +38,21 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Spotify è tornato online dopo 236 minuti di interruzione.",
+      "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Satispay è tornato online dopo 74 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
