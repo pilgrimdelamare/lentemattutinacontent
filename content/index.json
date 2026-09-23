@@ -1,5 +1,24 @@
 [
   {
+    "id": "b2d6557bdbde5e3b",
+    "slug": "amadeus-sfida-il-nine-torna-ad-amici-b2d6557bdbde5e3b",
+    "title": "Amadeus sfida il nine, torna ad amici",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-23T10:33:03.409775+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/26/1e1bd0efe6462f445c40b1f96cd28a17.jpg",
+    "occhiello": "AMADEUS SFIDA IL NINE, TORNA AD AMICI",
+    "lead_preview": "Milano, 23 settembre. Amadeus sarà \"commissario tecnico\" nella prossima edizione di Amici, il talent show di Maria De Fi",
+    "tags": [
+      "amadeus",
+      "amici",
+      "talent show"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6a386fe92092af03",
     "slug": "trump-accoglie-xi-sul-tarmac-il-summit-che-decider-6a386fe92092af03",
     "title": "Trump accoglie Xi sul tarmac: il summit che deciderà dazi e tecnologia",
@@ -319,21 +338,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/20/c7fa58ce4553ff63bfae45aae0f3daea.jpg",
     "occhiello": "IL \"SE\" DI SALVINI SUI CONTI PUBBLICI",
     "lead_preview": "Roma, 23 settembre. Il vicepremier Matteo Salvini ha dichiarato oggi che \"se non è lo scostamento ma è una legge di bila",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2d6557bdbde5e3b",
-    "slug": "amadeus-sfida-il-nine-torna-ad-amici-b2d6557bdbde5e3b",
-    "title": "Amadeus sfida il nine, torna ad amici",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-23T10:33:03.409775+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/26/1e1bd0efe6462f445c40b1f96cd28a17.jpg",
-    "occhiello": "AMADEUS SFIDA IL NINE, TORNA AD AMICI",
-    "lead_preview": "Milano, 23 settembre. Amadeus sarà \"commissario tecnico\" nella prossima edizione di Amici, il talent show di Maria De Fi",
     "tags": [],
     "hero_eligible": true
   },
