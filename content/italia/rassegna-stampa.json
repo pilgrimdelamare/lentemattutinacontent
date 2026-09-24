@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 18 settembre 2026",
+  "title": "Le prime pagine di oggi, giovedì 24 settembre 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 18 settembre 2026",
-    "Le prime pagine di oggi, venerdì 18 settembre 2026",
-    "Le prime pagine di oggi, venerdì 18 settembre 2026"
+    "Le prime pagine di oggi, giovedì 24 settembre 2026",
+    "Le prime pagine di oggi, giovedì 24 settembre 2026",
+    "Le prime pagine di oggi, giovedì 24 settembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI OGGI",
-  "lead": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, La Gazzetta dello Sport e il Corriere dello Sport aprono le loro edizioni con titoli che ruotano attorno a tre filoni principali: l’impiego di mezzi militari italiani in conflitti esteri, le tensioni politiche interne sul bilancio e le novità sportive. Il Corriere della Sera e La Stampa si concentrano sulla presenza navale e aerea italiana, La Repubblica evidenzia lo scambio tra Schlein e Meloni, Il Messaggero mette in luce la manovra economica, mentre le due testate sportive dedicano la copertina ai risultati calcistici.",
-  "corpo1": "Il Corriere della Sera apre con “Navi e jet, i due fronti dell'Italia”, un titolo che riporta l’impiego di navi mercantili italiani a Bab el‑Mandeb e di caccia italiani che “portano fuori dallo spazio aereo NATO” i droni russi. La Repubblica dedica la prima pagina all’energia e allo scambio tra Schlein e Meloni, includendo la risposta della premier alla lettera della segretaria del Pd: “Valuterò le proposte senza pregiudizi”, e menziona il piano di Crosetto per “scortare le navi italiane nel Mar Rosso”. La Stampa mette in primo piano le “navi italiane scortate nel Mar Rosso” con le parole di Crosetto sulla Marina militare, e riporta l’affermazione di Meloni sul non cedere alle provocazioni dei jet russi, aggiungendo un accenno allo stop al bollo auto nelle Regioni. Il Messaggero inizia con la “Manovra e la ‘caccia ai risparmi Pnrr’”, segnando 1,7 miliardi già destinati allo stop al bollo e altre economie dal Recovery, oltre a ricordare le missioni di scorta navale e aerea italiane contro gli Houthi e la Russia. La Gazzetta dello Sport titola “Nuovi gol, Juve” per la vittoria 5‑0 sul Nizza, con le prime reti di Alajbegovic, Woltamade e Celik e il ruolo di Nico González, e dedica spazio al Milan con “Amorim sotto tiro”. Il Corriere dello Sport, infine, apre con “Sblocco Juve” per la stessa partita, elencando gli autori dei gol e anticipando la sfida Roma‑Inter come “confronto di liv…”.",
-  "corpo2": "Tra gli altri titoli di rilievo, La Repubblica riporta il piano di Crosetto per la scorta navale, La Stampa accenna allo stop al bollo auto, Il Messaggero sottolinea la “caccia ai risparmi Pnrr”, La Gazzetta dello Sport evidenzia “Amorim sotto tiro” e il Corriere dello Sport anticipa la “sfida Roma‑Inter”. Il tema dominante della giornata è la presenza militare italiana all’estero affiancata da dibattiti economici e sportivi.",
+  "occhiello": "LE PRIME PAGINE ONU E NUCLEARE",
+  "lead": "I quotidiani italiani oggi convergono su due fronti principali: le tensioni internazionali al Palazzo di Vetro e l'approvazione definitiva del nucleare in Italia. Corriere della Sera, Repubblica e La Stampa dedicano ampio spazio agli interventi di Pezeshkian e Zelensky all'Assemblea generale dell'Onu, sottolineando le reazioni della delegazione americana. Il Messaggero e Il Sole 24 Ore mettono in risalto il via libera parlamentare alle centrali nucleari. Il Fatto Quotidiano e Libero si focalizzano sulla politica interna, citando il dibattito su scudi penali e manovra economica, mentre i quotidiani sportivi analizzano le mosse di mercato di Milan, Juventus e Inter.",
+  "corpo1": "Corriere della Sera apre con le guerre e le accuse al palco dell'Onu, mostrando le foto dei bambini vittime dei raid sull'Iran presentate da Pezeshkian durante l'uscita dei delegati americani. La Repubblica titola sulle dichiarazioni iraniane di non rinuncia al nucleare e sullo strappo Usa, accompagnate dalle parole di Zelensky che chiede di fermare Putin. La Stampa riporta l'intervento di Zelensky all'Onu e l'invito di Trump a Putin per il G20 di Miami, affiancando la notizia del decreto sul tetto agli stranieri a scuola. Il Messaggero pone la scuola in apertura, specificando che il governo risponde alle richieste del Colle, e cita la tragedia di un operaio morto al Colosseo. Il Sole 24 Ore dedica la prima pagina all'energia, con il via libera al ritorno del nucleare e i commenti del ministro Pichetto Fratin. Il Fatto Quotidiano evidenzia la volontà delle destre di scudare i ministri non eletti e critica la legge elettorale, mentre Libero si concentra sulla manovra economica e sulle dichiarazioni di Salvini e Giorgetti.",
+  "corpo2": "La Gazzetta dello Sport titola sull'interesse del Milan per Rabiot, Il Corriere dello Sport riporta l'intervista a Vincenzo Italiano e Tuttosport annuncia l'arrivo di Neto alla Juventus. Il Foglio descrive le dinamiche tra Xi, Trump e Kim Jong Un. Il Giornale celebra il ritorno del nucleare. La giornata è dominata dalla diplomazia internazionale e dalle riforme energetiche e scolastiche.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-09-18T05:46:02.086220+00:00",
+  "published_at": "2026-09-24T06:09:04.798179+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/50d507d1385c932c58d63446f7e2d89f159fca27/skytg24/it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre/corriere-della-sera-051512uh66k7g.jpg",
-    "source": "Corriere Della Sera",
-    "credit": "Prima pagina — Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/568bc145adb90734bcae09c137e8b8565d28bb7c/skytg24/it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre/CorSera.png",
+    "source": "Il Corriere Della Sera",
+    "credit": "Prima pagina — Il Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 18 settembre 2026",
+      "title": "Oroscopo di oggi, giovedì 24 settembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Previsioni meteo, perturbazione atlantica con piogge al centro-nord. da venerdì ",
-      "url": "/cronaca/previsioni-meteo-perturbazione-atlantica-con-piogg-5a2d14b5394228a7",
-      "id": "5a2d14b5394228a7",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/16/220542915-85ef2545-a139-4563-a94e-ac82d1a7bdec.jpg",
-      "image_type": "feed_image"
+      "title": "Scadenza 30 settembre: quinquies in attesa",
+      "url": "/economia/scadenza-30-settembre-quinquies-in-attesa-de35832586cb51a9",
+      "id": "de35832586cb51a9",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/23/204535676-b9d3972b-f932-407d-a4bd-73e63bf30faa.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Settimana europea della mobilità dal 16 al 22 settembre",
-      "url": "/economia/settimana-europea-della-mobilita-dal-16-al-22-sett-a165925baeffc69e",
-      "id": "a165925baeffc69e",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/10/9/5312fbd64212671135e33d259f8b0254.jpg",
-      "image_type": "image"
+      "title": "Serie c, salernitana-giugliano 1-0 nel turno del 19 settembre 2026",
+      "url": "/sport/calcio-un-solo-gol-decide-salernitana-ipoteca-il-s-c04f80b28c8b3a34",
+      "id": "c04f80b28c8b3a34",
+      "image_url": "https://sport.sky.it/assets/images/57bd826413d4ecb474006b270037b3964ed0d1d1/skysport/it/calcio/serie-c/video/2026/09/19/1125932_1789851635714_thumb_494.0000001_1789851764051.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
