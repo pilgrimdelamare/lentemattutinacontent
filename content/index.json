@@ -1,5 +1,24 @@
 [
   {
+    "id": "b52dad5b433f47b2",
+    "slug": "raid-aereo-su-kandahar-fiamme-nel-quartier-general-b52dad5b433f47b2",
+    "title": "Kandahar in fiamme: raid aereo colpisce il vertice dei talebani nel centro urbano",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-24T00:03:23.491400+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/9/9e88f822534d7fe618f266386c7291a4.jpg",
+    "occhiello": "UN INCENDIO A KANDAHAR DOPO UN ATTACCO DALL'ALTO",
+    "lead_preview": "Kandahar, 24 settembre 2026. Un raid aereo ha colpito Kandahar, seconda città dell'Afghanistan e capoluogo dell'omonima ",
+    "tags": [
+      "raid aereo",
+      "attacco militare",
+      "guerra afganistani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c3939ab1b198b990",
     "slug": "max-mara-sceglie-il-nonconformismo-concreto-a-mila-c3939ab1b198b990",
     "title": "Max mara sceglie il nonconformismo concreto a milano",
@@ -1736,24 +1755,6 @@
     "tags": [
       "missili su kyiv",
       "ospedale maternità colpito"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b52dad5b433f47b2",
-    "slug": "raid-aereo-su-kandahar-fiamme-nel-quartier-general-b52dad5b433f47b2",
-    "title": "Raid aereo su Kandahar: fiamme nel quartier generale dei talebani, caos nella città",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-24T00:03:23.491400+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/9/9e88f822534d7fe618f266386c7291a4.jpg",
-    "occhiello": "UN INCENDIO A KANDAHAR DOPO UN ATTACCO DALL'ALTO",
-    "lead_preview": "Kandahar, 24 settembre 2026. Un raid aereo ha colpito Kandahar, seconda città dell'Afghanistan e capoluogo dell'omonima ",
-    "tags": [
-      "raid kandahar",
-      "attacco talebani"
     ],
     "hero_eligible": true
   },
