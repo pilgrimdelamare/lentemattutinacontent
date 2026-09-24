@@ -1,5 +1,23 @@
 [
   {
+    "id": "ac024537c5d003fd",
+    "slug": "tennis-notizia-di-dolore-ac024537c5d003fd",
+    "title": "Tennis: Notizia di dolore",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-24T21:40:46.054241+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/f4364a7669dd48e1e7d6644739c49690acb9597b/skysport/it/tennis/2026/09/24/elena-pero-bertolucci-video/bertolucci_pero_ok.jpg",
+    "occhiello": "ADDIO A ELENA PERO, LA VOCE DEL TENNIS DI SKY",
+    "lead_preview": "Milano, 24 settembre 2026. La redazione di Sky Sport ha reso noto il decesso di Elena Pero, giornalista e voce storica d",
+    "tags": [
+      "morte elena pero",
+      "tennis sky"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b3b62a27f8125fb3",
     "slug": "la-presidente-del-messico-risponde-agli-stati-unit-b3b62a27f8125fb3",
     "title": "La presidente del messico risponde agli stati uniti",
@@ -7979,21 +7997,6 @@
       "serie c 2026",
       "calcio abruzzo-emilia"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9b3456ff7bea050a",
-    "slug": "ostiamare-ravenna-0-1-gol-e-highlights-9b3456ff7bea050a",
-    "title": "Ostiamare-ravenna 0-1: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-16T19:46:17.963746+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d8e2bcb0891026d7572fb2957706b1063e7fccaf/skysport/it/calcio/serie-c/video/2026/09/16/1125163_1789584397044_thumb_494.0000001_1789585420944.jpg",
-    "occhiello": "OSTIAMARE-RAVENNA 0-1: GOL E HIGHLIGHTS",
-    "lead_preview": "Ostia, 16 settembre La Serie C ha registrato un altro caso di promozione meritatissima e di bilancio che non regge il co",
-    "tags": [],
     "hero_eligible": true
   }
 ]
