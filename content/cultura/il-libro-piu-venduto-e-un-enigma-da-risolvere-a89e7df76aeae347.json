@@ -1,0 +1,59 @@
+{
+  "id": "a89e7df76aeae347",
+  "slug": "il-libro-piu-venduto-e-un-enigma-da-risolvere-a89e7df76aeae347",
+  "title": "Il libro più venduto è un enigma da risolvere",
+  "titles": [
+    "IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE",
+    "IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE",
+    "IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE"
+  ],
+  "title_winner": null,
+  "section": "cultura",
+  "occhiello": "IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE",
+  "lead": "Milano, 24 settembre.",
+  "corpo1": "Il mercato librario italiano celebra Murdoku di Manuel Garand come il libro più venduto dell'anno. L'opera, edita da Magazzini Salani, ha conquistato il pubblico proponendo una formula di enigmistica che unisce logica e intuizione, tanto da spingere la casa editrice a rilasciare un secondo volume il prossimo 13 ottobre. Questo nuovo capitolo promette di arricchire l'offerta con 80 casi inediti, ampliando ulteriormente la già nutrita schiera di appassionati. Il successo di Murdoku non è un fenomeno passeggero, ma una testimonianza di come la complessità intellettuale, se ben confezionata, possa attrarre milioni di lettori in un'epoca dominata dalla fruizione rapida dei contenuti.",
+  "corpo2": "In un panorama editoriale spesso dominato da saghe fantasy e romanzi rosa, l'affermazione di un libro di enigmistica come bestseller nazionale solleva interrogativi interessanti sullo Stato attuale della cultura popolare. Murdoku non è un semplice passatempo; richiede concentrazione, pazienza e un approccio analitico che stride con la velocità con cui solitamente consumiamo informazioni. Il fatto che quasi 59 milioni di italiani siano attratti da questa sfida intellettuale suggerisce una fame latente per contenuti che stimolino attivamente il pensiero critico, lontano dalla passività imposta da molti altri media. Se questo trend di acquisto si consolida, tra due anni il dibattito mainstream non potrà più ignorare come l'enigmistica, nella sua forma più moderna e impegnativa, stia ridefinendo il concetto stesso di bestseller in Italia.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "tommaso_riva_01",
+    "firma": "Tommaso Riva",
+    "sezione": "cultura"
+  },
+  "published_at": "2026-09-24T12:03:07.630129+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/b96bba7318dd0ab860e6e51393d20a0f.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE\",\n  \"description\": \"Milano, 24 settembre.\",\n  \"articleBody\": \"Milano, 24 settembre. Il mercato librario italiano celebra Murdoku di Manuel Garand come il libro più venduto dell'anno. L'opera, edita da Magazzini Salani, ha conquistato il pubblico proponendo una formula di enigmistica che unisce logica e intuizione, tanto da spingere la casa editrice a rilasciare un secondo volume il prossimo 13 ottobre. Questo nuovo capitolo promette di arricchire l'offerta con 80 casi inediti, ampliando ulteriormente la già nutrita schiera di appassionati. Il successo di Murdoku non è un fenomeno passeggero, ma una testimonianza di come la complessità intellettuale, se ben confezionata, possa attrarre milioni di lettori in un'epoca dominata dalla fruizione rapida dei contenuti. In un panorama editoriale spesso dominato da saghe fantasy e romanzi rosa, l'affermazione di un libro di enigmistica come bestseller nazionale solleva interrogativi interessanti sullo Stato attuale della cultura popolare. Murdoku non è un semplice passatempo; richiede concentrazione, pazienza e un approccio analitico che stride con la velocità con cui solitamente consumiamo informazioni. Il fatto che quasi 59 milioni di italiani siano attratti da questa sfida intellettuale suggerisce una fame latente per contenuti che stimolino attivamente il pensiero critico, lontano dalla passività imposta da molti altri media. Se questo trend di acquisto si consolida, tra due anni il dibattito mainstream non potrà più ignorare come l'enigmistica, nella sua forma più moderna e impegnativa, stia ridefinendo il concetto stesso di bestseller in Italia.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Tommaso Riva\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-09-24T12:03:07.630129+00:00\",\n  \"dateModified\": \"2026-09-24T12:03:07.630129+00:00\",\n  \"url\": \"https://lentemattutina.it/cultura/a89e7df76aeae347\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/cultura/a89e7df76aeae347\"\n  },\n  \"articleSection\": \"Cultura\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.ansa.it/webimages/img_1280x720/2026/9/24/b96bba7318dd0ab860e6e51393d20a0f.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "ANSA Cultura",
+  "source_type": "ansa",
+  "original_url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/09/24/murdoku-di-manuel-garand-e-il-libro-piu-venduto-in-italia-nel-2026_fb1ca5d8-ad49-4412-bd9a-01915766bb2b.html",
+  "related": [
+    {
+      "title": "Il libro del giorno: «Il resto dei tuoi sognidi Jill Santopolo»",
+      "url": "/cultura/libro-del-giorno-il-resto-dei-tuoi-sognidi-jill-santopo-20260924",
+      "id": "libro-20260924",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71pyng1w0rl__sl1500_-4e900.jpg?1787794099",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno: «Kumquatdi Enzo Verrengia»",
+      "url": "/cultura/libro-del-giorno-kumquatdi-enzo-verrengia-20260922",
+      "id": "libro-20260922",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/51rpjfbba2l__sl1469_-97329.jpg?1787870150",
+      "image_type": "url"
+    },
+    {
+      "title": "Il libro del giorno",
+      "url": "/cultura/libro-del-giorno-montagna-istruzioni-per-lusodi-giulia--20260920",
+      "id": "libro-20260920",
+      "image_url": "https://www.sololibri.net/local/cache-vignettes/L208xH312/61tt1bp3epl__sl1500_-a50ca.jpg?1787818536",
+      "image_type": "url"
+    }
+  ],
+  "hero_eligible": true
+}
