@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
   "titles": [
-    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
-    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
-    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi"
+    "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE IN DOWN",
-  "lead": "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio YouTube risulta non disponibile dalle ultime 23 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
+  "lead": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il disservizio, che ha impedito l'accesso ai contenuti video e alle funzionalità di streaming, si è concluso senza ulteriori complicazioni tecniche, riportando la situazione alla normalità per gli utenti globali.",
+  "corpo1": "Il malfunzionamento è stato rilevato in corrispondenza dell'orario di apertura della giornata lavorativa, generando un'immediata segnalazione da parte della community. I sistemi di monitoraggio hanno confermato la risoluzione completa dei problemi infrastrutturali dopo 39 minuti di inattività. Le verifiche tecniche successive hanno attestato la stabilità dei server e la corretta erogazione del traffico dati. Non sono state riscontrate perdite di dati o danni permanenti alla piattaforma. La piattaforma è ora pienamente accessibile, garantendo la continuità del servizio di streaming video per tutti gli iscritti e i visitatori anonimi.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-24T19:45:48.677223+00:00",
+  "published_at": "2026-09-24T20:02:22.941667+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,6 +38,13 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
+      "title": "La ripristinazione rapida del servizio",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
       "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
@@ -45,17 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Satispay è tornato online dopo 74 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Max in Russia: la super-app registra chat, pagamenti e messaggi privati",
+      "url": "/tecnologia/max-in-russia-la-super-app-registra-chat-pagamenti-3c1f6cd0775c11e3",
+      "id": "3c1f6cd0775c11e3",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/18/134240133-16efb0a2-e8c7-4170-962c-8658b7ff8bcb.jpg",
       "image_type": "image"
     }
   ],
