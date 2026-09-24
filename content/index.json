@@ -1,5 +1,22 @@
 [
   {
+    "id": "980c0241bf42d354",
+    "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
+    "title": "La Corte dei Conti inizia un'indagine sul sistema di aiuto alla pubblicità editoriale",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-09-23T12:23:28.628957+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/84d753260e6b160d3bedd2d3a3c05ed2.jpg",
+    "occhiello": "CORTE DEI CONTI INDAGA SPESE EDITORIA",
+    "lead_preview": "Roma, 23 settembre.",
+    "tags": [
+      "corte dei conti editoria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6e47bd9d55b42cc4",
     "slug": "linformativa-sui-cookie-di-ansa-copre-lo-spettacol-6e47bd9d55b42cc4",
     "title": "L'informativa sui cookie di ansa copre lo spettacolo ligure",
@@ -780,24 +797,6 @@
     "tags": [
       "carte dedicata a te",
       "reddito inps"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "980c0241bf42d354",
-    "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
-    "title": "La Corte dei Conti indaga sulla spesa pubblica per l'editoria",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-09-23T12:23:28.628957+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/84d753260e6b160d3bedd2d3a3c05ed2.jpg",
-    "occhiello": "CORTE DEI CONTI INDAGA SPESE EDITORIA",
-    "lead_preview": "Roma, 23 settembre.",
-    "tags": [
-      "corte dei conti",
-      "spesa editoria"
     ],
     "hero_eligible": true
   },
