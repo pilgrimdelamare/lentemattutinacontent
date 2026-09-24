@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "La ripristinazione rapida del servizio",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-09-23T17:49:49.765063+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIATTIVATO DOPPO 26 MINUTI",
+    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventisei minuti. La funzionalità è stata ripris",
+    "tags": [
+      "interruzione claude"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8be1a010446e91aa",
     "slug": "appalto-da-32-milioni-per-i-cask-nucleari-allester-8be1a010446e91aa",
     "title": "Appalto da 32 milioni per i cask nucleari all'estero",
@@ -1981,23 +1998,6 @@
     "tags": [
       "de laurentiis",
       "calcio italiano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude torna online: ventisei minuti di blackout zero, nessun dato perso",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-09-23T17:49:49.765063+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIATTIVATO DOPPO 26 MINUTI",
-    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo un'interruzione di ventisei minuti. La funzionalità è stata ripris",
-    "tags": [
-      "blackout claude"
     ],
     "hero_eligible": true
   },
