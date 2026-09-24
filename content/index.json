@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-24T20:02:22.941667+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
+    "lead_preview": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il dis",
+    "tags": [
+      "downtime",
+      "youtube",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "68a801d8deff3726",
     "slug": "spread-a-943-punti-litalia-risparmia-sugli-interes-68a801d8deff3726",
     "title": "Spread in calo: una breve tregua contabile, non per le famiglie",
@@ -7997,25 +8016,6 @@
       "calcio",
       "coach",
       "rivalry"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "13f8e34f916b8784",
-    "slug": "la-chiamata-alle-urne-di-putin-votate-per-la-duma-13f8e34f916b8784",
-    "title": "La chiamata alle urne di putin: “votate per la duma e vinceremo”",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-16T19:16:42.389780+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/16/205941720-d05c9325-23ec-482c-853c-897f65113abb.jpg",
-    "occhiello": "LA CHIAMATA ALLE URNE DI PUTIN: “VOTATE PER LA DUMA E VINCEREMO”",
-    "lead_preview": "Mosca, 16 settembre Vladimir Putin ha aperto il voto per la Duma di Stato con un discorso che ha trasformato la campagna",
-    "tags": [
-      "elezioni duma 2024",
-      "putin appello elettorale",
-      "campagna elettorale russa"
     ],
     "hero_eligible": true
   }
