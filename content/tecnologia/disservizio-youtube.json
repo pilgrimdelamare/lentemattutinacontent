@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 4",
+  "title": "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 4",
-    "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 4",
-    "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 4"
+    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
+    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi",
+    "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE ONLINE. SERVIZIO RIPRISTINATO.",
-  "lead": "YouTube è nuovamente accessibile agli utenti dopo un'interruzione che è durata 476 minuti. La piattaforma di video sharing ha ripreso a funzionare regolarmente.",
-  "corpo1": "Il disservizio ha avuto inizio alle ore 14:12 UTC e si è protratto per un totale di 476 minuti. Le operazioni di ripristino sono state completate con successo alle ore 22:18 UTC. La piena funzionalità della piattaforma è stata verificata. L'incidente è ora considerato risolto e il servizio è tornato alla normale operatività.",
+  "occhiello": "YOUTUBE IN DOWN",
+  "lead": "YouTube è irraggiungibile da 23 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio YouTube risulta non disponibile dalle ultime 23 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:37:46.297111+00:00",
+  "published_at": "2026-09-24T19:45:48.677223+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
+      "title": "Satispay è tornato online dopo 74 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     }
   ],
