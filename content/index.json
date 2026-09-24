@@ -1,5 +1,23 @@
 [
   {
+    "id": "ef7d6ca75758474e",
+    "slug": "quel-milione-di-famiglie-ignorate-dai-grandi-bonus-ef7d6ca75758474e",
+    "title": "Reforma del Reddito fondamentale annunciata dall'INPS",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-23T12:54:52.163547+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/a806b74c0d8dbc058a2a1978d035ee9b.jpg",
+    "occhiello": "QUEL MILIONE DI FAMIGLIE IGNORATE DAI GRANDI BONUS",
+    "lead_preview": "Roma, 23 settembre. In arrivo da ottobre le \"Carte Dedicata a te\", un sostegno economico di 500 euro destinato a 1.177.5",
+    "tags": [
+      "carte dedicata a te",
+      "reddito inps"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "980c0241bf42d354",
     "slug": "corte-dei-conti-indaga-spese-editoria-980c0241bf42d354",
     "title": "La Corte dei Conti indaga sulla spesa pubblica per l'editoria",
@@ -431,21 +449,6 @@
     "image_url": "https://www.ansa.it",
     "occhiello": "TAYLOR SWIFT LANCIA \"PATIENT ZERO\" DOPO IL MATRIMONIO",
     "lead_preview": "New York, 23 settembre. Taylor Swift ha annunciato oggi l'uscita del nuovo singolo \"Patient Zero\", primo inedito musical",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ef7d6ca75758474e",
-    "slug": "quel-milione-di-famiglie-ignorate-dai-grandi-bonus-ef7d6ca75758474e",
-    "title": "Quel milione di famiglie ignorate dai grandi bonus",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-23T12:54:52.163547+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/27/a806b74c0d8dbc058a2a1978d035ee9b.jpg",
-    "occhiello": "QUEL MILIONE DI FAMIGLIE IGNORATE DAI GRANDI BONUS",
-    "lead_preview": "Roma, 23 settembre. In arrivo da ottobre le \"Carte Dedicata a te\", un sostegno economico di 500 euro destinato a 1.177.5",
     "tags": [],
     "hero_eligible": true
   },
