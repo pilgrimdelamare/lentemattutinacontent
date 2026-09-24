@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 24 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-24T06:09:04.798179+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/568bc145adb90734bcae09c137e8b8565d28bb7c/skytg24/it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE ONU E NUCLEARE",
+    "lead_preview": "I quotidiani italiani oggi convergono su due fronti principali: le tensioni internazionali al Palazzo di Vetro e l'appro",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "271108c46a0f67a1",
     "slug": "settimo-posto-assoluto-per-attrazione-di-capitali-271108c46a0f67a1",
     "title": "Settimo posto assoluto per attrazione di capitali mobili",
@@ -5024,25 +5043,6 @@
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/9788832819571_0_0_424_0_75-7115e.jpg?1788084058",
     "image_type": "url",
     "hero_eligible": false
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 18 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-18T05:46:02.086220+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/50d507d1385c932c58d63446f7e2d89f159fca27/skytg24/it/cronaca/2026/09/18/prime-pagine-quotidiani-oggi-18-settembre/corriere-della-sera-051512uh66k7g.jpg",
-    "occhiello": "LE PRIME PAGINE DI OGGI",
-    "lead_preview": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, La Gazzetta dello Sport e il Corriere dello Sport apron",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
-    "hero_eligible": true
   },
   {
     "id": "3d07165407696328",
