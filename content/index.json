@@ -1,5 +1,24 @@
 [
   {
+    "id": "libro-20260924",
+    "slug": "libro-del-giorno-il-resto-dei-tuoi-sognidi-jill-santopo-20260924",
+    "title": "Il libro del giorno: «Il resto dei tuoi sognidi Jill Santopolo»",
+    "section": "cultura",
+    "occhiello": "Il libro del giorno",
+    "lead_preview": "...",
+    "journalist_firma": "Luca Mirtillo",
+    "published_at": "2026-09-24T07:00:37.163412+00:00",
+    "image": {
+      "type": "url",
+      "url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71pyng1w0rl__sl1500_-4e900.jpg?1787794099",
+      "alt": "Copertina: Il resto dei tuoi sognidi Jill Santopolo",
+      "cover": true
+    },
+    "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71pyng1w0rl__sl1500_-4e900.jpg?1787794099",
+    "image_type": "url",
+    "hero_eligible": false
+  },
+  {
     "id": "2ef3eaf419fc1583",
     "slug": "il-numero-uno-del-tennis-allonu-per-listruzione-2ef3eaf419fc1583",
     "title": "Jannik Sinner attiva per la Global Partnership for Education",
@@ -8198,21 +8217,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/10/11/e13a5bb8cb30746178d860a228af5d64.jpg",
     "occhiello": "PALETTI FI ALLA STRETTA SU CITTADINANZA DELLA LEGA, 'ESCLUSI REATI COLPOSI E MIN",
     "lead_preview": "Roma, 16 settembre 2026 La Lega sta trattando con il governo una modifica alla legge Zanotti sulla cittadinanza, che esc",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5863ab83f840bf49",
-    "slug": "le-nozze-di-figaro-allopera-di-roma-applausi-al-la-5863ab83f840bf49",
-    "title": "Le nozze di figaro all'opera di roma, applausi al labirinto di incroci amorosi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-16T10:45:27.420687+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/0ce1802963df226d5a527c1de6287aea.jpg",
-    "occhiello": "LE NOZZE DI FIGARO ALL'OPERA DI ROMA, APPLAUSI AL LABIRINTO DI INCROCI AMOROSI",
-    "lead_preview": "MAIUSCOLO Roma, 16 settembre 2026: l’Opera di Roma premia la cultura del consenso, non la qualità. Claus Guth dirige un ",
     "tags": [],
     "hero_eligible": true
   }
