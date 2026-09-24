@@ -1,5 +1,23 @@
 [
   {
+    "id": "9d69fdb5cf22883d",
+    "slug": "dali-e-la-moda-in-mostra-a-milano-9d69fdb5cf22883d",
+    "title": "Dali e la moda in mostra a milano",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-24T09:53:30.488584+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/f7e44db84ff27d2e5bd86c2045d82d31.jpg",
+    "occhiello": "DALI E LA MODA IN MOSTRA A MILANO",
+    "lead_preview": "Milano, 24 settembre 2026. Apre a Milano la mostra Dalì e La Moda, un percorso espositivo che raccoglie 200 opere e docu",
+    "tags": [
+      "mostra dali",
+      "dali e la moda"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "49a5c13036361314",
     "slug": "moto3-tech3-annuncia-la-nuova-coppia-di-piloti-per-49a5c13036361314",
     "title": "Moto3: Tech3 annuncia la nuova Coppia di piloti per Moto3",
@@ -8159,25 +8177,6 @@
       "italvolley europei 2026",
       "de giorgi strategia volley",
       "italia volley europei"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "06fa1b8ec62c494c",
-    "slug": "confindustria-lexport-resiste-e-cambia-geografia-l-06fa1b8ec62c494c",
-    "title": "Confindustria: l'export resiste e cambia geografia. l'asia traina, europa ferma",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-16T13:21:43.094231+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/5/5/81bca5041251c470d9ef881347e34e52.jpg",
-    "occhiello": "CONFINDUSTRIA: L'EXPORT RESISTE E CAMBIA GEOGRAFIA. L'ASIA TRAINA, EUROPA FERMA",
-    "lead_preview": "MAIUSCOLO L’EUROPA PERDE IL 9% DELLE VENDITE ITALIANE: IL MADE IN ITALY SI SPOSTA SU PECHINO E MOSCA Roma, 16 settembre ",
-    "tags": [
-      "export italia sem1 2023",
-      "made in italia asia",
-      "confindustria dati commercio"
     ],
     "hero_eligible": true
   }
