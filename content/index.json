@@ -1,5 +1,20 @@
 [
   {
+    "id": "a89e7df76aeae347",
+    "slug": "il-libro-piu-venduto-e-un-enigma-da-risolvere-a89e7df76aeae347",
+    "title": "Il libro più venduto è un enigma da risolvere",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-24T12:03:07.630129+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/b96bba7318dd0ab860e6e51393d20a0f.jpg",
+    "occhiello": "IL LIBRO PIÙ VENDUTO È UN ENIGMA DA RISOLVERE",
+    "lead_preview": "Milano, 24 settembre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "095ad74fa7dac34c",
     "slug": "raggiungiamo-il-massimo-spedizionamento-095ad74fa7dac34c",
     "title": "Raggiungiamo il Massimo spedizionamento",
@@ -8115,21 +8130,6 @@
       "campagna stellantis lusso",
       "collaborazione bocelli jennifer hudson"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "604983a85f06c079",
-    "slug": "sopravvissuti-cronache-di-seconde-occasioni-ripart-604983a85f06c079",
-    "title": "'sopravvissuti. cronache di seconde occasioni', ripartire dopo un trauma",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-16T15:14:25.601975+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/bf15ba56a23a71115df5c0ba6a4f8517.jpg",
-    "occhiello": "'SOPRAVVISSUTI. CRONACHE DI SECONDE OCCASIONI', RIPARTIRE DOPO UN TRAUMA",
-    "lead_preview": "MAIUSCOLO. GIORNALISTI DEL GRUPPO NEM: \"I FONDI PER IL LIBRO SONO SCOMPARSI DOPO IL VOTO\" Roma, 16 settembre. Dieci gior",
-    "tags": [],
     "hero_eligible": true
   }
 ]
