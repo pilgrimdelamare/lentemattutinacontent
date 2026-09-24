@@ -1,5 +1,23 @@
 [
   {
+    "id": "00df2b476c7eb42a",
+    "slug": "luscita-di-ghost-stories-e-il-muro-dei-cookie-sul-00df2b476c7eb42a",
+    "title": "L'uscita di ghost stories e il muro dei cookie sul sito ansa",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-24T10:02:22.721397+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/5383f09e9d02ab0af0ddc7ba405b5574.jpg",
+    "occhiello": "L'USCITA DI GHOST STORIES E IL MURO DEI COOKIE SUL SITO ANSA",
+    "lead_preview": "Roma, 24 settembre 2026. Siri Hustvedt pubblica il nuovo libro Ghost Stories mentre i lettori italiani che navigano sul ",
+    "tags": [
+      "ghost stories",
+      "paywall ansa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "27c207183426cb12",
     "slug": "la-direzione-del-partito-democratico-terra-la-sua-27c207183426cb12",
     "title": "Le regole della proroga cambiano prima del voto",
@@ -30,24 +48,6 @@
     "occhiello": "MANCHESTER UNITED, MESSE IN VENDITA LE ZOLLE DELL'OLD TRAFFORD",
     "lead_preview": "Manchester, 24 settembre 2026. Per far fronte a un indebitamento che supera il miliardo di sterline, il Manchester Unite",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "00df2b476c7eb42a",
-    "slug": "luscita-di-ghost-stories-e-il-muro-dei-cookie-sul-00df2b476c7eb42a",
-    "title": "L'uscita di ghost stories e il muro dei cookie sul sito ansa",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-24T10:02:22.721397+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/5383f09e9d02ab0af0ddc7ba405b5574.jpg",
-    "occhiello": "L'USCITA DI GHOST STORIES E IL MURO DEI COOKIE SUL SITO ANSA",
-    "lead_preview": "Roma, 24 settembre 2026. Siri Hustvedt pubblica il nuovo libro Ghost Stories mentre i lettori italiani che navigano sul ",
-    "tags": [
-      "ghost stories",
-      "paywall ansa"
-    ],
     "hero_eligible": true
   },
   {
