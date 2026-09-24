@@ -1,5 +1,23 @@
 [
   {
+    "id": "88d55956680d4097",
+    "slug": "la-voce-del-tennis-che-ha-raccontato-unepoca-88d55956680d4097",
+    "title": "La voce del tennis che ha raccontato un'epoca",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-24T21:42:19.827310+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/20de08b1ab8d58469fee63c21e4825c232f9fdbe/skysport/it/tennis/2026/09/24/elena-pero-carriera/elena_pero_redazione_sky.jpg",
+    "occhiello": "LA VOCE DEL TENNIS CHE HA RACCONTATO UN'EPOCA",
+    "lead_preview": "Milano, 24 settembre 2026. La giornalista Elena Pero traccia il bilancio di una carriera iniziata attraverso le pagine d",
+    "tags": [
+      "elena pero",
+      "giornalismo tennis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ac024537c5d003fd",
     "slug": "tennis-notizia-di-dolore-ac024537c5d003fd",
     "title": "Tennis: Notizia di dolore",
@@ -7977,25 +7995,6 @@
       "calcio lega pro guidonia",
       "stagione 2026-2027",
       "crisi economica squadre minori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8798a1d609e8ba9c",
-    "slug": "pineto-forli-1-1-gol-e-highlights-8798a1d609e8ba9c",
-    "title": "Pineto-forlì 1-1: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-16T19:49:09.815160+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/21abac4866b9bb3fbaefc8d99ab79cc64854c005/skysport/it/calcio/serie-c/video/2026/09/16/1125165_1789585235372_thumb_494.0000001_1789585421240.jpg",
-    "occhiello": "PINETO-FORLÌ 1-1: GOL E HIGHLIGHTS",
-    "lead_preview": "Teramo, 16 settembre 2026 Il comune di Pineto, ventiduesima Bandiera Blu del Mediterraneo e baluardo turistico dell’Adri",
-    "tags": [
-      "pineto-forlì 1-1",
-      "serie c 2026",
-      "calcio abruzzo-emilia"
     ],
     "hero_eligible": true
   }
