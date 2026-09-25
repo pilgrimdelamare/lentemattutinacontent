@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-25T23:28:00.823350+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "ad527519ab7feeed",
     "slug": "il-caso-tesseramento-finisce-al-di-fuori-del-perim-ad527519ab7feeed",
     "title": "Calcio: Malagò stigmatizza la burocrazia del tesseramento, lo scontro è politico",
@@ -8010,21 +8029,6 @@
       "forza italia lucania",
       "governatore lucania"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fa7ef137c3c8caf7",
-    "slug": "il-messico-taglia-le-accise-per-bloccare-i-rincari-fa7ef137c3c8caf7",
-    "title": "Messico: taglio alle accise sui carburanti per frenare la benzina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-19T19:39:50.864178+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/4fd135f8cf0b64829766a9b8d8554075.jpg",
-    "occhiello": "IL MESSICO TAGLIA LE ACCISE PER BLOCCARE I RINCARI DEI CARBURANTI",
-    "lead_preview": "Città del Messico, 19 settembre 2026. Il governo federale degli Stati Uniti Messicani ha deciso di tagliare le accise su",
-    "tags": [],
     "hero_eligible": true
   }
 ]
