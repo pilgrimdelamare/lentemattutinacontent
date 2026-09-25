@@ -1,5 +1,23 @@
 [
   {
+    "id": "7e2835e4a2d2ac20",
+    "slug": "partizan-belgrade-vincitore-sul-milano-7e2835e4a2d2ac20",
+    "title": "Partizan belgrade vincitore sul milano",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-25T21:13:22.463405+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/70256a1c72b77f4e62c31a0e8d8f7b71.jpg",
+    "occhiello": "PARTIZAN BELGRADE VINCITORE SUL MILANO",
+    "lead_preview": "Belgrado, 25 settembre.",
+    "tags": [
+      "partizan belgrado",
+      "milano basket"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c36365779d979e69",
     "slug": "pil-al-piu-zero-virgola-otto-e-deficit-al-tre-per-c36365779d979e69",
     "title": "Pil al più zero virgola otto e deficit al tre per cento",
@@ -8003,24 +8021,6 @@
     "occhiello": "IL MESSICO TAGLIA LE ACCISE PER BLOCCARE I RINCARI DEI CARBURANTI",
     "lead_preview": "Città del Messico, 19 settembre 2026. Il governo federale degli Stati Uniti Messicani ha deciso di tagliare le accise su",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0a58ce7bd8e8c31c",
-    "slug": "fischi-al-dallara-dopo-il-pari-con-il-torino-0a58ce7bd8e8c31c",
-    "title": "Fischi al dall'ara dopo il pari con il torino",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-19T19:21:32.032658+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/6325989d2a94d089a54bc96631b44d89.jpg",
-    "occhiello": "FISCHI AL DALL'ARA DOPO IL PARI CON IL TORINO",
-    "lead_preview": "Bologna, 19 settembre 2026. Il Bologna pareggia allo stadio Renato Dall'Ara contro il Torino e subisce la contestazione ",
-    "tags": [
-      "bologna torino",
-      "fischio dall'ara"
-    ],
     "hero_eligible": true
   }
 ]
