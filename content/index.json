@@ -1,5 +1,20 @@
 [
   {
+    "id": "3a1fc78031e48180",
+    "slug": "sette-virgola-sei-milioni-per-superga-3a1fc78031e48180",
+    "title": "Sette virgola sei milioni per superga",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-25T10:38:50.778056+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/0016d4683259c28454dcf317b0993cfc.jpg",
+    "occhiello": "SETTE VIRGOLA SEI MILIONI PER SUPERGA",
+    "lead_preview": "Torino, 25 settembre 2026. Partono i primi interventi di restauro sulla Basilica di Superga, sostenuti da un finanziamen",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8be1a010446e91aa",
     "slug": "appalto-da-32-milioni-per-i-cask-nucleari-allester-8be1a010446e91aa",
     "title": "Sogin spende 32 milioni: i cask per i rifiuti Nucleari arrivano dalla Germania",
@@ -7932,24 +7947,6 @@
     "occhiello": "DA GETTY A CAVANI A MORETTI PER IL LUCCA FILM FESTIVAL",
     "lead_preview": "Lucca, 18 settembre 2026. Balthazar Getty, Edinson Cavani e Nanni Moretti figurano tra i protagonisti della nuova edizio",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "00fb547e5c961d0f",
-    "slug": "oliiva-40-mln-da-ismea-per-i-frantoi-lo-stato-copr-00fb547e5c961d0f",
-    "title": "Oliiva: 40 mln da Ismea per i Frantoi, lo Stato copre i Prestiti alle Pmi",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-18T11:47:38.488557+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/18/d35ce9ac894370ce679fe740bb036182.jpg",
-    "occhiello": "QUARANTA MILIONI AI FRANTOI, IL CONTO È VOSTRO",
-    "lead_preview": "Roma, 18 settembre. Quaranta milioni di euro sono stati stanziati dal governo per la nuova \"Cambiale Frantoi Oleari\" Ism",
-    "tags": [
-      "frantoi oleari",
-      "isimea cambiale"
-    ],
     "hero_eligible": true
   }
 ]
