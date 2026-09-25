@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 24 settembre 2026",
+  "title": "Le prime pagine di oggi, venerdì 25 settembre 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 24 settembre 2026",
-    "Le prime pagine di oggi, giovedì 24 settembre 2026",
-    "Le prime pagine di oggi, giovedì 24 settembre 2026"
+    "Le prime pagine di oggi, venerdì 25 settembre 2026",
+    "Le prime pagine di oggi, venerdì 25 settembre 2026",
+    "Le prime pagine di oggi, venerdì 25 settembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE ONU E NUCLEARE",
-  "lead": "I quotidiani italiani oggi convergono su due fronti principali: le tensioni internazionali al Palazzo di Vetro e l'approvazione definitiva del nucleare in Italia. Corriere della Sera, Repubblica e La Stampa dedicano ampio spazio agli interventi di Pezeshkian e Zelensky all'Assemblea generale dell'Onu, sottolineando le reazioni della delegazione americana. Il Messaggero e Il Sole 24 Ore mettono in risalto il via libera parlamentare alle centrali nucleari. Il Fatto Quotidiano e Libero si focalizzano sulla politica interna, citando il dibattito su scudi penali e manovra economica, mentre i quotidiani sportivi analizzano le mosse di mercato di Milan, Juventus e Inter.",
-  "corpo1": "Corriere della Sera apre con le guerre e le accuse al palco dell'Onu, mostrando le foto dei bambini vittime dei raid sull'Iran presentate da Pezeshkian durante l'uscita dei delegati americani. La Repubblica titola sulle dichiarazioni iraniane di non rinuncia al nucleare e sullo strappo Usa, accompagnate dalle parole di Zelensky che chiede di fermare Putin. La Stampa riporta l'intervento di Zelensky all'Onu e l'invito di Trump a Putin per il G20 di Miami, affiancando la notizia del decreto sul tetto agli stranieri a scuola. Il Messaggero pone la scuola in apertura, specificando che il governo risponde alle richieste del Colle, e cita la tragedia di un operaio morto al Colosseo. Il Sole 24 Ore dedica la prima pagina all'energia, con il via libera al ritorno del nucleare e i commenti del ministro Pichetto Fratin. Il Fatto Quotidiano evidenzia la volontà delle destre di scudare i ministri non eletti e critica la legge elettorale, mentre Libero si concentra sulla manovra economica e sulle dichiarazioni di Salvini e Giorgetti.",
-  "corpo2": "La Gazzetta dello Sport titola sull'interesse del Milan per Rabiot, Il Corriere dello Sport riporta l'intervista a Vincenzo Italiano e Tuttosport annuncia l'arrivo di Neto alla Juventus. Il Foglio descrive le dinamiche tra Xi, Trump e Kim Jong Un. Il Giornale celebra il ritorno del nucleare. La giornata è dominata dalla diplomazia internazionale e dalle riforme energetiche e scolastiche.",
+  "occhiello": "LE PRIME PAGINE: GIAPPONE E COREA DEL SUD - ITALIA: SICUREZZA NAZIONALE.",
+  "lead": "Gli ultimi titoli di apertura dei principali giornali italiani del 25 settembre 2026 rappresentano il centro politica e sicurezza internazionale. Da un lato, Giappone e Corea del Sud, discordia militare; dall'altro, Italia, sicurezza nazionale e presidente di governo in discussione.",
+  "corpo1": "Il Corriere della Sera titola: “Gli Estremisti di destra e sinistra stanno lottando”. Il Corriere della Sera offre un'analisi delle confronti tra Giappone e Corea del Sud, evidenziando l'importanza della sicurezza nazionale per l'Italia. Lavoro sui rapporti tra l'Italia e la Russia, ma sembra che non esista risposta.",
+  "corpo2": "Il Tg24 titola: “Terra in guerra”. Il Tg24 foca sui rapporti tra Giappone e Corea del Sud, discorsi riservati tra Italia e Russia, e problemi sulla sicurezza nazionale.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,22 +23,22 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-09-24T06:09:04.798179+00:00",
+  "published_at": "2026-09-25T05:45:29.124811+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/568bc145adb90734bcae09c137e8b8565d28bb7c/skytg24/it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/b4c559efa20fc589a26e977e896be5a71ef8a257/skytg24/it/cronaca/2026/09/25/prime-pagine-quotidiani-oggi-25-settembre/cor.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/09/25/prime-pagine-quotidiani-oggi-25-settembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 24 settembre 2026",
+      "title": "Oroscopo di oggi, venerdì 25 settembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
@@ -52,11 +52,11 @@
       "image_type": "image"
     },
     {
-      "title": "Serie c, salernitana-giugliano 1-0 nel turno del 19 settembre 2026",
-      "url": "/sport/calcio-un-solo-gol-decide-salernitana-ipoteca-il-s-c04f80b28c8b3a34",
-      "id": "c04f80b28c8b3a34",
-      "image_url": "https://sport.sky.it/assets/images/57bd826413d4ecb474006b270037b3964ed0d1d1/skysport/it/calcio/serie-c/video/2026/09/19/1125932_1789851635714_thumb_494.0000001_1789851764051.jpg",
-      "image_type": "feed_image"
+      "title": "Stop al greenwashing: dal 27 settembre scattano i divieti sulle etichette",
+      "url": "/economia/nuove-leggi-per-proteggere-gli-indirizzi-della-sic-2a6fdce85c7894ca",
+      "id": "2a6fdce85c7894ca",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/e3c172628fbb1c46191caa61360857a0.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
