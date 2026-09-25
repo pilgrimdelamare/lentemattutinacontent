@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
+  "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-    "ChatGPT è tornato online dopo 191 minuti di interruzione."
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RIPRISTINATO",
-  "lead": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito ChatGPT è stato risolto. L'interruzione è durata circa 191 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-17T20:29:36.194650+00:00",
+  "published_at": "2026-09-25T23:28:00.823350+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,25 +38,25 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Le 5 novità di ios 27 che tutti dovrebbero conoscere",
-      "url": "/tecnologia/le-5-novita-di-ios-27-che-tutti-dovrebbero-conosce-5ff16a2541dd3abb",
-      "id": "5ff16a2541dd3abb",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/15/130855077-b48f2619-45d9-4768-9bb2-27e28eccf580.jpg",
+      "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Leverkusen-celjie 2-0: gol e highlights",
-      "url": "/sport/calcio-leverkusen-spende-62-milioni-in-trasferimen-072f38d59003ba6f",
-      "id": "072f38d59003ba6f",
-      "image_url": "https://sport.sky.it/assets/images/a83be818827516d46ea91027a98fcb59ef5790d2/skysport/it/calcio/europa-league/video/2026/09/16/1125198_1789594751253_thumb_494.0000001_1789595494068.jpg",
-      "image_type": "feed_image"
+      "title": "YouTube torna online: fine del black out di 39 minuti per tutti gli utenti",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
     },
     {
-      "title": "Anderlecht-lione 1-2: gol e highlights",
-      "url": "/sport/lione-trionfa-con-traore-la-difesa-dellanderlecht-c2c1aa2d2c019a5b",
-      "id": "c2c1aa2d2c019a5b",
-      "image_url": "https://sport.sky.it/assets/images/7693ba1d62cb790e9cf8d268a5dc943d8e61c3f6/skysport/it/calcio/europa-league/video/2026/09/16/1125195_1789594559893_thumb_494.0000001_1789595624325.jpg",
-      "image_type": "feed_image"
+      "title": "La ripristinazione rapida del servizio",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
     }
   ],
   "hero_eligible": false
