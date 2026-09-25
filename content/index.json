@@ -1,5 +1,20 @@
 [
   {
+    "id": "79268bd90fec4029",
+    "slug": "taiwan-replica-a-pechino-dopo-il-vertice-con-gli-s-79268bd90fec4029",
+    "title": "Taiwan replica a pechino dopo il vertice con gli stati uniti",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-25T08:40:44.981626+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/10/21/b91204609b9d476e8bbbafa430c0aed9.jpg",
+    "occhiello": "TAIWAN REPLICA A PECHINO DOPO IL VERTICE CON GLI STATI UNITI",
+    "lead_preview": "Taipei, 25 settembre 2026. Il ministero degli Esteri taiwanese ha replicato alle dichiarazioni di Pechino sulla question",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "680d3a8cbe65d73a",
     "slug": "il-dietro-le-quinte-della-formula-uno-tra-dati-e-s-680d3a8cbe65d73a",
     "title": "Il dietro le quinte della formula uno tra dati e strategia",
@@ -7915,24 +7930,5 @@
     "lead_preview": "Jerusalem, 17 settembre La regista israeliana di Naza, dopo aver ricevuto minacce alla propria abitazione, ha visto il g",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-17T20:29:36.194650+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIPRISTINATO",
-    "lead_preview": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
