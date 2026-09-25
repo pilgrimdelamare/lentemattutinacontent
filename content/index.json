@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "YouTube torna online: fine del black out di 39 minuti per tutti gli utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-09-24T20:02:22.941667+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
+    "lead_preview": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il dis",
+    "tags": [
+      "youtube",
+      "blackout",
+      "servizi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aa5564c4b10af6e6",
     "slug": "contratti-gas-a-amsterdam-decadono-a-7193-euro-aa5564c4b10af6e6",
     "title": "Contratti gas a Amsterdam decadono a 71,93 euro",
@@ -2520,21 +2539,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/9d58c6a92c718a856633aa811cb7b744.jpg",
     "occhiello": "QUATTROCENTO RAGAZZI A SKOPJE PER GIFFONI MACEDONIA",
     "lead_preview": "Skopje, 24 settembre 2026. Quattromila e più abitanti della capitale della Macedonia del Nord ospitano la rassegna Giffo",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_youtube",
-    "slug": "disservizio-youtube",
-    "title": "Youtube ritorna online dopo 39 minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-09-24T20:02:22.941667+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/youtube.com",
-    "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
-    "lead_preview": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il dis",
     "tags": [],
     "hero_eligible": true
   },
