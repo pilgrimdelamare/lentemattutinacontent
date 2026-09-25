@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 25 settembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-09-25T05:45:29.124811+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/b4c559efa20fc589a26e977e896be5a71ef8a257/skytg24/it/cronaca/2026/09/25/prime-pagine-quotidiani-oggi-25-settembre/cor.jpg",
+    "occhiello": "LE PRIME PAGINE: GIAPPONE E COREA DEL SUD - ITALIA: SICUREZZA NAZIONALE.",
+    "lead_preview": "Gli ultimi titoli di apertura dei principali giornali italiani del 25 settembre 2026 rappresentano il centro politica e ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e8e108f013aee715",
     "slug": "italia-in-semifinale-dopo-il-2-1-alla-cina-nella-b-e8e108f013aee715",
     "title": "Italia in semifinale dopo il 2-1 alla cina nella bjk cup",
@@ -2838,25 +2857,6 @@
       "amadeus",
       "amici",
       "maria de filippi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 24 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-24T06:09:04.798179+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/568bc145adb90734bcae09c137e8b8565d28bb7c/skytg24/it/cronaca/2026/09/24/prime-pagine-quotidiani-oggi-24-settembre/CorSera.png",
-    "occhiello": "LE PRIME PAGINE ONU E NUCLEARE",
-    "lead_preview": "I quotidiani italiani oggi convergono su due fronti principali: le tensioni internazionali al Palazzo di Vetro e l'appro",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
