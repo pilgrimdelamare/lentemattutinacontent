@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_youtube",
+    "slug": "disservizio-youtube",
+    "title": "Youtube ritorna online dopo 39 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-09-24T20:02:22.941667+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/youtube.com",
+    "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
+    "lead_preview": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il dis",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "10a9a11e73d94c8a",
     "slug": "premio-letterario-dimenticato-dietro-un-paywall-10a9a11e73d94c8a",
     "title": "Premio letterario dimenticato dietro un paywall",
@@ -2814,25 +2829,6 @@
     "lead_preview": "Roma, 24 settembre 2026. Il Consiglio dei ministri ha approvato un decreto-legge che fissa al trenta per cento il limite",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_youtube",
-    "slug": "disservizio-youtube",
-    "title": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-24T20:02:22.941667+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/youtube.com",
-    "occhiello": "YOUTUBE RITORNA ONLINE DOPO 39 MINUTI",
-    "lead_preview": "YouTube ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 39 minuti. Il dis",
-    "tags": [
-      "downtime",
-      "youtube",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "708f0278b48dbc3b",
