@@ -1,5 +1,23 @@
 [
   {
+    "id": "db847362605ccd6f",
+    "slug": "ladro-dei-libri-colpisce-latronico-in-una-raid-gio-db847362605ccd6f",
+    "title": "Ladro dei libri colpisce Latronico in una raid giornalistica Internazionale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-26T15:48:34.989963+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/5/20/569c8913f48147a1cec159df3c7df5f4.jpg",
+    "occhiello": "IL CASO DEL LADRO DI LIBRI COLPISCE ANCHE A LATRONICO",
+    "lead_preview": "Latronico, 26 settembre 2026. Secondo quanto riportato da ANSA, il ladro di libri è tornato a colpire inserendo tra le v",
+    "tags": [
+      "ladro di libri",
+      "latronico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "69d8af84dd0e7197",
     "slug": "decreto-scuola-latino-senza-fondi-e-precari-ignora-69d8af84dd0e7197",
     "title": "Signore all'alba: Giuseppe Valditara spiega il nuovo decreto Scuola",
@@ -8052,24 +8070,6 @@
     "occhiello": "LUTTO NEL CALCIO ITALIANO PER LA SCOMPARSA DI SANDRO MAZZOLA",
     "lead_preview": "Roma, 19 settembre. La Federazione Italiana Giuoco Calcio ha disposto un minuto di raccoglimento prima di tutte le manif",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "40adb1cb79136da6",
-    "slug": "ia-al-centro-del-festivalfilosopia-40adb1cb79136da6",
-    "title": "Ia al centro del festivalfilosopia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-19T18:41:01.152453+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/27373b0dcb0ccfc64987c2f234b8c2f2.jpg",
-    "occhiello": "IA AL CENTRO DEL FESTIVALFILOSOPIA",
-    "lead_preview": "Modena, 19 settembre 2026 – Festivalfilosofia ha annunciato l’adozione di algoritmi e intelligenza artificiale per gesti",
-    "tags": [
-      "festivalfilosofia modena",
-      "ia festival"
-    ],
     "hero_eligible": true
   }
 ]
