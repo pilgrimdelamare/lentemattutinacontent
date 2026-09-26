@@ -1,5 +1,20 @@
 [
   {
+    "id": "a31d3ecac1b301be",
+    "slug": "la-storia-di-edoardo-bove-diventa-un-film-a31d3ecac1b301be",
+    "title": "La storia di edoardo bove diventa un film",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-25T13:52:49.447998+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/5/4/e995052e6b999fd1e582d79ee3d95d1b.jpg",
+    "occhiello": "LA STORIA DI EDOARDO BOVE DIVENTA UN FILM",
+    "lead_preview": "Roma, 25 settembre 2026. La storia personale e sportiva di Edoardo Bove, centrocampista italiano attualmente in forza al",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f2b7f4447d5582bd",
     "slug": "wall-street-apre-in-positivo-con-il-dow-jones-a-01-f2b7f4447d5582bd",
     "title": "Wall Street inizia la settimana con un appuntamento positivo",
@@ -2860,21 +2875,6 @@
       "russell",
       "baku"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a31d3ecac1b301be",
-    "slug": "la-storia-di-edoardo-bove-diventa-un-film-a31d3ecac1b301be",
-    "title": "La storia di edoardo bove diventa un film",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-25T13:52:49.447998+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/5/4/e995052e6b999fd1e582d79ee3d95d1b.jpg",
-    "occhiello": "LA STORIA DI EDOARDO BOVE DIVENTA UN FILM",
-    "lead_preview": "Roma, 25 settembre 2026. La storia personale e sportiva di Edoardo Bove, centrocampista italiano attualmente in forza al",
-    "tags": [],
     "hero_eligible": true
   },
   {
