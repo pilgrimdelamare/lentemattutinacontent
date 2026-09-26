@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività ",
   "titles": [
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi"
+    "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività ",
+    "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività ",
+    "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 20 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO CHATGPT RIABILITATO COMPLETAMENTE",
+  "lead": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività dopo un'interruzione di cinquantacinque minuti. Gli utenti possono ora accedere normalmente a tutte le funzionalità senza limitazioni o errori di connessione.",
+  "corpo1": "Il disservizio si è manifestato in modo improvviso, causando l'impossibilità di generare risposte e l'instabilità delle sessioni attive. I sistemi di monitoraggio hanno registrato un picco di errori di rete per circa un'ora. Le infrastrutture di backend sono state stabilizzate e i carichi di lavoro sono stati ridistribuiti con successo. La verifica tecnica conferma che i server sono nuovamente raggiungibili e che la latenza è tornata ai livelli standard. Non sono segnalati ulteriori malfunzionamenti. L'accesso ai modelli linguistici è stato ripristinato in modo uniforme per tutti gli utenti attivi.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-25T23:28:00.823350+00:00",
+  "published_at": "2026-09-26T00:03:40.890634+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,13 +38,6 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
       "title": "YouTube torna online: fine del black out di 39 minuti per tutti gli utenti",
       "url": "/tecnologia/disservizio-youtube",
       "id": "monitor_youtube",
@@ -56,6 +49,13 @@
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
