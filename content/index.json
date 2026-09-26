@@ -1,5 +1,23 @@
 [
   {
+    "id": "7ddfea147ae52408",
+    "slug": "raid-russo-su-palazzo-di-uffici-a-kiev-7ddfea147ae52408",
+    "title": "3 Morti e 7 feriti nel bombardamento di Kiev",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-25T12:47:50.260617+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/ee4f43356c0e4429349a2b818e29578c.jpg",
+    "occhiello": "RAID RUSSO SU PALAZZO DI UFFICI A KIEV",
+    "lead_preview": "Kiev, 25 settembre 2026. Tre persone sono morte e sette sono rimaste ferite in seguito a un raid aereo russo che ha cent",
+    "tags": [
+      "raid kiev",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0390569d30895945",
     "slug": "designato-larbitro-inglese-per-la-nations-league-0390569d30895945",
     "title": "Designato l'arbitro inglese per la nations league",
@@ -2505,25 +2523,6 @@
     "occhiello": "IL PIANO DI PACE IRANIANO RESPINTO DALLA CASA BIANCA",
     "lead_preview": "Washington, 26 settembre 2026. Donald Trump ha ufficialmente respinto la proposta avanzata dall'Iran per cessare le osti",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7ddfea147ae52408",
-    "slug": "raid-russo-su-palazzo-di-uffici-a-kiev-7ddfea147ae52408",
-    "title": "Kiev sotto shock: 3 morti e 7 feriti nel raid su un Palazzo d'uffici Centrale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-25T12:47:50.260617+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/ee4f43356c0e4429349a2b818e29578c.jpg",
-    "occhiello": "RAID RUSSO SU PALAZZO DI UFFICI A KIEV",
-    "lead_preview": "Kiev, 25 settembre 2026. Tre persone sono morte e sette sono rimaste ferite in seguito a un raid aereo russo che ha cent",
-    "tags": [
-      "raid",
-      "guerra",
-      "uccisioni"
-    ],
     "hero_eligible": true
   },
   {
