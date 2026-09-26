@@ -1,5 +1,24 @@
 [
   {
+    "id": "c9fce1922f7484d7",
+    "slug": "quindici-proposte-sul-tavolo-e-la-giornata-ecotrek-c9fce1922f7484d7",
+    "title": "Rete Comuni: 15 proposte per EcoTrek e regole future per i giovani",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-09-25T09:53:38.586837+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/51f936ea36e2fb66fbf1394ad90bf6ad.jpg",
+    "occhiello": "QUINDICI PROPOSTE SUL TAVOLO E LA GIORNATA ECOTREK",
+    "lead_preview": "Roma, 25 settembre 2026. La Rete dei Comuni Sostenibili presenta quindici proposte per la sostenibilità e la Giornata Ec",
+    "tags": [
+      "rettifica climatica",
+      "rettifica energetica",
+      "rettifica giovani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "859ac91b3fb0cec2",
     "slug": "stop-ai-motori-euro-5-basta-inseguire-emergenze-co-859ac91b3fb0cec2",
     "title": "Stop ai motori euro 5: basta inseguire emergenze con deroghe e proroghe",
@@ -2118,24 +2137,6 @@
     "tags": [
       "decreto intelligenza artificiale",
       "ministero industria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c9fce1922f7484d7",
-    "slug": "quindici-proposte-sul-tavolo-e-la-giornata-ecotrek-c9fce1922f7484d7",
-    "title": "Rete Comuni Sostenibili: 15 proposte choc per costringere i giovani al verde",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-25T09:53:38.586837+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/51f936ea36e2fb66fbf1394ad90bf6ad.jpg",
-    "occhiello": "QUINDICI PROPOSTE SUL TAVOLO E LA GIORNATA ECOTREK",
-    "lead_preview": "Roma, 25 settembre 2026. La Rete dei Comuni Sostenibili presenta quindici proposte per la sostenibilità e la Giornata Ec",
-    "tags": [
-      "rete comuni sostenibili",
-      "giornata ecotrek"
     ],
     "hero_eligible": true
   },
