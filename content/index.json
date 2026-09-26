@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-09-26T00:03:40.890634+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO CHATGPT RIABILITATO COMPLETAMENTE",
+    "lead_preview": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività dopo un'interruzione di cinquantacinque ",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d2dbfc3776e9f606",
     "slug": "raffinerie-italiane-al-77-637-mln-di-tonnellate-tr-d2dbfc3776e9f606",
     "title": "Dieci raffinerie attive ma il sistema viaggia al trentiempo",
@@ -187,25 +206,6 @@
     "lead_preview": "Roma, 26 settembre. La Premier ha annunciato che, in caso di bocciatura delle preferenze nella nuova legge elettorale, s",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-25T23:28:00.823350+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 20 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "ad527519ab7feeed",
