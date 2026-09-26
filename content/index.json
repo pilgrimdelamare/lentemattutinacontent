@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "A.I. Libera: i server tornano online dopo 55 minuti di blackout totale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-09-26T00:03:40.890634+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO CHATGPT RIABILITATO COMPLETAMENTE",
+    "lead_preview": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività dopo un'interruzione di cinquantacinque ",
+    "tags": [
+      "blackout",
+      "chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cd614317e88f8b6f",
     "slug": "linformativa-sui-cookie-blocca-laccesso-alla-cultu-cd614317e88f8b6f",
     "title": "L'informativa sui cookie blocca l'accesso alla cultura",
@@ -2900,25 +2918,6 @@
       "dipendenza digitale"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-26T00:03:40.890634+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO CHATGPT RIABILITATO COMPLETAMENTE",
-    "lead_preview": "La piattaforma di intelligenza artificiale ha ripristinato la piena operatività dopo un'interruzione di cinquantacinque ",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "8da7c98793209343",
