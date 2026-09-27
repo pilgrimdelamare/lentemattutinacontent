@@ -1,5 +1,20 @@
 [
   {
+    "id": "b90674a8c37ce801",
+    "slug": "giganti-tech-contro-sovranita-digitale-b90674a8c37ce801",
+    "title": "Giganti tech contro sovranità digitale",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-27T13:07:20.244290+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/2/2/3e076a7f85b853e6d6081034c267436a.jpg",
+    "occhiello": "GIGANTI TECH CONTRO SOVRANITÀ DIGITALE",
+    "lead_preview": "Brasilia, 27 settembre. Meta, la multinazionale proprietaria di Facebook, ha sospeso per alcune ore gli annunci sul prof",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "580bb1186f0f0127",
     "slug": "a-montreal-la-gara-elite-maschile-dei-mondiali-di-580bb1186f0f0127",
     "title": "A montréal la gara elite maschile dei mondiali di ciclismo",
@@ -8137,25 +8152,6 @@
     },
     "image_url": "https://www.sololibri.net/local/cache-vignettes/L212xH312/51rpjfbba2l__sl1469_-97329.jpg?1787870150",
     "image_type": "url",
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-09-22T02:13:05.921926+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY IN DOWN",
-    "lead_preview": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
     "hero_eligible": false
   }
 ]
