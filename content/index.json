@@ -1,5 +1,24 @@
 [
   {
+    "id": "b60cb4f410e203d8",
+    "slug": "diplomazia-a-zagabria-o-propaganda-a-palazzo-chigi-b60cb4f410e203d8",
+    "title": "Diplomazia a zagabria o propaganda a palazzo chigi",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-09-27T16:43:17.715165+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/9/5/9d59a8d354206e3168f3b3a461d08d85.jpg",
+    "occhiello": "DIPLOMAZIA A ZAGABRIA O PROPAGANDA A PALAZZO CHIGI",
+    "lead_preview": "Roma, 27 settembre 2026. Giorgia Meloni trasforma un vertice bilaterale in Azerbaigian in un comizio sulle famiglie, bra",
+    "tags": [
+      "diplomazia",
+      "azienda pubblica",
+      "politica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1121233e76da4054",
     "slug": "evidentemente-il-ventaglio-e-il-nuovo-elemento-di-1121233e76da4054",
     "title": "Evidentemente il ventaglio è il nuovo elemento di fusione culturale",
@@ -8164,24 +8183,5 @@
     "lead_preview": "Roma, 23 settembre. Il vicepremier Matteo Salvini ha dichiarato oggi che \"se non è lo scostamento ma è una legge di bila",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260924",
-    "slug": "libro-del-giorno-il-resto-dei-tuoi-sognidi-jill-santopo-20260924",
-    "title": "Il libro del giorno: «Il resto dei tuoi sognidi Jill Santopolo»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "...",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-24T07:00:37.163412+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71pyng1w0rl__sl1500_-4e900.jpg?1787794099",
-      "alt": "Copertina: Il resto dei tuoi sognidi Jill Santopolo",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L206xH312/71pyng1w0rl__sl1500_-4e900.jpg?1787794099",
-    "image_type": "url",
-    "hero_eligible": false
   }
 ]
