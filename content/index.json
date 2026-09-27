@@ -1,5 +1,23 @@
 [
   {
+    "id": "fd1b40c412fc0e2b",
+    "slug": "aggiornamento-giorno-a-giorno---parlamento-dei-mil-fd1b40c412fc0e2b",
+    "title": "Aggiornamento giorno a giorno - Parlamento dei milanesi",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-27T17:14:08.626049+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0c33565c8cb0978c1ebac02cd8753531cd842991/skysport/it/calcio/serie-c/video/2026/09/27/1127548_1790521928664_thumb_494.0000001_1790523764513.jpg",
+    "occhiello": "OSTIAMARE E FORLÌ PAREGGIANO NELLA TERZA SERIE DEL CALCIO",
+    "lead_preview": "Roma, 27 settembre 2026. L'Ostiamare e il Forlì hanno pareggiato per uno a uno nella sfida valida per il campionato di S",
+    "tags": [
+      "serie c 2026",
+      "ostiamare forlì"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28a4474c422270fa",
     "slug": "trump-respinge-lofferta-di-teheran-sulla-fine-del-28a4474c422270fa",
     "title": "Trump respinge l'offerta di teheran sulla fine del conflitto",
@@ -8167,24 +8185,6 @@
     "tags": [
       "tregua trump xi",
       "dazi cina usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a137f8f968cefeb",
-    "slug": "xi-punta-a-frenare-i-dazi-intese-su-dazi-doganali-4a137f8f968cefeb",
-    "title": "Xi Jinping sperimenta positività dopo l'incontro a Washington",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-23T23:00:36.230967+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/6c49ca4d6cc1eac4e3f42acedf3f957f.jpg",
-    "occhiello": "BECHETTI: ACCORDI BILATERALI E TENSIONI GLOBALI",
-    "lead_preview": "Roma, 24 settembre 2026. Xi Jinping si è detto fiducioso in risultati fruttuosi dalla visita negli Stati Uniti, puntando",
-    "tags": [
-      "visita xi jingping",
-      "rapporti cina usa"
     ],
     "hero_eligible": true
   }
