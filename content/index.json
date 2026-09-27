@@ -1,5 +1,20 @@
 [
   {
+    "id": "affdceb94960a0cc",
+    "slug": "heslop-prende-il-titolo-a-polignano-affdceb94960a0cc",
+    "title": "Heslop prende il titolo a polignano",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-27T17:45:16.681394+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/fadc0ae39e4b132d0a4a701b27500c11.jpg",
+    "occhiello": "HESLOP PRENDE IL TITOLO A POLIGNANO",
+    "lead_preview": "Polignano a Mare, 27 settembre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8576a6bb415eb7aa",
     "slug": "faccia-a-faccia-a-new-york-tra-berlino-e-mosca-8576a6bb415eb7aa",
     "title": "Faccia a faccia a new york tra berlino e mosca",
@@ -8167,24 +8182,6 @@
     "occhiello": "IL CENTRO FEDERALE OSPITA IL SORTEGGIO DELLA UNITY EURO CUP",
     "lead_preview": "Firenze, 23 settembre 2026. Il Centro Tecnico Federale di Coverciano ospita il sorteggio della quinta edizione della Uni",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c3f25b30c4a0716b",
-    "slug": "missili-russi-su-kyiv-due-morti-un-ospedale-ostetr-c3f25b30c4a0716b",
-    "title": "Missili su Kyiv: l'ospedale di maternità distrutto, 2 morti e tre feriti tra le macerie",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-24T00:19:03.544362+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/20/8fb33011c66631f976a6bb1e3bccc864.jpg",
-    "occhiello": "KIEV SOTTO MISSILI, OSPEDALE MATERNITÀ COLPITO",
-    "lead_preview": "Kyiv, 24 settembre. Le forze russe hanno lanciato un attacco missilistico sulla capitale Ucraina nelle prime ore di giov",
-    "tags": [
-      "missili su kyiv",
-      "ospedale maternità colpito"
-    ],
     "hero_eligible": true
   }
 ]
