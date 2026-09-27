@@ -1,5 +1,23 @@
 [
   {
+    "id": "7979bc2d74910493",
+    "slug": "f1-russell-taglia-il-traguardo-a-baku-e-firma-la-v-7979bc2d74910493",
+    "title": "George Russell vince il GP di Baku",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-26T13:40:45.062387+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ab1e8bbba788fe099ee01a422b11186f5d681308/skysport/it/motori/formula-1/video/2026/09/26/1127331_1790427073792_thumb_494.0000001_1790427121620.jpg",
+    "occhiello": "GEORGE RUSSELL VINCE IL GRAN PREMIO DI AZERBAIJAN A BAKU",
+    "lead_preview": "Baku, 26 settembre 2026. George Russell ha vinto il Gran Premio di Formula 1 a Baku al termine di una volata serrata che",
+    "tags": [
+      "gp baku",
+      "george russell"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aa38e67262ec12d8",
     "slug": "giochi-doltralpe-tra-i-nomi-per-il-capitano-della-aa38e67262ec12d8",
     "title": "Giochi d'oltralpe: tra i nomi per il capitano della Foa",
@@ -1893,25 +1911,6 @@
     "tags": [
       "guerra ucraina",
       "attacco zaporizhzhia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7979bc2d74910493",
-    "slug": "f1-russell-taglia-il-traguardo-a-baku-e-firma-la-v-7979bc2d74910493",
-    "title": "George Russell vince il Gran Premio di Baku",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-26T13:40:45.062387+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ab1e8bbba788fe099ee01a422b11186f5d681308/skysport/it/motori/formula-1/video/2026/09/26/1127331_1790427073792_thumb_494.0000001_1790427121620.jpg",
-    "occhiello": "GEORGE RUSSELL VINCE IL GRAN PREMIO DI AZERBAIJAN A BAKU",
-    "lead_preview": "Baku, 26 settembre 2026. George Russell ha vinto il Gran Premio di Formula 1 a Baku al termine di una volata serrata che",
-    "tags": [
-      "formula1",
-      "granpremi",
-      "baku"
     ],
     "hero_eligible": true
   },
