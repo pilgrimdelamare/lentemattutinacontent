@@ -1,5 +1,23 @@
 [
   {
+    "id": "6f7051b2d8d824e9",
+    "slug": "campo-di-formazione-di-tirreno-calcio-6f7051b2d8d824e9",
+    "title": "Campo di formazione di Tirreno: Calcio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-09-27T20:50:49.441905+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/29/3b46012a2d7ea05b44bb8369ed17aa86.jpg",
+    "occhiello": "TIRRENIA PROVA L'ARMENIA TRA I CAMPI DI ALLENAMENTO",
+    "lead_preview": "Tirrenia, 27 settembre 2026. La selezione Under 21 si prepara all'impegno ufficiale contro l'Armenia affrontando in amic",
+    "tags": [
+      "italia under 21",
+      "tirrenia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5311f6c1f6298b15",
     "slug": "ventisette-morti-in-due-sparatorie-tra-johannesbur-5311f6c1f6298b15",
     "title": "Ventisette morti in due sparatorie tra johannesburg e cape town",
@@ -8175,25 +8193,6 @@
     "occhiello": "PECHINO, XI GELA TRUMP: TAIWAN È LA LINEA ROSSA",
     "lead_preview": "Pechino, 14 maggio 2026. Gli Stati Uniti e la Cina dovrebbero essere partner e non avversari, secondo quanto dichiarato ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f51705502530cf7c",
-    "slug": "cuba-le-riforme-al-microfono-del-presidente-f51705502530cf7c",
-    "title": "Díaz-Canel difende le riforme: i blackout restano e l'isola non ne può più",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-24T01:24:11.488981+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/0182e148e7ade3406b35b317a1fb387b.jpg",
-    "occhiello": "CUBA, LE RIFORME AL MICROFONO DEL PRESIDENTE",
-    "lead_preview": "Avana, 24 settembre 2026. Il Presidente cubano Miguel Díaz-Canel ha difeso le misure economiche varate dal governo duran",
-    "tags": [
-      "cuba",
-      "reforme",
-      "economia"
-    ],
     "hero_eligible": true
   }
 ]
