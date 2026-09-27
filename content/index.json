@@ -1,5 +1,23 @@
 [
   {
+    "id": "1623d6baeb1e69a1",
+    "slug": "i-bombardamenti-russo-attacco-zaporizhia-1623d6baeb1e69a1",
+    "title": "I bombardamenti russo attacco Zaporizhia",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-27T01:57:16.690352+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/99f08feb84e5de5fba06ea569669b52d.jpg",
+    "occhiello": "RAID A ZAPORIZZHIA: TRE MORTI E DIVERSI FERITI",
+    "lead_preview": "Roma, 27 settembre 2026. Attacchi russi colpiscono la città Ucraina di Zaporizhzhia, provocando tre morti e diversi feri",
+    "tags": [
+      "guerra ucraina",
+      "attacco zaporizhzhia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7979bc2d74910493",
     "slug": "f1-russell-taglia-il-traguardo-a-baku-e-firma-la-v-7979bc2d74910493",
     "title": "George Russell vince il Gran Premio di Baku",
@@ -8108,21 +8126,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/9/4a0e5b18a5adabcdcd31aa5d677bdb70.jpg",
     "occhiello": "INDAGATO IL PRESIDENTE DEL PSG PER CONFLITTO DI INTERESSI",
     "lead_preview": "Parigi, 20 settembre 2026. Nasser al-Khelaifi, Presidente del Paris Saint-Germain, risulta indagato nell'ambito di un'in",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cfbd7b930b6fd0c1",
-    "slug": "nuoto-limpresa-della-cinese-yu-campionessa-dasia-cfbd7b930b6fd0c1",
-    "title": "Nuoto: Yu Ying si impone alla Coppa d'Asia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-20T11:02:53.898982+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/8/3/4a93a17d2ee92570aaf11b3348608e13.jpg",
-    "occhiello": "NUOTO: L'IMPRESA DELLA CINESE YU CAMPIONESSA D'ASIA",
-    "lead_preview": "Roma, 20 settembre 2026. La nuotatrice cinese Yu ha conquistato il titolo di campionessa d'Asia a soli tredici anni, sta",
     "tags": [],
     "hero_eligible": true
   }
