@@ -1,5 +1,24 @@
 [
   {
+    "id": "e89c213b4fdbfe5d",
+    "slug": "benzina-al-19-e-gasolio-al-27-laumento-brucia-le-t-e89c213b4fdbfe5d",
+    "title": "ENI taglia i prezz, ma il gasolio schizza del 27%: il conto è salato",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-27T10:57:21.262749+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/7f25ddb1f4c0c41a2bb5c19beb8913dd.jpg",
+    "occhiello": "BENZINA E DIESEL: +19,2% E +27,3% DAL NIZIO DELLA GUERRA",
+    "lead_preview": "Milano, 27 settembre 2026. L'aumento dei carburanti registrato dall'inizio della guerra tra Stati Uniti e Iran pesa sui ",
+    "tags": [
+      "energia",
+      "prezzi carburanti",
+      "guerra iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "84fdec861cf03c1a",
     "slug": "cantieri-tav-blindati-in-piemonte-contro-le-protes-84fdec861cf03c1a",
     "title": "Cantieri tav blindati in piemonte contro le proteste",
@@ -2754,24 +2773,6 @@
       "aeroporti",
       "puntualità voli",
       "aviazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e89c213b4fdbfe5d",
-    "slug": "benzina-al-19-e-gasolio-al-27-laumento-brucia-le-t-e89c213b4fdbfe5d",
-    "title": "Benzina al 19% e gasolio al 27%: l'aumento brucia le tasche degli italiani",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-27T10:57:21.262749+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/7f25ddb1f4c0c41a2bb5c19beb8913dd.jpg",
-    "occhiello": "BENZINA E DIESEL: +19,2% E +27,3% DAL NIZIO DELLA GUERRA",
-    "lead_preview": "Milano, 27 settembre 2026. L'aumento dei carburanti registrato dall'inizio della guerra tra Stati Uniti e Iran pesa sui ",
-    "tags": [
-      "guerra iran",
-      "prezzi carburanti"
     ],
     "hero_eligible": true
   },
