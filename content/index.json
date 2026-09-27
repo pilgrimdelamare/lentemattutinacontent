@@ -1,5 +1,24 @@
 [
   {
+    "id": "1623d6baeb1e69a1",
+    "slug": "i-bombardamenti-russo-attacco-zaporizhia-1623d6baeb1e69a1",
+    "title": "Zaporizhzhia: raid russi, tre morti e fiamme tra le macerie dei quartieri",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-27T01:57:16.690352+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/99f08feb84e5de5fba06ea569669b52d.jpg",
+    "occhiello": "RAID A ZAPORIZZHIA: TRE MORTI E DIVERSI FERITI",
+    "lead_preview": "Roma, 27 settembre 2026. Attacchi russi colpiscono la città Ucraina di Zaporizhzhia, provocando tre morti e diversi feri",
+    "tags": [
+      "raid",
+      "guerra",
+      "uccisioni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8e3340741dc3c8b3",
     "slug": "centinaia-di-manifestanti-accampati-in-puerta-del-8e3340741dc3c8b3",
     "title": "Centinaia di manifestanti accampati in puerta del sol per il diritto alla casa",
@@ -1782,24 +1801,6 @@
     "tags": [
       "infortunio mbappé",
       "ginocchio mbappé"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1623d6baeb1e69a1",
-    "slug": "i-bombardamenti-russo-attacco-zaporizhia-1623d6baeb1e69a1",
-    "title": "Dalla Russia a Zaporizhia: macerie e vittime",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-27T01:57:16.690352+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/23/99f08feb84e5de5fba06ea569669b52d.jpg",
-    "occhiello": "RAID A ZAPORIZZHIA: TRE MORTI E DIVERSI FERITI",
-    "lead_preview": "Roma, 27 settembre 2026. Attacchi russi colpiscono la città Ucraina di Zaporizhzhia, provocando tre morti e diversi feri",
-    "tags": [
-      "guerra ucraina",
-      "raid zaporizhzhia"
     ],
     "hero_eligible": true
   },
