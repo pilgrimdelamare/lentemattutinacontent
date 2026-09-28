@@ -1,5 +1,20 @@
 [
   {
+    "id": "abdd76fbc55dd979",
+    "slug": "primo-astronauta-straniero-sulla-stazione-spaziale-abdd76fbc55dd979",
+    "title": "Primo astronauta straniero sulla stazione spaziale cinese",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-28T20:51:21.682119+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/25/cbee8d5c52b13c17a290852bae4cdde2.jpg",
+    "occhiello": "PRIMO ASTRONAUTA STRANIERO SULLA STAZIONE SPAZIALE CINESE",
+    "lead_preview": "Pechino, 28 settembre 2026. Per la prima volta nella storia del programma spaziale di Pechino, un astronauta straniero s",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c600c95fe996e828",
     "slug": "isoradio-ospita-anna-carlucci-nel-programma-condot-c600c95fe996e828",
     "title": "Isoradio ospita anna carlucci nel programma condotto da elisabetta",
@@ -8191,21 +8206,6 @@
       "fibercop",
       "nespolo ad"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3c7bdcd673fc9212",
-    "slug": "le-polemiche-sui-test-della-motogp-2027-e-i-bilanc-3c7bdcd673fc9212",
-    "title": "Superbike: Bulega risponde a Espargaró sui Test Ducati 2027 a Cremona",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-24T16:34:11.979105+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bd050fde7cbd7cb00268058e7944095a185f7118/skysport/it/motori/motogp/2026/09/24/motogp-nicolo-bulega-pol-espargaro-ducati-2027/bulega_box_ipa.jpg",
-    "occhiello": "LE POLEMICHE SUI TEST DELLA MOTOGP 2027 E I BILANCI",
-    "lead_preview": "Cremona, 24 settembre 2026. Il pilota Nicolò Bulega ha risposto alle critiche di Pol Espargaró riguardo al suo coinvolgi",
-    "tags": [],
     "hero_eligible": true
   }
 ]
