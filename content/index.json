@@ -1,5 +1,23 @@
 [
   {
+    "id": "e89c213b4fdbfe5d",
+    "slug": "benzina-al-19-e-gasolio-al-27-laumento-brucia-le-t-e89c213b4fdbfe5d",
+    "title": "Benzina +19%, diesel +27%: l'enorme aumento che punita i portafogli degli italiani",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-27T10:57:21.262749+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/7f25ddb1f4c0c41a2bb5c19beb8913dd.jpg",
+    "occhiello": "BENZINA E DIESEL: +19,2% E +27,3% DAL NIZIO DELLA GUERRA",
+    "lead_preview": "Milano, 27 settembre 2026. L'aumento dei carburanti registrato dall'inizio della guerra tra Stati Uniti e Iran pesa sui ",
+    "tags": [
+      "guerra iran",
+      "prezzi carburanti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e5c70586222c9391",
     "slug": "ricorda-viaggiare-al-volo-e-piu-efficiente-dellatt-e5c70586222c9391",
     "title": "Trenta aeri su cento partono in ritardo sui cieli europei",
@@ -1785,25 +1803,6 @@
     "tags": [
       "compleanno totti",
       "las vegas"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e89c213b4fdbfe5d",
-    "slug": "benzina-al-19-e-gasolio-al-27-laumento-brucia-le-t-e89c213b4fdbfe5d",
-    "title": "ENI taglia i prezz, ma il gasolio schizza del 27%: il conto è salato",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-27T10:57:21.262749+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/7f25ddb1f4c0c41a2bb5c19beb8913dd.jpg",
-    "occhiello": "BENZINA E DIESEL: +19,2% E +27,3% DAL NIZIO DELLA GUERRA",
-    "lead_preview": "Milano, 27 settembre 2026. L'aumento dei carburanti registrato dall'inizio della guerra tra Stati Uniti e Iran pesa sui ",
-    "tags": [
-      "energia",
-      "prezzi carburanti",
-      "guerra iran"
     ],
     "hero_eligible": true
   },
