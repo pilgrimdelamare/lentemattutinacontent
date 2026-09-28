@@ -1,5 +1,20 @@
 [
   {
+    "id": "cc8b02723eaa3300",
+    "slug": "drone-russo-travolge-posto-di-frontiera-polacco-cc8b02723eaa3300",
+    "title": "Drone russo travolge posto di frontiera polacco",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-28T19:39:57.608289+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/29/1a243fb17321dd6801faa706a8d1005a.jpg",
+    "occhiello": "DRONE RUSSO TRAVOLGE POSTO DI FRONTIERA POLACCO",
+    "lead_preview": "Varsavia, 28 settembre. Un drone russo ha danneggiato un posto di frontiera situato al confine tra Polonia e Ucraina. L'",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ecfd47793cb29201",
     "slug": "tagli-sui-carburanti-e-richieste-di-estensioni-ecfd47793cb29201",
     "title": "Tagli sui carburanti e richieste di estensioni",
@@ -8182,25 +8197,6 @@
       "murdoku",
       "libro venduto",
       "enigma"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d54cb89c83982bba",
-    "slug": "il-documentario-su-naza-sara-gratis-a-novembre-d54cb89c83982bba",
-    "title": "Regista Naza: documentario gratis online a novembre, addio ai costi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-24T12:06:26.586834+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/12/8722c66caf556b80106f8f6c612280d5.jpg",
-    "occhiello": "IL DOCUMENTARIO SU NAZA SARÀ GRATIS A NOVEMBRE",
-    "lead_preview": "Roma, 24 settembre. Il regista del documentario dedicato a Naza ha annunciato che l'opera sarà visibile gratuitamente on",
-    "tags": [
-      "documentario",
-      "naza",
-      "gratuito"
     ],
     "hero_eligible": true
   }
