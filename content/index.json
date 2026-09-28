@@ -1,5 +1,20 @@
 [
   {
+    "id": "b3b0e2f09734ee62",
+    "slug": "gli-scritti-inediti-di-giulio-regeni-prima-del-cai-b3b0e2f09734ee62",
+    "title": "Gli scritti inediti di giulio regeni prima del cairo",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-09-28T01:33:09.221614+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/27/231252030-4dfd1a5f-a7f5-4c44-856c-475bf5f8a7c1.jpg",
+    "occhiello": "GLI SCRITTI INEDITI DI GIULIO REGENI PRIMA DEL CAIRO",
+    "lead_preview": "Roma, 28 settembre 2026. Gli scritti redatti da Giulio Regeni prima della sua partenza per il Cairo documentano la piena",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "177636ea607705cf",
     "slug": "un-patentino-a-punti-per-accedere-al-web-a-sedici-177636ea607705cf",
     "title": "Un patentino a punti per accedere al web a sedici anni",
@@ -8186,24 +8201,6 @@
     "occhiello": "ITALIANO SCOPRE ISTANBUL E RIMPIANGE LA JUVENTUS",
     "lead_preview": "Istanbul, 24 settembre 2026. Vincenzo Italiano ha iniziato la sua avventura al Besiktas, raccontando al Corriere dello S",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "cf0e070a3f07cce4",
-    "slug": "unico-seggio-a-novgorod-per-yabloko-a-pesare-sulla-cf0e070a3f07cce4",
-    "title": "Yabloko rompe l'assedio: un seggio a Novgorod contro il muro di Mosca",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-24T09:00:54.870353+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/22/1790069852-AP26263433591354.jpg",
-    "occhiello": "UN SEGGIOLINO DI OPPOSIZIONE NELLA MOSSA DEL REGIME RUSSO",
-    "lead_preview": "Mosca, 23 settembre 2026. Nelle elezioni legislative russe tenute dal 18 al 20 settembre 2026, il partito di opposizione",
-    "tags": [
-      "elezioni russe 2026",
-      "yabloko novgorod"
-    ],
     "hero_eligible": true
   }
 ]
