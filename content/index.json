@@ -1,5 +1,24 @@
 [
   {
+    "id": "23ef6b8b03c6911f",
+    "slug": "gli-americani-aprono-un-nodo-per-la-gennaio-se-lit-23ef6b8b03c6911f",
+    "title": "Gli americani aprono un nodo per la Gennaio, se l'Italia si comporta correttamente",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-29T14:40:39.862478+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/25f7021782946aba6e70ec9a994c3e6c.jpg",
+    "occhiello": "IL DOSSIER EUROPEO E IL NODO DELLO IMPIANTISTICA",
+    "lead_preview": "Roma, 29 settembre 2026. L'inserimento dello stadio di Roma all'interno del dossier per la candidatura di Euro 2032 è st",
+    "tags": [
+      "euro 2032",
+      "candidatura italia",
+      "stadio roma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "de081a65804aba65",
     "slug": "cookie-e-box-pubblicitari-nella-notizia-ansa-de081a65804aba65",
     "title": "Cookie e box pubblicitari nella notizia ansa",
@@ -8240,24 +8259,5 @@
       "libia turchia"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "libro-20260926",
-    "slug": "libro-del-giorno-dossier-wunderwaffen-unarma-segreta-de-20260926",
-    "title": "Il libro del giorno: «Dossier Wunderwaffen. Un’arma segreta del Terzo Reich è pronta a rinasceredi Angelo La Sorte»",
-    "section": "cultura",
-    "occhiello": "Il libro del giorno",
-    "lead_preview": "...",
-    "journalist_firma": "Luca Mirtillo",
-    "published_at": "2026-09-26T07:01:08.733671+00:00",
-    "image": {
-      "type": "url",
-      "url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/lasorte_dossier_wunderwaffen-70091.jpg?1787792935",
-      "alt": "Copertina: Dossier Wunderwaffen. Un’arma segreta del Terzo Reich è pronta a rinasceredi Angelo La Sorte",
-      "cover": true
-    },
-    "image_url": "https://www.sololibri.net/local/cache-vignettes/L220xH312/lasorte_dossier_wunderwaffen-70091.jpg?1787792935",
-    "image_type": "url",
-    "hero_eligible": false
   }
 ]
