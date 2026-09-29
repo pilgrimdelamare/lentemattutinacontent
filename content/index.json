@@ -1,5 +1,24 @@
 [
   {
+    "id": "b1b0dcb96739dc4b",
+    "slug": "shein-afferra-leconomia-hong-kong-b1b0dcb96739dc4b",
+    "title": "Shein afferra l'economia Hong Kong",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-09-29T15:19:51.966925+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/d37a8f17734363b8aa668a254d5f0c3a.jpg",
+    "occhiello": "SHEIN CROLLA DELL'11,7% A HONG KONG DOPO IL CALO DEGLI UTILI",
+    "lead_preview": "Hong Kong, 29 settembre 2026. La piattaforma globale di e-commerce Shein ha registrato un crollo dell'11,7% alla Borsa d",
+    "tags": [
+      "economia",
+      "borsa",
+      "e-commerce"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f4ca48817f3e5ba2",
     "slug": "sacra-scoperta-liniziativa-per-la-accessibilita-al-f4ca48817f3e5ba2",
     "title": "Sacra scoperta: L’iniziativa per la accessibilità all’abbatto delle barriere al Sacro Palatium",
@@ -8255,24 +8274,6 @@
     "tags": [
       "incontro trump xi",
       "dichiarazione trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f2b7f4447d5582bd",
-    "slug": "wall-street-apre-in-positivo-con-il-dow-jones-a-01-f2b7f4447d5582bd",
-    "title": "Wall street apre in positivo con il dow jones a +0,15%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-25T13:53:50.520009+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/42a49dcb16d503dc861ac4232dd5bd1b.jpg",
-    "occhiello": "WALL STREET APRE IN POSITIVO CON IL DOW JONES A +0,15%",
-    "lead_preview": "New York, 25 settembre 2026. Wall Street ha aperto la seduta odierna in territorio positivo, trainata da un rialzo dello",
-    "tags": [
-      "wall street",
-      "dow jones"
     ],
     "hero_eligible": true
   }
