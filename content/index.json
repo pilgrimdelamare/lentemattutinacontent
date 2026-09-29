@@ -1,5 +1,23 @@
 [
   {
+    "id": "068e229c7bc01c4d",
+    "slug": "colonizzatori-e-forze-di-polizia-combatterono-a-sp-068e229c7bc01c4d",
+    "title": "Colonizzatori e forze di polizia combatterono a spada.co",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-29T15:51:25.773958+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/32dc98a767d361e5b97fb33de728613d.jpg",
+    "occhiello": "SCONTRI TRA COLONI E FORZE DI SICUREZZA IN CISGIORDANIA",
+    "lead_preview": "Roma, 29 settembre 2026. Scontri si sono registrati tra coloni e forze di Sicurezza in Cisgiordania, come riportato dall",
+    "tags": [
+      "scontri cisgiordania",
+      "coloni israeliani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "44b0eb8406203352",
     "slug": "teheran-chiude-il-dossier-nucleare-e-rilancia-sull-44b0eb8406203352",
     "title": "Teheran chiude il dossier nucleare e rilancia sullo stretto",
@@ -8260,24 +8278,6 @@
     "tags": [
       "f1 baku",
       "george russell"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "03e50b659906991e",
-    "slug": "f1-russell-domina-baku-con-la-mercedes-antonelli-a-03e50b659906991e",
-    "title": "F1: Russell conquista la pole ad Baku battendo tutti con la Mercedes perfetta",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-25T15:25:46.537617+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/518f4cdd945f609e36274b2116973b0c935836dc/skysport/it/motori/formula-1/2026/09/25/f1-gp-baku-capelli-commento-video/george_russell-ipa_baku.jpg",
-    "occhiello": "LA MERCEDES VOLA A BAKU MA IL VERO MOTORE E RUSSELL",
-    "lead_preview": "Baku, 25 settembre 2026. George Russell conquista la pole position del Gran Premio dell'Azerbaigian battendo la concorre",
-    "tags": [
-      "gp azerbaigian",
-      "f1 baku"
     ],
     "hero_eligible": true
   }
