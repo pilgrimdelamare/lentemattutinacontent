@@ -1,5 +1,23 @@
 [
   {
+    "id": "ed7b00c6dfc47096",
+    "slug": "la-cultura-di-massa-bloccata-dal-paywall-della-con-ed7b00c6dfc47096",
+    "title": "La cultura di massa bloccata dal paywall della conoscenza",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-29T15:21:41.136716+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/29/8142f2f5aaa99431582d94537b00b0eb.jpg",
+    "occhiello": "LA CULTURA DI MASSA BLOCCATA DAL PAYWALL DELLA CONOSCENZA",
+    "lead_preview": "Venezia, 29 settembre 2026. L'epilogo del premio letterario Campiello si scontra con il muro digitale dell'agenzia di st",
+    "tags": [
+      "premio campiello",
+      "paywall ansa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b1b0dcb96739dc4b",
     "slug": "shein-afferra-leconomia-hong-kong-b1b0dcb96739dc4b",
     "title": "Shein afferra l'economia Hong Kong",
@@ -8256,24 +8274,6 @@
       "ferrero",
       "premio",
       "lavoratori"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c9e6ff7985a79c8e",
-    "slug": "trump-e-il-presidente-cina-sulla-strada-della-supe-c9e6ff7985a79c8e",
-    "title": "Il Presidente Trump all'inizio ma anche il futuro: con Dichiarazione Trump",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-25T14:00:46.787587+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/5b8bd38a35fc1e16cca9fbca699cc7dc.jpg",
-    "occhiello": "TRUMP INCONTRA XI E PROPONE DI RINOMINARE L'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Washington, 25 settembre 2026. Il Presidente statunitense Donald Trump ha definito molto produttivo l'incontro avuto con",
-    "tags": [
-      "incontro trump xi",
-      "dichiarazione trump"
     ],
     "hero_eligible": true
   }
