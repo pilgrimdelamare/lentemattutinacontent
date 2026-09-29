@@ -1,5 +1,23 @@
 [
   {
+    "id": "8ccfbfbe57ae4b2a",
+    "slug": "incontro-storico-francesco-diventa-la-struttura-er-8ccfbfbe57ae4b2a",
+    "title": "Incontro storico: Francesco diventa la struttura ereditaria di un'Enciclopedia",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-29T13:40:22.557537+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/29/717b915b85e4347fd1cb663b2f599c58.jpg",
+    "occhiello": "TRECENTO ANNI DI VOCI NELLA NUOVA ENCICLOPEDIA",
+    "lead_preview": "Roma, 29 settembre 2026. La figura e la smisurata eredità di Francesco diventano un'Enciclopedia grazie a Treccani, come",
+    "tags": [
+      "enciclopedia francesco",
+      "treccani enciclopedia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "27bc92d1d753e324",
     "slug": "gli-spagnoli-approvano-un-decreto-casa-in-corso-27bc92d1d753e324",
     "title": "Gli Spagnoli approvano un decreto casa in corso",
@@ -8199,24 +8217,6 @@
       "benzina",
       "accise",
       "sconto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0157202655d4ee4b",
-    "slug": "consolidamento-bancario-accelerato-meno-concorrenz-0157202655d4ee4b",
-    "title": "Ifis ingloba illimity: Zingone diventa ad, ma gli sportelli crollano del 25%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-25T07:49:31.792770+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/201dccb778780d05cb4cdf87054051eb.jpg",
-    "occhiello": "CONSOLIDAMENTO BANCARIO ACCELERATO: MENO CONCORRENZA PER LA CLIENTELA.",
-    "lead_preview": "Roma, 25 settembre. La Banca d'Italia ha autorizzato formalmente la fusione per incorporazione di illimity in Ifis, un'o",
-    "tags": [
-      "fusione ifis illimity",
-      "consolidamento bancario"
     ],
     "hero_eligible": true
   }
