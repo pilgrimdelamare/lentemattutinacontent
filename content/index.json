@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bf4a761dc48ef84",
+    "slug": "ansa-oscura-le-notizie-paghi-1699-euro-o-ti-tracci-4bf4a761dc48ef84",
+    "title": "ANSA oscura le notizie: paghi 16,99 euro o ti tracciano i dati personali",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T10:37:30.288587+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/0774bfe226589d1e16464bf946089843.jpg",
+    "occhiello": "IL PAYWALL DI ANSA SPEGNE IL DIRITTO ALL'INFORMAZIONE",
+    "lead_preview": "Roma, 30 settembre 2026. L'agenzia ANSA subordina la consultazione delle proprie pagine all'accettazione di Cookie di pr",
+    "tags": [
+      "paywall ansa",
+      "cookie profilazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "14915b6ca9df9710",
     "slug": "notizia-fotorecensita-14915b6ca9df9710",
     "title": "\u0007Notizia fotorecensita",
@@ -8290,21 +8308,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/25/038b39c6188cbee9f1f5b956cbb5acac.jpg",
     "occhiello": "LA MODA E LA DISTANZA DALLE PASSERELLE",
     "lead_preview": "Roma, 25 settembre 2026. Simone Botte presenta Simon Cracker, una collezione descritta come un inno al fai-da-te e pensa",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8d924a190c0e15d",
-    "slug": "regate-preliminari-di-vela-luna-rossa-domina-a-nap-b8d924a190c0e15d",
-    "title": "Regate preliminari di vela, luna rossa domina a napoli",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-25T18:38:42.655765+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/15/617cf3fc51a4276dbd209c16808e908c.jpg",
-    "occhiello": "REGATE PRELIMINARI DI VELA, LUNA ROSSA DOMINA A NAPOLI",
-    "lead_preview": "Napoli, 25 settembre 2026. Il sindacato velico Luna Rossa Prada Pirelli apre le regate preliminari della competizione co",
     "tags": [],
     "hero_eligible": true
   }
