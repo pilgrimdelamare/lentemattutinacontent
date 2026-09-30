@@ -1,5 +1,23 @@
 [
   {
+    "id": "dc0824ea62f3f81a",
+    "slug": "derby-milanese-deciso-dalla-sirena-dc0824ea62f3f81a",
+    "title": "Derby milanese deciso dalla sirena",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-09-30T09:58:46.907940+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/766890b9bc4f13250cc68de65c4497f0f4535c45/skysport/it/basket/video/2026/09/29/1128017_1790714529448_thumb_494.0000001_1790714678425.jpg",
+    "occhiello": "DERBY MILANESE DECISO DALLA SIRENA",
+    "lead_preview": "Milano, 29 settembre. Devon Hall firma l'87-85 sull'Olimpia Milano contro la Virtus Bologna nell'ultimo secondo di gioco",
+    "tags": [
+      "olimpia milano virtus bologna",
+      "eurolega basket"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "df15c03ee543efde",
     "slug": "il-pilota-olandese-compie-ventinove-anni-df15c03ee543efde",
     "title": "Il pilota olandese compie ventinove anni",
@@ -8261,25 +8279,6 @@
     "occhiello": "MPS, IL DILEMMA DEGLI AZIONISTI SULL'OFFERTA A SCONTO",
     "lead_preview": "Roma, 25 settembre 2026. Per passivity rule impossibilitati a fare delle nostre mosse, stando a quanto emerge dalle noti",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "17b7a8ee6e005294",
-    "slug": "natalie-harp-si-confessa-al-washingtonian-tra-bibb-17b7a8ee6e005294",
-    "title": "Harp colpisce i media: Washington si ferma a guardarla, la scusa è l'età",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-25T16:35:47.132632+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/4/0a386c2bf11edecc051fc8ff5af0a0b6.jpg",
-    "occhiello": "NATALIE HARP SI CONFESSA AL WASHINGTONIAN TRA BIBBIA E ACCESSO AI COOKIE",
-    "lead_preview": "Washington, 25 settembre 2026. Natalie Harp si confessa al Washingtonian dichiarando che l'età è solo un numero, mentre ",
-    "tags": [
-      "washingtonian",
-      "natalie harp",
-      "confessione"
-    ],
     "hero_eligible": true
   }
 ]
