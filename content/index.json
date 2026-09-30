@@ -1,5 +1,23 @@
 [
   {
+    "id": "14915b6ca9df9710",
+    "slug": "notizia-fotorecensita-14915b6ca9df9710",
+    "title": "Bufala a Lecce: il premio di poesia in carcere esiste solo nei codici del web",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T10:27:20.251665+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dad6f9bd07fd731ac47bfc55eb5eb5cd.jpg",
+    "occhiello": "UN PREMIO INVENTATO SUL PORTALE DELL'AGENZIA DI STAMPA",
+    "lead_preview": "Lecce, 30 settembre 2026. La notizia di una giovane detenuta del carcere di Lecce vincitrice del premio di poesia Afrodi",
+    "tags": [
+      "bufala premio afrodite",
+      "carcere lecce"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "295094d09b0160ee",
     "slug": "mps-sfida-i-colossi-lovaglio-impone-la-pressione-s-295094d09b0160ee",
     "title": "Mps sfida i giganti: Lovaglio punta a Banco Bpm e Generali per alzare la posta",
@@ -1568,24 +1586,6 @@
     "tags": [
       "paywall ansa",
       "cookie profilazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "14915b6ca9df9710",
-    "slug": "notizia-fotorecensita-14915b6ca9df9710",
-    "title": "\u0007Notizia fotorecensita",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-30T10:27:20.251665+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dad6f9bd07fd731ac47bfc55eb5eb5cd.jpg",
-    "occhiello": "UN PREMIO INVENTATO SUL PORTALE DELL'AGENZIA DI STAMPA",
-    "lead_preview": "Lecce, 30 settembre 2026. La notizia di una giovane detenuta del carcere di Lecce vincitrice del premio di poesia Afrodi",
-    "tags": [
-      "premio afrodite lecce",
-      "falsa notizia carcere lecce"
     ],
     "hero_eligible": true
   },
