@@ -1,5 +1,24 @@
 [
   {
+    "id": "b15c0d02430b5086",
+    "slug": "ansa-oscura-le-notizie-o-cedi-i-dati-o-paghi-1699-b15c0d02430b5086",
+    "title": "ANSA oscura le notizie: o cedi i dati o paghi 16,99 euro all'anno",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T12:21:30.633108+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/1d2a293fcf75525d389567054c675c78.jpg",
+    "occhiello": "LA CANCELLAZIONE DEI COOKIE SPEGNEREBBE LA CRONACA",
+    "lead_preview": "Roma, 29 settembre 2026. L'agenzia di stampa ANSA subordina la consultazione delle notizie alla profilazione pubblicitar",
+    "tags": [
+      "privacy",
+      "media",
+      "journalism"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bc5c644e34911331",
     "slug": "lansa-tassa-linformazione-sedici-euro-lanno-per-le-bc5c644e34911331",
     "title": "L'Ansa tassa l'informazione: sedici euro l'anno per leggere le notizie senza spie",
@@ -8315,25 +8334,6 @@
     "occhiello": "POTERE D'ACQUISTO CROLLATO DEL DIECI PER CENTO",
     "lead_preview": "Roma, 26 settembre 2026. L'inflazione accumulata negli ultimi anni ha eroso stabilmente il potere d'acquisto dei salari ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d099c3db7591ba1",
-    "slug": "kamel-denuncia-tel-aviv-israele-ignora-i-dettagli-8d099c3db7591ba1",
-    "title": "Palestini e Egitto preparano un colpo di Stato",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-26T01:16:51.150401+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/3d3005fbac3d4b7cbde8c63452338a52.jpg",
-    "occhiello": "L'INTELLIGENCE EGIZIANA AVEVA AVVERTITO ISRAELE PRIMA DEL SETTE OTTOBRE",
-    "lead_preview": "Roma, 26 settembre 2026. L'intelligence egiziana aveva avvertito Israele della vulnerabilità e delle minacce incombenti ",
-    "tags": [
-      "palestini",
-      "egitto",
-      "intelligence"
-    ],
     "hero_eligible": true
   }
 ]
