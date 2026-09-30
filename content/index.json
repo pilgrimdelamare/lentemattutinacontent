@@ -1,5 +1,24 @@
 [
   {
+    "id": "068e229c7bc01c4d",
+    "slug": "colonizzatori-e-forze-di-polizia-combatterono-a-sp-068e229c7bc01c4d",
+    "title": "Coloni bloccano il rientro a casa dei palestinesi: l'esercito interviene",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-09-29T15:51:25.773958+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/32dc98a767d361e5b97fb33de728613d.jpg",
+    "occhiello": "SCONTRI TRA COLONI E FORZE DI SICUREZZA IN CISGIORDANIA",
+    "lead_preview": "Roma, 29 settembre 2026. Scontri si sono registrati tra coloni e forze di Sicurezza in Cisgiordania, come riportato dall",
+    "tags": [
+      "scontri",
+      "coloni",
+      "forze di sicurezza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aa66d64d7a8d6ddc",
     "slug": "caracas-chiede-la-riforma-della-legge-sullodio-aa66d64d7a8d6ddc",
     "title": "Venezuela, Delcy Rodríguez cancella i reati d'opinione per far pace con l'Occidente",
@@ -1171,24 +1190,6 @@
     "tags": [
       "canale di panama",
       "lago gatún"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "068e229c7bc01c4d",
-    "slug": "colonizzatori-e-forze-di-polizia-combatterono-a-sp-068e229c7bc01c4d",
-    "title": "Colonizzatori e forze di polizia combatterono a spada.co",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-29T15:51:25.773958+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/4/32dc98a767d361e5b97fb33de728613d.jpg",
-    "occhiello": "SCONTRI TRA COLONI E FORZE DI SICUREZZA IN CISGIORDANIA",
-    "lead_preview": "Roma, 29 settembre 2026. Scontri si sono registrati tra coloni e forze di Sicurezza in Cisgiordania, come riportato dall",
-    "tags": [
-      "scontri cisgiordania",
-      "coloni israeliani"
     ],
     "hero_eligible": true
   },
