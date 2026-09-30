@@ -1,5 +1,23 @@
 [
   {
+    "id": "c8a52f0c0702e443",
+    "slug": "ansa-oscura-le-notizie-17-euro-lanno-per-leggere-s-c8a52f0c0702e443",
+    "title": "ANSA oscura le notizie: 17 euro l'anno per leggere senza spiare i lettori",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-30T10:49:35.908748+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/670e0c2f7d5187e7ae51266016c4822b.jpg",
+    "occhiello": "LETTORI BLOCCATI SUL MURO DI COOKIE DI ANSA",
+    "lead_preview": "Bologna, 30 settembre 2026. Il portale dell'agenzia ANSA subisce limitazioni di accesso per i lettori che rifiutano i Co",
+    "tags": [
+      "ansa cookie wall",
+      "paywall ansa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "213b28290d9ac3c0",
     "slug": "calcio-lunder-21-di-baldini-sfida-larmenia-puntand-213b28290d9ac3c0",
     "title": "Calcio: L'Under 21 di Baldini sfida l'Armenia puntando su tattica e lavoro",
@@ -8297,21 +8315,6 @@
       "salute",
       "emergenza coronavirus"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9244d40d8bdbb222",
-    "slug": "due-mesi-di-tregua-commerciale-tra-stati-uniti-e-c-9244d40d8bdbb222",
-    "title": "Due mesi di tregua commerciale tra stati uniti e cina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-25T18:42:01.745303+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/09/25/1790313582-AP26268010233021.jpg",
-    "occhiello": "DUE MESI DI TREGUA COMMERCIALE TRA STATI UNITI E CINA",
-    "lead_preview": "Washington, 25 settembre 2026. Il Presidente statunitense Donald Trump e quello cinese Xi Jinping si sono incontrati gio",
-    "tags": [],
     "hero_eligible": true
   }
 ]
