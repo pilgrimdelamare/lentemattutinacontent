@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 28 settembre 2026",
+  "title": "Le prime pagine di oggi, giovedì 1 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 28 settembre 2026",
-    "Le prime pagine di oggi, lunedì 28 settembre 2026",
-    "Le prime pagine di oggi, lunedì 28 settembre 2026"
+    "Le prime pagine di oggi, giovedì 1 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 1 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 1 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 28 SETTEMBRE",
-  "lead": "Oggi i quotidiani italiani convergono su due temi principali: la questione dei carburanti, trattata da Corriere della Sera, La Repubblica, La Stampa e Il Messaggero, e lo sport, con La Gazzetta dello Sport e Corriere dello Sport che dedicano la copertina al calcio e a Francesco Totti. Le altre testate, pur variando nei titoli di apertura, mantengono la stessa struttura di informazione senza commenti editoriali.",
-  "corpo1": "Corriere della Sera apre con la notizia di un “attacco svenitato” in Gran Bretagna, legato a un esplosivo rinvenuto vicino a una base aerea della RAF usata dagli Stati Uniti nella guerra in Iran, accompagnato da una dichiarazione di Trump che afferma “Volevano fare grossi danni” e da una sezione sui carburanti con il titolo “Dopo Eni anche Ip cala i prezzi”, mentre la premier Meloni richiama “E’ attenzione alle fam”. La Repubblica mette in primo piano i carburanti e i “benzinai anti sconto”, segnala un record di gasolio, riporta il tetto di prezzo di un mese per Ip ed Eni e indica che i gestori degli impianti sono “pronti a ricorrere all’Antitrust”, aggiungendo un approfondimento sul processo Regeni con il titolo “Il giorno della verità sugli 007 egiziani”. La Stampa inizia con la questione carburanti e le misure di Ip ed Eni che “bloccano i prezzi”, segnala la rivolta dei taxi e la prontezza dei sindacati a scioperare per l’aumento dei costi, e cita la premier Meloni che dichiara “Segnale importante, il governo continuerà a sostenere le famiglie”, includendo un richiamo all’allarme ter. Il Messaggero dedica la prima pagina alla questione carburanti e ai costi “ai massimi”, evidenzia il tetto ai prezzi imposto da Ip ed Eni con uno “sconto di 17 centesimi, coinvolti 8mila impianti”, riporta le critiche delle opposizioni per un “intervento tardivo e non per tutti” e inserisce le parole del ministro Tajani “Abbiamo evitato una tassa”. La Gazzetta dello Sport apre con la Nazionale e i “giorni più caldi per Nazionale e Figc”, intitolando la sezione sportiva “Brivido calcio” per la sfida con la Turchia, presenta in copertina Gianluigi Donnarumma e riporta Mancini che annuncia una formazione rinnovata chiedendo “tempo”, con un focus sugli “sfregi”. Corriere dello Sport dedica la prima pagina a Francesco Totti in occasione dei suoi 50 anni, con il titolo d’apertura “Com’ero? Imbarazzante”, includendo la sua autobiografia degli anni 2001‑2008 e il rapporto con la Roma.",
-  "corpo2": "Altre rubriche in evidenza includono un approfondimento sulla crisi energetica, una inchiesta sul mercato immobiliare, e un dossier culturale su “Cinema e memoria”. Il tema dominante della giornata resta la pressione sui prezzi dei carburanti, affiancata da una forte presenza di contenuti sportivi.",
+  "occhiello": "LE PRIME PAGINE 1 OTTOBRE 2026",
+  "lead": "I quotidiani italiani convergono sul tentato dirottamento del volo Dubai-Tel Aviv. Il Corriere della Sera e La Repubblica ricostruiscono l'accaduto, con l'accoltellamento del copilota e la reazione dei passeggeri. La Stampa e Il Messaggero affiancano l'evento alla nuova impennata dell'inflazione al 4,2% e alla lettera di Meloni alla Commissione Ue. La Gazzetta dello Sport e il Corriere dello Sport titolano su calcio e politica sportiva, con il mercato dell'Inter e la pressione su Spalletti, oltre all'addio di Diana Bianchedi.",
+  "corpo1": "Il Corriere della Sera apre con la ricostruzione del tentato dirottamento, dettagliando l'accoltellamento da parte del copilota e la perdita di quota di oltre 4mila metri. La Repubblica mette in copertina le immagini dei passeggeri che hanno sventato l'attacco, definendolo terrorismo per Israele, mentre i colleghi del copilota lo indicano come estremista religioso. La Stampa dedica spazio al frame del copilota immobilizzato e all'aumento dell'inflazione a settembre, che raggiunge il 4,2%. Il Messaggero evidenzia la lettera della premier alla Commissione Ue e il confronto con Praga, collegando il caro carburanti all'aumento dei prezzi. La Gazzetta dello Sport titola sul calciomercato, con l'interesse dell'Inter per Alessandro Romano del Cagliari, e annuncia le dimissioni di Diana Bianchedi dopo la polemica con il ministro Abodi. Il Corriere dello Sport mette in copertina la pressione sulla Juventus e su Spalletti, obbligato alla qualificazione in Champions League dopo l'aumento di capitale.",
+  "corpo2": "Sul Corriere della Sera spiccano anche le reazioni internazionali all'evento aereo. La Repubblica riporta i commenti politici sulla sicurezza aerea. La Stampa approfondisce le implicazioni economiche dell'inflazione. Il Messaggero include dettagli sulla lettera inviata a Bruxelles. La Gazzetta dello Sport elenca altre trattative di mercato. Il Corriere dello Sport analizza le possibili sostituzioni in attacco per la Juve. La giornata è dominata dalla crisi aerea e dall'inflazione.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-09-28T05:45:09.018303+00:00",
+  "published_at": "2026-10-01T05:45:09.487230+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/4e57a360607738e8379247c748bbc80a4d031085/skytg24/it/cronaca/2026/09/28/prime-pagine-quotidiani-oggi-28-settembre/corriere-della-sera-051513ggocmyx.jpg",
+    "url": "https://tg24.sky.it/assets/images/5d1e548c70de5a6471898074d93d9dc1ea5210dc/skytg24/it/cronaca/2026/10/01/prime-pagine-quotidiani-oggi-1-ottobre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/09/28/prime-pagine-quotidiani-oggi-28-settembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/01/prime-pagine-quotidiani-oggi-1-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 28 settembre 2026",
+      "title": "Oroscopo di oggi, giovedì 1 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Settembre chiude a 31 gradi: l'estate anticipata punge tutto il Paese",
-      "url": "/cronaca/rimonta-dellalta-pressione-fino-a-ottobre-3268e41d88a9565c",
-      "id": "3268e41d88a9565c",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/26/221305523-c9d204f2-d26f-462e-b14e-d5887597f48a.jpg",
-      "image_type": "feed_image"
+      "title": "LATAM batte i colossi europei: prime Airline of the Year per un vettore sudamericano",
+      "url": "/esteri/latam-batte-i-colossi-europei-prime-airline-of-the-3cffc0e87db05f2a",
+      "id": "3cffc0e87db05f2a",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/7/4107b9e1b4307210c4420f785ca9fbde.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Decreto scuola, testo alla ragioneria dello stato e lunedì al quirinale",
-      "url": "/politica/decreto-scuola-testo-alla-ragioneria-dello-stato-e-b81a995deca28a88",
-      "id": "b81a995deca28a88",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/a7b0f808649ae8969d5faab6a0b7464b.jpg",
+      "title": "Oggi: Kristian Kesküla attribuisce all'attacco a Milrem Robotics in conflitto tra Estonia e Rusia",
+      "url": "/esteri/oggi-kristian-keskula-attribuisce-allattacco-a-mil-51184218e6171812",
+      "id": "51184218e6171812",
+      "image_url": "https://i.guim.co.uk/img/media/569e32f5018215bc2d4682ad4d78565135a78cc0/727_0_5120_4096/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c937c3610929f4d0d416d7a384ba9da7",
       "image_type": "image"
     }
   ],
