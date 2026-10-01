@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-01T19:04:08.238981+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente down. Gli utenti italiani non possono più ",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "26ac2488bf75eebb",
     "slug": "calcio-baldini-ignora-il-gol-preso-allo-scadere-se-26ac2488bf75eebb",
     "title": "Calcio: Baldini ignora il gol preso allo scadere: secondo lui conta solo il percorso tecnico",
@@ -8353,24 +8372,6 @@
     "tags": [
       "renzi al colle",
       "elezioni 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ff08d7c22cc3ad42",
-    "slug": "5-arresti-e-80-case-sgomberate-a-fairford-londra-p-ff08d7c22cc3ad42",
-    "title": "Whelford: 5 arresti e 80 case sgomberate, Londra punta il dito su Teheran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-27T16:11:46.618224+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/8/49bb3cd07f06a49cb5ff9e69fc3c878a.jpg",
-    "occhiello": "ESPLOSIVI VICINO ALLA BASE DI FAIRFORD E CINQUE ARRESTI",
-    "lead_preview": "Londra, 27 settembre 2026. Scattano cinque arresti e l'evacuazione di Oltre ottanta abitazioni nell'area di Whelford dop",
-    "tags": [
-      "allarme whelford",
-      "esplosivi fairford"
     ],
     "hero_eligible": true
   }
