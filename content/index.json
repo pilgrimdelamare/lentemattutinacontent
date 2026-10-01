@@ -1,5 +1,24 @@
 [
   {
+    "id": "29068a9321244a98",
+    "slug": "un-articolo-annoverato-ansa-traduce-le-promesse-in-29068a9321244a98",
+    "title": "ANSA pubblica solo boilerplate su ASNA: Una notizia riservata all'abbonato",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T13:05:45.689606+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/230341422305595cebb394d3552e9078.jpg",
+    "occhiello": "ASNA PUBBLICA SOLO BOILERPLATE, NO CITAZIONE DI ASGARI",
+    "lead_preview": "ASNA pubblica solo boilerplate, no citazione di Asgari Roma, 30 settembre 2026 - Il sito web dell'agenzia di stampa ital",
+    "tags": [
+      "asna",
+      "boilerplate",
+      "asgari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "286f56800c6d89ba",
     "slug": "uragano-polo-sfonda-i-difensori-messicani-con-vent-286f56800c6d89ba",
     "title": "Urgente: Urgenza assistenza alla popolazione colpita per l'uragano Polo",
@@ -1524,24 +1543,6 @@
     "tags": [
       "atp chengdu",
       "davidovich fokina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "29068a9321244a98",
-    "slug": "un-articolo-annoverato-ansa-traduce-le-promesse-in-29068a9321244a98",
-    "title": "Un articolo annoverato, ANSA traduce le promesse in siffatte politiche",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-30T13:05:45.689606+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/230341422305595cebb394d3552e9078.jpg",
-    "occhiello": "ASNA PUBBLICA SOLO BOILERPLATE, NO CITAZIONE DI ASGARI",
-    "lead_preview": "ASNA pubblica solo boilerplate, no citazione di Asgari Roma, 30 settembre 2026 - Il sito web dell'agenzia di stampa ital",
-    "tags": [
-      "caso asgari",
-      "ans"
     ],
     "hero_eligible": true
   },
