@@ -1,5 +1,23 @@
 [
   {
+    "id": "6e70986c1ff43ca0",
+    "slug": "esce-oggi-il-nuovo-romanzo-con-lex-avvocato-senzat-6e70986c1ff43ca0",
+    "title": "Il romanzo secondo Vicario: l'inchiesta sul serpente dell'antica amministrazione",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T11:09:58.017441+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/1377f68ae5002ba26c59f90431947743.jpg",
+    "occhiello": "L'EX AVVOCATO DIVENTATO HOMELESS TORNA IN LIBRERIA",
+    "lead_preview": "Roma, 30 settembre 2026. L'agenzia ANSA pubblica i dettagli sul terzo capitolo della serie letteraria dedicata a Stefano",
+    "tags": [
+      "stefano vicario",
+      "romanzo vicario"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "957dc502e6e8adab",
     "slug": "ansa-impone-il-consenso-10-notizie-gratis-o-750-tr-957dc502e6e8adab",
     "title": "Ansa.it richiede consenso per accedere ai contenuti",
@@ -1611,24 +1629,6 @@
     "tags": [
       "atp chengdu",
       "davidovich fokina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e70986c1ff43ca0",
-    "slug": "esce-oggi-il-nuovo-romanzo-con-lex-avvocato-senzat-6e70986c1ff43ca0",
-    "title": "Esce oggi il nuovo romanzo con l'ex avvocato senzatetto Stefano Vicario detective",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-30T11:09:58.017441+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/1377f68ae5002ba26c59f90431947743.jpg",
-    "occhiello": "L'EX AVVOCATO DIVENTATO HOMELESS TORNA IN LIBRERIA",
-    "lead_preview": "Roma, 30 settembre 2026. L'agenzia ANSA pubblica i dettagli sul terzo capitolo della serie letteraria dedicata a Stefano",
-    "tags": [
-      "stefano vicario",
-      "nuovo romanzo"
     ],
     "hero_eligible": true
   },
