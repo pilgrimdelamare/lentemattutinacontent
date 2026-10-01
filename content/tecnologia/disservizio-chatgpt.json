@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do",
+  "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
   "titles": [
-    "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do",
-    "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do",
-    "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do"
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-  "lead": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente down. Gli utenti italiani non possono più inviare prompt né ricevere risposte. L'impatto è immediato e totale su chi dipende dall'AI per il lavoro.",
-  "corpo1": "Il sistema di OpenAI ha smesso di rispondere alle richieste in tempo reale. L'interruzione è iniziata circa alle 09:15, causando un blocco immediato delle operazioni. Non è possibile generare testi, analizzare dati né eseguire codici. I server restituiscono errori di connessione o tempi di caricamento infiniti. La piattaforma è inutilizzabile per qualsiasi scopo, dalla produttività alla ricerca. Chi si affidava all'assistente per attività urgenti si trova ora senza strumenti operativi. La situazione è critica e richiede attenzione costante. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
+  "lead": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cinquantacinque minuti. Gli utenti possono ora accedere senza interruzioni.",
+  "corpo1": "Il disservizio si è verificato in mattinata, impedendo temporaneamente l'accesso ai servizi di intelligenza artificiale. La durata dell'interruzione è stata di cinquantacinque minuti. I sistemi di monitoraggio confermano ora il ripristino completo della stabilità. Le infrastrutture operative sono tornate nominali. Non si registrano ulteriori anomalie nelle prestazioni del servizio. La piattaforma è nuovamente disponibile per tutti gli utenti registrati.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-01T19:04:08.238981+00:00",
+  "published_at": "2026-10-01T19:44:24.029787+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -45,18 +45,18 @@
       "image_type": "image"
     },
     {
-      "title": "Condizioni paga, ANSA Internet annuncia un nuovo Servizio: il Consentless",
-      "url": "/cultura/condizioni-paga-ansa-internet-annuncia-un-nuovo-se-78cc065d64a2dd22",
-      "id": "78cc065d64a2dd22",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/29/e650836c2e7cb1725ff0cbf2cd3b2c1a.jpg",
+      "title": "Borsa europea in picchiata con i bond",
+      "url": "/economia/borsa-europea-in-picchiata-con-i-bond-5f3adb036e496705",
+      "id": "5f3adb036e496705",
+      "image_url": "https://www.ansa.it",
       "image_type": "image"
     },
     {
-      "title": "Basket: Zandalasini raggira Dallas in 16 minuti e firma la storica vittoria WNBA",
-      "url": "/sport/zandalasini-tracinante-nel-debutto-storico-delle-v-49f649cfad2eacad",
-      "id": "49f649cfad2eacad",
-      "image_url": "https://sport.sky.it/assets/images/adc9f4d92475b4ee27000b224931e24a36db0f99/skysport/it/nba/2026/09/28/cecilia-zandalasini-wnba-golden-state-playoff-video/Cecilia_Zandalasini_Getty_Golden_State_Valkyries.jpg",
-      "image_type": "feed_image"
+      "title": "Femminicidio e vannacci: la cantautrice scompone il dibattito pubblico",
+      "url": "/cultura/femminicidio-e-vannacci-la-cantautrice-scompone-il-ec14f6a349dd3791",
+      "id": "ec14f6a349dd3791",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/6/30/201f6d34c6ba95e10f6929e362ab70a9.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": false
