@@ -1,5 +1,24 @@
 [
   {
+    "id": "85e6cd7eacd5d64c",
+    "slug": "ansa-blocca-laccesso-senza-cookie-o-17-euro-niente-85e6cd7eacd5d64c",
+    "title": "I dati degli utenti di ANA inutili senza consentimento",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-09-30T12:37:46.752765+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/23/0c5d0a34b8cf2aafcbe000fa9c297a39.jpg",
+    "occhiello": "LE INFORMATIVE SUI COOKIE BLOCCANO IL ACCESSO AGLI ARCHIVI DIGITALI",
+    "lead_preview": "Roma, 30 settembre 2026. I lettori che rifiutano i Cookie di profilazione e tracciamento sul portale della principale ag",
+    "tags": [
+      "cookie",
+      "accesso",
+      "agenzia di stampa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "916fa59072e59cad",
     "slug": "gli-esplosivi-non-esistono-la-polizia-conferma-sol-916fa59072e59cad",
     "title": "Rifornimento di carburante: la politica antiterrorismo non troppo rigorosa",
@@ -1486,24 +1505,6 @@
     "tags": [
       "palazzo sassoli",
       "parlamento europeo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "85e6cd7eacd5d64c",
-    "slug": "ansa-blocca-laccesso-senza-cookie-o-17-euro-niente-85e6cd7eacd5d64c",
-    "title": "Ansa blocca l'accesso: senza Cookie o 17 euro niente notizie",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-30T12:37:46.752765+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/23/0c5d0a34b8cf2aafcbe000fa9c297a39.jpg",
-    "occhiello": "LE INFORMATIVE SUI COOKIE BLOCCANO IL ACCESSO AGLI ARCHIVI DIGITALI",
-    "lead_preview": "Roma, 30 settembre 2026. I lettori che rifiutano i Cookie di profilazione e tracciamento sul portale della principale ag",
-    "tags": [
-      "cookie ansa",
-      "blocco accesso notizie"
     ],
     "hero_eligible": true
   },
