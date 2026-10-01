@@ -1,5 +1,23 @@
 [
   {
+    "id": "957dc502e6e8adab",
+    "slug": "ansa-impone-il-consenso-10-notizie-gratis-o-750-tr-957dc502e6e8adab",
+    "title": "ANSA oscura le notizie: chiede 17 euro o i tuoi dati per leggere gli articoli",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-30T14:29:32.091292+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dcbfac78bda97b3d475ecc04e94db7b8.jpg",
+    "occhiello": "ANSA.IT RICHIEDE CONSENSO PER ACCEDERE AI CONTENUTI",
+    "lead_preview": "ANSA.it richiede consenso per accedere ai contenuti Roma, 30 settembre. ANSA.it,agenzia di informazione statale, richied",
+    "tags": [
+      "paywall ansa",
+      "ansa cookie paywall"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "70dbb44b9253cfea",
     "slug": "a-ferrara-il-festival-di-internazionale-mentre-lin-70dbb44b9253cfea",
     "title": "A Ferrara il festival di Internazionale mentre ANSA tassa i lettori a 17 euro",
@@ -1903,21 +1921,6 @@
       "stefano vicario",
       "romanzo vicario"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "957dc502e6e8adab",
-    "slug": "ansa-impone-il-consenso-10-notizie-gratis-o-750-tr-957dc502e6e8adab",
-    "title": "Ansa.it richiede consenso per accedere ai contenuti",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-30T14:29:32.091292+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dcbfac78bda97b3d475ecc04e94db7b8.jpg",
-    "occhiello": "ANSA.IT RICHIEDE CONSENSO PER ACCEDERE AI CONTENUTI",
-    "lead_preview": "ANSA.it richiede consenso per accedere ai contenuti Roma, 30 settembre. ANSA.it,agenzia di informazione statale, richied",
-    "tags": [],
     "hero_eligible": true
   },
   {
