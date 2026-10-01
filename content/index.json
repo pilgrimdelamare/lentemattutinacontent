@@ -1,5 +1,23 @@
 [
   {
+    "id": "0c2465936bedc00d",
+    "slug": "cnn-esclusa-dallattuale-notizia-sulla-visita-presi-0c2465936bedc00d",
+    "title": "Cnn esclusa dall'attuale notizia sulla visita Presidente a un impianto tecnologico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-01T14:53:37.617108+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/29/4698b64697cca7578ccf0947c6efd466.jpg",
+    "occhiello": "CNN ESCLUSA DAL PRESS POOL DURANTE LA VISITA A DENTON",
+    "lead_preview": "Washington, 1 ottobre 2026. La Casa Bianca ha nuovamente escluso la Cnn dal pool stampa ufficiale che accompagna il Pres",
+    "tags": [
+      "cnn esclusa press pool",
+      "visita denton"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ffa667a4c4cdd926",
     "slug": "un-adattamento-teatrale-senza-conferme-ufficiali-n-ffa667a4c4cdd926",
     "title": "Un adattamento teatrale senza conferme ufficiali nelle fonti",
@@ -8358,24 +8376,6 @@
     "occhiello": "ADDIO A PIERO BATTARA, PIONIERE DEI PORTIERI",
     "lead_preview": "Genova, 27 settembre 2026. È morto all'età di novanta anni Piero Battara, storico portiere di Sampdoria e Bologna e figu",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2b96783849618c14",
-    "slug": "arriva-una-call-to-action-dal-mondo-del-cinema-2b96783849618c14",
-    "title": "Intervento su tema feminismo in settore cinematografico",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-27T11:22:09.229596+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/1/18/80a73e569d60247083a613afb3db2c78.jpg",
-    "occhiello": "ARRIVA UNA CALL TO ACTION DAL MONDO DEL CINEMA",
-    "lead_preview": "Roma, 27 settembre 2026. Registe e professioniste del settore cinematografico lanciano una nuova chiamata all'azione per",
-    "tags": [
-      "femminismo cinema",
-      "parità di genere audiovisivo"
-    ],
     "hero_eligible": true
   }
 ]
