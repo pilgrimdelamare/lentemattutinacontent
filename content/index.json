@@ -1,5 +1,23 @@
 [
   {
+    "id": "a80efc67d69c93c0",
+    "slug": "drone-russo-colpisce-scuola-a-kiev-a80efc67d69c93c0",
+    "title": "Drone russo colpisce scuola di Kiev a Kiev",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-01T08:49:53.247666+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/ec0c200f48369c375316514a52120eaa.jpg",
+    "occhiello": "DRONE RUSSO COLPISCE SCUOLA A KIEV",
+    "lead_preview": "Kiev, 1 ottobre 2026. Un drone russo ha colpito una scuola a Kiev provocando una strage sfiorata, mentre i bambini prese",
+    "tags": [
+      "drone russo kiev",
+      "attacco scuola kiev"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f06586cfffb3f27",
     "slug": "trump-minaccia-liran-mentre-promette-calo-dei-prez-4f06586cfffb3f27",
     "title": "Trump minaccia l'iran mentre promette calo dei prezzi energetici",
@@ -3029,21 +3047,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/91f9d89a7c456f42a22b8482493214ca.jpg",
     "occhiello": "PARTENZA DELLA DELEGAZIONE IRANIANA ORDINATA DAGLI STATI UNITI",
     "lead_preview": "Washington, 1 ottobre 2026. La delegazione iraniana ha lasciato gli Stati Uniti in seguito a una disposizione attribuita",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a80efc67d69c93c0",
-    "slug": "drone-russo-colpisce-scuola-a-kiev-a80efc67d69c93c0",
-    "title": "Drone russo colpisce scuola a kiev",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-01T08:49:53.247666+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/ec0c200f48369c375316514a52120eaa.jpg",
-    "occhiello": "DRONE RUSSO COLPISCE SCUOLA A KIEV",
-    "lead_preview": "Kiev, 1 ottobre 2026. Un drone russo ha colpito una scuola a Kiev provocando una strage sfiorata, mentre i bambini prese",
     "tags": [],
     "hero_eligible": true
   },
