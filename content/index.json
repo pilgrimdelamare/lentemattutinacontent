@@ -1,5 +1,20 @@
 [
   {
+    "id": "957dc502e6e8adab",
+    "slug": "ansa-impone-il-consenso-10-notizie-gratis-o-750-tr-957dc502e6e8adab",
+    "title": "Ansa.it richiede consenso per accedere ai contenuti",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-30T14:29:32.091292+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dcbfac78bda97b3d475ecc04e94db7b8.jpg",
+    "occhiello": "ANSA.IT RICHIEDE CONSENSO PER ACCEDERE AI CONTENUTI",
+    "lead_preview": "ANSA.it richiede consenso per accedere ai contenuti Roma, 30 settembre. ANSA.it,agenzia di informazione statale, richied",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "337798709fcfbebb",
     "slug": "fatti-crisi-e-potenti-azioni-337798709fcfbebb",
     "title": "Nautica Italiana: 8,7 miliardi e un divario abissale tra super yachts e barche piccole",
@@ -1310,24 +1325,6 @@
       "politica",
       "congresso",
       "memoriale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "957dc502e6e8adab",
-    "slug": "ansa-impone-il-consenso-10-notizie-gratis-o-750-tr-957dc502e6e8adab",
-    "title": "Ansa impone il consenso: 10 notizie gratis o 750 tracciatori su di te",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-30T14:29:32.091292+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/dcbfac78bda97b3d475ecc04e94db7b8.jpg",
-    "occhiello": "ANSA.IT RICHIEDE CONSENSO PER ACCEDERE AI CONTENUTI",
-    "lead_preview": "ANSA.it richiede consenso per accedere ai contenuti Roma, 30 settembre. ANSA.it,agenzia di informazione statale, richied",
-    "tags": [
-      "cookie ansa",
-      "privacy ansa"
     ],
     "hero_eligible": true
   },
