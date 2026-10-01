@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 1 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-01T05:45:09.487230+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5d1e548c70de5a6471898074d93d9dc1ea5210dc/skytg24/it/cronaca/2026/10/01/prime-pagine-quotidiani-oggi-1-ottobre/1_Corriere.jpg",
+    "occhiello": "LE PRIME PAGINE 1 OTTOBRE 2026",
+    "lead_preview": "I quotidiani italiani convergono sul tentato dirottamento del volo Dubai-Tel Aviv. Il Corriere della Sera e La Repubblic",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fbc7634c3da9fb60",
     "slug": "darderi-elimina-ruud-a-tokyo-fbc7634c3da9fb60",
     "title": "Darderi elimina ruud a tokyo",
@@ -5888,25 +5907,6 @@
     "tags": [
       "mondiali tuffi",
       "heslop"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 28 settembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-09-28T05:45:09.018303+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/4e57a360607738e8379247c748bbc80a4d031085/skytg24/it/cronaca/2026/09/28/prime-pagine-quotidiani-oggi-28-settembre/corriere-della-sera-051513ggocmyx.jpg",
-    "occhiello": "LE PRIME PAGINE 28 SETTEMBRE",
-    "lead_preview": "Oggi i quotidiani italiani convergono su due temi principali: la questione dei carburanti, trattata da Corriere della Se",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
