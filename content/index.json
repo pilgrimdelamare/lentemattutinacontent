@@ -1,5 +1,23 @@
 [
   {
+    "id": "3a4c90c354c5fa81",
+    "slug": "il-governo-rassicura-gli-artigiani-avanti-con-la-r-3a4c90c354c5fa81",
+    "title": "Il governo rassicura gli artigiani: 'avanti con la riforma'",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-01T18:24:09.601805+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/ad2bd3f42849c94f181ed652ae614da9.jpg",
+    "occhiello": "IL GOVERNO RASSICURA GLI ARTIGIANI: 'AVANTI CON LA RIFORMA'",
+    "lead_preview": "Roma, 1 ottobre Giorgia Meloni ha parlato di \"diritto di crescere senza cambiare pelle\", Antonio Tajani di \"promesse a v",
+    "tags": [
+      "riforma artigiani",
+      "meloni artigiani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fc3cb9d702b7af14",
     "slug": "en-direct-debat-de-la-primaire-a-gauche-pouvoir-da-fc3cb9d702b7af14",
     "title": "En direct, débat de la primaire à gauche | pouvoir d’achat, mobilisation des lyc",
@@ -8350,21 +8368,6 @@
       "laver cup",
       "duo cobolli-mensik"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "92d23a6fef1bf9be",
-    "slug": "gasolio-a-2377-euro-benzina-a-2159-92d23a6fef1bf9be",
-    "title": "Prezzi del carburante salgono più in fretta dei clamori del governo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-27T07:51:34.033567+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/2aaeabc0bef9a7517072434a3f44b066.jpg",
-    "occhiello": "GASOLIO A 2,377 EURO, BENZINA A 2,159",
-    "lead_preview": "Roma, 27 settembre. Il gasolio ha toccato quota 2,377 euro al litro in media e la benzina 2,159 euro, con punte per il d",
-    "tags": [],
     "hero_eligible": true
   }
 ]
