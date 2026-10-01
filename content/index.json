@@ -1,5 +1,23 @@
 [
   {
+    "id": "67e3499d0785feef",
+    "slug": "maggioranza-forza-legge-con-voto-segreto-contro-pa-67e3499d0785feef",
+    "title": "Maggioranza forza legge con voto segreto contro parere opposizione",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-01T12:19:04.826896+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/14/164e3602941819cd88161e8ed43b4fe0.jpg",
+    "occhiello": "MAGGIORANZA FORZA LEGGE CON VOTO SEGRETO CONTRO PARERE OPPOSIZIONE",
+    "lead_preview": "Roma, 1 ottobre. La Camera dei Deputati ha respinto con 229 voti contrari e 151 favorevoli le cinque questioni pregiudiz",
+    "tags": [
+      "voto segreto",
+      "camera dei deputati"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "657cc2d8d0636fad",
     "slug": "rimini-ospita-1800-espositori-per-la-fiera-657cc2d8d0636fad",
     "title": "Rimini ospita 1800 espositori per la fiera",
@@ -8391,24 +8409,6 @@
       "trump",
       "anthropic",
       "politica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e404f1181aee3dba",
-    "slug": "serie-c-gol-e-highlights-del-26-settembre-2026-e404f1181aee3dba",
-    "title": "Calcio: Sei gol a Cava, la Cavese frantuma le amnesie difensive del Savoia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-26T23:08:23.043552+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/3de352a2f60551c350c317db723c2fd86b6c5ae5/skysport/it/calcio/serie-c/video/2026/09/26/1127438_1790458038155_thumb_494.0000001_1790458090403.jpg",
-    "occhiello": "SERIE C, GOL E HIGHLIGHTS DEL 26 SETTEMBRE 2026",
-    "lead_preview": "Cava de' Tirreni, 26 settembre 2026. La Cavese supera il Savoia con il punteggio di quattro a due nel match valido per l",
-    "tags": [
-      "cavese savoia",
-      "serie c 2026"
     ],
     "hero_eligible": true
   }
