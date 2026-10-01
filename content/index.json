@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bf4a761dc48ef84",
+    "slug": "ansa-oscura-le-notizie-paghi-1699-euro-o-ti-tracci-4bf4a761dc48ef84",
+    "title": "Il paywall di ansa spegne il diritto all'informazione",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-09-30T10:37:30.288587+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/0774bfe226589d1e16464bf946089843.jpg",
+    "occhiello": "IL PAYWALL DI ANSA SPEGNE IL DIRITTO ALL'INFORMAZIONE",
+    "lead_preview": "Roma, 30 settembre 2026. L'agenzia ANSA subordina la consultazione delle proprie pagine all'accettazione di Cookie di pr",
+    "tags": [
+      "paywall ansa",
+      "cookie profilazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6e70986c1ff43ca0",
     "slug": "esce-oggi-il-nuovo-romanzo-con-lex-avvocato-senzat-6e70986c1ff43ca0",
     "title": "Il romanzo secondo Vicario: l'inchiesta sul serpente dell'antica amministrazione",
@@ -1629,24 +1647,6 @@
     "tags": [
       "atp chengdu",
       "davidovich fokina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4bf4a761dc48ef84",
-    "slug": "ansa-oscura-le-notizie-paghi-1699-euro-o-ti-tracci-4bf4a761dc48ef84",
-    "title": "ANSA oscura le notizie: paghi 16,99 euro o ti tracciano i dati personali",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-30T10:37:30.288587+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/30/0774bfe226589d1e16464bf946089843.jpg",
-    "occhiello": "IL PAYWALL DI ANSA SPEGNE IL DIRITTO ALL'INFORMAZIONE",
-    "lead_preview": "Roma, 30 settembre 2026. L'agenzia ANSA subordina la consultazione delle proprie pagine all'accettazione di Cookie di pr",
-    "tags": [
-      "paywall ansa",
-      "cookie profilazione"
     ],
     "hero_eligible": true
   },
