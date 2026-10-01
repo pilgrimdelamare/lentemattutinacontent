@@ -1,5 +1,20 @@
 [
   {
+    "id": "b15c0d02430b5086",
+    "slug": "ansa-oscura-le-notizie-o-cedi-i-dati-o-paghi-1699-b15c0d02430b5086",
+    "title": "La cancellazione dei cookie spegnerebbe la cronaca",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-09-30T12:21:30.633108+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/1d2a293fcf75525d389567054c675c78.jpg",
+    "occhiello": "LA CANCELLAZIONE DEI COOKIE SPEGNEREBBE LA CRONACA",
+    "lead_preview": "Roma, 29 settembre 2026. L'agenzia di stampa ANSA subordina la consultazione delle notizie alla profilazione pubblicitar",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "bc5c644e34911331",
     "slug": "lansa-tassa-linformazione-sedici-euro-lanno-per-le-bc5c644e34911331",
     "title": "Ansa impone 16,99 euro o 750 tracciatori: leggibilità dimezzata",
@@ -1471,25 +1486,6 @@
     "tags": [
       "intelligenza artificiale trump",
       "regolazione ia stati uniti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b15c0d02430b5086",
-    "slug": "ansa-oscura-le-notizie-o-cedi-i-dati-o-paghi-1699-b15c0d02430b5086",
-    "title": "ANSA oscura le notizie: o cedi i dati o paghi 16,99 euro all'anno",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-09-30T12:21:30.633108+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/1d2a293fcf75525d389567054c675c78.jpg",
-    "occhiello": "LA CANCELLAZIONE DEI COOKIE SPEGNEREBBE LA CRONACA",
-    "lead_preview": "Roma, 29 settembre 2026. L'agenzia di stampa ANSA subordina la consultazione delle notizie alla profilazione pubblicitar",
-    "tags": [
-      "privacy",
-      "media",
-      "journalism"
     ],
     "hero_eligible": true
   },
