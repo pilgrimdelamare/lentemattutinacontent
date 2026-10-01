@@ -1,5 +1,23 @@
 [
   {
+    "id": "a90f065fbb5adb73",
+    "slug": "cardiff-sconfisse-da-cardiff-a90f065fbb5adb73",
+    "title": "Cardiff sconfisse da Cardiff",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-01T13:19:42.390266+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/9c12458780d410cde81e0e55fb045afcfe86c26a/skysport/it/rugby/video/2026/10/01/1128295_1790846224804_thumb_494.0000001_1790859862737.jpg",
+    "occhiello": "NUOVO CAPITANO PER LE ZEBRE IN GALL TERRA",
+    "lead_preview": "Cardiff, 1 ottobre 2026.",
+    "tags": [
+      "rugby gallese",
+      "cardiff rugby"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5d4c2297c21d4ab6",
     "slug": "calcio-italia-pronta-per-euro-2032-ecco-le-13-citt-5d4c2297c21d4ab6",
     "title": "Calcio: Rispondono le sedute con l'Europa",
@@ -8370,24 +8388,6 @@
       "calcio",
       "sport",
       "serie_c"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "eba0d9fb429f27d9",
-    "slug": "racing-world-ferrari-di-franciacorta-mancano-i-pre-eba0d9fb429f27d9",
-    "title": "Racing World: Ferrari di Franciacorta mancano i premi dopo tre stagioni consecutivi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-27T19:53:36.219284+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/26/251ed92961e4b0c9613cbe45c6f630e0.jpg",
-    "occhiello": "FERRARI A SECCO DI PODI DA LUGLIO NEL MONDIALE DI FORMULA 1",
-    "lead_preview": "Sepang, 27 settembre 2026. La Formula 1 vola in Malaysia per l'appuntamento sul Circuito di Sepang, mentre la Ferrari si",
-    "tags": [
-      "ferrari f1",
-      "mondiale formula 1"
     ],
     "hero_eligible": true
   }
