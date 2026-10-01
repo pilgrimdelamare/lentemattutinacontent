@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-01T19:44:24.029787+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cin",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "5f3adb036e496705",
     "slug": "borsa-europea-in-picchiata-con-i-bond-5f3adb036e496705",
     "title": "Borsa europea in picchiata con i bond",
@@ -82,25 +101,6 @@
       "eurotech vem solutions"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente do",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-01T19:04:08.238981+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "ChatGPT risulta inaccessibile da quindici minuti. Il servizio è completamente down. Gli utenti italiani non possono più ",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "26ac2488bf75eebb",
