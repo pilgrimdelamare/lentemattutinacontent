@@ -1,5 +1,24 @@
 [
   {
+    "id": "1d2c0cfb650ceed2",
+    "slug": "mattarella-a-monaco-prima-visita-storica-ma-a-roma-1d2c0cfb650ceed2",
+    "title": "Mattarella a Monaco: prima visita storica, ma a Roma tacciono sulle tasse",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-10-02T09:53:54.630575+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/8307a7aeb5a1366756817f68af09953b.jpg",
+    "occhiello": "LA PRIMA VISITA DI UN CAPO DELLO STATO A MONTECARLO",
+    "lead_preview": "Roma, 2 ottobre 2026. Sergio Mattarella è arrivato a Montecarlo per la prima visita di Stato di un Presidente della Repu",
+    "tags": [
+      "mattarella",
+      "monaco",
+      "visita di stato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9d8e4cedf10796fc",
     "slug": "ansa-tassa-la-privacy-17-euro-allanno-per-leggere-9d8e4cedf10796fc",
     "title": "ANSA tassa la Privacy: 17 euro all'anno per leggere 10 articoli senza Cookie",
@@ -8371,21 +8390,6 @@
       "serie c",
       "treviso renate"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c0b54a7fcac73152",
-    "slug": "contratto-a-breve-termine-i-prezzi-del-gas-alla-po-c0b54a7fcac73152",
-    "title": "Il gas tocca settantasette euro a amsterdam",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-28T06:24:49.640252+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/10/13/6fef74cd41e7604802993ab2b88b9e8b.jpg",
-    "occhiello": "IL GAS TOCCA SETTANTASETTE EURO A AMSTERDAM",
-    "lead_preview": "Amsterdam, 28 settembre 2026. Sulla piazza Ttf di Amsterdam i contratti future per il mese di ottobre registrano un incr",
-    "tags": [],
     "hero_eligible": true
   }
 ]
