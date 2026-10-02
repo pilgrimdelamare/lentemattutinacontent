@@ -1,27 +1,24 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
+  "title": "ChatGPT torna alla normale, chatbox sulla rete è tornata al 100% operativa",
   "titles": [
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena "
+    "ChatGPT torna alla normale, chatbox sulla rete è tornata al 100% operativa",
+    "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
+    "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
   "lead": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cinquantacinque minuti. Gli utenti possono ora accedere senza interruzioni.",
   "corpo1": "Il disservizio si è verificato in mattinata, impedendo temporaneamente l'accesso ai servizi di intelligenza artificiale. La durata dell'interruzione è stata di cinquantacinque minuti. I sistemi di monitoraggio confermano ora il ripristino completo della stabilità. Le infrastrutture operative sono tornate nominali. Non si registrano ulteriori anomalie nelle prestazioni del servizio. La piattaforma è nuovamente disponibile per tutti gli utenti registrati.",
-  "corpo2": "",
+  "corpo2": "Dietro questa breve interruzione di cinquantacinque minuti non c’è un semplice guasto tecnico, ma la gestione di un’infrastruttura di calcolo che oggi richiede un dispendio energetico e una complessità di interconnessione senza precedenti. OpenAI, come altri giganti del settore, poggia il proprio modello di business su cluster di GPU (unità di elaborazione grafica) distribuiti in data center che operano ai limiti delle capacità fisiche di raffreddamento e stabilità elettrica. Quando il servizio si ferma, non è il \"software\" a spegnersi, ma la sincronizzazione tra migliaia di server che tentano di processare in parallelo le richieste di milioni di utenti.\n\nIl modello di business dietro ChatGPT si basa sulla capacità di mantenere l'accesso costante per giustificare gli abbonamenti \"Plus\" e le tariffe API per le aziende che integrano l'IA nei propri flussi di lavoro. Ogni minuto di inattività si traduce in una perdita diretta di produttività per le imprese che hanno delegato la redazione di documenti, l'analisi di dati o la scrittura di codice a questi sistemi. La natura centralizzata di questa architettura significa che, se il server Centrale o il sistema di gestione del traffico subisce un'anomalia, l'intero ecosistema si paralizza. A differenza dei software tradizionali, che risiedono localmente sul computer dell'utente, qui la dipendenza dal cloud è totale: senza la connessione ai server di OpenAI, l'utente non possiede alcun strumento operativo, perdendo di fatto l'accesso a qualsiasi funzione di automazione precedentemente attiva.\n\nLa frequenza di questi episodi di \"downtime\" è il vero indicatore della stabilità del sistema. Se la tendenza attuale alla crescita esponenziale dei parametri dei modelli, che richiede hardware sempre più energivoro e difficile da gestire, dovesse proseguire al ritmo registrato negli ultimi dodici mesi, la stabilità operativa diventerà il principale collo di bottiglia per l'adozione su larga scala. Tra tre anni, se le infrastrutture di OpenAI non riusciranno a gestire picchi di carico con una ridondanza molto superiore a quella attuale, l'affidabilità del servizio sarà incompatibile con le necessità di continuità operativa richieste dai settori critici, rendendo di fatto l'IA un supporto utile solo per attività accessorie e non per l'infrastruttura decisionale delle aziende italiane.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-10-01T19:44:24.029787+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ChatGPT torna alla normale, chatbox sulla rete è tornata al 100% operativa\",\n  \"description\": \"ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cinquantacinque minuti. Gli utenti possono ora accedere senza interruzioni.\",\n  \"articleBody\": \"ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cinquantacinque minuti. Gli utenti possono ora accedere senza interruzioni. Il disservizio si è verificato in mattinata, impedendo temporaneamente l'accesso ai servizi di intelligenza artificiale. La durata dell'interruzione è stata di cinquantacinque minuti. I sistemi di monitoraggio confermano ora il ripristino completo della stabilità. Le infrastrutture operative sono tornate nominali. Non si registrano ulteriori anomalie nelle prestazioni del servizio. La piattaforma è nuovamente disponibile per tutti gli utenti registrati. Dietro questa breve interruzione di cinquantacinque minuti non c’è un semplice guasto tecnico, ma la gestione di un’infrastruttura di calcolo che oggi richiede un dispendio energetico e una complessità di interconnessione senza precedenti. OpenAI, come altri giganti del settore, poggia il proprio modello di business su cluster di GPU (unità di elaborazione grafica) distribuiti in data center che operano ai limiti delle capacità fisiche di raffreddamento e stabilità elettrica. Quando il servizio si ferma, non è il \\\"software\\\" a spegnersi, ma la sincronizzazione tra migliaia di server che tentano di processare in parallelo le richieste di milioni di utenti.\\n\\nIl modello di business dietro ChatGPT si basa sulla capacità di mantenere l'accesso costante per giustificare gli abbonamenti \\\"Plus\\\" e le tariffe API per le aziende che integrano l'IA nei propri flussi di lavoro. Ogni minuto di inattività si traduce in una perdita diretta di produttività per le imprese che hanno delegato la redazione di documenti, l'analisi di dati o la scrittura di codice a questi sistemi. La natura centralizzata di questa architettura significa che, se il server Centrale o il sistema di gestione del traffico subisce un'anomalia, l'intero ecosistema si paralizza. A differenza dei software tradizionali, che risiedono localmente sul computer dell'utente, qui la dipendenza dal cloud è totale: senza la connessione ai server di OpenAI, l'utente non possiede alcun strumento operativo, perdendo di fatto l'accesso a qualsiasi funzione di automazione precedentemente attiva.\\n\\nLa frequenza di questi episodi di \\\"downtime\\\" è il vero indicatore della stabilità del sistema. Se la tendenza attuale alla crescita esponenziale dei parametri dei modelli, che richiede hardware sempre più energivoro e difficile da gestire, dovesse proseguire al ritmo registrato negli ultimi dodici mesi, la stabilità operativa diventerà il principale collo di bottiglia per l'adozione su larga scala. Tra tre anni, se le infrastrutture di OpenAI non riusciranno a gestire picchi di carico con una ridondanza molto superiore a quella attuale, l'affidabilità del servizio sarà incompatibile con le necessità di continuità operativa richieste dai settori critici, rendendo di fatto l'IA un supporto utile solo per attività accessorie e non per l'infrastruttura decisionale delle aziende italiane.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-01T19:44:24.029787+00:00\",\n  \"dateModified\": \"2026-10-01T19:44:24.029787+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "L'intelligenza artificiale come la mongolfiera: cambiare quota per trovare la direzione giusta",
-      "url": "/tecnologia/lintelligenza-artificiale-come-la-mongolfiera-camb-cbd905d473ceeec2",
-      "id": "cbd905d473ceeec2",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/28/182652877-84d2ad81-fdcf-4711-9ef1-3334110b1194.jpg",
+      "title": "OpenAI e Anthropic infondono empatia materna alle IA: il piano per il controllo",
+      "url": "/tecnologia/openai-e-anthropic-infondono-empatia-materna-alle-fe76c048f871526a",
+      "id": "fe76c048f871526a",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/02/102120470-60d0050d-66dc-4dcf-9b47-7fc5c957dde9.jpg",
       "image_type": "image"
     },
     {
-      "title": "Borsa europea in picchiata con i bond",
-      "url": "/economia/borsa-europea-in-picchiata-con-i-bond-5f3adb036e496705",
-      "id": "5f3adb036e496705",
-      "image_url": "https://www.ansa.it",
+      "title": "Attacchi combinati sulla rete energetica di kyiv e odesa",
+      "url": "/esteri/attacchi-combinati-sulla-rete-energetica-di-kyiv-e-2c88de09cee90222",
+      "id": "2c88de09cee90222",
+      "image_url": "https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=b7efd9f45fbd4c451f62efde84ab3c06",
       "image_type": "image"
     },
     {
-      "title": "Femminicidio e vannacci: la cantautrice scompone il dibattito pubblico",
-      "url": "/cultura/femminicidio-e-vannacci-la-cantautrice-scompone-il-ec14f6a349dd3791",
-      "id": "ec14f6a349dd3791",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/6/30/201f6d34c6ba95e10f6929e362ab70a9.jpg",
-      "image_type": "image"
+      "title": "Calcio: i tedeschi stendono la Serbia, Jorge Jesus gela tutti sulla Nations League",
+      "url": "/sport/calcio-ramos-liquida-le-polemiche-a-sorpresa-la-re-60a99c336e3dc42e",
+      "id": "60a99c336e3dc42e",
+      "image_url": "https://sport.sky.it/assets/images/06bacd41d136d80170b4c66a1053dba16fdc74a6/skysport/it/calcio/nations-league/video/2026/10/01/1128496_1790887859613_thumb_494.0000001_1790888077802.jpg",
+      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-10-01T19:44:24.029787+00:00"
 }
