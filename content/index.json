@@ -1,5 +1,23 @@
 [
   {
+    "id": "1d2c0cfb650ceed2",
+    "slug": "mattarella-a-monaco-prima-visita-storica-ma-a-roma-1d2c0cfb650ceed2",
+    "title": "Sergio Mattarella in Monaco",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-02T09:53:54.630575+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/8307a7aeb5a1366756817f68af09953b.jpg",
+    "occhiello": "LA PRIMA VISITA DI UN CAPO DELLO STATO A MONTECARLO",
+    "lead_preview": "Roma, 2 ottobre 2026. Sergio Mattarella è arrivato a Montecarlo per la prima visita di Stato di un Presidente della Repu",
+    "tags": [
+      "mattarella monaco",
+      "visita di stato monaco"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "955b4364e903ac09",
     "slug": "bolivia-montano-arrestato-negli-istanti-in-cui-ins-955b4364e903ac09",
     "title": "Bolivia, arrestato il procuratore generale ad interim",
@@ -2790,25 +2808,6 @@
       "rugby",
       "torneo internazionale",
       "copertura televisiva"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1d2c0cfb650ceed2",
-    "slug": "mattarella-a-monaco-prima-visita-storica-ma-a-roma-1d2c0cfb650ceed2",
-    "title": "Mattarella a Monaco: prima visita storica, ma a Roma tacciono sulle tasse",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-02T09:53:54.630575+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/8307a7aeb5a1366756817f68af09953b.jpg",
-    "occhiello": "LA PRIMA VISITA DI UN CAPO DELLO STATO A MONTECARLO",
-    "lead_preview": "Roma, 2 ottobre 2026. Sergio Mattarella è arrivato a Montecarlo per la prima visita di Stato di un Presidente della Repu",
-    "tags": [
-      "mattarella",
-      "monaco",
-      "visita di stato"
     ],
     "hero_eligible": true
   },
