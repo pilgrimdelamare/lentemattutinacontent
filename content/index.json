@@ -1,5 +1,24 @@
 [
   {
+    "id": "c09e3ab434ba79a1",
+    "slug": "allevi-salta-la-prima-della-lost-time-symphony-lin-c09e3ab434ba79a1",
+    "title": "Allevi salta la prima della Lost Time Symphony: l'influenza ferma il debutto a Berlino",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-02T13:55:04.118174+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/e05c713238fa743baccd7791b8dab88d.jpg",
+    "occhiello": "ALLEVI ASSENTE ALLA PRIMA TEDESCA PER INFLUENZA",
+    "lead_preview": "Berlino, 2 ottobre 2026. Giovanni Allevi non ha presenziato alla prima Mondiale della sua nuova opera, Lost Time Symphon",
+    "tags": [
+      "influenza",
+      "compositore",
+      "opera"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7434ae34a5509a66",
     "slug": "ericsson-e-zte-tagliano-212-posti-di-lavoro-in-ita-7434ae34a5509a66",
     "title": "Ericsson e zte tagliano 212 posti di lavoro in italia",
@@ -8408,21 +8427,6 @@
       "sindaco",
       "festa"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cc8b02723eaa3300",
-    "slug": "drone-russo-travolge-posto-di-frontiera-polacco-cc8b02723eaa3300",
-    "title": "Drone russo travolge posto di frontiera polacco",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-28T19:39:57.608289+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/29/1a243fb17321dd6801faa706a8d1005a.jpg",
-    "occhiello": "DRONE RUSSO TRAVOLGE POSTO DI FRONTIERA POLACCO",
-    "lead_preview": "Varsavia, 28 settembre. Un drone russo ha danneggiato un posto di frontiera situato al confine tra Polonia e Ucraina. L'",
-    "tags": [],
     "hero_eligible": true
   }
 ]
