@@ -1,5 +1,23 @@
 [
   {
+    "id": "ed0cf544e83a15e0",
+    "slug": "whitehead-apre-bookcity-milano-gli-consegna-il-sig-ed0cf544e83a15e0",
+    "title": "Whitehead apre BookCity: Milano gli consegna il Sigillo della Città",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-02T14:54:40.775515+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/9778eb946e712841ecf2d4bd39f427c2.jpg",
+    "occhiello": "COLSON WHITEHEAD RICEVE IL SIGILLO DELLA CITTÀ A MILANO",
+    "lead_preview": "Milano, 2 ottobre 2026. Lo scrittore statunitense Colson Whitehead inaugura l'edizione 2026 di BookCity Milano. L'autore",
+    "tags": [
+      "bookcity milano",
+      "colson whitehead"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "37ac5714b9642f91",
     "slug": "norme-su-consenso-e-alcol-in-revisione-a-new-york-37ac5714b9642f91",
     "title": "Norme su consenso e alcol in revisione a new york",
@@ -8408,21 +8426,6 @@
       "chirurgia",
       "injurie"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cbd905d473ceeec2",
-    "slug": "lintelligenza-artificiale-come-la-mongolfiera-camb-cbd905d473ceeec2",
-    "title": "L'intelligenza artificiale come la mongolfiera: cambiare quota per trovare la direzione giusta",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-09-28T19:44:46.713847+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/28/182652877-84d2ad81-fdcf-4711-9ef1-3334110b1194.jpg",
-    "occhiello": "L'INTELLIGENZA ARTIFICIALE COME LA MONGOLFIERA: CAMBIARE QUOTA PER TROVARE LA DIREZIONE GIUSTA",
-    "lead_preview": "Milano, 28 settembre 2026. Bertrand Piccard, il pilota di mongolfiera e ambientalista svizzero noto per le sue imprese p",
-    "tags": [],
     "hero_eligible": true
   }
 ]
