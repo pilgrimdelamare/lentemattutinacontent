@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna alla normale, chatbox sulla rete è tornata al 100% operativa",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-01T19:44:24.029787+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cin",
+    "tags": [
+      "chatgpt interruzione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "68807815934d5abc",
     "slug": "il-podio-latinoamericano-tra-loigarca-messicano-e-68807815934d5abc",
     "title": "Carlos Slim, il re dei ricchi. La magnate messicano nega i difetti della corporazione",
@@ -4037,25 +4054,6 @@
     "lead_preview": "Bologna, 1 ottobre 2026. Il centro della Virtus Bologna, Aliou Diarra, ha firmato due schiacciate nel primo quarto della",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-01T19:44:24.029787+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cin",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "26ac2488bf75eebb",
