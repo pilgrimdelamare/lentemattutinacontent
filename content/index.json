@@ -1,5 +1,23 @@
 [
   {
+    "id": "e1b9340cc0af874d",
+    "slug": "il-caso-regeni-archiviato-dalla-ragion-di-stato-a-e1b9340cc0af874d",
+    "title": "Meloni blinda i rapporti con l'Egitto: nessun passo indietro per il caso Regeni",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-01T17:36:51.851115+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/13a0f3cda39a1bf05ac472e2c32d35d5.jpg",
+    "occhiello": "IL CASO REGENI ARCHIVIATO DALLA RAGION DI STATO A PALAZZO CHIGI",
+    "lead_preview": "Roma, 1 ottobre 2026. Giorgia Meloni rivendica la continuità diplomatica con l'Egitto nonostante il caso Regeni, sostene",
+    "tags": [
+      "caso regeni",
+      "rapporti italia egitto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aea1352938962c9d",
     "slug": "federazione-archivia-rocchi-designazioni-arbitrali-aea1352938962c9d",
     "title": "Archiviata l'indagine figc sull'operato di gianluca rocchi",
@@ -2194,24 +2212,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e1b9340cc0af874d",
-    "slug": "il-caso-regeni-archiviato-dalla-ragion-di-stato-a-e1b9340cc0af874d",
-    "title": "Il caso regeni archiviato dalla ragion di stato a palazzo chigi",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-01T17:36:51.851115+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/13a0f3cda39a1bf05ac472e2c32d35d5.jpg",
-    "occhiello": "IL CASO REGENI ARCHIVIATO DALLA RAGION DI STATO A PALAZZO CHIGI",
-    "lead_preview": "Roma, 1 ottobre 2026. Giorgia Meloni rivendica la continuità diplomatica con l'Egitto nonostante il caso Regeni, sostene",
-    "tags": [
-      "caso regeni",
-      "diplomazia italia egitto"
     ],
     "hero_eligible": true
   },
