@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 2 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-02T05:46:27.005725+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/badbb54723a49abdeecaeec804f4122908933a84/skytg24/it/cronaca/2026/10/02/prime-pagine-quotidiani-oggi-2-ottobre/cor.jpg",
+    "occhiello": "LE PRIME PAGINE DI VENERDI 2 OTTOBRE",
+    "lead_preview": "I giornali di oggi convergono sulle tensioni internazionali e sulle manovre economiche del governo. Al centro del dibatt",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e1b9340cc0af874d",
     "slug": "il-caso-regeni-archiviato-dalla-ragion-di-stato-a-e1b9340cc0af874d",
     "title": "Il caso regeni archiviato dalla ragion di stato a palazzo chigi",
@@ -3801,25 +3820,6 @@
       "nations league",
       "risultati partite",
       "sport"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 1 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-01T05:45:09.487230+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5d1e548c70de5a6471898074d93d9dc1ea5210dc/skytg24/it/cronaca/2026/10/01/prime-pagine-quotidiani-oggi-1-ottobre/1_Corriere.jpg",
-    "occhiello": "LE PRIME PAGINE 1 OTTOBRE 2026",
-    "lead_preview": "I quotidiani italiani convergono sul tentato dirottamento del volo Dubai-Tel Aviv. Il Corriere della Sera e La Repubblic",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
