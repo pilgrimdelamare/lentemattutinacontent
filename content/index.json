@@ -1,5 +1,23 @@
 [
   {
+    "id": "b95a77733cd8ddd5",
+    "slug": "la-testa-della-madonna-di-nagasaki-vola-verso-new-b95a77733cd8ddd5",
+    "title": "La testa della madonna di nagasaki vola verso new york",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-02T02:15:36.030764+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/ab8da15dbf10d49923ce9ecc4d34f8d5.jpg",
+    "occhiello": "LA TESTA DELLA MADONNA DI NAGASAKI VOLA VERSO NEW YORK",
+    "lead_preview": "Nagasaki, 2 ottobre 2026. Una scultura in legno raffigurante la testa della Madonna, sopravvissuta al bombardamento atom",
+    "tags": [
+      "madonna di nagasaki",
+      "scultura bombardamento atomico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5cf491ab9ba51d6c",
     "slug": "dieci-anni-senza-eco-la-braidense-rilegge-lisola-5cf491ab9ba51d6c",
     "title": "Dieci anni senza eco: la braidense rilegge l'isola",
@@ -8308,24 +8326,6 @@
     "tags": [
       "nations league 2026",
       "mancini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "affdceb94960a0cc",
-    "slug": "heslop-prende-il-titolo-a-polignano-affdceb94960a0cc",
-    "title": "Tuffi: Heslop chiude l'anno da re, titolo Mondiale in tasca a Polignano a Mare",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-09-27T17:45:16.681394+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/fadc0ae39e4b132d0a4a701b27500c11.jpg",
-    "occhiello": "HESLOP PRENDE IL TITOLO A POLIGNANO",
-    "lead_preview": "Polignano a Mare, 27 settembre.",
-    "tags": [
-      "mondiali tuffi",
-      "heslop"
     ],
     "hero_eligible": true
   }
