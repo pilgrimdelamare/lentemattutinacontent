@@ -1,5 +1,23 @@
 [
   {
+    "id": "e7ad876890b6820a",
+    "slug": "wall-street-vola-dow-jones-e-nasdaq-aprono-in-posi-e7ad876890b6820a",
+    "title": "Wall Street vola: Dow Jones e Nasdaq guadagnano oltre lo 0,2% tra l'euforia dei broker",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-01T14:13:08.584954+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/27/4cfff856e7ae181dd9fe8d4d784e997b.jpg",
+    "occhiello": "WALL STREET FESTEGGIA MENTRE IL RISPARMIO REALE RESTA A SECCO",
+    "lead_preview": "New York, 1 ottobre 2026. Wall Street apre la seduta odierna in territorio positivo, con il Dow Jones che segna un rialz",
+    "tags": [
+      "wall street",
+      "borsa new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "23434d84f82d0dc6",
     "slug": "hormuz-riapre-ai-flussi-di-greggio-tornano-i-volum-23434d84f82d0dc6",
     "title": "Hormuz riapre ai flussi di greggio: il petrolio scorre come prima della guerra",
@@ -2672,21 +2690,6 @@
     "image_url": "https://sport.sky.it/assets/images/d7a85d668a791545785075380ef4f05ec598278c/skysport/it/motori/formula-1/2025/09/04/f1-gp-italia-monza-2025-foto/antonelli_bono_mercedes_gp_monza_ipa.jpg",
     "occhiello": "ANTONELLI CONSERVA 66 PUNTI SU RUSSELL PRIMA DELLA MALESIA",
     "lead_preview": "Baku, 1 ottobre 2026. Andrea Kimi Antonelli mantiene la leadership del campionato Mondiale di Formula 1 al termine del G",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e7ad876890b6820a",
-    "slug": "wall-street-vola-dow-jones-e-nasdaq-aprono-in-posi-e7ad876890b6820a",
-    "title": "Wall street festeggia mentre il risparmio reale resta a secco",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-01T14:13:08.584954+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/27/4cfff856e7ae181dd9fe8d4d784e997b.jpg",
-    "occhiello": "WALL STREET FESTEGGIA MENTRE IL RISPARMIO REALE RESTA A SECCO",
-    "lead_preview": "New York, 1 ottobre 2026. Wall Street apre la seduta odierna in territorio positivo, con il Dow Jones che segna un rialz",
     "tags": [],
     "hero_eligible": true
   },
