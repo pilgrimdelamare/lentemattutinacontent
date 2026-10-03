@@ -1,5 +1,23 @@
 [
   {
+    "id": "bae265b60a87fa1b",
+    "slug": "calcio-desenzano-vince-a-bolognani-bae265b60a87fa1b",
+    "title": "Calcio: Desenzano vince a Bolognani",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-03T22:43:02.846843+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/97b7936591a06849105c521a95a1d93dc35e39be/skysport/it/calcio/serie-c/video/2026/10/03/1128976_1791060854335_thumb_494.0000001_1791062005427.jpg",
+    "occhiello": "DESENZANO ESPUGNA IL CAMPO DELLA FOLGORE CARATESE",
+    "lead_preview": "Milano, 3 ottobre 2026. L'Unione Sportiva Folgore Caratese ha perso per uno a due contro il Desenzano nella sfida valida",
+    "tags": [
+      "serie c",
+      "desenzano caratese"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f91636bed8e8f006",
     "slug": "calcio-ospitaletto-e-renate-si-dividono-la-posta-f-f91636bed8e8f006",
     "title": "Calcio: Ospitaletto e Renate si dividono la posta, finisce uno a uno in Serie C",
@@ -8337,24 +8355,6 @@
     "tags": [
       "strage di ustica",
       "inchiesta ustica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ba0e91650e44ccc",
-    "slug": "la-fifa-contrattacca-nelle-sale-potere-sul-progett-5ba0e91650e44ccc",
-    "title": "La fifa contrattacca nelle sale potere sul progetto privato",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-29T14:31:02.656946+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/5605c54d915752ca53664dd48b112517.jpg",
-    "occhiello": "LA FIFA CONTRATTACCA NELLE SALE POTERE SUL PROGETTO PRIVATO",
-    "lead_preview": "Roma, 29 settembre 2026. La Federazione Internazionale Calcio Associazione passa al contrattacco istituzionale accusando",
-    "tags": [
-      "fifa",
-      "calcio internazionale"
     ],
     "hero_eligible": true
   }
