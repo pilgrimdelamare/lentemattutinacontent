@@ -1,5 +1,23 @@
 [
   {
+    "id": "d7afb365d5568507",
+    "slug": "concerto-a-distanza-svolto-da-un-pianista-lombardo-d7afb365d5568507",
+    "title": "Concerto a distanza svolto da un pianista lombardo",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-03T13:00:28.819142+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/5635165b6ada68b9a0ec62d60d978b4f.jpg",
+    "occhiello": "PRIMO CONCERTO A DISTANZA CON IL SISTEMA DISKLAVIER",
+    "lead_preview": "Cremona, 3 ottobre 2026. Un pianoforte a Cremona suona da solo mentre il pianista esegue il brano a Rovigo, inaugurando ",
+    "tags": [
+      "concerto a distanza",
+      "disklavier"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "79cf3454f0b867d7",
     "slug": "il-43-dei-posti-resta-scoperto-nella-cantieristica-79cf3454f0b867d7",
     "title": "Il 43% dei posti resta scoperto nella cantieristica",
@@ -8348,25 +8366,6 @@
     "tags": [
       "azimut beanstox",
       "acquisizione beanstox"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "378aa94c587409a2",
-    "slug": "rendimenti-detenuti-sul-mercato-governativo-un-ris-378aa94c587409a2",
-    "title": "Rendimenti detenuti sul mercato governativo: un rischio a lungo termine",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-29T13:15:24.120778+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
-    "occhiello": "TITOLI DI STATO AL MASSIMO DA TRE ANNI",
-    "lead_preview": "Milano, 29 settembre 2026. Nell'asta dei titoli di Stato i rendimenti raggiungono i livelli più alti degli ultimi tre an",
-    "tags": [
-      "tassi di cambio",
-      "titoli di stato",
-      "rendimenti"
     ],
     "hero_eligible": true
   }
