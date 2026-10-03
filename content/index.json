@@ -1,5 +1,20 @@
 [
   {
+    "id": "25f865f74f375439",
+    "slug": "nadia-comaneci-al-festival-dello-sport-di-trento-25f865f74f375439",
+    "title": "Nadia comăneci al festival dello sport di trento",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-03T11:54:05.389543+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/b1f46e3ab07e4e863f0ea8792544e4ba.jpg",
+    "occhiello": "NADIA COMĂNECI AL FESTIVAL DELLO SPORT DI TRENTO",
+    "lead_preview": "Trento, 3 ottobre 2026. La leggenda della ginnastica Nadia Comăneci si è raccontata durante un incontro pubblico al Fest",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "438eb6d8e6a9a304",
     "slug": "la-serata-di-alajbegovic-il-gol-per-la-bosnia-e-il-438eb6d8e6a9a304",
     "title": "Calcio: L'ex portiere Alajbegović butta dentro da titolare e cambia la sfida contro la Croazia",
@@ -8372,24 +8387,6 @@
     "lead_preview": "Milano, 29 settembre. L'Associazione Calcio Milan ha ripreso gli allenamenti dopo la pausa per le selezioni nazionali, m",
     "tags": [
       "milan allenamenti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b89acee7d38129f8",
-    "slug": "f1-torna-a-sepang-non-e-sport-e-bilancio-b89acee7d38129f8",
-    "title": "F1 torna a sepang: non è sport, è bilancio",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-09-29T12:56:42.521575+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c681304ae711d82fb6217671786475d38226643a/skysport/it/motori/formula-1/f1-malesia-circuito-sepang/ansa_malesia_pista.jpg",
-    "occhiello": "F1 TORNA A SEPANG: NON È SPORT, È BILANCIO",
-    "lead_preview": "Kuala Lumpur, 29 settembre. La Formula 1 tornerà a rombare sul Circuito di Sepang, in Malesia, dal 2 al 4 ottobre, Nove ",
-    "tags": [
-      "f1 sepang",
-      "gp malesia"
     ],
     "hero_eligible": true
   }
