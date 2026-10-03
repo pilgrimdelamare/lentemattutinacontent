@@ -1,5 +1,20 @@
 [
   {
+    "id": "5eff3f554a7914b7",
+    "slug": "cedimento-anticiclonico-sul-mediterraneo-e-piogge-5eff3f554a7914b7",
+    "title": "Cedimento anticiclonico sul mediterraneo e piogge in arrivo",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-10-03T22:49:14.212552+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/03/223248015-8532028e-a27c-4feb-b439-239c9ffd3c37.jpg",
+    "occhiello": "CEDIMENTO ANTICICLONICO SUL MEDITERRANEO E PIOGGE IN ARRIVO",
+    "lead_preview": "Roma, 4 ottobre 2026. Le prime avvisaglie dell'autunno arrivano sul bacino del Mediterraneo con un cedimento del campo a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9201d28f28f3aebe",
     "slug": "il-carpi-cade-a-vercelli-nella-ottava-giornata-9201d28f28f3aebe",
     "title": "Il carpi cade a vercelli nella ottava giornata",
@@ -8335,24 +8350,6 @@
     "occhiello": "COOKIE E BOX PUBBLICITARI NELLA NOTIZIA ANSA",
     "lead_preview": "Roma, 29 settembre 2026. L'agenzia ANSA pubblica un testo interamente dedicato alle Condizioni di accesso commerciale e ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "18b2c6b329be8764",
-    "slug": "genova-il-teatro-nazionale-ribalta-lariosto-la-reg-18b2c6b329be8764",
-    "title": "Genova, il Teatro Nazionale ribalta l'Ariosto: la regia di Livermore punta tutto sulle donne",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-09-29T14:36:55.880307+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/16/4f45391104c6bcc2f1086347d557c681.jpg",
-    "occhiello": "GENOVA APRE LA STAGIONE TEATRALE CON UNA REGIA AL FEMMINILE",
-    "lead_preview": "Genova, 29 settembre 2026. L'8 ottobre il Teatro Nazionale di Genova inaugura la nuova stagione artistica portando in sc",
-    "tags": [
-      "stagione teatrale genova",
-      "regia livermore"
-    ],
     "hero_eligible": true
   }
 ]
