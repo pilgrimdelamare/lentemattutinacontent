@@ -1,5 +1,20 @@
 [
   {
+    "id": "649dcf062e09e8ca",
+    "slug": "calcio-la-lazio-pareggia-tre-a-tre-contro-la-juve-649dcf062e09e8ca",
+    "title": "Calcio: La Lazio pareggia tre a tre contro la Juve Stabia a Formello tra le critiche",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-03T15:20:55.120098+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/80c668d26ddf7853e681308260892d1b.jpg",
+    "occhiello": "TEST A FORMELLO TRA LA LAZIO E LA JUVE STABIA",
+    "lead_preview": "Roma, 3 ottobre 2026. Si è chiuso sul risultato di tre a tre il test amichevole disputato a Formello tra la squadra guid",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "b51b630be97b962e",
     "slug": "motogp-vinales-domina-fp2-a-motegi-bagnaia-in-13º-b51b630be97b962e",
     "title": "MotoGP: Bagnaia sprofonda al tredicesimo posto nelle prove libere del Gran Premio",
@@ -8333,21 +8348,6 @@
       "golden power pirelli",
       "pirelli abet hts"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a140165217d7cb87",
-    "slug": "il-petrolio-scivola-sulle-borse-americane-a140165217d7cb87",
-    "title": "Il petrolio scivola sulle borse americane",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-29T13:43:33.379117+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/29/c75d3ec09d67792f63f96440c865f3af.jpg",
-    "occhiello": "IL PETROLIO SCIVOLA SULLE BORSE AMERICANE",
-    "lead_preview": "New York, 29 settembre 2026. Il mercato petrolifero registra una battuta d'arresto significativa nella piazza finanziari",
-    "tags": [],
     "hero_eligible": true
   }
 ]
