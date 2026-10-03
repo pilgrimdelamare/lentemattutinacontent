@@ -1,5 +1,23 @@
 [
   {
+    "id": "baa1ec66b913bad3",
+    "slug": "gioco-dazzardo-porta-a-scomparire-valeria-cherchi-baa1ec66b913bad3",
+    "title": "Gioco d'azzardo porta a scomparire Valeria Cherchi e Andrea Camilli",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-03T14:01:15.617550+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/89834fba6b1832b8bff8e57823fe3fb4.jpg",
+    "occhiello": "GOVERNANCE FEDERALE AL CENTRO DEL CONFRONTO TRA ISTITUZIONI",
+    "lead_preview": "Roma, 3 ottobre 2026. La Federazione Italiana Giuoco Calcio incassa i pareri del Comitato Olimpico Nazionale Italiano su",
+    "tags": [
+      "figc",
+      "tesseramento essenziale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b45c8a5f969cea7b",
     "slug": "messina-nuovo-impianto-per-il-riciclo-dei-pannolin-b45c8a5f969cea7b",
     "title": "Messina, nuovo impianto per il riciclo dei pannolini",
@@ -8344,21 +8362,6 @@
       "crescita economica italia",
       "ufficio parlamentare bilancio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "836f2af1767f975c",
-    "slug": "venticinque-milioni-di-coltivatori-dietro-un-merca-836f2af1767f975c",
-    "title": "Venticinque milioni di coltivatori dietro un mercato da trentaquattro miliardi",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-09-29T13:21:20.967081+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/21/0200509bdc8704658242576dd1130ae6.jpg",
-    "occhiello": "VENTICINQUE MILIONI DI COLTIVATORI DIETRO UN MERCATO DA TRENTAQUATTRO MILIARDI",
-    "lead_preview": "Roma, 29 settembre 2026. La FAO celebra la prima Giornata Internazionale del Caffè, accendendo i riflettori su una filie",
-    "tags": [],
     "hero_eligible": true
   }
 ]
