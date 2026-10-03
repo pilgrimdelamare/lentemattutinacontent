@@ -1,5 +1,23 @@
 [
   {
+    "id": "e57d75e76d3a0a2c",
+    "slug": "i-neet-scendono-al-133-percento-ma-il-lavoro-resta-e57d75e76d3a0a2c",
+    "title": "I neet scendono al 13,3 percento ma il lavoro resta povero",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-02T13:37:03.240123+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/02/152951354-010f8af0-77ea-4f9d-98b6-962e78d6b1f5.jpg",
+    "occhiello": "I NEET SCENDONO AL 13,3 PERCENTO MA IL LAVORO RESTA POVERO",
+    "lead_preview": "Milano, 2 ottobre 2026. In Italia la Quota di giovani Neet, ovvero le persone tra i 15 e i 29 anni che non studiano e no",
+    "tags": [
+      "neet italia",
+      "lavoro giovani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d2ee76cfcbcb59f8",
     "slug": "il-diamante-tiffany-non-apparve-mai-nelle-riprese-d2ee76cfcbcb59f8",
     "title": "Tiffany: il Diamante da 128 carati resta in teca, Hepburn non lo sfoggia mai",
@@ -2230,21 +2248,6 @@
       "micat in vertice",
       "concerti sena"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e57d75e76d3a0a2c",
-    "slug": "i-neet-scendono-al-133-percento-ma-il-lavoro-resta-e57d75e76d3a0a2c",
-    "title": "I neet scendono al 13,3 percento ma il lavoro resta povero",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-02T13:37:03.240123+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/02/152951354-010f8af0-77ea-4f9d-98b6-962e78d6b1f5.jpg",
-    "occhiello": "I NEET SCENDONO AL 13,3 PERCENTO MA IL LAVORO RESTA POVERO",
-    "lead_preview": "Milano, 2 ottobre 2026. In Italia la Quota di giovani Neet, ovvero le persone tra i 15 e i 29 anni che non studiano e no",
-    "tags": [],
     "hero_eligible": true
   },
   {
