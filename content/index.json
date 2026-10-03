@@ -1,5 +1,20 @@
 [
   {
+    "id": "24742201f5bb22e5",
+    "slug": "ansa-blocca-le-notizie-economiche-o-paghi-16-euro-24742201f5bb22e5",
+    "title": "Un sito di notizie bloccato da cookie e paywall",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-02T07:02:18.634232+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/cea9ceb2db95ca97190eb9fb9bdb7493.jpg",
+    "occhiello": "UN SITO DI NOTIZIE BLOCCATO DA COOKIE E PAYWALL",
+    "lead_preview": "Roma, 2 ottobre 2026. L'accesso all'informazione finanziaria su Ansa.it si riduce a un blocco tecnico per gli utenti che",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3d3b1b6070332e2d",
     "slug": "tennis-paolini-domina-a-pechino-battuta-lucraina-s-3d3b1b6070332e2d",
     "title": "Jasmine Paolini supera il primo set in trentacinque minuti a Pechino",
@@ -1417,24 +1432,6 @@
     "tags": [
       "listini 2 ottobre 2026",
       "dati occupazione usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "24742201f5bb22e5",
-    "slug": "ansa-blocca-le-notizie-economiche-o-paghi-16-euro-24742201f5bb22e5",
-    "title": "Un sito di notizie bloccato da cookie e paywall",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-02T07:02:18.634232+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/cea9ceb2db95ca97190eb9fb9bdb7493.jpg",
-    "occhiello": "UN SITO DI NOTIZIE BLOCCATO DA COOKIE E PAYWALL",
-    "lead_preview": "Roma, 2 ottobre 2026. L'accesso all'informazione finanziaria su Ansa.it si riduce a un blocco tecnico per gli utenti che",
-    "tags": [
-      "paywall ansa",
-      "cookie profilazione"
     ],
     "hero_eligible": true
   },
