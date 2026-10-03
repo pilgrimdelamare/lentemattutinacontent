@@ -1,5 +1,24 @@
 [
   {
+    "id": "76bc97243d52f4d9",
+    "slug": "calcio-miele-minaccia-il-coni-chiede-commissario-f-76bc97243d52f4d9",
+    "title": "Calcio: Miele minaccia il CONI, chiede commissario FIGC subito",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-03T20:06:42.864982+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2013/12/2/c1af4b7021639eff3080472aaeb9a797.jpg",
+    "occhiello": "DIFFIDA AL CONI PER IL COMMISSARIAMENTO FEDERALE",
+    "lead_preview": "Roma, 3 ottobre 2026. Miele ha inviato una diffida formale al Comitato Olimpico Nazionale Italiano affinché proceda imme",
+    "tags": [
+      "calcio",
+      "coni",
+      "figc"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "438eb6d8e6a9a304",
     "slug": "la-serata-di-alajbegovic-il-gol-per-la-bosnia-e-il-438eb6d8e6a9a304",
     "title": "La serata di alajbegovic: il gol per la bosnia e il cambio",
@@ -8334,24 +8353,6 @@
       "sampdoria",
       "portiere",
       "calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5702b5ece7dd907c",
-    "slug": "portafoglio-europeo-rientra-nella-rottura-5702b5ece7dd907c",
-    "title": "Portafoglio Europeo rientra nella rottura",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-29T14:19:26.663707+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/25/cdbe1ccdae4f0d927f03027ea42cc009.jpg",
-    "occhiello": "MILANO SALE LO 0,8% CON TECHNOPROBE",
-    "lead_preview": "Milano, 29 settembre.",
-    "tags": [
-      "borsa milano",
-      "portafoglio europeo"
     ],
     "hero_eligible": true
   }
