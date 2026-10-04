@@ -1,5 +1,24 @@
 [
   {
+    "id": "5c5c51e0c2e79548",
+    "slug": "mattarella-ad-assisi-la-repubblica-si-inginocchia-5c5c51e0c2e79548",
+    "title": "Mattarella ad Assisi: la Repubblica si inginocchia di nuovo ai piedi di Francesco",
+    "section": "politica",
+    "priority": 6,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-04T07:06:36.527963+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/9d844be65317ec7b58e55ef1be7eee86.jpg",
+    "occhiello": "IL RITO DELLA RAPPRESENTANZA SVUOTA I SIMBOLI",
+    "lead_preview": "Assisi, 4 ottobre. Le campane della basilica hanno iniziato a suonare per le celebrazioni di San Francesco. L'attesa è p",
+    "tags": [
+      "assisi",
+      "francesco",
+      "presidenza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e1dc1fd454bd92b7",
     "slug": "papa-leone-colpisce-gambetti-addio-alla-basilica-d-e1dc1fd454bd92b7",
     "title": "Il cardinale gambetti lascia san pietro per un incarico a vasto",
@@ -8336,25 +8355,6 @@
     "tags": [
       "cookie ansa",
       "caso editoriale ansa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51184218e6171812",
-    "slug": "oggi-kristian-keskula-attribuisce-allattacco-a-mil-51184218e6171812",
-    "title": "Oggi: Kristian Kesküla attribuisce all'attacco a Milrem Robotics in conflitto tra Estonia e Rusia",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-29T15:05:24.107327+00:00",
-    "image_type": "image",
-    "image_url": "https://i.guim.co.uk/img/media/569e32f5018215bc2d4682ad4d78565135a78cc0/727_0_5120_4096/master/5120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=c937c3610929f4d0d416d7a384ba9da7",
-    "occhiello": "ATTACCO A MILREM ROBOTICS ORDINATO DAI SERVIZI SPECIALI RUSSI SECONDO TALLINN",
-    "lead_preview": "Tallinn, 29 settembre 2026. Il Premier estone Kristen Michal attribuisce l'attacco contro l'azienda Milrem Robotics ai s",
-    "tags": [
-      "conflictio",
-      "espionage",
-      "cyberattack"
     ],
     "hero_eligible": true
   }
