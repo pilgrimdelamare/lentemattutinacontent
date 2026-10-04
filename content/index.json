@@ -1,5 +1,20 @@
 [
   {
+    "id": "b26b58cf5a6219be",
+    "slug": "santos-trieste-la-partita-dei-porti-b26b58cf5a6219be",
+    "title": "Santos-trieste, la partita dei porti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-03T08:28:40.524395+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/16/e1842ee9e921b400c2aeb50c42dfcb3d.jpg",
+    "occhiello": "SANTOS-TRIESTE, LA PARTITA DEI PORTI",
+    "lead_preview": "Trieste, 3 ottobre 2026. Primi contatti sono Stati avviati tra il porto di Santos, il principale scalo del Brasile, e la",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ffd4658e92bffbf9",
     "slug": "test-amichevole-a-romano-dezzelino-per-il-vicenza-ffd4658e92bffbf9",
     "title": "Test amichevole a romano d'ezzelino per il vicenza",
@@ -1542,24 +1557,6 @@
     "occhiello": "CONFERENZA STAMPA INTERROTTA PER DOMANDE SU GAZA E VOLO FLYDUBAI",
     "lead_preview": "Roma, 3 ottobre 2026. Tensioni con giornalisti israeliani e interruzione della conferenza stampa del commissario tecnico",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b26b58cf5a6219be",
-    "slug": "santos-trieste-la-partita-dei-porti-b26b58cf5a6219be",
-    "title": "Trieste sfida Genova: il porto di Santos sposta le merci in Adriatico",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-03T08:28:40.524395+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/16/e1842ee9e921b400c2aeb50c42dfcb3d.jpg",
-    "occhiello": "SANTOS-TRIESTE, LA PARTITA DEI PORTI",
-    "lead_preview": "Trieste, 3 ottobre 2026. Primi contatti sono Stati avviati tra il porto di Santos, il principale scalo del Brasile, e la",
-    "tags": [
-      "porto trieste",
-      "porto santos"
-    ],
     "hero_eligible": true
   },
   {
