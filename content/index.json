@@ -1,5 +1,20 @@
 [
   {
+    "id": "a3c607837544d3b0",
+    "slug": "centenario-della-fontana-dellarca-di-noe-a3c607837544d3b0",
+    "title": "Centenario della fontana dell'arca di noe",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-04T10:29:11.876879+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/588603f194e0e16a2776045812645f6b.jpg",
+    "occhiello": "CENTENARIO DELLA FONTANA DELL'ARCA DI NOE",
+    "lead_preview": "Anticoli Corrado, 4 ottobre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "2f02dfe29ade83de",
     "slug": "la-geometria-del-gol-che-costa-milioni-sul-mercato-2f02dfe29ade83de",
     "title": "La geometria del gol che costa milioni sul mercato globale",
@@ -8326,24 +8341,6 @@
     "tags": [
       "ada colau",
       "caro affitti madrid"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8a1af4cd4345af1d",
-    "slug": "leuropa-nel-mirino-del-labour-tra-nazionalizzazion-8a1af4cd4345af1d",
-    "title": "UK, i Labour riaprono la porta all'UE: water e energia tornano statali",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-09-29T16:18:28.487376+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/09/29/175338882-bfd6bb02-0025-4b9b-ae92-885591b1c776.jpg",
-    "occhiello": "L'EUROPA NEL MIRINO DEL LABOUR TRA NAZIONALIZZAZIONI E RITORNI",
-    "lead_preview": "Liverpool, 29 settembre 2026. Il Premier britannico scuote la Politica nazionale durante la conferenza del partito labur",
-    "tags": [
-      "labour eu",
-      "nazionalizzazioni uk"
     ],
     "hero_eligible": true
   }
