@@ -1,5 +1,23 @@
 [
   {
+    "id": "10bfb4139488821d",
+    "slug": "il-processo-regeni-arriva-in-seconda-serata-su-rai-10bfb4139488821d",
+    "title": "Il processo regeni arriva in seconda serata su rai 3",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-03T09:35:17.532782+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/7b66152a9c05791d98d6e3948c4e2b4d.jpg",
+    "occhiello": "IL PROCESSO REGENI ARRIVA IN SECONDA SERATA SU RAI 3",
+    "lead_preview": "Roma, 3 ottobre 2026. Lo storico programma giudiziario Un giorno in Pretura porta sul piccolo schermo gli atti del dibat",
+    "tags": [
+      "processo regeni",
+      "un giorno in pretura"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4eaa7fa83ca17e7a",
     "slug": "merz-a-kiev-annuncia-nuovi-aiuti-militari-di-grand-4eaa7fa83ca17e7a",
     "title": "Merz a Kiev: annuncia nuovi aiuti militari di grande portata a Zelensky",
@@ -1624,24 +1642,6 @@
       "tag1",
       "tag2",
       "tag3"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "10bfb4139488821d",
-    "slug": "il-processo-regeni-arriva-in-seconda-serata-su-rai-10bfb4139488821d",
-    "title": "Il processo regeni arriva in seconda serata su rai 3",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-03T09:35:17.532782+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/7b66152a9c05791d98d6e3948c4e2b4d.jpg",
-    "occhiello": "IL PROCESSO REGENI ARRIVA IN SECONDA SERATA SU RAI 3",
-    "lead_preview": "Roma, 3 ottobre 2026. Lo storico programma giudiziario Un giorno in Pretura porta sul piccolo schermo gli atti del dibat",
-    "tags": [
-      "processo regeni",
-      "un giorno in pretura"
     ],
     "hero_eligible": true
   },
