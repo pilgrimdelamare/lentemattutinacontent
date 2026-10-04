@@ -1,5 +1,23 @@
 [
   {
+    "id": "ffd4658e92bffbf9",
+    "slug": "test-amichevole-a-romano-dezzelino-per-il-vicenza-ffd4658e92bffbf9",
+    "title": "Calcio: Sloveni del Koper vincenti contro il Vicenza",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-03T16:40:44.398033+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "TEST AMICHEVOLE A ROMANO D'EZZELINO PER IL VICENZA",
+    "lead_preview": "Romano d'Ezzelino, 3 ottobre 2026. Gli sloveni del Koper si impongono per due reti a uno contro il L.R. Vicenza nel test",
+    "tags": [
+      "calcio vicenza",
+      "amichevole koper vicenza"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4b6e5efa3e2a77ea",
     "slug": "il-manager-dei-media-zeiler-sfida-babler-in-austri-4b6e5efa3e2a77ea",
     "title": "Il manager dei media zeiler sfida babler in austria",
@@ -2280,25 +2298,6 @@
     "occhiello": "SANTOS-TRIESTE, LA PARTITA DEI PORTI",
     "lead_preview": "Trieste, 3 ottobre 2026. Primi contatti sono Stati avviati tra il porto di Santos, il principale scalo del Brasile, e la",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ffd4658e92bffbf9",
-    "slug": "test-amichevole-a-romano-dezzelino-per-il-vicenza-ffd4658e92bffbf9",
-    "title": "Test amichevole a romano d'ezzelino per il vicenza",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-03T16:40:44.398033+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "TEST AMICHEVOLE A ROMANO D'EZZELINO PER IL VICENZA",
-    "lead_preview": "Romano d'Ezzelino, 3 ottobre 2026. Gli sloveni del Koper si impongono per due reti a uno contro il L.R. Vicenza nel test",
-    "tags": [
-      "test amichevole",
-      "romano d'ezzelino",
-      "test internazionale"
-    ],
     "hero_eligible": true
   },
   {
