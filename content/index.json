@@ -1,5 +1,23 @@
 [
   {
+    "id": "1a24363911330991",
+    "slug": "ansa-blocca-news-trump-e-intelligence-1699-euro-pe-1a24363911330991",
+    "title": "ANSA blocca news Trump e Intelligence: 16,99 euro per leggere",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-04T13:25:54.893463+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/0d32c6dcce3aef7d9390a91c3d6bf1ce.jpg",
+    "occhiello": "UN PARETE DI COOKIE DI FRONTE AL CORRETTO FLUSSO DELL'INFORMAZIONE",
+    "lead_preview": "Roma, 4 ottobre 2026. L'agenzia ANSA ha pubblicato un blocco di accesso basato su Cookie di profilazione e abbonamenti C",
+    "tags": [
+      "paywall ansa",
+      "cookie profilazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94fb92b8dfe9d454",
     "slug": "perugia-si-abbattuta-contro-la-lecce-per-raggiunge-94fb92b8dfe9d454",
     "title": "Derby umbro di serie c: il perugia passa a gubbio 3-1",
@@ -8273,25 +8291,6 @@
     "tags": [
       "treviso capitale del libro",
       "candidatura treviso"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1b0dcb96739dc4b",
-    "slug": "shein-afferra-leconomia-hong-kong-b1b0dcb96739dc4b",
-    "title": "Shein crolla a Hong Kong: -11,7% in Borsa dopo il calo degli utili",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-09-29T15:19:51.966925+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/1/d37a8f17734363b8aa668a254d5f0c3a.jpg",
-    "occhiello": "SHEIN CROLLA DELL'11,7% A HONG KONG DOPO IL CALO DEGLI UTILI",
-    "lead_preview": "Hong Kong, 29 settembre 2026. La piattaforma globale di e-commerce Shein ha registrato un crollo dell'11,7% alla Borsa d",
-    "tags": [
-      "borsa",
-      "e-commerce",
-      "utili"
     ],
     "hero_eligible": true
   }
