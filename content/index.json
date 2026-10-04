@@ -1,5 +1,24 @@
 [
   {
+    "id": "ffd4658e92bffbf9",
+    "slug": "test-amichevole-a-romano-dezzelino-per-il-vicenza-ffd4658e92bffbf9",
+    "title": "Test amichevole a romano d'ezzelino per il vicenza",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-03T16:40:44.398033+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "TEST AMICHEVOLE A ROMANO D'EZZELINO PER IL VICENZA",
+    "lead_preview": "Romano d'Ezzelino, 3 ottobre 2026. Gli sloveni del Koper si impongono per due reti a uno contro il L.R. Vicenza nel test",
+    "tags": [
+      "test amichevole",
+      "romano d'ezzelino",
+      "test internazionale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d87eb29a1b7d5d0b",
     "slug": "rimonta-da--16-spinge-golden-state-ai-playoff-wnba-d87eb29a1b7d5d0b",
     "title": "La Vuelta a Espana 2021: Inizia con un succussione",
@@ -1996,21 +2015,6 @@
       "calcio",
       "derby_umbro"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ffd4658e92bffbf9",
-    "slug": "test-amichevole-a-romano-dezzelino-per-il-vicenza-ffd4658e92bffbf9",
-    "title": "Test amichevole a romano d'ezzelino per il vicenza",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-03T16:40:44.398033+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "TEST AMICHEVOLE A ROMANO D'EZZELINO PER IL VICENZA",
-    "lead_preview": "Romano d'Ezzelino, 3 ottobre 2026. Gli sloveni del Koper si impongono per due reti a uno contro il L.R. Vicenza nel test",
-    "tags": [],
     "hero_eligible": true
   },
   {
