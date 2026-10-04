@@ -1,5 +1,23 @@
 [
   {
+    "id": "a54b497c574a0e2f",
+    "slug": "freddo-incidente-al-ponte-nord-di-kiev-durante-vis-a54b497c574a0e2f",
+    "title": "A Kiev Merz trova il Ponte Nord sfondato: traffico bloccato e indagini",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-04T08:24:10.969921+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/26/c035c3830af1dcde98791104d7db115f.jpg",
+    "occhiello": "IMPATTO SULLA CARREGGIATA AL PONTE NORD",
+    "lead_preview": "Kiev, 4 ottobre 2026. Un impatto sulla carreggiata del Ponte Nord della città è stato registrato in concomitanza con la ",
+    "tags": [
+      "visita merz kiev",
+      "ponte nord kiev"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2b408a929db41065",
     "slug": "il-parasport-veneto-domina-la-scena-nella-domenica-2b408a929db41065",
     "title": "Il parasport veneto domina la scena nella domenica della pallacanestro",
@@ -2402,24 +2420,6 @@
     "occhiello": "LE DUE OFFERTE COMPLESSE DI MPS E LA VALUTAZIONE DEI SOCI",
     "lead_preview": "Roma, 4 ottobre 2026. L'agenzia di stampa ANSA riporta che la presentazione simultanea di due offerte pubbliche di acqui",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a54b497c574a0e2f",
-    "slug": "freddo-incidente-al-ponte-nord-di-kiev-durante-vis-a54b497c574a0e2f",
-    "title": "Freddo incidente al Ponte Nord di Kiev durante visita Merz",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-04T08:24:10.969921+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/26/c035c3830af1dcde98791104d7db115f.jpg",
-    "occhiello": "IMPATTO SULLA CARREGGIATA AL PONTE NORD",
-    "lead_preview": "Kiev, 4 ottobre 2026. Un impatto sulla carreggiata del Ponte Nord della città è stato registrato in concomitanza con la ",
-    "tags": [
-      "visita merz ucraina",
-      "incidente ponte nord kiev"
-    ],
     "hero_eligible": true
   },
   {
