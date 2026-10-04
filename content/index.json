@@ -1,5 +1,23 @@
 [
   {
+    "id": "d7afb365d5568507",
+    "slug": "concerto-a-distanza-svolto-da-un-pianista-lombardo-d7afb365d5568507",
+    "title": "Il pianoforte di Cremona si muove solo: l'esecutore sta in Venezuela a Rovigo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-03T13:00:28.819142+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/5635165b6ada68b9a0ec62d60d978b4f.jpg",
+    "occhiello": "PRIMO CONCERTO A DISTANZA CON IL SISTEMA DISKLAVIER",
+    "lead_preview": "Cremona, 3 ottobre 2026. Un pianoforte a Cremona suona da solo mentre il pianista esegue il brano a Rovigo, inaugurando ",
+    "tags": [
+      "concerto a distanza",
+      "disklavier"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a04017f67fc89255",
     "slug": "tennis-alexander-zverev-segue-djokovic-in-finale-d-a04017f67fc89255",
     "title": "Zverev si emoziona, djokovic incassa",
@@ -2132,24 +2150,6 @@
     "tags": [
       "leopolda 2026",
       "renzi primarie"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d7afb365d5568507",
-    "slug": "concerto-a-distanza-svolto-da-un-pianista-lombardo-d7afb365d5568507",
-    "title": "Concerto a distanza svolto da un pianista lombardo",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-03T13:00:28.819142+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/3/5635165b6ada68b9a0ec62d60d978b4f.jpg",
-    "occhiello": "PRIMO CONCERTO A DISTANZA CON IL SISTEMA DISKLAVIER",
-    "lead_preview": "Cremona, 3 ottobre 2026. Un pianoforte a Cremona suona da solo mentre il pianista esegue il brano a Rovigo, inaugurando ",
-    "tags": [
-      "concerto a distanza",
-      "disklavier"
     ],
     "hero_eligible": true
   },
