@@ -1,5 +1,23 @@
 [
   {
+    "id": "5ee34bee216af730",
+    "slug": "ciclismo-davide-piganzoli-trionfa-al-giro-dellemil-5ee34bee216af730",
+    "title": "Ciclismo: Piganzoli vince al San Luca, Pidcock e Onley staccati nell'ultimo chilometro",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-03T14:39:01.550079+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/29/b10ff608cfe008b761563175a2a0626d.jpg",
+    "occhiello": "IL TRIONFO SUL SAN LUCA PREMIA LA SCELTA OLANDESE",
+    "lead_preview": "Bologna, 3 ottobre 2026. Davide Piganzoli ha vinto il Giro dell'Emilia, precedendo sul traguardo in cima al colle del Sa",
+    "tags": [
+      "giro dell'emilia",
+      "piganzoli san luca"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5eff3f554a7914b7",
     "slug": "cedimento-anticiclonico-sul-mediterraneo-e-piogge-5eff3f554a7914b7",
     "title": "Cedimento anticiclonico sul mediterraneo e piogge in arrivo",
@@ -2264,25 +2282,6 @@
       "formula1",
       "granpremi",
       "circuito"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5ee34bee216af730",
-    "slug": "ciclismo-davide-piganzoli-trionfa-al-giro-dellemil-5ee34bee216af730",
-    "title": "Ciclismo: Piganzoli firma l'impresa al Giro dell'Emilia e stacca Pidcock",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-03T14:39:01.550079+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/29/b10ff608cfe008b761563175a2a0626d.jpg",
-    "occhiello": "IL TRIONFO SUL SAN LUCA PREMIA LA SCELTA OLANDESE",
-    "lead_preview": "Bologna, 3 ottobre 2026. Davide Piganzoli ha vinto il Giro dell'Emilia, precedendo sul traguardo in cima al colle del Sa",
-    "tags": [
-      "ciclismo",
-      "giro dell'emilia",
-      "davide piganzoli"
     ],
     "hero_eligible": true
   },
