@@ -1,5 +1,24 @@
 [
   {
+    "id": "a3c607837544d3b0",
+    "slug": "centenario-della-fontana-dellarca-di-noe-a3c607837544d3b0",
+    "title": "Martini: la Fontana dell'Arca di Noè festeggia i 100 anni ad Anticoli",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-04T10:29:11.876879+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/588603f194e0e16a2776045812645f6b.jpg",
+    "occhiello": "CENTENARIO DELLA FONTANA DELL'ARCA DI NOE",
+    "lead_preview": "Anticoli Corrado, 4 ottobre.",
+    "tags": [
+      "centenario",
+      "fontana",
+      "archi di noè"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d9be9cf0c38097da",
     "slug": "il-gas-tocca-quota-7575-euro-ad-amsterdam-la-bolle-d9be9cf0c38097da",
     "title": "Il gas tocca quota 75,75 euro ad Amsterdam: la bolletta Italiana sale",
@@ -1755,21 +1774,6 @@
       "francesco bagnaia",
       "gran premio giappone"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a3c607837544d3b0",
-    "slug": "centenario-della-fontana-dellarca-di-noe-a3c607837544d3b0",
-    "title": "Centenario della fontana dell'arca di noe",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-04T10:29:11.876879+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/588603f194e0e16a2776045812645f6b.jpg",
-    "occhiello": "CENTENARIO DELLA FONTANA DELL'ARCA DI NOE",
-    "lead_preview": "Anticoli Corrado, 4 ottobre.",
-    "tags": [],
     "hero_eligible": true
   },
   {
