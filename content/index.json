@@ -1,5 +1,24 @@
 [
   {
+    "id": "0df1079e81d7cdc2",
+    "slug": "prezzi-dei-carburanti-sopra-i-due-euro-nonostante-0df1079e81d7cdc2",
+    "title": "Green a 2,049 euro e gasolio oltre 2,24: l'inferno alla pompa non si placa",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-04T07:37:44.155565+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/c84b09eff7cd9774eaec83d7332c17b6.jpg",
+    "occhiello": "PREZZI DEI CARBURANTI SOPRA I DUE EURO NONOSTANTE IL TETTO",
+    "lead_preview": "Roma, 4 ottobre 2026. Stando agli ultimi dati dell’Osservatorio prezzi del Ministero delle Imprese e del Made in Italy, ",
+    "tags": [
+      "prezzi carburanti",
+      "benzina",
+      "self service"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "15dd5270cd58e96d",
     "slug": "nostalgia-da-regia-non-da-pista-15dd5270cd58e96d",
     "title": "Ivan Capelli torna al retro della corsa: F1 in Malesia",
@@ -1545,24 +1564,6 @@
     "tags": [
       "opas mps",
       "delfin mps"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0df1079e81d7cdc2",
-    "slug": "prezzi-dei-carburanti-sopra-i-due-euro-nonostante-0df1079e81d7cdc2",
-    "title": "Benzina a 2,049 e gasolio oltre i 2,24 euro: il carico sulle tasche delle famiglie italiane",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-04T07:37:44.155565+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/28/c84b09eff7cd9774eaec83d7332c17b6.jpg",
-    "occhiello": "PREZZI DEI CARBURANTI SOPRA I DUE EURO NONOSTANTE IL TETTO",
-    "lead_preview": "Roma, 4 ottobre 2026. Stando agli ultimi dati dell’Osservatorio prezzi del Ministero delle Imprese e del Made in Italy, ",
-    "tags": [
-      "prezzi carburanti",
-      "benzina gasolio"
     ],
     "hero_eligible": true
   },
