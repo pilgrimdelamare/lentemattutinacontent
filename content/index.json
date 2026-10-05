@@ -1,5 +1,20 @@
 [
   {
+    "id": "09f5bab088ad6523",
+    "slug": "ansa-info-cookie-spazzano-via-politica-sicilia-sol-09f5bab088ad6523",
+    "title": "Un parete di cookie e link di navigazione al posto della notizia",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-10-04T18:10:41.134799+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/8a94128f67deb95161ec55c4463ce568.jpg",
+    "occhiello": "UN PARETE DI COOKIE E LINK DI NAVIGAZIONE AL POSTO DELLA NOTIZIA",
+    "lead_preview": "Roma, 4 ottobre 2026. L'agenzia di stampa ANSA diffonde un testo privo di contenuti informativi, interamente composto da",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "01d466a3886db373",
     "slug": "il-presidente-usa-la-morale-per-processare-i-conti-01d466a3886db373",
     "title": "Il presidente usa la morale per processare i conti del palazzo",
@@ -2042,25 +2057,6 @@
     "occhiello": "NATIONS LEAGUE, LA SVIZZERA SUPERA LA SLOVENIA DUE A UNO",
     "lead_preview": "Zurigo, 03 ottobre 2026. La Svizzera batte la Slovenia per due a uno nella sfida valida per la Nations League, decisa da",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "09f5bab088ad6523",
-    "slug": "ansa-info-cookie-spazzano-via-politica-sicilia-sol-09f5bab088ad6523",
-    "title": "ANSA: info Cookie spazzano via politica Sicilia, solo elenco Siti esteri",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-04T18:10:41.134799+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/8a94128f67deb95161ec55c4463ce568.jpg",
-    "occhiello": "UN PARETE DI COOKIE E LINK DI NAVIGAZIONE AL POSTO DELLA NOTIZIA",
-    "lead_preview": "Roma, 4 ottobre 2026. L'agenzia di stampa ANSA diffonde un testo privo di contenuti informativi, interamente composto da",
-    "tags": [
-      "politica",
-      "informatica",
-      "privacità"
-    ],
     "hero_eligible": true
   },
   {
