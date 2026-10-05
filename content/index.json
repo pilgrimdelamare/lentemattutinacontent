@@ -1,5 +1,23 @@
 [
   {
+    "id": "d44db984c175327c",
+    "slug": "vuoto-normativo-sul-web-editoriale-d44db984c175327c",
+    "title": "Vuoto normativo sul web editoriale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-05T13:30:01.397212+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/ab9cd56230b878623c2b549bc05d9fce.jpg",
+    "occhiello": "VUOTO NORMATIVO SUL WEB EDITORIALE",
+    "lead_preview": "Roma, 5 ottobre 2026. L'agenzia di stampa ANSA offre ai propri lettori esclusivamente schermate di abbonamento commercia",
+    "tags": [
+      "web editoriale",
+      "vuoto normativo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "50bd0d3d4797b189",
     "slug": "pianese-ravenna-2-1-nella-terza-serie-50bd0d3d4797b189",
     "title": "Calcio: Ravenna incassa l'ennesimo ko esterno, la Pianese scappa in testa",
@@ -8308,24 +8326,6 @@
     "occhiello": "QUATTROCENTO GIOVANI TRA DIALOGO E CINEMA IN MACEDONIA",
     "lead_preview": "Chiusa, 1 ottobre 2026. Si è conclusa la quattordicesima edizione del Giffoni Macedonia Youth Film Festival, rassegna ci",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6e5e5515d76903f4",
-    "slug": "dalla-francia-alle-terme-arte-da-vivere-6e5e5515d76903f4",
-    "title": "Dalla francia alle terme, arte da vivere",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-01T12:52:02.715707+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/6fa170a6da0b8e713c3c6be004c7b95e.jpg",
-    "occhiello": "DALLA FRANCIA ALLE TERME, ARTE DA VIVERE",
-    "lead_preview": "Venaria Reale, 1 ottobre. La Reggia di Venaria ospita fino al 31 dicembre 2026 un’inedita mostra che porta il Novecento ",
-    "tags": [
-      "mostra venaria reale",
-      "arte novecento"
-    ],
     "hero_eligible": true
   }
 ]
