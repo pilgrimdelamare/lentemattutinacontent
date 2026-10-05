@@ -1,5 +1,24 @@
 [
   {
+    "id": "b81dc6535e266f21",
+    "slug": "record-del-mondo-per-calcagni-a-jesolo-b81dc6535e266f21",
+    "title": "Record del mondo per calcagni a jesolo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-04T14:59:36.985307+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/e3240cd84a31b6d46118e131a9d291c9.jpg",
+    "occhiello": "RECORD DEL MONDO PER CALCAGNI A JESOLO",
+    "lead_preview": "Jesolo, 4 ottobre.",
+    "tags": [
+      "record mondiale",
+      "calcagni",
+      "jesolo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7d95f61c624dea87",
     "slug": "sciopero-della-fame-a-montecitorio-per-la-riforma-7d95f61c624dea87",
     "title": "Riforma Penale in crisi: Segretario Più Europa inizia sciopero di fame",
@@ -2170,24 +2189,6 @@
       "presidenza",
       "politica",
       "evento"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b81dc6535e266f21",
-    "slug": "record-del-mondo-per-calcagni-a-jesolo-b81dc6535e266f21",
-    "title": "Atletica: Jesolo si accende, il record del mondo T72 sbarca in Italia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-04T14:59:36.985307+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/e3240cd84a31b6d46118e131a9d291c9.jpg",
-    "occhiello": "RECORD DEL MONDO PER CALCAGNI A JESOLO",
-    "lead_preview": "Jesolo, 4 ottobre.",
-    "tags": [
-      "record mondo calcagni",
-      "atletica jesolo"
     ],
     "hero_eligible": true
   },
