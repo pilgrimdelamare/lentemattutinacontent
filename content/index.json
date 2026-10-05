@@ -1,5 +1,24 @@
 [
   {
+    "id": "5c5c51e0c2e79548",
+    "slug": "mattarella-ad-assisi-la-repubblica-si-inginocchia-5c5c51e0c2e79548",
+    "title": "Mattarella a casa di San Francesco: l'Italia si stringe attorno al Capo dello Stato",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-10-04T07:06:36.527963+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/9d844be65317ec7b58e55ef1be7eee86.jpg",
+    "occhiello": "IL RITO DELLA RAPPRESENTANZA SVUOTA I SIMBOLI",
+    "lead_preview": "Assisi, 4 ottobre. Le campane della basilica hanno iniziato a suonare per le celebrazioni di San Francesco. L'attesa è p",
+    "tags": [
+      "presidenza",
+      "politica",
+      "evento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b31f33d5d2d6f6da",
     "slug": "quaranta-mila-sfratti-allanno-settantaquattro-perc-b31f33d5d2d6f6da",
     "title": "Quaranta mila sfratti all'anno, settantaquattro percento di crediti non incassati",
@@ -1481,25 +1500,6 @@
     "tags": [
       "basket serie a",
       "treviso basket"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5c5c51e0c2e79548",
-    "slug": "mattarella-ad-assisi-la-repubblica-si-inginocchia-5c5c51e0c2e79548",
-    "title": "Mattarella torna ad Assisi: il rito annuale che unisce Stato e fede",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-04T07:06:36.527963+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/9d844be65317ec7b58e55ef1be7eee86.jpg",
-    "occhiello": "IL RITO DELLA RAPPRESENTANZA SVUOTA I SIMBOLI",
-    "lead_preview": "Assisi, 4 ottobre. Le campane della basilica hanno iniziato a suonare per le celebrazioni di San Francesco. L'attesa è p",
-    "tags": [
-      "rito annuale",
-      "assisi",
-      "san francesco"
     ],
     "hero_eligible": true
   },
