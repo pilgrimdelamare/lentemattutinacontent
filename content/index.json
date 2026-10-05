@@ -1,5 +1,23 @@
 [
   {
+    "id": "12d452f4c2e19057",
+    "slug": "ansa-mette-linformazione-a-pagamento-17-euro-per-e-12d452f4c2e19057",
+    "title": "ANSA mette l'informazione a pagamento: 17 euro per evitare la profilazione dati",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-05T15:35:21.614250+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/4df462e878f6240f531027fc03201054.jpg",
+    "occhiello": "SITO ANSA INACCESSIBILE PER MANCATO CONSENSO AI COOKIE DI TRACCIAMENTO",
+    "lead_preview": "Roma, 5 ottobre 2026. L'accesso alle informazioni Internazionali pubblicate dall'agenzia di stampa ANSA risulta limitato",
+    "tags": [
+      "ans a paywall",
+      "cookie tracking"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dce656ec1f3a6f46",
     "slug": "il-premio-riccione-arriva-al-piccolo-teatro-di-mil-dce656ec1f3a6f46",
     "title": "Il premio riccione arriva al piccolo teatro di milano",
@@ -8377,21 +8395,6 @@
       "maxima roma",
       "eurocup pallacanestro"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "307f3c007152686d",
-    "slug": "lega-i-governatori-sottobanco-contro-salvini-307f3c007152686d",
-    "title": "Lega, i governatori sottobanco contro salvini",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-01T08:01:43.060359+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/01/095050354-b054bae5-cb2c-4031-9874-b51921114c7c.jpg",
-    "occhiello": "LEGA, I GOVERNATORI SOTTOBANCO CONTRO SALVINI",
-    "lead_preview": "Roma, 1 ottobre. Un gruppo di \"ribelli del Nord\" della Lega ha chiesto un voto segreto sulla leadership di Matteo Salvin",
-    "tags": [],
     "hero_eligible": true
   }
 ]
