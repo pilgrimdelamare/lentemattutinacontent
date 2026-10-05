@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-05T21:33:15.308335+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 40 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "b74c3d845b927c44",
     "slug": "cipro-supera-la-lettonia-nella-nations-league-il-5-b74c3d845b927c44",
     "title": "Cipro supera la lettonia nella nations league il 5 ottobre",
@@ -28,25 +47,6 @@
     "lead_preview": "Roma, 5 ottobre 2026. Gianluca Scamacca e Riccardo Calafiori sono diventati rispettivamente il quarantesimo e il quarant",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del ser",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-05T21:08:01.419021+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB OFFLINE: CRITICITA' SISTEMICA",
-    "lead_preview": "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del servizio impedisce agli sviluppatori italia",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "a5f0441ccb97b00e",
