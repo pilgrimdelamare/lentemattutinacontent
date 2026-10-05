@@ -1,5 +1,24 @@
 [
   {
+    "id": "d3a429a536d1e68a",
+    "slug": "altman-subite-i-danni-dellai-la-liberta-di-scelta-d3a429a536d1e68a",
+    "title": "Altman: subite i danni dell'AI, la libertà di scelta vale più della Sicurezza",
+    "section": "tecnologia",
+    "priority": 6,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-05T10:02:03.826990+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/112858861-d9b1e05f-6f20-473d-a0e2-9302cfd0db8e.jpg",
+    "occhiello": "IL PREZZO DELL'INTELLIGENZA ARTIFICIALE SECONDO SAM ALTMAN",
+    "lead_preview": "San Francisco, 5 ottobre 2026. Il Mondo deve accettare alcune cose brutte in cambio dei benefici dell'intelligenza artif",
+    "tags": [
+      "intelligenza artificiale",
+      "sicurezza informatica",
+      "benefici tecnologici"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a0e8bd0b45b51ac6",
     "slug": "la-spesa-degli-americani-decide-il-voto-al-congres-a0e8bd0b45b51ac6",
     "title": "La spesa degli americani decide il voto al congresso",
@@ -8258,24 +8277,6 @@
     "occhiello": "IL NAPOLI TORNA IN EUROPA BATTENDO I CAMPIONI IN CARICA",
     "lead_preview": "Napoli, 30 settembre 2026. Il Napoli Basket festeggia il ritorno sul palcoscenico continentale dopo venti anni di assenz",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "240d5d5f58e0c178",
-    "slug": "il-chihuahua-comando-mascotte-in-messico-linformaz-240d5d5f58e0c178",
-    "title": "Il chihuahua comando e le barriere digitali dell'informazione",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-09-30T21:45:21.863952+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "IL CHIHUAHUA COMANDO E LE BARRIERE DIGITALI DELL'INFORMAZIONE",
-    "lead_preview": "Roma, 30 settembre 2026. Il chihuahua Comando è la nuova mascotte della Guardia Nazionale messicana, impiegato in un'ope",
-    "tags": [
-      "chihuahua comando",
-      "guardia nazionale messicana"
-    ],
     "hero_eligible": true
   }
 ]
