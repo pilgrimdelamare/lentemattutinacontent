@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 5 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-05T05:45:51.600921+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/edfeebc19dea279d2c3a7abb9c4cca36068bb244/skytg24/it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre/corriere-della-sera-035644dsa8slh.jpg",
+    "occhiello": "LE PRIME PAGINE LUNEDI 5 OTTOBRE",
+    "lead_preview": "I quotidiani italiani convergono sull'attacco russo a Kiev durante la visita del cancelliere tedesco Merz. Il Corriere d",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5edb6cb910300c08",
     "slug": "lebron-james-debutta-con-la-maglia-numero-nove-5edb6cb910300c08",
     "title": "Lebron james debutta con la maglia numero nove",
@@ -6845,25 +6864,6 @@
     "tags": [
       "disoccupazione italia",
       "dati istat lavoro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 2 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-02T05:46:27.005725+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/badbb54723a49abdeecaeec804f4122908933a84/skytg24/it/cronaca/2026/10/02/prime-pagine-quotidiani-oggi-2-ottobre/cor.jpg",
-    "occhiello": "LE PRIME PAGINE DI VENERDI 2 OTTOBRE",
-    "lead_preview": "I giornali di oggi convergono sulle tensioni internazionali e sulle manovre economiche del governo. Al centro del dibatt",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
