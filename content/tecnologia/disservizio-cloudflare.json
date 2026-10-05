@@ -1,17 +1,17 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
+  "title": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black",
   "titles": [
-    "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-    "Cloudflare è tornato online dopo 176 minuti di interruzione."
+    "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black",
+    "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black",
+    "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLOUDFLARE RIPRISTINATO",
-  "lead": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Cloudflare è stato risolto. L'interruzione è durata circa 176 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "CRISI INFRASTRUTTURA CLOUDFLARE IN CORSO",
+  "lead": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il blackout sta paralizzando l'accesso a migliaia di siti web e servizi digitali critici su tutto il territorio italiano, causando interruzioni diffuse nei flussi di traffico internet.",
+  "corpo1": "Il malfunzionamento è iniziato alle ore 09:15, provocando errori 502 e 504 su scala globale. L'infrastruttura di distribuzione dei contenuti e i sistemi di protezione DDoS sono attualmente offline, rendendo inaccessibili piattaforme di e-commerce e portali di pagamento online. Gli utenti riscontrano l'impossibilità di completare transazioni finanziarie e di accedere ai servizi bancari basati su cloud. I tecnici sono al lavoro per isolare la causa del guasto, ma al momento non sono stati forniti tempi certi per il ripristino completo della connettività. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:32:29.062067+00:00",
+  "published_at": "2026-10-05T17:03:36.794584+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/cloudflare.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "GitHub è tornato online dopo 66 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Claude si affida ai preti: Anthropic cerca la morale nei sacri testi",
+      "url": "/tecnologia/claude-si-affida-ai-preti-anthropic-cerca-la-moral-94c9363f176dcb34",
+      "id": "94c9363f176dcb34",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/130133331-2ce5b73a-1985-4d4d-8497-d4ecb2ec76c3.jpg",
       "image_type": "image"
     },
     {
-      "title": "WhatsApp è tornato online dopo 155 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-whatsapp",
-      "id": "monitor_whatsapp",
-      "image_url": "https://logo.clearbit.com/whatsapp.com",
+      "title": "Altman: subite i danni dell'AI, la libertà di scelta vale più della Sicurezza",
+      "url": "/tecnologia/altman-subite-i-danni-dellai-la-liberta-di-scelta-d3a429a536d1e68a",
+      "id": "d3a429a536d1e68a",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/112858861-d9b1e05f-6f20-473d-a0e2-9302cfd0db8e.jpg",
       "image_type": "image"
     },
     {
-      "title": "Discord è tornato online dopo 176 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Gallot: l'IA di Microsoft si poliziotterà da sola, l'uomo resta un lusso",
+      "url": "/tecnologia/gallot-lia-di-microsoft-si-poliziottera-da-sola-lu-b16e3d78a86611e4",
+      "id": "b16e3d78a86611e4",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/04/194520213-033ed22b-f653-4607-b66c-d3e6c9eea01c.jpg",
       "image_type": "image"
     }
   ],
