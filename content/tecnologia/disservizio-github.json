@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del ser",
+  "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
   "titles": [
-    "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del ser",
-    "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del ser",
-    "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del ser"
+    "GitHub è tornato online dopo 40 minuti di interruzione.",
+    "GitHub è tornato online dopo 40 minuti di interruzione.",
+    "GitHub è tornato online dopo 40 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB OFFLINE: CRITICITA' SISTEMICA",
-  "lead": "GitHub risulta irraggiungibile da quindici minuti. L'interruzione totale del servizio impedisce agli sviluppatori italiani di accedere ai repository, compromettendo le pipeline di integrazione continua e bloccando le operazioni di deployment in tempo reale.",
-  "corpo1": "Il malfunzionamento è iniziato alle 09:15 UTC, generando errori di connettività globali. Attualmente sono inaccessibili le interfacce web, l'API pubblica e i servizi di autenticazione. Le operazioni di push, pull e merge request sono completamente bloccate. Questo arresto impedisce la collaborazione in tempo reale e ferma i flussi di lavoro automatizzati. Non sono disponibili stime ufficiali per il ripristino. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 40 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 40 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-05T21:08:01.419021+00:00",
+  "published_at": "2026-10-05T21:33:15.308335+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
