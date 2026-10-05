@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 2 ottobre 2026",
+  "title": "Le prime pagine di oggi, lunedì 5 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 2 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 2 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 2 ottobre 2026"
+    "Le prime pagine di oggi, lunedì 5 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 5 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 5 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI VENERDI 2 OTTOBRE",
-  "lead": "I giornali di oggi convergono sulle tensioni internazionali e sulle manovre economiche del governo. Al centro del dibattito la richiesta di flessibilità di bilancio avanzata da Giorgia Meloni all'Unione Europea, che trova risposte divergenti tra le testate. Grande spazio è dedicato alle violente proteste studentesche che stanno interessando la Francia, descritte come un'emergenza europea. Sul fronte interno, tengono banco le fibrillazioni nella maggioranza sulla legge elettorale e il confronto tra le opposizioni, mentre il Sole 24 Ore si concentra sull'andamento dei mercati finanziari.",
-  "corpo1": "Il Corriere della Sera apre sulle mosse del governo per ottenere maggiore flessibilità dall'Unione Europea a causa dell'inflazione, dedicando spazio alla rivolta studentesca in Francia. La Repubblica titola invece sul rifiuto dell'Europa alla richiesta italiana, riportando anche il duello politico tra Schlein e Conte. La Stampa si concentra sugli scontri in Francia, affiancando la notizia alla trattativa tra Roma e Bruxelles sui fondi anti-inflazione. Il Messaggero punta sull'allarme europeo per la situazione francese e sulla tenuta della maggioranza sulla legge elettorale. Il Sole 24 Ore dedica l'apertura alla tempesta sui bond e ai rendimenti in crescita, oltre all'intesa sul deficit. Il Giornale celebra la tenuta della maggioranza sulla legge elettorale, mentre Il Resto del Carlino titola sul braccio di ferro tra Meloni e l'Europa sui conti pubblici.",
-  "corpo2": "La Gazzetta dello Sport apre sulla Nazionale in vista della sfida con la Francia e il confronto con Zidane. Il Giornale tratta il caso Garlasco, mentre La Repubblica riporta i mancati risarcimenti per il caso Regeni. Il Messaggero segnala un taglio di 8 miliardi nella Manovra e Il Sole 24 Ore riporta le parole di Draghi sui tassi di interesse. La politica europea e le tensioni sociali in Francia rappresentano i temi prevalenti di questa giornata.",
+  "occhiello": "LE PRIME PAGINE LUNEDI 5 OTTOBRE",
+  "lead": "I quotidiani italiani convergono sull'attacco russo a Kiev durante la visita del cancelliere tedesco Merz. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero riportano i raid e le dichiarazioni di Zelensky su un possibile vertice trilaterale a ottobre. La Repubblica sottolinea l'emergenza abitativa globale e la crisi politica in Spagna. Il Messaggero e La Stampa evidenziano l'appello alla pace di Mattarella e Zuppi. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sul secondo posto di Kimi Antonelli in Malesia e sulla partita Italia Turchia di stasera.",
+  "corpo1": "Il Corriere della Sera titola sulla guerra in Ucraina, specificando il raid russo durante la visita di Merz e le parole di Zelensky sui colloqui con gli Stati Uniti. La Repubblica mette in primo piano la crisi degli alloggi, citando la possibilità di elezioni anticipate in Spagna e la difficoltà di tre milioni di italiani. La Stampa riporta i dati ONU sulle vittime civili e l'intervento congiunto di Mattarella e Zuppi, oltre all'accordo su Mps. Il Messaggero apre con l'appello del Presidente della Repubblica ad Assisi e le minacce russe sul fronte del Donetsk. La Gazzetta dello Sport dedica la copertina a Kimi Antonelli, secondo a Sepang, e alla sfida della Nazionale contro la Turchia. Il Corriere dello Sport utilizza il titolo L'ora è giunta per la partita di Bologna, sottolineando l'obiettivo di blindare la serie A di Nations.",
+  "corpo2": "Sui quotidiani generali compaiono anche le presidenziali brasiliane tra Bolsonaro jr e Lula sul Corriere della Sera e i dettagli tecnici dell'accordo su Mps su La Stampa e Il Messaggero. Nel settore sportivo, oltre ad Antonelli e alla Nazionale, spiccano le dichiarazioni di Fabregas. Il tema dominante della giornata resta il conflitto in Ucraina e le sue ripercussioni diplomatiche e sociali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-02T05:46:27.005725+00:00",
+  "published_at": "2026-10-05T05:45:51.600921+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/badbb54723a49abdeecaeec804f4122908933a84/skytg24/it/cronaca/2026/10/02/prime-pagine-quotidiani-oggi-2-ottobre/cor.jpg",
+    "url": "https://tg24.sky.it/assets/images/edfeebc19dea279d2c3a7abb9c4cca36068bb244/skytg24/it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre/corriere-della-sera-035644dsa8slh.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/02/prime-pagine-quotidiani-oggi-2-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 2 ottobre 2026",
+      "title": "Oroscopo di oggi, lunedì 5 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Introdurre Helmut Schober: La mostra inizia oggi",
-      "url": "/cultura/la-fondazione-mudima-omaggia-helmut-schober-87f07906436cb4de",
-      "id": "87f07906436cb4de",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/ff6dcabe9337138229fb9ac15cf075de.jpg",
-      "image_type": "image"
+      "title": "Nations league, kosovo-austria 1-1: la cronaca del 4 ottobre 2026",
+      "url": "/sport/nations-league-kosovo-austria-1-1-la-cronaca-del-4-9170699975e96c4b",
+      "id": "9170699975e96c4b",
+      "image_url": "https://sport.sky.it/assets/images/3a50774b134ce84fe6a865308079971110972cfe/skysport/it/calcio/nations-league/video/2026/10/04/1129216_1791149221526_thumb_494.0000001_1791149390277.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Amsterdam, 1 ottobre",
-      "url": "/economia/ttf-a-7179-euro-il-gas-scende-ma-le-bollette-non-s-61d369fb54122ea8",
-      "id": "61d369fb54122ea8",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/9/23/984d4636072d76e12f7b9e27fbb1a49d.jpg",
-      "image_type": "image"
+      "title": "Serie c, ottava giornata in campo il 3 ottobre 2026",
+      "url": "/sport/calcio-ospitaletto-e-renate-si-dividono-la-posta-f-f91636bed8e8f006",
+      "id": "f91636bed8e8f006",
+      "image_url": "https://sport.sky.it/assets/images/6f1cc6e7740145bb9ef3a176a755a64cabfe7133/skysport/it/calcio/serie-c/video/2026/10/03/1128977_1791061232694_thumb_494.0000001_1791062010145.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
