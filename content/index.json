@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-06T16:50:46.003189+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY IN DOWN",
+    "lead_preview": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "ede72cb735884847",
     "slug": "il-senato-accademico-si-prepara-a-votare-la-sfiduc-ede72cb735884847",
     "title": "Il senato accademico si prepara a votare la sfiducia al presidente kotlikoff",
@@ -8297,24 +8316,6 @@
     "occhiello": "GLI ASCOLTI TELEVISIVI DELLA TELEVISIONE CONTEMPORANEA",
     "lead_preview": "Roma, 2 ottobre 2026. La fase delle Auditions si è conclusa e comincia l'era dei Bootcamp, mentre il programma X Factor ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "520c102b817e32a8",
-    "slug": "haiti-nel-terrore-5700-vittime-per-le-bande-armate-520c102b817e32a8",
-    "title": "Un'esodus massivo da Haiti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-02T11:18:45.744100+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55564430689_839e77c2c7_b.jpg",
-    "occhiello": "CINQUE SETTECENTO VITTIME DALLE BANDE ARMATE",
-    "lead_preview": "Port-au-Prince, 2 ottobre 2026. Almeno cinquemilasettecento persone sono state uccise o ferite in Haiti a causa delle vi",
-    "tags": [
-      "violenze haiti",
-      "bande armate haiti"
-    ],
     "hero_eligible": true
   }
 ]
