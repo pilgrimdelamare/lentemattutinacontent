@@ -1,5 +1,23 @@
 [
   {
+    "id": "cc17f3203a3c1784",
+    "slug": "alec-ross-chiede-politici-con-il-sangue-freddo-cc17f3203a3c1784",
+    "title": "Alec ross chiede politici con il sangue freddo",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-06T11:26:37.837600+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/d966d99a7a08ec50deb9c63306994312.jpg",
+    "occhiello": "ALEC ROSS CHIEDE POLITICI CON IL SANGUE FREDDO",
+    "lead_preview": "Roma, 6 ottobre. Alec Ross interviene nel dibattito pubblico richiamando la necessità di una classe dirigente dotata di ",
+    "tags": [
+      "alec ross",
+      "classe dirigente"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "488d9d3bb7afd3ad",
     "slug": "ansa-pagina-ansa-e-un-muro-di-cookie-e-abbonamenti-488d9d3bb7afd3ad",
     "title": "ANSA: pagina ANSA è un muro di Cookie e abbonamenti a 16,99, zero notizie",
@@ -8279,23 +8297,6 @@
       "gasolio",
       "europa",
       "amministrazione trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna alla normale, chatbox sulla rete è tornata al 100% operativa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-01T19:44:24.029787+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUANTACINQUE MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripristinato la piena funzionalità dopo un'interruzione di cin",
-    "tags": [
-      "chatgpt interruzione"
     ],
     "hero_eligible": true
   }
