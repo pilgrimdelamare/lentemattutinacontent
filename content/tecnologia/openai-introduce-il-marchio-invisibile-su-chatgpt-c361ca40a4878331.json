@@ -1,0 +1,59 @@
+{
+  "id": "c361ca40a4878331",
+  "slug": "openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
+  "title": "OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa",
+  "titles": [
+    "OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa",
+    "I testi di ChatGPT avranno una filigrana spia voluta dall'Unione Europea",
+    "Arriva la filigrana obbligatoria per tutti i testi di ChatGPT generati in Europa"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "FILIGRANA STATISTICA NEI TESTI DI CHATGPT E CODEX",
+  "lead": "Bruxelles, 6 ottobre 2026. OpenAI introdurrà nelle prossime settimane una filigrana statistica nelle risposte generate da ChatGPT e Codex all’interno dell'Unione Europea, rispondendo così agli obblighi previsti dall'articolo 50 del regolamento Europeo sull'intelligenza artificiale noto come AI Act.",
+  "corpo1": "OpenAI ha annunciato ufficialmente l’implementazione di un sistema di marcatura invisibile destinato ai testi prodotti dai suoi modelli linguistici nell'Unione Europea. La nuova funzione verrà attivata in modo graduale nel corso delle prossime settimane e interesserà direttamente i contenuti compatibili generati dagli utenti attraverso le interfacce ufficiali, indipendentemente dal piano di abbonamento utilizzato. Per quanto riguarda l’utilizzo dei modelli di OpenAI tramite le interfacce di programmazione delle applicazioni, conosciute come API, la filigrana risulta già disponibile su alcune versioni anche al di fuori dei confini europei. In questo specifico caso operativo, tuttavia, la responsabilità di attivare o meno la funzione spetta interamente allo sviluppatore terzo, poiché lo strumento viene fornito disabilitato come impostazione iniziale predefinita. Questa mossa tecnologica estende anche alla produzione testuale una logica di tracciamento e marcatura della provenienza che l’azienda di intelligenza artificiale applica già da tempo ai contenuti multimediali come immagini e file audio. L'intervento si inserisce nel perimetro normativo definito dall'Unione Europea per garantire la trasparenza e la tracciabilità dei contenuti prodotti artificialmente.",
+  "corpo2": "Un watermark testuale basato su logiche statistiche non è una barriera insormontabile per chi vuole aggirarlo, ma un indicatore probabilistico che altera la distribuzione della scelta dei token durante la generazione delle parole, lasciando una firma matematica invisibile a occhio umano ma leggibile da un algoritmo di rilevamento. Fino a oggi, la trasparenza dei modelli generativi è stata affidata a dichiarazioni di intenti aziendali e a strumenti di rilevamento di terze parti dalla dubbia affidabilità statistica, spesso incapaci di distinguere con precisione un testo umano da uno sintetico dopo poche modifiche manuali. La scelta di OpenAI di adeguarsi agli standard europei tramite una configurazione tecnica opzionale per le API dimostra che la conformità normativa viene spesso declinata attraverso compromessi operativi che lasciano ai singoli sviluppatori la discrezionalità d'uso. Nel mercato dei software aziendali, dove la segretezza del codice e la protezione della proprietà intellettuale rappresentano il vero valore patrimoniale, l'obbligo di rendere tracciabile l'origine dei contenuti sposta il baricentro della responsabilità legale dai produttori dell'infrastruttura ai soggetti che la utilizzano per fini commerciali. La filigrana statistica nei testi di ChatGPT e Codex non impedirà la diffusione di contenuti generati automaticamente nei flussi di informazione quotidiana, ma fissa un paletto normativo ed economico che l'industria tecnologica non può più ignorare nei confini dell'Unione Europea.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-10-06T11:42:20.242984+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa\",\n  \"description\": \"Bruxelles, 6 ottobre 2026. OpenAI introdurrà nelle prossime settimane una filigrana statistica nelle risposte generate da ChatGPT e Codex all’interno dell'Unione Europea, rispondendo così agli obblighi previsti dall'articolo 50 del regolamento Europeo sull'intelligenza artificiale noto come AI Act.\",\n  \"articleBody\": \"Bruxelles, 6 ottobre 2026. OpenAI introdurrà nelle prossime settimane una filigrana statistica nelle risposte generate da ChatGPT e Codex all’interno dell'Unione Europea, rispondendo così agli obblighi previsti dall'articolo 50 del regolamento Europeo sull'intelligenza artificiale noto come AI Act. OpenAI ha annunciato ufficialmente l’implementazione di un sistema di marcatura invisibile destinato ai testi prodotti dai suoi modelli linguistici nell'Unione Europea. La nuova funzione verrà attivata in modo graduale nel corso delle prossime settimane e interesserà direttamente i contenuti compatibili generati dagli utenti attraverso le interfacce ufficiali, indipendentemente dal piano di abbonamento utilizzato. Per quanto riguarda l’utilizzo dei modelli di OpenAI tramite le interfacce di programmazione delle applicazioni, conosciute come API, la filigrana risulta già disponibile su alcune versioni anche al di fuori dei confini europei. In questo specifico caso operativo, tuttavia, la responsabilità di attivare o meno la funzione spetta interamente allo sviluppatore terzo, poiché lo strumento viene fornito disabilitato come impostazione iniziale predefinita. Questa mossa tecnologica estende anche alla produzione testuale una logica di tracciamento e marcatura della provenienza che l’azienda di intelligenza artificiale applica già da tempo ai contenuti multimediali come immagini e file audio. L'intervento si inserisce nel perimetro normativo definito dall'Unione Europea per garantire la trasparenza e la tracciabilità dei contenuti prodotti artificialmente. Un watermark testuale basato su logiche statistiche non è una barriera insormontabile per chi vuole aggirarlo, ma un indicatore probabilistico che altera la distribuzione della scelta dei token durante la generazione delle parole, lasciando una firma matematica invisibile a occhio umano ma leggibile da un algoritmo di rilevamento. Fino a oggi, la trasparenza dei modelli generativi è stata affidata a dichiarazioni di intenti aziendali e a strumenti di rilevamento di terze parti dalla dubbia affidabilità statistica, spesso incapaci di distinguere con precisione un testo umano da uno sintetico dopo poche modifiche manuali. La scelta di OpenAI di adeguarsi agli standard europei tramite una configurazione tecnica opzionale per le API dimostra che la conformità normativa viene spesso declinata attraverso compromessi operativi che lasciano ai singoli sviluppatori la discrezionalità d'uso. Nel mercato dei software aziendali, dove la segretezza del codice e la protezione della proprietà intellettuale rappresentano il vero valore patrimoniale, l'obbligo di rendere tracciabile l'origine dei contenuti sposta il baricentro della responsabilità legale dai produttori dell'infrastruttura ai soggetti che la utilizzano per fini commerciali. La filigrana statistica nei testi di ChatGPT e Codex non impedirà la diffusione di contenuti generati automaticamente nei flussi di informazione quotidiana, ma fissa un paletto normativo ed economico che l'industria tecnologica non può più ignorare nei confini dell'Unione Europea.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-06T11:42:20.242984+00:00\",\n  \"dateModified\": \"2026-10-06T11:42:20.242984+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/c361ca40a4878331\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/c361ca40a4878331\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Repubblica Tecnologia",
+  "source_type": "competitor",
+  "original_url": "https://www.repubblica.it/tecnologia/2026/10/06/news/openai_watermark_testi_chatgpt-425629273/?rss",
+  "related": [
+    {
+      "title": "Filosofia e codice nelle labbra di openai e anthropic",
+      "url": "/tecnologia/openai-e-anthropic-infondono-empatia-materna-alle-fe76c048f871526a",
+      "id": "fe76c048f871526a",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/02/102120470-60d0050d-66dc-4dcf-9b47-7fc5c957dde9.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Valori morali e religiosi per le intelligenze artificiali",
+      "url": "/tecnologia/claude-si-affida-ai-preti-anthropic-cerca-la-moral-94c9363f176dcb34",
+      "id": "94c9363f176dcb34",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/130133331-2ce5b73a-1985-4d4d-8497-d4ecb2ec76c3.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Il metodo di Altman e la guerra dei potenti",
+      "url": "/tecnologia/altman-subite-i-danni-dellai-la-liberta-di-scelta-d3a429a536d1e68a",
+      "id": "d3a429a536d1e68a",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/112858861-d9b1e05f-6f20-473d-a0e2-9302cfd0db8e.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
