@@ -1,5 +1,20 @@
 [
   {
+    "id": "3c341540b764357d",
+    "slug": "il-triplista-azzurro-tra-i-candidati-al-titolo-mon-3c341540b764357d",
+    "title": "Atletica: Diaz Hernandez vola a 18,15 metri e punta al titolo Mondiale",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-06T09:48:26.831127+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/21/3e4ebeed5fb7ecb8ffa445ba81618db6.jpg",
+    "occhiello": "IL TRIPLISTA AZZURRO TRA I CANDIDATI AL TITOLO MONDIALE",
+    "lead_preview": "Roma, 6 ottobre 2026. L'Atleta azzurro Diaz Hernandez rientra tra i candidati al prestigioso riconoscimento di Atleta Mo",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ed1a1513c1faabeb",
     "slug": "scadenza-al-2-novembre-per-il-concordato-preventiv-ed1a1513c1faabeb",
     "title": "Partite IVA nel panico: scadenza a novembre per il patto biennale col fisco",
@@ -3122,24 +3137,6 @@
     "occhiello": "FAE TECHNOLOGY PUNTA ALLA NUOVA FRONTIERA DELLO SPAZIO",
     "lead_preview": "Roma, 5 ottobre 2026. Fae Technology, società specializzata in soluzioni di design e produzione di sistemi elettronici, ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "3c341540b764357d",
-    "slug": "il-triplista-azzurro-tra-i-candidati-al-titolo-mon-3c341540b764357d",
-    "title": "Il triplista azzurro tra i candidati al titolo mondiale",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-06T09:48:26.831127+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/21/3e4ebeed5fb7ecb8ffa445ba81618db6.jpg",
-    "occhiello": "IL TRIPLISTA AZZURRO TRA I CANDIDATI AL TITOLO MONDIALE",
-    "lead_preview": "Roma, 6 ottobre 2026. L'Atleta azzurro Diaz Hernandez rientra tra i candidati al prestigioso riconoscimento di Atleta Mo",
-    "tags": [
-      "diaz hernandez",
-      "atleta mondiale dell'anno"
-    ],
     "hero_eligible": true
   },
   {
