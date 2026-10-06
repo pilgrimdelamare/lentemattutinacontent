@@ -1,5 +1,23 @@
 [
   {
+    "id": "0c71fc3057e289e1",
+    "slug": "dipendenti-di-societa-critiche-si-sconfitto-dopo-a-0c71fc3057e289e1",
+    "title": "Dipendenti di società critiche si sconfitto dopo annuncio di chiudere il sito",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-06T12:27:09.024121+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/154e99838f8ca568d1383332e13b0a13.jpg",
+    "occhiello": "CHIUSURE AZIENDALI E RISORSE AL PERSONALE NELLE NOTIZIE ANSA",
+    "lead_preview": "Milano, 6 ottobre 2026. Secondo quanto riportato dall'agenzia di stampa ANSA nella giornata del 6 ottobre 2026, si regis",
+    "tags": [
+      "chiusura sito ansa",
+      "sciopero dipendenti ansa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c634adf8e0ec4297",
     "slug": "tennis-medvedev-colpisce-uno-spettatore-a-pechino-c634adf8e0ec4297",
     "title": "Tennis: Medvedev squalificato a Pechino dopo il colpo volontario a uno spettatore",
@@ -8276,25 +8294,6 @@
     "tags": [
       "elezioni brasile 2026",
       "flavio bolsonaro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ef5325670eb99351",
-    "slug": "borsa-di-tokyo-in-picchiata-lo-069-bruciato-dal-ri-ef5325670eb99351",
-    "title": "Tokyo sprofonda: tassi in rialzo e petrolio a picche frenano la Borsa giapponese",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-02T01:11:05.744346+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/11/84d6f9dd927994b635ca91f0f668821e.jpg",
-    "occhiello": "BORSA DI TOKYO IN ROSSO: -0,69 PER CENTO ALL'APERTURA",
-    "lead_preview": "Tokyo, 2 ottobre 2026. La Borsa di Tokyo ha archiviato l'apertura della seduta odierna con un segno meno, registrando un",
-    "tags": [
-      "borsa",
-      "economia",
-      "petrolio"
     ],
     "hero_eligible": true
   }
