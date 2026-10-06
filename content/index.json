@@ -1,5 +1,23 @@
 [
   {
+    "id": "4d228bd69584f870",
+    "slug": "un-nuovo-capitolo-dellintrigo-letterario-4d228bd69584f870",
+    "title": "Un nuovo capitolo dell'intrigo letterario",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-06T12:59:31.956111+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/54fd87a255cddc565af4f36dc6702d9a.jpg",
+    "occhiello": "UN THRILLER PSICOLOGICO SULLA DIPENDENZA EMOTIVA",
+    "lead_preview": "Roma, 6 ottobre 2026. L'agenzia di stampa ANSA pubblica i dettagli editoriali del nuovo thriller psicologico intitolato ",
+    "tags": [
+      "non aver paura di essere felice",
+      "ciro vespa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c09e3741d1856928",
     "slug": "gas-giu-ad-amsterdam-a-73-euro-ma-le-bollette-ital-c09e3741d1856928",
     "title": "Il gas in calo (-2%) a 73 euro al megawattora",
@@ -8277,25 +8295,6 @@
     "occhiello": "IL RITORNO A SEPANG DOPO NOVE ANNI DI ASSENZA",
     "lead_preview": "Sepang, 2 ottobre 2026. La Formula 1 rientra sul Circuito malese per il sedicesimo appuntamento stagionale, affrontando ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "226bd076037637aa",
-    "slug": "trump-mette-liran-allangolo-il-petrolio-crolla-gra-226bd076037637aa",
-    "title": "Trump incassa la resa dell'Iran: i prezzi del greggio crollano subito",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-02T03:15:28.885941+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/6074750ea81e16252af2d8a758bfd587.jpg",
-    "occhiello": "TRUMP ANNUNCIA LA POSSIBILE CESSIONE DELL'IRAN E IL CROLLO DEI PREZZI",
-    "lead_preview": "Washington, 2 ottobre 2026. Donald Trump, Presidente degli Stati Uniti dal 2025, dichiara che l'Iran sarebbe prossimo a ",
-    "tags": [
-      "trump",
-      "iran",
-      "prezzi greggio"
-    ],
     "hero_eligible": true
   }
 ]
