@@ -1,5 +1,23 @@
 [
   {
+    "id": "1a8a9935c25aa92b",
+    "slug": "fmi-allarma-su-el-salvador-debito-e-inflazione-sal-1a8a9935c25aa92b",
+    "title": "FMI alza le stime: debito e inflazione esplodono in El Salvador",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-06T02:42:20.190033+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/ba0b486f882451b411f5e8ca6754acc3.jpg",
+    "occhiello": "IL FMI RIVEDE AL RIALZO IL DEBITO DI SAN SALVADOR",
+    "lead_preview": "Roma, 6 ottobre 2026. Il Fondo Monetario Internazionale stima in rialzo il debito e l'inflazione in El Salvador, secondo",
+    "tags": [
+      "debito el salvador",
+      "fmi el salvador"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "189bfde48a1ab4cb",
     "slug": "calcio-mancini-stravolge-litalia-donnarumma-e-bast-189bfde48a1ab4cb",
     "title": "Mancini rivoluziona l'italia contro la turchia di montella a bologna",
@@ -3338,24 +3356,6 @@
     "tags": [
       "webuild trevi",
       "acquisizione trevi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1a8a9935c25aa92b",
-    "slug": "fmi-allarma-su-el-salvador-debito-e-inflazione-sal-1a8a9935c25aa92b",
-    "title": "FMI allarma su El Salvador: debito e inflazione salgono ancora",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-06T02:42:20.190033+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/ba0b486f882451b411f5e8ca6754acc3.jpg",
-    "occhiello": "IL FMI RIVEDE AL RIALZO IL DEBITO DI SAN SALVADOR",
-    "lead_preview": "Roma, 6 ottobre 2026. Il Fondo Monetario Internazionale stima in rialzo il debito e l'inflazione in El Salvador, secondo",
-    "tags": [
-      "debito el salvador",
-      "fmi el salvador"
     ],
     "hero_eligible": true
   },
