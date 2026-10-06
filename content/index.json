@@ -1,5 +1,20 @@
 [
   {
+    "id": "64dfb672bec823ee",
+    "slug": "centenario-nobel-a-scuola-64dfb672bec823ee",
+    "title": "Centenario nobel a scuola",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-06T10:44:59.637141+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/7c10d5af2b42a4b830433b904e1997ea.jpg",
+    "occhiello": "CENTENARIO NOBEL A SCUOLA",
+    "lead_preview": "Cagliari, 6 ottobre. Sedici istituti superiori sardi vengono coinvolti nel programma di celebrazioni per il centenario d",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "82a5310f620e5bde",
     "slug": "roma-ricorda-il-celebre-fotografo-al-cinema-adrian-82a5310f620e5bde",
     "title": "Roma ricorda il celebre fotografo al cinema adriano",
@@ -8267,24 +8282,6 @@
     "tags": [
       "eurolega 2026",
       "virtus bologna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c71d4e12b01fef1e",
-    "slug": "governo-usa-valuta-quote-in-big-della-ia-c71d4e12b01fef1e",
-    "title": "Washington valuta quote in OpenAI e Anthropic per controllare l'IA strategica",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-01T20:29:29.522529+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/1/0b3ec4fbcf8d17f9f1d41d221b7a2522.jpg",
-    "occhiello": "GOVERNO USA VALUTA QUOTE IN BIG DELLA IA",
-    "lead_preview": "San Francisco, 1 ottobre 2026. L'amministrazione americana sta valutando la possibilità di acquisire quote azionarie in ",
-    "tags": [
-      "quote openai",
-      "controllo ia usa"
     ],
     "hero_eligible": true
   }
