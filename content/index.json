@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-06T17:26:49.992648+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musicale è completamente inaccessibile per gli",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "76262015b889f52f",
     "slug": "lolimpia-milano-cede-a-verona-il-peso-delle-rotazi-76262015b889f52f",
     "title": "L'olimpia milano cede a verona: il peso delle rotazioni corte",
@@ -80,25 +99,6 @@
     "lead_preview": "Roma, 6 ottobre 2026. L'agenzia ANSA pubblica il lancio promozionale dedicato alla manifestazione Roma Jewelry Week, pre",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-06T17:06:13.353600+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
-    "lead_preview": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di trenta minuti. Il servizio di str",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "ede72cb735884847",
