@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Guarda l'ampia scuola cacciare le mani sulle imprese italiane",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-05T17:03:36.794584+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CRISI INFRASTRUTTURA CLOUDFLARE IN CORSO",
+    "lead_preview": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il blackout sta paralizzando l'accesso a migliai",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "76262015b889f52f",
     "slug": "lolimpia-milano-cede-a-verona-il-peso-delle-rotazi-76262015b889f52f",
     "title": "L'olimpia milano cede a verona: il peso delle rotazioni corte",
@@ -2067,25 +2082,6 @@
       "lula da silva"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-05T17:03:36.794584+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CRISI INFRASTRUTTURA CLOUDFLARE IN CORSO",
-    "lead_preview": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il blackout sta paralizzando l'accesso a migliai",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "bc412bf2c8fc0da0",
