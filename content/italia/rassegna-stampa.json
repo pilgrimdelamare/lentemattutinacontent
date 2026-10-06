@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 5 ottobre 2026",
+  "title": "Le prime pagine di oggi, martedì 6 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 5 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 5 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 5 ottobre 2026"
+    "Le prime pagine di oggi, martedì 6 ottobre 2026",
+    "Le prime pagine di oggi, martedì 6 ottobre 2026",
+    "Le prime pagine di oggi, martedì 6 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE LUNEDI 5 OTTOBRE",
-  "lead": "I quotidiani italiani convergono sull'attacco russo a Kiev durante la visita del cancelliere tedesco Merz. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero riportano i raid e le dichiarazioni di Zelensky su un possibile vertice trilaterale a ottobre. La Repubblica sottolinea l'emergenza abitativa globale e la crisi politica in Spagna. Il Messaggero e La Stampa evidenziano l'appello alla pace di Mattarella e Zuppi. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sul secondo posto di Kimi Antonelli in Malesia e sulla partita Italia Turchia di stasera.",
-  "corpo1": "Il Corriere della Sera titola sulla guerra in Ucraina, specificando il raid russo durante la visita di Merz e le parole di Zelensky sui colloqui con gli Stati Uniti. La Repubblica mette in primo piano la crisi degli alloggi, citando la possibilità di elezioni anticipate in Spagna e la difficoltà di tre milioni di italiani. La Stampa riporta i dati ONU sulle vittime civili e l'intervento congiunto di Mattarella e Zuppi, oltre all'accordo su Mps. Il Messaggero apre con l'appello del Presidente della Repubblica ad Assisi e le minacce russe sul fronte del Donetsk. La Gazzetta dello Sport dedica la copertina a Kimi Antonelli, secondo a Sepang, e alla sfida della Nazionale contro la Turchia. Il Corriere dello Sport utilizza il titolo L'ora è giunta per la partita di Bologna, sottolineando l'obiettivo di blindare la serie A di Nations.",
-  "corpo2": "Sui quotidiani generali compaiono anche le presidenziali brasiliane tra Bolsonaro jr e Lula sul Corriere della Sera e i dettagli tecnici dell'accordo su Mps su La Stampa e Il Messaggero. Nel settore sportivo, oltre ad Antonelli e alla Nazionale, spiccano le dichiarazioni di Fabregas. Il tema dominante della giornata resta il conflitto in Ucraina e le sue ripercussioni diplomatiche e sociali.",
+  "occhiello": "LE PRIME PAGINE DI MARTEDI 6 OTTOBRE",
+  "lead": "La crisi politica spagnola domina le aperture dei quotidiani odierni, con il premier Pedro Sanchez che ha annunciato elezioni anticipate per il 29 novembre a seguito delle proteste sociali. Parallelamente, i giornali dedicano ampio spazio all'allarme sicurezza in Europa, legato alla cosiddetta guerra ombra russa segnalata dagli 007 tedeschi, e alle difficoltà economiche delle famiglie italiane, strette tra inflazione e pressione fiscale. Spazio anche alla cronaca giudiziaria, con il caso Garlasco che torna al centro dell'attenzione, e ai successi della nazionale di calcio italiana in Nations League.",
+  "corpo1": "Il Corriere della Sera apre sulla Spagna e sulla scommessa elettorale di Sanchez, affiancando l'allarme degli 007 tedeschi sulla Russia. La Repubblica si concentra sull'emergenza economica, analizzando il calo del potere d'acquisto, mentre La Stampa punta sulla pressione fiscale record e il caro-affitti. Il Messaggero sceglie il caso Garlasco con le nuove indagini sui pedali della bici di Stasi. Il Fatto Quotidiano analizza i costi del conflitto in Ucraina e le dinamiche elettorali italiane. Il Giornale torna sul caso Garlasco parlando di uno scandalo sui reperti, contrapponendolo alla situazione politica spagnola. Infine, la stampa sportiva: la Gazzetta dello Sport celebra la vittoria dell'Italia sulla Turchia in Nations League, il Corriere dello Sport festeggia il doppio successo di Mancini e dell'Under 21, mentre Tuttosport titola sul festival azzurro tra nazionale maggiore e giovani.",
+  "corpo2": "Diversi i temi secondari nelle pagine interne: il Brasile e l'avanzata di Bolsonaro sono ripresi da Repubblica e Messaggero. Il caso Rai relativo alla sospensione di Ranucci compare su Stampa e Giornale, mentre la questione della governance Figc e il ruolo di Malagò occupano le prime pagine di Gazzetta, Corriere dello Sport e Tuttosport. Il Messaggero segnala inoltre il dibattito sulla legge elettorale. La politica estera e l'economia restano i temi prevalenti nel dibattito pubblico odierno.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-05T05:45:51.600921+00:00",
+  "published_at": "2026-10-06T05:51:28.116962+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/edfeebc19dea279d2c3a7abb9c4cca36068bb244/skytg24/it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre/corriere-della-sera-035644dsa8slh.jpg",
-    "source": "Corriere Della Sera",
-    "credit": "Prima pagina — Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/21272c027e310ffaebc593fbd0e36cce4c7b84b0/skytg24/it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre/CorSera.png",
+    "source": "Il Corriere Della Sera",
+    "credit": "Prima pagina — Il Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 5 ottobre 2026",
+      "title": "Oroscopo di oggi, martedì 6 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Nations league, kosovo-austria 1-1: la cronaca del 4 ottobre 2026",
-      "url": "/sport/nations-league-kosovo-austria-1-1-la-cronaca-del-4-9170699975e96c4b",
-      "id": "9170699975e96c4b",
-      "image_url": "https://sport.sky.it/assets/images/3a50774b134ce84fe6a865308079971110972cfe/skysport/it/calcio/nations-league/video/2026/10/04/1129216_1791149221526_thumb_494.0000001_1791149390277.jpg",
-      "image_type": "feed_image"
+      "title": "Marco mengoni, il 9 ottobre esce il singolo giornate perse",
+      "url": "/cultura/marco-mengoni-il-9-ottobre-esce-il-singolo-giornat-6f270bb577e693f5",
+      "id": "6f270bb577e693f5",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/3105e88efacdc68c8011d6e45cc896c9.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Serie c, ottava giornata in campo il 3 ottobre 2026",
-      "url": "/sport/calcio-ospitaletto-e-renate-si-dividono-la-posta-f-f91636bed8e8f006",
-      "id": "f91636bed8e8f006",
-      "image_url": "https://sport.sky.it/assets/images/6f1cc6e7740145bb9ef3a176a755a64cabfe7133/skysport/it/calcio/serie-c/video/2026/10/03/1128977_1791061232694_thumb_494.0000001_1791062010145.jpg",
-      "image_type": "feed_image"
+      "title": "Sinwar ritratto dalle brigate al qassem vigilia sette ottobre",
+      "url": "/esteri/sinwar-ritratto-dalle-brigate-al-qassem-vigilia-se-8e1daea319f7b1ae",
+      "id": "8e1daea319f7b1ae",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/c8ee978f009d51515323fd8b650f4791.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
