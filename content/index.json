@@ -1,5 +1,23 @@
 [
   {
+    "id": "07e8963fe4542321",
+    "slug": "wall-street-divisa-il-dow-jones-perde-lo-007-mentr-07e8963fe4542321",
+    "title": "Fattore di preoccupazione sul Dow Jones",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-05T13:55:34.672710+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/cabb5377f052ba4fdaf60ad51b48ed1a.jpg",
+    "occhiello": "WALL STREET DIVISA A META TRA DOW E NASDAQ",
+    "lead_preview": "New York, 5 ottobre 2026. L'apertura della Borsa americana mostra un andamento contrastato nei suoi listini principali. ",
+    "tags": [
+      "wall street",
+      "borsa new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9a0f9decf42ca9ca",
     "slug": "fae-technology-punta-allo-spazio-carlo-fuggetta-gu-9a0f9decf42ca9ca",
     "title": "Kayser Space acquista FAE Technology ed entra in competizione con la NASA",
@@ -2489,24 +2507,6 @@
       "cultura",
       "istituzioni",
       "nomina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "07e8963fe4542321",
-    "slug": "wall-street-divisa-il-dow-jones-perde-lo-007-mentr-07e8963fe4542321",
-    "title": "Wall Street divisa: il Dow Jones perde lo 0,07% mentre il Nasdaq sale",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-05T13:55:34.672710+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/17/cabb5377f052ba4fdaf60ad51b48ed1a.jpg",
-    "occhiello": "WALL STREET DIVISA A META TRA DOW E NASDAQ",
-    "lead_preview": "New York, 5 ottobre 2026. L'apertura della Borsa americana mostra un andamento contrastato nei suoi listini principali. ",
-    "tags": [
-      "wall street",
-      "borsa new york"
     ],
     "hero_eligible": true
   },
