@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+  "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
   "titles": [
-    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi"
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
-  "lead": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di trenta minuti. Il servizio di streaming musicale è nuovamente accessibile a tutti gli utenti. La situazione è tornata alla normalità senza ulteriori complicazioni tecniche.",
-  "corpo1": "Il disservizio si è verificato in mattinata, impedendo temporaneamente l'accesso alla libreria musicale e alle playlist. I sistemi di monitoraggio hanno registrato un picco di errori di connessione per circa mezz'ora. Le infrastrutture sono state stabilizzate e i server hanno ripreso a gestire il traffico in modo regolare. Attualmente non si rilevano anomalie nelle performance del servizio. La piattaforma opera con piena efficienza, garantendo la continuità dell'ascolto per tutti gli abbonati e gli utenti gratuiti.",
+  "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+  "lead": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musicale è completamente inaccessibile per gli utenti italiani. La piattaforma non risponde alle richieste di connessione, bloccando l'ascolto in tempo reale e generando un'interruzione improvvisa del flusso audio per milioni di ascoltatori.",
+  "corpo1": "Il disservizio è iniziato alle ore correnti, causando un blackout totale della piattaforma. Gli utenti segnalano l'impossibilità di caricare le playlist, avviare la riproduzione musicale o accedere al profilo personale. L'interfaccia web e le applicazioni mobili restituiscono errori di connessione persistenti, rendendo il servizio inutilizzabile. Non si tratta di un problema locale, ma di un'interruzione infrastrutturale a livello globale che impedisce qualsiasi interazione con i server. La situazione sta generando un impatto significativo sull'esperienza d'uso, bloccando l'accesso al catalogo musicale e alle funzionalità di personalizzazione. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-06T17:06:13.353600+00:00",
+  "published_at": "2026-10-06T17:26:49.992648+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
+      "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
       "title": "OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa",
       "url": "/tecnologia/openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
       "id": "c361ca40a4878331",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Valori morali e religiosi per le intelligenze artificiali",
-      "url": "/tecnologia/claude-si-affida-ai-preti-anthropic-cerca-la-moral-94c9363f176dcb34",
-      "id": "94c9363f176dcb34",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/130133331-2ce5b73a-1985-4d4d-8497-d4ecb2ec76c3.jpg",
       "image_type": "image"
     }
   ],
