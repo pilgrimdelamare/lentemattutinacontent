@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 6 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-06T05:51:28.116962+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/21272c027e310ffaebc593fbd0e36cce4c7b84b0/skytg24/it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE DI MARTEDI 6 OTTOBRE",
+    "lead_preview": "La crisi politica spagnola domina le aperture dei quotidiani odierni, con il premier Pedro Sanchez che ha annunciato ele",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "57e755b1b7d46abe",
     "slug": "europee-di-basket-maxima-roma-napoli-e-trento-in-t-57e755b1b7d46abe",
     "title": "Europee di basket: maxima roma, napoli e trento in trasferta",
@@ -3268,25 +3287,6 @@
     "occhiello": "ITALIA-POLONIA U21, TRIBUNE QUASI ESAURITE E CURVA SUD A UN EURO",
     "lead_preview": "Pescara, 4 ottobre 2026. La Nazionale Italiana Under 21 registra il tutto esaurito tecnico allo stadio Adriatico per la ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 5 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-05T05:45:51.600921+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/edfeebc19dea279d2c3a7abb9c4cca36068bb244/skytg24/it/cronaca/2026/10/05/prime-pagine-quotidiani-oggi-5-ottobre/corriere-della-sera-035644dsa8slh.jpg",
-    "occhiello": "LE PRIME PAGINE LUNEDI 5 OTTOBRE",
-    "lead_preview": "I quotidiani italiani convergono sull'attacco russo a Kiev durante la visita del cancelliere tedesco Merz. Il Corriere d",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
