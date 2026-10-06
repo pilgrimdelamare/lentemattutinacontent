@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi"
+    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SPOTIFY IN DOWN",
-  "lead": "Spotify è irraggiungibile da 25 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 25 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "lead": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-22T02:13:05.921926+00:00",
+  "published_at": "2026-10-06T16:50:46.003189+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Satispay è tornato online dopo 74 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 191 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Max in Russia: la super-app registra chat, pagamenti e messaggi privati",
-      "url": "/tecnologia/max-in-russia-la-super-app-registra-chat-pagamenti-3c1f6cd0775c11e3",
-      "id": "3c1f6cd0775c11e3",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/09/18/134240133-16efb0a2-e8c7-4170-962c-8658b7ff8bcb.jpg",
+      "title": "OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa",
+      "url": "/tecnologia/openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
+      "id": "c361ca40a4878331",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
       "image_type": "image"
     }
   ],
