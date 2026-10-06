@@ -1,5 +1,23 @@
 [
   {
+    "id": "617177a1c38486c0",
+    "slug": "ansa-pubblica-ansanet-con-nuova-politica-su-cookie-617177a1c38486c0",
+    "title": "Ansa blocca le news: o paghi 16,99 euro o accetti il tracciamento dei dati",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-06T09:31:39.334959+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
+    "occhiello": "LA PAGINA DEI COOKIE SPACCIATA PER NOTIZIA FINANZIARIA",
+    "lead_preview": "Roma, 6 ottobre 2026. L'agenzia di stampa Ansa pubblica una pagina interamente dedicata ai Cookie di profilazione e agli",
+    "tags": [
+      "ansa",
+      "cookie wall"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "752ec7a9a02eb1e2",
     "slug": "il-nobel-per-la-fisica-2026-premia-i-neutrini-di-h-752ec7a9a02eb1e2",
     "title": "Il nobel per la fisica 2026 premia i neutrini di halzen",
@@ -3233,24 +3251,6 @@
     "tags": [
       "ansa",
       "keith haring palazzo braschi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "617177a1c38486c0",
-    "slug": "ansa-pubblica-ansanet-con-nuova-politica-su-cookie-617177a1c38486c0",
-    "title": "Ansa pubblica AnsaNet con nuova politica su Cookie di profilazione e abbonamento annuo a 16,99€",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-06T09:31:39.334959+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
-    "occhiello": "LA PAGINA DEI COOKIE SPACCIATA PER NOTIZIA FINANZIARIA",
-    "lead_preview": "Roma, 6 ottobre 2026. L'agenzia di stampa Ansa pubblica una pagina interamente dedicata ai Cookie di profilazione e agli",
-    "tags": [
-      "ansa cookie",
-      "abbonamento consentless"
     ],
     "hero_eligible": true
   },
