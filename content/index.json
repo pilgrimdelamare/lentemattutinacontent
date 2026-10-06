@@ -1,5 +1,24 @@
 [
   {
+    "id": "d3a429a536d1e68a",
+    "slug": "altman-subite-i-danni-dellai-la-liberta-di-scelta-d3a429a536d1e68a",
+    "title": "Il metodo di Altman e la guerra dei potenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-05T10:02:03.826990+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/112858861-d9b1e05f-6f20-473d-a0e2-9302cfd0db8e.jpg",
+    "occhiello": "IL PREZZO DELL'INTELLIGENZA ARTIFICIALE SECONDO SAM ALTMAN",
+    "lead_preview": "San Francisco, 5 ottobre 2026. Il Mondo deve accettare alcune cose brutte in cambio dei benefici dell'intelligenza artif",
+    "tags": [
+      "intelligenza artificiale",
+      "economia",
+      "innovazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a0e8bd0b45b51ac6",
     "slug": "la-spesa-degli-americani-decide-il-voto-al-congres-a0e8bd0b45b51ac6",
     "title": "USA al voto: l'inflazione al 3,4% travolge la Casa Bianca prima delle elezioni",
@@ -1899,24 +1918,6 @@
       "scienza",
       "medicina",
       "nobel"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d3a429a536d1e68a",
-    "slug": "altman-subite-i-danni-dellai-la-liberta-di-scelta-d3a429a536d1e68a",
-    "title": "Sam Altman annua la ricerca del passaggio tra i rischi ed i vantaggi dell'IA",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-05T10:02:03.826990+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/112858861-d9b1e05f-6f20-473d-a0e2-9302cfd0db8e.jpg",
-    "occhiello": "IL PREZZO DELL'INTELLIGENZA ARTIFICIALE SECONDO SAM ALTMAN",
-    "lead_preview": "San Francisco, 5 ottobre 2026. Il Mondo deve accettare alcune cose brutte in cambio dei benefici dell'intelligenza artif",
-    "tags": [
-      "sam altman",
-      "intelligenza artificiale"
     ],
     "hero_eligible": true
   },
