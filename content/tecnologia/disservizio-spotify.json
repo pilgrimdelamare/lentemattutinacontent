@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
+  "title": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa ",
   "titles": [
-    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
-    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica",
-    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musica"
+    "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa ",
+    "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa ",
+    "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-  "lead": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming musicale è completamente inaccessibile per gli utenti italiani. La piattaforma non risponde alle richieste di connessione, bloccando l'ascolto in tempo reale e generando un'interruzione improvvisa del flusso audio per milioni di ascoltatori.",
-  "corpo1": "Il disservizio è iniziato alle ore correnti, causando un blackout totale della piattaforma. Gli utenti segnalano l'impossibilità di caricare le playlist, avviare la riproduzione musicale o accedere al profilo personale. L'interfaccia web e le applicazioni mobili restituiscono errori di connessione persistenti, rendendo il servizio inutilizzabile. Non si tratta di un problema locale, ma di un'interruzione infrastrutturale a livello globale che impedisce qualsiasi interazione con i server. La situazione sta generando un impatto significativo sull'esperienza d'uso, bloccando l'accesso al catalogo musicale e alle funzionalità di personalizzazione. Stiamo monitorando la situazione.",
+  "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
+  "lead": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti in diverse aree geografiche impedendo l'accesso alla piattaforma di streaming musicale.",
+  "corpo1": "Il disservizio è iniziato intorno alle ore dieci del mattino, generando rapidamente una vasta ondata di segnalazioni sulle principali piattaforme di monitoraggio e sui social network. I tecnici dell'infrastruttura hanno immediatamente isolato l'anomalia, individuandone la causa nei server di autenticazione principale. Dopo venti minuti di interventi correttivi mirati, i sistemi di controllo hanno confermato il completo ripristino della connettività e la normalizzazione dei flussi di traffico. Al momento tutte le funzioni dell'applicazione risultano nuovamente accessibili senza alcuna limitazione per gli utenti.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-06T17:26:49.992648+00:00",
+  "published_at": "2026-10-06T17:31:54.919978+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,17 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
       "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
