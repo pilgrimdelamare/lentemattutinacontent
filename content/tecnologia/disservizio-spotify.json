@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
   "titles": [
-    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY IN DOWN",
-  "lead": "Spotify è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Spotify risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
+  "lead": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di trenta minuti. Il servizio di streaming musicale è nuovamente accessibile a tutti gli utenti. La situazione è tornata alla normalità senza ulteriori complicazioni tecniche.",
+  "corpo1": "Il disservizio si è verificato in mattinata, impedendo temporaneamente l'accesso alla libreria musicale e alle playlist. I sistemi di monitoraggio hanno registrato un picco di errori di connessione per circa mezz'ora. Le infrastrutture sono state stabilizzate e i server hanno ripreso a gestire il traffico in modo regolare. Attualmente non si rilevano anomalie nelle performance del servizio. La piattaforma opera con piena efficienza, garantendo la continuità dell'ascolto per tutti gli abbonati e gli utenti gratuiti.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-06T16:50:46.003189+00:00",
+  "published_at": "2026-10-06T17:06:13.353600+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
-      "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
-    {
       "title": "OpenAI introduce il marchio invisibile su ChatGPT e Codex per rispettare l'Europa",
       "url": "/tecnologia/openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
       "id": "c361ca40a4878331",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Valori morali e religiosi per le intelligenze artificiali",
+      "url": "/tecnologia/claude-si-affida-ai-preti-anthropic-cerca-la-moral-94c9363f176dcb34",
+      "id": "94c9363f176dcb34",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/130133331-2ce5b73a-1985-4d4d-8497-d4ecb2ec76c3.jpg",
       "image_type": "image"
     }
   ],
