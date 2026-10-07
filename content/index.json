@@ -1,5 +1,24 @@
 [
   {
+    "id": "4a26ebde3b494bc1",
+    "slug": "ducale-annuncia-nuovo-servizio-editoriale-consentl-4a26ebde3b494bc1",
+    "title": "Ducale rilancia l'arte con Scharf e Makkoz: abbonamento senza tracker a 16,99 euro",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-07T11:32:05.190897+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/2/41c32ea775107f60997891da223fb997.jpg",
+    "occhiello": "LA NUOVA STAGIONE DEL DUCALE TRA ARTE E NORMATIVE COOKIE",
+    "lead_preview": "Roma, 7 ottobre 2026. L'agenzia ANSA pubblica i dettagli della nuova stagione del Ducale, mentre gli utenti fanno i Cont",
+    "tags": [
+      "arte",
+      "ducale",
+      "abbonamento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "698b3995295dc6fc",
     "slug": "la-sosta-lunga-lascia-il-conto-sul-tavolo-dei-bila-698b3995295dc6fc",
     "title": "La sosta lunga lascia il conto sul tavolo dei bilanci",
@@ -3222,24 +3241,6 @@
     "tags": [
       "conti giorgetti",
       "debito pubblico italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a26ebde3b494bc1",
-    "slug": "ducale-annuncia-nuovo-servizio-editoriale-consentl-4a26ebde3b494bc1",
-    "title": "Ducale annuncia nuovo Servizio editoriale Consentless",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-07T11:32:05.190897+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/2/41c32ea775107f60997891da223fb997.jpg",
-    "occhiello": "LA NUOVA STAGIONE DEL DUCALE TRA ARTE E NORMATIVE COOKIE",
-    "lead_preview": "Roma, 7 ottobre 2026. L'agenzia ANSA pubblica i dettagli della nuova stagione del Ducale, mentre gli utenti fanno i Cont",
-    "tags": [
-      "stagione ducale",
-      "servizio consentless"
     ],
     "hero_eligible": true
   },
