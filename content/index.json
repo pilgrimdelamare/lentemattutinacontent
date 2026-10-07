@@ -1,5 +1,23 @@
 [
   {
+    "id": "fcd5f8b1daf1ed3f",
+    "slug": "wall-street-apre-in-rialzo-dow-jones-guadagna-lo-0-fcd5f8b1daf1ed3f",
+    "title": "Wall street apre in positivo con il dow jones a +0,31 per cento",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-06T14:06:03.862556+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
+    "occhiello": "WALL STREET APRE IN POSITIVO CON IL DOW JONES A +0,31 PER CENTO",
+    "lead_preview": "New York, 6 ottobre 2026. Wall Street apre le contrattazioni in territorio positivo, spinta dall'andamento dei principal",
+    "tags": [
+      "wall street",
+      "dow jones"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "338e3333fa6a19cd",
     "slug": "restyling-per-lo-stadio-olimpico-di-roma-338e3333fa6a19cd",
     "title": "Restyling per lo stadio olimpico di roma",
@@ -2921,24 +2939,6 @@
     "tags": [
       "errore ansa",
       "cookie ansa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fcd5f8b1daf1ed3f",
-    "slug": "wall-street-apre-in-rialzo-dow-jones-guadagna-lo-0-fcd5f8b1daf1ed3f",
-    "title": "Wall Street apre in rialzo: Dow Jones guadagna lo 0,31% e l'S&P 500 sale",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-06T14:06:03.862556+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
-    "occhiello": "WALL STREET APRE IN POSITIVO CON IL DOW JONES A +0,31 PER CENTO",
-    "lead_preview": "New York, 6 ottobre 2026. Wall Street apre le contrattazioni in territorio positivo, spinta dall'andamento dei principal",
-    "tags": [
-      "wall street",
-      "borsa di new york"
     ],
     "hero_eligible": true
   },
