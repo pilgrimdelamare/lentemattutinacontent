@@ -1,5 +1,23 @@
 [
   {
+    "id": "286f93410db7ebdc",
+    "slug": "peru-gelo-a--17-gradi-e-7-regioni-in-allarme-drast-286f93410db7ebdc",
+    "title": "Perù: gelo a -17 gradi e 7 regioni in allarme drastico",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-07T21:25:39.658098+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/f155d43692679f039b2a2da3c37fdb27.jpg",
+    "occhiello": "TEMPERATURE A MENO DICIASSETTE GRADI SOPRA I QUATTROMILA METRI",
+    "lead_preview": "Lima, 7 ottobre 2026. Sette regioni del sud del Perù affrontano un'allerta per il freddo estremo nelle regioni andine, c",
+    "tags": [
+      "ondata di freddo perù",
+      "allarme freddo ande"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3e12f25d2deab4ab",
     "slug": "manuela-arcuri-testimonial-del-principe-dumenico-p-3e12f25d2deab4ab",
     "title": "Manuela arcuri testimonial del principe dumenico pallavicino a genova",
@@ -8295,24 +8313,6 @@
     "tags": [
       "gran premio malesia",
       "max verstappen"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f349582178e20ecc",
-    "slug": "mosca-fissa-lasticella-territoriale-al-limite-mate-f349582178e20ecc",
-    "title": "Mosca blocca i negoziati: niente pace senza il 100% del Donetsk",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-04T11:49:26.298308+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/e18d1c045aea1d17f4d0bf6be89d9ea6.jpg",
-    "occhiello": "MOSCA FISSA L'ASTICELLA TERRITORIALE AL LIMITE MATEMATICO DEL FRONTE",
-    "lead_preview": "Mosca, 4 ottobre 2026. Chiunque nutra piani per colpire la Russia pagherà un prezzo pari a quello inflitto all'Ucraina, ",
-    "tags": [
-      "guerra ucraina",
-      "negoziati pace"
     ],
     "hero_eligible": true
   }
