@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-07T05:49:45.808490+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "5fa38e35e33dc4a2",
     "slug": "produzione-auto-a-367-ma-cassino-resta-nel-limbo-5fa38e35e33dc4a2",
     "title": "Produzione auto a +36,7% ma cassino resta nel limbo",
@@ -8323,25 +8342,6 @@
     "occhiello": "L'ACCADEMIA DEI FUTURISTI ADDESTRA I MILITANTI AL TIRO A SEGNO",
     "lead_preview": "Potenza, 2 ottobre 2026. Roberto Vannucci, Cancelliere e fondatore dell'Accademia dei futuristi, ha convocato per sabato",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "de2f8cd3af55e81d",
-    "slug": "sala-demolisce-la-cementificazione-definendola-una-de2f8cd3af55e81d",
-    "title": "Sala: la cementificazione è una bufala, Majorino fuori dal coro",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-02T18:36:59.057020+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/2/076a680e539ec42a38ab28fc92a9c57f.jpg",
-    "occhiello": "SALA DEMOLISCE LA CEMENTIFICAZIONE DEFINENDOLA UNA BUFALA ELETTORALE",
-    "lead_preview": "Milano, 2 ottobre 2026. Giuseppe Sala rompe gli indugi in vista delle prossime amministrative e attacca frontalmente Pie",
-    "tags": [
-      "elezioni milano 2026",
-      "cementificazione milano",
-      "sala majorino"
-    ],
     "hero_eligible": true
   }
 ]
