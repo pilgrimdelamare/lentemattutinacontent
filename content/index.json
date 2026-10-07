@@ -1,5 +1,23 @@
 [
   {
+    "id": "f641a85c584669fc",
+    "slug": "un-parete-di-cookie-al-posto-della-notizia-f641a85c584669fc",
+    "title": "Un parete di cookie al posto della notizia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-07T14:17:55.591143+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/855fda5293902ec6ec9705d4b1b7ad1c.jpg",
+    "occhiello": "UN PARETE DI COOKIE AL POSTO DELLA NOTIZIA",
+    "lead_preview": "Los Angeles, 7 ottobre 2026. Lorenzo Marini risulta al centro di un articolo pubblicato da ANSA e dedicato alla Giornata",
+    "tags": [
+      "cookie wall ansa",
+      "lorenzo marini"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "718e914f3f4686ba",
     "slug": "teatro-e-memoria-tra-il-grappa-e-la-diga-718e914f3f4686ba",
     "title": "Teatro e memoria tra il grappa e la diga",
@@ -8292,24 +8310,6 @@
     "tags": [
       "formula uno",
       "regolamento f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f0fa251614f0f101",
-    "slug": "conte-blocca-i-5s-su-armi-e-banche-la-coalizione-d-f0fa251614f0f101",
-    "title": "L'aut-aut di conte sul campo largo",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-03T15:36:36.175594+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/21/a9ff21113c916b8656a53d13dae18860.jpg",
-    "occhiello": "L'AUT-AUT DI CONTE SUL CAMPO LARGO",
-    "lead_preview": "Roma, 3 ottobre 2026. Giuseppe Conte ha rilanciato sui social network uno spezzone del suo intervento pronunciato venerd",
-    "tags": [
-      "campo largo",
-      "conte"
     ],
     "hero_eligible": true
   }
