@@ -1,5 +1,20 @@
 [
   {
+    "id": "94d6fa9555d4d5b1",
+    "slug": "venticinque-vittime-cinque-bambini-urrra-94d6fa9555d4d5b1",
+    "title": "Venticinque vittime, cinque bambini urrra",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-07T18:04:44.516705+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/205d88372cf8a4f772ceb833565c548b.jpg",
+    "occhiello": "VENTICINQUE VITTIME, CINQUE BAMBINI URRRA",
+    "lead_preview": "Pryluky, 7 ottobre. Il Presidente ucraino Volodymyr Zelensky ha denunciato l'uccisione di 25 civili, tra cui cinque bamb",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "85f9a07324a3c608",
     "slug": "addio-a-eva-marie-saint-muore-a-cento-anni-la-legg-85f9a07324a3c608",
     "title": "Eccezionale: Eva Marie Saint è passata a centesimi",
@@ -8300,24 +8315,6 @@
     "occhiello": "CEDIMENTO ANTICICLONICO SUL MEDITERRANEO E PIOGGE IN ARRIVO",
     "lead_preview": "Roma, 4 ottobre 2026. Le prime avvisaglie dell'autunno arrivano sul bacino del Mediterraneo con un cedimento del campo a",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "90e4288ffac63257",
-    "slug": "nations-league-la-spagna-supera-la-cechia-per-tre-90e4288ffac63257",
-    "title": "Nations league, la spagna supera la cechia per tre a uno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-03T22:51:34.099421+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2e810af8ad88db1eabf992f7c56da132e5c40e7c/skysport/it/calcio/nations-league/video/2026/10/03/1128981_1791061402941_thumb_494.0000001_1791061934436.jpg",
-    "occhiello": "NATIONS LEAGUE, LA SPAGNA SUPERA LA CECHIA PER TRE A UNO",
-    "lead_preview": "Madrid, 3 ottobre. La Spagna batte la Cechia per 3-1 nella sfida serale valida per la Nations League. Sul terreno di gio",
-    "tags": [
-      "nations league",
-      "spagna cechia"
-    ],
     "hero_eligible": true
   }
 ]
