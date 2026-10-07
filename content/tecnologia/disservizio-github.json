@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
+  "title": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
   "titles": [
-    "GitHub è tornato online dopo 40 minuti di interruzione.",
-    "GitHub è tornato online dopo 40 minuti di interruzione.",
-    "GitHub è tornato online dopo 40 minuti di interruzione."
+    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
+    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
+    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 40 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 40 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "GITHUB IRAGGIUNGIBILE: ALLERTA CRITICA ATTIVA",
+  "lead": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'accesso a repository e collaborazioni. Gli sviluppatori italiani subiscono un arresto immediato delle attività di integrazione continua e rilascio software.",
+  "corpo1": "Il malfunzionamento è iniziato alle ore 09:15 UTC, generando errori di connettività globali. Le API REST e GraphQL risultano inaccessibili, bloccando i pipeline CI/CD e impedendo il push o il pull di codice. I sistemi di autenticazione non rispondono, lasciando gli utenti bloccati fuori dalle proprie piattaforme di sviluppo. L'impatto operativo è severo per le aziende che dipendono da GitHub Actions per i deploy automatici. Non sono disponibili stime temporali per il ripristino. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-05T21:33:15.308335+00:00",
+  "published_at": "2026-10-07T15:31:15.293492+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il black",
+      "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
+      "image_type": "image"
+    },
+    {
+      "title": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
       "url": "/tecnologia/disservizio-cloudflare",
       "id": "monitor_cloudflare",
       "image_url": "https://logo.clearbit.com/cloudflare.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Gallot: Microsoft impiega algoritmi guardiani per frenare le IA ribelli",
-      "url": "/tecnologia/gallot-lia-di-microsoft-si-poliziottera-da-sola-lu-b16e3d78a86611e4",
-      "id": "b16e3d78a86611e4",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/04/194520213-033ed22b-f653-4607-b66c-d3e6c9eea01c.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Claude si affida ai preti: Anthropic cerca la morale nei sacri testi",
-      "url": "/tecnologia/claude-si-affida-ai-preti-anthropic-cerca-la-moral-94c9363f176dcb34",
-      "id": "94c9363f176dcb34",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/130133331-2ce5b73a-1985-4d4d-8497-d4ecb2ec76c3.jpg",
       "image_type": "image"
     }
   ],
