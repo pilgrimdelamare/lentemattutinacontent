@@ -1,5 +1,23 @@
 [
   {
+    "id": "c91f08ec5acabe01",
+    "slug": "il-fenomeno-vannacci-si-sfiata-c91f08ec5acabe01",
+    "title": "Il fenomeno vannacci si sfiata",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-06T07:41:34.222008+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/06/092645768-32e2dd1b-735b-4f36-a821-a26ac53840d4.jpg",
+    "occhiello": "IL FENOMENO VANNACCI SI SFIATA",
+    "lead_preview": "Roma, 6 ottobre. Futuro Nazionale, il partito guidato da Roberto Vannacci, ha registrato un calo dello 0,2% nelle intenz",
+    "tags": [
+      "caso vannacci",
+      "futuro nazionale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d5004dff578048a5",
     "slug": "ex-ilva-il-governo-convoca-i-metalmeccanici-a-pala-d5004dff578048a5",
     "title": "Ex ilva, nuovo vertice a palazzo chigi l'8 ottobre",
@@ -2239,24 +2257,6 @@
     "tags": [
       "eurolega",
       "villa d'este"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c91f08ec5acabe01",
-    "slug": "il-fenomeno-vannacci-si-sfiata-c91f08ec5acabe01",
-    "title": "Generale Vannacci e la Lega battono, i Democrati e i Neutrale guadagnano",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-06T07:41:34.222008+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/06/092645768-32e2dd1b-735b-4f36-a821-a26ac53840d4.jpg",
-    "occhiello": "IL FENOMENO VANNACCI SI SFIATA",
-    "lead_preview": "Roma, 6 ottobre. Futuro Nazionale, il partito guidato da Roberto Vannacci, ha registrato un calo dello 0,2% nelle intenz",
-    "tags": [
-      "futuro nazionale",
-      "vannacci"
     ],
     "hero_eligible": true
   },
