@@ -1,5 +1,24 @@
 [
   {
+    "id": "fcd5f8b1daf1ed3f",
+    "slug": "wall-street-apre-in-rialzo-dow-jones-guadagna-lo-0-fcd5f8b1daf1ed3f",
+    "title": "Wall Street vola: Dow Jones +0,31% e S&P 500 +0,53% all'apertura di New York",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-06T14:06:03.862556+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
+    "occhiello": "WALL STREET APRE IN POSITIVO CON IL DOW JONES A +0,31 PER CENTO",
+    "lead_preview": "New York, 6 ottobre 2026. Wall Street apre le contrattazioni in territorio positivo, spinta dall'andamento dei principal",
+    "tags": [
+      "borsa",
+      "indice",
+      "azienda"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b45937aa269c7b72",
     "slug": "il-carburante-vola-al-31-dei-costi-aeroportuali-b45937aa269c7b72",
     "title": "Il carburante vola al 31% dei costi aeroportuali",
@@ -2777,24 +2796,6 @@
       "errore informatico",
       "confusione",
       "agenzia di stampa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fcd5f8b1daf1ed3f",
-    "slug": "wall-street-apre-in-rialzo-dow-jones-guadagna-lo-0-fcd5f8b1daf1ed3f",
-    "title": "Wall street apre in positivo con il dow jones a +0,31 per cento",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-06T14:06:03.862556+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
-    "occhiello": "WALL STREET APRE IN POSITIVO CON IL DOW JONES A +0,31 PER CENTO",
-    "lead_preview": "New York, 6 ottobre 2026. Wall Street apre le contrattazioni in territorio positivo, spinta dall'andamento dei principal",
-    "tags": [
-      "wall street",
-      "dow jones"
     ],
     "hero_eligible": true
   },
