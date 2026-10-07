@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 6 ottobre 2026",
+  "title": "Le prime pagine di oggi, mercoledì 7 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 6 ottobre 2026",
-    "Le prime pagine di oggi, martedì 6 ottobre 2026",
-    "Le prime pagine di oggi, martedì 6 ottobre 2026"
+    "Le prime pagine di oggi, mercoledì 7 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 7 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 7 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI MARTEDI 6 OTTOBRE",
-  "lead": "La crisi politica spagnola domina le aperture dei quotidiani odierni, con il premier Pedro Sanchez che ha annunciato elezioni anticipate per il 29 novembre a seguito delle proteste sociali. Parallelamente, i giornali dedicano ampio spazio all'allarme sicurezza in Europa, legato alla cosiddetta guerra ombra russa segnalata dagli 007 tedeschi, e alle difficoltà economiche delle famiglie italiane, strette tra inflazione e pressione fiscale. Spazio anche alla cronaca giudiziaria, con il caso Garlasco che torna al centro dell'attenzione, e ai successi della nazionale di calcio italiana in Nations League.",
-  "corpo1": "Il Corriere della Sera apre sulla Spagna e sulla scommessa elettorale di Sanchez, affiancando l'allarme degli 007 tedeschi sulla Russia. La Repubblica si concentra sull'emergenza economica, analizzando il calo del potere d'acquisto, mentre La Stampa punta sulla pressione fiscale record e il caro-affitti. Il Messaggero sceglie il caso Garlasco con le nuove indagini sui pedali della bici di Stasi. Il Fatto Quotidiano analizza i costi del conflitto in Ucraina e le dinamiche elettorali italiane. Il Giornale torna sul caso Garlasco parlando di uno scandalo sui reperti, contrapponendolo alla situazione politica spagnola. Infine, la stampa sportiva: la Gazzetta dello Sport celebra la vittoria dell'Italia sulla Turchia in Nations League, il Corriere dello Sport festeggia il doppio successo di Mancini e dell'Under 21, mentre Tuttosport titola sul festival azzurro tra nazionale maggiore e giovani.",
-  "corpo2": "Diversi i temi secondari nelle pagine interne: il Brasile e l'avanzata di Bolsonaro sono ripresi da Repubblica e Messaggero. Il caso Rai relativo alla sospensione di Ranucci compare su Stampa e Giornale, mentre la questione della governance Figc e il ruolo di Malagò occupano le prime pagine di Gazzetta, Corriere dello Sport e Tuttosport. Il Messaggero segnala inoltre il dibattito sulla legge elettorale. La politica estera e l'economia restano i temi prevalenti nel dibattito pubblico odierno.",
+  "occhiello": "LE PRIME PAGINE 7 OTTOBRE 2026",
+  "lead": "I quotidiani italiani di oggi convergono su tre temi principali: i disordini studenteschi in Francia, la riforma elettorale approvata in Italia e lo stop anticipato di Jannik Sinner. Il Corriere della Sera e La Stampa pongono in apertura la protesta francese, mentre La Repubblica si concentra sulla legge di Meloni e i prezzi del diesel. Il Messaggero bilancia i due fronti, mentre i due quotidiani sportivi, Gazzetta dello Sport e Corriere dello Sport, dedicano le prime pagine rispettivamente al piano di rientro di Sinner e al centravanti Pio Esposito.",
+  "corpo1": "Il Corriere della Sera apre con le barricate da Parigi a Lione per la protesta degli studenti, affiancando la nuova legge elettorale e la chiusura di stagione di Sinner. La Repubblica titola sulla legge di Meloni marcia e sul prezzo del diesel, segnalando le fiducie alla Camera e lo stop forzato del tennista. La Stampa scrive che Parigi è in fiamme e i licei sono chiusi, citando anche la provocazione di Trump sui disordini. Il Messaggero divide l'apertura tra i disordini francesi e la pressione del governo per bloccare i rialzi del diesel, aggiungendo il compromesso Figc con Malagò commissario. La Gazzetta dello Sport definisce la resa di Sinner, illustrando il piano per il rientro a gennaio, mentre il Corriere dello Sport celebra Pio Esposito con un gioco di parole che lo avvicina a Christian Vieri.",
+  "corpo2": "Sulle prime pagine compaiono anche dettagli sulla perdita di una mano da parte di un quindicenne in un'esplosione in Francia e la nomina di Malagò come commissario Figc in attesa del voto di dicembre. Il tema dominante della giornata è la convergenza tra le crisi sociali europee e le decisioni politiche e sportive nazionali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-06T05:51:28.116962+00:00",
+  "published_at": "2026-10-07T05:52:02.598747+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/21272c027e310ffaebc593fbd0e36cce4c7b84b0/skytg24/it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/3ed7c829486028a5709da1236d528b9cae299a97/skytg24/it/cronaca/2026/10/07/prime-pagine-quotidiani-oggi-7-ottobre/1_Corriere.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/07/prime-pagine-quotidiani-oggi-7-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 6 ottobre 2026",
+      "title": "Oroscopo di oggi, mercoledì 7 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Marco mengoni, il 9 ottobre esce il singolo giornate perse",
-      "url": "/cultura/marco-mengoni-il-9-ottobre-esce-il-singolo-giornat-6f270bb577e693f5",
-      "id": "6f270bb577e693f5",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/3105e88efacdc68c8011d6e45cc896c9.jpg",
+      "title": "Ex ilva, nuovo vertice a palazzo chigi l'8 ottobre",
+      "url": "/economia/ex-ilva-il-governo-convoca-i-metalmeccanici-a-pala-d5004dff578048a5",
+      "id": "d5004dff578048a5",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/24/cb99f4fa7278861f603af947a2f05c31.jpg",
       "image_type": "image"
     },
     {
-      "title": "Sinwar ritratto dalle brigate al qassem vigilia sette ottobre",
-      "url": "/esteri/sinwar-ritratto-dalle-brigate-al-qassem-vigilia-se-8e1daea319f7b1ae",
-      "id": "8e1daea319f7b1ae",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/c8ee978f009d51515323fd8b650f4791.jpg",
-      "image_type": "image"
+      "title": "La stagione 2026 di jannik sinner si chiude il sei ottobre",
+      "url": "/sport/la-stagione-2026-di-jannik-sinner-si-chiude-il-sei-3c68da7a0c02220d",
+      "id": "3c68da7a0c02220d",
+      "image_url": "https://sport.sky.it/assets/images/69afe96c3873298a8aa00ed673caa14210fb2c25/skysport/it/tennis/video/2026/10/06/1129500_1791278020655_thumb_494.0000001_1791278151128.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
