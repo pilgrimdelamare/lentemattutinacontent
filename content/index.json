@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify torna online: venti minuti di buio e milioni di utenti senza musica",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-06T17:31:54.919978+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
+    "lead_preview": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti ",
+    "tags": [
+      "spotify down",
+      "interruzione spotify"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9cd8bfe40a7741b3",
     "slug": "drone-ucraino-centra-un-minibus-a-zaporizhzhia-tre-9cd8bfe40a7741b3",
     "title": "Tre morti nel raid sul minibus nella regione di zaporizhzhia",
@@ -2895,25 +2913,6 @@
     "lead_preview": "Assisi, 6 ottobre 2026. I leader delle fedi religiose si sono riuniti ad Assisi insieme a Leone per una preghiera collet",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-06T17:31:54.919978+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
-    "lead_preview": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti ",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "28e23db9ce0bc4bc",
