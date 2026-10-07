@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
+  "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
   "titles": [
-    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
-    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
-    "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'"
+    "GitHub è tornato online dopo 20 minuti di interruzione.",
+    "GitHub è tornato online dopo 20 minuti di interruzione.",
+    "GitHub è tornato online dopo 20 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IRAGGIUNGIBILE: ALLERTA CRITICA ATTIVA",
-  "lead": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'accesso a repository e collaborazioni. Gli sviluppatori italiani subiscono un arresto immediato delle attività di integrazione continua e rilascio software.",
-  "corpo1": "Il malfunzionamento è iniziato alle ore 09:15 UTC, generando errori di connettività globali. Le API REST e GraphQL risultano inaccessibili, bloccando i pipeline CI/CD e impedendo il push o il pull di codice. I sistemi di autenticazione non rispondono, lasciando gli utenti bloccati fuori dalle proprie piattaforme di sviluppo. L'impatto operativo è severo per le aziende che dipendono da GitHub Actions per i deploy automatici. Non sono disponibili stime temporali per il ripristino. Stiamo monitorando la situazione.",
+  "occhiello": "GITHUB RIPRISTINATO",
+  "lead": "GitHub è tornato online dopo 20 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 20 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-07T15:31:15.293492+00:00",
+  "published_at": "2026-10-07T15:36:19.827513+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,17 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
-      "image_type": "image"
-    },
-    {
       "title": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
