@@ -1,5 +1,20 @@
 [
   {
+    "id": "718e914f3f4686ba",
+    "slug": "teatro-e-memoria-tra-il-grappa-e-la-diga-718e914f3f4686ba",
+    "title": "Teatro e memoria tra il grappa e la diga",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-07T14:17:15.889964+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/24/2de0f112b38704f4404163dc58858fa1.jpg",
+    "occhiello": "TEATRO E MEMORIA TRA IL GRAPPA E LA DIGA",
+    "lead_preview": "Pieve del Grappa, 7 ottobre 2026. Un reading teatrale in scena a Pieve del Grappa ricorda la figura mitologica di Merlin",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "41e40ee30faf6d55",
     "slug": "calcio-aia-fissa-i-fischietti-fabbri-per-il-como-b-41e40ee30faf6d55",
     "title": "Calcio: AIA fissa i fischietti, Fabbri per il Como-Benevento",
@@ -8295,24 +8310,6 @@
     "tags": [
       "campo largo",
       "conte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "649dcf062e09e8ca",
-    "slug": "calcio-la-lazio-pareggia-tre-a-tre-contro-la-juve-649dcf062e09e8ca",
-    "title": "Responsabilità della Juventus Stabia: Saluti alla chiamata di Gialloblù su Liccardo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-03T15:20:55.120098+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/80c668d26ddf7853e681308260892d1b.jpg",
-    "occhiello": "TEST A FORMELLO TRA LA LAZIO E LA JUVE STABIA",
-    "lead_preview": "Roma, 3 ottobre 2026. Si è chiuso sul risultato di tre a tre il test amichevole disputato a Formello tra la squadra guid",
-    "tags": [
-      "juve stabia",
-      "amichevole lazio"
     ],
     "hero_eligible": true
   }
