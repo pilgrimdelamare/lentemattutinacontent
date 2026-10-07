@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-07T15:36:19.827513+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB RIPRISTINATO",
+    "lead_preview": "GitHub è tornato online dopo 20 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3675b6045ae9735e",
     "slug": "calcio-roma-la-maledizione-dei-9-turni-in-30-giorn-3675b6045ae9735e",
     "title": "Calcio: Roma, la maledizione dei 9 turni in 30 giorni mette a dura prova la rosa",
@@ -17,25 +36,6 @@
       "roma"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-07T15:31:15.293492+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IRAGGIUNGIBILE: ALLERTA CRITICA ATTIVA",
-    "lead_preview": "GitHub è completamente offline da quindici minuti. Il blocco totale impedisce l'accesso a repository e collaborazioni. G",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "47962d74e10714cc",
