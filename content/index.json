@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-06T17:31:54.919978+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
+    "lead_preview": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti ",
+    "tags": [
+      "blackout spotify",
+      "spotify down"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c4fcb738bd68706d",
     "slug": "garlasco-i-ris-e-i-capelli-dimenticati-sul-delitto-c4fcb738bd68706d",
     "title": "Ricostruire i riti svela falsità e chiariti",
@@ -3084,24 +3102,6 @@
     "tags": [
       "cuba",
       "libreta di approvvigionamento"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify torna online: venti minuti di buio e milioni di utenti senza musica",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-06T17:31:54.919978+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
-    "lead_preview": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti ",
-    "tags": [
-      "spotify down",
-      "interruzione spotify"
     ],
     "hero_eligible": true
   },
