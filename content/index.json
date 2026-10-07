@@ -1,5 +1,24 @@
 [
   {
+    "id": "fc4b7aafcf88535c",
+    "slug": "giustizia-dal-giorno-dopo-malago-esposto-fc4b7aafcf88535c",
+    "title": "Coni: Buonfiglio nomina Malagò a Commissario FIGC e stoppa le dimissioni Bianchedi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-06T15:07:16.354974+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/0e0ef69be1d7b4e81bde8dff65887c23506df376/skysport/it/tennis/2026/07/14/buonfiglio-sinner-conferenza/buonfiglio.jpg",
+    "occhiello": "COMMISSARIAMENTO DELLA FIGC DOPO IL CASO MALAGÒ",
+    "lead_preview": "Roma, 6 ottobre 2026. Il Presidente del Coni Luciano Buonfiglio ha definito Giovanni Malagò una vittima di un malfunzion",
+    "tags": [
+      "coni",
+      "figc",
+      "malagò"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94c46552a608ca64",
     "slug": "dalloccidente-alla-russia-un-atacco-colpisce-la-ca-94c46552a608ca64",
     "title": "Due vittime nell'attacco con droni sulle campagne di mosca",
@@ -2830,24 +2849,6 @@
     "tags": [
       "uova italiane",
       "evasione fiscale uova"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fc4b7aafcf88535c",
-    "slug": "giustizia-dal-giorno-dopo-malago-esposto-fc4b7aafcf88535c",
-    "title": "Giustizia dal giorno dopo: Malagò esposto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-06T15:07:16.354974+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/0e0ef69be1d7b4e81bde8dff65887c23506df376/skysport/it/tennis/2026/07/14/buonfiglio-sinner-conferenza/buonfiglio.jpg",
-    "occhiello": "COMMISSARIAMENTO DELLA FIGC DOPO IL CASO MALAGÒ",
-    "lead_preview": "Roma, 6 ottobre 2026. Il Presidente del Coni Luciano Buonfiglio ha definito Giovanni Malagò una vittima di un malfunzion",
-    "tags": [
-      "caso malagò",
-      "commissariamento figc"
     ],
     "hero_eligible": true
   },
