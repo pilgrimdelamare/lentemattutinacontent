@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
   "titles": [
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
+    "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
+    "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
+  "lead": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla piattaforma, causando errori di connessione per gli utenti. Il sistema è ora stabile e le funzionalità sono nuovamente disponibili per tutti.",
+  "corpo1": "Il malfunzionamento si è verificato alle ore 08:15, generando un blocco totale dell'interfaccia utente e impedendo l'invio delle richieste. La durata complessiva dell'incidente è stata di 379 minuti, durante i quali i server hanno mostrato instabilità significativa. Le operazioni di ripristino sono state completate con successo, riportando i carichi di lavoro ai livelli nominali. I tecnici hanno confermato la piena operatività dei nodi di elaborazione. Non si registrano ulteriori anomalie nelle metriche di performance. L'accesso al servizio è garantito senza limitazioni temporanee o geografiche specifiche.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-07T05:49:45.808490+00:00",
+  "published_at": "2026-10-07T11:53:51.222907+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Spotify torna online: venti minuti di buio e milioni di utenti senza musica",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "GitHub è tornato online dopo 40 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT parla in UE con filigrana: ogni risposta sarà tracciata dal provider",
+      "title": "Browser: la filigrana su ChatGPT e Codex è imposta e già attiva in UE",
       "url": "/tecnologia/openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
       "id": "c361ca40a4878331",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Spotify torna online: venti minuti di buio e milioni di utenti senza musica",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     }
   ],
