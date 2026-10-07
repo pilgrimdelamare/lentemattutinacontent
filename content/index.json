@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 7 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-07T05:52:02.598747+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/3ed7c829486028a5709da1236d528b9cae299a97/skytg24/it/cronaca/2026/10/07/prime-pagine-quotidiani-oggi-7-ottobre/1_Corriere.jpg",
+    "occhiello": "LE PRIME PAGINE 7 OTTOBRE 2026",
+    "lead_preview": "I quotidiani italiani di oggi convergono su tre temi principali: i disordini studenteschi in Francia, la riforma elettor",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
@@ -4085,25 +4104,6 @@
       "musica",
       "concerti",
       "orchestera"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 6 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-06T05:51:28.116962+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/21272c027e310ffaebc593fbd0e36cce4c7b84b0/skytg24/it/cronaca/2026/10/06/prime-pagine-quotidiani-oggi-6-ottobre/CorSera.png",
-    "occhiello": "LE PRIME PAGINE DI MARTEDI 6 OTTOBRE",
-    "lead_preview": "La crisi politica spagnola domina le aperture dei quotidiani odierni, con il premier Pedro Sanchez che ha annunciato ele",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
