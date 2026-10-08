@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna online dopo 379 minuti di blocco: utenti tornano a scrivere",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-07T11:53:51.222907+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
+    "lead_preview": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla pia",
+    "tags": [
+      "chatgpt down",
+      "interruzione chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "af4eba7235d1c8ce",
     "slug": "gennaro-gattuso-mancano-strade-e-infrastrutture-pe-af4eba7235d1c8ce",
     "title": "Gennaro gattuso: mancano strade e infrastrutture per riportare la gente a tifare",
@@ -2504,25 +2522,6 @@
       "debito pubblico",
       "fmi",
       "governi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna online dopo 379 minuti di blocco totale: i server sono finalmente stabili",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-07T11:53:51.222907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
-    "lead_preview": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla pia",
-    "tags": [
-      "chatgpt",
-      "interruzione",
-      "servizio"
     ],
     "hero_eligible": true
   },
