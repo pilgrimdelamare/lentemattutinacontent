@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna online dopo 379 minuti di blocco totale: i server sono finalmente stabili",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-07T11:53:51.222907+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
+    "lead_preview": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla pia",
+    "tags": [
+      "chatgpt",
+      "interruzione",
+      "servizio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "139f902e105851e8",
     "slug": "scontro-totale-in-antimafia-sul-caso-scarpinato-139f902e105851e8",
     "title": "Scontro totale in antimafia sul caso scarpinato",
@@ -3206,25 +3225,6 @@
     "lead_preview": "Milano, 6 ottobre 2026. La redazione di Sky Sport ha pubblicato un approfondimento intitolato Il no di Eurolega a NBA: l",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-07T11:53:51.222907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
-    "lead_preview": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla pia",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "d01793dbc66552eb",
