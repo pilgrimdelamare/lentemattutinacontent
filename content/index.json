@@ -1,5 +1,24 @@
 [
   {
+    "id": "2cf13b1f185b5a74",
+    "slug": "quattro-morti-e-venti-feriti-nel-distretto-2cf13b1f185b5a74",
+    "title": "Missile russo su Chernihiv: 4 morti e 20 feriti, tra i soccorsi 3 bambini",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-07T07:18:48.336137+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/15/a1d9ccc9f3e242aed5b57fe68e12099f.jpg",
+    "occhiello": "QUATTRO MORTI E VENTI FERITI NEL DISTRETTO",
+    "lead_preview": "Chernihiv, 7 ottobre 2026. Un attacco missilistico russo ha colpito un edificio residenziale nella città Ucraina, provoc",
+    "tags": [
+      "missile",
+      "attacco",
+      "ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3675b6045ae9735e",
     "slug": "calcio-roma-la-maledizione-dei-9-turni-in-30-giorn-3675b6045ae9735e",
     "title": "Roma e como aprono un ciclo da nove partite in un mese",
@@ -2404,24 +2423,6 @@
     "tags": [
       "ftse mib",
       "borsa milano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2cf13b1f185b5a74",
-    "slug": "quattro-morti-e-venti-feriti-nel-distretto-2cf13b1f185b5a74",
-    "title": "Czernihiv: missili russi colpiscono casa, muoiono 4 e 20 bambini feriti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-07T07:18:48.336137+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/15/a1d9ccc9f3e242aed5b57fe68e12099f.jpg",
-    "occhiello": "QUATTRO MORTI E VENTI FERITI NEL DISTRETTO",
-    "lead_preview": "Chernihiv, 7 ottobre 2026. Un attacco missilistico russo ha colpito un edificio residenziale nella città Ucraina, provoc",
-    "tags": [
-      "attacco chernihiv",
-      "guerra ucraina"
     ],
     "hero_eligible": true
   },
