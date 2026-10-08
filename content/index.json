@@ -1,5 +1,23 @@
 [
   {
+    "id": "914402c2805599f5",
+    "slug": "arnaldo-pomodoro-racconto-tra-le-arti---mostra-fot-914402c2805599f5",
+    "title": "Arnaldo Pomodoro: racconto tra le arti - Mostra fotografica a Soliera (IM)",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-08T10:07:46.090356+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/1d0dc2529a6f9ae7b4146472a5725f76.jpg",
+    "occhiello": "CENTO STAMPE DI ARNALDO POMODORO A SOLIERA",
+    "lead_preview": "Soliera, 8 ottobre.",
+    "tags": [
+      "mostra arnaldo pomodoro",
+      "soliera"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "08d00b0495b93a6a",
     "slug": "pieraccioni-lancia-un-weekend-artificiale-ceccheri-08d00b0495b93a6a",
     "title": "Pieraccioni lancia Un weekend artificiale: Ceccherini e Panariello in Sala a novembre",
@@ -8258,25 +8276,6 @@
     "occhiello": "IL PINETO CEDE DI MISURA SUL CAMPO DEL GUIDONIA MONTECELIO",
     "lead_preview": "Roma, 4 ottobre 2026. Il Guidonia Montecelio supera il Pineto con il punteggio di uno a zero nella sfida valida per il c",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "91a0036901b2d2ac",
-    "slug": "calendario-serie-a-nove-gare-in-un-mese-e-otto-big-91a0036901b2d2ac",
-    "title": "Calendario serie a, nove gare in un mese e otto big match",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-04T15:32:55.806447+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/372bbfdefe67fc704c06568ea762f57c.jpg",
-    "occhiello": "CALENDARIO SERIE A, NOVE GARE IN UN MESE E OTTO BIG MATCH",
-    "lead_preview": "Roma, 4 ottobre 2026. Secondo quanto riportato dall'agenzia ANSA nell'analisi sul prossimo mese di campionato, il calend",
-    "tags": [
-      "serie_a",
-      "calendario",
-      "gare_in_un_mese"
-    ],
     "hero_eligible": true
   }
 ]
