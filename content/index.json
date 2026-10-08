@@ -1,5 +1,23 @@
 [
   {
+    "id": "034a8b55ebc60b4b",
+    "slug": "matteo-gabbia-ripresenta-sui-campi-034a8b55ebc60b4b",
+    "title": "Matteo Gabbia ripresenta sui campi",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-08T13:37:00.310116+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/19/6fce0874a491b938c82ba0185babf305.jpg",
+    "occhiello": "MATTEO GABBIA FA IL PUNTO SULLA CAVIGLIA E SUL RENDIMENTO DEL MILAN",
+    "lead_preview": "Milano, 8 ottobre 2026. Il difensore del Milan Matteo Gabbia, intervenuto attraverso i canali di informazione dell'agenz",
+    "tags": [
+      "matteo gabbia",
+      "infortunio gabbia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dc0db28705b7926b",
     "slug": "rinnovo-blindato-fino-al-2029-per-il-difensore-dc0db28705b7926b",
     "title": "Rinnovo blindato fino al 2029 per il difensore",
@@ -8217,25 +8235,6 @@
     "occhiello": "LA NAZIONALE UNDER 21 SI GIOCA LA QUALIFICAZIONE DIRETTA",
     "lead_preview": "Pescara, 5 ottobre 2026. La Nazionale Italiana Under 21 affronta la Polonia allo stadio Adriatico nell'ultima partita de",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c6d8a8fb9a30d187",
-    "slug": "tallinn-sposta-i-cannoni-al-confine-russo-lestonia-c6d8a8fb9a30d187",
-    "title": "Rispondere a un'improvvisazione geopolitica",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-05T08:02:05.871768+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/5/10/8b5a458e55b1d538ed021395d44390e9.jpg",
-    "occhiello": "TALLINN SCHIERA I REPARTI LUNGO IL CONFINE RUSSO",
-    "lead_preview": "Tallinn, 5 ottobre 2026. L'Estonia sposta le truppe più vicino al confine con la Federazione Russa, secondo quanto ripor",
-    "tags": [
-      "geopolitica",
-      "confine russo",
-      "truppe estoniane"
-    ],
     "hero_eligible": true
   }
 ]
