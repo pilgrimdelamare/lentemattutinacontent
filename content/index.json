@@ -1,5 +1,20 @@
 [
   {
+    "id": "31edfdd90dd512d3",
+    "slug": "il-cinema-italiano-e-il-pregiudizio-verso-le-comic-31edfdd90dd512d3",
+    "title": "Il cinema italiano e il pregiudizio verso le comiche",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-08T09:31:35.272514+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/9a60f9eecd749131a77800f2700b1c0d.jpg",
+    "occhiello": "IL CINEMA ITALIANO E IL PREGIUDIZIO VERSO LE COMICHE",
+    "lead_preview": "Roma, 8 ottobre 2026. A cinquantacinque anni, Valentina Persia rivendica il proprio percorso artistico e dichiara che la",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c3c4e4f6ae7e4ae9",
     "slug": "trump-scarica-i-suoi-consiglieri-per-i-legami-daff-c3c4e4f6ae7e4ae9",
     "title": "Trump prende le distanze dai consiglieri sui balcani",
@@ -8277,25 +8292,6 @@
       "politica",
       "esteri",
       "sanità"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ed0f102b42d3e32",
-    "slug": "lecco-union-brescia-2-2-gol-rigori-falliti-e-highl-9ed0f102b42d3e32",
-    "title": "Calcio: il Lecco si mangia i gol e l'Union Brescia strappa il pareggio per due a due",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-04T14:43:34.233096+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/587167f29dd5ef5f0ee3cb7e64194007366bd44a/skysport/it/calcio/serie-c/video/2026/10/04/1129127_1791119813067_thumb_494.0000001_1791120774463.jpg",
-    "occhiello": "LECCO-UNION BRESCIA 2-2: GOL, RIGORI FALLITI E HIGHLIGHTS",
-    "lead_preview": "Lecco, 4 ottobre 2026. L'Union Brescia pareggia due a due contro il Lecco nella sfida valida per l'ottava giornata del c",
-    "tags": [
-      "calcio",
-      "sport",
-      "serie_c"
     ],
     "hero_eligible": true
   }
