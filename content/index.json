@@ -1,5 +1,23 @@
 [
   {
+    "id": "be17209c85dfdba4",
+    "slug": "santiago-allagato-150-evacuati-e-14mila-famiglie-s-be17209c85dfdba4",
+    "title": "Pioggia a Santiago: 1.500 evacuati e 14mila senza luce, muore un senzatetto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-07T17:14:04.980997+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/5ee803f8314451a817e1fb39cbd83686.jpg",
+    "occhiello": "SANTIAGO, UN SENZATETTO MORTO E 14 MILA FAMIGLIE AL BUIO",
+    "lead_preview": "Santiago, 7 ottobre 2026. Centocinquanta persone evacuate a causa dell'esondazione di un fiume nella capitale cilena, me",
+    "tags": [
+      "alluvione santiago",
+      "pioggia cilene"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1c8af13d3ed6770d",
     "slug": "il-papa-attacca-il-profitto-spregiudicato-dal-vati-1c8af13d3ed6770d",
     "title": "Il papa attacca il profitto spregiudicato dal vaticano",
@@ -2935,24 +2953,6 @@
     "tags": [
       "ronaldo jorge jesus",
       "nazionale portogallo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "be17209c85dfdba4",
-    "slug": "santiago-allagato-150-evacuati-e-14mila-famiglie-s-be17209c85dfdba4",
-    "title": "Santiago allagato: 150 evacuati e 14mila famiglie senza luce nel caos",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-07T17:14:04.980997+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/5ee803f8314451a817e1fb39cbd83686.jpg",
-    "occhiello": "SANTIAGO, UN SENZATETTO MORTO E 14 MILA FAMIGLIE AL BUIO",
-    "lead_preview": "Santiago, 7 ottobre 2026. Centocinquanta persone evacuate a causa dell'esondazione di un fiume nella capitale cilena, me",
-    "tags": [
-      "alluvione santiago",
-      "esondazione santiago"
     ],
     "hero_eligible": true
   },
