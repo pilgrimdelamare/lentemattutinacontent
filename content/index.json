@@ -1,5 +1,23 @@
 [
   {
+    "id": "35e3d02e43241990",
+    "slug": "nikkei-sotto-quota-70mila-travolto-dal-debito-tech-35e3d02e43241990",
+    "title": "Tokyo crolla: il Nikkei precipita sotto i 70mila punti, il debito AI pesa",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-08T01:01:52.122315+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/4/a1188d6abb4981a63200da631ca059b5.jpg",
+    "occhiello": "NIKKEI SOTTO QUOTA 70MILA TRAVOLTO DAL DEBITO TECH",
+    "lead_preview": "Tokyo, 8 ottobre. La Borsa di Tokyo apre la seduta con una flessione dello 0,26 per cento, trascinando l'indice Nikkei s",
+    "tags": [
+      "nikkei 70mila",
+      "debito ai"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "be17209c85dfdba4",
     "slug": "santiago-allagato-150-evacuati-e-14mila-famiglie-s-be17209c85dfdba4",
     "title": "Santiago, un senzatetto morto e 14 mila famiglie al buio",
@@ -11,21 +29,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/5ee803f8314451a817e1fb39cbd83686.jpg",
     "occhiello": "SANTIAGO, UN SENZATETTO MORTO E 14 MILA FAMIGLIE AL BUIO",
     "lead_preview": "Santiago, 7 ottobre 2026. Centocinquanta persone evacuate a causa dell'esondazione di un fiume nella capitale cilena, me",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "35e3d02e43241990",
-    "slug": "nikkei-sotto-quota-70mila-travolto-dal-debito-tech-35e3d02e43241990",
-    "title": "Nikkei sotto quota 70mila travolto dal debito tech",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-08T01:01:52.122315+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/4/a1188d6abb4981a63200da631ca059b5.jpg",
-    "occhiello": "NIKKEI SOTTO QUOTA 70MILA TRAVOLTO DAL DEBITO TECH",
-    "lead_preview": "Tokyo, 8 ottobre. La Borsa di Tokyo apre la seduta con una flessione dello 0,26 per cento, trascinando l'indice Nikkei s",
     "tags": [],
     "hero_eligible": true
   },
