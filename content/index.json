@@ -1,5 +1,24 @@
 [
   {
+    "id": "4d07ae50ff940983",
+    "slug": "bologna-ospita-picasso-e-gaudi-102-opere-e-antepri-4d07ae50ff940983",
+    "title": "Bologna ospita Picasso e Gaudì: 102 opere e anteprime mondiali",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-08T14:11:42.511921+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/546d8346bcbf6b0dff10f6fe41c51434.jpg",
+    "occhiello": "CENTODUE PEZZI DA BARCELLONA A PALAZZO ALBERGATI",
+    "lead_preview": "Bologna, 8 ottobre 2026. Palazzo Albergati ospita la mostra Da Gaudì a Picasso, esposizione dedicata alla cultura di Bar",
+    "tags": [
+      "arte",
+      "mostra",
+      "barcellona"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fcf313eecdd592ba",
     "slug": "netflix-annuncia-il-nuovo-prequel-dedicato-alla-gi-fcf313eecdd592ba",
     "title": "Netflix annuncia il nuovo prequel dedicato alla giovinezza di lady violet",
@@ -8210,24 +8229,6 @@
     "tags": [
       "teatro sannazaro",
       "incendio sannazaro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f019069e00dc778a",
-    "slug": "ansa-chiede-1699-euro-lanno-ma-cancella-musica-e-c-f019069e00dc778a",
-    "title": "ANSA chiede 17 euro per non tracciarvi ma cancella concerti e cultura dal web",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-05T09:24:13.191279+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/5/f41961ee44b5dedde97aeeba2f8d5339.jpg",
-    "occhiello": "PAGINE DI SERVIZIO E COOKIE SCAMBIATE PER MUSICA DA CAMERA",
-    "lead_preview": "Roma, 5 ottobre 2026. La copertura informativa offerta da ANSA si riduce a un'interfaccia di vendita per abbonamenti e p",
-    "tags": [
-      "ans",
-      "privacy cookie"
     ],
     "hero_eligible": true
   }
