@@ -1,5 +1,23 @@
 [
   {
+    "id": "d9d3c095ec409b54",
+    "slug": "torino-il-rover-rosalind-franklin-si-muove-il-test-d9d3c095ec409b54",
+    "title": "Torino: il rover Rosalind Franklin si muove, il test segna via libera",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-08T16:59:43.519748+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/29cec4c5c88c1a139b0abf47f8fddd8f.jpg",
+    "occhiello": "TORINO, SIMULAZIONE ALLO STABILIMENTO ALTEC PER LA MISSIONE DEL 2028",
+    "lead_preview": "Torino, 8 ottobre 2026. Il rover Rosalind Franklin di ExoMars si prepara ai suoi primi passi su Marte attraverso le simu",
+    "tags": [
+      "rover rosalind franklin",
+      "missione exomars"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ab412fa4aa01edf8",
     "slug": "milei-svende-lacqua-di-buenos-aires-340-milioni-a-ab412fa4aa01edf8",
     "title": "Milei svende l'acqua di Buenos Aires: 340 milioni a una cordata straniera",
@@ -8202,24 +8220,6 @@
     "tags": [
       "cambiale azzurra",
       "liquidità pesca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e58a9f9569d8fdb5",
-    "slug": "tennis-djokovic-batte-medvedev-a-pechino-e-vola-in-e58a9f9569d8fdb5",
-    "title": "Tennis: Djokovic sfida Medvedev a Pechino per il posto in finale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-05T12:18:15.773603+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e427c02f3355887f8f69d6b3809217a42bef8594/skysport/it/tennis/2026/10/04/zverev-djokovic-china-open-risultato/ipa_djokovic.jpg",
-    "occhiello": "NOVAK DJOKOVIC AFFRONTA DANIIL MEDVEDEV IN SEMIFINALE A PECHINO",
-    "lead_preview": "Pechino, 5 ottobre 2026. Novak Djokovic affronta Daniil Medvedev al torneo ATP 500 di Pechino per conquistare un posto i",
-    "tags": [
-      "torneo pechino",
-      "djokovic medvedev"
     ],
     "hero_eligible": true
   }
