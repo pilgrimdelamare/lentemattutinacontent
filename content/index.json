@@ -1,5 +1,23 @@
 [
   {
+    "id": "a8f5083cb6d1d563",
+    "slug": "kramatorsk-dodici-morti-e-quattordici-feriti-nel-r-a8f5083cb6d1d563",
+    "title": "Kramatorsk, dodici morti e quattordici feriti nel raid sul trasporto pubblico",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-08T09:02:31.248496+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/4/e250d08e5d8a512b46ae2b48b7c2fe27.jpg",
+    "occhiello": "KRAMATORSK, DODICI MORTI E QUATTORDICI FERITI NEL RAID SUL TRASPORTO PUBBLICO",
+    "lead_preview": "Kiev, 8 ottobre 2026. Un raid russo ha colpito un autobus in transito a Kramatorsk, provocando dodici vittime e quattord",
+    "tags": [
+      "raid kramatorsk",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "39b2719364b326ab",
     "slug": "milano-paga-il-prezzo-delle-materie-prime-energeti-39b2719364b326ab",
     "title": "I btp al 4,67% e milano crolla del 2,4% sulle banche",
@@ -8276,24 +8294,6 @@
       "cookie",
       "accesso",
       "informazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4b6e5efa3e2a77ea",
-    "slug": "il-manager-dei-media-zeiler-sfida-babler-in-austri-4b6e5efa3e2a77ea",
-    "title": "Zeiler prende la megaphone per affidare il Partito a un cambiamento",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-04T12:52:22.122346+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/4/ff39dc8f315fa8eca927f4fa56d9ee67.jpg",
-    "occhiello": "IL MANAGER DEI MEDIA ZEILER SFIDA BABLER IN AUSTRIA",
-    "lead_preview": "Vienna, 4 ottobre 2026. Il top manager dei media Gerhard Zeiler lancia la sfida per guidare i socialdemocratici austriac",
-    "tags": [
-      "zeiler spö",
-      "elezioni austria"
     ],
     "hero_eligible": true
   }
