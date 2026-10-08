@@ -1,5 +1,24 @@
 [
   {
+    "id": "286f93410db7ebdc",
+    "slug": "peru-gelo-a--17-gradi-e-7-regioni-in-allarme-drast-286f93410db7ebdc",
+    "title": "Perù: gelo record a -17 gradi nelle Ande, 7 sud in allerta",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-07T21:25:39.658098+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/f155d43692679f039b2a2da3c37fdb27.jpg",
+    "occhiello": "TEMPERATURE A MENO DICIASSETTE GRADI SOPRA I QUATTROMILA METRI",
+    "lead_preview": "Lima, 7 ottobre 2026. Sette regioni del sud del Perù affrontano un'allerta per il freddo estremo nelle regioni andine, c",
+    "tags": [
+      "gelo",
+      "perù",
+      "temperatura"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38bc7dfc49a22122",
     "slug": "tennis-berrettini-vince-kovachev-in-shanghai-38bc7dfc49a22122",
     "title": "Matteo berrettini lascia il messaggio sul vetrino della telecamera a shanghai",
@@ -3218,24 +3237,6 @@
     "tags": [
       "crisi petrolio cuba",
       "pemex cuba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "286f93410db7ebdc",
-    "slug": "peru-gelo-a--17-gradi-e-7-regioni-in-allarme-drast-286f93410db7ebdc",
-    "title": "Perù: gelo a -17 gradi e 7 regioni in allarme drastico",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-07T21:25:39.658098+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/f155d43692679f039b2a2da3c37fdb27.jpg",
-    "occhiello": "TEMPERATURE A MENO DICIASSETTE GRADI SOPRA I QUATTROMILA METRI",
-    "lead_preview": "Lima, 7 ottobre 2026. Sette regioni del sud del Perù affrontano un'allerta per il freddo estremo nelle regioni andine, c",
-    "tags": [
-      "ondata di freddo perù",
-      "allarme freddo ande"
     ],
     "hero_eligible": true
   },
