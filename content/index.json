@@ -1,5 +1,20 @@
 [
   {
+    "id": "55b55166ecde5756",
+    "slug": "ansa-preannuncia-strano-regime-delle-condizioni-di-55b55166ecde5756",
+    "title": "Il muro dei cookie blocca anche il notiziario dell'ansa",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-08T08:32:20.027942+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/2d0b1a258e8a906cecd0bec1c2e945da.jpg",
+    "occhiello": "IL MURO DEI COOKIE BLOCCA ANCHE IL NOTIZIARIO DELL'ANSA",
+    "lead_preview": "Roma, 8 ottobre 2026. L'agenzia ANSA subordina la consultazione del proprio notiziario e dei titoli all'accettazione dei",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ef402bb157c5f75c",
     "slug": "messico-sheinbaum-vieta-la-doppia-nazionalita-per-ef402bb157c5f75c",
     "title": "Messico politica: Sheinbaum spiegherà ragioni del decreto no-doppio patriziazione",
@@ -3685,24 +3700,6 @@
     "occhiello": "GERARCHIE NBA RIFATTE A SAN ANTONIO PER LA CRESCITA DI HARPER",
     "lead_preview": "San Antonio, 7 ottobre 2026. A San Antonio gli equilibri interni dei San Antonio Spurs mutano in vista del riscatto stag",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "55b55166ecde5756",
-    "slug": "ansa-preannuncia-strano-regime-delle-condizioni-di-55b55166ecde5756",
-    "title": "ANSA preannuncia strano regime delle Condizioni di accesso al suo Servizio online",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-08T08:32:20.027942+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/2d0b1a258e8a906cecd0bec1c2e945da.jpg",
-    "occhiello": "IL MURO DEI COOKIE BLOCCA ANCHE IL NOTIZIARIO DELL'ANSA",
-    "lead_preview": "Roma, 8 ottobre 2026. L'agenzia ANSA subordina la consultazione del proprio notiziario e dei titoli all'accettazione dei",
-    "tags": [
-      "cookie ansa",
-      "paywall ansa"
-    ],
     "hero_eligible": true
   },
   {
