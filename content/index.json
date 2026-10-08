@@ -1,5 +1,20 @@
 [
   {
+    "id": "731f9e9c437b1bdc",
+    "slug": "editoria-italiana-in-crescita-il-trade-sale-del-32-731f9e9c437b1bdc",
+    "title": "Mercato editoriale in crescita",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-07T09:56:43.686768+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/951f70c9380897b6a1e86ee082b5f8d4.jpg",
+    "occhiello": "MERCATO EDITORIALE IN CRESCITA",
+    "lead_preview": "Francoforte, 7 ottobre 2026. Stando ai dati diffusi dall'Associazione Italiana Editori in occasione della Buchmesse di F",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5fb7259155b75577",
     "slug": "dovalue-mira-a-330-350-miliardi-di-euro-ma-atterra-5fb7259155b75577",
     "title": "DoValue mira a 330-350 miliardi di euro, ma atterra nel primo trimestre",
@@ -2580,25 +2595,6 @@
     "occhiello": "CISJORDANIA, UN NUOVO MORTO DURANTE L'ATTACCO DEI COLONI ESTREMISTI",
     "lead_preview": "Roma, 7 ottobre 2026. Un palestinese è stato ucciso in Cisjordania nel corso di un attacco condotto da coloni estremisti",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "731f9e9c437b1bdc",
-    "slug": "editoria-italiana-in-crescita-il-trade-sale-del-32-731f9e9c437b1bdc",
-    "title": "Libri italiani in crescita del 3,2%: il trade spinge su Francoforte",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-07T09:56:43.686768+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/951f70c9380897b6a1e86ee082b5f8d4.jpg",
-    "occhiello": "MERCATO EDITORIALE IN CRESCITA",
-    "lead_preview": "Francoforte, 7 ottobre 2026. Stando ai dati diffusi dall'Associazione Italiana Editori in occasione della Buchmesse di F",
-    "tags": [
-      "libri",
-      "economia",
-      "editoria"
-    ],
     "hero_eligible": true
   },
   {
