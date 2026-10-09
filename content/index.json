@@ -1,5 +1,23 @@
 [
   {
+    "id": "d9d3c095ec409b54",
+    "slug": "torino-il-rover-rosalind-franklin-si-muove-il-test-d9d3c095ec409b54",
+    "title": "A Torino il rover ExoMars Rosalind Franklin prova i primi passi su Marte",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-08T16:59:43.519748+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/29cec4c5c88c1a139b0abf47f8fddd8f.jpg",
+    "occhiello": "TORINO, SIMULAZIONE ALLO STABILIMENTO ALTEC PER LA MISSIONE DEL 2028",
+    "lead_preview": "Torino, 8 ottobre 2026. Il rover Rosalind Franklin di ExoMars si prepara ai suoi primi passi su Marte attraverso le simu",
+    "tags": [
+      "rover rosalind franklin",
+      "missione exomars"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b7de8e3c4b46bcb",
     "slug": "accesso-ai-contenuti-digitali-modelli-di-abbonamen-9b7de8e3c4b46bcb",
     "title": "Accesso ai contenuti digitali: modelli di abbonamento",
@@ -3365,24 +3383,6 @@
     "tags": [
       "roma como",
       "lorenzo pellegrini"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9d3c095ec409b54",
-    "slug": "torino-il-rover-rosalind-franklin-si-muove-il-test-d9d3c095ec409b54",
-    "title": "Torino: il rover Rosalind Franklin prova i primi passi a Mars",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-08T16:59:43.519748+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/29cec4c5c88c1a139b0abf47f8fddd8f.jpg",
-    "occhiello": "TORINO, SIMULAZIONE ALLO STABILIMENTO ALTEC PER LA MISSIONE DEL 2028",
-    "lead_preview": "Torino, 8 ottobre 2026. Il rover Rosalind Franklin di ExoMars si prepara ai suoi primi passi su Marte attraverso le simu",
-    "tags": [
-      "rover rosalind franklin",
-      "missione exomars"
     ],
     "hero_eligible": true
   },
