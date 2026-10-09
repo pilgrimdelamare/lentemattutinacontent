@@ -1,5 +1,23 @@
 [
   {
+    "id": "29ea3b9f23b561cb",
+    "slug": "le-parole-sul-potere-e-il-giornalismo-televisivo-29ea3b9f23b561cb",
+    "title": "Le parole sul potere e il giornalismo televisivo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-09T14:08:59.148447+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/7a2a0ade38ebf7594efbfbb28031c17c.jpg",
+    "occhiello": "LE PAROLE SUL POTERE E IL GIORNALISMO TELEVISIVO",
+    "lead_preview": "Roma, 9 ottobre 2026. Ospite della trasmissione Ciao Maschio, il giornalista interviene sul rapporto tra informazione e ",
+    "tags": [
+      "giovanni toti",
+      "giornalismo televisivo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c649f5d2f247ba3e",
     "slug": "italia-colombia-4-3-nel-penultimo-inning-c649f5d2f247ba3e",
     "title": "Italia-colombia 4-3 nel penultimo inning",
@@ -8139,24 +8157,6 @@
     "occhiello": "SVELATO IL MISTERO DELLA CENTOPIETRE DI PATÙ DALL'ARCHEOLOGO NIZZO",
     "lead_preview": "Patù, 6 ottobre 2026. Stando a quanto ricostruito dall'archeologo Nizzo attraverso una nuova ricerca pubblicata da ANSA,",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c361ca40a4878331",
-    "slug": "openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
-    "title": "Browser: la filigrana su ChatGPT e Codex è imposta e già attiva in UE",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-06T11:42:20.242984+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
-    "occhiello": "FILIGRANA STATISTICA NEI TESTI DI CHATGPT E CODEX",
-    "lead_preview": "Bruxelles, 6 ottobre 2026. OpenAI introdurrà nelle prossime settimane una filigrana statistica nelle risposte generate d",
-    "tags": [
-      "filigrana chatgpt",
-      "regolamento ai eu"
-    ],
     "hero_eligible": true
   }
 ]
