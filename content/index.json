@@ -1,5 +1,20 @@
 [
   {
+    "id": "9fb0b15cee1e6ed8",
+    "slug": "la-caccia-al-cliente-dietro-il-muro-dei-cookie-9fb0b15cee1e6ed8",
+    "title": "La caccia al cliente dietro il muro dei cookie",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-09T10:29:37.139633+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/255484493636892fcdb78bbb0c3395a4.jpg",
+    "occhiello": "LA CACCIA AL CLIENTE DIETRO IL MURO DEI COOKIE",
+    "lead_preview": "Roma, 9 ottobre 2026. L'agenzia ANSA impone il blocco dei contenuti gratuiti e lancia l'abbonamento Consentless a sedici",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "585517b8272fada7",
     "slug": "677mila-imprese-straniere-in-italia-16mila-in-sei-585517b8272fada7",
     "title": "677Mila imprese straniere in Italia: +16mila in sei mesi, boom nel Nord",
@@ -8174,24 +8189,6 @@
     "occhiello": "DUE VITTIME NELL'ATTACCO CON DRONI SULLE CAMPAGNE DI MOSCA",
     "lead_preview": "Mosca, 6 ottobre 2026. Sale a due il bilancio delle vittime causate dal massiccio attacco di droni ucraini che ha colpit",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e44508295d658813",
-    "slug": "il-ritorno-di-patologie-dimenticate-nei-protocolli-e44508295d658813",
-    "title": "Il ritorno di patologie dimenticate nei protocolli sanitari attuali",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-10-06T06:55:51.993191+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/06/084547300-ef4d7309-0d17-4021-a46b-831ff642f097.jpg",
-    "occhiello": "IL RITORNO DI PATOLOGIE DIMENTICATE NEI PROTOCOLLI SANITARI ATTUALI",
-    "lead_preview": "Roma, 6 ottobre 2026. La Peste, la lebbra e altri patogeni classificati storicamente come flagelli biblici mantengono un",
-    "tags": [
-      "patologie dimenticate",
-      "protocolli sanitari"
-    ],
     "hero_eligible": true
   }
 ]
