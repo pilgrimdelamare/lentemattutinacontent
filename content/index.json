@@ -1,5 +1,23 @@
 [
   {
+    "id": "21b24694a2b25384",
+    "slug": "la-pagina-dei-cookie-che-vale-piu-di-una-conferenz-21b24694a2b25384",
+    "title": "La pagina dei cookie che vale più di una conferenza stampa",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-09T12:53:21.905163+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/13/3d41f0962ec7d14b44c545970ec2165b.jpg",
+    "occhiello": "LA PAGINA DEI COOKIE CHE VALE PIÙ DI UNA CONFERENZA STAMPA",
+    "lead_preview": "Roma, 9 ottobre 2026. L'agenzia Ansa pubblica un titolo sul Monza e su Ivan Jurić, ma il testo restituisce soltanto l'in",
+    "tags": [
+      "cookie ansa",
+      "errore editoriale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dda862fa509a68ee",
     "slug": "il-titolo-banca-generali-schizza-in-borsa-a-piu-5-dda862fa509a68ee",
     "title": "Il titolo banca generali schizza in borsa a più 5%",
@@ -8141,21 +8159,6 @@
       "niffenegger",
       "il disordine del tempo"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "617177a1c38486c0",
-    "slug": "ansa-pubblica-ansanet-con-nuova-politica-su-cookie-617177a1c38486c0",
-    "title": "La pagina dei cookie spacciata per notizia finanziaria",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-06T09:31:39.334959+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
-    "occhiello": "LA PAGINA DEI COOKIE SPACCIATA PER NOTIZIA FINANZIARIA",
-    "lead_preview": "Roma, 6 ottobre 2026. L'agenzia di stampa Ansa pubblica una pagina interamente dedicata ai Cookie di profilazione e agli",
-    "tags": [],
     "hero_eligible": true
   }
 ]
