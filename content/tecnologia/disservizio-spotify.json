@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio st",
+  "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
   "titles": [
-    "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio st",
-    "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio st",
-    "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio st"
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+    "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY OFFLINE: ALERT TECNICO URGENTE",
-  "lead": "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio streaming è down per gli utenti italiani. L'impatto è immediato: interruzione totale della riproduzione musicale e delle playlist. Nessuna connessione possibile al momento.",
-  "corpo1": "Il malfunzionamento è iniziato alle 08:15, causando un blackout totale della piattaforma. Gli utenti italiani non riescono ad accedere alle proprie librerie né a riprodurre brani in streaming. Le app mobili e desktop restituiscono errori di connessione persistente. Non si tratta di un problema locale, ma di un disservizio infrastrutturale centrale che blocca l'intero ecosistema di riproduzione. Le funzionalità di ricerca e gestione account sono anch'esse compromesse. La situazione genera disagi significativi per chi dipende dalla piattaforma per il lavoro o la fruizione quotidiana. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
+  "lead": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di vent minuti. Il disservizio, che ha impedito l'accesso alla libreria musicale e alle playlist, si è concluso senza ulteriori ripercussioni per gli utenti attivi.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle ore 08:15, quando i server di autenticazione hanno iniziato a restituire errori di connessione. L'instabilità ha interessato simultaneamente le applicazioni desktop e mobile, bloccando lo streaming audio e l'aggiornamento delle metadati. Il team tecnico ha identificato immediatamente un sovraccarico sui nodi di distribuzione. Dopo un intervento mirato sul bilanciamento del carico, il sistema ha ripreso la piena funzionalità alle 08:35. I monitor di rete confermano ora una latenza stabile e tempi di risposta nominali su tutte le regioni servite.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-09T21:28:17.027775+00:00",
+  "published_at": "2026-10-09T21:33:25.270991+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -52,11 +52,11 @@
       "image_type": "image"
     },
     {
-      "title": "Intelligenza Artificiale mappi i coralli delle Maldive in 20 minuti: rivoluziona la ricerca",
-      "url": "/ambiente/tecnologia-per-monitorare-non-per-salvare-il-clima-609aebc0d07c7db6",
-      "id": "609aebc0d07c7db6",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/153415398-aa640137-e12c-4b26-b27d-0aef2b17dcde.jpg",
-      "image_type": "feed_image"
+      "title": "I friedkin valutano di cedere l'everton dopo due anni",
+      "url": "/sport/friedkin-prepara-la-cessione-delleverton-due-anni-fe2fe18b12ea5373",
+      "id": "fe2fe18b12ea5373",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/26/83558e400e323699e0278bedacb80732.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": false
