@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-09T21:17:50.364098+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "12f003212e066105",
     "slug": "algoritmi-e-percentuali-per-ridisegnare-la-serie-a-12f003212e066105",
     "title": "Calcio: Optima prevista, rinforzi per la vittoria in Crotone",
@@ -6421,24 +6440,6 @@
     "tags": [
       "debito pubblico",
       "fmi georgieva"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna online dopo 379 minuti di blocco: utenti tornano a scrivere",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-07T11:53:51.222907+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
-    "lead_preview": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla pia",
-    "tags": [
-      "chatgpt down",
-      "interruzione chatgpt"
     ],
     "hero_eligible": true
   },
