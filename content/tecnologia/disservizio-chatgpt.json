@@ -1,26 +1,29 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT torna online dopo 379 minuti di blocco: utenti tornano a scrivere",
+  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "ChatGPT torna online dopo 379 minuti di blocco: utenti tornano a scrivere",
-    "Giornata nera per l'IA: errore totale impedisce le richieste per 6 ore",
-    "Server instabili fermano ChatGPT: il caos dura 379 minuti poi la svolta"
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO RIPRISTINATO DOPO INTERRUZIONE",
-  "lead": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla piattaforma, causando errori di connessione per gli utenti. Il sistema è ora stabile e le funzionalità sono nuovamente disponibili per tutti.",
-  "corpo1": "Il malfunzionamento si è verificato alle ore 08:15, generando un blocco totale dell'interfaccia utente e impedendo l'invio delle richieste. La durata complessiva dell'incidente è stata di 379 minuti, durante i quali i server hanno mostrato instabilità significativa. Le operazioni di ripristino sono state completate con successo, riportando i carichi di lavoro ai livelli nominali. I tecnici hanno confermato la piena operatività dei nodi di elaborazione. Non si registrano ulteriori anomalie nelle metriche di performance. L'accesso al servizio è garantito senza limitazioni temporanee o geografiche specifiche.",
-  "corpo2": "Questo recente disservizio, risolto in 379 minuti secondo quanto dichiarato da OpenAI, rappresenta l'ennesima dimostrazione della crescente dipendenza delle nostre attività quotidiane e professionali da infrastrutture tecnologiche centralizzate e, per loro natura,",
+  "occhiello": "CHATGPT IN DOWN",
+  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-07T11:53:51.222907+00:00",
+  "published_at": "2026-10-09T21:17:50.364098+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -28,19 +31,12 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ChatGPT torna online dopo 379 minuti di blocco: utenti tornano a scrivere\",\n  \"description\": \"ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla piattaforma, causando errori di connessione per gli utenti. Il sistema è ora stabile e le funzionalità sono nuovamente disponibili per tutti.\",\n  \"articleBody\": \"ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disservizio ha interessato l'accesso alla piattaforma, causando errori di connessione per gli utenti. Il sistema è ora stabile e le funzionalità sono nuovamente disponibili per tutti. Il malfunzionamento si è verificato alle ore 08:15, generando un blocco totale dell'interfaccia utente e impedendo l'invio delle richieste. La durata complessiva dell'incidente è stata di 379 minuti, durante i quali i server hanno mostrato instabilità significativa. Le operazioni di ripristino sono state completate con successo, riportando i carichi di lavoro ai livelli nominali. I tecnici hanno confermato la piena operatività dei nodi di elaborazione. Non si registrano ulteriori anomalie nelle metriche di performance. L'accesso al servizio è garantito senza limitazioni temporanee o geografiche specifiche. Questo recente disservizio, risolto in 379 minuti secondo quanto dichiarato da OpenAI, rappresenta l'ennesima dimostrazione della crescente dipendenza delle nostre attività quotidiane e professionali da infrastrutture tecnologiche centralizzate e, per loro natura,\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-07T11:53:51.222907+00:00\",\n  \"dateModified\": \"2026-10-07T11:53:51.222907+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
-    {
-      "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
-      "image_type": "image"
-    },
     {
       "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
       "url": "/tecnologia/disservizio-spotify",
@@ -49,13 +45,19 @@
       "image_type": "image"
     },
     {
-      "title": "Browser: la filigrana su ChatGPT e Codex è imposta e già attiva in UE",
-      "url": "/tecnologia/openai-introduce-il-marchio-invisibile-su-chatgpt-c361ca40a4878331",
-      "id": "c361ca40a4878331",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/06/132829487-d1ab8bcc-4e85-4db7-99c6-6f81ad7cbaa0.jpg",
+      "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
+    },
+    {
+      "title": "Intelligenza Artificiale mappi i coralli delle Maldive in 20 minuti: rivoluziona la ricerca",
+      "url": "/ambiente/tecnologia-per-monitorare-non-per-salvare-il-clima-609aebc0d07c7db6",
+      "id": "609aebc0d07c7db6",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/153415398-aa640137-e12c-4b26-b27d-0aef2b17dcde.jpg",
+      "image_type": "feed_image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-10-07T11:53:51.222907+00:00"
+  "hero_eligible": false
 }
