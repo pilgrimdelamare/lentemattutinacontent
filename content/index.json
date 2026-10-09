@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio st",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-09T21:28:17.027775+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: ALERT TECNICO URGENTE",
+    "lead_preview": "Spotify risulta completamente irraggiungibile da quindici minuti. Il servizio streaming è down per gli utenti italiani. ",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "fe2fe18b12ea5373",
     "slug": "friedkin-prepara-la-cessione-delleverton-due-anni-fe2fe18b12ea5373",
     "title": "I friedkin valutano di cedere l'everton dopo due anni",
@@ -8121,24 +8140,6 @@
       "roma jewelery week",
       "annunci pubblicitari",
       "agenzia ansa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-06T17:31:54.919978+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY NUOVAMENTE ONLINE SERVIZIO RIPRISTINATO",
-    "lead_preview": "Spotify è tornato regolarmente online dopo un'interruzione tecnica durata circa venti minuti, che ha interessato utenti ",
-    "tags": [
-      "blackout spotify",
-      "spotify down"
     ],
     "hero_eligible": true
   },
