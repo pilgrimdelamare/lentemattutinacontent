@@ -1,5 +1,20 @@
 [
   {
+    "id": "b8da1b0bfff42967",
+    "slug": "tre-portaerei-verso-il-medio-oriente-malgrado-le-s-b8da1b0bfff42967",
+    "title": "Tre portaerei verso il medio oriente malgrado le smentite",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-09T06:04:01.242268+00:00",
+    "image_type": "image",
+    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjUvMTIvMTYvMTIxNTM3OTc1LTdkMGJjOTdmLTAwMDQtNGM1OC04OGM2LTZhMzA3MTZlOGQ3Ny5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
+    "occhiello": "TRE PORTAEREI VERSO IL MEDIO ORIENTE MALGRADO LE SMENTITE",
+    "lead_preview": "Washington, 9 ottobre 2026. Il Pentagono sta elaborando un nuovo piano di attacco contro l'Iran, nonostante le rassicura",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "77b9c55ac9b815a2",
     "slug": "il-business-di-marina-bay-oltre-i-motori-77b9c55ac9b815a2",
     "title": "Il business di marina bay oltre i motori",
@@ -8198,21 +8213,6 @@
       "antonio giuli",
       "pinocchio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-05T17:03:36.794584+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CRISI INFRASTRUTTURA CLOUDFLARE IN CORSO",
-    "lead_preview": "Il network di Cloudflare risulta irraggiungibile da venticinque minuti. Il blackout sta paralizzando l'accesso a migliai",
-    "tags": [],
     "hero_eligible": true
   }
 ]
