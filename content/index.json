@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Servizio ripristinato su spotify",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-09T21:33:25.270991+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
+    "lead_preview": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di vent minuti. Il disservizio, che ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "ebd8f4b42e5e0f63",
     "slug": "lincontro-tra-borussia-dortmund-e-il-westfalia-fc-ebd8f4b42e5e0f63",
     "title": "Dortmund fermato nel finale dalla curva del werder",
@@ -3583,25 +3598,6 @@
     "lead_preview": "Roma, 9 ottobre 2026. Cristiano Ronaldo ha raggiunto quota 980 gol in incontri ufficiali, tornando a segnare dopo il cas",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-09T21:33:25.270991+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
-    "lead_preview": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di vent minuti. Il disservizio, che ",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "474c15ae1cf7cf0e",
