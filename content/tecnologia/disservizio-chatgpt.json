@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
   "titles": [
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
+    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
+  "lead": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolungata di 208 minuti. Gli utenti possono ora accedere nuovamente ai servizi senza limitazioni o errori di connessione.",
+  "corpo1": "Il disservizio si è verificato in mattinata, causando un'interruzione totale dell'accesso alla piattaforma. I sistemi di monitoraggio hanno registrato la piena operatività dei server dopo 208 minuti di anomalia. La stabilità della connessione è stata verificata e confermata. Non si segnalano ulteriori criticità infrastrutturali. L'accesso ai modelli linguistici è stato ripristinato in modo uniforme per tutti gli utenti attivi. La situazione è rientrata nella normalità tecnica prevista.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-09T21:17:50.364098+00:00",
+  "published_at": "2026-10-10T00:30:49.841627+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,7 +38,7 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
+      "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "Intelligenza Artificiale mappi i coralli delle Maldive in 20 minuti: rivoluziona la ricerca",
-      "url": "/ambiente/tecnologia-per-monitorare-non-per-salvare-il-clima-609aebc0d07c7db6",
-      "id": "609aebc0d07c7db6",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/05/153415398-aa640137-e12c-4b26-b27d-0aef2b17dcde.jpg",
+      "title": "Motogp, bagnaia accede al q2 ma gestisce i problemi tecnici in indonesia",
+      "url": "/sport/motogp-bagnaia-soffre-a-mandalika-ma-strappa-il-de-f73b59b4620de509",
+      "id": "f73b59b4620de509",
+      "image_url": "https://sport.sky.it/assets/images/daec1f4246ef5225abbef60ffaaa301b71838ddc/skysport/it/motori/motogp/2026/10/09/bagnaia-prove-libere-indonesia-intervista-video/bagnaia_intv_S.jpg",
       "image_type": "feed_image"
     }
   ],
