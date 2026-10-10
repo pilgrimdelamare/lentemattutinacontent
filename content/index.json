@@ -1,5 +1,20 @@
 [
   {
+    "id": "12e6d158d168a393",
+    "slug": "panama-sisma-magnitudo-8-e-rischio-tsunami-12e6d158d168a393",
+    "title": "Panama: Terremoto di magnitudo 8",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-09T18:42:13.515357+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/295c09c0bed5e5b63f6ec26a1fc0ccc0.jpg",
+    "occhiello": "PANAMA, SISMA MAGNITUDO 8 E RISCHIO TSUNAMI",
+    "lead_preview": "Panama, 9 ottobre 2026. Un terremoto di magnitudo 8 ha colpito la Repubblica di Panama, generando scene di panico nella ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "9fb0b15cee1e6ed8",
     "slug": "la-caccia-al-cliente-dietro-il-muro-dei-cookie-9fb0b15cee1e6ed8",
     "title": "Ansa blocca i contenuti: senza Cookie o 16,99 euro all'anno, stop letture",
@@ -46,24 +61,6 @@
     "occhiello": "LA NUOVA VOCE DELLO STUDIO OVALE SECONDO IL NEW YORK TIMES",
     "lead_preview": "Washington, 9 ottobre 2026. Katie Zacharia sarà la nuova portavoce della Casa Bianca e prenderà il posto di Leavitt nell",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "12e6d158d168a393",
-    "slug": "panama-sisma-magnitudo-8-e-rischio-tsunami-12e6d158d168a393",
-    "title": "Panama: terribile terremotomiglia, minaccia di tsunami",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-09T18:42:13.515357+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/295c09c0bed5e5b63f6ec26a1fc0ccc0.jpg",
-    "occhiello": "PANAMA, SISMA MAGNITUDO 8 E RISCHIO TSUNAMI",
-    "lead_preview": "Panama, 9 ottobre 2026. Un terremoto di magnitudo 8 ha colpito la Repubblica di Panama, generando scene di panico nella ",
-    "tags": [
-      "terremoto panama",
-      "tsunami panama"
-    ],
     "hero_eligible": true
   },
   {
