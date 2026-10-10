@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify torna online in 20 minuti: fine del blackout che ha bloccato lo streaming",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-09T21:33:25.270991+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
+    "lead_preview": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di vent minuti. Il disservizio, che ",
+    "tags": [
+      "blackout spotify"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9286ee6d3e7b90ad",
     "slug": "mosca-torna-sul-mercato-del-greggio-con-il-plauso-9286ee6d3e7b90ad",
     "title": "Mosca torna sul mercato del greggio con il plauso di washington",
@@ -1878,21 +1895,6 @@
     "image_url": "https://sport.sky.it/assets/images/5d146e39c63c81732bdc81e5722384e10dbd1bb3/skysport/it/calcio/classifica-marcatori-gol-all-time/cristiano_ronaldo_al_nassr_getty.jpg",
     "occhiello": "CRISTIANO RONALDO TOCCA QUOTA 980 GOL IN CARRIERA",
     "lead_preview": "Roma, 9 ottobre 2026. Cristiano Ronaldo ha raggiunto quota 980 gol in incontri ufficiali, tornando a segnare dopo il cas",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Servizio ripristinato su spotify",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-09T21:33:25.270991+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SERVIZIO RIPRISTINATO SU SPOTIFY",
-    "lead_preview": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzione di vent minuti. Il disservizio, che ",
     "tags": [],
     "hero_eligible": true
   },
