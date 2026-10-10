@@ -1,5 +1,24 @@
 [
   {
+    "id": "dda66e457a107ba9",
+    "slug": "seconda-stagione-di-caffe-italia-la-realta-teatral-dda66e457a107ba9",
+    "title": "Seconda stagione di Caffè Italia: la realtà teatrale sulle tramelette della TV",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-10T10:45:24.134005+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/0d1cba88e2fdcc2f7f007c2af7cacd07.jpg",
+    "occhiello": "LA CULTURA IN TV TRA SALOTTI E FONDI PUBBLICI",
+    "lead_preview": "Roma, 10 ottobre. Pino Strabioli e Emauele Mauro presentano la seconda stagione del programma Caffè Italia su Rai3, un f",
+    "tags": [
+      "caffè italia",
+      "programma tv",
+      "teatro italiano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bfeef447539f99d9",
     "slug": "il-vaticano-stanza-borse-di-studio-per-libano-siri-bfeef447539f99d9",
     "title": "Il Vaticano stanza borse di studio per Libano, Siria e Iraq: la copertura diretta",
@@ -8164,21 +8183,6 @@
       "gin game",
       "teatro manzoni"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fd3f8d727dfeac00",
-    "slug": "spacex-e-il-fondo-apollo-comprano-nvidia-in-una-sp-fd3f8d727dfeac00",
-    "title": "Quaranta miliardi di dollari per comprare hardware",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-07T07:05:34.573670+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/1/6/6b7bbbc3eee630c2985626b399596616.jpg",
-    "occhiello": "QUARANTA MILIARDI DI DOLLARI PER COMPRARE HARDWARE",
-    "lead_preview": "Santa Clara, 7 ottobre 2026. SpaceX punta a raccogliere 40 miliardi di dollari per comprare chip Nvidia, in un'operazion",
-    "tags": [],
     "hero_eligible": true
   }
 ]
