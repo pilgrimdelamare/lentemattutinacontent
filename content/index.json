@@ -1,5 +1,23 @@
 [
   {
+    "id": "c3d67ceb9cfa3ec7",
+    "slug": "venticinque-anni-di-cortometraggi-ad-acireale-c3d67ceb9cfa3ec7",
+    "title": "Venticinque anni di cortometraggi ad acireale",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-10T10:08:05.837318+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/6f1f88934f1ca5876ded29e59e33829c.jpg",
+    "occhiello": "VENTICINQUE ANNI DI CORTOMETRAGGI AD ACIREALE",
+    "lead_preview": "Acireale, 10 ottobre 2026. Il concorso cinematografico Internazionale Magma torna ad Acireale dal 2 al 7 novembre per la",
+    "tags": [
+      "magma acireale",
+      "festival cortometraggi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0b12d795c14ae8c6",
     "slug": "mosca-annuncia-il-contatto-telefonico-tra-il-creml-0b12d795c14ae8c6",
     "title": "Mosca annuncia il contatto telefonico tra il cremlino e la casa bianca",
@@ -8158,24 +8176,6 @@
     "tags": [
       "concordato preventivo",
       "partite iva"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e2a63cf7da10a9c0",
-    "slug": "lionel-messi-lascia-largentina-con-unultima-appari-e2a63cf7da10a9c0",
-    "title": "Futbol: Lionel Messi recupera il trionfo, compianto il campionato",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-07T02:50:25.662688+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9cf5e879b01032aa0c271c96871d5cee98574a48/skysport/it/calcio/video/2026/10/07/1129710_1791336840996_thumb_494.0000001_1791337187548.jpg",
-    "occhiello": "LIONEL MESSI LASCIA L'ARGENTINA CON UN'ULTIMA APPARIZIONE UFFICIALE",
-    "lead_preview": "Buenos Aires, 7 ottobre 2026. Lionel Andrés Messi Cuccittini ha disputato la sua ultima partita ufficiale con la maglia ",
-    "tags": [
-      "addio mess argentina",
-      "ultima partita mess"
     ],
     "hero_eligible": true
   }
