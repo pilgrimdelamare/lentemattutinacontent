@@ -1,5 +1,23 @@
 [
   {
+    "id": "0f5cb0e25d359395",
+    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
+    "title": "L'ennesima vittoria per Seixas, impianto nucleare per il ciclismo",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-10T15:21:50.359101+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
+    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
+    "lead_preview": "Milano, 10 ottobre.",
+    "tags": [
+      "giro di lombardia",
+      "seixas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38df7b2e4fe05ade",
     "slug": "il-tribunale-respinge-il-ricorso-di-ranucci-report-38df7b2e4fe05ade",
     "title": "Il tribunale respinge il ricorso di Ranucci: Report va avanti con Piervincenzi e Di Pasquale",
@@ -8174,21 +8192,6 @@
       "manovra 2025",
       "banche e utili"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c40e2e729a4c3614",
-    "slug": "la-copertura-mediatica-che-nasconde-i-cookie-c40e2e729a4c3614",
-    "title": "La copertura mediatica che nasconde i cookie",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-07T10:14:48.629263+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/8b9e8072b3d290b30991b7f116a85203.jpg",
-    "occhiello": "LA COPERTURA MEDIATICA CHE NASCONDE I COOKIE",
-    "lead_preview": "Roma, 7 ottobre 2026. La missione di monitoraggio del progetto di aiuto Tadamun dell'Agenzia Italiana per la Cooperazion",
-    "tags": [],
     "hero_eligible": true
   }
 ]
