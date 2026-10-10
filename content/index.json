@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna online dopo 208 minuti di blackout totale: i server sono pienamente operativi",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-10T00:30:49.841627+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolunga",
+    "tags": [
+      "blackout chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aae4d04004bbf83e",
     "slug": "geolier-primo-tra-gli-album-sfera-ebbasta-regna-su-aae4d04004bbf83e",
     "title": "Geolier e Sfera Ebbasta dominano la classifica FIMI e battono i Beatles a Milano",
@@ -3513,25 +3530,6 @@
       "lula bolsonaro"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-10T00:30:49.841627+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolunga",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "1c56ebbccec24d24",
