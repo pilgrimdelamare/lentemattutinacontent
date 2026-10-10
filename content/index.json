@@ -1,20 +1,5 @@
 [
   {
-    "id": "29d38f7f0307c873",
-    "slug": "cui-il-fatto-i-limiti-americani-molestano-litalia-29d38f7f0307c873",
-    "title": "Sanzioni americane contro la corte penale internazionale",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-09T16:14:24.849009+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/24/5d64684e1c1d433a1a2994f331e5cecc.jpg",
-    "occhiello": "SANZIONI AMERICANE CONTRO LA CORTE PENALE INTERNAZIONALE",
-    "lead_preview": "Roma, 9 ottobre 2026. La Corte Penale Internazionale ha definito le sanzioni imposte dagli Stati Uniti un attacco dirett",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "11165d04e0bdc87e",
     "slug": "john-malkovich-spiazza-tutti-e-riscrive-lottanta-p-11165d04e0bdc87e",
     "title": "L'attore r scritto l'ottanta per cento dei suoi film",
@@ -26,6 +11,24 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/6496b362b20b6a4c3a240b13c8cbd734.jpg",
     "occhiello": "L'ATTORE R SCRITTO L'OTTANTA PER CENTO DEI SUOI FILM",
     "lead_preview": "Roma, 9 ottobre. L'attore americano John Malkovich ha dichiarato di aver riscritto l'ottanta per cento dei film a cui ha",
+    "tags": [
+      "john malkovich",
+      "cinema"
+    ],
+    "hero_eligible": true
+  },
+  {
+    "id": "29d38f7f0307c873",
+    "slug": "cui-il-fatto-i-limiti-americani-molestano-litalia-29d38f7f0307c873",
+    "title": "Sanzioni americane contro la corte penale internazionale",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-09T16:14:24.849009+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/24/5d64684e1c1d433a1a2994f331e5cecc.jpg",
+    "occhiello": "SANZIONI AMERICANE CONTRO LA CORTE PENALE INTERNAZIONALE",
+    "lead_preview": "Roma, 9 ottobre 2026. La Corte Penale Internazionale ha definito le sanzioni imposte dagli Stati Uniti un attacco dirett",
     "tags": [],
     "hero_eligible": true
   },
