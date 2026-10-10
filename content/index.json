@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT torna online: 208 minuti di stop e la rete che si riaccende",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-10T00:30:49.841627+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolunga",
+    "tags": [
+      "chatgpt down",
+      "interruzione chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "d65f2187d574bc6f",
     "slug": "sinner-un-brand-globale-per-un-club-dilettantistic-d65f2187d574bc6f",
     "title": "Sinner, un brand globale per un club dilettantistico",
@@ -1846,23 +1864,6 @@
     "occhiello": "BRASILIA, CANCELLATO IL CONFRONTO TV TRA LULA E FLÁVIO BOLSONARO",
     "lead_preview": "Brasilia, 10 ottobre 2026. L'emittente Record ha ufficialmente cancellato il dibattito televisivo che avrebbe dovuto met",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT torna online dopo 208 minuti di blackout totale: i server sono pienamente operativi",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-10T00:30:49.841627+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolunga",
-    "tags": [
-      "blackout chatgpt"
-    ],
     "hero_eligible": true
   },
   {
