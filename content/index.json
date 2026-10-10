@@ -1,5 +1,23 @@
 [
   {
+    "id": "6bc2a4eb8b26e12b",
+    "slug": "raphinha-risveglia-lindignazione-sulle-condizioni-6bc2a4eb8b26e12b",
+    "title": "Raphinha risveglia l'indignazione sulle Condizioni lavorative in Brasile",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-10T01:10:33.548228+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/14d0c13219b8037a5b4dc4ee1ebd1ada.jpg",
+    "occhiello": "BRASILE, IL PALLONE PRENDE POSIZIONE SULLA SETTIMANA CORTA",
+    "lead_preview": "Rio de Janeiro, 10 ottobre 2026. L'attaccante della nazionale brasiliana Raphael Dias Belloli, noto come Raphinha, condi",
+    "tags": [
+      "settimana corta brasile",
+      "raphinha"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "08566f5a1caa138d",
     "slug": "il-marito-di-harris-ammette-non-voleva-la-sua-cand-08566f5a1caa138d",
     "title": "Il marito di Harris ammette: non voleva la sua candidatura alla Casa Bianca",
@@ -8228,24 +8246,5 @@
       "cricket veneto"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-07T15:36:19.827513+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB RIPRISTINATO",
-    "lead_preview": "GitHub è tornato online dopo 20 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
