@@ -1,27 +1,24 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
+  "title": "ChatGPT torna online dopo 208 minuti di blackout totale: i server sono pienamente operativi",
   "titles": [
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
-    "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun"
+    "ChatGPT torna online dopo 208 minuti di blackout totale: i server sono pienamente operativi",
+    "Fine del disservizio: ChatGPT ripristina l'accesso per tutti dopo quasi tre ore di blocco",
+    "ChatGPT riparte senza limitazioni: i 208 minuti di caos lasciano spazio alla piena stabilità"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
   "lead": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolungata di 208 minuti. Gli utenti possono ora accedere nuovamente ai servizi senza limitazioni o errori di connessione.",
   "corpo1": "Il disservizio si è verificato in mattinata, causando un'interruzione totale dell'accesso alla piattaforma. I sistemi di monitoraggio hanno registrato la piena operatività dei server dopo 208 minuti di anomalia. La stabilità della connessione è stata verificata e confermata. Non si segnalano ulteriori criticità infrastrutturali. L'accesso ai modelli linguistici è stato ripristinato in modo uniforme per tutti gli utenti attivi. La situazione è rientrata nella normalità tecnica prevista.",
-  "corpo2": "",
+  "corpo2": "Dietro la ripresa dei server si muove un'infrastruttura di calcolo tra le più energivore al mondo, gestita da Microsoft nei data center di Ashburn e Dublino. OpenAI non possiede i computer su cui gira il suo software: li affitta attraverso contratti multimiliardari che legano la stabilità del servizio alle disponibilità energetiche delle reti locali. Quando il sistema si interrompe per oltre tre ore, non assistiamo a un semplice guasto informatico, ma allo stallo temporaneo di un impianto industriale che consuma in un giorno l'equivalente di migliaia di abitazioni civili. I server che elaborano le richieste degli utenti impiegano chip di silicio avanzati, prodotti a Taiwan da TSMC, che richiedono un raffreddamento continuo e flussi di corrente privi di sbalzi. La manutenzione di questi colossi digitali avviene spesso in regime di opacità: i dettagli tecnici sulle cause reali dei blackout raramente superano i comunicati di facciata pubblicati sui canali ufficiali, lasciando clienti e aziende nell'impossibilità di verificare l'affidabilità reale del servizio su cui basano la propria operatività quotidiana. Per un professionista o un'azienda che affida la scrittura di codice, l'analisi di bilancio o il servizio clienti a un sistema automatizzato, un'ora di fermo non è un fastidio trascurabile, ma un blocco produttivo secco. Se questa concentrazione di servizi critici su un unico fornitore esterno continua a crescere al ritmo attuale, nei prossimi tre anni qualsiasi interruzione della rete di OpenAI si tradurrà automaticamente nello stop forzato di migliaia di attività economiche italiane che non dispongono di un'alternativa locale autonoma.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-10-10T00:30:49.841627+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ChatGPT torna online dopo 208 minuti di blackout totale: i server sono pienamente operativi\",\n  \"description\": \"ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolungata di 208 minuti. Gli utenti possono ora accedere nuovamente ai servizi senza limitazioni o errori di connessione.\",\n  \"articleBody\": \"ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolungata di 208 minuti. Gli utenti possono ora accedere nuovamente ai servizi senza limitazioni o errori di connessione. Il disservizio si è verificato in mattinata, causando un'interruzione totale dell'accesso alla piattaforma. I sistemi di monitoraggio hanno registrato la piena operatività dei server dopo 208 minuti di anomalia. La stabilità della connessione è stata verificata e confermata. Non si segnalano ulteriori criticità infrastrutturali. L'accesso ai modelli linguistici è stato ripristinato in modo uniforme per tutti gli utenti attivi. La situazione è rientrata nella normalità tecnica prevista. Dietro la ripresa dei server si muove un'infrastruttura di calcolo tra le più energivore al mondo, gestita da Microsoft nei data center di Ashburn e Dublino. OpenAI non possiede i computer su cui gira il suo software: li affitta attraverso contratti multimiliardari che legano la stabilità del servizio alle disponibilità energetiche delle reti locali. Quando il sistema si interrompe per oltre tre ore, non assistiamo a un semplice guasto informatico, ma allo stallo temporaneo di un impianto industriale che consuma in un giorno l'equivalente di migliaia di abitazioni civili. I server che elaborano le richieste degli utenti impiegano chip di silicio avanzati, prodotti a Taiwan da TSMC, che richiedono un raffreddamento continuo e flussi di corrente privi di sbalzi. La manutenzione di questi colossi digitali avviene spesso in regime di opacità: i dettagli tecnici sulle cause reali dei blackout raramente superano i comunicati di facciata pubblicati sui canali ufficiali, lasciando clienti e aziende nell'impossibilità di verificare l'affidabilità reale del servizio su cui basano la propria operatività quotidiana. Per un professionista o un'azienda che affida la scrittura di codice, l'analisi di bilancio o il servizio clienti a un sistema automatizzato, un'ora di fermo non è un fastidio trascurabile, ma un blocco produttivo secco. Se questa concentrazione di servizi critici su un unico fornitore esterno continua a crescere al ritmo attuale, nei prossimi tre anni qualsiasi interruzione della rete di OpenAI si tradurrà automaticamente nello stop forzato di migliaia di attività economiche italiane che non dispongono di un'alternativa locale autonoma.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-10T00:30:49.841627+00:00\",\n  \"dateModified\": \"2026-10-10T00:30:49.841627+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Spotify ha ripristinato la piena operatività della piattaforma dopo un'interruzi",
+      "title": "Servizio ripristinato su spotify",
       "url": "/tecnologia/disservizio-spotify",
       "id": "monitor_spotify",
       "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Basta social per i minori di quindici anni in Turchia: scatta il divieto totale",
+      "url": "/esteri/basta-social-per-i-minori-di-quindici-anni-in-turc-411892c77e25c359",
+      "id": "411892c77e25c359",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/25/cdde6a76b59fb7949d95494ab7c27a6c.jpg",
       "image_type": "image"
     },
     {
-      "title": "Motogp, bagnaia accede al q2 ma gestisce i problemi tecnici in indonesia",
-      "url": "/sport/motogp-bagnaia-soffre-a-mandalika-ma-strappa-il-de-f73b59b4620de509",
-      "id": "f73b59b4620de509",
-      "image_url": "https://sport.sky.it/assets/images/daec1f4246ef5225abbef60ffaaa301b71838ddc/skysport/it/motori/motogp/2026/10/09/bagnaia-prove-libere-indonesia-intervista-video/bagnaia_intv_S.jpg",
-      "image_type": "feed_image"
+      "title": "Il gas torna a 80 euro al megawattora sui mercati",
+      "url": "/economia/costi-di-elettricita-saltano-a-un-eccesso-a-causa-1f076c705705271b",
+      "id": "1f076c705705271b",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/5/7/53efbdb8ef9944194fd73aac6a6cbe7b.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-10-10T00:30:49.841627+00:00"
 }
