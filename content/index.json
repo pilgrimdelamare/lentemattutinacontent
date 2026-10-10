@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale fun",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-10T00:30:49.841627+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 208 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo. La piattaforma ha ripreso il normale funzionamento dopo un'interruzione prolunga",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f73b59b4620de509",
     "slug": "motogp-bagnaia-soffre-a-mandalika-ma-strappa-il-de-f73b59b4620de509",
     "title": "Motogp, bagnaia accede al q2 ma gestisce i problemi tecnici in indonesia",
@@ -996,25 +1015,6 @@
     "lead_preview": "Roma, 9 ottobre 2026. Secondo quanto riportato dall'agenzia ANSA, il programma della Premier League offre il confronto d",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-09T21:17:50.364098+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "12f003212e066105",
