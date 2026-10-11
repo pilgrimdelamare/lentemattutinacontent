@@ -1,5 +1,24 @@
 [
   {
+    "id": "0f5cb0e25d359395",
+    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
+    "title": "Ciclismo: Seixas stacca tutti e firma il primo Monumento in solitaria",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-10T15:21:50.359101+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
+    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
+    "lead_preview": "Milano, 10 ottobre.",
+    "tags": [
+      "ciclismo",
+      "giro di lombardia",
+      "vincitore"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6609cc15525886fe",
     "slug": "voucher-da-20-mila-euro-di-isee-per-il-trasporto-6609cc15525886fe",
     "title": "Voucher da 20 mila euro di isee per il trasporto",
@@ -2465,24 +2484,6 @@
     "tags": [
       "mercato beverage 2026",
       "costi energia bevande"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f5cb0e25d359395",
-    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
-    "title": "L'ennesima vittoria per Seixas, impianto nucleare per il ciclismo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-10T15:21:50.359101+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
-    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
-    "lead_preview": "Milano, 10 ottobre.",
-    "tags": [
-      "giro di lombardia",
-      "seixas"
     ],
     "hero_eligible": true
   },
