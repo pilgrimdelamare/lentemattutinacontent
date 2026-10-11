@@ -1,5 +1,23 @@
 [
   {
+    "id": "cec4c6a28402fab1",
+    "slug": "riad-evacuata-forte-esplosione-allo-scalo-voli-sos-cec4c6a28402fab1",
+    "title": "Esplosione a Riad: l'esplosione all'aeroporto",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-10T14:02:40.363928+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/10/18af0f63128a9693942a3a4337fc8b50.jpg",
+    "occhiello": "ESPLOSIONE ALL'AEROSCAFO DI RIAD, EVACUAZIONE IN CORSO",
+    "lead_preview": "Riad, 10 ottobre 2026. Una forte esplosione è stata udita all'aeroporto di Riad, facendo scattare immediatamente l'evacu",
+    "tags": [
+      "esplosione riad",
+      "aeroporto riad"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b98bfbf1eb831d67",
     "slug": "calcio-real-madrid-campione-a-stesso-giorno-b98bfbf1eb831d67",
     "title": "Calcio: Real Madrid campione a stesso giorno",
@@ -2598,23 +2616,6 @@
     "tags": [
       "esonero turchia",
       "nations league"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cec4c6a28402fab1",
-    "slug": "riad-evacuata-forte-esplosione-allo-scalo-voli-sos-cec4c6a28402fab1",
-    "title": "Riad evacuata: forte esplosione allo scalo, voli sospesi e caos nei terminal",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-10T14:02:40.363928+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/10/18af0f63128a9693942a3a4337fc8b50.jpg",
-    "occhiello": "ESPLOSIONE ALL'AEROSCAFO DI RIAD, EVACUAZIONE IN CORSO",
-    "lead_preview": "Riad, 10 ottobre 2026. Una forte esplosione è stata udita all'aeroporto di Riad, facendo scattare immediatamente l'evacu",
-    "tags": [
-      "esplosione aeroporto riad"
     ],
     "hero_eligible": true
   },
