@@ -1,5 +1,20 @@
 [
   {
+    "id": "0f5cb0e25d359395",
+    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
+    "title": "Seixas vince il giro di lombardia",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-10T15:21:50.359101+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
+    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
+    "lead_preview": "Milano, 10 ottobre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "38df7b2e4fe05ade",
     "slug": "il-tribunale-respinge-il-ricorso-di-ranucci-report-38df7b2e4fe05ade",
     "title": "Tribunale respinge il ricorso di ranucci sulla conduzione di report",
@@ -2543,25 +2558,6 @@
     "occhiello": "WASHINGTON PARLA CON GLI HOUTHI DOPO L'ATTACCO A RIAD",
     "lead_preview": "Washington, 11 ottobre. Il Presidente degli Stati Uniti, Donald Trump, ha condannato come \"non accettabile\" l'attacco al",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f5cb0e25d359395",
-    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
-    "title": "Ciclismo: Seixas stacca tutti e firma il primo Monumento in solitaria",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-10T15:21:50.359101+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
-    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
-    "lead_preview": "Milano, 10 ottobre.",
-    "tags": [
-      "ciclismo",
-      "giro di lombardia",
-      "vincitore"
-    ],
     "hero_eligible": true
   },
   {
