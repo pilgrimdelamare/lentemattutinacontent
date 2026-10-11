@@ -1,5 +1,24 @@
 [
   {
+    "id": "1ddcea1fa5e97beb",
+    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
+    "title": "ANSA blocca la notizia: senza Cookie o abbonamento, solo moduli legali",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-10T17:13:54.481097+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
+    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
+    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
+    "tags": [
+      "agenzia di stampa",
+      "blocco accesso",
+      "politica informazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "567147f9870cedee",
     "slug": "raid-a-riad-tronca-il-titubante-decideremo-del-tyc-567147f9870cedee",
     "title": "Trump non esclude raid Usa contro i colpevoli di Riad, l'Arabia Saudita in trappola",
@@ -2673,21 +2692,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/10/104656536-fe536732-8555-46c6-98ee-fe2aafaab25b.jpg",
     "occhiello": "MAIELLA, BICI E CANI IN VETTA NONOSTANTE I DIVIETI",
     "lead_preview": "Roma, 10 ottobre 2026. Il Parco Nazionale della Maiella denuncia sui social la prolungata violazione dei divieti d'acces",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1ddcea1fa5e97beb",
-    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
-    "title": "La pagina vetrina del sito ansa bloccata dai cookie",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-10T17:13:54.481097+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
-    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
-    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
     "tags": [],
     "hero_eligible": true
   },
