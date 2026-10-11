@@ -1,5 +1,23 @@
 [
   {
+    "id": "0f5cb0e25d359395",
+    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
+    "title": "Sei vittorie straordinarie a Milano",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-10T15:21:50.359101+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
+    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
+    "lead_preview": "Milano, 10 ottobre.",
+    "tags": [
+      "giro lombardia",
+      "seixas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "585996172d724fe6",
     "slug": "il-partito-piu-uno-tra-gazebo-e-poliziotti-585996172d724fe6",
     "title": "Gabrielli lancia il partito Più uno: 'Meglio sbirro ed esattore che ladro'",
@@ -15,21 +33,6 @@
       "partito più uno",
       "franco gabrielli"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0f5cb0e25d359395",
-    "slug": "lennesima-vittoria-per-seixas-impianto-nucleare-pe-0f5cb0e25d359395",
-    "title": "Seixas vince il giro di lombardia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-10T15:21:50.359101+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/17/80f61186a7ebed7f57358c3355d5b31c.jpg",
-    "occhiello": "SEIXAS VINCE IL GIRO DI LOMBARDIA",
-    "lead_preview": "Milano, 10 ottobre.",
-    "tags": [],
     "hero_eligible": true
   },
   {
