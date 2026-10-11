@@ -1,5 +1,20 @@
 [
   {
+    "id": "1ddcea1fa5e97beb",
+    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
+    "title": "La pagina vetrina del sito ansa bloccata dai cookie",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-10T17:13:54.481097+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
+    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
+    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "87119aaf9837a180",
     "slug": "ricci-la-bce-rallenta-la-stagflazione-il-portafogl-87119aaf9837a180",
     "title": "Riaccende i tassi ma la stagflazione frena: l'economia resta in stallo",
@@ -2476,24 +2491,6 @@
     "tags": [
       "trump ucraina",
       "leadership kiev"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1ddcea1fa5e97beb",
-    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
-    "title": "ANSA blocca le notizie: chi rifiuta i Cookie paga l'abbonamento",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-10T17:13:54.481097+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
-    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
-    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
-    "tags": [
-      "cookie ansa",
-      "paywall ansa"
     ],
     "hero_eligible": true
   },
