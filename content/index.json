@@ -1,5 +1,20 @@
 [
   {
+    "id": "1ddcea1fa5e97beb",
+    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
+    "title": "La pagina vetrina del sito ansa bloccata dai cookie",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-10-10T17:13:54.481097+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
+    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
+    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "fedd36ad38beac1a",
     "slug": "sanzioni-americane-contro-laja-e-reazione-dellunio-fedd36ad38beac1a",
     "title": "Il Futuro più terribile per la Corte Penale Internazionale",
@@ -33,25 +48,6 @@
     "tags": [
       "droni ucraina mosca",
       "trump zelensky"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1ddcea1fa5e97beb",
-    "slug": "ansa-blocca-le-notizie-chi-rifiuta-i-cookie-paga-l-1ddcea1fa5e97beb",
-    "title": "ANSA blocca la notizia: senza Cookie o abbonamento, solo moduli legali",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-10T17:13:54.481097+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/10/00e652819116d26b7838541092ab407a.jpg",
-    "occhiello": "LA PAGINA VETRINA DEL SITO ANSA BLOCCATA DAI COOKIE",
-    "lead_preview": "Torino, 10 ottobre 2026. L'agenzia ANSA Pubblica una pagina interamente dedicata alle Condizioni Generali di Servizio, a",
-    "tags": [
-      "agenzia di stampa",
-      "blocco accesso",
-      "politica informazione"
     ],
     "hero_eligible": true
   },
