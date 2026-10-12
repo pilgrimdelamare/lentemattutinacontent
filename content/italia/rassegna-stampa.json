@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 9 ottobre 2026",
+  "title": "Le prime pagine di oggi, lunedì 12 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 9 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 9 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 9 ottobre 2026"
+    "Le prime pagine di oggi, lunedì 12 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 12 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 12 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE ELETTORALE E CONFLITTI",
-  "lead": "Oggi i quotidiani italiani convergono sull’approvazione della riforma elettorale proposta dal governo Meloni, con titoli che enfatizzano il via libera alla Camera, le dichiarazioni della premier e le critiche dell’opposizione. Parallelamente, Corriere della Sera, La Stampa e Il Messaggero dedicano ampio spazio all’attacco contro i bus dei pendolari in Ucraina, mentre La Repubblica e La Stampa inseriscono notizie su energia, difesa e flessibilità UE. I giornali sportivi, La Gazzetta dello Sport e Corriere dello Sport, si concentrano su mercato e preparativi sportivi.",
-  "corpo1": "Il Corriere della Sera apre con il via libera definitivo alla Camera per la nuova legge elettorale, la premier Meloni definita “risposta a chi ci voleva divisi” e l’opposizione definita “truffa”, aggiungendo la notizia dell’attacco ai bus dei pendolari con oltre trenta morti nel Donbass e un approfondimento sull’accordo su M. La Repubblica mette in primo piano l’approvazione della riforma elettorale, evidenziando il “premio di maggioranza al 42%” e le accuse dell’opposizione di “manomettere la Costituzione”, con in evidenza anche temi di energia, difesa e il primo sì UE alla flessibilità italiana. La Stampa riporta ancora il via libera alla Camera, sottolineando il cambiamento delle regole elettorali da parte di Meloni, la sua risposta a chi voleva divisi e l’attacco russo a due bus a Kramatorsk con più di trenta vittime, citando la “strage dei civili”. Il Messaggero titola la riforma elettorale come legge, la premier dichiara che “ora i cittadini potranno scegliere” e segnala i ricorsi di legittimità dell’opposizione, definita “truffa”, con un accenno alla questione Mps. La Gazzetta dello Sport dedica la prima pagina al mercato del Milan, con i nomi di Gonçalo Inácio ed Endrick tra gli obiettivi, al piano di Jannik Sinner per il rientro a Brisbane e all’Inter in preparazione per la sfida con la Roma. Il Corriere dello Sport apre con un’intervista esclusiva a Donyell Malen, che celebra i suoi 20 gol in 23 partite, e riporta le ultime mosse di mercato: l’Inter perde Jones, il Milan punta Scott del Bournemouth e la Juventus lavora al rinnovo di Nico Gonz.",
-  "corpo2": "Altri titoli di rilievo includono l’accordo su M sul Corriere della Sera, le notizie su energia e difesa nella Repubblica, i commenti di Rubio nella Stampa e la discussione sulla questione Mps nel Messaggero. Il tema dominante della giornata resta la conferma della riforma elettorale e le conseguenze dell’attacco ai pendolari in Ucraina.",
+  "occhiello": "LE PRIME PAGINE 12 OTTOBRE PAPA",
+  "lead": "I quotidiani italiani convergono sull'annuncio del Papa. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero titolano sulla notizia del nodulo al polmone. I giornalisti riportano i dettagli dell'intervento chirurgico previsto al Gemelli e le reazioni internazionali. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sui risultati del campionato di calcio, ignorando la notizia papale in apertura. Il tono generale è informativo e descrittivo, senza giudizi sulle scelte editoriali delle testate.",
+  "corpo1": "Il Corriere della Sera apre con l'annuncio del Pontefice durante l'Angelus, specificando che il nodulo è stato individuato in fase iniziale e citando l'intervento previsto per domani. La Repubblica dedica il titolo principale alla malattia, sottolineando il desiderio del Papa di mantenere il viaggio in Perù e includendo il messaggio di Zelensky a Trump come spalla. La Stampa titola \"Il Papa si opera, il mondo in ansia\", confermando il viaggio in Sudamerica e riportando le parole di solidarietà di Mattarella, affiancando la fotonotizia sul conflitto in Ucraina. Il Messaggero riprende l'annuncio di Leone, aggiungendo il rifiuto di Kiev e Mosca alla tregua energetica proposta da Trump e le news sugli Houthi e sulla Lazio.",
+  "corpo2": "La Gazzetta dello Sport titola sulla sconfitta del Milan a Reggio Emilia e sul pareggio della Juve a Cagliari, citando le reazioni di Amorim e Spalletti. Il Corriere dello Sport mette in copertina la vittoria della Lazio in vetta alla classifica. Il tema dominante della giornata è la salute del Pontefice, che copre quasi interamente le prime pagine dei quotidiani generalisti, mentre gli sportivi restano fedeli al calcio.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-09T05:50:51.118169+00:00",
+  "published_at": "2026-10-12T05:47:27.043170+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/a9f0c01e76dc1648f1e6bdd0504464ea6493d31a/skytg24/it/cronaca/2026/10/09/prime-pagine-quotidiani-oggi-9-ottobre/corriere-della-sera-032256hixdudg.jpg",
+    "url": "https://tg24.sky.it/assets/images/e36d258655fbbab3982b10e66d7595152089b4db/skytg24/it/cronaca/2026/10/12/prime-pagine-quotidiani-oggi-12-ottobre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,28 +35,28 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/09/prime-pagine-quotidiani-oggi-9-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/12/prime-pagine-quotidiani-oggi-12-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 9 ottobre 2026",
+      "title": "Oroscopo di oggi, lunedì 12 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Milano, 1200 rose bianche per le vittime del 7 ottobre",
-      "url": "/politica/milano-1200-rose-bianche-per-le-vittime-del-7-otto-d631e07156528f39",
-      "id": "d631e07156528f39",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/6d4f8c31b36d98d62daaa2723fffed43.jpg",
-      "image_type": "image"
+      "title": "Sette gol e nessuna difesa nella bundesliga di ottobre",
+      "url": "/sport/sette-gol-e-nessuna-difesa-nella-bundesliga-di-ott-c131cf08c183515f",
+      "id": "c131cf08c183515f",
+      "image_url": "https://sport.sky.it/assets/images/9fc6be13e0128be7ec1bb5264ae2f1fef16943cf/skysport/it/calcio/bundesliga/video/2026/10/10/1130684_1791655978013_thumb_494.0000001_1791656009404.jpg",
+      "image_type": "feed_image"
     },
     {
-      "title": "Ciucci promette il Cipess a ottobre: ponte sullo Stretto in dirittura d'arrivo",
-      "url": "/economia/delibera-cipess-entro-ottobre-secondo-pietro-ciucc-e9065b3a204fb594",
-      "id": "e9065b3a204fb594",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/24/cdb040743226ddf4baf5eea5cd88bce5.jpg",
-      "image_type": "image"
+      "title": "Il desenzano stende il dolomiti bellunesi nel turno del 10 ottobre",
+      "url": "/sport/il-desenzano-stende-il-dolomiti-bellunesi-nel-turn-33de79d4d1ae9662",
+      "id": "33de79d4d1ae9662",
+      "image_url": "https://sport.sky.it/assets/images/3bc08a030940560de4bf837bdcc843c4e77ad110/skysport/it/calcio/serie-c/video/2026/10/10/1130698_1791655623826_thumb_494.0000001_1791657022528.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": true
