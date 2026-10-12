@@ -1,5 +1,24 @@
 [
   {
+    "id": "7532ccc850afa99f",
+    "slug": "ansa-legga-gratis-solo-10-notizie-o-dia-i-dati-a-7-7532ccc850afa99f",
+    "title": "ANSA obbliga: Cookie o 17 euro, solo 10 articoli ogni 30 giorni",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-12T10:33:13.795177+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/c7951b10340a80c7620c84a3364acdc1.jpg",
+    "occhiello": "LE POLITICHE DI TRACCIAMENTO SUL SITO DELL'ANSA",
+    "lead_preview": "Roma, 12 ottobre 2026. L'agenzia di stampa ANSA impone ai propri utenti la scelta tra l'accettazione dei Cookie di profi",
+    "tags": [
+      "agenzia stampa",
+      "cookie",
+      "abbonamento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3cdc650c145c6340",
     "slug": "smartphone-cinesi-venduti-in-italia-con-virus-spia-3cdc650c145c6340",
     "title": "Malware preinstallato negli smartphone economici",
@@ -3385,24 +3404,6 @@
       "campiello giovani",
       "letteratura",
       "scrittori in erba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7532ccc850afa99f",
-    "slug": "ansa-legga-gratis-solo-10-notizie-o-dia-i-dati-a-7-7532ccc850afa99f",
-    "title": "ANSA: legga gratis solo 10 notizie o DIA i dati a 750 aziende",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-12T10:33:13.795177+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/c7951b10340a80c7620c84a3364acdc1.jpg",
-    "occhiello": "LE POLITICHE DI TRACCIAMENTO SUL SITO DELL'ANSA",
-    "lead_preview": "Roma, 12 ottobre 2026. L'agenzia di stampa ANSA impone ai propri utenti la scelta tra l'accettazione dei Cookie di profi",
-    "tags": [
-      "cookie ansa",
-      "privacy ansa"
     ],
     "hero_eligible": true
   },
