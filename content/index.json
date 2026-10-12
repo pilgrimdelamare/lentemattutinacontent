@@ -1,5 +1,23 @@
 [
   {
+    "id": "6e138b15e5f8d7e7",
+    "slug": "raid-russi-sulle-infrastrutture-energetiche-e-blac-6e138b15e5f8d7e7",
+    "title": "Raid russi sulle infrastrutture energetiche e black out a kiev",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-12T09:06:20.822369+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/ae47886f70dd6acaf44e52ffcc378109.jpg",
+    "occhiello": "RAID RUSSI SULLE INFRASTRUTTURE ENERGETICHE E BLACK OUT A KIEV",
+    "lead_preview": "Kiev, 12 ottobre 2026. Mosca ha colpito diverse centrali elettriche ucraine provocando interruzioni totali della corrent",
+    "tags": [
+      "guerra russia ucraina",
+      "raid russi kiev"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6359d3db9900a52d",
     "slug": "le-bici-piu-strane-in-gara-sotto-i-portici-di-san-6359d3db9900a52d",
     "title": "Le bici più strane in gara sotto i portici di san luca",
@@ -8218,21 +8236,6 @@
       "rover rosalind franklin",
       "missione exomars"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9b7de8e3c4b46bcb",
-    "slug": "accesso-ai-contenuti-digitali-modelli-di-abbonamen-9b7de8e3c4b46bcb",
-    "title": "Accesso ai contenuti digitali: modelli di abbonamento",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-08T17:02:58.424655+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "ACCESSO AI CONTENUTI DIGITALI: MODELLI DI ABBONAMENTO",
-    "lead_preview": "Roma, 8 ottobre 2026.",
-    "tags": [],
     "hero_eligible": true
   }
 ]
