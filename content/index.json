@@ -1,5 +1,24 @@
 [
   {
+    "id": "fda73cecf7c15347",
+    "slug": "ciclismo-masala-e-mita-medici-premiano-i-vincitori-fda73cecf7c15347",
+    "title": "Ciclismo: Masala e Mita Medici inaugurano il podio della Granfondo a Gubbio",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-11T17:28:08.626031+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/11/01db6f19a4fede50790c805c081ef9c0.jpg",
+    "occhiello": "IL PODIO DI GUBBIO CON MASALA E MITA MEDICI",
+    "lead_preview": "Gubbio, 11 ottobre 2026. La Granfondo del Montefeltro anima la cittadina umbra tra ciclismo amatoriale e agonistico, pae",
+    "tags": [
+      "ciclismo",
+      "granfondo",
+      "gubbio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "595739b85e3a057c",
     "slug": "calcio-crystal-palace-si-vede-la-vittoria-sul-nott-595739b85e3a057c",
     "title": "Calcio: Sky Sport pubblica i gol e gli Highlights di Crystal Palace-Forest",
@@ -3437,24 +3456,6 @@
     "tags": [
       "agguati monteverde",
       "ris minicar"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "fda73cecf7c15347",
-    "slug": "ciclismo-masala-e-mita-medici-premiano-i-vincitori-fda73cecf7c15347",
-    "title": "Ciclismo: Masala e Mita Medici premiano i vincitori della Granfondo a Gubbio",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-11T17:28:08.626031+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/11/01db6f19a4fede50790c805c081ef9c0.jpg",
-    "occhiello": "IL PODIO DI GUBBIO CON MASALA E MITA MEDICI",
-    "lead_preview": "Gubbio, 11 ottobre 2026. La Granfondo del Montefeltro anima la cittadina umbra tra ciclismo amatoriale e agonistico, pae",
-    "tags": [
-      "granfondo gubbio",
-      "ciclismo montefeltro"
     ],
     "hero_eligible": true
   },
