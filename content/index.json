@@ -1,5 +1,24 @@
 [
   {
+    "id": "0b2cd5971474c3d2",
+    "slug": "attacco-houthi-colpsce-il-sogno-di-riad-0b2cd5971474c3d2",
+    "title": "Riad colta nel cuore: 12 morti all'aeroporto, gli Houthi sfidano la Vision",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-11T08:59:24.292986+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/11/104957271-ebd9942e-d797-4bd9-9d82-7e12c38ce0e6.jpg",
+    "occhiello": "ATTACCO HOUTHI COLPSCE IL SOGNO DI RIAD",
+    "lead_preview": "Riad, 11 ottobre 2026. Almeno dodici persone sono morte ieri all'aeroporto Internazionale King Khalid della capitale sau",
+    "tags": [
+      "attacco",
+      "guerra",
+      "yemen"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "137148656d0ec3a5",
     "slug": "brasile-sospeso-canale-pro-lula-dopo-la-denuncia-d-137148656d0ec3a5",
     "title": "Brasile, sospeso canale pro-lula dopo la denuncia di bolsonaro jr",
@@ -1988,24 +2007,6 @@
       "formula_uno",
       "perdita_tempo",
       "pirelli"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0b2cd5971474c3d2",
-    "slug": "attacco-houthi-colpsce-il-sogno-di-riad-0b2cd5971474c3d2",
-    "title": "Houthi colpiscono Riad: 12 morti allo scalo King Khalid, il attacco spaventa Mbs",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-11T08:59:24.292986+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/11/104957271-ebd9942e-d797-4bd9-9d82-7e12c38ce0e6.jpg",
-    "occhiello": "ATTACCO HOUTHI COLPSCE IL SOGNO DI RIAD",
-    "lead_preview": "Riad, 11 ottobre 2026. Almeno dodici persone sono morte ieri all'aeroporto Internazionale King Khalid della capitale sau",
-    "tags": [
-      "attacco houthi riad",
-      "aeroporto king khalid"
     ],
     "hero_eligible": true
   },
