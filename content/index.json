@@ -1,5 +1,23 @@
 [
   {
+    "id": "76f54fe9e9733967",
+    "slug": "il-cda-di-mps-si-riunisce-dopo-il-rilancio-di-ca-d-76f54fe9e9733967",
+    "title": "Banca Monte dei Paschi e Intesa Sanpaolo sfida tecnologica e rischi finanziari",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-11T17:34:24.070848+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/15/c144bfb8e7700649e4f5f6ef7eaf2347.jpg",
+    "occhiello": "IL CDA DI MPS SI RIUNISCE DOPO IL RILANCIO DI CA' DE SASS",
+    "lead_preview": "Roma, 11 ottobre 2026. Il Consiglio di amministrazione di Banca Monte dei Paschi di Siena si è riunito in seduta straord",
+    "tags": [
+      "mps intesa sanpaolo",
+      "ca de sass"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "daef01b14cb5bf2f",
     "slug": "ventidue-appuntamenti-tra-giovani-memoria-e-attual-daef01b14cb5bf2f",
     "title": "Ventidue appuntamenti tra giovani memoria e attualità",
@@ -3394,24 +3412,6 @@
       "rassegna stampa",
       "prime pagine",
       "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "76f54fe9e9733967",
-    "slug": "il-cda-di-mps-si-riunisce-dopo-il-rilancio-di-ca-d-76f54fe9e9733967",
-    "title": "MPS convoca il vertice d'urgenza: Lovaglio sfida l'attacco di Intesa Sanpaolo",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-11T17:34:24.070848+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/15/c144bfb8e7700649e4f5f6ef7eaf2347.jpg",
-    "occhiello": "IL CDA DI MPS SI RIUNISCE DOPO IL RILANCIO DI CA' DE SASS",
-    "lead_preview": "Roma, 11 ottobre 2026. Il Consiglio di amministrazione di Banca Monte dei Paschi di Siena si è riunito in seduta straord",
-    "tags": [
-      "mps intesa sanpaolo",
-      "caso lovaglio"
     ],
     "hero_eligible": true
   },
