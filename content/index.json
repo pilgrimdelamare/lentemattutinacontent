@@ -1,5 +1,24 @@
 [
   {
+    "id": "b5b938dd47c03c59",
+    "slug": "ansa-per-non-essere-tracciati-paghi-16-euro-e-legg-b5b938dd47c03c59",
+    "title": "Ansa: per non essere tracciati paghi 16 euro e leggi solo 10 news al mese",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-12T09:09:24.933126+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/5/4/ccac7011ce963007e556f8828f2beb39.jpg",
+    "occhiello": "LE MODALITÀ DI ACCESSO AL SITO DI INFORMAZIONE DOPO IL BLOCCO DEI COOKIE",
+    "lead_preview": "Roma, 12 ottobre 2026. L'Agenzia Nazionale Stampa Associata ha pubblicato un aggiornamento sulle proprie Condizioni di a",
+    "tags": [
+      "agenzia stampa",
+      "condizioni di accesso",
+      "abbonamento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6e138b15e5f8d7e7",
     "slug": "raid-russi-sulle-infrastrutture-energetiche-e-blac-6e138b15e5f8d7e7",
     "title": "Raid russi sulle infrastrutture energetiche e black out a kiev",
@@ -8218,24 +8237,6 @@
     "occhiello": "TRUMP ANNUNCIA \"DIALOGO COSTRUTTIVO\" CON TEHERAN PRIMA DEL VOTO USA",
     "lead_preview": "Washington, 8 ottobre 2026. Il Presidente degli Stati Uniti Donald Trump ha dichiarato che gli Stati Uniti stanno portan",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9d3c095ec409b54",
-    "slug": "torino-il-rover-rosalind-franklin-si-muove-il-test-d9d3c095ec409b54",
-    "title": "A Torino il rover ExoMars Rosalind Franklin prova i primi passi su Marte",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-08T16:59:43.519748+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/29cec4c5c88c1a139b0abf47f8fddd8f.jpg",
-    "occhiello": "TORINO, SIMULAZIONE ALLO STABILIMENTO ALTEC PER LA MISSIONE DEL 2028",
-    "lead_preview": "Torino, 8 ottobre 2026. Il rover Rosalind Franklin di ExoMars si prepara ai suoi primi passi su Marte attraverso le simu",
-    "tags": [
-      "rover rosalind franklin",
-      "missione exomars"
-    ],
     "hero_eligible": true
   }
 ]
