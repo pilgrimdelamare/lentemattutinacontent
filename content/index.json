@@ -1,5 +1,23 @@
 [
   {
+    "id": "16e1bca7da0127e5",
+    "slug": "controsenso-sul-mercato-energetico-16e1bca7da0127e5",
+    "title": "Controsenso sul mercato energetico",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-12T16:11:57.841388+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/12/6c858b574c67b2587fcb0419bd632124.jpg",
+    "occhiello": "84,16 EURO AL MEGAWATTORA SUL MERCATO DI AMSTERDAM",
+    "lead_preview": "Amsterdam, 12 ottobre 2026. I contratti futures sul gas naturale si attestano a quota 84,16 euro al megawattora, registr",
+    "tags": [
+      "prezzo gas",
+      "mercato energetico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "189dd7684ca7d50e",
     "slug": "spread-a-1099-litalia-paga-il-457-contro-il-347-de-189dd7684ca7d50e",
     "title": "Spread a 109,9: l'Italia paga il 4,57% contro il 3,47% dei tedeschi",
@@ -8236,21 +8254,6 @@
     "image_url": "https://sport.sky.it/assets/images/7e63e1585d78a23e61c6ab721fd3581cb7513fb8/skysport/it/motori/motogp/video/2026/10/09/1130247_1791537576229_thumb_494.0000001_1791537678274.jpg",
     "occhiello": "INDAGINE SULL'OSTACOLO IN PRE-QUALIFICA NEL GP DELL'INDONESIA",
     "lead_preview": "Mandalika, 9 ottobre 2026. La pre-qualifica del Gran Premio dell'Indonesia della MotoGP, disputata venerdì 9 ottobre 202",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2296dc2b1f72fe03",
-    "slug": "la-stagione-2026-2027-sui-canali-sky-e-in-streamin-2296dc2b1f72fe03",
-    "title": "Basket: Sky Sport trasmette Pistons-Celtics e Knicks-76ers con Paltrinieri",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-09T10:06:32.865853+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6a2011c21f49c8b0d93d83bded78437f92fb3546/skysport/it/nba/2025/10/09/nba-2025-2026-partite-tv-streaming-sky-now/programmazione_nba_sky.jpg",
-    "occhiello": "LA STAGIONE 2026-2027 SUI CANALI SKY E IN STREAMING",
-    "lead_preview": "Milano, 9 ottobre 2026. La regular season del campionato di pallacanestro statunitense riparte ufficialmente sui canali ",
     "tags": [],
     "hero_eligible": true
   }
