@@ -1,5 +1,20 @@
 [
   {
+    "id": "f75a1c0d9be4b7f8",
+    "slug": "esordio-con-vittoria-e-sogno-nba-f75a1c0d9be4b7f8",
+    "title": "Esordio con vittoria e sogno nba",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-12T06:54:05.359216+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/16c92495397754fd3fd7a8ae507151297b2bfdc3/skysport/it/nba/2026/10/12/luigi-suigo-intervista-sky-villanova-nba-video/Suigo_Garavaglia.jpg",
+    "occhiello": "ESORDIO CON VITTORIA E SOGNO NBA",
+    "lead_preview": "Villanova, 12 ottobre 2026. Luigi Suigo ha debuttato con la maglia dei Wildcats contro Rutgers, segnando 10 punti, 8 rim",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "61c967f855d60472",
     "slug": "marco-bezzecchi-vince-il-gran-premio-di-motogp-in-61c967f855d60472",
     "title": "Quinta vittoria stagionale per il pilota aprilia in indonesia",
@@ -8217,24 +8232,6 @@
     "occhiello": "ESTRANEO AI BILANCI DELLA MASSIMA SERIE",
     "lead_preview": "Roma, 08 ottobre 2026. Esteban Ocon rivendica il proprio posto in Formula 1 dichiarando di meritarlo, mentre le scuderie",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "063c46b192e67158",
-    "slug": "millesettantasette-euro-di-danni-con-un-water-fals-063c46b192e67158",
-    "title": "Airbnb Milano: foto AI e water otturato, l'host chiede 1.057 euro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-08T14:22:23.175463+00:00",
-    "image_type": "pexels",
-    "image_url": "https://images.pexels.com/photos/30628794/pexels-photo-30628794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "occhiello": "MILLESETTANTASETTE EURO DI DANNI CON UN WATER FALSO CREATO DALL'INTELLIGENZA ARTIFICIALE",
-    "lead_preview": "Milano, 8 ottobre 2026. Un turista lamenta un tentativo di raggiro su Airbnb, dove il proprietario di un alloggio avrebb",
-    "tags": [
-      "airbnb milano",
-      "deepfake affitti"
-    ],
     "hero_eligible": true
   }
 ]
