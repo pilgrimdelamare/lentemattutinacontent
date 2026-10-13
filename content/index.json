@@ -1,5 +1,24 @@
 [
   {
+    "id": "dddc8a2f69fffbde",
+    "slug": "il-sito-ansa-blocca-la-lettura-diretta-delle-notiz-dddc8a2f69fffbde",
+    "title": "Ansa blocca le notizie: paghi 16,99 € o accetti 750 tracker",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-13T07:01:01.287489+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
+    "occhiello": "IL SITO ANSA BLOCCA LA LETTURA DIRETTA DELLE NOTIZIE",
+    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa Ansa impedisce la consultazione delle informazioni economiche e di cronaca ag",
+    "tags": [
+      "agenzia stampa",
+      "cookie",
+      "privacy"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4f0a7c0942ec1c08",
     "slug": "rafa-marin-e-il-passato-al-villarreal-prima-della-4f0a7c0942ec1c08",
     "title": "Rafa marin e il passato al villarreal prima della coppa",
@@ -2663,24 +2682,6 @@
       "mar nero",
       "guerra",
       "ambasciata"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "dddc8a2f69fffbde",
-    "slug": "il-sito-ansa-blocca-la-lettura-diretta-delle-notiz-dddc8a2f69fffbde",
-    "title": "Il sito ansa blocca la lettura diretta delle notizie",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-13T07:01:01.287489+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
-    "occhiello": "IL SITO ANSA BLOCCA LA LETTURA DIRETTA DELLE NOTIZIE",
-    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa Ansa impedisce la consultazione delle informazioni economiche e di cronaca ag",
-    "tags": [
-      "ans cookie",
-      "blocco notizie ansa"
     ],
     "hero_eligible": true
   },
