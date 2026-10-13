@@ -1,5 +1,23 @@
 [
   {
+    "id": "189dd7684ca7d50e",
+    "slug": "spread-a-1099-litalia-paga-il-457-contro-il-347-de-189dd7684ca7d50e",
+    "title": "L'Italia e Italia e la conseguenza del divario economico",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-12T16:11:31.365874+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/1c2a6fb52f4587b3d2f7f2e69268acaf.jpg",
+    "occhiello": "IL TITOLO ITALIANO RENDE IL 4,57% MENTRE QUELLO TEDESCO SI FERMA AL 3,47%",
+    "lead_preview": "Roma, 12 ottobre 2026. Lo spread tra i titoli di Stato italiani e tedeschi si attesta a 109,9 punti base, secondo quanto",
+    "tags": [
+      "spread btp bund",
+      "divario economico italia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "16e1bca7da0127e5",
     "slug": "controsenso-sul-mercato-energetico-16e1bca7da0127e5",
     "title": "Gas a 84 euro a Milano: il +3% ad Amsterdam diventa macigno sulla tua bolletta",
@@ -2856,24 +2874,6 @@
     "tags": [
       "incidente jesolo",
       "ragazzo precipita auto"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "189dd7684ca7d50e",
-    "slug": "spread-a-1099-litalia-paga-il-457-contro-il-347-de-189dd7684ca7d50e",
-    "title": "Spread a 109,9: l'Italia paga il 4,57% contro il 3,47% dei tedeschi",
-    "section": "economia",
-    "priority": 7,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-12T16:11:31.365874+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/1c2a6fb52f4587b3d2f7f2e69268acaf.jpg",
-    "occhiello": "IL TITOLO ITALIANO RENDE IL 4,57% MENTRE QUELLO TEDESCO SI FERMA AL 3,47%",
-    "lead_preview": "Roma, 12 ottobre 2026. Lo spread tra i titoli di Stato italiani e tedeschi si attesta a 109,9 punti base, secondo quanto",
-    "tags": [
-      "spread btp bund",
-      "titoli di stato"
     ],
     "hero_eligible": true
   },
