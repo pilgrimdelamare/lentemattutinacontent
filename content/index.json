@@ -1,5 +1,23 @@
 [
   {
+    "id": "377cfe275a399c53",
+    "slug": "il-fmi-alza-la-crescita-dellitalia-il-pil-sale-dal-377cfe275a399c53",
+    "title": "Il FMI alza la crescita dell'Italia: il PIL sale dallo 0,5 allo 0,8 per cento",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-13T02:15:25.707104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/13/ef2f74401a65404e2b2ca5f328387fde.jpg",
+    "occhiello": "IL PIL SALE ALLO 0,8 PER CENTO",
+    "lead_preview": "Roma, 13 ottobre 2026. Il Fondo Monetario Internazionale ha rivisto al rialzo le stime di crescita economica per l'Itali",
+    "tags": [
+      "stima pil italia",
+      "rapporto fmi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "47c6850b5ea705ce",
     "slug": "fondo-monetario-la-crescita-globale-svanisce-e-lec-47c6850b5ea705ce",
     "title": "Fondo Monetario: la crescita globale svanisce e l'Economia Mondiale trema",
@@ -8255,21 +8273,6 @@
       "musetti shanghai",
       "masters shanghai"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9c28cd08160d8d51",
-    "slug": "il-bilancio-del-napoli-alla-vigilia-della-sfida-di-9c28cd08160d8d51",
-    "title": "Il bilancio del napoli alla vigilia della sfida di campionato",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-09T12:36:45.218257+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/da5e1542cafd08b2492c2b67368bb533175a0dc3/skysport/it/calcio/serie-a/2026/09/04/inter-napoli-allegri-conferenza-video/allegri_conferenza_stampa_napoli_getty.jpg",
-    "occhiello": "IL BILANCIO DEL NAPOLI ALLA VIGILIA DELLA SFIDA DI CAMPIONATO",
-    "lead_preview": "Napoli, 9 ottobre 2026. Massimiliano Allegri ha presentato in conferenza stampa la sfida di campionato tra il Napoli e i",
-    "tags": [],
     "hero_eligible": true
   }
 ]
