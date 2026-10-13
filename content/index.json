@@ -1,5 +1,24 @@
 [
   {
+    "id": "e40efe8e6163b487",
+    "slug": "media-houthi-esplosioni-udite-a-sanaa-colpito-impi-e40efe8e6163b487",
+    "title": "Media houthi, 'esplosioni udite a sanaa, colpito impianto petrolifero'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-13T15:07:31.633852+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/06edbc9ef4a4d7105cf44c825dfe9397.jpg",
+    "occhiello": "MEDIA HOUTHI, 'ESPLOSIONI UDITE A SANAA, COLPITO IMPIANTO PETROLIFERO'",
+    "lead_preview": "Sana’a, 13 ottobre Alle 17:30 di oggi, secondo quanto riferito dai media controllati dai Houthi, una serie di esplosioni",
+    "tags": [
+      "attacco houthi yemen",
+      "impianto petrolifero sanaa",
+      "esplosioni yemen 2023"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "97127b60a14b5ea6",
     "slug": "milano-espone-etruschi-e-veneti-come-un-derby-crit-97127b60a14b5ea6",
     "title": "Milano espone Etruschi e Veneti come un derby: critica durissima al populismo",
@@ -8416,24 +8435,6 @@
     "tags": [
       "allenatori italiani estero",
       "calcio internazionale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "12e6d158d168a393",
-    "slug": "panama-sisma-magnitudo-8-e-rischio-tsunami-12e6d158d168a393",
-    "title": "Panama, terremoto da 8 potenze",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-09T18:42:13.515357+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/295c09c0bed5e5b63f6ec26a1fc0ccc0.jpg",
-    "occhiello": "PANAMA, SISMA MAGNITUDO 8 E RISCHIO TSUNAMI",
-    "lead_preview": "Panama, 9 ottobre 2026. Un terremoto di magnitudo 8 ha colpito la Repubblica di Panama, generando scene di panico nella ",
-    "tags": [
-      "terremoto panama",
-      "sisma panama"
     ],
     "hero_eligible": true
   }
