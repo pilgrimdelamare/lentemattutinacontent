@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 13 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-13T05:46:11.198614+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/ce080c37cbd698fd9cd3984c3843c37879206b06/skytg24/it/cronaca/2026/10/13/prime-pagine-quotidiani-oggi-13-ottobre/corriere-della-sera-050012jfsdleu.jpg",
+    "occhiello": "LE PRIME PAGINE DI MARTEDI 13 OTTOBRE",
+    "lead_preview": "I quotidiani di oggi convergono sulla politica estera, con il pressing della premier Meloni sull'Unione Europea per la f",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b4a68a0d73cc5bd1",
     "slug": "eduardo-bolsonaro-mostra-il-passaporto-italiano-pe-b4a68a0d73cc5bd1",
     "title": "Eduardo Bolsonaro sventola il passaporto italiano e sfida il giudice brasiliano",
@@ -4445,25 +4464,6 @@
     "tags": [
       "atp torino",
       "shanghai masters 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 12 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-12T05:47:27.043170+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e36d258655fbbab3982b10e66d7595152089b4db/skytg24/it/cronaca/2026/10/12/prime-pagine-quotidiani-oggi-12-ottobre/1_Corriere.jpg",
-    "occhiello": "LE PRIME PAGINE 12 OTTOBRE PAPA",
-    "lead_preview": "I quotidiani italiani convergono sull'annuncio del Papa. Il Corriere della Sera, La Repubblica, La Stampa e Il Messagger",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
