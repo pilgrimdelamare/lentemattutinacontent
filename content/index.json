@@ -1,5 +1,20 @@
 [
   {
+    "id": "c66e78b0ef3c6aae",
+    "slug": "ansa-nasconde-il-festival-di-potenza-solo-cookie-e-c66e78b0ef3c6aae",
+    "title": "Un blocco di cookie e boilerplate al posto della notizia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-12T12:09:43.794409+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/4e467ebb248e6cd661299e0ed634e566.jpg",
+    "occhiello": "UN BLOCCO DI COOKIE E BOILERPLATE AL POSTO DELLA NOTIZIA",
+    "lead_preview": "Potenza, 12 ottobre 2026. L'agenzia Ansa pubblica un testo interamente dedicato alle Condizioni di abbonamento e alle no",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "5e58dfad566530c5",
     "slug": "nomine-in-rai-tra-le-stanze-del-potere-5e58dfad566530c5",
     "title": "Giulia Presutti condurrà La Lente Mattutina dal programma televisivo",
@@ -3175,25 +3190,6 @@
     "tags": [
       "gp singapore 2026",
       "max verstappen"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c66e78b0ef3c6aae",
-    "slug": "ansa-nasconde-il-festival-di-potenza-solo-cookie-e-c66e78b0ef3c6aae",
-    "title": "Ansa nasconde il festival di Potenza: solo Cookie e paywall a 17 euro",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-12T12:09:43.794409+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/4e467ebb248e6cd661299e0ed634e566.jpg",
-    "occhiello": "UN BLOCCO DI COOKIE E BOILERPLATE AL POSTO DELLA NOTIZIA",
-    "lead_preview": "Potenza, 12 ottobre 2026. L'agenzia Ansa pubblica un testo interamente dedicato alle Condizioni di abbonamento e alle no",
-    "tags": [
-      "agenzia stampa",
-      "abbonamento",
-      "cookie"
     ],
     "hero_eligible": true
   },
