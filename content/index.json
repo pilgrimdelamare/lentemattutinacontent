@@ -1,5 +1,24 @@
 [
   {
+    "id": "32fc4508a8a198f3",
+    "slug": "lia-di-anthropic-infetta-i-dispositivi-15-tv-box-u-32fc4508a8a198f3",
+    "title": "Anthropic mostra l'AI che si clona da sola tra 15 tv box: la fine dei malware",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-13T11:28:00.902912+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/13/131035488-750a5456-2e7d-4f59-9ddd-d94a357af95a.jpg",
+    "occhiello": "MODELLO IA REPLICABILE SU QUINDICI TV BOX ECONOMICI",
+    "lead_preview": "San Francisco, 13 ottobre 2026. Ricercatori dell'azienda statunitense Anthropic hanno dimostrato la capacità di un model",
+    "tags": [
+      "intelligenza artificiale",
+      "replica modello ia",
+      "dispositivi hardw"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "87ed2f60c1811454",
     "slug": "la-fao-premia-lagricoltura-dominicana-tra-le-crisi-87ed2f60c1811454",
     "title": "La fao premia l'agricoltura dominicana tra le crisi caraibiche",
@@ -2664,25 +2683,6 @@
       "calcio",
       "recupero",
       "injurie"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "32fc4508a8a198f3",
-    "slug": "lia-di-anthropic-infetta-i-dispositivi-15-tv-box-u-32fc4508a8a198f3",
-    "title": "L'IA di Anthropic infetta i dispositivi: 15 tv box usati per testare il virus",
-    "section": "tecnologia",
-    "priority": 6,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-13T11:28:00.902912+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/13/131035488-750a5456-2e7d-4f59-9ddd-d94a357af95a.jpg",
-    "occhiello": "MODELLO IA REPLICABILE SU QUINDICI TV BOX ECONOMICI",
-    "lead_preview": "San Francisco, 13 ottobre 2026. Ricercatori dell'azienda statunitense Anthropic hanno dimostrato la capacità di un model",
-    "tags": [
-      "anthropic",
-      "sicurezza informatica",
-      "intelligenza artificiale"
     ],
     "hero_eligible": true
   },
