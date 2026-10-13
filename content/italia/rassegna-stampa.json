@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 12 ottobre 2026",
+  "title": "Le prime pagine di oggi, martedì 13 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 12 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 12 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 12 ottobre 2026"
+    "Le prime pagine di oggi, martedì 13 ottobre 2026",
+    "Le prime pagine di oggi, martedì 13 ottobre 2026",
+    "Le prime pagine di oggi, martedì 13 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 12 OTTOBRE PAPA",
-  "lead": "I quotidiani italiani convergono sull'annuncio del Papa. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero titolano sulla notizia del nodulo al polmone. I giornalisti riportano i dettagli dell'intervento chirurgico previsto al Gemelli e le reazioni internazionali. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sui risultati del campionato di calcio, ignorando la notizia papale in apertura. Il tono generale è informativo e descrittivo, senza giudizi sulle scelte editoriali delle testate.",
-  "corpo1": "Il Corriere della Sera apre con l'annuncio del Pontefice durante l'Angelus, specificando che il nodulo è stato individuato in fase iniziale e citando l'intervento previsto per domani. La Repubblica dedica il titolo principale alla malattia, sottolineando il desiderio del Papa di mantenere il viaggio in Perù e includendo il messaggio di Zelensky a Trump come spalla. La Stampa titola \"Il Papa si opera, il mondo in ansia\", confermando il viaggio in Sudamerica e riportando le parole di solidarietà di Mattarella, affiancando la fotonotizia sul conflitto in Ucraina. Il Messaggero riprende l'annuncio di Leone, aggiungendo il rifiuto di Kiev e Mosca alla tregua energetica proposta da Trump e le news sugli Houthi e sulla Lazio.",
-  "corpo2": "La Gazzetta dello Sport titola sulla sconfitta del Milan a Reggio Emilia e sul pareggio della Juve a Cagliari, citando le reazioni di Amorim e Spalletti. Il Corriere dello Sport mette in copertina la vittoria della Lazio in vetta alla classifica. Il tema dominante della giornata è la salute del Pontefice, che copre quasi interamente le prime pagine dei quotidiani generalisti, mentre gli sportivi restano fedeli al calcio.",
+  "occhiello": "LE PRIME PAGINE DI MARTEDI 13 OTTOBRE",
+  "lead": "I quotidiani di oggi convergono sulla politica estera, con il pressing della premier Meloni sull'Unione Europea per la flessibilità e gli avvertimenti della Nato in merito alla sicurezza dei paesi membri. Ampio spazio è dedicato al ricovero di Papa Leone XIV al Policlinico Gemelli per un intervento chirurgico. Sul fronte interno, si discute della Manovra e dei permessi premio ai boss mafiosi, mentre le pagine sportive si concentrano sugli impegni di Champions League di Inter e Napoli.",
+  "corpo1": "Il Corriere della Sera apre con la premier Meloni che chiede maggiore flessibilità all'Unione Europea, seguita dal Messaggero che riporta le medesime dichiarazioni sulla necessità di non acconsentire a tutto in sede europea. La Repubblica si concentra invece sulle dinamiche interne all'opposizione in vista delle primarie e sulla situazione bellica in Ucraina, dove Putin avrebbe respinto la proposta di tregua di Zelensky. La Stampa sceglie un taglio differente, dando risalto all'allarme lanciato dall'Antimafia riguardo ai permessi premio concessi ai boss mafiosi. In ambito sportivo, la Gazzetta dello Sport punta sulla Champions League con Inter e Napoli sotto i riflettori, mentre il Corriere dello Sport dedica l'apertura all'Inter di Cristian Chivu e alla sua missione europea contro l'Union Bruges.",
+  "corpo2": "Tra gli altri temi, il Messaggero segnala la proroga della flat tax al cinque per cento nella Manovra, mentre la Stampa riporta l'avvertimento del ministro Giorgetti sul sistema bancario. Il Corriere della Sera e la Repubblica evidenziano il monito della Nato riguardo alla prontezza operativa in caso di attacco. La questione centrale della giornata è il delicato equilibrio tra le trattative europee sulla flessibilità e le tensioni geopolitiche internazionali legate al conflitto in Ucraina.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-12T05:47:27.043170+00:00",
+  "published_at": "2026-10-13T05:46:11.198614+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e36d258655fbbab3982b10e66d7595152089b4db/skytg24/it/cronaca/2026/10/12/prime-pagine-quotidiani-oggi-12-ottobre/1_Corriere.jpg",
+    "url": "https://tg24.sky.it/assets/images/ce080c37cbd698fd9cd3984c3843c37879206b06/skytg24/it/cronaca/2026/10/13/prime-pagine-quotidiani-oggi-13-ottobre/corriere-della-sera-050012jfsdleu.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/12/prime-pagine-quotidiani-oggi-12-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/13/prime-pagine-quotidiani-oggi-13-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 12 ottobre 2026",
+      "title": "Oroscopo di oggi, martedì 13 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Sette gol e nessuna difesa nella bundesliga di ottobre",
-      "url": "/sport/sette-gol-e-nessuna-difesa-nella-bundesliga-di-ott-c131cf08c183515f",
-      "id": "c131cf08c183515f",
-      "image_url": "https://sport.sky.it/assets/images/9fc6be13e0128be7ec1bb5264ae2f1fef16943cf/skysport/it/calcio/bundesliga/video/2026/10/10/1130684_1791655978013_thumb_494.0000001_1791656009404.jpg",
-      "image_type": "feed_image"
+      "title": "La riqualificazione delle Torri dell'Eur: oggi l'evento verso una nuova stagione economica",
+      "url": "/economia/torri-delleur-scannapieco-riconsegna-alla-roma-un-eb5d3bd435e1fe0b",
+      "id": "eb5d3bd435e1fe0b",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/12/cd08544a65fa03cbc5565a7ac1de91b9.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Il desenzano stende il dolomiti bellunesi nel turno del 10 ottobre",
-      "url": "/sport/il-desenzano-stende-il-dolomiti-bellunesi-nel-turn-33de79d4d1ae9662",
-      "id": "33de79d4d1ae9662",
-      "image_url": "https://sport.sky.it/assets/images/3bc08a030940560de4bf837bdcc843c4e77ad110/skysport/it/calcio/serie-c/video/2026/10/10/1130698_1791655623826_thumb_494.0000001_1791657022528.jpg",
+      "title": "Le polemiche arbitrali dopo como-roma dell'undici ottobre",
+      "url": "/sport/calcio-fabregas-attacca-gli-arbitri-dopo-como-roma-a26b9ecc33fb61f1",
+      "id": "a26b9ecc33fb61f1",
+      "image_url": "https://sport.sky.it/assets/images/54ff3155ca70a7f7007902ff7320a73126150136/skysport/it/calcio/serie-a/video/2026/10/11/1130896_1791727596096_thumb_494.0000001_1791728011340.jpg",
       "image_type": "feed_image"
     }
   ],
