@@ -1,5 +1,24 @@
 [
   {
+    "id": "237731bcb2b537d4",
+    "slug": "francia-indagini-su-36-casi-di-presunte-violenze-d-237731bcb2b537d4",
+    "title": "Francia, indagini su 36 casi di presunte violenze di polizia nelle proteste",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-13T16:22:51.698713+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/8/b0b26304b9111855c413416d0c10bf6f.jpg",
+    "occhiello": "FRANCIA, INDAGINI SU 36 CASI DI PRESUNTE VIOLENZE DI POLIZIA NELLE PROTESTE",
+    "lead_preview": "Paris, 13 ottobre Oltre 200 studenti feriti e 800 poliziotti in azione: la Francia sta vivendo la sua estate più violent",
+    "tags": [
+      "violenza polizia francia proteste",
+      "feriti manifestanti parigi",
+      "indagini gilet gialli 2024"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "eda9108ea053e7fc",
     "slug": "calcio-fiumicino-folla-accerchia-mbappe-dopo-la-sf-eda9108ea053e7fc",
     "title": "Calcio: Fiumicino, folla accerchia Mbappé dopo la sfida alla Roma",
@@ -8439,21 +8458,6 @@
     "tags": [
       "blackout spotify"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a9af81595427bb79",
-    "slug": "calcio-insigne-firma-un-gol-ma-lavellino-di-nesta-a9af81595427bb79",
-    "title": "L'avellino travolge la sampdoria nella sesta giornata",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-09T21:45:02.429114+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7b5a7ea68a6fe1cbccbd4a0e4510eae89be50bba/skysport/it/calcio/serie-b/classifica-serie-b-2026-2027/ipa_avellino_samp.jpg",
-    "occhiello": "L'AVELLINO TRAVOLGE LA SAMPDORIA NELLA SESTA GIORNATA",
-    "lead_preview": "Roma, 9 ottobre 2026. L'Avellino guidato da Alessandro Nesta ha battuto la Sampdoria per quattro a uno nell'anticipo del",
-    "tags": [],
     "hero_eligible": true
   }
 ]
