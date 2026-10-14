@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 14 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-14T05:46:09.315669+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e13a052ea4e53be8b019acb5193c668f16b0d524/skytg24/it/cronaca/2026/10/14/prime-pagine-quotidiani-oggi-14-ottobre/CorSera.png",
+    "occhiello": "",
+    "lead_preview": "Oggi i quotidiani italiani dedicano ampio spazio all’intervento chirurgico al Papa, sottopostosi al Gemelli per la rimoz",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1e17de882bb2e933",
     "slug": "f1-monza-conquista-le-tre-stelle-fia-per-la-sosten-1e17de882bb2e933",
     "title": "Monza conferma le tre stelle fia per la sostenibilità ambientale",
@@ -3602,25 +3621,6 @@
     "occhiello": "RAID RUSSI SULLE INFRASTRUTTURE ENERGETICHE E BLACK OUT A KIEV",
     "lead_preview": "Kiev, 12 ottobre 2026. Mosca ha colpito diverse centrali elettriche ucraine provocando interruzioni totali della corrent",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 13 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-13T05:46:11.198614+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/ce080c37cbd698fd9cd3984c3843c37879206b06/skytg24/it/cronaca/2026/10/13/prime-pagine-quotidiani-oggi-13-ottobre/corriere-della-sera-050012jfsdleu.jpg",
-    "occhiello": "LE PRIME PAGINE DI MARTEDI 13 OTTOBRE",
-    "lead_preview": "I quotidiani di oggi convergono sulla politica estera, con il pressing della premier Meloni sull'Unione Europea per la f",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
