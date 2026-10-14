@@ -1,5 +1,24 @@
 [
   {
+    "id": "a6069219e556b4d1",
+    "slug": "il-ceo-di-asml-annuncia-i-microchip-crescono-del-3-a6069219e556b4d1",
+    "title": "Asml punta al +30% di produzione entro il 2028 per gestire i boom di AI",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-14T10:32:35.682331+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/22/b7033bd269b9a90f155ef36cf4ad3393.jpg",
+    "occhiello": "ASML ALZA LA PRODUZIONE DEL 30% ENTRO IL 2028",
+    "lead_preview": "Veldhoven, 14 ottobre 2026. La crescita della domanda globale spinge l'industria dei semiconduttori ad accelerare gli in",
+    "tags": [
+      "tecnologia",
+      "industria",
+      "investimenti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "60da6b8f034e708d",
     "slug": "calcio-il-betis-sconfigge-il-porto-con-120-milioni-60da6b8f034e708d",
     "title": "Calcio: Il Betis sconfigge il Porto con 120 milioni: così i poveri sconfiggono i ricchi in Champions",
@@ -3292,24 +3311,6 @@
     "tags": [
       "elezioni usa 2026",
       "donald trump"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a6069219e556b4d1",
-    "slug": "il-ceo-di-asml-annuncia-i-microchip-crescono-del-3-a6069219e556b4d1",
-    "title": "Il CEO di ASML annuncia: i microchip crescono del 30% entro il 2028 per l'IA",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-14T10:32:35.682331+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/22/b7033bd269b9a90f155ef36cf4ad3393.jpg",
-    "occhiello": "ASML ALZA LA PRODUZIONE DEL 30% ENTRO IL 2028",
-    "lead_preview": "Veldhoven, 14 ottobre 2026. La crescita della domanda globale spinge l'industria dei semiconduttori ad accelerare gli in",
-    "tags": [
-      "asml microchip ia",
-      "mercato semiconduttori 2028"
     ],
     "hero_eligible": true
   },
