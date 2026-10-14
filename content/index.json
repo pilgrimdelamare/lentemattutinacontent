@@ -1,5 +1,20 @@
 [
   {
+    "id": "21e78054725b0b7d",
+    "slug": "roma-14-ottobre-21e78054725b0b7d",
+    "title": "Roma, 14 ottobre",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-10-13T23:12:01.987739+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/13/220552492-c0f20c1b-b57c-4aa4-9748-aaf8e721bb9a.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 14 ottobre. Papa Francesco è stato operato in un ospedale privato di Roma e i suoi referti medici sono stati prote",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a9a38976c8283523",
     "slug": "chivu-dopo-inter-brugge-non-riesco-a-trovare-lequi-a9a38976c8283523",
     "title": "Chivu dopo inter-brugge: \"non riesco a trovare l'equilibrio\"",
@@ -4146,25 +4161,6 @@
       "usmca messico",
       "negoziati usa-canada",
       "sheinbaum commercio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "21e78054725b0b7d",
-    "slug": "roma-14-ottobre-21e78054725b0b7d",
-    "title": "Roma, 14 ottobre",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-10-13T23:12:01.987739+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/13/220552492-c0f20c1b-b57c-4aa4-9748-aaf8e721bb9a.jpg",
-    "occhiello": "",
-    "lead_preview": "Roma, 14 ottobre. Papa Francesco è stato operato in un ospedale privato di Roma e i suoi referti medici sono stati prote",
-    "tags": [
-      "operazione papa francesco",
-      "riservatezza referti medici",
-      "ospedale privato roma"
     ],
     "hero_eligible": true
   },
