@@ -1,5 +1,24 @@
 [
   {
+    "id": "6fe65236e052ec78",
+    "slug": "ansa-blocca-gli-articoli-o-paghi-1699-lanno-o-acce-6fe65236e052ec78",
+    "title": "Ansa blocca le news dopo 10 letture: la privacy costa 16,99 euro l'anno",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-13T09:36:11.416136+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/13/52370540b3bcaccd833f9f6d989face5.jpg",
+    "occhiello": "LA TARIFFA WEB CHE TRASFORMA IL LETTORE IN PRODOTTO",
+    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa ANSA ha pubblicato le nuove Condizioni di accesso ai propri contenuti digital",
+    "tags": [
+      "privacy",
+      "tariffa web",
+      "lettori come prodotti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db306bebe5193fb5",
     "slug": "eme-trasforma-le-terme-di-diocleziano-in-passerell-db306bebe5193fb5",
     "title": "La moda di emé sfila a roma nelle terme di diocleziano",
@@ -2172,25 +2191,6 @@
       "calcio",
       "champions league",
       "bruges vs inter"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6fe65236e052ec78",
-    "slug": "ansa-blocca-gli-articoli-o-paghi-1699-lanno-o-acce-6fe65236e052ec78",
-    "title": "ANSA carica 16€ l’anno per leggere senza pubblicità: 10 articoli al mese o addio notizie",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-13T09:36:11.416136+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/13/52370540b3bcaccd833f9f6d989face5.jpg",
-    "occhiello": "LA TARIFFA WEB CHE TRASFORMA IL LETTORE IN PRODOTTO",
-    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa ANSA ha pubblicato le nuove Condizioni di accesso ai propri contenuti digital",
-    "tags": [
-      "ansa abbonamento digitale",
-      "lettura a pagamento notizie",
-      "modello abbonamento ansa"
     ],
     "hero_eligible": true
   },
