@@ -1,5 +1,23 @@
 [
   {
+    "id": "dddc8a2f69fffbde",
+    "slug": "il-sito-ansa-blocca-la-lettura-diretta-delle-notiz-dddc8a2f69fffbde",
+    "title": "Ansa blocca le notizie: o pieghi ai Cookie o paghi 16,99 euro per dieci articoli",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-13T07:01:01.287489+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
+    "occhiello": "IL SITO ANSA BLOCCA LA LETTURA DIRETTA DELLE NOTIZIE",
+    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa Ansa impedisce la consultazione delle informazioni economiche e di cronaca ag",
+    "tags": [
+      "paywall ansa",
+      "cookie ansa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0dc05f06b8849213",
     "slug": "oro-a-quattromilacentonovantuno-dollari-loncia-il-0dc05f06b8849213",
     "title": "Oro a quattromilacentonovantuno dollari l'oncia, il rifugio è caro",
@@ -1679,25 +1697,6 @@
     "occhiello": "INNALZATO A 70 ANNI IL LIMITE DI ETÀ PER GUIDARE CAMION E AUTOBUS",
     "lead_preview": "Fonditori, autisti, 400mila vite in bilico: a 70 anni si guida ancora, ma non si lavora più Roma, 14 ottobre Il limite d",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "dddc8a2f69fffbde",
-    "slug": "il-sito-ansa-blocca-la-lettura-diretta-delle-notiz-dddc8a2f69fffbde",
-    "title": "Ansa blocca le notizie: paghi 16,99 € o accetti 750 tracker",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-13T07:01:01.287489+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/31/c871eb63eafbb93b69cbdd51f65d73e3.jpg",
-    "occhiello": "IL SITO ANSA BLOCCA LA LETTURA DIRETTA DELLE NOTIZIE",
-    "lead_preview": "Roma, 13 ottobre 2026. L'agenzia di stampa Ansa impedisce la consultazione delle informazioni economiche e di cronaca ag",
-    "tags": [
-      "agenzia stampa",
-      "cookie",
-      "privacy"
-    ],
     "hero_eligible": true
   },
   {
