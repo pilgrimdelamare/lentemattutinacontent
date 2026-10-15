@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 14 ottobre 2026",
+  "title": "Le prime pagine di oggi, giovedì 15 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 14 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 14 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 14 ottobre 2026"
+    "Le prime pagine di oggi, giovedì 15 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 15 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 15 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "",
-  "lead": "Oggi i quotidiani italiani dedicano ampio spazio all’intervento chirurgico al Papa, sottopostosi al Gemelli per la rimozione di un adenocarcinoma al polmone. *Il Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* riportano i dettagli dell’operazione, definita riuscita dai medici, mentre *La Gazzetta dello Sport* e *Il Corriere dello Sport* passano alle sconfitte delle squadre italiane in Champions League. *Il Fatto Quotidiano* approfondisce invece il conflitto ucraino e le tensioni sulla manovra economica.",
-  "corpo1": "Il Corriere della Sera apre con l’intervento del Pontefice, titolando “L'operazione del Papa in apertura: Leone, rimosso un tumore” e specificando la durata e la natura dell’adenocarcinoma. Segue la reazione di Giorgetti alla manovra e l’approvazione del nuovo codice della strada. La Repubblica conferma la diagnosi di tumore polmonare e l’esito positivo dell’intervento, sottolineando il rallentamento nella discussione della manovra economica. La Stampa riporta il comunicato della Santa Sede e l’approvazione dello scostamento di bilancio, mentre evidenzia le tensioni interne al governo e lo sciopero in corso. Il Messaggero riassume l’intervento chirurgico e il nuovo codice della strada, con focus sulle polemiche sull’Irpef e la Festa del cinema di Roma.",
-  "corpo2": "La Gazzetta dello Sport dedica la prima pagina alle sconfitte delle italiane in Champions League: l’Inter sconfitta dal Bruges e il Napoli battuto dal Villarreal, con commenti su Tresoldi e Allegri. Il Corriere dello Sport e Tuttosport riprendono i risultati, aggiungendo la sfida della Roma contro il Real Madrid. Il Fatto Quotidiano, invece, titola sul piano Trump per Kiev e le reazioni di Parigi e Berlino, oltre alle divergenze in Italia sulla manovra economica. La giornata è dominata dall’impatto dell’operazione del Papa e dalle tensioni politiche ed economiche, con lo sport a seguire da vicino.",
+  "occhiello": "LE PRIME PAGINE 15 OTTOBRE 2026",
+  "lead": "La politica internazionale domina le prime pagine di giovedì, con le dichiarazioni della premier Meloni al Senato sull'intesa tra Trump e Putin sul diesel. Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, Il Sole 24 Ore e Il Resto del Carlino convergono su questo tema, evidenziando lo scontro con Mosca e le reazioni di Kiev. Il Giornale titola su \"Meloni a tutto gas\" e le accuse a Washington. La Gazzetta dello Sport si concentra esclusivamente sul calcio, segnalando le sconfitte italiane in Champions League. La salute del Papa, operato per un tumore, è un secondo tema ricorrente su diversi quotidiani.",
+  "corpo1": "Il Corriere della Sera apre con lo scontro tra Meloni e Mosca, citando Zelensky. La Repubblica titola \"Meloni con l’Ucraina\" e riporta la replica russa. La Stampa evidenzia come la premier pungoli l'Ue e critichi Trump. Il Messaggero riporta le parole della premier e dedica spazio alla cronaca della banda della minicar. Il Sole 24 Ore focalizza l'attenzione energetica con \"Europa, svegliati\" e le parole di Confindustria. La Gazzetta dello Sport intitola \"Scempions\" sulle quattro sconfitte in Champions, puntando sul clamoroso ko della Roma contro il Real Madrid. Il Giornale titola \"Meloni a tutto gas\" e approfondisce il caso Garlasco. Il Resto del Carlino parla della tensione tra Meloni e Mosca e dell'Angelus del Papa.",
+  "corpo2": "Sul Corriere e La Repubblica si legge dell'operazione al Papa e della sua ripresa. La Stampa riporta le esecuzioni in Iran e le proteste studentesche. Il Messaggero e il Giornale trattano rispettivamente la sconfitta della Roma e il caso Stasi. La giornata è dominata dalle implicazioni geopolitiche delle dichiarazioni italiane sul gas e dai fatti di cronaca nera e giudiziaria.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,33 +23,33 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-14T05:46:09.315669+00:00",
+  "published_at": "2026-10-15T05:50:57.350380+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/e13a052ea4e53be8b019acb5193c668f16b0d524/skytg24/it/cronaca/2026/10/14/prime-pagine-quotidiani-oggi-14-ottobre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/cbc9533a78c29e8fd8c0b6ea6674f9c1d5cc9ac6/skytg24/it/cronaca/2026/10/15/prime-pagine-quotidiani-oggi-15-ottobre/cor.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/14/prime-pagine-quotidiani-oggi-14-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/15/prime-pagine-quotidiani-oggi-15-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, mercoledì 14 ottobre 2026",
+      "title": "Oroscopo di oggi, giovedì 15 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Roma, 14 ottobre",
-      "url": "/cronaca/roma-14-ottobre-21e78054725b0b7d",
-      "id": "21e78054725b0b7d",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/13/220552492-c0f20c1b-b57c-4aa4-9748-aaf8e721bb9a.jpg",
-      "image_type": "feed_image"
+      "title": "Robba, 14 ottobre 2026. gli incendi in amazonia aumentano del 271 per cento.",
+      "url": "/esteri/fiamme-a-manaus-roghi-su-del-271-e-scuole-chiuse-p-8d71d00742d18d74",
+      "id": "8d71d00742d18d74",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/9/21634e7f7f7cf0399f6a99406ea8d641.jpg",
+      "image_type": "image"
     },
     {
       "title": "Le polemiche arbitrali dopo como-roma dell'undici ottobre",
