@@ -1,5 +1,24 @@
 [
   {
+    "id": "e52d7e5e7a928a8d",
+    "slug": "fontecchio-spoelstra-scommette-sullitaliano-il-42-e52d7e5e7a928a8d",
+    "title": "Fontecchio: Spoelstra scommette sull'italiano, il 42% TS% inquieta",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-15T06:13:38.030412+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/a44ae3b06395615dd7b1a85a9fc662c924ac9d37/skysport/it/nba/video/2026/10/15/1131871_1792038387384_thumb_494.0000001_1792038437545.jpg",
+    "occhiello": "PRESEASON NBA, 11 PUNTI PER SIMONE FONTECCHIO CONTRO I NETS",
+    "lead_preview": "Miami, 15 ottobre Simone Fontecchio ha chiuso la prima giornata di preseason della NBA con 11 punti in 23 minuti contro ",
+    "tags": [
+      "nba",
+      "preseason",
+      "simone fontecchio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "94b2e1041cb6ec0b",
     "slug": "fmi-economia-asia-in-frenata-rischi-da-guerra-iran-94b2e1041cb6ec0b",
     "title": "Fmi, economia asia in frenata, rischi da guerra iran e crisi rendimenti",
@@ -8495,21 +8514,6 @@
       "missile aeroporto riad",
       "attacco saudita"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3b824aba6484da97",
-    "slug": "i-misteri-del-teatro-petruzzelli-annuncia-ansa-3b824aba6484da97",
-    "title": "Il teatro lirico tra abbonamenti web e regie di livermore",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-11T14:47:03.119371+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/11/453155970eefe950bb9c65f9f99cb8fe.jpg",
-    "occhiello": "IL TEATRO LIRICO TRA ABBONAMENTI WEB E REGIE DI LIVERMORE",
-    "lead_preview": "Bari, 11 ottobre 2026. Il Teatro Petruzzelli ospita la messa in scena del Trovatore con la regia di Davide Livermore, me",
-    "tags": [],
     "hero_eligible": true
   }
 ]
