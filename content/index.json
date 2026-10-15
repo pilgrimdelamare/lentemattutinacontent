@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 15 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-15T05:50:57.350380+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/cbc9533a78c29e8fd8c0b6ea6674f9c1d5cc9ac6/skytg24/it/cronaca/2026/10/15/prime-pagine-quotidiani-oggi-15-ottobre/cor.jpg",
+    "occhiello": "LE PRIME PAGINE 15 OTTOBRE 2026",
+    "lead_preview": "La politica internazionale domina le prime pagine di giovedì, con le dichiarazioni della premier Meloni al Senato sull'i",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6186db89ff2b8d14",
     "slug": "dichiarazioni-sul-calcio-europeo-e-competitivita-d-6186db89ff2b8d14",
     "title": "Abodi accusa i club: «Italia in Champions? Troppo lenti, cambiate sistema o finirete fuori»",
@@ -4040,25 +4059,6 @@
       "privacy",
       "tariffa web",
       "lettori come prodotti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 14 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-14T05:46:09.315669+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/e13a052ea4e53be8b019acb5193c668f16b0d524/skytg24/it/cronaca/2026/10/14/prime-pagine-quotidiani-oggi-14-ottobre/CorSera.png",
-    "occhiello": "",
-    "lead_preview": "Oggi i quotidiani italiani dedicano ampio spazio all’intervento chirurgico al Papa, sottopostosi al Gemelli per la rimoz",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
