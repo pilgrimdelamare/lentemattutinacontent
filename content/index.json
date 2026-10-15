@@ -1,5 +1,23 @@
 [
   {
+    "id": "0d99aed8c106c536",
+    "slug": "la-regina-camilla-vuole-riprendersi-winnie-the-poo-0d99aed8c106c536",
+    "title": "La Regina Camilla vuole riprendersi Winnie the Pooh: New York dice no al rimpatrio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-15T13:48:36.519484+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/5/27/75f94609d457b5fe0da0ede62d962853.jpg",
+    "occhiello": "IL BRACCIO DI FERRO DIPLOMATICO SULL'ORSETTO DI PEZZA",
+    "lead_preview": "New York, 15 ottobre 2026. La residenza reale britannica chiede la restituzione dell'orsetto di pezza originale di Winni",
+    "tags": [
+      "winnie the pooh",
+      "restituzione winnie the pooh"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "adb0c21014356ba3",
     "slug": "pirateria-e-creativita-il-front-line-della-festa-d-adb0c21014356ba3",
     "title": "Pirateria e creatività: il front line della festa di roma",
@@ -8551,24 +8569,6 @@
       "calcio",
       "serie_c",
       "gara_decisa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "caee0eef019ce6bf",
-    "slug": "kolo-muani-evita-il-disastro-a-cagliari-caee0eef019ce6bf",
-    "title": "Calcio: Kolo Muani rompe il digiuno e salva la Juve a Cagliari",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-11T20:55:31.804091+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/11/cbf477413262cfb357f06d9b438093ea.jpg",
-    "occhiello": "KOLO MUANI EVITA IL DISASTRO A CAGLIARI",
-    "lead_preview": "Cagliari, 11 ottobre 2026. La Juventus evita la sconfitta sul campo del Cagliari grazie alla prima rete in campionato de",
-    "tags": [
-      "juventus cagliari",
-      "kolo muani"
     ],
     "hero_eligible": true
   }
