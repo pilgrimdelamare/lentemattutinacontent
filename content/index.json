@@ -1,5 +1,23 @@
 [
   {
+    "id": "12bae7e65e1c9bad",
+    "slug": "sanchez-incorona-schlein-con-un-tweet-il-premier-s-12bae7e65e1c9bad",
+    "title": "El P scelge la clamorosa Elly Schlein",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-14T12:39:32.267864+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/14/bee8ab2d97bb3c7d0e190c1ef0452f28.jpg",
+    "occhiello": "PEDRO SANCHEZ RISPONDE ALLA LETTERA DI LUCIANA LITTIZZETTO",
+    "lead_preview": "Roma, 14 ottobre 2026. Il Primo Ministro spagnolo Pedro Sanchez ha risposto pubblicamente alla lettera aperta inviata da",
+    "tags": [
+      "schlein el p",
+      "littizzetto sanchez"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "def4da5a68c7cc8d",
     "slug": "peru-in-preghiera-per-il-papa-il-messaggio-di-keik-def4da5a68c7cc8d",
     "title": "Perù in preghiera per il papa, il messaggio di keiko fujimori",
@@ -3425,24 +3443,6 @@
     "tags": [
       "caro-traghetto",
       "tasse green ets"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "12bae7e65e1c9bad",
-    "slug": "sanchez-incorona-schlein-con-un-tweet-il-premier-s-12bae7e65e1c9bad",
-    "title": "Sanchez incorona Schlein con un tweet: il Premier spagnolo sceglie la leader PD",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-14T12:39:32.267864+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/14/bee8ab2d97bb3c7d0e190c1ef0452f28.jpg",
-    "occhiello": "PEDRO SANCHEZ RISPONDE ALLA LETTERA DI LUCIANA LITTIZZETTO",
-    "lead_preview": "Roma, 14 ottobre 2026. Il Primo Ministro spagnolo Pedro Sanchez ha risposto pubblicamente alla lettera aperta inviata da",
-    "tags": [
-      "schlein premier",
-      "sanchez schlein"
     ],
     "hero_eligible": true
   },
