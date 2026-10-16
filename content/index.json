@@ -1,5 +1,24 @@
 [
   {
+    "id": "6f59e1ddd4fb48fd",
+    "slug": "al-chiostro-del-bramante-il-cibo-diventa-arte-6f59e1ddd4fb48fd",
+    "title": "Al chiostro del bramante il cibo diventa arte",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-16T14:07:22.062876+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/ed0549581786016ade47983baf8392f9.jpg",
+    "occhiello": "AL CHIOSTRO DEL BRAMANTE IL CIBO DIVENTA ARTE",
+    "lead_preview": "CHIOSTRO DEL BRAMANTE: 190 OPERE IN MOSTRA PER RIVELARE IL LEGAME TRA ARTE E CIBO Roma, 16 ottobre. Il Chiostro del Bram",
+    "tags": [
+      "mostra chiostro bramante",
+      "arte e cibo roma",
+      "legame arte gastronomia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5f6d8d1a71fd491a",
     "slug": "partono-gli-avvisi-di-cassa-integrazione-a-zero-or-5f6d8d1a71fd491a",
     "title": "Partono gli avvisi di cassa integrazione a zero ore per i dipendenti ex ilva",
@@ -8766,25 +8785,6 @@
       "lavoro porta a porta donne",
       "precarità lavorativa invisibile",
       "indagine univendita confcommercio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "32fc4508a8a198f3",
-    "slug": "lia-di-anthropic-infetta-i-dispositivi-15-tv-box-u-32fc4508a8a198f3",
-    "title": "Anthropic mostra l'AI che si clona da sola tra 15 tv box: la fine dei malware",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-13T11:28:00.902912+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/13/131035488-750a5456-2e7d-4f59-9ddd-d94a357af95a.jpg",
-    "occhiello": "MODELLO IA REPLICABILE SU QUINDICI TV BOX ECONOMICI",
-    "lead_preview": "San Francisco, 13 ottobre 2026. Ricercatori dell'azienda statunitense Anthropic hanno dimostrato la capacità di un model",
-    "tags": [
-      "intelligenza artificiale",
-      "replica modello ia",
-      "dispositivi hardw"
     ],
     "hero_eligible": true
   }
