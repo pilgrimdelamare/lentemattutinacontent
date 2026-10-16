@@ -1,5 +1,23 @@
 [
   {
+    "id": "99ff30b175981d5a",
+    "slug": "ue-scambiera-fondi-per-aiutare-ucraina-a-difenders-99ff30b175981d5a",
+    "title": "UE scambierà fondi per aiutare Ucraina a difendersi",
+    "section": "esteri",
+    "priority": 6,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-16T09:26:16.583472+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/807d619a35b9eda2369182026b6a9008.jpg",
+    "occhiello": "VON DER LEYEN, 'MOSCA VUOLE DISTRUGGERE LE INFRASTRUTTURE ENERGETICHE UCRAINE'",
+    "lead_preview": "L’UE promette aiuto all’Ucraina, ma i meccanismi per nuove sanzioni contro Mosca restano bloccati nei negoziati tra Stat",
+    "tags": [
+      "ucraina",
+      "sanzioni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c5f4a4b82320f822",
     "slug": "noboa-chiude-le-spiagge-coprifuoco-militare-su-5-p-c5f4a4b82320f822",
     "title": "Noboa chiude le spiagge: coprifuoco militare su 5 province turistiche, 60% degli omicidi nelle gang",
@@ -8662,23 +8680,6 @@
     "tags": [
       "manovra 2026",
       "giorgetti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "985312d42208b464",
-    "slug": "polizia-di-colonia-indaga-su-un-umanoide-per-moles-985312d42208b464",
-    "title": "Robot molesta una sedicenne a Colonia: indagati il proprietario e due ragazzi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-12T16:29:51.155864+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/30/76e727bda9e7c6ff5fb5040247a387ad.jpg",
-    "occhiello": "POLIZIA DI COLONIA INDAGA SU UN UMANOIDE PER MOLESTIE",
-    "lead_preview": "Colonia, 12 ottobre 2026. La polizia tedesca ha avviato un'indagine formale nei confronti del proprietario di un robot u",
-    "tags": [
-      "molestie robot colonia"
     ],
     "hero_eligible": true
   }
