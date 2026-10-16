@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 16 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-16T05:58:21.323356+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/62309ab216040056cbba99f9ae2e6def6bdb4ff4/skytg24/it/cronaca/2026/10/16/prime-pagine-quotidiani-oggi-16-ottobre/1_Corriere.jpg",
+    "occhiello": "",
+    "lead_preview": "Oggi i quotidiani italiani focalizzano l’attenzione sulla Manovra finanziaria da 23,5 miliardi e sullo scontro tra Itali",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "596d0bdcb49b8fd9",
     "slug": "calcio-a-gennaio-lappello-contro-il-manchester-cit-596d0bdcb49b8fd9",
     "title": "Premier League: Starmer e City in guerra, appello a gennaio per sciogliere il nodo",
@@ -3649,25 +3668,6 @@
     "occhiello": "VENEZUELA, ARRIVANO ATTREZZATURE PETROLIFERE PER I POZZI",
     "lead_preview": "Caracas, 14 ottobre 2026. Arrivano nuove attrezzature petrolifere in Venezuela, le prime in quindici anni, destinate all",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 15 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-15T05:50:57.350380+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/cbc9533a78c29e8fd8c0b6ea6674f9c1d5cc9ac6/skytg24/it/cronaca/2026/10/15/prime-pagine-quotidiani-oggi-15-ottobre/cor.jpg",
-    "occhiello": "LE PRIME PAGINE 15 OTTOBRE 2026",
-    "lead_preview": "La politica internazionale domina le prime pagine di giovedì, con le dichiarazioni della premier Meloni al Senato sull'i",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
     "hero_eligible": true
   },
   {
