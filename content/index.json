@@ -1,5 +1,24 @@
 [
   {
+    "id": "8af5e19f2c9896da",
+    "slug": "dow-jones-ferma-in-corsa-elettiva-8af5e19f2c9896da",
+    "title": "Dow Jones ferma in corsa elettiva",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-16T14:03:29.893808+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
+    "occhiello": "WALL STREET APRE CAUTA, DJ +0,33%, NASDAQ -0,14%",
+    "lead_preview": "NEW YORK, 16 ottobre Il Dow Jones Industrial Average ha chiuso con un rialzo dello 0,17%, mentre il Nasdaq ha perso lo 0",
+    "tags": [
+      "mercati usa 16 ottobre",
+      "dow jones rialzo",
+      "nasdaq calo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6c371fa4fc7034c3",
     "slug": "tim-burton-e-ishiguro-un-nuovo-film-sul-giappone-p-6c371fa4fc7034c3",
     "title": "Tim burton e ishiguro, un nuovo film sul giappone postbellico",
@@ -8766,24 +8785,6 @@
       "premio fao agricoltura dominicana",
       "luis abinader onorato fao",
       "agricoltura caraibi resilienza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "47c6850b5ea705ce",
-    "slug": "fondo-monetario-la-crescita-globale-svanisce-e-lec-47c6850b5ea705ce",
-    "title": "FMI: l’Economia Mondiale crolla se un nuovo conflitto spezza le catene globali – la IA non basta più",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-13T02:13:00.654658+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/13/d4dcb6dbfcdd30b70726186f2f8ae0ad.jpg",
-    "occhiello": "IL PIL GLOBALE REGGE MA LA RESILIENZA HA UN PREZZO",
-    "lead_preview": "Washington, 13 ottobre 2026. L'Economia Mondiale ha superato le turbolenze degli ultimi anni ma si trova ora in una fase",
-    "tags": [
-      "fmi outlook 2026",
-      "economia mondiale"
     ],
     "hero_eligible": true
   }
