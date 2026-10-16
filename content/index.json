@@ -1,5 +1,24 @@
 [
   {
+    "id": "ebeb2c9c62e6f6df",
+    "slug": "diario-di-alice-sul-veleno-quattro-pasti-a-tavola-ebeb2c9c62e6f6df",
+    "title": "Diario di alice sul veleno: quattro pasti a tavola prima del delitto",
+    "section": "cronaca",
+    "priority": 6,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-10-16T07:51:17.980020+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/16/092738944-63784670-193a-417f-966c-cb4407ea41df.jpg",
+    "occhiello": "DIARIO DI ALICE SUL VELENO: QUATTRO PASTI A TAVOLA PRIMA DEL DELITTO",
+    "lead_preview": "Pietracatella, 15 ottobre. Alice Di Vita, la ragazza sopravvissuta all’intossicazione da Ricina che ha ucciso la madre A",
+    "tags": [
+      "veleno",
+      "intossicazione",
+      "uccisioni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2876513c0d65a865",
     "slug": "anunoby-divertente-pagina-da-halloween-al-campo-de-2876513c0d65a865",
     "title": "Anunoby, divertente pagina da Halloween al campo dei Knicks",
@@ -8624,21 +8643,6 @@
       "walker kessler",
       "los angeles lakers"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b855a05f4e8b05f2",
-    "slug": "il-gas-torna-a-salire-bollette-piu-care-in-arrivo-b855a05f4e8b05f2",
-    "title": "Gas a 83 euro ad Amsterdam: nuove stangate in arrivo sulle bollette degli italiani",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-12T11:28:56.871092+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/7/4235b4d72ade4f09ed3dce52e26e71ba.jpg",
-    "occhiello": "IL GAS TORNA A SALIRE, BOLLETTE PIÙ CARE IN ARRIVO",
-    "lead_preview": "Amsterdam, 12 ottobre. I contratti future sul gas naturale per il mese di novembre hanno superato la soglia degli 83 eur",
-    "tags": [],
     "hero_eligible": true
   }
 ]
