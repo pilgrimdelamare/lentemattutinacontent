@@ -1,5 +1,24 @@
 [
   {
+    "id": "bf70e997b1c9106c",
+    "slug": "il-festival-delle-arti-teatrali-delle-province-svi-bf70e997b1c9106c",
+    "title": "Pacino vince il SAG-AFTRA: l’unico attore a due Oscar, ora è leggenda vivente del metodo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-15T15:49:47.711614+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/3/11/461112d0ae637a91d2fb06ac0450521a.jpg",
+    "occhiello": "AL PACINO RICEVERÀ IL PREMIO ALLA CARRIERA DEL SINDACATO DEGLI ATTORI",
+    "lead_preview": "Los Angeles, 15 ottobre 2026 Alfredo James Pacino riceverà il premio alla carriera del Sindacato degli attori statuniten",
+    "tags": [
+      "oscar",
+      "attore",
+      "premio"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dde183c90b0f86d9",
     "slug": "taekwondo-700-atleti-a-rossano-ma-la-passione-non-dde183c90b0f86d9",
     "title": "Taekwondo: 700 atleti a Rossano, ma la passione non basta a far decollare lo sport",
@@ -3236,25 +3255,6 @@
       "Stella D'Argento"
     ],
     "hero_eligible": false
-  },
-  {
-    "id": "bf70e997b1c9106c",
-    "slug": "il-festival-delle-arti-teatrali-delle-province-svi-bf70e997b1c9106c",
-    "title": "Pacino al Dolby: il SAG gli regala il terzo premio alla carriera",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-15T15:49:47.711614+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/3/11/461112d0ae637a91d2fb06ac0450521a.jpg",
-    "occhiello": "AL PACINO RICEVERÀ IL PREMIO ALLA CARRIERA DEL SINDACATO DEGLI ATTORI",
-    "lead_preview": "Los Angeles, 15 ottobre 2026 Alfredo James Pacino riceverà il premio alla carriera del Sindacato degli attori statuniten",
-    "tags": [
-      "premio alla carriera",
-      "alfredo james pacino",
-      "sag-aftra"
-    ],
-    "hero_eligible": true
   },
   {
     "id": "0f7573c8dc811bdd",
