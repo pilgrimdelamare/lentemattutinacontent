@@ -1,5 +1,24 @@
 [
   {
+    "id": "5d2bd9d591a03979",
+    "slug": "roma-16-ottobre-5d2bd9d591a03979",
+    "title": "Roma, 16 ottobre",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-16T06:50:08.088991+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/6/20/3f35c67985031fd1ccb7e4de52fa315c.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 16 ottobre. I rendimenti dei BTP decennali italiani hanno toccato questa mattina il 4,45%, con lo spread sul Bund ",
+    "tags": [
+      "btp 445",
+      "spread 105 punti",
+      "mercati finanziari 2023"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f1187664c0418d7a",
     "slug": "nba-walker-strappa-25-milioni-per-28-punti-ma-i-th-f1187664c0418d7a",
     "title": "NBA: Walker strappa 2,5 milioni per 28 punti, ma i Thunder pagano il prezzo di un playmaker da 18M",
@@ -8597,21 +8616,6 @@
       "box office italia",
       "film horror"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "349e8c145831f953",
-    "slug": "il-presidente-del-napoli-blinda-la-scelta-tattica-349e8c145831f953",
-    "title": "Il presidente del napoli blinda la scelta tattica",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-12T09:18:59.432301+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/1/a5f513c901ae814af4e109fa7af0f425.jpg",
-    "occhiello": "IL PRESIDENTE DEL NAPOLI BLINDA LA SCELTA TATTICA",
-    "lead_preview": "Roma, 12 ottobre 2026. Il Presidente del Napoli interviene pubblicamente per confermare la totale fiducia nella guida te",
-    "tags": [],
     "hero_eligible": true
   }
 ]
