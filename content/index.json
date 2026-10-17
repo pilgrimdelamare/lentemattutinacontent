@@ -1,5 +1,24 @@
 [
   {
+    "id": "77afc655fdafe839",
+    "slug": "la-difficolta-per-unelezione-del-nuovo-sottosegret-77afc655fdafe839",
+    "title": "La difficoltà per un’elezione del nuovo Sottosegretario generale",
+    "section": "esteri",
+    "priority": 3,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-17T00:53:58.283435+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55594027596_abfc77f26d_b.jpg",
+    "occhiello": "PROCHAIN SECRÉTAIRE GÉNÉRAL DE L’ONU : AUCUN CANDIDAT NE FAIT CONSENSUS POUR SUC",
+    "lead_preview": "MAIUSCOLO NESSUNO DEI SETTE CANDIDATI HA SUPERATO IL VOTO CINA-USA-RUSSIA Roma, 17 ottobre Antonio Guterres lascia l’ONU",
+    "tags": [
+      "elezione segretario onu 2026",
+      "blocco usa-cina-russia onu",
+      "successore guterres"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "383f46a956f49ae9",
     "slug": "lega-dilettanti-a-convegno-a-ferrara-sulla-valoriz-383f46a956f49ae9",
     "title": "Calcio: a Ferrara la Lega Dilettanti parla di «futuro» ma i bilanci restano in rosso da anni",
@@ -8933,21 +8952,6 @@
       "caserta ct sciabola",
       "scherma azzurra"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "df71e27a5a871ee2",
-    "slug": "scaleway-apre-due-nuovi-data-center-a-milano-ma-re-df71e27a5a871ee2",
-    "title": "Il colosso francese Scaleway apre due datacenter a Milano ma usa solo chip Usa",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-13T14:08:53.486783+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/13/153033965-76568000-4d9f-492c-b2e5-02e540ea315d.jpg",
-    "occhiello": "IL CLOUD SOVRANO SI ESPANDE A MILANO SENZA CHIP EUROPEI",
-    "lead_preview": "Milano, 13 ottobre 2026. Scaleway, piattaforma di cloud pubblico e intelligenza artificiale del gruppo Iliad, ha complet",
-    "tags": [],
     "hero_eligible": true
   }
 ]
