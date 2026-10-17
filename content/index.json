@@ -1,5 +1,24 @@
 [
   {
+    "id": "ebeb2c9c62e6f6df",
+    "slug": "diario-di-alice-sul-veleno-quattro-pasti-a-tavola-ebeb2c9c62e6f6df",
+    "title": "Diario di alice sul veleno: quattro pasti a tavola prima del delitto",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-10-16T07:51:17.980020+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/16/092738944-63784670-193a-417f-966c-cb4407ea41df.jpg",
+    "occhiello": "DIARIO DI ALICE SUL VELENO: QUATTRO PASTI A TAVOLA PRIMA DEL DELITTO",
+    "lead_preview": "Pietracatella, 15 ottobre. Alice Di Vita, la ragazza sopravvissuta all’intossicazione da Ricina che ha ucciso la madre A",
+    "tags": [
+      "veleno",
+      "intossicazione",
+      "delitto"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "51097d38bbaa7cc3",
     "slug": "coppa-davis-ferrer-non-sara-piu-il-capitano-della-51097d38bbaa7cc3",
     "title": "Coppa davis, ferrer non sarà più il capitano della spagna dalla fine del 2026",
@@ -1737,25 +1756,6 @@
       "crisi milano santa giulia",
       "risanamento urbano milano",
       "fallimento progetto milano santa giulia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ebeb2c9c62e6f6df",
-    "slug": "diario-di-alice-sul-veleno-quattro-pasti-a-tavola-ebeb2c9c62e6f6df",
-    "title": "Intossicazione di Ricina ad Alice e famiglia: Alice fa notizia",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-10-16T07:51:17.980020+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/16/092738944-63784670-193a-417f-966c-cb4407ea41df.jpg",
-    "occhiello": "DIARIO DI ALICE SUL VELENO: QUATTRO PASTI A TAVOLA PRIMA DEL DELITTO",
-    "lead_preview": "Pietracatella, 15 ottobre. Alice Di Vita, la ragazza sopravvissuta all’intossicazione da Ricina che ha ucciso la madre A",
-    "tags": [
-      "intossicazione",
-      "ricina",
-      "ragazza sopravvissuta"
     ],
     "hero_eligible": true
   },
