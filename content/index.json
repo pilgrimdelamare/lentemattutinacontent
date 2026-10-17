@@ -1,5 +1,24 @@
 [
   {
+    "id": "d944022fe9d8b25b",
+    "slug": "ciclismo-lamon-frantuma-il-suo-record-mondiale-in-d944022fe9d8b25b",
+    "title": "Ciclismo: Lamon rompe il record del mondo in 3’42”156 e lascia i rivali a 120 watt di distanza",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-16T07:19:20.796745+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/479ceccd2268fca619cbb79e16887a5f.jpg",
+    "occhiello": "MONDIALI SU PISTA, RECORD DEL MONDO DI MILAN NELL'INSEGUIMENTO",
+    "lead_preview": "Milano, 16 ottobre Il ciclista azzurro Francesco Lamon ha stabilito il record del mondo dell’inseguimento individuale su",
+    "tags": [
+      "record lamon ciclismo pista",
+      "mondiali milano 2023",
+      "inseguimento individuale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f1187664c0418d7a",
     "slug": "nba-walker-strappa-25-milioni-per-28-punti-ma-i-th-f1187664c0418d7a",
     "title": "Reggimento di guadagni per Walker",
@@ -1797,25 +1816,6 @@
       "fed",
       "tassi",
       "inflazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d944022fe9d8b25b",
-    "slug": "ciclismo-lamon-frantuma-il-suo-record-mondiale-in-d944022fe9d8b25b",
-    "title": "Ciclismo: Lamon rompe il suo record Mondiale in 3’42”156, +1,8 km all’ora e 120 watt di differenza",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-16T07:19:20.796745+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/479ceccd2268fca619cbb79e16887a5f.jpg",
-    "occhiello": "MONDIALI SU PISTA, RECORD DEL MONDO DI MILAN NELL'INSEGUIMENTO",
-    "lead_preview": "Milano, 16 ottobre Il ciclista azzurro Francesco Lamon ha stabilito il record del mondo dell’inseguimento individuale su",
-    "tags": [
-      "record lamon ciclismo pista",
-      "mondiali milano 2023",
-      "inseguimento individuale"
     ],
     "hero_eligible": true
   },
