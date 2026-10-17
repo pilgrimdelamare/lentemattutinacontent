@@ -1,5 +1,24 @@
 [
   {
+    "id": "62a906081e7b9b2c",
+    "slug": "nozze-di-figaro-folla-e-applausi-a-scena-aperta-pe-62a906081e7b9b2c",
+    "title": "Carica la critica sul Carlina",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-17T08:43:36.538979+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/17/c951f27bef4109a042c62f21e0cfb1f7.jpg",
+    "occhiello": "NOZZE DI FIGARO, FOLLA E APPLAUSI A SCENA APERTA PER LA PRIMA AL CARLO FELICE",
+    "lead_preview": "MILANO, 17 ottobre Il Carlo Felice di Genova ha aperto le porte a una folla festante per la prima assoluta di Nozze di F",
+    "tags": [
+      "teatro",
+      "nozze di figaro",
+      "carlo felice"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "4df9aa5ecb75ef31",
     "slug": "hormuz-in-fiamme-chiudono-il-20-del-commercio-glob-4df9aa5ecb75ef31",
     "title": "Pasdaran bruciano nave da 2M di greggio: «Chi violava le rotte paga il prezzo degli USA»",
@@ -3016,25 +3035,6 @@
       "crescita prestiti abi 2024",
       "credito famiglie italia",
       "inflazione costi lavoro"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "62a906081e7b9b2c",
-    "slug": "nozze-di-figaro-folla-e-applausi-a-scena-aperta-pe-62a906081e7b9b2c",
-    "title": "Nozze di figaro, folla e applausi a scena aperta per la prima al carlo felice",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-17T08:43:36.538979+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/17/c951f27bef4109a042c62f21e0cfb1f7.jpg",
-    "occhiello": "NOZZE DI FIGARO, FOLLA E APPLAUSI A SCENA APERTA PER LA PRIMA AL CARLO FELICE",
-    "lead_preview": "MILANO, 17 ottobre Il Carlo Felice di Genova ha aperto le porte a una folla festante per la prima assoluta di Nozze di F",
-    "tags": [
-      "nozze di figaro",
-      "teatro",
-      "folla"
     ],
     "hero_eligible": true
   },
