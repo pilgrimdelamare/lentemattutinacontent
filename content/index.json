@@ -1,5 +1,24 @@
 [
   {
+    "id": "a6dae8aaef45e0ec",
+    "slug": "gli-estremisti-israeliani-disturbano-la-beit-jala-a6dae8aaef45e0ec",
+    "title": "Gli estremisti israeliani disturbano la Beit Jala",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-17T17:13:24.931756+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/29/71d2a3363da557eee08558f0addb12cf.jpg",
+    "occhiello": "HERZOG TELEFONA ALLA FOTOREPORTER WP E SI SCUSA PER L'AGGRESSIONE DEI COLONI",
+    "lead_preview": "Beit Jala, 17 ottobre Il Herzog di Gerusalemme ha telefonato alla fotoreporter Wafa Abu Bakr (nome confermato da fonte A",
+    "tags": [
+      "israeliani",
+      "aggressione",
+      "coloni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5ae3982c560a6463",
     "slug": "debito-da-300-milioni-linter-punta-a-oaktree-ma-mo-5ae3982c560a6463",
     "title": "Debito da 300 milioni? L’Inter punta a Oaktree: ma Moratti dice no a chi decide per lui",
@@ -9069,21 +9088,6 @@
       "salisburgo vs milan",
       "rohl attacca milan"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b1ec18a586fd1b89",
-    "slug": "spagna-inflazione-al-49-ed-energia-al-15-scattano-b1ec18a586fd1b89",
-    "title": "Spagna, inflazione al 4,9 per cento: scatta il meccanismo di aiuto",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-14T12:06:32.708036+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/14/2a2d4355a2afefdfab8001f06ab3a40b.jpg",
-    "occhiello": "SPAGNA, INFLAZIONE AL 4,9 PER CENTO: SCATTA IL MECCANISMO DI AIUTO",
-    "lead_preview": "Madrid, 14 ottobre 2026. L'inflazione in Spagna si attesta al 4,9 per cento nel mese di settembre, superando la soglia c",
-    "tags": [],
     "hero_eligible": true
   }
 ]
