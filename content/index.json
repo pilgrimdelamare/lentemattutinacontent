@@ -1,5 +1,24 @@
 [
   {
+    "id": "a2dceabd91798e69",
+    "slug": "quota-100-la-cassazione-blocca-linps-chi-lavora-no-a2dceabd91798e69",
+    "title": "Quota 100: la Cassazione blocca l’INPS. Chi lavora non perde un anno di pensione",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-17T03:29:48.279258+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/17/005537087-493fd706-99ae-473f-9e53-499301811892.jpg",
+    "occhiello": "Quota 100: la Cassazione blocca l’Inps. Chi lavora non perde un anno di pensione",
+    "lead_preview": "Roma, 17 ottobre 2026 La Corte di Cassazione ha stabilito che chi lavora con Quota 100 non perde un anno di pensione per",
+    "tags": [
+      "quota100",
+      "cassazione",
+      "inps"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2d89d32321fa8477",
     "slug": "marco-sinopoli-dal-teatro-papa-mi-correggeva-i-ger-2d89d32321fa8477",
     "title": "Sinopoli strappa 250mila euro a Berlino: «Nono era il mio codice segreto»",
@@ -2972,25 +2991,6 @@
       "btp",
       "rendimento",
       "borsa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a2dceabd91798e69",
-    "slug": "quota-100-la-cassazione-blocca-linps-chi-lavora-no-a2dceabd91798e69",
-    "title": "Quota 100: la Cassazione blocca l’INPS. Chi lavora non perde un anno di pensione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-17T03:29:48.279258+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/17/005537087-493fd706-99ae-473f-9e53-499301811892.jpg",
-    "occhiello": "Quota 100: la Cassazione blocca l’Inps. Chi lavora non perde un anno di pensione",
-    "lead_preview": "Roma, 17 ottobre 2026 La Corte di Cassazione ha stabilito che chi lavora con Quota 100 non perde un anno di pensione per",
-    "tags": [
-      "quota100 cassazione",
-      "rimborso inps",
-      "pensione cumulo lavoro"
     ],
     "hero_eligible": true
   },
