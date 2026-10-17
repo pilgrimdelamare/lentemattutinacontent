@@ -1,5 +1,24 @@
 [
   {
+    "id": "4934fdf11f48bbb7",
+    "slug": "trieste-25-ottobre-4934fdf11f48bbb7",
+    "title": "Trieste, 25 ottobre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-16T18:05:31.974197+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/0be8e86f9eac481d13e9a6ce93dfad01.jpg",
+    "occhiello": "",
+    "lead_preview": "Trieste, 25 ottobre. Dal 25 ottobre il festival Cinema Ibero-Latino Americano di Trieste si apre alle produzioni indipen",
+    "tags": [
+      "festival cinema ibero-latino trieste",
+      "cinema indipendente italia",
+      "cinema regionale trieste"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e9ed3ce11fd6a494",
     "slug": "gina-lollobrigida-scaglia-la-bomba-bloccare-i-nego-e9ed3ce11fd6a494",
     "title": "Gina Lollobrigida svela il confine tra diritto e reato: «Manifestare sì, bloccare merci no»",
@@ -2211,25 +2230,6 @@
       "calcio europa league",
       "rennes spese giocatori",
       "finanza club francese"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4934fdf11f48bbb7",
-    "slug": "trieste-25-ottobre-4934fdf11f48bbb7",
-    "title": "Trieste, 25 ottobre",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-16T18:05:31.974197+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/0be8e86f9eac481d13e9a6ce93dfad01.jpg",
-    "occhiello": "",
-    "lead_preview": "Trieste, 25 ottobre. Dal 25 ottobre il festival Cinema Ibero-Latino Americano di Trieste si apre alle produzioni indipen",
-    "tags": [
-      "cinema ibero-latinoamericano trieste",
-      "cinema indipendente",
-      "cinema regionale"
     ],
     "hero_eligible": true
   },
