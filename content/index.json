@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, sabato 17 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-17T06:15:13.922422+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/3fb40a502e05da4098cf7f80be144e8dd628acd1/skytg24/it/cronaca/2026/10/17/prime-pagine-quotidiani-oggi-17-ottobre/01_rassegna_corriere_della_sera.jpg",
+    "occhiello": "LE PRIME PAGINE DI SABATO 17 OTTOBRE 2026: GUERRA, PROTESTE E SPORT",
+    "lead_preview": "I quotidiani italiani di sabato 17 ottobre 2026 convergono su tre filoni principali: la telefonata tra Papa Leone XIV e ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2d89d32321fa8477",
     "slug": "marco-sinopoli-dal-teatro-papa-mi-correggeva-i-ger-2d89d32321fa8477",
     "title": "Sinopoli omaggia Nono a Berlino: 250mila euro per la musica, il pubblico esplode (12’ di applausi)",
@@ -4195,25 +4214,6 @@
       "wuhan open 2026",
       "paolini vs kartal",
       "tennis femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 16 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-16T05:58:21.323356+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/62309ab216040056cbba99f9ae2e6def6bdb4ff4/skytg24/it/cronaca/2026/10/16/prime-pagine-quotidiani-oggi-16-ottobre/1_Corriere.jpg",
-    "occhiello": "",
-    "lead_preview": "Oggi i quotidiani italiani focalizzano l’attenzione sulla Manovra finanziaria da 23,5 miliardi e sullo scontro tra Itali",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
