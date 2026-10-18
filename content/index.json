@@ -1,5 +1,24 @@
 [
   {
+    "id": "2195b790811a2409",
+    "slug": "il-papa-risponde-in-segreto-a-una-notizia-da-roves-2195b790811a2409",
+    "title": "Leone XIV torna a San Pietro ma il Vaticano tace: cronico o emergenza?",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-10-18T10:47:52.115922+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/382460ffb0cc9ade00e85171f9446a28.jpg",
+    "occhiello": "IL PAPA ALL'ANGELUS, 'ORA RIPRENDERÒ LE ATTIVITÀ GRADUALMENTE'",
+    "lead_preview": "Roma, 18 ottobre 2026 Il Pontefice ha annunciato dal balcone di San Pietro che «superata una fase delicata, questa esper",
+    "tags": [
+      "ritorno papa francesco san pietro",
+      "salute francesco",
+      "vaticano e sanità"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c820021dd9d80c76",
     "slug": "calcio-bremer-nel-gruppo-ce-chi-si-nasconde-per-pa-c820021dd9d80c76",
     "title": "Calcio: Bremer: «Nel gruppo c’è chi si nasconde per paura, io non posso salvare tutti»",
@@ -2664,25 +2683,6 @@
       "drone",
       "intercettazione",
       "aeronautica militare italiana"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2195b790811a2409",
-    "slug": "il-papa-risponde-in-segreto-a-una-notizia-da-roves-2195b790811a2409",
-    "title": "Il Papa risponde in segreto a una notizia da rovesciare?",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-10-18T10:47:52.115922+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/382460ffb0cc9ade00e85171f9446a28.jpg",
-    "occhiello": "IL PAPA ALL'ANGELUS, 'ORA RIPRENDERÒ LE ATTIVITÀ GRADUALMENTE'",
-    "lead_preview": "Roma, 18 ottobre 2026 Il Pontefice ha annunciato dal balcone di San Pietro che «superata una fase delicata, questa esper",
-    "tags": [
-      "salute bergoglio",
-      "angelus 2026",
-      "papa e malattia"
     ],
     "hero_eligible": true
   },
