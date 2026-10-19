@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 19 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-19T05:46:02.195991+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/faea32efa5d64a131e6bec3767c4b99d65e035a8/skytg24/it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre/cor.jpg",
+    "occhiello": "",
+    "lead_preview": "I quotidiani italiani aprono oggi con la cronaca dei nuovi scontri a Milano, che si protraggono per il secondo giorno co",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0c707ddef55beefc",
     "slug": "schlein-sfida-meloni-le-destre-sfruttano-le-nostre-0c707ddef55beefc",
     "title": "Schlein, progressisti uniti, non faremo più alle destre il favore di dividerci",
@@ -5756,25 +5775,6 @@
       "mattarella e ue",
       "ritardi decisionali ue",
       "poteri straordinari mattarella"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, sabato 17 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-17T06:15:13.922422+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/3fb40a502e05da4098cf7f80be144e8dd628acd1/skytg24/it/cronaca/2026/10/17/prime-pagine-quotidiani-oggi-17-ottobre/01_rassegna_corriere_della_sera.jpg",
-    "occhiello": "LE PRIME PAGINE DI SABATO 17 OTTOBRE 2026: GUERRA, PROTESTE E SPORT",
-    "lead_preview": "I quotidiani italiani di sabato 17 ottobre 2026 convergono su tre filoni principali: la telefonata tra Papa Leone XIV e ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
