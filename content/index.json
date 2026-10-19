@@ -1,5 +1,24 @@
 [
   {
+    "id": "7e125d2ee36bbc4e",
+    "slug": "allarme-al-cibo-il-potere-politico-si-discute-in-c-7e125d2ee36bbc4e",
+    "title": "Allarme al cibo: il potere politico si discute in calcio per il prezzo",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-19T11:13:19.459078+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/f3ff028aae6e80c25ba447d5f18b9c38.jpg",
+    "occhiello": "PROTESTA TIR, MANCANO RIFORNIMENTI, SCAFFALI VUOTI NEI SUPERMERCATI IN CALABRIA",
+    "lead_preview": "Catanzaro, 19 ottobre I supermercati calabresi hanno esaurito latte, farina e prodotti freschi. In 12 ore, 80 Tir blocca",
+    "tags": [
+      "blocco tir calabria",
+      "scarsità alimenti sud",
+      "proteste trasporti logistici"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b3fdc45233cb1fbe",
     "slug": "alejandro-davidovich-fokina-vince-il-primo-masters-b3fdc45233cb1fbe",
     "title": "Tennis: Davidovich Fokina vince a Shanghai e sfonda il tetto dei 10M/anno: il nuovo re dei Masters",
@@ -9440,21 +9459,6 @@
       "wenger fifa",
       "infantino fifa"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "964480ced137b9fb",
-    "slug": "il-paris-saint-germain-travolge-il-manchester-city-964480ced137b9fb",
-    "title": "Il paris saint-germain travolge il manchester city in champions league",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-15T08:08:36.792887+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f61f18c98c690cc02e7abd6168096336c9be8c37/skysport/it/calcio/champions-league/2026/10/15/vitinha-gol-manchester-cty-psg-champions-video/ipa_vitinha_psg_city_telecamera.jpg",
-    "occhiello": "IL PARIS SAINT-GERMAIN TRAVOLGE IL MANCHESTER CITY IN CHAMPIONS LEAGUE",
-    "lead_preview": "Manchester, 15 ottobre 2026. Il Paris Saint-Germain si impone per quattro reti a due sul campo del Manchester City nella",
-    "tags": [],
     "hero_eligible": true
   }
 ]
