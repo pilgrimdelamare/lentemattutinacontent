@@ -1,5 +1,24 @@
 [
   {
+    "id": "5302e53219ff0d07",
+    "slug": "cconti-liste-di-attesa-criticita-strutturale-fondi-5302e53219ff0d07",
+    "title": "C.conti, liste di attesa criticità strutturale, fondi non bastano",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-19T07:28:08.947041+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/8/22/d73c5fcd30723b5a67ba69208f9fd5e6.jpg",
+    "occhiello": "C.CONTI, LISTE DI ATTESA CRITICITÀ STRUTTURALE, FONDI NON BASTANO",
+    "lead_preview": "Roma, 19 ottobre. Il ministro della Salute Carlo Conti ha ammesso quello che i pazienti e il personale sanitario denunci",
+    "tags": [
+      "liste attesa sanità",
+      "conti salute",
+      "crisi ospedali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a74aec38a97bc932",
     "slug": "appello-avs-ad-altre-opposizioni-ora-grande-manife-a74aec38a97bc932",
     "title": "Appello avs ad altre opposizioni, ora grande manifestazione unitaria",
@@ -9327,24 +9346,6 @@
     "occhiello": "GOL DI GRIFO SPEZZA L'EQUILIBRIO IN EUROPA LEAGUE",
     "lead_preview": "Friburgo, 15 ottobre 2026.",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "56a1613abcdda318",
-    "slug": "avvocato-delle-figlie-al-processo-maradona-e-stato-56a1613abcdda318",
-    "title": "Maradona: l'avvocato chiede 15 anni di galera per il chirurgo",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-14T23:27:48.106028+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2022/10/29/8aa39564f8bdc63e46a84865984dad52.jpg",
-    "occhiello": "AVVOCATO DELLE FIGLIE AL PROCESSO MARADONA, 'E' STATO ASSASSINATO A SANGUE FREDD",
-    "lead_preview": "Buenos Aires, 15 ottobre L’avvocato delle figlie di Diego Armando Maradona ha chiesto al tribunale di Buenos Aires una c",
-    "tags": [
-      "processo maradona",
-      "caso luque"
-    ],
     "hero_eligible": true
   }
 ]
