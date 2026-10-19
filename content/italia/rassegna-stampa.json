@@ -1,17 +1,17 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, sabato 17 ottobre 2026",
+  "title": "Le prime pagine di oggi, lunedì 19 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, sabato 17 ottobre 2026",
-    "Le prime pagine di oggi, sabato 17 ottobre 2026",
-    "Le prime pagine di oggi, sabato 17 ottobre 2026"
+    "Le prime pagine di oggi, lunedì 19 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 19 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 19 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI SABATO 17 OTTOBRE 2026: GUERRA, PROTESTE E SPORT",
-  "lead": "I quotidiani italiani di sabato 17 ottobre 2026 convergono su tre filoni principali: la telefonata tra Papa Leone XIV e Vladimir Putin, con l’appello per una tregua umanitaria a Oleshky e le reazioni della politica internazionale; le proteste in corso in Italia, tra cortei di studenti e blocchi dei tir per il caro-gasolio; e i risultati sportivi, con il Milan protagonista nell’inseguimento mondiale su pista e le mosse calcistiche dei club italiani. Corriere della Sera, La Repubblica, La Stampa e Il Messaggero dedicano ampio spazio al fronte ucraino e alle tensioni sociali, mentre Gazzetta dello Sport e Corriere dello Sport si focalizzano sull’agenda sportiva. Solo Il Messaggero menziona anche una vicenda giudiziaria legata alla Flotilla.",
-  "corpo1": "Corriere della Sera apre con la telefonata tra il Papa e Putin, descrivendo l’appello per una tregua a Oleshky e l’approvazione europea del decreto bollette, mentre Meloni annuncia tagli sui costi e Sanchez raggiunge un accordo con l’Italia su Schengen. Il quotidiano milanese segnala anche scontri durante i cortei studenteschi e blocchi stradali per il caro-gasolio, con professori scesi in piazza. La Repubblica ripropone sostanzialmente lo stesso ordine di priorità, evidenziando la richiesta pontificia come “tregua del pane” e la rottura tra Trump e Zelensky, che si affida all’Europa. Zelensky viene citato anche da La Stampa, che sottolinea il ruolo dell’Ue nel decreto bollette e le tensioni tra il governo e Tajani sul fronte fiscale. Il Messaggero si sofferma sulla telefonata Papa-Putin, anticipando la celebrazione dell’Angelus, e conferma l’intesa sul gas, mentre descrive le proteste come una “giornata di scontri” con studenti e autotrasportatori. La Stampa, invece, approfondisce il dialogo tra Leone XIV e Putin come un tentativo di cessate il fuoco umanitario, con Zelensky in posizione di dipendenza dai partner europei.",
+  "occhiello": "",
+  "lead": "I quotidiani italiani aprono oggi con la cronaca dei nuovi scontri a Milano, che si protraggono per il secondo giorno consecutivo, con devastazioni, saccheggi e fermi di minorenni. *Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* dedicano le prime pagine alla violenza in centro, citando le dichiarazioni di Giorgia Meloni e le reazioni politiche. *Il Sole 24 Ore* e *La Gazzetta dello Sport* si concentrano su temi diversi: l’impatto dell’inflazione sui bonus fiscali e la vittoria della Lazio in campionato. *La Repubblica* e *Corriere della Sera* approfondiscono anche il fenomeno delle convocazioni social tramite hashtag.",
+  "corpo1": "Il *Corriere della Sera* apre con “Teppisti a Milano, nuovi raid”, descrivendo il secondo giorno di guerriglia urbana nel centro milanese, con scontri e saccheggi. Il titolo sottolinea le parole di Meloni, che annuncia un vertice d’urgenza per contrastare il caos. Segue “Le convocazioni social, il mistero dell’hashtag” e un focus sugli stipendi dei magistrati. *La Repubblica* titola “La guerra dei ragazzini”, riferendosi alle devastazioni e ai saccheggi, accompagnato dall’intervista a Francesco Calabresi, che definisce “tragico errore” confondere violenza e protesta. Sullo sfondo, le opinioni “Cattivi maestri e rabbia diffusa” e “Non cambierò idea: i giovani hanno ragione”. *La Stampa* dedica la prima pagina a “Un altro giorno di devastazioni”, illustrando i danni ai negozi e gli scontri con la polizia, con un’intervista a Carlo Cacciari che denuncia il senso di tradimento dei giovani. Macron viene citato per le dichiarazioni sulla punizione dei casseur. *Il Messaggero* titola “Inaccettabile”, evidenziando i 200 fermi tra manifestanti, l’80% minorenni, e le dichiarazioni di Meloni su un possibile stop agli arretrati ai giudici.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-17T06:15:13.922422+00:00",
+  "published_at": "2026-10-19T05:46:02.195991+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/3fb40a502e05da4098cf7f80be144e8dd628acd1/skytg24/it/cronaca/2026/10/17/prime-pagine-quotidiani-oggi-17-ottobre/01_rassegna_corriere_della_sera.jpg",
+    "url": "https://tg24.sky.it/assets/images/faea32efa5d64a131e6bec3767c4b99d65e035a8/skytg24/it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre/cor.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/17/prime-pagine-quotidiani-oggi-17-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, sabato 17 ottobre 2026",
+      "title": "Oroscopo di oggi, lunedì 19 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Trieste, 25 ottobre",
-      "url": "/cultura/trieste-25-ottobre-4934fdf11f48bbb7",
-      "id": "4934fdf11f48bbb7",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/0be8e86f9eac481d13e9a6ce93dfad01.jpg",
+      "title": "Le famiglie delle vittime del 7 ottobre e degli ostaggi chiedono un'indagine pen",
+      "url": "/esteri/le-famiglie-delle-vittime-del-7-ottobre-e-degli-os-47954adb19478459",
+      "id": "47954adb19478459",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/7bb33195ce3226e297b4e71b218869a3.jpg",
       "image_type": "image"
     },
     {
-      "title": "Mit convoca tavolo con gli autotrasportatori il 27 ottobre",
-      "url": "/economia/mit-convoca-autotrasportatori-10-miliardi-bloccati-de09bd3bf8902a31",
-      "id": "de09bd3bf8902a31",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/15/fe319d2d04fef14af1ca393d3e407148.jpg",
+      "title": "Ettore bassi, 'promessi sposi scritto oggi sarebbe serie tv lunghissima'",
+      "url": "/cultura/ettore-bassi-promessi-sposi-scritto-oggi-sarebbe-s-5829cac6ef821988",
+      "id": "5829cac6ef821988",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ae774f3abc8ccb764cc4f8cc01082134.jpg",
       "image_type": "image"
     }
   ],
