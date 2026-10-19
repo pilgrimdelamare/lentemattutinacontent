@@ -1,5 +1,24 @@
 [
   {
+    "id": "322c484ec30e5e39",
+    "slug": "sei-vittime-in-gaza-guerra-di-estremi-soggetti-322c484ec30e5e39",
+    "title": "Wafa, 'bambino ucciso a gaza in un attacco dell'idf, il secondo oggi'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-18T14:15:45.831631+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55595715347_2a0662819a_b.jpg",
+    "occhiello": "WAFA, 'BAMBINO UCCISO A GAZA IN UN ATTACCO DELL'IDF, IL SECONDO OGGI'",
+    "lead_preview": "Gaza, 18 ottobre. Cinque palestinesi sono morti sotto il fuoco dell’IDF — l’esercito israeliano — in un’operazione milit",
+    "tags": [
+      "attacco idf a gaza",
+      "vittime civili palestinesi",
+      "operazione militare israeliana 18 ottobre"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5c3adea984a6db50",
     "slug": "tennis-swiatek-strappa-il-master-1000-a-wuhan-con-5c3adea984a6db50",
     "title": "Chwalinska trionfa a wuhan con uno stile che nessuno aspettava",
@@ -2061,25 +2080,6 @@
       "crescita industria cinese 2023",
       "pil cinese terzo trimestre",
       "investimenti liquidità pechino"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "322c484ec30e5e39",
-    "slug": "sei-vittime-in-gaza-guerra-di-estremi-soggetti-322c484ec30e5e39",
-    "title": "Gaza in emergenza: 1,7 milioni dipendono dagli aiuti, l’UNRWA denuncia fame e ospedali al collasso",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-18T14:15:45.831631+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55595715347_2a0662819a_b.jpg",
-    "occhiello": "WAFA, 'BAMBINO UCCISO A GAZA IN UN ATTACCO DELL'IDF, IL SECONDO OGGI'",
-    "lead_preview": "Gaza, 18 ottobre. Cinque palestinesi sono morti sotto il fuoco dell’IDF — l’esercito israeliano — in un’operazione milit",
-    "tags": [
-      "emergenza",
-      "gaza",
-      "aiuti"
     ],
     "hero_eligible": true
   },
