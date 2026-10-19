@@ -1,5 +1,24 @@
 [
   {
+    "id": "fc7e428e81b82055",
+    "slug": "powell-spaventa-tokyo-nikkei-crolla--09-dopo-il--3-fc7e428e81b82055",
+    "title": "Powell spaventa Tokyo: Nikkei crolla (-0,9%) dopo il -3% del Nasdaq, yen a 153,8",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-19T01:02:27.289264+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/15/06864897074c0812b1340f0aa88a8daa.jpg",
+    "occhiello": "NIKKEI IN CALO PER IL TERZO GIORNO DI FILA",
+    "lead_preview": "Tokyo, 19 ottobre. La Borsa di Tokyo ha aperto in ribasso dello 0,90% oggi, dopo due giorni di perdite consecutive, sott",
+    "tags": [
+      "borsa",
+      "tecnologia",
+      "preoccupazioni"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1419daf200f0b247",
     "slug": "alberto-garlini-nel-mio-noir-il-mercato-di-notizie-1419daf200f0b247",
     "title": "Alberto garlini, nel mio noir il mercato di notizie false nel '45 e i social",
@@ -9271,24 +9290,6 @@
       "calcio europa league",
       "gol volnei feltes",
       "torreense sunderland"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "10d4ea3eed926d59",
-    "slug": "alzheimer-farmaco-sperimentale-supera-i-primi-test-10d4ea3eed926d59",
-    "title": "Sanofi sviluppa un farmaco orale per Alzheimer",
-    "section": "salute",
-    "priority": 5,
-    "journalist_firma": "Francesca Nardi",
-    "published_at": "2026-10-15T00:23:03.966363+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2026/02/23/103938935-f866b430-4030-4fb7-8485-a4111526e3e8.jpg",
-    "occhiello": "ALZHEIMER: FARMACO SPERIMENTALE SUPERA I PRIMI TEST SULL'UOMO",
-    "lead_preview": "Alzheimer, Sanofi punta su un farmaco orale: la microglia come bersaglio, ma i dati sono ancora troppo fragili Roma, 15 ",
-    "tags": [
-      "farmaco alzheimer",
-      "sanofi alzheimer"
     ],
     "hero_eligible": true
   }
