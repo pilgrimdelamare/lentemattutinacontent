@@ -1,5 +1,24 @@
 [
   {
+    "id": "8b0ccc1186160575",
+    "slug": "nasdaq-fallisce-per-le-aziende-tecnologiche-8b0ccc1186160575",
+    "title": "Nasdaq fallisce per le aziende tecnologiche",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-19T13:56:23.554330+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
+    "occhiello": "WALL STREET APRE CONTRASTATA, DJ A -0,11% E NASDAQ A +1,07%",
+    "lead_preview": "MAIUSCOLO L’S&P 500 SALTA AL +0,54% MENTRE IL NASDAQ FA IL BAGNO DELLE AZIONI TECH New York, 19 ottobre L’S&P 500 ha chi",
+    "tags": [
+      "tecnologia",
+      "borsa",
+      "aziende"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2d03c0d976e7279e",
     "slug": "bukele-straccia-il-piano-cero-ocio-solo-5000-liber-2d03c0d976e7279e",
     "title": "El salvador, il presidente bukele annuncia scarcerazioni solo per 5mila detenuti",
@@ -9446,25 +9465,6 @@
       "tennis",
       "sudamericana",
       "calendario"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4fd15fc62dc5a493",
-    "slug": "calcio-gasperini-mastica-amaro-dopo-il-real-kone-s-4fd15fc62dc5a493",
-    "title": "Calcio: Gasperini: «Siamo stati superiori, il Real ci ha fregato: il peccato di una stagione»",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-15T12:04:53.332982+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/14/7e28601d04cdbc231303a668fec6746d.jpg",
-    "occhiello": "KONÉ SI FERMA, GASPERINI PIANGE IL RISULTATO CONTRO IL REAL",
-    "lead_preview": "Roma, 15 ottobre 2026. Gian Piero Gasperini commenta con amarezza la prestazione della sua squadra, sostenendo di aver s",
-    "tags": [
-      "gasperini vs real madrid",
-      "roma-real madrid 2026",
-      "calcio serie a"
     ],
     "hero_eligible": true
   }
