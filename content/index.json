@@ -1,5 +1,24 @@
 [
   {
+    "id": "97faea51b8a72ab5",
+    "slug": "mef-fisco-piu-semplice-con-trovatu-motore-di-ricer-97faea51b8a72ab5",
+    "title": "Mef, fisco più semplice con trovatu, motore di ricerca dei nuovi testi unici",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-19T12:37:22.062739+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/6/d9082b1cdaee1aa40aeb57cd15c43475.jpg",
+    "occhiello": "MEF, FISCO PIÙ SEMPLICE CON TROVATU, MOTORE DI RICERCA DEI NUOVI TESTI UNICI",
+    "lead_preview": "OCCHIELLO 440 PROVVEDIMENTI, 4.700 DISPOSIZIONI: IL FISCO SI NASCONDE SOTTO UN MOTORE DI RICERCA CHE NESSUNO USA Roma, 1",
+    "tags": [
+      "mef trova tu",
+      "fisco digitale",
+      "testi unici fiscali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "2f3c83f08ac0237f",
     "slug": "pellegrini-volevo-solo-giocare-ma-la-roma-spende-2-2f3c83f08ac0237f",
     "title": "Pellegrini: «Volevo solo giocare» ma la Roma spende 24 milioni per un rendimento da 10 milioni",
@@ -9448,21 +9467,6 @@
       "afrikaner emigrazione",
       "politica migratoria usa"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "be41136c56dd2a3f",
-    "slug": "bologna-celebra-francesco-nel-2026-con-un-concerto-be41136c56dd2a3f",
-    "title": "Bologna ricorda il santo con gli ensemble flos misicae ed exaquier",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-15T10:13:44.980135+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/15/0e29f94a911a98aab06c43235b02710a.jpg",
-    "occhiello": "BOLOGNA RICORDA IL SANTO CON GLI ENSEMBLE FLOS MISICAE ED EXAQUIER",
-    "lead_preview": "Bologna, 15 ottobre 2026. Il cartellone culturale cittadino accoglie l'appuntamento musicale dedicato agli ottocento ann",
-    "tags": [],
     "hero_eligible": true
   }
 ]
