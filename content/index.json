@@ -1,5 +1,24 @@
 [
   {
+    "id": "1a6f69e917f77502",
+    "slug": "just-un-illusion-garrel-in-una-commedia-molto-ital-1a6f69e917f77502",
+    "title": "'just un illusion', garrel in una commedia molto italiana",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-18T15:52:09.276217+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/1ec11f43284f1697edbfbcc81186bb4f.jpg",
+    "occhiello": "'JUST UN ILLUSION', GARREL IN UNA COMMEDIA MOLTO ITALIANA",
+    "lead_preview": "MAIUSCOLO L’ATTORE ITALIANO IN UNA COMMEDIA CHE NON È SUO STILE Garrel, 18 ottobre. Il 75enne attore tedesco, simbolo di",
+    "tags": [
+      "garrel in commedia italiana",
+      "cinema europeo in italia",
+      "garrel 75enne"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fd138680384b80f6",
     "slug": "calcio-udinese-lecce-in-diretta-su-dazn-ma-sky-cos-fd138680384b80f6",
     "title": "Calcio: Udinese vs Lecce su DAZN, ma Sky costringe a opzioni nascoste: ecco come vederla",
@@ -14,25 +33,6 @@
     "tags": [
       "calcio",
       "dazn"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1a6f69e917f77502",
-    "slug": "just-un-illusion-garrel-in-una-commedia-molto-ital-1a6f69e917f77502",
-    "title": "'just un illusion', garrel in una commedia molto italiana",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-18T15:52:09.276217+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/1ec11f43284f1697edbfbcc81186bb4f.jpg",
-    "occhiello": "'JUST UN ILLUSION', GARREL IN UNA COMMEDIA MOLTO ITALIANA",
-    "lead_preview": "MAIUSCOLO L’ATTORE ITALIANO IN UNA COMMEDIA CHE NON È SUO STILE Garrel, 18 ottobre. Il 75enne attore tedesco, simbolo di",
-    "tags": [
-      "garrel in commedia italiana",
-      "cinema europeo in italia",
-      "garrel 75enne"
     ],
     "hero_eligible": true
   },
