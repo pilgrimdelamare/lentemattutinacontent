@@ -1,5 +1,24 @@
 [
   {
+    "id": "6a7a04aa32f851e5",
+    "slug": "roma-20-ottobre-6a7a04aa32f851e5",
+    "title": "Energia: tetto gas a 60 euro, il risparmio vola via nei costi nascosti",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-20T03:38:40.447884+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/19/194749370-4dbcf315-e144-4a1d-aa39-a1346180a111.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 20 ottobre. Il governo sta valutando un intervento per limitare il prezzo del gas sotto i 60 euro al megawattora, ",
+    "tags": [
+      "energia",
+      "prezzi",
+      "gas"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c946c549d314c881",
     "slug": "frontex--56-arrivi-in-mediterraneo-centrale-ma-15m-c946c549d314c881",
     "title": "Frontex: -56% arrivi in Mediterraneo, 15mila migranti spariti tra pattuglie e maremoti",
@@ -3228,25 +3247,6 @@
       "salute",
       "budget",
       "healthcare"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6a7a04aa32f851e5",
-    "slug": "roma-20-ottobre-6a7a04aa32f851e5",
-    "title": "Roma, 20 ottobre",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-20T03:38:40.447884+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/19/194749370-4dbcf315-e144-4a1d-aa39-a1346180a111.jpg",
-    "occhiello": "",
-    "lead_preview": "Roma, 20 ottobre. Il governo sta valutando un intervento per limitare il prezzo del gas sotto i 60 euro al megawattora, ",
-    "tags": [
-      "energia",
-      "prezzi",
-      "gas"
     ],
     "hero_eligible": true
   },
