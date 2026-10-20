@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "Max 40 parole. Il fatto secco: YouTube è down, da quando, impatto sugli utenti i",
+  "title": "YouTube è tornato online dopo 37 minuti di interruzione.",
   "titles": [
-    "Max 40 parole. Il fatto secco: YouTube è down, da quando, impatto sugli utenti i",
-    "Max 40 parole. Il fatto secco: YouTube è down, da quando, impatto sugli utenti i",
-    "Max 40 parole. Il fatto secco: YouTube è down, da quando, impatto sugli utenti i"
+    "YouTube è tornato online dopo 37 minuti di interruzione.",
+    "YouTube è tornato online dopo 37 minuti di interruzione.",
+    "YouTube è tornato online dopo 37 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE ALERT TECNICO URGENTE.",
-  "lead": "Max 40 parole. Il fatto secco: YouTube è down, da quando, impatto sugli utenti italiani.",
-  "corpo1": "80-100 parole. YouTube è irraggiungibile da 29 minuti, causando disordini tra gli utenti italiani. Alcune funzionalità, come la ricerca e la visualizzazione dei video, sono inaccessibili. Stiamo monitorando la situazione e ti consigliamo di verificare eventuali problemi con altri servizi online prima di ricercare informazioni su YouTube. Se hai bisogno di aiuto per trovare alternative, chiedi ai nostri assistenti virtuali.",
+  "occhiello": "YOUTUBE RIPRISTINATO",
+  "lead": "YouTube è tornato online dopo 37 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 37 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:42:35.681597+00:00",
+  "published_at": "2026-10-20T00:51:27.727064+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Microsoft abbandona il data center IA britannico: Nscale promette il 2030 per l’elettricità",
-      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
-      "id": "65bf6172b0014693",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "Santiaga: il popolo cambia opinione sugli episodi del",
-      "url": "/esteri/santiaga-il-popolo-cambia-opinione-sugli-episodi-d-2e41cdef70d98415",
-      "id": "2e41cdef70d98415",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/f71c4876638dd3cc580f1793df1a41c5.jpg",
+      "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Il Presidente regionale dell’Umbria: Quando un premio letterario è una propaganda",
-      "url": "/cultura/perche-ero-ragazzo-lumbria-premia-un-libro-fantasm-cba180ec81f102ea",
-      "id": "cba180ec81f102ea",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/beac7e13ffc36d5740d5b48d61b9506a.jpg",
+      "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     }
   ],
