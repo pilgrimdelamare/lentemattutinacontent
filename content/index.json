@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_netflix",
+    "slug": "disservizio-netflix",
+    "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-20T00:51:26.912134+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/netflix.com",
+    "occhiello": "NETFLIX RIATTIVATO. DISSENSO RISOLTO.",
+    "lead_preview": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli utenti possono accedere nuovamente senza",
+    "tags": [
+      "downtime",
+      "netflix",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
@@ -33,25 +52,6 @@
     "tags": [
       "downtime",
       "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_netflix",
-    "slug": "disservizio-netflix",
-    "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-20T00:42:47.503386+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/netflix.com",
-    "occhiello": "NETFLIX IN DOWN",
-    "lead_preview": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "netflix",
       "disservizi"
     ],
     "hero_eligible": false
