@@ -1,5 +1,24 @@
 [
   {
+    "id": "68810e02e19fbc32",
+    "slug": "un-proiettile-colpisce-sala-operatoria-bambino-di-68810e02e19fbc32",
+    "title": "\"Un proiettile colpisce Sala operatoria: bambino di 12 anni ferito in ospedale pediatrico di Kiev\"",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-20T17:36:34.991657+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/ae85264daecf92403ef8c0fa6bb235eb.jpg",
+    "occhiello": "KIEV, 'ATTACCO RUSSO CONTRO UN OSPEDALE DI KIEV, COLPITA SALA OPERATORIA'",
+    "lead_preview": "Kiev, 20 ottobre Un proiettile ha colpito questa mattina la sala operatoria dell’ospedale pediatrico di Kiev, ferendo un",
+    "tags": [
+      "attacco ospedale pediatrico kiev",
+      "feriti guerra ucraina",
+      "colpo russo sala operatoria"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "64874043c72d62ee",
     "slug": "crosetto-cdm-approvi-norma-su-militari-con-funzion-64874043c72d62ee",
     "title": "Gli stati-capo approvano decreto militare in breve scadenza",
@@ -9441,25 +9460,6 @@
       "omaggiare compositore",
       "concertino teatro",
       "omaggiare maestro invisibile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4a67c9c276366e67",
-    "slug": "salvini-accusa-la-tim-sabotaggio-ai-sistemi-enav-1-4a67c9c276366e67",
-    "title": "Salvini accusa la Tim: «Sabotaggio su 3 aeroporti chiude 150 voli in un’ora, Enav in emergenza»",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-16T19:01:48.754054+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/184d8d33a137ae1932357317001e2fe5.jpg",
-    "occhiello": "CAOS NEI CIELI ITALIANI, CANCELLAZIONI E RITARDI PER I VOLI",
-    "lead_preview": "Roma, 16 ottobre L’Enav ha dichiarato «anomalie sulla rete dei sistemi di controllo» del traffico aereo italiano, con ca",
-    "tags": [
-      "aeroporti",
-      "cancellazioni",
-      "ritardi"
     ],
     "hero_eligible": true
   }
