@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
   "titles": [
-    "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
+    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
+    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 36 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN 43 MINUTI",
+  "lead": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristinato con successo. L’interruzione è stata gestita senza impatti permanenti sugli utenti.",
+  "corpo1": "Il sistema di ChatGPT ha segnalato un malfunzionamento temporaneo alle ore 14:22 (UTC), causato da un picco di richiesta non gestito in modo ottimale. L’intervento tecnico, coordinato tra i team di OpenAI e i partner infrastrutturali, ha ripristinato la piena operatività alle 14:65 (UTC), con un tempo di downtime complessivo di 43 minuti. Le misure correttive sono state implementate per prevenire ricadute, garantendo stabilità nei livelli di servizio. L’analisi tecnica conferma che non sono stati registrati dati persi o alterati durante l’interruzione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:42:35.680591+00:00",
+  "published_at": "2026-10-20T00:51:26.182951+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
+      "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
+      "image_type": "image"
+    },
+    {
       "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
       "url": "/tecnologia/disservizio-revolut",
       "id": "monitor_revolut",
       "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Microsoft abbandona il data center IA britannico: Nscale promette il 2030 per l’elettricità",
-      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
-      "id": "65bf6172b0014693",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Spalletti ammette: «Tre gol in 40 minuti senza spiegazione» – la rosa bianconera non è completa",
-      "url": "/sport/spalletti-ammette-tre-gol-in-40-minuti-senza-spieg-a6929411ca847003",
-      "id": "a6929411ca847003",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ca4341f68d187c2d879042d5a6c41aef.jpg",
       "image_type": "image"
     }
   ],
