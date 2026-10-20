@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_revolut",
+    "slug": "disservizio-revolut",
+    "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-20T00:42:35.681597+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/revolut.com",
+    "occhiello": "REVOLUT IN DOWN",
+    "lead_preview": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "revolut",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "35c84bc65c8e39ff",
     "slug": "traduzione-italiana-in-cucina-ceca-35c84bc65c8e39ff",
     "title": "Si conclude a praga l'edizione 2026 di pordenonelegge",
@@ -9446,25 +9465,6 @@
       "acquisizione unicredit-commerzbank",
       "bce approva fusione bancaria",
       "germania perde seconda banca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1ba51bfba2b6f3c",
-    "slug": "f1-academy-larsen-17enne-sfida-le-regole-e-vince-i-d1ba51bfba2b6f3c",
-    "title": "F1 Academy: Larsen 17enne sfida le regole e vince il terzo anno senza limiti",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-16T15:34:54.833575+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/11a273481947eb03822f03d24bc45fdbd9f7e6d8/skysport/it/motori/formula-1/2026/10/16/f1-academy-alba-larsen-deroga/f1_academy_instagram_alba_larsen_2026.jpg",
-    "occhiello": "F1 ACADEMY, DEROGA STORICA PER ALBA LARSEN (FERRARI ACADEMY): CORRERÀ UNA TERZA ",
-    "lead_preview": "F1 Academy, Austin: la deroga che apre la strada a un nuovo paradigma Alba Larsen, 17 anni, diventa la prima pilota a sf",
-    "tags": [
-      "f1 academy alba larsen",
-      "deroga f1 academy",
-      "pilota under 18 f1"
     ],
     "hero_eligible": true
   }
