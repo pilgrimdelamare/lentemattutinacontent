@@ -1,5 +1,24 @@
 [
   {
+    "id": "c8b9f786f9b2011f",
+    "slug": "le-vacanze-dei-papi-raccontate-in-un-libro-del-pro-c8b9f786f9b2011f",
+    "title": "Le vacanze dei papi raccontate in un libro del pronipote di giovanni xxiii",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-19T19:00:07.904104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "LE VACANZE DEI PAPI RACCONTATE IN UN LIBRO DEL PRONIPOTE DI GIOVANNI XXIII",
+    "lead_preview": "Emanuele Roncalli scava tra i carteggi inediti di un pontefice: le vacanze dei Papi come affare di famiglia Roma, 19 ott",
+    "tags": [
+      "libro vacanze papi",
+      "giovanni xxiii memorie",
+      "emanuele roncalli famiglia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a1571fe45661d73b",
     "slug": "st-pauli-sfida-la-censura-4000-brani-per-linno-bel-a1571fe45661d73b",
     "title": "St. Pauli sfida la censura: 4000 brani per l’inno, ‘Bella ciao’ torna in pista contro i nazisti",
@@ -2358,25 +2377,6 @@
       "data center",
       "abbandono",
       "energia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c8b9f786f9b2011f",
-    "slug": "le-vacanze-dei-papi-raccontate-in-un-libro-del-pro-c8b9f786f9b2011f",
-    "title": "Le vacanze dei papi raccontate in un libro del pronipote di giovanni xxiii",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-19T19:00:07.904104+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "LE VACANZE DEI PAPI RACCONTATE IN UN LIBRO DEL PRONIPOTE DI GIOVANNI XXIII",
-    "lead_preview": "MAIUSCOLO Emanuele Roncalli scava tra i carteggi inediti di un pontefice: le vacanze dei Papi come affare di famiglia Ro",
-    "tags": [
-      "libro vacanze papi",
-      "giovanni xxiii memorie",
-      "emanuele roncalli famiglia"
     ],
     "hero_eligible": true
   },
