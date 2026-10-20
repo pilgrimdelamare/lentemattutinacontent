@@ -1,5 +1,23 @@
 [
   {
+    "id": "f290588f6f09732b",
+    "slug": "177-giorni-di-silenzio-annunciate-f290588f6f09732b",
+    "title": "177 Giorni di silenzio annunciate",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-20T17:08:13.887924+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/20/cfb50e373493dffe87feabb34ac8a522.jpg",
+    "occhiello": "FAROUK KASSAM, 'LA SERIE SUL MIO RAPIMENTO UN AIUTO NELL'AFFRONTARE IL TRAUMA'",
+    "lead_preview": "MAIUSCOLO 177 GIORNI DI SILENZIO PAGATO CON I TASSELLI DELLA MEMORIA Roma, 20 ottobre. Farouk Kassam, il bambino belga-c",
+    "tags": [
+      "caso farouk kassam",
+      "rapimento porto cervo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "976cb0d33314ac74",
     "slug": "tennis-moutet-piega-humbert-in-3h20-e-trasforma-il-976cb0d33314ac74",
     "title": "Tennis: Moutet piega Humbert in 3h20 e trasforma il crampo in spettacolo mediatico",
@@ -9445,25 +9463,6 @@
       "festival cinema ibero-latino trieste",
       "cinema indipendente italia",
       "cultura regionale friuli venezia giulia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "508a76ea225f0e5d",
-    "slug": "gas-a-89mwh-litalia-tra-record-e-bollette-che-espl-508a76ea225f0e5d",
-    "title": "Il gas sale a 89 euro sul mercato di amsterdam (+2,9%)",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-16T18:15:48.851794+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/9/23/984d4636072d76e12f7b9e27fbb1a49d.jpg",
-    "occhiello": "IL GAS SALE A 89 EURO SUL MERCATO DI AMSTERDAM (+2,9%)",
-    "lead_preview": "Amsterdam, 16 ottobre Il prezzo del gas naturale sul mercato TTF di Amsterdam ha superato gli 89 euro per megawattora, c",
-    "tags": [
-      "prezzi gas ttf",
-      "mercato energetico amsterdam",
-      "crisi gas europa"
     ],
     "hero_eligible": true
   }
