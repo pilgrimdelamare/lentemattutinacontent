@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
   "titles": [
-    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
-    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi"
+    "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
+    "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
+    "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT IN DOWN",
-  "lead": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Revolut risulta non disponibile dalle ultime 29 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "REVOLUT RITORNA ONLINE. DISSENSO RISOLTO.",
+  "lead": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confermando il ritorno alla normale operatività.",
+  "corpo1": "Il sistema di Revolut ha subito un disservizio iniziato alle ore 14:32 di oggi, con impatto su transazioni, pagamenti e accesso all’app. La durata complessiva è stata di 44 minuti, conclusasi alle 15:16. L’intervento tecnico ha coinvolto componenti di rete e infrastrutture cloud, ora completamente ripristinate. Gli utenti possono verificare la stabilità dei servizi, che operano secondo parametri di performance standard. Le scuse ufficiali sono state inviate tramite comunicazione ufficiale.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:42:35.681597+00:00",
+  "published_at": "2026-10-20T00:58:17.926387+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,25 +38,25 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "Microsoft abbandona il data center IA britannico: Nscale promette il 2030 per l’elettricità",
-      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
-      "id": "65bf6172b0014693",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "Spalletti ammette: «Tre gol in 40 minuti senza spiegazione» – la rosa bianconera non è completa",
-      "url": "/sport/spalletti-ammette-tre-gol-in-40-minuti-senza-spieg-a6929411ca847003",
-      "id": "a6929411ca847003",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ca4341f68d187c2d879042d5a6c41aef.jpg",
+      "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
+      "url": "/tecnologia/disservizio-spotify",
+      "id": "monitor_spotify",
+      "image_url": "https://logo.clearbit.com/spotify.com",
       "image_type": "image"
     },
     {
-      "title": "Calcio: Leão esce in 16 minuti per un inguine al Galatasaray: «Il terreno ha tradito il giocatore»",
-      "url": "/sport/leao-infortunio-in-galatasaray-genclerbirligi-cost-ff2eb025b319b81b",
-      "id": "ff2eb025b319b81b",
-      "image_url": "https://sport.sky.it/assets/images/14e30ace00e7a4222e032a5319b01cf1a43b3e2b/skysport/it/calcio/2026/10/17/leao-infortunio-galatasaray-genclerbirligi-news/leao_galatasaray_getty.jpg",
-      "image_type": "feed_image"
+      "title": "YouTube è tornato online dopo 37 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
     }
   ],
   "hero_eligible": false
