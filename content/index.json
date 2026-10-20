@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-20T00:51:26.449471+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY RIATTIVATO. DISSENSO SUPERATO.",
+    "lead_preview": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, confermando la risoluzione del malfunzionam",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
@@ -9446,25 +9465,6 @@
       "festival jazz cortona 2023",
       "fay victor esibizione",
       "steve cardenas cortona"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f8f3e1cf529a4576",
-    "slug": "generali-per-la-prima-volta-sul-mercato-dei-lloyds-f8f3e1cf529a4576",
-    "title": "Generali per la prima volta sul mercato dei lloyd's con un syndicate",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-16T15:44:58.309210+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/30/5f21d52ac9e1f6ace12be84cbd4d451f.jpg",
-    "occhiello": "GENERALI PER LA PRIMA VOLTA SUL MERCATO DEI LLOYD'S CON UN SYNDICATE",
-    "lead_preview": "Lloyd’s, Londra, 16 ottobre Generali ha appena comprato un pezzo del mercato delle riassicurazioni più esclusivo al mond",
-    "tags": [
-      "generali lloyds",
-      "riassicurazioni lloyds",
-      "sindacato lloyds"
     ],
     "hero_eligible": true
   }
