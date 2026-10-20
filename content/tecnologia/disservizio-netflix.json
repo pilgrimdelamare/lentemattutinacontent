@@ -1,17 +1,17 @@
 {
   "id": "monitor_netflix",
   "slug": "disservizio-netflix",
-  "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
+  "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Netflix è tornato online dopo 353 minuti di interruzione.",
-    "Netflix è tornato online dopo 353 minuti di interruzione.",
-    "Netflix è tornato online dopo 353 minuti di interruzione."
+    "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "NETFLIX RIPRISTINATO",
-  "lead": "Netflix è tornato online dopo 353 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Netflix è stato risolto. L'interruzione è durata circa 353 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "NETFLIX IN DOWN",
+  "lead": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Netflix risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:32:29.735897+00:00",
+  "published_at": "2026-10-20T00:42:47.503386+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/netflix.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-netflix",
   "related": [
     {
-      "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
+      "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     },
     {
-      "title": "TikTok è tornato online dopo 92 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "ChatGPT è irraggiungibile da 36 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare è tornato online dopo 176 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
