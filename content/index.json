@@ -1,5 +1,24 @@
 [
   {
+    "id": "c8b9f786f9b2011f",
+    "slug": "le-vacanze-dei-papi-raccontate-in-un-libro-del-pro-c8b9f786f9b2011f",
+    "title": "Le vacanze dei papi raccontate in un libro del pronipote di giovanni xxiii",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-19T19:00:07.904104+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "LE VACANZE DEI PAPI RACCONTATE IN UN LIBRO DEL PRONIPOTE DI GIOVANNI XXIII",
+    "lead_preview": "MAIUSCOLO Emanuele Roncalli scava tra i carteggi inediti di un pontefice: le vacanze dei Papi come affare di famiglia Ro",
+    "tags": [
+      "libro vacanze papi",
+      "giovanni xxiii memorie",
+      "emanuele roncalli famiglia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f2f2de3144af0394",
     "slug": "protesta-tir-bloccato-varco-al-porto-di-napoli-f2f2de3144af0394",
     "title": "Napoli, autostrada bloccata: 300 tir fermi, 2,5 milioni persi!",
@@ -2644,25 +2663,6 @@
       "perturbazione atlanticainliguria",
       "pioggeabbondanordovest",
       "temporaliinpiemonte"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c8b9f786f9b2011f",
-    "slug": "le-vacanze-dei-papi-raccontate-in-un-libro-del-pro-c8b9f786f9b2011f",
-    "title": "Le vacanze dei papi raccontate in un libro del pronipote di giovanni xxiii",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-19T19:00:07.904104+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "LE VACANZE DEI PAPI RACCONTATE IN UN LIBRO DEL PRONIPOTE DI GIOVANNI XXIII",
-    "lead_preview": "MAIUSCOLO Emanuele Roncalli scava tra i carteggi inediti di un pontefice: le vacanze dei Papi come affare di famiglia Ro",
-    "tags": [
-      "libro vacanze papi",
-      "giovanni xxiii memorie",
-      "emanuele roncalli famiglia"
     ],
     "hero_eligible": true
   },
