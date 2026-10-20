@@ -1,17 +1,17 @@
 {
   "id": "monitor_revolut",
   "slug": "disservizio-revolut",
-  "title": "Revolut è tornato online dopo 476 minuti di interruzione.",
+  "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
   "titles": [
-    "Revolut è tornato online dopo 476 minuti di interruzione.",
-    "Revolut è tornato online dopo 476 minuti di interruzione.",
-    "Revolut è tornato online dopo 476 minuti di interruzione."
+    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
+    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
+    "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "REVOLUT RIPRISTINATO",
-  "lead": "Revolut è tornato online dopo 476 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Revolut è stato risolto. L'interruzione è durata circa 476 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "REVOLUT IN DOWN",
+  "lead": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Revolut risulta non disponibile dalle ultime 29 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:37:46.169777+00:00",
+  "published_at": "2026-10-20T00:42:35.681597+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/revolut.com",
@@ -38,25 +38,25 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-revolut",
   "related": [
     {
-      "title": "ChatGPT è tornato online dopo 129 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Microsoft abbandona il data center IA britannico: Nscale promette il 2030 per l’elettricità",
+      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
+      "id": "65bf6172b0014693",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
       "image_type": "image"
     },
     {
-      "title": "Netflix è tornato online dopo 353 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Spalletti ammette: «Tre gol in 40 minuti senza spiegazione» – la rosa bianconera non è completa",
+      "url": "/sport/spalletti-ammette-tre-gol-in-40-minuti-senza-spieg-a6929411ca847003",
+      "id": "a6929411ca847003",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ca4341f68d187c2d879042d5a6c41aef.jpg",
       "image_type": "image"
     },
     {
-      "title": "Satispay è tornato online dopo 470 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
+      "title": "Calcio: Leão esce in 16 minuti per un inguine al Galatasaray: «Il terreno ha tradito il giocatore»",
+      "url": "/sport/leao-infortunio-in-galatasaray-genclerbirligi-cost-ff2eb025b319b81b",
+      "id": "ff2eb025b319b81b",
+      "image_url": "https://sport.sky.it/assets/images/14e30ace00e7a4222e032a5319b01cf1a43b3e2b/skysport/it/calcio/2026/10/17/leao-infortunio-galatasaray-genclerbirligi-news/leao_galatasaray_getty.jpg",
+      "image_type": "feed_image"
     }
   ],
   "hero_eligible": false
