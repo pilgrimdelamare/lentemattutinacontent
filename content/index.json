@@ -1,5 +1,24 @@
 [
   {
+    "id": "a96fa7f5ef3c3caa",
+    "slug": "enel-ed-edison-alzano-le-bollette-12-in-ottobre-pr-a96fa7f5ef3c3caa",
+    "title": "Gas a 85 euro/MWh: l’Europa sotto pressione, stoccaggi al 78% e il GNL italiano cresce del 30%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-20T06:25:10.752596+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/29/fcaef9fdfc06e2178c8c9f5723d378ec.jpg",
+    "occhiello": "",
+    "lead_preview": "Amsterdam, 20 ottobre. Il prezzo del gas naturale sul mercato TTF di Amsterdam è salito dello 0,2% rispetto alla chiusur",
+    "tags": [
+      "energia",
+      "prezzi",
+      "gas naturale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f8df393d04373f2c",
     "slug": "giana-erminio-union-brescia-2-1-gol-e-highlights-f8df393d04373f2c",
     "title": "Serie C: 1,2 milioni di rosso per la Giana, l’Union Brescia investe 800mila in un solo acquisto",
@@ -3258,25 +3277,6 @@
       "acquisizione maire nextchem",
       "chimica verde meab",
       "operazione segreta maire"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a96fa7f5ef3c3caa",
-    "slug": "enel-ed-edison-alzano-le-bollette-12-in-ottobre-pr-a96fa7f5ef3c3caa",
-    "title": "ENEL ed Edison alzano le bollette: +12% in ottobre, profitti da 3 miliardi ma non tagliano i margini",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-20T06:25:10.752596+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/29/fcaef9fdfc06e2178c8c9f5723d378ec.jpg",
-    "occhiello": "",
-    "lead_preview": "Amsterdam, 20 ottobre. Il prezzo del gas naturale sul mercato TTF di Amsterdam è salito dello 0,2% rispetto alla chiusur",
-    "tags": [
-      "bollette enel edison ottobre 2023",
-      "aumento prezzo gas ttf",
-      "profitti enel edison 2023"
     ],
     "hero_eligible": true
   },
