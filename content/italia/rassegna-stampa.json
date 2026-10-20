@@ -1,17 +1,17 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 19 ottobre 2026",
+  "title": "Le prime pagine di oggi, martedì 20 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 19 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 19 ottobre 2026",
-    "Le prime pagine di oggi, lunedì 19 ottobre 2026"
+    "Le prime pagine di oggi, martedì 20 ottobre 2026",
+    "Le prime pagine di oggi, martedì 20 ottobre 2026",
+    "Le prime pagine di oggi, martedì 20 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
   "occhiello": "",
-  "lead": "I quotidiani italiani aprono oggi con la cronaca dei nuovi scontri a Milano, che si protraggono per il secondo giorno consecutivo, con devastazioni, saccheggi e fermi di minorenni. *Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* dedicano le prime pagine alla violenza in centro, citando le dichiarazioni di Giorgia Meloni e le reazioni politiche. *Il Sole 24 Ore* e *La Gazzetta dello Sport* si concentrano su temi diversi: l’impatto dell’inflazione sui bonus fiscali e la vittoria della Lazio in campionato. *La Repubblica* e *Corriere della Sera* approfondiscono anche il fenomeno delle convocazioni social tramite hashtag.",
-  "corpo1": "Il *Corriere della Sera* apre con “Teppisti a Milano, nuovi raid”, descrivendo il secondo giorno di guerriglia urbana nel centro milanese, con scontri e saccheggi. Il titolo sottolinea le parole di Meloni, che annuncia un vertice d’urgenza per contrastare il caos. Segue “Le convocazioni social, il mistero dell’hashtag” e un focus sugli stipendi dei magistrati. *La Repubblica* titola “La guerra dei ragazzini”, riferendosi alle devastazioni e ai saccheggi, accompagnato dall’intervista a Francesco Calabresi, che definisce “tragico errore” confondere violenza e protesta. Sullo sfondo, le opinioni “Cattivi maestri e rabbia diffusa” e “Non cambierò idea: i giovani hanno ragione”. *La Stampa* dedica la prima pagina a “Un altro giorno di devastazioni”, illustrando i danni ai negozi e gli scontri con la polizia, con un’intervista a Carlo Cacciari che denuncia il senso di tradimento dei giovani. Macron viene citato per le dichiarazioni sulla punizione dei casseur. *Il Messaggero* titola “Inaccettabile”, evidenziando i 200 fermi tra manifestanti, l’80% minorenni, e le dichiarazioni di Meloni su un possibile stop agli arretrati ai giudici.",
+  "lead": "Oggi i quotidiani italiani dedicano ampio spazio alle misure di sicurezza adottate a Milano dopo gli scontri del fine settimana, con l’arrivo di 500 soldati e nuove disposizioni governative per contrastare la violenza. *Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* titolano sulla stretta sulle strade e sui negozi del lusso chiusi per timore di saccheggi. *La Gazzetta dello Sport* e *Corriere dello Sport* si concentrano invece sulla crisi della Juventus, con il tecnico Spalletti al centro delle polemiche. *La Repubblica* anticipa inoltre il decreto che estende misure severe ai minorenni.",
+  "corpo1": "*Corriere della Sera* apre con l’arrivo dei 500 soldati a Milano e le ipotesi del governo di introdurre il fermo preventivo e il divieto di aggregazione, dopo gli scontri del week-end. Il presidente Mattarella condanna la violenza in un messaggio riportato in apertura. Il quotidiano segnala anche la stretta sui minori, con il governo che prepara un decreto per limitare le libertà degli under 18 in caso di reati gravi.\n\n*La Repubblica* titola su una “legge speciale per minorenni”, presentando il decreto che introduce il fermo preventivo e l’arresto differito per gli under 18, oltre all’aumento delle pene per i reati di devastazione. Il presidente Mattarella invita a valutazioni ponderate, mentre il testo del provvedimento viene anticipato in prima pagina. In secondo piano, il quotidiano conferma l’arrivo dei soldati a Milano e la chiusura dei negozi di lusso per precauzione.\n\n*La Stampa* dedica la prima pagina alla “Milano blindata”, con l’imminente dispiegamento di 500 militari e la chiusura di negozi del centro per evitare nuovi saccheggi. Il governo Meloni rafforza le misure contro i minori, mentre il presidente Trump attribuisce le proteste all’immigrazione. A centro pagina, il quotidiano segnala i tag ai fondi per Gaza e le tensioni in Ucraina, con l’Italia che offre due satelliti a Kiev.\n\n*Il Messaggero* titola “Milano chiude”, descrivendo le saracinesche abbassate e le vetrine svuotate in centro per paura di nuovi episodi di violenza. Il governo annuncia l’invio di ulteriori 500 soldati, mentre papa Francesco e Zelensky si scambiano chiamate dopo il contatto tra il Pontefice e Putin. In apertura si menziona anche l’offerta italiana di supporto tecnologico militare a Kiev.\n\n*La Gazzetta dello Sport* apre con il futuro in bilico di Luciano Spalletti alla Juventus, dopo l’inizio di campionato deludente e l’esaurimento dei bonus per il tecnico. Il quotidiano riporta le tensioni tra Spalletti e la dirigenza, con i tifosi che chiedono Conte in panchina. In secondo piano, la sfida di Champions tra Roma e Napoli in programma stasera.\n\n*Corriere dello Sport* conferma la crisi bianconera, titolando “Juve ancora con Spalletti, ma servono risposte”. Il club difende il tecnico dopo le prime giornate, mentre Bremer si scusa pubblicamente per la sconfitta contro il Napoli. Il quotidiano anticipa i cambiamenti in vista della sfida contro il Napoli in Champions League.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-19T05:46:02.195991+00:00",
+  "published_at": "2026-10-20T05:46:00.976695+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/faea32efa5d64a131e6bec3767c4b99d65e035a8/skytg24/it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre/cor.jpg",
+    "url": "https://tg24.sky.it/assets/images/92f8faecf739a218c5cb92e9adf3afb6fcf2353e/skytg24/it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 19 ottobre 2026",
+      "title": "Oroscopo di oggi, martedì 20 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Le famiglie delle vittime del 7 ottobre e degli ostaggi chiedono un'indagine pen",
-      "url": "/esteri/le-famiglie-delle-vittime-del-7-ottobre-e-degli-os-47954adb19478459",
-      "id": "47954adb19478459",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/7bb33195ce3226e297b4e71b218869a3.jpg",
+      "title": "Roma, 20 ottobre",
+      "url": "/economia/roma-20-ottobre-6a7a04aa32f851e5",
+      "id": "6a7a04aa32f851e5",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/19/194749370-4dbcf315-e144-4a1d-aa39-a1346180a111.jpg",
       "image_type": "image"
     },
     {
-      "title": "Ettore bassi, 'promessi sposi scritto oggi sarebbe serie tv lunghissima'",
-      "url": "/cultura/ettore-bassi-promessi-sposi-scritto-oggi-sarebbe-s-5829cac6ef821988",
-      "id": "5829cac6ef821988",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ae774f3abc8ccb764cc4f8cc01082134.jpg",
+      "title": "Il cavallo colossale di canova torna a bassano il 27 ottobre",
+      "url": "/cultura/bassano-riavvolge-la-storia-il-cavallo-di-canova-t-fb40443f246a08a6",
+      "id": "fb40443f246a08a6",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/d8e4321b1dd0c7a1963f3e59df6ec738.jpg",
       "image_type": "image"
     }
   ],
