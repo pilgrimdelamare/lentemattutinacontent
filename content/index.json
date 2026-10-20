@@ -1,5 +1,24 @@
 [
   {
+    "id": "8b0ccc1186160575",
+    "slug": "nasdaq-fallisce-per-le-aziende-tecnologiche-8b0ccc1186160575",
+    "title": "Wall street apre contrastata, dj a -0,11% e nasdaq a +1,07%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-19T13:56:23.554330+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
+    "occhiello": "WALL STREET APRE CONTRASTATA, DJ A -0,11% E NASDAQ A +1,07%",
+    "lead_preview": "MAIUSCOLO L’S&P 500 SALTA AL +0,54% MENTRE IL NASDAQ FA IL BAGNO DELLE AZIONI TECH New York, 19 ottobre L’S&P 500 ha chi",
+    "tags": [
+      "mercati azionari usa",
+      "s&p 500 +0,54%",
+      "nasdaq tech -0,54%"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "79fcb0f2ae516933",
     "slug": "macron-critica-carenze-ordine-pubblico-ma-respinge-79fcb0f2ae516933",
     "title": "Macron critica 'carenze' ordine pubblico ma respinge dimissioni ministro interno",
@@ -2740,25 +2759,6 @@
       "tetto prezzo gas 2027",
       "sconto bollette famiglie",
       "decreto governo gas"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8b0ccc1186160575",
-    "slug": "nasdaq-fallisce-per-le-aziende-tecnologiche-8b0ccc1186160575",
-    "title": "Nasdaq fallisce per le aziende tecnologiche",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-19T13:56:23.554330+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/4/e07c6093987652cb419184d64580b548.jpg",
-    "occhiello": "WALL STREET APRE CONTRASTATA, DJ A -0,11% E NASDAQ A +1,07%",
-    "lead_preview": "MAIUSCOLO L’S&P 500 SALTA AL +0,54% MENTRE IL NASDAQ FA IL BAGNO DELLE AZIONI TECH New York, 19 ottobre L’S&P 500 ha chi",
-    "tags": [
-      "tecnologia",
-      "borsa",
-      "aziende"
     ],
     "hero_eligible": true
   },
