@@ -1,5 +1,24 @@
 [
   {
+    "id": "e9ccf14a082ebb9d",
+    "slug": "in-mostra-al-museo-del-risorgimento-la-cultura-gas-e9ccf14a082ebb9d",
+    "title": "In mostra al museo del risorgimento la cultura gastronomica italiana",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-20T09:19:34.617993+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/20/5f52c0d2eb3e363fa4802f876c85a601.jpg",
+    "occhiello": "IN MOSTRA AL MUSEO DEL RISORGIMENTO LA CULTURA GASTRONOMICA ITALIANA",
+    "lead_preview": "MAIUSCOLO TORINO ESPONE IL RISORGIMENTO CON I FORCHI: MENO PATRIOTISMO, PIÙ PANE E OLIO Torino, 21 ottobre. Dal 21 ottob",
+    "tags": [
+      "mostra risorgimento torino",
+      "cultura gastronomica italiana",
+      "mangiare il risorgimento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "28c5df94755c2e55",
     "slug": "forte-presenza-italiana-alla-fiera-oilgas-di-vaca-28c5df94755c2e55",
     "title": "Pianta Italiana in Argentina: il sogno di risparmiare energia",
@@ -9449,21 +9468,6 @@
       "intossicazione",
       "delitto"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "51097d38bbaa7cc3",
-    "slug": "coppa-davis-ferrer-non-sara-piu-il-capitano-della-51097d38bbaa7cc3",
-    "title": "Coppa davis, ferrer non sarà più il capitano della spagna dalla fine del 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-16T07:43:36.777494+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/21df93680b327140406ebdfd869d0b53feb90e60/skysport/it/tennis/2026/10/16/ferrer-spagna-capitano-davis-addio/david_ferrer_ansa.jpg",
-    "occhiello": "COPPA DAVIS, FERRER NON SARÀ PIÙ IL CAPITANO DELLA SPAGNA DALLA FINE DEL 2026",
-    "lead_preview": "Bologna, 16 ottobre David Ferrer rinuncia al ruolo di capitano della Spagna in Coppa Davis con un anno di anticipo, lasc",
-    "tags": [],
     "hero_eligible": true
   }
 ]
