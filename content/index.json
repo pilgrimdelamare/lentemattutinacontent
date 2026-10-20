@@ -1,5 +1,24 @@
 [
   {
+    "id": "846734fb9986f890",
+    "slug": "la-lentezza-mattutina-846734fb9986f890",
+    "title": "La Lentezza Mattutina",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-10-20T10:45:21.401247+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/12/63a646d3d2840d3dc3b6c72e2590c15b.jpg",
+    "occhiello": "CALCIO: SAMPDORIA, SALTA L'ARRIVO DI GIAMPAOLO IN PANCHINA",
+    "lead_preview": "Genova, 20 ottobre La Sampdoria ha cancellato l’accordo per l’ingaggio di Giampaolo, il tecnico che avrebbe dovuto sosti",
+    "tags": [
+      "calcio",
+      "sampdoria",
+      "giampaolo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "38af66925a848796",
     "slug": "calcio-alaba-fuori-fino-alla-pausa-autunnale-udine-38af66925a848796",
     "title": "Calcio: Alaba fuori fino alla pausa autunnale, Udinese punta su Pessina e Zappacosta a 2,7M l’anno",
@@ -9452,25 +9471,6 @@
     "tags": [
       "embargo 1-decyne ue",
       "crisi settore chimico italiano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a876de6c1f36842b",
-    "slug": "maria-grazia-calandrone-e-il-dramma-sotto-la-luce-a876de6c1f36842b",
-    "title": "Maria grazia calandrone e il dramma sotto la luce del sistema",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-16T09:00:49.149610+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/2b869e5a90bb2d0ceec86661371ce00b.jpg",
-    "occhiello": "MARIA GRAZIA CALANDRONE E IL DRAMMA SOTTO LA LUCE DEL SISTEMA",
-    "lead_preview": "MAIUSCOLO \"LA POETESSA CHE HA VERSATO 150 MILA EURO IN UN SISTEMA NON TRASPARENTE\" Roma, 16 ottobre Maria Grazia Calandr",
-    "tags": [
-      "artista",
-      "finanza",
-      "sistema"
     ],
     "hero_eligible": true
   }
