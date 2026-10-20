@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 20 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-20T05:46:00.976695+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/92f8faecf739a218c5cb92e9adf3afb6fcf2353e/skytg24/it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre/1_Corriere.jpg",
+    "occhiello": "",
+    "lead_preview": "Oggi i quotidiani italiani dedicano ampio spazio alle misure di sicurezza adottate a Milano dopo gli scontri del fine se",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "88b4d27442434db1",
     "slug": "tennis-jasmine-paolini-crolla-in-top-30--46-punti-88b4d27442434db1",
     "title": "Tennis: Paolini crolla a 35ª, -46% in una settimana: addio top 10 e sponsorizzazioni",
@@ -4300,25 +4319,6 @@
       "guerra iran",
       "guerra",
       "sacrifici"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 19 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-19T05:46:02.195991+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/faea32efa5d64a131e6bec3767c4b99d65e035a8/skytg24/it/cronaca/2026/10/19/prime-pagine-quotidiani-oggi-19-ottobre/cor.jpg",
-    "occhiello": "",
-    "lead_preview": "I quotidiani italiani aprono oggi con la cronaca dei nuovi scontri a Milano, che si protraggono per il secondo giorno co",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
