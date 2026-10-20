@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-20T01:04:20.936292+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
+    "lead_preview": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2f3c83f08ac0237f",
     "slug": "pellegrini-volevo-solo-giocare-ma-la-roma-spende-2-2f3c83f08ac0237f",
     "title": "Pellegrini: «Volevo solo giocare», ma la Roma spende 24 milioni per un attaccante che delude",
@@ -128,25 +147,6 @@
     "tags": [
       "downtime",
       "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-20T00:42:35.681597+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM IN DOWN",
-    "lead_preview": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
