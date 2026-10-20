@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_netflix",
+    "slug": "disservizio-netflix",
+    "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-20T00:42:47.503386+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/netflix.com",
+    "occhiello": "NETFLIX IN DOWN",
+    "lead_preview": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "netflix",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
@@ -9446,25 +9465,6 @@
       "generali lloyds",
       "riassicurazioni lloyds",
       "sindacato lloyds"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "17fcee6728370a55",
-    "slug": "le-squadre-con-le-migliori-difese-nei-top-5-campio-17fcee6728370a55",
-    "title": "Le squadre con le migliori difese nei top 5 campionati d'europa. classifica",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-16T15:42:12.631977+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/577dbe02008ecc5e24bcc65591fc2231dfd2b359/skysport/it/calcio/squadre-migliore-difesa-top-5-campionati-europa-2026-2027/ipa_mina_ndicka_cagliari_roma.jpg",
-    "occhiello": "LE SQUADRE CON LE MIGLIORI DIFESE NEI TOP 5 CAMPIONATI D'EUROPA. CLASSIFICA",
-    "lead_preview": "Roma, 16 ottobre 2026 La Roma, nonostante i quattro gol subiti dal Real Madrid in Champions League, detiene la miglior d",
-    "tags": [
-      "classifica difese top5 europei",
-      "roma difesa campione",
-      "champions league 2026-27"
     ],
     "hero_eligible": true
   }
