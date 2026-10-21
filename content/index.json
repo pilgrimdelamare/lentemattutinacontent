@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-21T05:48:12.447805+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/8a37ff087cbb29aaf1cef43ee01828a47adc9560/skytg24/it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre/corriere-della-sera-031240oqc1sj0.jpg",
+    "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 21 OTTOBRE 2026: ORDINE PUBBLICO E SPORT",
+    "lead_preview": "Oggi i giornali italiani focalizzano l’attenzione su due filoni principali: da un lato, le misure di ordine pubblico dop",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f5af0cd04edbdf3a",
     "slug": "istat-ad-agosto-produzione-nelle-costruzioni--29-s-f5af0cd04edbdf3a",
     "title": "Istat, ad agosto produzione nelle costruzioni -2,9% su luglio",
@@ -4297,25 +4316,6 @@
       "attacco parlamentare australia",
       "deputata australiana coltello",
       "violenza politica melbourne"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 20 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-20T05:46:00.976695+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/92f8faecf739a218c5cb92e9adf3afb6fcf2353e/skytg24/it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre/1_Corriere.jpg",
-    "occhiello": "",
-    "lead_preview": "Oggi i quotidiani italiani dedicano ampio spazio alle misure di sicurezza adottate a Milano dopo gli scontri del fine se",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
