@@ -1,5 +1,23 @@
 [
   {
+    "id": "8b118e3c96601960",
+    "slug": "milano-21-ottobre-8b118e3c96601960",
+    "title": "Milano, 21 ottobre",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-21T05:30:11.995044+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
+    "occhiello": "",
+    "lead_preview": "Milano, 21 ottobre. Il prezzo del petrolio Brent è schizzato a 110 dollari al barile nei mercati Internazionali, segnand",
+    "tags": [
+      "prezzo petrolio",
+      "brent 110 dollari"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f3c9ffa679b56fe5",
     "slug": "sky-lancia-nevergreen-de-gregori-con-inedito-apre-f3c9ffa679b56fe5",
     "title": "Calcio: De Gregori apre la Champions con un inedito mai visto in tv",
@@ -9413,25 +9431,6 @@
       "grandi opere palermo",
       "ponte corleone",
       "fermata politeama palermo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d675d1bab7caf4a0",
-    "slug": "gasolio-il-prezzo-sulle-autostrade-salta-a-2296-eu-d675d1bab7caf4a0",
-    "title": "Gasolio a +15% in un mese: il governo tace mentre pedaggi e speculatori incassano",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-17T08:17:29.377148+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/7/69ab1fdcf6da3a6d249c479edd0b58af.jpg",
-    "occhiello": "GASOLIO: IL PREZZO SULLE AUTOSTRADE SALTA A 2,296 EURO, MA IL GOVERNO NON LO HA ANNOUNCATO",
-    "lead_preview": "Roma, 17 ottobre. Il prezzo medio del gasolio sulle autostrade italiane ha raggiunto i 2,296 euro al litro, secondo i da",
-    "tags": [
-      "prezzi gasolio autostrade",
-      "speculazione carburanti",
-      "silenzio governo pedaggi"
     ],
     "hero_eligible": true
   }
