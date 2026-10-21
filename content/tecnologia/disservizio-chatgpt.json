@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
+  "title": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente ",
   "titles": [
-    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
-    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
-    "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin"
+    "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente ",
+    "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente ",
+    "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN 43 MINUTI",
-  "lead": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristinato con successo. L’interruzione è stata gestita senza impatti permanenti sugli utenti.",
-  "corpo1": "Il sistema di ChatGPT ha segnalato un malfunzionamento temporaneo alle ore 14:22 (UTC), causato da un picco di richiesta non gestito in modo ottimale. L’intervento tecnico, coordinato tra i team di OpenAI e i partner infrastrutturali, ha ripristinato la piena operatività alle 14:65 (UTC), con un tempo di downtime complessivo di 43 minuti. Le misure correttive sono state implementate per prevenire ricadute, garantendo stabilità nei livelli di servizio. L’analisi tecnica conferma che non sono stati registrati dati persi o alterati durante l’interruzione.",
+  "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
+  "lead": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. Le connessioni falliscono sistematicamente, bloccando l'accesso immediato all'interfaccia web e alle API per sviluppatori e professionisti.",
+  "corpo1": "Il disservizio è iniziato improvvisamente, causando il blocco totale delle operazioni. Gli utenti segnalano errori di connessione e timeout persistenti. Tutte le funzionalità, dalla generazione di testo alla gestione delle conversazioni, sono compromesse. Non è possibile inviare prompt né ricevere risposte. L'impatto operativo è immediato e critico per chi dipende dall'assistente per flussi di lavoro urgenti. I server di OpenAI non rispondono alle richieste standard. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:51:26.182951+00:00",
+  "published_at": "2026-10-21T14:36:46.732403+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -36,28 +36,6 @@
   "source": "Monitor",
   "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
-  "related": [
-    {
-      "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Revolut è irraggiungibile da 29 minuti. Gli utenti italiani segnalano disservizi",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    }
-  ],
+  "related": [],
   "hero_eligible": false
 }
