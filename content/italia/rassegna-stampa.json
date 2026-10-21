@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 20 ottobre 2026",
+  "title": "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 20 ottobre 2026",
-    "Le prime pagine di oggi, martedì 20 ottobre 2026",
-    "Le prime pagine di oggi, martedì 20 ottobre 2026"
+    "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 21 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "",
-  "lead": "Oggi i quotidiani italiani dedicano ampio spazio alle misure di sicurezza adottate a Milano dopo gli scontri del fine settimana, con l’arrivo di 500 soldati e nuove disposizioni governative per contrastare la violenza. *Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* titolano sulla stretta sulle strade e sui negozi del lusso chiusi per timore di saccheggi. *La Gazzetta dello Sport* e *Corriere dello Sport* si concentrano invece sulla crisi della Juventus, con il tecnico Spalletti al centro delle polemiche. *La Repubblica* anticipa inoltre il decreto che estende misure severe ai minorenni.",
-  "corpo1": "*Corriere della Sera* apre con l’arrivo dei 500 soldati a Milano e le ipotesi del governo di introdurre il fermo preventivo e il divieto di aggregazione, dopo gli scontri del week-end. Il presidente Mattarella condanna la violenza in un messaggio riportato in apertura. Il quotidiano segnala anche la stretta sui minori, con il governo che prepara un decreto per limitare le libertà degli under 18 in caso di reati gravi.\n\n*La Repubblica* titola su una “legge speciale per minorenni”, presentando il decreto che introduce il fermo preventivo e l’arresto differito per gli under 18, oltre all’aumento delle pene per i reati di devastazione. Il presidente Mattarella invita a valutazioni ponderate, mentre il testo del provvedimento viene anticipato in prima pagina. In secondo piano, il quotidiano conferma l’arrivo dei soldati a Milano e la chiusura dei negozi di lusso per precauzione.\n\n*La Stampa* dedica la prima pagina alla “Milano blindata”, con l’imminente dispiegamento di 500 militari e la chiusura di negozi del centro per evitare nuovi saccheggi. Il governo Meloni rafforza le misure contro i minori, mentre il presidente Trump attribuisce le proteste all’immigrazione. A centro pagina, il quotidiano segnala i tag ai fondi per Gaza e le tensioni in Ucraina, con l’Italia che offre due satelliti a Kiev.\n\n*Il Messaggero* titola “Milano chiude”, descrivendo le saracinesche abbassate e le vetrine svuotate in centro per paura di nuovi episodi di violenza. Il governo annuncia l’invio di ulteriori 500 soldati, mentre papa Francesco e Zelensky si scambiano chiamate dopo il contatto tra il Pontefice e Putin. In apertura si menziona anche l’offerta italiana di supporto tecnologico militare a Kiev.\n\n*La Gazzetta dello Sport* apre con il futuro in bilico di Luciano Spalletti alla Juventus, dopo l’inizio di campionato deludente e l’esaurimento dei bonus per il tecnico. Il quotidiano riporta le tensioni tra Spalletti e la dirigenza, con i tifosi che chiedono Conte in panchina. In secondo piano, la sfida di Champions tra Roma e Napoli in programma stasera.\n\n*Corriere dello Sport* conferma la crisi bianconera, titolando “Juve ancora con Spalletti, ma servono risposte”. Il club difende il tecnico dopo le prime giornate, mentre Bremer si scusa pubblicamente per la sconfitta contro il Napoli. Il quotidiano anticipa i cambiamenti in vista della sfida contro il Napoli in Champions League.",
-  "corpo2": "",
+  "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 21 OTTOBRE 2026: ORDINE PUBBLICO E SPORT",
+  "lead": "Oggi i giornali italiani focalizzano l’attenzione su due filoni principali: da un lato, le misure di ordine pubblico dopo gli scontri di Milano del fine settimana, con il veto di Mattarella ai poteri speciali ai militari e le nuove norme sui minori; dall’altro, le vittorie di Roma e Napoli in campionato e l’appuntamento di questa sera tra Inter e Shakhtar Donetsk. *Corriere della Sera*, *La Repubblica* e *La Stampa* approfondiscono la questione politica, mentre *Il Messaggero* si sofferma sulle proteste degli autotrasportatori. *Gazzetta dello Sport* e *Corriere dello Sport* dedicano spazio esclusivo al calcio.",
+  "corpo1": "*Corriere della Sera* apre con la stretta del governo sui minori e i cortei violenti, annunciando il nuovo reato di partecipazione violenta dopo gli scontri a Milano. Meloni commenta la misura mentre il gip della città ribadisce il rischio di nuovi disordini per sabato. In seconda pagina, la guerra in Ucraina con l’avvertimento di Trump a Kiev. *La Repubblica* sottolinea il veto di Mattarella ai poteri speciali ai militari, definendo cancellata la misura \"autoritaria\" approvata dal decreto sull’ordine pubblico, che include invece il fermo preventivo per i minori e l’aggravante per danneggiamento. *La Stampa* replica la notizia del veto presidenziale, evidenziando l’approvazione del fermo esteso anche ai giovani e i commenti dei rapper sugli scontri milanesi. *Il Messaggero* ripercorre i paletti del Quirinale alle proposte governative, mentre il gip conferma l’allerta per nuovi disordini. In margine, il giornale segnala le proteste degli autotrasportatori nel Sud Italia e le promesse del governo su misure economiche.",
+  "corpo2": "*Gazzetta dello Sport* celebra le vittorie di Roma e Napoli con un titolo celebrativo, entrambe concluse 4-0, e anticipa l’incontro di questa sera tra Inter e Shakhtar Donetsk a San Siro. *Corriere dello Sport* replica il successo delle due squadre romane e dedica spazio all’appuntamento con Como e Manchester United, oltre a citare le dichiarazioni di Chivu sulla pressione sull’Inter e i cambiamenti in vista per la Juventus secondo Spalletti. La giornata è dominata dall’ordine pubblico e dal calcio, con scarse intersezioni tra i due temi.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-20T05:46:00.976695+00:00",
+  "published_at": "2026-10-21T05:48:12.447805+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/92f8faecf739a218c5cb92e9adf3afb6fcf2353e/skytg24/it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre/1_Corriere.jpg",
+    "url": "https://tg24.sky.it/assets/images/8a37ff087cbb29aaf1cef43ee01828a47adc9560/skytg24/it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre/corriere-della-sera-031240oqc1sj0.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,7 +35,7 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/20/prime-pagine-quotidiani-oggi-20-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre",
   "related": [
     {
       "title": "Oroscopo di oggi, martedì 20 ottobre 2026",
@@ -45,17 +45,17 @@
       "image_type": "none"
     },
     {
-      "title": "Roma, 20 ottobre",
-      "url": "/economia/roma-20-ottobre-6a7a04aa32f851e5",
-      "id": "6a7a04aa32f851e5",
-      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/19/194749370-4dbcf315-e144-4a1d-aa39-a1346180a111.jpg",
+      "title": "Milano, 21 ottobre",
+      "url": "/economia/milano-21-ottobre-8b118e3c96601960",
+      "id": "8b118e3c96601960",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
       "image_type": "image"
     },
     {
-      "title": "Il cavallo colossale di canova torna a bassano il 27 ottobre",
-      "url": "/cultura/bassano-riavvolge-la-storia-il-cavallo-di-canova-t-fb40443f246a08a6",
-      "id": "fb40443f246a08a6",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/d8e4321b1dd0c7a1963f3e59df6ec738.jpg",
+      "title": "New york, 21 ottobre: i knicks perdono la prima al madison square garden dal 2019",
+      "url": "/sport/new-york-21-ottobre-i-knicks-perdono-la-prima-al-m-cf2a7b9e27f2f909",
+      "id": "cf2a7b9e27f2f909",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/14/890fdc84eece2a8998d9909c848e99b7.jpg",
       "image_type": "image"
     }
   ],
