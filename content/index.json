@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-21T14:36:46.732403+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "5966d770b28d583e",
     "slug": "messico-nello-scontro-con-lorganizzazione-delle-na-5966d770b28d583e",
     "title": "Sparizioni in messico, l'onu teme crimini contro l'umanità",
@@ -5142,25 +5161,6 @@
     "tags": [
       "downtime",
       "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-20T00:51:26.182951+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT RIATTIVATO. SERVIZIO RIPRISTINATO IN 43 MINUTI",
-    "lead_preview": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristinato con successo. L’interruzione è stata",
-    "tags": [
-      "downtime",
-      "chatgpt",
       "disservizi"
     ],
     "hero_eligible": false
