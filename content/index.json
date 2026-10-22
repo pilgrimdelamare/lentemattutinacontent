@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Chatgpt offline: blackout totale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-21T14:36:46.732403+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "e849951b28fd06c0",
     "slug": "lusso-del-superfluo-in-vetrina-istituzionale-e849951b28fd06c0",
     "title": "Lusso del superfluo in vetrina istituzionale",
@@ -135,21 +150,6 @@
       "accordo messico usa",
       "dazi auto grano"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Chatgpt offline: blackout totale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-21T14:36:46.732403+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
-    "tags": [],
     "hero_eligible": true
   },
   {
