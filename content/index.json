@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-22T13:51:07.538273+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Miglia",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "d5c6faa6243ffeae",
     "slug": "basket-wiltjer-a-terra-e-venezia-crolla-roma-detta-d5c6faa6243ffeae",
     "title": "Derby europeo azzetto, vantaggio di quindici punti",
@@ -5140,25 +5159,6 @@
     "tags": [
       "downtime",
       "netflix",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-20T00:51:26.449471+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY RIATTIVATO. DISSENSO SUPERATO.",
-    "lead_preview": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, confermando la risoluzione del malfunzionam",
-    "tags": [
-      "downtime",
-      "spotify",
       "disservizi"
     ],
     "hero_eligible": false
