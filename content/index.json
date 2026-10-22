@@ -1,5 +1,20 @@
 [
   {
+    "id": "8b118e3c96601960",
+    "slug": "milano-21-ottobre-8b118e3c96601960",
+    "title": "Milano, 21 ottobre",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-21T05:30:11.995044+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
+    "occhiello": "",
+    "lead_preview": "Milano, 21 ottobre. Il prezzo del petrolio Brent è schizzato a 110 dollari al barile nei mercati Internazionali, segnand",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "oroscopo_daily",
     "slug": "oroscopo-del-giorno",
     "title": "Oroscopo di oggi, giovedì 22 ottobre 2026",
@@ -951,24 +966,6 @@
       "museo del risorgimento",
       "cultura gastronomica",
       "mangiare il risorgimento"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8b118e3c96601960",
-    "slug": "milano-21-ottobre-8b118e3c96601960",
-    "title": "Milano, 21 ottobre",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-21T05:30:11.995044+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
-    "occhiello": "",
-    "lead_preview": "Milano, 21 ottobre. Il prezzo del petrolio Brent è schizzato a 110 dollari al barile nei mercati Internazionali, segnand",
-    "tags": [
-      "prezzo petrolio",
-      "brent 110 dollari"
     ],
     "hero_eligible": true
   },
