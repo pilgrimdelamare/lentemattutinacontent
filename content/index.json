@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "Chatgpt offline: blackout totale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-21T14:36:46.732403+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "8acf533d2a90de0c",
     "slug": "nba-celtics-rinnoveranno-tatum-per-50m-allannoma-l-8acf533d2a90de0c",
     "title": "Basket: Pistons-Celtics 121-113, Thompson vola e Tatum decide il primo quarto",
@@ -360,25 +375,6 @@
       "vietnam"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-21T14:36:46.732403+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6e53bbaf2a254917",
