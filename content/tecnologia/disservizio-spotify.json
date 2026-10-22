@@ -1,17 +1,17 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
+  "title": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
   "titles": [
-    "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
-    "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
-    "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con"
+    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
+    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
+    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SPOTIFY RIATTIVATO. DISSENSO SUPERATO.",
-  "lead": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, confermando la risoluzione del malfunzionamento tecnico.",
-  "corpo1": "Il disservizio su Spotify è iniziato nella mattinata odierna, intorno alle ore 10:17, con un blackout che ha interessato gli utenti globali. L’anomalia ha riguardato componenti critici del sistema di distribuzione streaming, causando interruzioni nella riproduzione e nell’accesso ai contenuti. Dopo un’analisi coordinata tra i team di ingegneria e i provider di rete, il servizio è stato ripristinato alle 10:59, con full recovery confermato alle 11:10. Le metriche di performance rientrano nei parametri operativi standard, escludendo impatti persistenti. La causa principale è stata identificata in un errore di configurazione su un nodo di load balancing secondario, isolato automaticamente dal sistema di ridondanza.",
+  "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+  "lead": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali.",
+  "corpo1": "Il disservizio ha colpito l'intera infrastruttura di accesso al servizio. Gli utenti riportano errori di connessione e schermate di caricamento infinite. Sono compromesse tutte le funzionalità, inclusa la riproduzione offline già scaricata, a causa dell'impossibilità di autenticare le sessioni. Non si tratta di un problema locale di rete, ma di un guasto centrale ai server. L'impatto è immediato su chi utilizza la piattaforma per lavoro o svago. Non sono disponibili alternative di accesso. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:51:26.449471+00:00",
+  "published_at": "2026-10-22T13:51:07.538273+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Netflix è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
       "url": "/tecnologia/disservizio-netflix",
       "id": "monitor_netflix",
       "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "Instagram è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservi",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "Chatgpt offline: blackout totale",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Smart tv, l'ia usata per disattivare pubblicità e tracciamento",
+      "url": "/tecnologia/xiaomi-spia-gli-utenti-30-pacchetti-nascosti-nelle-5182f89ca74e3c74",
+      "id": "5182f89ca74e3c74",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/20/123453349-3486abc2-ffb5-4144-aa80-dac0e9cec72d.jpg",
       "image_type": "image"
     }
   ],
