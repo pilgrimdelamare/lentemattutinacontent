@@ -1,5 +1,20 @@
 [
   {
+    "id": "e08ad9406dff255e",
+    "slug": "quake-70-tibet-epicenter-183-km-from-nagqu-e08ad9406dff255e",
+    "title": "Quake 7.0 tibet: epicenter 183 km from nagqu",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-22T17:08:07.743568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/983f59b3950b9cf103d4f1c3615e29f2.jpg",
+    "occhiello": "QUAKE 7.0 TIBET: EPICENTER 183 KM FROM NAGQU",
+    "lead_preview": "Lhasa, 22 ottobre. Un terremoto di magnitudo 7 ha scosso il Tibet, epicentro a 183 km dalla città di Nagqu, secondo ANSA",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3a369b5ba8af744f",
     "slug": "spettacolo-witch-is-rivela-la-figura-della-streghe-3a369b5ba8af744f",
     "title": "Spettacolo “witch is” rivela la figura della streghe in rome",
@@ -9319,25 +9334,6 @@
       "bologna-inter",
       "sport",
       "televisione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1878f4bdc92a79be",
-    "slug": "spollon-esperto-darte-sui-generis-che-indaga-sui-c-1878f4bdc92a79be",
-    "title": "Spollon esperto d'arte sui generis che indaga sui crimini in chiaroscuro",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-17T15:57:15.177975+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/17/237b3a49840b092bf2b8cba68fd7596c.jpg",
-    "occhiello": "SPOLLON ESPERTO D'ARTE SUI GENERIS CHE INDAGA SUI CRIMINI IN CHIAROSCURO",
-    "lead_preview": "Giorgio Spollon, l’esperto d’arte che trasforma i crimini in opere d’arte Roma, 17 ottobre. Netflix lancia Chiaroscuro, ",
-    "tags": [
-      "serie netflix chiaroscuro",
-      "giorgio spollon arte forense",
-      "indagini criminali arte"
     ],
     "hero_eligible": true
   }
