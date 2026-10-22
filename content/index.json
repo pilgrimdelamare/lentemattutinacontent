@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 22 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-22T05:56:05.566558+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/59bb8296e60d6cffbcfab26aa9c219587cb173e8/skytg24/it/cronaca/2026/10/22/prime-pagine-quotidiani-oggi-22-ottobre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE 22 OTTOBRE",
+    "lead_preview": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, Il Fatto Quotidiano, Il Giornale e Libero aprono con ti",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "8b118e3c96601960",
     "slug": "milano-21-ottobre-8b118e3c96601960",
     "title": "Milano, 21 ottobre",
@@ -890,25 +909,6 @@
       "basket eurocup",
       "bc roma manresa",
       "magro eurolega"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-21T05:48:12.447805+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/8a37ff087cbb29aaf1cef43ee01828a47adc9560/skytg24/it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre/corriere-della-sera-031240oqc1sj0.jpg",
-    "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 21 OTTOBRE 2026: ORDINE PUBBLICO E SPORT",
-    "lead_preview": "Oggi i giornali italiani focalizzano l’attenzione su due filoni principali: da un lato, le misure di ordine pubblico dop",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
