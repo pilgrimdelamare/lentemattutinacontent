@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
+  "title": "Le prime pagine di oggi, giovedì 22 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 21 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 21 ottobre 2026"
+    "Le prime pagine di oggi, giovedì 22 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 22 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 22 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 21 OTTOBRE 2026: ORDINE PUBBLICO E SPORT",
-  "lead": "Oggi i giornali italiani focalizzano l’attenzione su due filoni principali: da un lato, le misure di ordine pubblico dopo gli scontri di Milano del fine settimana, con il veto di Mattarella ai poteri speciali ai militari e le nuove norme sui minori; dall’altro, le vittorie di Roma e Napoli in campionato e l’appuntamento di questa sera tra Inter e Shakhtar Donetsk. *Corriere della Sera*, *La Repubblica* e *La Stampa* approfondiscono la questione politica, mentre *Il Messaggero* si sofferma sulle proteste degli autotrasportatori. *Gazzetta dello Sport* e *Corriere dello Sport* dedicano spazio esclusivo al calcio.",
-  "corpo1": "*Corriere della Sera* apre con la stretta del governo sui minori e i cortei violenti, annunciando il nuovo reato di partecipazione violenta dopo gli scontri a Milano. Meloni commenta la misura mentre il gip della città ribadisce il rischio di nuovi disordini per sabato. In seconda pagina, la guerra in Ucraina con l’avvertimento di Trump a Kiev. *La Repubblica* sottolinea il veto di Mattarella ai poteri speciali ai militari, definendo cancellata la misura \"autoritaria\" approvata dal decreto sull’ordine pubblico, che include invece il fermo preventivo per i minori e l’aggravante per danneggiamento. *La Stampa* replica la notizia del veto presidenziale, evidenziando l’approvazione del fermo esteso anche ai giovani e i commenti dei rapper sugli scontri milanesi. *Il Messaggero* ripercorre i paletti del Quirinale alle proposte governative, mentre il gip conferma l’allerta per nuovi disordini. In margine, il giornale segnala le proteste degli autotrasportatori nel Sud Italia e le promesse del governo su misure economiche.",
-  "corpo2": "*Gazzetta dello Sport* celebra le vittorie di Roma e Napoli con un titolo celebrativo, entrambe concluse 4-0, e anticipa l’incontro di questa sera tra Inter e Shakhtar Donetsk a San Siro. *Corriere dello Sport* replica il successo delle due squadre romane e dedica spazio all’appuntamento con Como e Manchester United, oltre a citare le dichiarazioni di Chivu sulla pressione sull’Inter e i cambiamenti in vista per la Juventus secondo Spalletti. La giornata è dominata dall’ordine pubblico e dal calcio, con scarse intersezioni tra i due temi.",
+  "occhiello": "LE PRIME PAGINE 22 OTTOBRE",
+  "lead": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, Il Fatto Quotidiano, Il Giornale e Libero aprono con titoli sulle proteste dei camionisti e i blocchi dei tir. La Gazzetta dello Sport, Il Corriere dello Sport e Tuttosport dedicano la prima pagina alle partite di Champions League. I titoli variano tra denuncia dei disagi, misure governative e resoconti sportivi, senza commenti editoriali.",
+  "corpo1": "Il Corriere della Sera mette in evidenza le proteste degli autotrasportatori con il titolo “Blocchi, la polizia scorta i Tir”, aggiungendo “Voli a rischio, allarme per i cibi freschi” e “Il governo prepara un decreto”. La Repubblica segnala “Italia spezzata, Sud in crisi” e “mercati vuoti, chiuso snodo stradale A1 a Caserta”. La Stampa annuncia “Governo pronto a far scortare i Tir” e “Arriva il decreto di emergenza”. Il Messaggero apre con “Blocco dei tir, arriva il decreto” e “Linee dure di Meloni”. La Gazzetta dello Sport si concentra sulla Champions con “Ci pensa Carlos” e la cronaca dell’Inter contro lo Shakhtar. Il Corriere dello Sport titola “L’Inter di Augusto” con il risultato 1‑0 contro lo Shakhtar. Tuttosport apre con “PazzesComo” e la vittoria 4‑1 sul Manchester United. Il Fatto Quotidiano riporta “Nel Sud manca tutto, a Chigi la carta igienica” e “Meloni in tilt”. Il Giornale sottolinea “Negozi vuoti al Sud, il governo scorta i tir”. Libero chiude con “E’ sabotaggio” e “Blocchi selvaggi dei Tir”.",
+  "corpo2": "Altre notizie in prima pagina includono la sicurezza a Milano, le dichiarazioni di Mattarella sul disagio giovanile, la gara sullo Stretto e gli sviluppi della guerra in Ucraina. Il tema dominante della giornata resta la crisi dei trasporti su gomma e le relative misure governative.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,22 +23,22 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-21T05:48:12.447805+00:00",
+  "published_at": "2026-10-22T05:56:05.566558+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/8a37ff087cbb29aaf1cef43ee01828a47adc9560/skytg24/it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre/corriere-della-sera-031240oqc1sj0.jpg",
-    "source": "Corriere Della Sera",
-    "credit": "Prima pagina — Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/59bb8296e60d6cffbcfab26aa9c219587cb173e8/skytg24/it/cronaca/2026/10/22/prime-pagine-quotidiani-oggi-22-ottobre/CorSera.png",
+    "source": "Il Corriere Della Sera",
+    "credit": "Prima pagina — Il Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/21/prime-pagine-quotidiani-oggi-21-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/22/prime-pagine-quotidiani-oggi-22-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 20 ottobre 2026",
+      "title": "Oroscopo di oggi, giovedì 22 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
