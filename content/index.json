@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify offline: blackout totale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-22T13:51:07.538273+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Miglia",
+    "tags": [
+      "spotify offline",
+      "blackout spotify"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "db6ceda55c0e9b93",
     "slug": "169-giornalisti-uccisi-in-messico-limpunita-sfida-db6ceda55c0e9b93",
     "title": "169 Giornalisti Uccisi in Messico: L'Impunità Sfida la Giustizia",
@@ -161,25 +179,6 @@
     "lead_preview": "Roma, 22 ottobre. Il regista danese Bille August presenta al Festival di Roma un film tratto dall’opera di Erri De Luca,",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-22T13:51:07.538273+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Miglia",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_chatgpt",
