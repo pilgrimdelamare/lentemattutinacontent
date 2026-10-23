@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 23 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-23T05:51:00.048338+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/16ac889d21750f32fa5b35b5f073e24b5a021443/skytg24/it/cronaca/2026/10/23/prime-pagine-quotidiani-oggi-23-ottobre/cor.jpg",
+    "occhiello": "LE PRIME PAGINE 23 OTTOBRE",
+    "lead_preview": "I principali quotidiani italiani convergono sulle proteste degli autotrasportatori e sulle reazioni del governo, con tit",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ec5dbd035000684d",
     "slug": "italia-sorpassa-europa-nei-motori-ec5dbd035000684d",
     "title": "L'Italia batte l'Europa: auto ibride in +8,6% mentre l'elettrico schizza",
@@ -268,25 +287,6 @@
     "tags": [
       "nba 2026",
       "76ers knicks"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 22 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-22T05:56:05.566558+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/59bb8296e60d6cffbcfab26aa9c219587cb173e8/skytg24/it/cronaca/2026/10/22/prime-pagine-quotidiani-oggi-22-ottobre/CorSera.png",
-    "occhiello": "LE PRIME PAGINE 22 OTTOBRE",
-    "lead_preview": "Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero, Il Fatto Quotidiano, Il Giornale e Libero aprono con ti",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
