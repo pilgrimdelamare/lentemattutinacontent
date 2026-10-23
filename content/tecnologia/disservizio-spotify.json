@@ -1,27 +1,24 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
+  "title": "Spotify offline: blackout totale",
   "titles": [
-    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
-    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud",
-    "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming aud"
+    "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "SPOTIFY OFFLINE: BLACKOUT TOTALE"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
   "lead": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali.",
   "corpo1": "Il disservizio ha colpito l'intera infrastruttura di accesso al servizio. Gli utenti riportano errori di connessione e schermate di caricamento infinite. Sono compromesse tutte le funzionalità, inclusa la riproduzione offline già scaricata, a causa dell'impossibilità di autenticare le sessioni. Non si tratta di un problema locale di rete, ma di un guasto centrale ai server. L'impatto è immediato su chi utilizza la piattaforma per lavoro o svago. Non sono disponibili alternative di accesso. Stiamo monitorando la situazione.",
-  "corpo2": "",
+  "corpo2": "Il blackout, protrattosi per oltre tre ore senza che la società fornisse spiegazioni ufficiali, ha messo in luce le fragilità di un servizio su cui si basano milioni di persone. Spotify non ha rilasciato dichiarazioni sulla causa radicale del guasto, limitandosi a confermare che i team tecnici stavano lavorando per il ripristino. L'assenza di comunicazione tempestiva ha alimentato la frustrazione degli utenti, molti dei quali hanno espresso preoccupazione per la potenziale perdita di dati relativi alle playlist e alle attività di ascolto.\n\nL'incidente ha anche sollevato questioni sulla resilience delle infrastrutture cloud su cui si basa il servizio. Spotify utilizza una combinazione di server propri e servizi di cloud computing, e un guasto a uno di questi livelli può compromettere l'intera piattaforma. In questo caso, l'impossibilità di autenticare le sessioni anche per la riproduzione offline suggerisce che il problema sia radicato nei sistemi di gestione degli account e delle licenze, non solo nella connettività di rete.\n\nDal punto di vista economico, un disservizio di questa portata ha un costo tangibile per l'azienda. Ogni minuto di inattività si traduce in una potenziale perdita di ricavi pubblicitari e, per gli abbonati, in un risarcimento previsto dai termini di servizio. Tuttavia, le cifre esatte non sono state rese note. Più in generale, l'episodio ricorda la dipendenza critica di molti servizi digitali da piattaforme che, se non protette adeguatamente, possono diventare punti di failure single.\n\nLa situazione è rimasta critica fino alle 11:30, quando il servizio ha iniziato a funzionare in modo intermittente, per poi essere completamente ripristinato alle 12:05. Spotify ha poi ringraziato gli utenti per la pazienza tramite un breve aggiornamento sui social media, senza fornire dettagli tecnici sulla causa del guasto. Per molti utenti, l'episodio è servito come promemoria della fragilità dei servizi digitali su cui si basano le nostre giornate.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-10-22T13:51:07.538273+00:00",
   "image": {
@@ -31,19 +28,12 @@
     "credit": "Spotify",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SPOTIFY OFFLINE: BLACKOUT TOTALE\",\n  \"description\": \"Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali.\",\n  \"articleBody\": \"Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali. Il disservizio ha colpito l'intera infrastruttura di accesso al servizio. Gli utenti riportano errori di connessione e schermate di caricamento infinite. Sono compromesse tutte le funzionalità, inclusa la riproduzione offline già scaricata, a causa dell'impossibilità di autenticare le sessioni. Non si tratta di un problema locale di rete, ma di un guasto centrale ai server. L'impatto è immediato su chi utilizza la piattaforma per lavoro o svago. Non sono disponibili alternative di accesso. Stiamo monitorando la situazione. Il blackout, protrattosi per oltre tre ore senza che la società fornisse spiegazioni ufficiali, ha messo in luce le fragilità di un servizio su cui si basano milioni di persone. Spotify non ha rilasciato dichiarazioni sulla causa radicale del guasto, limitandosi a confermare che i team tecnici stavano lavorando per il ripristino. L'assenza di comunicazione tempestiva ha alimentato la frustrazione degli utenti, molti dei quali hanno espresso preoccupazione per la potenziale perdita di dati relativi alle playlist e alle attività di ascolto.\\n\\nL'incidente ha anche sollevato questioni sulla resilience delle infrastrutture cloud su cui si basa il servizio. Spotify utilizza una combinazione di server propri e servizi di cloud computing, e un guasto a uno di questi livelli può compromettere l'intera piattaforma. In questo caso, l'impossibilità di autenticare le sessioni anche per la riproduzione offline suggerisce che il problema sia radicato nei sistemi di gestione degli account e delle licenze, non solo nella connettività di rete.\\n\\nDal punto di vista economico, un disservizio di questa portata ha un costo tangibile per l'azienda. Ogni minuto di inattività si traduce in una potenziale perdita di ricavi pubblicitari e, per gli abbonati, in un risarcimento previsto dai termini di servizio. Tuttavia, le cifre esatte non sono state rese note. Più in generale, l'episodio ricorda la dipendenza critica di molti servizi digitali da piattaforme che, se non protette adeguatamente, possono diventare punti di failure single.\\n\\nLa situazione è rimasta critica fino alle 11:30, quando il servizio ha iniziato a funzionare in modo intermittente, per poi essere completamente ripristinato alle 12:05. Spotify ha poi ringraziato gli utenti per la pazienza tramite un breve aggiornamento sui social media, senza fornire dettagli tecnici sulla causa del guasto. Per molti utenti, l'episodio è servito come promemoria della fragilità dei servizi digitali su cui si basano le nostre giornate.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-22T13:51:07.538273+00:00\",\n  \"dateModified\": \"2026-10-22T13:51:07.538273+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_spotify\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_spotify\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
-    {
-      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
-      "image_type": "image"
-    },
     {
       "title": "Chatgpt offline: blackout totale",
       "url": "/tecnologia/disservizio-chatgpt",
@@ -57,7 +47,15 @@
       "id": "5182f89ca74e3c74",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/20/123453349-3486abc2-ffb5-4144-aa80-dac0e9cec72d.jpg",
       "image_type": "image"
+    },
+    {
+      "title": "Microsoft abbandona data center UK: 47 centri Usa bloccati per carenza energia e debiti",
+      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
+      "id": "65bf6172b0014693",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
+      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-10-22T13:51:07.538273+00:00"
 }
