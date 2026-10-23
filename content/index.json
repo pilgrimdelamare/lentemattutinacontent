@@ -1,5 +1,24 @@
 [
   {
+    "id": "f2bc2ab097d24ea4",
+    "slug": "basket-james-da--29-a-vittoria-a-philadelphia-impr-f2bc2ab097d24ea4",
+    "title": "Basket: James da -29 a vittoria a Philadelphia, impresa storica",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-10-23T07:40:25.836280+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/58fb15bb11e1fbba0909bf0a4b1271c44d2974d0/skysport/it/nba/2026/10/23/nba-risultati-notte-22-ottobre-highlights/lebron_james_getty_4.jpg",
+    "occhiello": "RIMONTA DA -29, IMPRESA DI LEBRON JAMES",
+    "lead_preview": "Philadelphia, 23 ottobre. LeBron James ha compiuto un'impresa che non era mai riuscita a nessuno in 1.926 partite in car",
+    "tags": [
+      "lebron james",
+      "basket nba",
+      "rimonta"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c9e46cbd4482d99d",
     "slug": "cisgiordania-scontro-20-minuti-5-feriti-israeliani-c9e46cbd4482d99d",
     "title": "Cisgiordania: scontro 20 minuti, 5 feriti israeliani, 2 palestinesi uccisi",
@@ -9306,25 +9325,6 @@
       "blitz cnews parigi",
       "proteste non autorizzate francia",
       "arresti emmanuel macron"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cc1731e61c8cc21f",
-    "slug": "cile-e-bolivia-firmano-accordo-per-un-corridoio-bi-cc1731e61c8cc21f",
-    "title": "Cile e bolivia firmano accordo per un corridoio bioceanico in fibra ottica",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-17T11:08:54.223717+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/69259dbb69115ee4c608f987fe7f6e5f.jpg",
-    "occhiello": "CILE E BOLIVIA FIRMANO ACCORDO PER UN CORRIDOIO BIOCEANICO IN FIBRA OTTICA",
-    "lead_preview": "Bolivia, 17 ottobre. Il memorandum firmato oggi tra Cile e Bolivia non è un accordo commerciale, ma un cambio di paradig",
-    "tags": [
-      "corridoio bioceanico cile bolivia",
-      "fibra ottica sudamerica",
-      "accordo geopolitico la paz"
     ],
     "hero_eligible": true
   }
