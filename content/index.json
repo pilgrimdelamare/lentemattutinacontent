@@ -1,5 +1,20 @@
 [
   {
+    "id": "e08ad9406dff255e",
+    "slug": "quake-70-tibet-epicenter-183-km-from-nagqu-e08ad9406dff255e",
+    "title": "Quake 7.0 tibet: epicenter 183 km from nagqu",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-10-22T17:08:07.743568+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/983f59b3950b9cf103d4f1c3615e29f2.jpg",
+    "occhiello": "QUAKE 7.0 TIBET: EPICENTER 183 KM FROM NAGQU",
+    "lead_preview": "Lhasa, 22 ottobre. Un terremoto di magnitudo 7 ha scosso il Tibet, epicentro a 183 km dalla città di Nagqu, secondo ANSA",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3a369b5ba8af744f",
     "slug": "spettacolo-witch-is-rivela-la-figura-della-streghe-3a369b5ba8af744f",
     "title": "Spettacolo “witch is” rivela la figura della streghe in rome",
@@ -264,25 +279,6 @@
       "auto",
       "industria",
       "economia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e08ad9406dff255e",
-    "slug": "quake-70-tibet-epicenter-183-km-from-nagqu-e08ad9406dff255e",
-    "title": "Tibet: terremoti di 7.0 sulla scala Richter",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-22T17:08:07.743568+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/28/983f59b3950b9cf103d4f1c3615e29f2.jpg",
-    "occhiello": "QUAKE 7.0 TIBET: EPICENTER 183 KM FROM NAGQU",
-    "lead_preview": "Lhasa, 22 ottobre. Un terremoto di magnitudo 7 ha scosso il Tibet, epicentro a 183 km dalla città di Nagqu, secondo ANSA",
-    "tags": [
-      "terremoto",
-      "tibet",
-      "epicenter"
     ],
     "hero_eligible": true
   },
