@@ -1,5 +1,24 @@
 [
   {
+    "id": "803a29aadc881001",
+    "slug": "la-priora-di-firenze-ritrova-uno-spazio-803a29aadc881001",
+    "title": "La priora di firenze ritrova uno spazio",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-24T16:12:35.729488+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/b6e82b1db8cb4ef24f516759de18cef7.jpg",
+    "occhiello": "LA PRIORA DI FIRENZE RITROVA UNO SPAZIO",
+    "lead_preview": "New York, 24 ottobre. La Met ritorna Plautilla Nelli, prima pittrice rinascimentale fiorentina, in una mostra mai vista ",
+    "tags": [
+      "arte",
+      "mostra",
+      "riflessioni storiche"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1c76e82684ae46e7",
     "slug": "il-ventesimo-diario-di-schiappa-in-200-librerie-1c76e82684ae46e7",
     "title": "Il ventesimo diario di schiappa in 200 librerie",
@@ -9265,25 +9284,6 @@
       "premio strega 2024",
       "carmen gallo vince strega",
       "poesia italiana rinnovo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "99bbb46b106671a1",
-    "slug": "axios-usa-sospendono-raid-contro-missili-e-droni-i-99bbb46b106671a1",
-    "title": "Stati Uniti sospendono gli attacchi aerei contro l'Iran prima delle elezioni americane",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-17T14:22:12.740831+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/11/8d4a3e6d79743859d4f3b72439f82d6d.jpg",
-    "occhiello": "AXIOS, USA SOSPENDONO RAID CONTRO MISSILI E DRONI IRANIANI A HORMUZ",
-    "lead_preview": "Hormuz, 17 ottobre Gli Stati Uniti hanno sospeso i raid aerei contro i missili e i droni iraniani che minacciano il tran",
-    "tags": [
-      "stati uniti",
-      "guerra iran",
-      "relazioni internazionali"
     ],
     "hero_eligible": true
   }
