@@ -1,5 +1,20 @@
 [
   {
+    "id": "c1f02e0cea4111d5",
+    "slug": "roma-capitale-della-cultura-milano-del-contemporan-c1f02e0cea4111d5",
+    "title": "Roma capitale della cultura, milano del contemporaneo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-23T07:43:48.407087+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/17/e6f4aff2143d5bdf7c15fb2ff7603076.jpg",
+    "occhiello": "ROMA CAPITALE DELLA CULTURA, MILANO DEL CONTEMPORANEO",
+    "lead_preview": "Roma, 23 ottobre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1b4dd177ac870fc8",
     "slug": "milioni-di-euro-in-merci-bloccate-dal-caro-gasolio-1b4dd177ac870fc8",
     "title": "Tir: liberi i supermercati, file alle pompe e tregua fino all'incontro del 27",
@@ -233,25 +248,6 @@
     "tags": [
       "era glaciale",
       "gas serra"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1f02e0cea4111d5",
-    "slug": "roma-capitale-della-cultura-milano-del-contemporan-c1f02e0cea4111d5",
-    "title": "Roma capitale della cultura, milano del contemporaneo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-23T07:43:48.407087+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/17/e6f4aff2143d5bdf7c15fb2ff7603076.jpg",
-    "occhiello": "ROMA CAPITALE DELLA CULTURA, MILANO DEL CONTEMPORANEO",
-    "lead_preview": "Roma, 23 ottobre.",
-    "tags": [
-      "roma capitale della cultura",
-      "milano contemporaneo",
-      "cultura"
     ],
     "hero_eligible": true
   },
