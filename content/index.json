@@ -1,5 +1,20 @@
 [
   {
+    "id": "1c76e82684ae46e7",
+    "slug": "il-ventesimo-diario-di-schiappa-in-200-librerie-1c76e82684ae46e7",
+    "title": "Il ventesimo diario di schiappa in 200 librerie",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-24T14:19:23.642211+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/da085ddc63fbb045b8ea0e73f79c9fa7.jpg",
+    "occhiello": "IL VENTESIMO DIARIO DI SCHIAPPA IN 200 LIBRERIE",
+    "lead_preview": "Roma, 24 ottobre. Il Castoro pubblica il 27 ottobre \"Festa da incubo\", ventesimo volume della serie \"Diario di una Schia",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "18834b6ff13063b2",
     "slug": "f1-camicioli-e-vanzini-provano-il-robotaxi-senza-v-18834b6ff13063b2",
     "title": "Austin, 24 ottobre. due inviati f1 provano un'auto senza volante",
@@ -9269,25 +9284,6 @@
       "stati uniti",
       "guerra iran",
       "relazioni internazionali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ec2048f6aa8235e7",
-    "slug": "gattuso-accusa-la-lazio-pellegrini-costa-milioni-e-ec2048f6aa8235e7",
-    "title": "Lazio: Gattuso accusa la dirigenza e Pellegrini torna in rosa dopo cifre record che non pagano",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-17T12:31:13.671579+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c15144d430acfb51ad81bcc59565030c52d64baa/skysport/it/calcio/serie-a/2026/10/17/juventus-lazio-gattuso-conferenza-video/gattuso_lazio_conferenza.jpg",
-    "occhiello": "JUVENTUS-LAZIO, LA CONFERENZA DI GATTUSO: \"LORO SONO PIÙ FORTI, MA VOGLIO GIOCAR",
-    "lead_preview": "Roma, 17 ottobre Gennaro Gattuso ha presentato la Lazio contro la Juventus come un duello di coraggio contro la matemati",
-    "tags": [
-      "gattuso accusa dirigenza lazio",
-      "pellegrini record lazio",
-      "juventus-lazio serie a 2023-24"
     ],
     "hero_eligible": true
   }
