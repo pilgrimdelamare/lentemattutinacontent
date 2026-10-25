@@ -1,5 +1,23 @@
 [
   {
+    "id": "803a29aadc881001",
+    "slug": "la-priora-di-firenze-ritrova-uno-spazio-803a29aadc881001",
+    "title": "Plautilla Nelli: un caso storico in un mercato del mercato arte dominato da maschi",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-24T16:12:35.729488+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/b6e82b1db8cb4ef24f516759de18cef7.jpg",
+    "occhiello": "LA PRIORA DI FIRENZE RITROVA UNO SPAZIO",
+    "lead_preview": "New York, 24 ottobre. La Met ritorna Plautilla Nelli, prima pittrice rinascimentale fiorentina, in una mostra mai vista ",
+    "tags": [
+      "plautilla nelli",
+      "mostra met new york"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "27863ae9fbbc0a20",
     "slug": "lula-ad-sao-paulo-decisa-chegada-come-bolsonaroman-27863ae9fbbc0a20",
     "title": "Lula ad São Paulo, decisa chegada come bolsonaromano",
@@ -163,25 +181,6 @@
       "festival",
       "premio",
       "film"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "803a29aadc881001",
-    "slug": "la-priora-di-firenze-ritrova-uno-spazio-803a29aadc881001",
-    "title": "La priora di firenze ritrova uno spazio",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-24T16:12:35.729488+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/24/b6e82b1db8cb4ef24f516759de18cef7.jpg",
-    "occhiello": "LA PRIORA DI FIRENZE RITROVA UNO SPAZIO",
-    "lead_preview": "New York, 24 ottobre. La Met ritorna Plautilla Nelli, prima pittrice rinascimentale fiorentina, in una mostra mai vista ",
-    "tags": [
-      "arte",
-      "mostra",
-      "riflessioni storiche"
     ],
     "hero_eligible": true
   },
