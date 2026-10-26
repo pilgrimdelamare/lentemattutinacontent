@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 23 ottobre 2026",
+  "title": "Le prime pagine di oggi, lunedì 26 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 23 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 23 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 23 ottobre 2026"
+    "Le prime pagine di oggi, lunedì 26 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 26 ottobre 2026",
+    "Le prime pagine di oggi, lunedì 26 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 23 OTTOBRE",
-  "lead": "I principali quotidiani italiani convergono sulle proteste degli autotrasportatori e sulle reazioni del governo, con titoli che spaziano dagli aiuti economici alla richiesta di precettazione. Il Corriere della Sera e La Stampa mettono in risalto le misure di sostegno e le tensioni, mentre La Repubblica e Il Giornale si focalizzano sulla giustizia minorile e gli scontri sociali. Il Sole 24 Ore apre sui mercati finanziari in calo, mentre la Gazzetta dello Sport dedica la prima pagina alla sconfitta del Milan in Europa League. Il Messaggero e Il Resto del Carlino uniscono i due temi principali: la crisi dei tir e le polemiche sulle carceri per i giovani.",
-  "corpo1": "Il Corriere della Sera titola “Tir e proteste, ecco gli aiuti”, evidenziando gli interventi del governo contro il caro gasolio e le dichiarazioni di Meloni sui blocchi. La Repubblica apre con “Minori, la clava di Nordio”, citando le parole del Guardasigilli sull’invio in cella dei violenti under 18, e dedica spazio anche ai blocchi dei tir. La Stampa sceglie “Tir, basta blocchi o li precettano”, affiancando la notizia della manovra che aumenta la tassazione sulle società energetiche. Il Messaggero riporta “Aiuti ai tir ma resta la tensione”, specificando gli stanziamenti di 175 milioni e la posizione di Meloni contro le intimidazioni. Il Sole 24 Ore dedica l’apertura ai mercati con “Bond e azioni tech mandano ko le Borse”, notando l’ondata di vendite sui titoli francesi. La Gazzetta dello Sport titola “Milan affondato” sulla sconfitta contro il Bournemouth in Europa League. Il Giornale apre con “MaranzAllah, la piazza violenta”, riferendosi ai disordini giovanili e alla richiesta di ampliare le carceri minorili. Il Resto del Carlino mette in copertina la proposta di Nordio e le critiche dell’opposizione.",
-  "corpo2": "Altri titoli di rilievo includono la richiesta di precettazione del Garante degli scioperi, presente su Corriere e Messaggero, e la crisi dei mercati finanziari che tocca lo spread e la Borsa, segnalata da Sole 24 Ore e Resto del Carlino. La Gazzetta dello Sport menziona anche la situazione della Juventus. Il tema dominante della giornata è la gestione della crisi sociale tra autotrasportatori in protesta e disordini giovanili.",
+  "occhiello": "LE PRIME PAGINE TENSIONI SOCIALI E SPORT",
+  "lead": "I quotidiani italiani di oggi convergono su due macro-temi: le conseguenze delle manifestazioni di sabato e i successi sportivi recenti. Corriere della Sera, Messaggero e Repubblica affrontano le dinamiche politiche e giudiziarie legate agli scontri, menzionando le accuse di eversione a Youssef Siher e la conferma di Salvini come segretario della Lega. La Stampa evidenzia l'appello dei sindaci alla premier Meloni. I due sportivisti, Gazzetta dello Sport e Corriere dello Sport, dedicano la prima pagina ai risultati calcistici e al trionfo di Kimi Antonelli nel Gran Premio di Austin, che lo avvicina al titolo mondiale.",
+  "corpo1": "Il Corriere della Sera apre sui controlli in vista dello sciopero generale di venerdì e sulle accuse dei pm a Siher per eversione. La Repubblica titola sulla conferma di Salvini come segretario della Lega, citando i suoi annunci sullo stop agli aiuti all'Ucraina. La Stampa mette in primo piano la lettera dei sindaci alla presidente del Consiglio che chiedono risposte sui rincari e un incontro. Il Messaggero riprende le accuse ai vertici del Movimento 17 ottobre per destabilizzazione del sistema e rilancia la linea federale di Salvini. La Gazzetta dello Sport celebra la vittoria di Antonelli ad Austin, nono successo stagionale, con Leclerc secondo, e segnala le vittorie di Inter e Milan. Il Corriere dello Sport apre sulla vittoria della Juventus a Lecce, che rilancia le ambizioni per il quarto posto, e sulla possibile conquista del titolo mondiale in Messico.",
+  "corpo2": "Le prime pagine riportano anche dettagli sui saccheggi descritti come mossi da spinta predatoria e le dichiarazioni di Spalletti sulla necessità di maggior impegno. Il Viminale segnala l'allerta per i prossimi appuntamenti. Il tema dominante della giornata è la coesistenza tra la gestione della crisi sociale interna e i successi italiani nello sport internazionale.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-23T05:51:00.048338+00:00",
+  "published_at": "2026-10-26T06:45:35.402608+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/16ac889d21750f32fa5b35b5f073e24b5a021443/skytg24/it/cronaca/2026/10/23/prime-pagine-quotidiani-oggi-23-ottobre/cor.jpg",
+    "url": "https://tg24.sky.it/assets/images/5a3231e5580cc1537b0319d400788da3568ea07d/skytg24/it/cronaca/2026/10/26/prime-pagine-quotidiani-oggi-26-ottobre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/23/prime-pagine-quotidiani-oggi-23-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/26/prime-pagine-quotidiani-oggi-26-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 23 ottobre 2026",
+      "title": "Oroscopo di oggi, lunedì 26 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
+      "title": "Austin, 24 ottobre. due inviati f1 provano un'auto senza volante",
+      "url": "/sport/f1-camicioli-e-vanzini-provano-il-robotaxi-senza-v-18834b6ff13063b2",
+      "id": "18834b6ff13063b2",
+      "image_url": "https://sport.sky.it/assets/images/f4bd26faa4dd0d0c69243c4cba9db6a8f1f82d20/skysport/it/motori/formula-1/2026/10/24/vanzini-camicioli-macchina-futuro-austin-video/cybercar_camicioli_vanzini_coeprtina.jpg",
+      "image_type": "feed_image"
+    },
+    {
       "title": "Milano, 21 ottobre",
       "url": "/economia/milano-21-ottobre-8b118e3c96601960",
       "id": "8b118e3c96601960",
       "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "New york, 21 ottobre: i knicks perdono la prima al madison square garden dal 2019",
-      "url": "/sport/new-york-21-ottobre-i-knicks-perdono-la-prima-al-m-cf2a7b9e27f2f909",
-      "id": "cf2a7b9e27f2f909",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/14/890fdc84eece2a8998d9909c848e99b7.jpg",
       "image_type": "image"
     }
   ],
