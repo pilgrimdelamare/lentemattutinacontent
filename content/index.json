@@ -1,5 +1,20 @@
 [
   {
+    "id": "00e54e218376bda9",
+    "slug": "un-lavoro-che-piace-ai-giovani-senza-numeri-00e54e218376bda9",
+    "title": "Un lavoro che \"piace ai giovani\" senza numeri",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-25T09:47:55.526382+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/23/122608888-72932895-9405-404d-979e-fbbb72cafd2b.jpg",
+    "occhiello": "UN LAVORO CHE \"PIACE AI GIOVANI\" SENZA NUMERI",
+    "lead_preview": "Roma, 25 ottobre. Il dato che manca nel dibattito sulla nuova professione di \"addestratore di robot intelligenti\" è ques",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "dec27ca7d37f38f2",
     "slug": "9-miliardi-dal-fiscal-drag-la-tassa-occulta-che-er-dec27ca7d37f38f2",
     "title": "9 Miliardi dal fiscal drag: la tassa occulta che erode il potere d'acquisto",
@@ -276,25 +291,6 @@
     "occhiello": "PAROLE DI CIRCOSTANZA, BILANCIO DI UNA STAGIONE ANCORA IN BILICO",
     "lead_preview": "Roma, 25 ottobre. Marco Bezzecchi, pilota Aprilia Racing, ha affidato alle agenzie la classica dichiarazione post-gara, ",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "00e54e218376bda9",
-    "slug": "un-lavoro-che-piace-ai-giovani-senza-numeri-00e54e218376bda9",
-    "title": "Addestratore robot: zero contratti e zero salari concreti annunciati finora",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-10-25T09:47:55.526382+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/23/122608888-72932895-9405-404d-979e-fbbb72cafd2b.jpg",
-    "occhiello": "UN LAVORO CHE \"PIACE AI GIOVANI\" SENZA NUMERI",
-    "lead_preview": "Roma, 25 ottobre. Il dato che manca nel dibattito sulla nuova professione di \"addestratore di robot intelligenti\" è ques",
-    "tags": [
-      "robot",
-      "addestramento",
-      "occupazione"
-    ],
     "hero_eligible": true
   },
   {
