@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 27 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-27T06:46:13.038781+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/10e3769a20f9a656aa9c2f27309955ec6e141705/skytg24/it/cronaca/2026/10/27/prime-pagine-quotidiani-oggi-27-ottobre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE 27 OTTOBRE",
+    "lead_preview": "I quotidiani italiani convergono sulle elezioni in Israele, in Brasile e in Serbia. Il Corriere della Sera, La Repubblic",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dec27ca7d37f38f2",
     "slug": "9-miliardi-dal-fiscal-drag-la-tassa-occulta-che-er-dec27ca7d37f38f2",
     "title": "Fiscal drag: la tassa occulta vale 9 miliardi",
@@ -301,25 +320,6 @@
       "basket",
       "nba",
       "vittoria"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 26 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-26T06:45:35.402608+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5a3231e5580cc1537b0319d400788da3568ea07d/skytg24/it/cronaca/2026/10/26/prime-pagine-quotidiani-oggi-26-ottobre/1_Corriere.jpg",
-    "occhiello": "LE PRIME PAGINE TENSIONI SOCIALI E SPORT",
-    "lead_preview": "I quotidiani italiani di oggi convergono su due macro-temi: le conseguenze delle manifestazioni di sabato e i successi s",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
