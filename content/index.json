@@ -1,5 +1,20 @@
 [
   {
+    "id": "4e56d550f0f326cc",
+    "slug": "arte-povera-nella-citta-della-moda-4e56d550f0f326cc",
+    "title": "Arte povera nella città della moda",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-26T12:05:20.546798+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/74ecf6273415bd1179f52f9eb0df4d67.jpg",
+    "occhiello": "ARTE POVERA NELLA CITTÀ DELLA MODA",
+    "lead_preview": "Milano, 26 ottobre.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a9249116ba2d519c",
     "slug": "borse-europee-scivolano-francoforte-in-calo-londra-a9249116ba2d519c",
     "title": "Borse europee scivolano: Francoforte in calo, Londra affonda dell'0,85%",
@@ -340,25 +355,6 @@
     "tags": [
       "haiti gang",
       "missione salvadoregna"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e56d550f0f326cc",
-    "slug": "arte-povera-nella-citta-della-moda-4e56d550f0f326cc",
-    "title": "Tre musei a Torino e Rivoli celebrano Marisa Merz con la mostra ‘La danza delle ore’",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-26T12:05:20.546798+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/74ecf6273415bd1179f52f9eb0df4d67.jpg",
-    "occhiello": "ARTE POVERA NELLA CITTÀ DELLA MODA",
-    "lead_preview": "Milano, 26 ottobre.",
-    "tags": [
-      "mostra marisa merz",
-      "arte povera torino",
-      "la danza delle ore"
     ],
     "hero_eligible": true
   },
