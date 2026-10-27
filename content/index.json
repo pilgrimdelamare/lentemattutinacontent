@@ -1,5 +1,23 @@
 [
   {
+    "id": "b5125fcad7ddba2a",
+    "slug": "rusia-annuncia-tregua-a-oleshky-b5125fcad7ddba2a",
+    "title": "Rusia annuncia tregua a Oleshky",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-27T01:39:52.311699+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/10/5/12faba99a5b4e54c311a1a627bc695b8.jpg",
+    "occhiello": "RUSSIA DICHIARA TREGUA UMANITARIA A OLESHKY",
+    "lead_preview": "Kherson, 27 ottobre. La Russia ha annunciato l'avvio di una tregua umanitaria nella città di Oleshky, sulla riva sinistr",
+    "tags": [
+      "tregua oleshky",
+      "guerra ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7d818ccf9d247f03",
     "slug": "quattro-militari-salvadoregni-in-ricerca-a-porto-a-7d818ccf9d247f03",
     "title": "Quattro militari salvadoregni in ricerca a porto-afrika",
@@ -9217,25 +9235,6 @@
       "calcio",
       "gol",
       "highlights"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "19418b492a6df826",
-    "slug": "pescara-riceve-due-statue-di-dannunzio-e-flaiano-l-19418b492a6df826",
-    "title": "Un poeta e un ironista, Lodola scintillanti sculture in un contesto disputato",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-17T17:18:44.863842+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/17/d82884616050f38e4ebb074b2f269424.jpg",
-    "occhiello": "D'ANNUNZIO E FLAIANO DIALOGANO A PESCARA, ECCO LE SCULTURE DI LODOLA",
-    "lead_preview": "Pescara, 17 ottobre Due statue, un dialogo interrotto. A Pescara, la città che ha visto nascere Gabriele D’Annunzio e os",
-    "tags": [
-      "arte",
-      "scultura",
-      "dialogo"
     ],
     "hero_eligible": true
   }
