@@ -1,5 +1,24 @@
 [
   {
+    "id": "4e56d550f0f326cc",
+    "slug": "arte-povera-nella-citta-della-moda-4e56d550f0f326cc",
+    "title": "Tre musei a Torino e Rivoli celebrano Marisa Merz con la mostra ‘La danza delle ore’",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-10-26T12:05:20.546798+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/74ecf6273415bd1179f52f9eb0df4d67.jpg",
+    "occhiello": "ARTE POVERA NELLA CITTÀ DELLA MODA",
+    "lead_preview": "Milano, 26 ottobre.",
+    "tags": [
+      "mostra marisa merz",
+      "arte povera torino",
+      "la danza delle ore"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dec27ca7d37f38f2",
     "slug": "9-miliardi-dal-fiscal-drag-la-tassa-occulta-che-er-dec27ca7d37f38f2",
     "title": "Fiscal drag: 9 miliardi in tasca al Fisco, più che addio evasione",
@@ -138,24 +157,6 @@
       "calcio",
       "risultato",
       "battiballe"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e56d550f0f326cc",
-    "slug": "arte-povera-nella-citta-della-moda-4e56d550f0f326cc",
-    "title": "Arte povera nella città della moda",
-    "section": "cultura",
-    "priority": 6,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-10-26T12:05:20.546798+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/74ecf6273415bd1179f52f9eb0df4d67.jpg",
-    "occhiello": "ARTE POVERA NELLA CITTÀ DELLA MODA",
-    "lead_preview": "Milano, 26 ottobre.",
-    "tags": [
-      "arte povera",
-      "mostra milano"
     ],
     "hero_eligible": true
   },
