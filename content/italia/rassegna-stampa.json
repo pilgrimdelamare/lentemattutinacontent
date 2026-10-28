@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 27 ottobre 2026",
+  "title": "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 27 ottobre 2026",
-    "Le prime pagine di oggi, martedì 27 ottobre 2026",
-    "Le prime pagine di oggi, martedì 27 ottobre 2026"
+    "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
+    "Le prime pagine di oggi, mercoledì 28 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 27 OTTOBRE",
-  "lead": "I quotidiani italiani convergono sulle elezioni in Israele, in Brasile e in Serbia. Il Corriere della Sera, La Repubblica, La Stampa, Il Messaggero e Il Fatto Quotidiano dedicano ampio spazio ai risultati elettorali e alle reazioni politiche. Il Corriere sottolinea il trionfo di Lula e il crollo della Borsa brasiliana, mentre La Repubblica e Il Messaggero evidenziano lo scontento di Bolsonaro. Per Israele, tutti i titoli citano il voto odierno e la sfida a Netanyahu. La Stampa e Il Messaggero menzionano anche il ritorno del Papa in Sudamerica. I giornali sportivi si concentrano sul campionato di Serie A e sulle squalifiche.",
-  "corpo1": "Il Corriere della Sera apre con la situazione in Brasile, titolando sul trionfo di Lula e il crollo della Borsa, con Bolsonaro che accusa. Segue il voto in Israele, definito referendum su Netanyahu, e le parole del Papa felice di tornare in Sudamerica. La Repubblica mette in primo piano le elezioni israeliane con le parole di Grossman, il trionfo di Lula che piace a Trump ma non a Bolsonaro, gli aiuti fantasma all'Ucraina e il no di Salvini a Kiev. La Stampa titola su Netanyahu e il giorno del giudizio, il dibattito sulle diseguaglianze, Meloni che non raccoglie la sfida dei sindaci e i giovani nella Manovra. Il Messaggero parla di elezioni cruciali, Brasile spaccato, Israele e la Serbia che volta pagina. Il Corriere dello Sport, la Gazzetta dello Sport e Tuttosport si occupano di calcio, con focus su Milan-Inter, Napoli e Juventus.",
-  "corpo2": "Sulla manovra economica, il Corriere e La Stampa citano la flat tax per i giovani e gli incentivi, mentre Il Fatto Quotidiano titola sull'attacco di Del Vecchio alla stampa libera e sulla censura. Il Fatto segnala anche il rapporto di Albanese su fake news e omicidi. La giornata è dominata dai risultati elettorali in tre continenti e dalle conseguenze economiche immediate.",
+  "occhiello": "LE PRIME PAGINE ISRAELE E CALCIO",
+  "lead": "I quotidiani italiani di mercoledì 28 ottobre 2026 convergono quasi interamente sui risultati delle elezioni in Israele, descritte come caratterizzate dall'assenza di una maggioranza netta. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero riportano i dati degli exit poll, indicando il Likud come primo partito ma con l'opposizione in vantaggio sui seggi totali. La Gazzetta dello Sport, il Corriere dello Sport e Tuttosport dedicano invece l'apertura al campionato di Serie A, focalizzandosi sulla vittoria della Lazio sul Sassuolo e gli altri risultati della giornata calcistica.",
+  "corpo1": "Il Corriere della Sera titola sulle elezioni israeliane definendo il Paese senza maggioranza, con il Likud primo partito ma l'opposizione in vantaggio sui seggi, e segnala la fuga di Flavio Bolsonaro dal Brasile dopo la rielezione di Lula. La Repubblica si concentra sul voto arabo contro Netanyahu e sull'affluenza record, citando la possibile maggioranza per l'opposizione di Eisenkot e toccando la Manovra con la Quota 100. La Stampa descrive un Israele spaccato dove nessuno vince, notando la mancanza di numeri per formare un governo e il boom di mercato. Il Messaggero ribadisce l'assenza di vincitori, menziona il taglio Irpef nella Manovra e il femminicidio di Ilaria, mentre i tre sportivi aprono sul calcio: la Gazzetta celebra i sei gol della Lazio, il Corriere dello Sport la vetta solitaria biancoceleste e Tuttosport il Torino contro il Como.",
+  "corpo2": "Sul fronte sportivo, la Roma batte il Cagliari e l'Inter gioca a Venezia, mentre la Juventus affronta il Genoa. La giornata è dominata dalla politica internazionale, in particolare dal quadro post-elettorale israeliano, e dai risultati della Serie A.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,19 +23,19 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-27T06:46:13.038781+00:00",
+  "published_at": "2026-10-28T07:00:38.629663+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/10e3769a20f9a656aa9c2f27309955ec6e141705/skytg24/it/cronaca/2026/10/27/prime-pagine-quotidiani-oggi-27-ottobre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/f67d690888aea9cec49747ae6ca2460c6b7280f8/skytg24/it/cronaca/2026/10/28/prime-pagine-quotidiani-oggi-28-ottobre/corriere-della-sera-040012zvzaq88.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/27/prime-pagine-quotidiani-oggi-27-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/28/prime-pagine-quotidiani-oggi-28-ottobre",
   "related": [
     {
       "title": "Oroscopo di oggi, martedì 27 ottobre 2026",
