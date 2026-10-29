@@ -1,5 +1,23 @@
 [
   {
+    "id": "5b0b8c7c5b2d019f",
+    "slug": "stm-ricavi-record-ma-lad-annuncia-un-crollo-travol-5b0b8c7c5b2d019f",
+    "title": "STM: ricavi record, ma l'AD annuncia un crollo travolgente",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-29T07:17:48.093778+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/26/198e13bdc9e83ef41a97814d3f7ed80b.jpg",
+    "occhiello": "STM INCASSA MILIARDI, MA IL CONTO ARRIVA DOPO",
+    "lead_preview": "Roma, 29 ottobre. Stmicroelectronics (stm), il gigante italo-francese dei semiconduttori, ha chiuso il terzo trimestre c",
+    "tags": [
+      "stm ricavi",
+      "semiconduttori"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, giovedì 29 ottobre 2026",
@@ -9168,25 +9186,6 @@
       "cerignola serie c",
       "storia calcio italiano",
       "vittoria cerignola savoi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "540d2600a608f485",
-    "slug": "lazio-in-rosso-juventus-in-attacco-il-tridente-di-540d2600a608f485",
-    "title": "Lazio in rosso, Juventus in attacco: il tridente di Allegri sfida il centrocampo a tre di Simoni",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-18T18:34:42.646913+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/79690293ed1cad6cfda86f520a7d460da966104f/skysport/it/calcio/serie-a/2026/10/10/cagliari-juventus-probabili-formazioni-6-giornata/alajbegovic_IPA_fotogramma.jpg",
-    "occhiello": "JUVENTUS-LAZIO, LE FORMAZIONI UFFICIALI E IL RISULTATO IN DIRETTA LIVE",
-    "lead_preview": "Torino, 18 ottobre La Juventus ha schierato in Serie A una formazione che conferma il tridente d’attacco con Kolo Muani ",
-    "tags": [
-      "juventus-lazio serie a",
-      "tridente allegri",
-      "simoni lazio"
     ],
     "hero_eligible": true
   }
