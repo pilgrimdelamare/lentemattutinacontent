@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-29T03:29:09.785408+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
+    "tags": [
+      "downtime",
+      "spotify",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "63c66144aec2073b",
     "slug": "cinque-serate-per-un-filosofo-russo-sconosciuto-ai-63c66144aec2073b",
     "title": "Cinque serate per un filosofo russo sconosciuto ai più",
@@ -1119,21 +1138,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/22/8b43f7406a2fb75fe97cfa540edd62e0.jpg",
     "occhiello": "BILLE AUGUST PORTA ERRI DE LUCA A ROMA",
     "lead_preview": "Roma, 22 ottobre. Il regista danese Bille August presenta al Festival di Roma un film tratto dall’opera di Erri De Luca,",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify offline: blackout totale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-22T13:51:07.538273+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Miglia",
     "tags": [],
     "hero_eligible": true
   },
