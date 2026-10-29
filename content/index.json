@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify offline: blackout totale",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-29T03:29:09.785408+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "a80b645f07b3a8cb",
     "slug": "missile-houthi-sulla-arabia-saudita-intercettato-s-a80b645f07b3a8cb",
     "title": "Missili houthi: il dialogo costruttivo si traduce in esplosioni",
@@ -321,25 +336,6 @@
     "lead_preview": "Francoforte, 28 ottobre. L'euro ha perso terreno nei confronti dello yen, venendo scambiato nelle transazioni Internazio",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-29T03:29:09.785408+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
-    "tags": [
-      "downtime",
-      "spotify",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "dd0ab0baee9745cf",
