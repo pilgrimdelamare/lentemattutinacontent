@@ -1,5 +1,23 @@
 [
   {
+    "id": "822650218b791c52",
+    "slug": "senato-unisce-cefalu-e-torino-i-due-ritratti-di-an-822650218b791c52",
+    "title": "Antonello da Messina: il Senato lega Cefalù e Torino con due capolavori",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-10-28T15:34:30.283473+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/77661e4529d9e9a528ed597ab6b42b99.jpg",
+    "occhiello": "DUE RITRATTI, DUE CITTÀ, UN ENIGMA ITALIANO",
+    "lead_preview": "Roma, 28 ottobre. Due capolavori di Antonello da Messina, il Maestro del sorriso enigmatico attivo nel Rinascimento ital",
+    "tags": [
+      "antonello da messina",
+      "capolavori senato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
@@ -157,24 +175,6 @@
     "occhiello": "LA STORIA GIUDAICA CAMBIA FORMATO POLITICO",
     "lead_preview": "Gerusalemme, 28 ottobre. Elena Loewenthal, storica delle origini giudaiche, analizza le elezioni israeliane del 2026 e s",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "822650218b791c52",
-    "slug": "senato-unisce-cefalu-e-torino-i-due-ritratti-di-an-822650218b791c52",
-    "title": "Senato unisce Cefalù e Torino: i due ritratti di Antonello da Messina in mostra",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-28T15:34:30.283473+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/77661e4529d9e9a528ed597ab6b42b99.jpg",
-    "occhiello": "DUE RITRATTI, DUE CITTÀ, UN ENIGMA ITALIANO",
-    "lead_preview": "Roma, 28 ottobre. Due capolavori di Antonello da Messina, il Maestro del sorriso enigmatico attivo nel Rinascimento ital",
-    "tags": [
-      "antonello da messina",
-      "ritratti senato"
-    ],
     "hero_eligible": true
   },
   {
