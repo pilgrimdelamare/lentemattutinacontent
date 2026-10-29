@@ -1,5 +1,20 @@
 [
   {
+    "id": "5b0b8c7c5b2d019f",
+    "slug": "stm-ricavi-record-ma-lad-annuncia-un-crollo-travol-5b0b8c7c5b2d019f",
+    "title": "Stm incassa miliardi, ma il conto arriva dopo",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-10-29T07:17:48.093778+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/26/198e13bdc9e83ef41a97814d3f7ed80b.jpg",
+    "occhiello": "STM INCASSA MILIARDI, MA IL CONTO ARRIVA DOPO",
+    "lead_preview": "Roma, 29 ottobre. Stmicroelectronics (stm), il gigante italo-francese dei semiconduttori, ha chiuso il terzo trimestre c",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify offline: blackout totale",
@@ -244,24 +259,6 @@
     "tags": [
       "wembanyama spurs",
       "nba"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5b0b8c7c5b2d019f",
-    "slug": "stm-ricavi-record-ma-lad-annuncia-un-crollo-travol-5b0b8c7c5b2d019f",
-    "title": "STM: ricavi record, ma l'AD annuncia un crollo travolgente",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-29T07:17:48.093778+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/26/198e13bdc9e83ef41a97814d3f7ed80b.jpg",
-    "occhiello": "STM INCASSA MILIARDI, MA IL CONTO ARRIVA DOPO",
-    "lead_preview": "Roma, 29 ottobre. Stmicroelectronics (stm), il gigante italo-francese dei semiconduttori, ha chiuso il terzo trimestre c",
-    "tags": [
-      "stm ricavi",
-      "semiconduttori"
     ],
     "hero_eligible": true
   },
