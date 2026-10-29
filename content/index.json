@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, giovedì 29 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-29T06:45:41.228876+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/a748dd329bf48738b4fa12c5c0d45c1c52d84a6b/skytg24/it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre/corriere-della-sera-040012bvzcjuj.jpg",
+    "occhiello": "LE PRIME PAGINE 29 OTTOBRE 2026",
+    "lead_preview": "I quotidiani italiani di giovedì 29 ottobre 2026 convergono quasi interamente sulla presentazione della manovra di bilan",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ed68c2147a3dc216",
     "slug": "ubs-27-miliardi-di-utile-la-finanza-svizzera-vola-ed68c2147a3dc216",
     "title": "Utile ubs sfonda i 2,7 miliardi",
@@ -252,25 +271,6 @@
     "tags": [
       "decreto fornero",
       "pensioni 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-28T07:00:38.629663+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/f67d690888aea9cec49747ae6ca2460c6b7280f8/skytg24/it/cronaca/2026/10/28/prime-pagine-quotidiani-oggi-28-ottobre/corriere-della-sera-040012zvzaq88.jpg",
-    "occhiello": "LE PRIME PAGINE ISRAELE E CALCIO",
-    "lead_preview": "I quotidiani italiani di mercoledì 28 ottobre 2026 convergono quasi interamente sui risultati delle elezioni in Israele,",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
