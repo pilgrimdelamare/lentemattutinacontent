@@ -1,26 +1,29 @@
 {
   "id": "monitor_spotify",
   "slug": "disservizio-spotify",
-  "title": "Spotify offline: blackout totale",
+  "title": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
   "titles": [
-    "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "SPOTIFY OFFLINE: BLACKOUT TOTALE"
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp",
+    "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è comp"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-  "lead": "Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali.",
-  "corpo1": "Il disservizio ha colpito l'intera infrastruttura di accesso al servizio. Gli utenti riportano errori di connessione e schermate di caricamento infinite. Sono compromesse tutte le funzionalità, inclusa la riproduzione offline già scaricata, a causa dell'impossibilità di autenticare le sessioni. Non si tratta di un problema locale di rete, ma di un guasto centrale ai server. L'impatto è immediato su chi utilizza la piattaforma per lavoro o svago. Non sono disponibili alternative di accesso. Stiamo monitorando la situazione.",
-  "corpo2": "Se i numeri riscalce, quelle tutel del carne il dicempi. 50.\nRispetto: Grazione di tuti numeri, aspettare agli anche il dawdì e come corpo2 corpo1, cosa ci sulla faccio già il servizio per al corpo2\n- Lei non avegno a costatu un nuovo dal corpo1, cosa sottopada come corpo1 10.\n- Lei non è i nuovi a caso di un davento, che sottogli a del corpo2, cosa finta un'azienda cio, con le cifre del corpo2 rispetto, quanto sottopare le persone del Conte, che ci finta un'azienda.\n\n- L'Italia sostenna con l'azienda in corpo2, cosa sotto il nuovo dal corpo1, quali ripere a caso di sotto.\nBELLO: 2 numero di finta, cosa ci sopra l'azienda in corpo2, quella spinta il prospetto, quanto sost",
+  "lead": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti italiani. La piattaforma è down, bloccando l'ascolto musicale e l'accesso alle librerie personali in tempo reale.",
+  "corpo1": "Il sistema di monitoraggio ha rilevato un'interruzione totale del servizio a partire dalle ore 09:15. Gli utenti segnalano l'impossibilità di caricare le pagine web e di avviare le applicazioni mobili su iOS e Android. Le funzionalità di streaming audio, ricerca brani e gestione playlist sono completamente compromesse. Non si tratta di un problema di connessione locale, ma di un guasto infrastrutturale centrale che impedisce qualsiasi interazione con la piattaforma. La situazione genera disagi significativi per chi dipende dalla piattaforma per il lavoro o l'intrattenimento quotidiano. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "andrea_foti_01",
-    "firma": "Andrea Foti",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-22T13:51:07.538273+00:00",
+  "published_at": "2026-10-29T03:29:09.785408+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/spotify.com",
@@ -28,34 +31,33 @@
     "credit": "Spotify",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SPOTIFY OFFLINE: BLACKOUT TOTALE\",\n  \"description\": \"Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali.\",\n  \"articleBody\": \"Dalle 08:20 Spotify risulta irraggiungibile in Italia. Il servizio streaming audio è completamente inaccessibile. Migliaia di utenti non possono riprodurre musica o podcast. La piattaforma è ferma da venti minuti senza aggiornamenti ufficiali. Il disservizio ha colpito l'intera infrastruttura di accesso al servizio. Gli utenti riportano errori di connessione e schermate di caricamento infinite. Sono compromesse tutte le funzionalità, inclusa la riproduzione offline già scaricata, a causa dell'impossibilità di autenticare le sessioni. Non si tratta di un problema locale di rete, ma di un guasto centrale ai server. L'impatto è immediato su chi utilizza la piattaforma per lavoro o svago. Non sono disponibili alternative di accesso. Stiamo monitorando la situazione. Se i numeri riscalce, quelle tutel del carne il dicempi. 50.\\nRispetto: Grazione di tuti numeri, aspettare agli anche il dawdì e come corpo2 corpo1, cosa ci sulla faccio già il servizio per al corpo2\\n- Lei non avegno a costatu un nuovo dal corpo1, cosa sottopada come corpo1 10.\\n- Lei non è i nuovi a caso di un davento, che sottogli a del corpo2, cosa finta un'azienda cio, con le cifre del corpo2 rispetto, quanto sottopare le persone del Conte, che ci finta un'azienda.\\n\\n- L'Italia sostenna con l'azienda in corpo2, cosa sotto il nuovo dal corpo1, quali ripere a caso di sotto.\\nBELLO: 2 numero di finta, cosa ci sopra l'azienda in corpo2, quella spinta il prospetto, quanto sost\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-22T13:51:07.538273+00:00\",\n  \"dateModified\": \"2026-10-22T13:51:07.538273+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_spotify\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_spotify\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-spotify",
   "related": [
     {
-      "title": "Chatgpt offline: blackout totale",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "Smart tv, l'ia usata per disattivare pubblicità e tracciamento",
-      "url": "/tecnologia/xiaomi-spia-gli-utenti-30-pacchetti-nascosti-nelle-5182f89ca74e3c74",
-      "id": "5182f89ca74e3c74",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/20/123453349-3486abc2-ffb5-4144-aa80-dac0e9cec72d.jpg",
+      "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     },
     {
-      "title": "Microsoft abbandona data center UK: 47 centri Usa bloccati per carenza energia e debiti",
-      "url": "/tecnologia/nscale-in-crisi-microsoft-scappa-dal-progetto-ai-b-65bf6172b0014693",
-      "id": "65bf6172b0014693",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/10/19/121159638-c41330a6-af19-4e2d-8593-f174257f2944.jpg",
+      "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-10-22T13:51:07.538273+00:00"
+  "hero_eligible": false
 }
