@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
+  "title": "Le prime pagine di oggi, giovedì 29 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 28 ottobre 2026",
-    "Le prime pagine di oggi, mercoledì 28 ottobre 2026"
+    "Le prime pagine di oggi, giovedì 29 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 29 ottobre 2026",
+    "Le prime pagine di oggi, giovedì 29 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE ISRAELE E CALCIO",
-  "lead": "I quotidiani italiani di mercoledì 28 ottobre 2026 convergono quasi interamente sui risultati delle elezioni in Israele, descritte come caratterizzate dall'assenza di una maggioranza netta. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero riportano i dati degli exit poll, indicando il Likud come primo partito ma con l'opposizione in vantaggio sui seggi totali. La Gazzetta dello Sport, il Corriere dello Sport e Tuttosport dedicano invece l'apertura al campionato di Serie A, focalizzandosi sulla vittoria della Lazio sul Sassuolo e gli altri risultati della giornata calcistica.",
-  "corpo1": "Il Corriere della Sera titola sulle elezioni israeliane definendo il Paese senza maggioranza, con il Likud primo partito ma l'opposizione in vantaggio sui seggi, e segnala la fuga di Flavio Bolsonaro dal Brasile dopo la rielezione di Lula. La Repubblica si concentra sul voto arabo contro Netanyahu e sull'affluenza record, citando la possibile maggioranza per l'opposizione di Eisenkot e toccando la Manovra con la Quota 100. La Stampa descrive un Israele spaccato dove nessuno vince, notando la mancanza di numeri per formare un governo e il boom di mercato. Il Messaggero ribadisce l'assenza di vincitori, menziona il taglio Irpef nella Manovra e il femminicidio di Ilaria, mentre i tre sportivi aprono sul calcio: la Gazzetta celebra i sei gol della Lazio, il Corriere dello Sport la vetta solitaria biancoceleste e Tuttosport il Torino contro il Como.",
-  "corpo2": "Sul fronte sportivo, la Roma batte il Cagliari e l'Inter gioca a Venezia, mentre la Juventus affronta il Genoa. La giornata è dominata dalla politica internazionale, in particolare dal quadro post-elettorale israeliano, e dai risultati della Serie A.",
+  "occhiello": "LE PRIME PAGINE 29 OTTOBRE 2026",
+  "lead": "I quotidiani italiani di giovedì 29 ottobre 2026 convergono quasi interamente sulla presentazione della manovra di bilancio del governo, descritta come un pacchetto da 26 miliardi di euro. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero dedicano l'apertura a queste misure fiscali, sottolineando tagli alle tasse e interventi per i giovani. In parallelo, tutti i principali quotidiani nazionali riportano in prima pagina la tragedia ferroviaria in Spagna con decine di vittime e il caso giudiziario di Youssef Siher, che ha generato un scontro politico. La Gazzetta dello Sport e il Corriere dello Sport fanno eccezione, concentrandosi esclusivamente sulle partite di Serie A, con particolare attenzione alla crisi della Juventus e al derby di Milano.",
+  "corpo1": "Il Corriere della Sera titola sulla manovra da 26 miliardi e sulle dichiarazioni della premier Meloni, mentre dedica spazio alla lite con i magistrati sul caso Siher. La Repubblica evidenzia il taglio dell'Irpef per i redditi fino a 55mila euro e l'estensione della cedolare secca ai negozi, affiancando il tema allo sciagurato incidente in Spagna. La Stampa si concentra sui benefici per ceto medio e giovani, oltre che alla critica alla premier verso le banche, riprendendo anche lo scontro istituzionale sul caso del detenuto. Il Messaggero punta sulla flat tax per i giovani e il pacchetto per gli under 35, menzionando tre italiane disperse nel disastro ferroviario. La Gazzetta dello Sport apre con il derby di Milano, Inter prima in classifica, mentre il Corriere dello Sport mette in copertina la crisi della Juventus, definita \"a fondo\" dopo la sconfitta con il Genoa.",
+  "corpo2": "Le prime pagine riportano dettagli specifici sulle misure fiscali, come il fondo per la pensione a 64 anni e l'abbassamento delle aliquote. I giornali sportivi dettagliano i risultati delle partite di serie A, inclusa la sconfitta del Milan contro il Bologna. Il tema dominante della giornata è la presentazione della legge di bilancio, che accomuna i quotidiani generalisti, mentre lo sport occupa le testate specializzate.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-28T07:00:38.629663+00:00",
+  "published_at": "2026-10-29T06:45:41.228876+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/f67d690888aea9cec49747ae6ca2460c6b7280f8/skytg24/it/cronaca/2026/10/28/prime-pagine-quotidiani-oggi-28-ottobre/corriere-della-sera-040012zvzaq88.jpg",
+    "url": "https://tg24.sky.it/assets/images/a748dd329bf48738b4fa12c5c0d45c1c52d84a6b/skytg24/it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre/corriere-della-sera-040012bvzcjuj.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/28/prime-pagine-quotidiani-oggi-28-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 27 ottobre 2026",
+      "title": "Oroscopo di oggi, giovedì 29 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
