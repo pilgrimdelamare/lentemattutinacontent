@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+  "title": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
   "titles": [
-    "ChatGPT risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-    "ChatGPT risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-    "ChatGPT risulta irraggiungibile da ventidue minuti. Il servizio è completamente "
+    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
+    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
+    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-  "lead": "ChatGPT risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Milioni di utenti italiani riportano errori di connessione. L'impatto operativo è immediato e diffuso su tutta la piattaforma.",
-  "corpo1": "Il sistema di OpenAI ha cessato di rispondere alle richieste. Il disservizio è iniziato alle ore 09:38. Tutte le funzionalità, inclusa la generazione di testo e l'analisi dati, sono compromesse. Gli utenti vedono schermate di errore o tempi di caricamento infiniti. Non è possibile inviare nuovi prompt né recuperare conversazioni recenti. La situazione blocca flussi di lavoro critici per aziende e professionisti. Stiamo monitorando la situazione.",
+  "occhiello": "CHATGPT OFFLINE DA SEDICI MINUTI",
+  "lead": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani non possono utilizzare l'assistente. L'impatto operativo è immediato e diffuso su tutta la piattaforma.",
+  "corpo1": "Il sistema di OpenAI ha registrato un'interruzione totale del servizio alle ore correnti. Gli utenti segnalano errori di connessione e timeout immediati durante l'accesso alla dashboard. Tutte le funzionalità, inclusa la generazione di testo e l'analisi dati, sono compromesse. Non è possibile inviare prompt né ricevere risposte. I server di inference appaiono sovraccarichi o in stato di errore critico. La situazione sta generando un blocco significativo per professionisti e sviluppatori che dipendono dall'AI per flussi di lavoro urgenti. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T01:21:30.002358+00:00",
+  "published_at": "2026-10-30T03:23:57.900155+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,17 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
+      "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
+      "image_type": "image"
+    },
+    {
       "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
       "url": "/tecnologia/disservizio-discord",
       "id": "monitor_discord",
       "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
