@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T01:44:10.297604+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "SERVIZIO TIKTOK RIPRISTINATO COMPLETAMENTE",
+    "lead_preview": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piattaforma ha ripreso a funzionare regolarm",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_youtube",
     "slug": "disservizio-youtube",
     "title": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
@@ -70,25 +89,6 @@
     "tags": [
       "downtime",
       "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T01:21:30.003878+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "TIKTOK OFFLINE DA SEDICI MINUTI",
-    "lead_preview": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non riescono a caricare contenuti né a visual",
-    "tags": [
-      "downtime",
-      "tiktok",
       "disservizi"
     ],
     "hero_eligible": false
