@@ -1,17 +1,17 @@
 {
   "id": "monitor_discord",
   "slug": "disservizio-discord",
-  "title": "Discord è tornato online dopo 176 minuti di interruzione.",
+  "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
   "titles": [
-    "Discord è tornato online dopo 176 minuti di interruzione.",
-    "Discord è tornato online dopo 176 minuti di interruzione.",
-    "Discord è tornato online dopo 176 minuti di interruzione."
+    "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+    "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+    "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "DISCORD RIPRISTINATO",
-  "lead": "Discord è tornato online dopo 176 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Discord è stato risolto. L'interruzione è durata circa 176 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "DISCORD OFFLINE: CRITICITA MASSIMA",
+  "lead": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani sono esclusi dalle comunicazioni vocali e testuali. La piattaforma non risponde alle richieste di connessione.",
+  "corpo1": "Il malfunzionamento è iniziato alle ore 14:32, causando un blackout totale della piattaforma. Le funzionalità compromesse includono la creazione di canali, la trasmissione audio e video, e l'invio di messaggi diretti. Gli utenti riportano errori di connessione immediata e l'impossibilità di autenticarsi. Non si tratta di un problema di pagamento, ma di un'interruzione infrastrutturale grave che blocca qualsiasi interazione sociale e professionale. Le squadre tecniche sono state allertate per indagare sulla causa radice del disservizio. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-09-06T09:32:29.053475+00:00",
+  "published_at": "2026-10-30T01:21:30.003360+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/discord.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-discord",
   "related": [
     {
-      "title": "GitHub è tornato online dopo 109 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT è tornato online dopo 42 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "Claude è tornato online dopo 646 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
