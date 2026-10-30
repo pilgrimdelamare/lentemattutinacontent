@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube è tornato online dopo 37 minuti di interruzione.",
+  "title": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
   "titles": [
-    "YouTube è tornato online dopo 37 minuti di interruzione.",
-    "YouTube è tornato online dopo 37 minuti di interruzione.",
-    "YouTube è tornato online dopo 37 minuti di interruzione."
+    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
+    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
+    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE RIPRISTINATO",
-  "lead": "YouTube è tornato online dopo 37 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito YouTube è stato risolto. L'interruzione è durata circa 37 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
+  "lead": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento impedisce l'accesso alla piattaforma a milioni di utenti italiani. La situazione è critica e in rapida evoluzione, con segnalazioni diffuse su tutto il territorio nazionale.",
+  "corpo1": "Il disservizio è iniziato alle 08:30, causando un'interruzione completa del servizio. Gli utenti non riescono a caricare video, guardare contenuti in streaming o accedere alle proprie librerie personali. Le interfacce web e le applicazioni mobili restituiscono errori di connessione o schermate vuote. Non si tratta di un problema locale, ma di un blackout globale che paralizza la piattaforma. Le cause tecniche non sono ancora state comunicate ufficialmente dal provider. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T00:51:27.727064+00:00",
+  "published_at": "2026-10-30T01:21:30.003360+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify ha ripristinato il servizio dopo 43 minuti di interruzione generale, con",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "ChatGPT ha interrotto il servizio per 43 minuti, ma il sistema è stato ripristin",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     }
   ],
