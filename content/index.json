@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, venerdì 30 ottobre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-10-30T06:46:03.518513+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/9c1b12cbfffba48b2b9fb917bda16c6502fed962/skytg24/it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre/1_Corriere.jpg",
+    "occhiello": "LE PRIME PAGINE 30 OTTOBRE 2026",
+    "lead_preview": "I principali quotidiani italiani di venerdì 30 ottobre 2026 convergono sulla strage di militari italiani in Bosnia, con ",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b86113c87f44689d",
     "slug": "bolsonaro-sono-il-vero-presidente-il-brasile-sotto-b86113c87f44689d",
     "title": "Brasile: ex presidente accusa elezioni dopo sconfitta",
@@ -408,25 +427,6 @@
     "tags": [
       "papa tecnologia",
       "bene comune"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, giovedì 29 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-29T06:45:41.228876+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/a748dd329bf48738b4fa12c5c0d45c1c52d84a6b/skytg24/it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre/corriere-della-sera-040012bvzcjuj.jpg",
-    "occhiello": "LE PRIME PAGINE 29 OTTOBRE 2026",
-    "lead_preview": "I quotidiani italiani di giovedì 29 ottobre 2026 convergono quasi interamente sulla presentazione della manovra di bilan",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
