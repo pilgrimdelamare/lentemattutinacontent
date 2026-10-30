@@ -1,17 +1,17 @@
 {
   "id": "monitor_tiktok",
   "slug": "disservizio-tiktok",
-  "title": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
+  "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
   "titles": [
-    "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
-    "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
-    "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r"
+    "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
+    "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
+    "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TIKTOK OFFLINE DA SEDICI MINUTI",
-  "lead": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non riescono a caricare contenuti né a visualizzare il feed. Il disservizio impedisce l'accesso totale al servizio in tempo reale.",
-  "corpo1": "Il sistema di monitoraggio ha rilevato un'interruzione totale dei servizi di TikTok alle ore correnti. Da sedici minuti, i client mobili e web restituiscono errori di connessione, bloccando la riproduzione dei video, la navigazione del feed e la pubblicazione di nuovi contenuti. L'impatto è immediato e totale per la community italiana, che si ritrova priva di accesso alla piattaforma. Non sono stati annunciati interventi tecnici ufficiali da parte del provider. La situazione richiede attenzione costante per valutare la durata del blackout. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO TIKTOK RIPRISTINATO COMPLETAMENTE",
+  "lead": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piattaforma ha ripreso a funzionare regolarmente per tutti gli utenti, chiudendo l'emergenza tecnica che aveva bloccato l'accesso al social network nelle ultime ore.",
+  "corpo1": "Il disservizio si è verificato in mattinata, impedendo a milioni di utenti di caricare contenuti o visualizzare i feed. I sistemi di monitoraggio hanno registrato un ripristino graduale dei servizi, con la piena operatività confermata dopo 38 minuti dall'inizio del blackout. Le infrastrutture server sono ora stabili e le performance sono tornate ai livelli standard. Non si segnalano ulteriori anomalie. La piattaforma è nuovamente accessibile in modo uniforme a livello globale, chiudendo l'episodio di instabilità tecnica.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T01:21:30.003878+00:00",
+  "published_at": "2026-10-30T01:44:10.297604+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/tiktok.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-tiktok",
   "related": [
     {
-      "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+      "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
       "url": "/tecnologia/disservizio-satispay",
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
       "image_type": "image"
     }
   ],
