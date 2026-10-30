@@ -1,5 +1,23 @@
 [
   {
+    "id": "5245f91e409413bf",
+    "slug": "israele-quattro-arresti-per-corruzione-al-voto-raa-5245f91e409413bf",
+    "title": "Arresti per voto comprato nel blocco arabo",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-10-29T10:16:06.405942+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/f4f7f7bd1daada87d1259d9142973bba.jpg",
+    "occhiello": "ARRESTI PER VOTO COMPRATO NEL BLOCCO ARABO",
+    "lead_preview": "Gerusalemme, 29 ottobre. La polizia israeliana ha arrestato quattro persone con l'accusa di presunta corruzione elettora",
+    "tags": [
+      "elezioni israeliane",
+      "voto comprato"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9a07d036aafe5777",
     "slug": "u2-torna-a-san-siro-dopo-anni-9a07d036aafe5777",
     "title": "U2 torna a san siro dopo anni",
@@ -316,25 +334,6 @@
     "occhiello": "MISSILI HOUTHI: IL DIALOGO COSTRUTTIVO SI TRADUCE IN ESPLOSIONI",
     "lead_preview": "Riad, 29 ottobre. Un missile lanciato dagli Houthi yemeniti è stato intercettato e distrutto sopra l'Arabia Saudita, com",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "5245f91e409413bf",
-    "slug": "israele-quattro-arresti-per-corruzione-al-voto-raa-5245f91e409413bf",
-    "title": "Israele: arrestati 4 attivisti Ra'am per corruzione proprio ora che si contano i voti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-29T10:16:06.405942+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/f4f7f7bd1daada87d1259d9142973bba.jpg",
-    "occhiello": "ARRESTI PER VOTO COMPRATO NEL BLOCCO ARABO",
-    "lead_preview": "Gerusalemme, 29 ottobre. La polizia israeliana ha arrestato quattro persone con l'accusa di presunta corruzione elettora",
-    "tags": [
-      "corruzione",
-      "arresti",
-      "elezioni israeliane"
-    ],
     "hero_eligible": true
   },
   {
