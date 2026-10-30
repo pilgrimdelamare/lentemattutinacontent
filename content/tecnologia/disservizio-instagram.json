@@ -1,17 +1,17 @@
 {
   "id": "monitor_instagram",
   "slug": "disservizio-instagram",
-  "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
+  "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
   "titles": [
-    "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-    "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-    "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione."
+    "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
+    "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
+    "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
-  "lead": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-  "corpo1": "Il Sistema Monitor de La Lente Mattutina informa che Instagram è tornato a funzionare correttamente dopo una durata di 43 minuti di disservizio. La piattaforma sociale è stata inizialmente inaccessibile, ma ora è ripristinata con il nostro servizio. Tono tecnico.",
+  "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
+  "lead": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio è crollato, bloccando l'accesso a milioni di utenti italiani. La piattaforma è inaccessibile sia via web che tramite app mobile, generando un'interruzione massiccia della comunicazione digitale.",
+  "corpo1": "Il disservizio è iniziato improvvisamente, rendendo impossibile l'apertura dell'applicazione e il caricamento delle pagine web. Gli utenti segnalano errori di connessione e schermate bianche al tentativo di accesso. Sono compromesse tutte le funzionalità: visualizzazione del feed, pubblicazione di contenuti, invio di messaggi diretti e accesso ai profili. Non è possibile effettuare interazioni o consultare le storie. L'impatto è immediato sulla gestione dei social media e sulla comunicazione aziendale. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-20T01:04:20.936292+00:00",
+  "published_at": "2026-10-30T01:28:04.131125+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/instagram.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-instagram",
   "related": [
     {
-      "title": "YouTube è tornato online dopo 37 minuti di interruzione.",
+      "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
+      "title": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
       "url": "/tecnologia/disservizio-youtube",
       "id": "monitor_youtube",
       "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     }
   ],
