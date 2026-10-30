@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T01:10:43.427790+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizio di pagamento mobile è down, bloccando ",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "9a07d036aafe5777",
     "slug": "u2-torna-a-san-siro-dopo-anni-9a07d036aafe5777",
     "title": "U2 a San Siro: 75mila posti per due date, Bono pronto a far tremare Milano",
@@ -9144,25 +9163,6 @@
       "premio niaf fincantieri",
       "folgiero eccellenza navale",
       "fincantieri riconoscimento industria marittima"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7f1395e608ee8c53",
-    "slug": "vox-brasil-lula-sfiora-lula-con-il-51-bolsonaro-cr-7f1395e608ee8c53",
-    "title": "Vox Brasil: Lula sfiora Lula con il 51%, Bolsonaro crolla al 49% – il Brasile cambia campo",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-18T19:00:06.009220+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/4ce49d5fdfb3e3ed66b964c308c0525c.jpg",
-    "occhiello": "IN BRASILE PER LA PRIMA VOLTA UN SONDAGGIO PREVEDE LA VITTORIA DI LULA",
-    "lead_preview": "Brasile, 18 ottobre. Il presidente uscente Luiz Inácio Lula da Silva ha ottenuto il 51% dei consensi nei sondaggi, mentr",
-    "tags": [
-      "elezioni brasil 2022",
-      "lula vs bolsonaro",
-      "sondaggi brasil"
     ],
     "hero_eligible": true
   }
