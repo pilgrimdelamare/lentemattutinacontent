@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T03:23:57.900155+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT OFFLINE DA SEDICI MINUTI",
+    "lead_preview": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_tiktok",
     "slug": "disservizio-tiktok",
     "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
@@ -1430,21 +1449,6 @@
     "image_url": "https://sport.sky.it/assets/images/6456701c171aac7c10f5f547554b54378a06037c/skysport/it/basket/2026/10/21/eurocup-maxima-roma-venezia-highlights/rom_rey.jpg",
     "occhiello": "DERBY EUROPEO AZZETTO, VANTAGGIO DI QUINDICI PUNTI",
     "lead_preview": "Roma, 21 ottobre. Maxima Roma batte Umana Reyer Venezia 90-79 nel derby italiano di Eurocup, con l'uscita di Kyle Wiltje",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "Chatgpt offline: blackout totale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-21T14:36:46.732403+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "ChatGPT risulta irraggiungibile da quindici minuti. Il servizio è completamente inaccessibile per gli utenti italiani. L",
     "tags": [],
     "hero_eligible": true
   },
