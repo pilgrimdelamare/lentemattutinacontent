@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Instagram sfonda i 22 minuti di blackout: milioni di italiani senza rete",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-30T01:28:04.131125+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio è crollato, bloccando l'accesso a milion",
+    "tags": [
+      "blackout instagram"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord giù: 22 minuti di blackout e migliaia di italiani tagliati fuori",
@@ -272,25 +289,6 @@
     "tags": [
       "downtime",
       "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T01:28:04.131125+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio è crollato, bloccando l'accesso a milion",
-    "tags": [
-      "downtime",
-      "instagram",
       "disservizi"
     ],
     "hero_eligible": false
