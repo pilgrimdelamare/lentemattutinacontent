@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_instagram",
+    "slug": "disservizio-instagram",
+    "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T01:28:04.131125+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/instagram.com",
+    "occhiello": "INSTAGRAM OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio è crollato, bloccando l'accesso a milion",
+    "tags": [
+      "downtime",
+      "instagram",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_youtube",
     "slug": "disservizio-youtube",
     "title": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
@@ -6395,25 +6414,6 @@
       "intesa politica"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_instagram",
-    "slug": "disservizio-instagram",
-    "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-20T01:04:20.936292+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/instagram.com",
-    "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
-    "lead_preview": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_revolut",
