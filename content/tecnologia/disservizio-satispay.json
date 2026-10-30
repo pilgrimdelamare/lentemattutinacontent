@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
+  "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
   "titles": [
-    "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
-    "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
-    "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi"
+    "Satispay è tornato online dopo 39 minuti di interruzione.",
+    "Satispay è tornato online dopo 39 minuti di interruzione.",
+    "Satispay è tornato online dopo 39 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY OFFLINE: BLACKOUT TOTALE",
-  "lead": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizio di pagamento mobile è down, bloccando transazioni e accessi per milioni di utenti italiani. L'impatto è immediato e diffuso su tutto il territorio nazionale.",
-  "corpo1": "Il sistema di autenticazione e le API di transazione non rispondono, generando errori di connessione generalizzati. L'interruzione è iniziata alle 08:43, causando il blocco totale delle operazioni di invio e ricezione fondi. Gli utenti non riescono a completare i pagamenti QR code né ad accedere al saldo. La piattaforma è inaccessibile sia tramite applicazione mobile che da browser web. Questo blocco impedisce qualsiasi interazione finanziaria in tempo reale, creando disagi significativi per commercianti e privati. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIPRISTINATO",
+  "lead": "Satispay è tornato online dopo 39 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 39 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T01:10:43.427790+00:00",
+  "published_at": "2026-10-30T01:33:10.048942+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
-      "title": "Max 40 parole. Instagram è tornato online dopo 43 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
+      "url": "/tecnologia/disservizio-netflix",
+      "id": "monitor_netflix",
+      "image_url": "https://logo.clearbit.com/netflix.com",
       "image_type": "image"
     },
     {
-      "title": "YouTube è tornato online dopo 37 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
+      "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
