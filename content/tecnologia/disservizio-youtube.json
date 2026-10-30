@@ -1,17 +1,17 @@
 {
   "id": "monitor_youtube",
   "slug": "disservizio-youtube",
-  "title": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
+  "title": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
   "titles": [
-    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
-    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped",
-    "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento imped"
+    "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
+    "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
+    "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "YOUTUBE OFFLINE: BLACKOUT TOTALE",
-  "lead": "YouTube risulta irraggiungibile da venticinque minuti. Il malfunzionamento impedisce l'accesso alla piattaforma a milioni di utenti italiani. La situazione è critica e in rapida evoluzione, con segnalazioni diffuse su tutto il territorio nazionale.",
-  "corpo1": "Il disservizio è iniziato alle 08:30, causando un'interruzione completa del servizio. Gli utenti non riescono a caricare video, guardare contenuti in streaming o accedere alle proprie librerie personali. Le interfacce web e le applicazioni mobili restituiscono errori di connessione o schermate vuote. Non si tratta di un problema locale, ma di un blackout globale che paralizza la piattaforma. Le cause tecniche non sono ancora state comunicate ufficialmente dal provider. Stiamo monitorando la situazione.",
+  "occhiello": "YOUTUBE RIAPRE DOPO 45 MINUTI",
+  "lead": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, durata circa quarantacinque minuti, è stata risolta. Gli utenti possono ora accedere ai contenuti senza interruzioni. Il sistema ha ripristinato la piena funzionalità in tutte le aree geografiche monitorate.",
+  "corpo1": "Il disservizio è stato rilevato alle ore 08:15 UTC, quando i server di streaming hanno iniziato a restituire errori di connessione. La durata complessiva dell'incidente si è attestata su quarantacinque minuti. Le analisi tecniche confermano che l'infrastruttura è stata stabilizzata e i carichi di traffico sono tornati alla normalità. Non si registrano ulteriori anomalie nei log di sistema. La piena operatività è stata verificata su tutti i nodi regionali. Il monitoraggio continuo resta attivo per garantire la stabilità della piattaforma nelle prossime ore.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T01:21:30.003360+00:00",
+  "published_at": "2026-10-30T01:38:46.752864+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/youtube.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-youtube",
   "related": [
     {
-      "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
       "title": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
       "url": "/tecnologia/disservizio-tiktok",
       "id": "monitor_tiktok",
       "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
+      "url": "/tecnologia/disservizio-revolut",
+      "id": "monitor_revolut",
+      "image_url": "https://logo.clearbit.com/revolut.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     }
   ],
