@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_tiktok",
+    "slug": "disservizio-tiktok",
+    "title": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non r",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T01:21:30.003878+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/tiktok.com",
+    "occhiello": "TIKTOK OFFLINE DA SEDICI MINUTI",
+    "lead_preview": "La piattaforma video è inaccessibile da sedici minuti. Gli utenti italiani non riescono a caricare contenuti né a visual",
+    "tags": [
+      "downtime",
+      "tiktok",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_discord",
     "slug": "disservizio-discord",
     "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
@@ -9144,25 +9163,6 @@
       "salernitana serie c",
       "salerno fallimento finanziario",
       "calcio campania 2023"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "07fe48b2261ea6e4",
-    "slug": "linflazione-nello-smartphone-addio-cellulari-econo-07fe48b2261ea6e4",
-    "title": "L’inflazione nello smartphone: addio cellulari economici. ecco perché e quanto a",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-18T03:26:05.738264+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/17/192928896-8925880e-4501-45bc-8335-c68560461546.jpg",
-    "occhiello": "L’INFLAZIONE NELLO SMARTPHONE: ADDIO CELLULARI ECONOMICI. ECCO PERCHÉ E QUANTO A",
-    "lead_preview": "I cellulari economici a **100 euro sono un ricordo**: la crisi delle memorie fa schiantare i prezzi Roma, 18 ottobre. I ",
-    "tags": [
-      "crisi memorie flash",
-      "smartphone economici",
-      "prezzi cellulari 2023"
     ],
     "hero_eligible": true
   }
