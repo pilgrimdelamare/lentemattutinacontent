@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_spotify",
+    "slug": "disservizio-spotify",
+    "title": "Spotify completamente offline in Italia: quindici minuti senza musica per tutti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-29T03:29:09.785408+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/spotify.com",
+    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
+    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
+    "tags": [
+      "spotify offline",
+      "blackout streaming"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_chatgpt",
     "slug": "disservizio-chatgpt",
     "title": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
@@ -310,21 +328,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/26/198e13bdc9e83ef41a97814d3f7ed80b.jpg",
     "occhiello": "STM INCASSA MILIARDI, MA IL CONTO ARRIVA DOPO",
     "lead_preview": "Roma, 29 ottobre. Stmicroelectronics (stm), il gigante italo-francese dei semiconduttori, ha chiuso il terzo trimestre c",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify offline: blackout totale",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-29T03:29:09.785408+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
     "tags": [],
     "hero_eligible": true
   },
