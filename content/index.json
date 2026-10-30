@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T01:21:30.003360+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD OFFLINE: CRITICITA MASSIMA",
+    "lead_preview": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italia",
+    "tags": [
+      "downtime",
+      "discord",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay risulta completamente irraggiungibile da diciassette minuti. Il servizi",
@@ -9144,25 +9163,6 @@
       "crisi memorie flash",
       "smartphone economici",
       "prezzi cellulari 2023"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "17126ae54efc8755",
-    "slug": "a-folgiero-fincantieri-il-premio-niaf-per-leccelle-17126ae54efc8755",
-    "title": "A folgiero (fincantieri) il premio niaf per l'eccellenza nell'industria marittim",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-18T19:03:50.766423+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/91f1c3d3fb27b60d0a623c6a3ec590d0.jpg",
-    "occhiello": "A FOLGIERO (FINCANTIERI) IL PREMIO NIAF PER L'ECCELLENZA NELL'INDUSTRIA MARITTIM",
-    "lead_preview": "Folgiero, 18 ottobre Fincantieri ha vinto il Premio Niaf per l’eccellenza nell’industria marittima, un riconoscimento ch",
-    "tags": [
-      "premio niaf fincantieri",
-      "folgiero eccellenza navale",
-      "fincantieri riconoscimento industria marittima"
     ],
     "hero_eligible": true
   }
