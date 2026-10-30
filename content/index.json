@@ -1,5 +1,23 @@
 [
   {
+    "id": "monitor_discord",
+    "slug": "disservizio-discord",
+    "title": "Discord giù: 22 minuti di blackout e migliaia di italiani tagliati fuori",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-10-30T01:21:30.003360+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/discord.com",
+    "occhiello": "DISCORD OFFLINE: CRITICITA MASSIMA",
+    "lead_preview": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italia",
+    "tags": [
+      "discord offline",
+      "blackout discord"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_youtube",
     "slug": "disservizio-youtube",
     "title": "Youtube riapre dopo 45 minuti",
@@ -273,25 +291,6 @@
     "tags": [
       "downtime",
       "instagram",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T01:21:30.003360+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD OFFLINE: CRITICITA MASSIMA",
-    "lead_preview": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italia",
-    "tags": [
-      "downtime",
-      "discord",
       "disservizi"
     ],
     "hero_eligible": false
