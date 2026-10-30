@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, giovedì 29 ottobre 2026",
+  "title": "Le prime pagine di oggi, venerdì 30 ottobre 2026",
   "titles": [
-    "Le prime pagine di oggi, giovedì 29 ottobre 2026",
-    "Le prime pagine di oggi, giovedì 29 ottobre 2026",
-    "Le prime pagine di oggi, giovedì 29 ottobre 2026"
+    "Le prime pagine di oggi, venerdì 30 ottobre 2026",
+    "Le prime pagine di oggi, venerdì 30 ottobre 2026",
+    "Le prime pagine di oggi, venerdì 30 ottobre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 29 OTTOBRE 2026",
-  "lead": "I quotidiani italiani di giovedì 29 ottobre 2026 convergono quasi interamente sulla presentazione della manovra di bilancio del governo, descritta come un pacchetto da 26 miliardi di euro. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero dedicano l'apertura a queste misure fiscali, sottolineando tagli alle tasse e interventi per i giovani. In parallelo, tutti i principali quotidiani nazionali riportano in prima pagina la tragedia ferroviaria in Spagna con decine di vittime e il caso giudiziario di Youssef Siher, che ha generato un scontro politico. La Gazzetta dello Sport e il Corriere dello Sport fanno eccezione, concentrandosi esclusivamente sulle partite di Serie A, con particolare attenzione alla crisi della Juventus e al derby di Milano.",
-  "corpo1": "Il Corriere della Sera titola sulla manovra da 26 miliardi e sulle dichiarazioni della premier Meloni, mentre dedica spazio alla lite con i magistrati sul caso Siher. La Repubblica evidenzia il taglio dell'Irpef per i redditi fino a 55mila euro e l'estensione della cedolare secca ai negozi, affiancando il tema allo sciagurato incidente in Spagna. La Stampa si concentra sui benefici per ceto medio e giovani, oltre che alla critica alla premier verso le banche, riprendendo anche lo scontro istituzionale sul caso del detenuto. Il Messaggero punta sulla flat tax per i giovani e il pacchetto per gli under 35, menzionando tre italiane disperse nel disastro ferroviario. La Gazzetta dello Sport apre con il derby di Milano, Inter prima in classifica, mentre il Corriere dello Sport mette in copertina la crisi della Juventus, definita \"a fondo\" dopo la sconfitta con il Genoa.",
-  "corpo2": "Le prime pagine riportano dettagli specifici sulle misure fiscali, come il fondo per la pensione a 64 anni e l'abbassamento delle aliquote. I giornali sportivi dettagliano i risultati delle partite di serie A, inclusa la sconfitta del Milan contro il Bologna. Il tema dominante della giornata è la presentazione della legge di bilancio, che accomuna i quotidiani generalisti, mentre lo sport occupa le testate specializzate.",
+  "occhiello": "LE PRIME PAGINE 30 OTTOBRE 2026",
+  "lead": "I principali quotidiani italiani di venerdì 30 ottobre 2026 convergono sulla strage di militari italiani in Bosnia, con quattro morti e undici feriti a bordo di un velivolo precipitato dopo il decollo. Il Corriere della Sera, La Stampa e Il Messaggero dedicano l'apertura a questa tragedia. La Repubblica sposta l'attenzione sulla crisi sanitaria e sulle proteste regionali. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sul calcio, alternando le vicende di Milan e Juventus alla notizia del nuovo stadio di San Siro.",
+  "corpo1": "Il Corriere della Sera riporta in apertura la strage in Bosnia, specificando la presenza tra le vittime di operatori della Croce Rossa e l'origine europea della missione. La Repubblica titola sulla rivolta delle regioni per la Manovra, citando l'allarme dei governatori sui fondi tagliati e le minacce alla Gip del caso Siher. La Stampa conferma la tragedia nei cieli, dettagliando la perdita di quota immediata del velivolo e il cordoglio delle massime cariche dello Stato. Il Messaggero intitola la notizia \"L'elicottero della morte\", mostrando i resti del velivolo decollato da Viterbo, e segnala le città blindate per lo sciopero generale. La Gazzetta dello Sport apre con la difesa di Amorim da parte di Cardinale e il progetto del Generali Stadium, mentre il Corriere dello Sport anticipa il match Juventus-Napoli e la possibile sostituzione di Spalletti.",
+  "corpo2": "Le prime pagine includono anche il bilancio dei morti nel disastro ferroviario in Spagna, riportato dal Messaggero, e le accuse di Israele al Qatar sul voto, citate da La Repubblica. Il tema dominante della giornata è la tragedia aerea in Bosnia, che accompagna le tensioni interne legate alla Manovra e agli eventi calcistici.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-29T06:45:41.228876+00:00",
+  "published_at": "2026-10-30T06:46:03.518513+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/a748dd329bf48738b4fa12c5c0d45c1c52d84a6b/skytg24/it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre/corriere-della-sera-040012bvzcjuj.jpg",
+    "url": "https://tg24.sky.it/assets/images/9c1b12cbfffba48b2b9fb917bda16c6502fed962/skytg24/it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,10 +35,10 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/29/prime-pagine-quotidiani-oggi-29-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre",
   "related": [
     {
-      "title": "Oroscopo di oggi, giovedì 29 ottobre 2026",
+      "title": "Oroscopo di oggi, venerdì 30 ottobre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
