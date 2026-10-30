@@ -1,5 +1,22 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT ritorna online: ventuno minuti di blackout non lasciano danni residui",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-10-30T03:29:07.100513+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla",
+    "tags": [
+      "blackout chatgpt"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_instagram",
     "slug": "disservizio-instagram",
     "title": "Instagram sfonda i 22 minuti di blackout: milioni di italiani senza rete",
@@ -215,25 +232,6 @@
       "zodiaco",
       "stelle",
       "Stella D'Argento"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T03:29:07.100513+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
     ],
     "hero_eligible": false
   },
