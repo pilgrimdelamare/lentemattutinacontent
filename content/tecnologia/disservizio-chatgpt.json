@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
+  "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
   "titles": [
-    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
-    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
-    "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in"
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
+    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT OFFLINE DA SEDICI MINUTI",
-  "lead": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani non possono utilizzare l'assistente. L'impatto operativo è immediato e diffuso su tutta la piattaforma.",
-  "corpo1": "Il sistema di OpenAI ha registrato un'interruzione totale del servizio alle ore correnti. Gli utenti segnalano errori di connessione e timeout immediati durante l'accesso alla dashboard. Tutte le funzionalità, inclusa la generazione di testo e l'analisi dati, sono compromesse. Non è possibile inviare prompt né ricevere risposte. I server di inference appaiono sovraccarichi o in stato di errore critico. La situazione sta generando un blocco significativo per professionisti e sviluppatori che dipendono dall'AI per flussi di lavoro urgenti. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
+  "lead": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla piattaforma, si è concluso senza ulteriori ripercussioni. Gli utenti possono ora utilizzare il servizio in condizioni normali.",
+  "corpo1": "Il malfunzionamento è stato rilevato alle ore indicate, bloccando temporaneamente le richieste degli utenti. La durata complessiva dell'incidente si è attestata su 21 minuti. I sistemi di monitoraggio confermano che la stabilità della piattaforma è stata ripristinata. Le infrastrutture operative hanno ripreso il pieno controllo del traffico in entrata. Non si registrano anomalie residue nei server principali. L'accesso è fluido e le prestazioni sono tornate ai livelli standard previsti. La situazione è considerata definitivamente risolta.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T03:23:57.900155+00:00",
+  "published_at": "2026-10-30T03:29:07.100513+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
       "image_type": "image"
     },
     {
-      "title": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente ",
-      "url": "/tecnologia/disservizio-discord",
-      "id": "monitor_discord",
-      "image_url": "https://logo.clearbit.com/discord.com",
+      "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
+      "url": "/tecnologia/disservizio-youtube",
+      "id": "monitor_youtube",
+      "image_url": "https://logo.clearbit.com/youtube.com",
       "image_type": "image"
     }
   ],
