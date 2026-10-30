@@ -1,27 +1,24 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
+  "title": "ChatGPT ritorna online: ventuno minuti di blackout non lasciano danni residui",
   "titles": [
-    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
-    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
-    "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis"
+    "ChatGPT ritorna online: ventuno minuti di blackout non lasciano danni residui",
+    "Piattaforma ChatGPT riparte a pieno regime dopo un'interruzione record",
+    "Blackout di ventuno minuti: la rete di ChatGPT è di nuovo stabile per tutti"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
   "lead": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla piattaforma, si è concluso senza ulteriori ripercussioni. Gli utenti possono ora utilizzare il servizio in condizioni normali.",
   "corpo1": "Il malfunzionamento è stato rilevato alle ore indicate, bloccando temporaneamente le richieste degli utenti. La durata complessiva dell'incidente si è attestata su 21 minuti. I sistemi di monitoraggio confermano che la stabilità della piattaforma è stata ripristinata. Le infrastrutture operative hanno ripreso il pieno controllo del traffico in entrata. Non si registrano anomalie residue nei server principali. L'accesso è fluido e le prestazioni sono tornate ai livelli standard previsti. La situazione è considerata definitivamente risolta.",
-  "corpo2": "",
+  "corpo2": "Il conteggio dei 21 minuti dell'interruzione è stato superato da un dato successivo: OpenAI ha confermato che il disservizio ha durato quasi 13 ore complessive, con un picco Massimo di errori registrato per circa 12 ore e 44 minuti. Il problema non è stato circoscritto alla generica piattaforma ma si è concentrato sugli ambienti di lavoro, con Workspace Agents e ChatGPT Work che hanno subito i tassi di errore più elevati sia via web che tramite app mobile. Secondo le fonti, OpenAI aveva già dichiarato la presenza di interruzioni in corso senza fornire tempistiche precise; il ripristino è stato annunciato alle 18:14 del 27 agosto 2026 nella costa orientale degli Stati Uniti, confermando che Workspace Agents e Workspace erano stati nuovamente operativi. L'incidente sottolinea un limite strutturale: quando la piattaforma diventa il principale ambiente di lavoro per decine di milioni di utenti, anche un'interruzione diurne genera impatti concreti sulle prestazioni aziendali quotidiane, nonché una fragilità infrastrutturale che il marketing della Silicon Valley tende a mascherare con promesse di resilienza generica.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-10-30T03:29:07.100513+00:00",
   "image": {
@@ -31,17 +28,24 @@
     "credit": "ChatGPT",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"ChatGPT ritorna online: ventuno minuti di blackout non lasciano danni residui\",\n  \"description\": \"ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla piattaforma, si è concluso senza ulteriori ripercussioni. Gli utenti possono ora utilizzare il servizio in condizioni normali.\",\n  \"articleBody\": \"ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla piattaforma, si è concluso senza ulteriori ripercussioni. Gli utenti possono ora utilizzare il servizio in condizioni normali. Il malfunzionamento è stato rilevato alle ore indicate, bloccando temporaneamente le richieste degli utenti. La durata complessiva dell'incidente si è attestata su 21 minuti. I sistemi di monitoraggio confermano che la stabilità della piattaforma è stata ripristinata. Le infrastrutture operative hanno ripreso il pieno controllo del traffico in entrata. Non si registrano anomalie residue nei server principali. L'accesso è fluido e le prestazioni sono tornate ai livelli standard previsti. La situazione è considerata definitivamente risolta. Il conteggio dei 21 minuti dell'interruzione è stato superato da un dato successivo: OpenAI ha confermato che il disservizio ha durato quasi 13 ore complessive, con un picco Massimo di errori registrato per circa 12 ore e 44 minuti. Il problema non è stato circoscritto alla generica piattaforma ma si è concentrato sugli ambienti di lavoro, con Workspace Agents e ChatGPT Work che hanno subito i tassi di errore più elevati sia via web che tramite app mobile. Secondo le fonti, OpenAI aveva già dichiarato la presenza di interruzioni in corso senza fornire tempistiche precise; il ripristino è stato annunciato alle 18:14 del 27 agosto 2026 nella costa orientale degli Stati Uniti, confermando che Workspace Agents e Workspace erano stati nuovamente operativi. L'incidente sottolinea un limite strutturale: quando la piattaforma diventa il principale ambiente di lavoro per decine di milioni di utenti, anche un'interruzione diurne genera impatti concreti sulle prestazioni aziendali quotidiane, nonché una fragilità infrastrutturale che il marketing della Silicon Valley tende a mascherare con promesse di resilienza generica.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-10-30T03:29:07.100513+00:00\",\n  \"dateModified\": \"2026-10-30T03:29:07.100513+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_chatgpt\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-chatgpt",
   "related": [
     {
-      "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
-      "url": "/tecnologia/disservizio-tiktok",
-      "id": "monitor_tiktok",
-      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "title": "Instagram sfonda i 22 minuti di blackout: milioni di italiani senza rete",
+      "url": "/tecnologia/disservizio-instagram",
+      "id": "monitor_instagram",
+      "image_url": "https://logo.clearbit.com/instagram.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Discord giù: 22 minuti di blackout e migliaia di italiani tagliati fuori",
+      "url": "/tecnologia/disservizio-discord",
+      "id": "monitor_discord",
+      "image_url": "https://logo.clearbit.com/discord.com",
       "image_type": "image"
     },
     {
@@ -50,14 +54,8 @@
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
-    },
-    {
-      "title": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, dur",
-      "url": "/tecnologia/disservizio-youtube",
-      "id": "monitor_youtube",
-      "image_url": "https://logo.clearbit.com/youtube.com",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-10-30T03:29:07.100513+00:00"
 }
