@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il dis",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-10-30T03:29:07.100513+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
+    "lead_preview": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_spotify",
     "slug": "disservizio-spotify",
     "title": "Spotify completamente offline in Italia: quindici minuti senza musica per tutti",
@@ -16,25 +35,6 @@
       "blackout streaming"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente in",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T03:23:57.900155+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT OFFLINE DA SEDICI MINUTI",
-    "lead_preview": "ChatGPT risulta irraggiungibile da sedici minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italiani",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_tiktok",
