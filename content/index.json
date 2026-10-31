@@ -1,5 +1,20 @@
 [
   {
+    "id": "ca898b47361b36c5",
+    "slug": "propensione-al-risparmio-italiana-cala-12-ca898b47361b36c5",
+    "title": "Propensione al risparmio italiana cala 1,2%",
+    "section": "economia",
+    "priority": 6,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-10-31T12:46:56.316771+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/1/28/68f52bb77468c99f3c2b31a70ca03a10.jpg",
+    "occhiello": "PROPENSIONE AL RISPARMIO ITALIANA CALA 1,2%",
+    "lead_preview": "Roma, 31 ottobre 2026. Eurostat ha pubblicato i dati più recenti sull’economia Europea, rivelando che la propensione al ",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "c54cf650af907a04",
     "slug": "chieti-museo-a-cielo-aperto-lopera-luminosa-di-pep-c54cf650af907a04",
     "title": "'chieti museo a cielo aperto', l'opera luminosa di pep marchegiani",
@@ -9107,25 +9122,6 @@
       "sanzioni usa russia",
       "graham-russell act",
       "trump sospensione sanzioni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "47ee40b463f29b66",
-    "slug": "calcio-serie-c-esplode-con-37-gol-in-10-partite-re-47ee40b463f29b66",
-    "title": "Calcio: Serie C esplode con 37 gol in 10 partite, record storico e 1,2 milioni per ogni rete",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-18T20:48:31.608548+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c9fd72b04548368e7756375da27ae28b464e0328/skysport/it/calcio/serie-c/video/2026/10/18/1132731_1792348907935_thumb_494.0000001_1792352200105.jpg",
-    "occhiello": "SERIE C: LE PROVINCE SALVANO IL CALCIO ITALIANO CON 37 GOL IN 10 GIORNATE",
-    "lead_preview": "La Serie C ha registrato ieri la sua giornata più prolificante in termini di reti degli ultimi cinque anni: 37 gol distr",
-    "tags": [
-      "serie c record gol",
-      "calcio serie c 2023/24",
-      "province calcio italiano"
     ],
     "hero_eligible": true
   }
