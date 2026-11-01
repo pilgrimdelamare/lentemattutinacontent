@@ -1,5 +1,24 @@
 [
   {
+    "id": "45e4da577123ffbb",
+    "slug": "movie-maestro-michael-mann-sparato-a-una-gambe-45e4da577123ffbb",
+    "title": "Movie maestro Michael Mann sparato a una gambe",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-01T15:48:04.629599+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/16/a3c80cef584715634cbd8af2f6fbc25d.jpg",
+    "occhiello": "MICHAEL MANN SI SPARA ACCIDENTALMENTE A UNA GAMBA AL POLIGONO A LA, È IN OSPEDAL",
+    "lead_preview": "Los Angeles, 1 novembre Michael Kenneth Mann, regista di Heat e Collateral, si è sparato accidentalmente a una gamba dur",
+    "tags": [
+      "regista",
+      "accidente",
+      "tiro al poligono"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "81a1ddd09d79e63b",
     "slug": "trump-minaccia-16-vetos-allanno-blocco-totale-se-i-81a1ddd09d79e63b",
     "title": "Trump minaccia 16 vetos all’anno: «Blocco totale se i democratici prendono il Congresso»",
@@ -9086,25 +9105,6 @@
       "elezioni israel 2024",
       "7 ottobre vittime",
       "indagine penale israel"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5303b4d8b7aa80da",
-    "slug": "allegri-assente-per-influenza-il-napoli-rischia-2-5303b4d8b7aa80da",
-    "title": "Napoli: 12,3% di deficit e 5,8 milioni netti di Allegri in ballo – la partita che decide tutto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-18T16:01:53.459966+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e46735ae08dd586404be69ae63d2ff79382508ee/skysport/it/calcio/serie-a/2026/10/18/napoli-allegri-allenamento-news/allegri_napoli_allenamento_ansa.jpg",
-    "occhiello": "NAPOLI, ALLEGRI ASSENTE ALL'ALLENAMENTO PER UNA SINDROME INFLUENZALE",
-    "lead_preview": "Napoli, Allegri assente per influenza: il costo nascosto di un allenatore in campo Napoli, 18 ottobre. Massimiliano Alle",
-    "tags": [
-      "napoli",
-      "allenamento",
-      "allenatore"
     ],
     "hero_eligible": true
   }
