@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, venerdì 30 ottobre 2026",
+  "title": "Le prime pagine di oggi, domenica 1 novembre 2026",
   "titles": [
-    "Le prime pagine di oggi, venerdì 30 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 30 ottobre 2026",
-    "Le prime pagine di oggi, venerdì 30 ottobre 2026"
+    "Le prime pagine di oggi, domenica 1 novembre 2026",
+    "Le prime pagine di oggi, domenica 1 novembre 2026",
+    "Le prime pagine di oggi, domenica 1 novembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE 30 OTTOBRE 2026",
-  "lead": "I principali quotidiani italiani di venerdì 30 ottobre 2026 convergono sulla strage di militari italiani in Bosnia, con quattro morti e undici feriti a bordo di un velivolo precipitato dopo il decollo. Il Corriere della Sera, La Stampa e Il Messaggero dedicano l'apertura a questa tragedia. La Repubblica sposta l'attenzione sulla crisi sanitaria e sulle proteste regionali. La Gazzetta dello Sport e il Corriere dello Sport si concentrano sul calcio, alternando le vicende di Milan e Juventus alla notizia del nuovo stadio di San Siro.",
-  "corpo1": "Il Corriere della Sera riporta in apertura la strage in Bosnia, specificando la presenza tra le vittime di operatori della Croce Rossa e l'origine europea della missione. La Repubblica titola sulla rivolta delle regioni per la Manovra, citando l'allarme dei governatori sui fondi tagliati e le minacce alla Gip del caso Siher. La Stampa conferma la tragedia nei cieli, dettagliando la perdita di quota immediata del velivolo e il cordoglio delle massime cariche dello Stato. Il Messaggero intitola la notizia \"L'elicottero della morte\", mostrando i resti del velivolo decollato da Viterbo, e segnala le città blindate per lo sciopero generale. La Gazzetta dello Sport apre con la difesa di Amorim da parte di Cardinale e il progetto del Generali Stadium, mentre il Corriere dello Sport anticipa il match Juventus-Napoli e la possibile sostituzione di Spalletti.",
-  "corpo2": "Le prime pagine includono anche il bilancio dei morti nel disastro ferroviario in Spagna, riportato dal Messaggero, e le accuse di Israele al Qatar sul voto, citate da La Repubblica. Il tema dominante della giornata è la tragedia aerea in Bosnia, che accompagna le tensioni interne legate alla Manovra e agli eventi calcistici.",
+  "occhiello": "LE PRIME PAGINE 1 NOVEMBRE 2026",
+  "lead": "La stampa italiana oggi dedica ampio spazio alla politica interna, con focus su Manovra e cortei, e allo sport, dominato dal derby di Milano. Il Corriere Della Sera e La Repubblica aprono con interviste e dossier sul governo e sul programma di Campo Largo, citando temi come i salari e la giustizia. La Stampa e Il Messaggero mettono in evidenza rispettivamente l'intervista ad Abu Mazen e i tagli alla scuola. In campo sportivo, La Gazzetta dello Sport e il Corriere dello Sport titolano sull'Inter battuta dal Milan 3 a 1 e sulla posizione di Kimi Antonelli nel Mondiale di Formula 1.",
+  "corpo1": "Il Corriere Della Sera in apertura riporta un'intervista al ministro dell'Interno Matteo Piantedosi sui cortei violenti e le critiche alle toghe, affiancata da un colloquio con Matteo Renzi e dai sondaggi politici. La Repubblica titola sul programma di Campo Largo che prevede una paga di base di dieci euro l'ora, con menzione dei nodi su giustizia e ius soli, oltre che alle dubbi di Conte sulle primarie. La Stampa apre con un'intervista esclusiva ad Abu Mazen sulla cooperazione con chi riconosce la Palestina, seguita dalla notizia dei tagli a settemila lavoratori della scuola. Il Messaggero dedica la prima pagina alla Manovra 2027, sottolineando i risparmi statali di quattordici miliardi in dieci anni e i tagli al settore scolastico, oltre alle tensioni tra Stati Uniti e Iran. La Gazzetta dello Sport e il Corriere dello Sport condividono l'apertura sul calcio, evidenziando la sconfitta dell'Inter nel derby contro il Milan per 3 a 1, con Moreira protagonista.",
+  "corpo2": "Sulle altre prime pagine spiccano i dettagli sulle perquisizioni durante le proteste e la vittoria della Roma a Udine per 5 a 2. La Gazzetta dello Sport e il Corriere dello Sport dedicano spazio anche al mondiale di Formula 1 in Messico, dove Kimi Antonelli parte quarto. Il tema dominante della giornata è la combinazione tra le tensioni sociali legate alla Manovra e l'evento sportivo del derby milanese.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-10-30T06:46:03.518513+00:00",
+  "published_at": "2026-11-01T07:13:45.231388+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/9c1b12cbfffba48b2b9fb917bda16c6502fed962/skytg24/it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre/1_Corriere.jpg",
+    "url": "https://tg24.sky.it/assets/images/bf2bba599ca58104a0328f18c3228b252a45ed3e/skytg24/it/cronaca/2026/11/01/prime-pagine-quotidiani-oggi-1-novembre/01_rassegna_stampa-_1_novembre.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/11/01/prime-pagine-quotidiani-oggi-1-novembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, venerdì 30 ottobre 2026",
+      "title": "Oroscopo di oggi, domenica 1 novembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Austin, 24 ottobre. due inviati f1 provano un'auto senza volante",
-      "url": "/sport/f1-camicioli-e-vanzini-provano-il-robotaxi-senza-v-18834b6ff13063b2",
-      "id": "18834b6ff13063b2",
-      "image_url": "https://sport.sky.it/assets/images/f4bd26faa4dd0d0c69243c4cba9db6a8f1f82d20/skysport/it/motori/formula-1/2026/10/24/vanzini-camicioli-macchina-futuro-austin-video/cybercar_camicioli_vanzini_coeprtina.jpg",
-      "image_type": "feed_image"
+      "title": "Argentina, il 10 e 11 novembre l'udienza internazionale sulle falkland/malvinas",
+      "url": "/esteri/argentina-il-10-e-11-novembre-ludienza-internazion-cd339b78ced22edc",
+      "id": "cd339b78ced22edc",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/14/9e4a878477b681989d5caf977a931192.jpg",
+      "image_type": "image"
     },
     {
-      "title": "Milano, 21 ottobre",
-      "url": "/economia/milano-21-ottobre-8b118e3c96601960",
-      "id": "8b118e3c96601960",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/482b3531fdc0a1fdbbe977a73634fdc7.jpg",
+      "title": "Ettore bassi, 'promessi sposi scritto oggi sarebbe serie tv lunghissima'",
+      "url": "/cultura/ettore-bassi-promessi-sposi-scritto-oggi-sarebbe-s-5829cac6ef821988",
+      "id": "5829cac6ef821988",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/ae774f3abc8ccb764cc4f8cc01082134.jpg",
       "image_type": "image"
     }
   ],
