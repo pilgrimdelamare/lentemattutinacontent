@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, domenica 1 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-01T07:13:45.231388+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/bf2bba599ca58104a0328f18c3228b252a45ed3e/skytg24/it/cronaca/2026/11/01/prime-pagine-quotidiani-oggi-1-novembre/01_rassegna_stampa-_1_novembre.jpg",
+    "occhiello": "LE PRIME PAGINE 1 NOVEMBRE 2026",
+    "lead_preview": "La stampa italiana oggi dedica ampio spazio alla politica interna, con focus su Manovra e cortei, e allo sport, dominato",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "98a81923d36ccf4d",
     "slug": "manovra-2027-lassegno-unico-fonde-con-lo-sconto-co-98a81923d36ccf4d",
     "title": "Manovra 2027 accorpa due incentivi per lavoratrici madri",
@@ -646,25 +665,6 @@
       "nba",
       "sport",
       "calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 30 ottobre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-10-30T06:46:03.518513+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/9c1b12cbfffba48b2b9fb917bda16c6502fed962/skytg24/it/cronaca/2026/10/30/prime-pagine-quotidiani-oggi-30-ottobre/1_Corriere.jpg",
-    "occhiello": "LE PRIME PAGINE 30 OTTOBRE 2026",
-    "lead_preview": "I principali quotidiani italiani di venerdì 30 ottobre 2026 convergono sulla strage di militari italiani in Bosnia, con ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
