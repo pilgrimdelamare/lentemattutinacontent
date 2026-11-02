@@ -1,5 +1,24 @@
 [
   {
+    "id": "e7007c847e2271b9",
+    "slug": "bruxelles-1-novembre-e7007c847e2271b9",
+    "title": "Bruxelles, 1 novembre",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-11-01T12:52:00.617542+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/2/8/3d4757812730eb9ace2d2e46f0418484.jpg",
+    "occhiello": "",
+    "lead_preview": "Bruxelles, 1 novembre. L’Unione Europea ha sbloccato 6 miliardi di euro in aiuti alle imprese per fronteggiare la crisi ",
+    "tags": [
+      "aiuti eu crisi energetica",
+      "fondi sostenibili ue",
+      "6 miliardi euro impresa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "dfd669727ffd773f",
     "slug": "motogp-yamaha-abbandona-doha-per-rischi-geopolitic-dfd669727ffd773f",
     "title": "MotoGP: Yamaha scappa dal Qatar, il GP vola in fumo per rischi geopolitici e piloti in rivolta",
@@ -2335,25 +2354,6 @@
       "offensiva ucraina 2023",
       "zelensky guerra ucraina",
       "avanzamento ucraino ottobre"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e7007c847e2271b9",
-    "slug": "bruxelles-1-novembre-e7007c847e2271b9",
-    "title": "Bruxelles, 1 novembre",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-01T12:52:00.617542+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/2/8/3d4757812730eb9ace2d2e46f0418484.jpg",
-    "occhiello": "",
-    "lead_preview": "Bruxelles, 1 novembre. L’Unione Europea ha sbloccato 6 miliardi di euro in aiuti alle imprese per fronteggiare la crisi ",
-    "tags": [
-      "aiuti eu crisi energetica",
-      "fondi sostenibili ue",
-      "6 miliardi euro impresa"
     ],
     "hero_eligible": true
   },
