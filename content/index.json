@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 2 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-02T06:45:54.520219+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/98e2ab9308c8db517c29359701eb5bc3781a5903/skytg24/it/cronaca/2026/11/02/prime-pagine-quotidiani-oggi-2-novembre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE DI LUNEDÌ 2 NOVEMBRE 2026: KIMI ANTONELLI E LE MIDTERM USA DOMINANO L’ATTUALITÀ",
+    "lead_preview": "La vittoria di Kimi Antonelli nel mondiale di Formula 1 ha monopolizzato le prime pagine dei quotidiani italiani, con tu",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "f3be6ffcce1d88bd",
     "slug": "basket-petrucci-valuta-25-milioni-la-zandalasini-s-f3be6ffcce1d88bd",
     "title": "Basket: Petrucci rompe il muro, 2,5M il suo valore dopo il titolo WNBA – e l’Italia resta indietro",
@@ -2999,25 +3018,6 @@
     "tags": [
       "marchegiani chieti",
       "museo a cielo aperto chieti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, domenica 1 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-01T07:13:45.231388+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/bf2bba599ca58104a0328f18c3228b252a45ed3e/skytg24/it/cronaca/2026/11/01/prime-pagine-quotidiani-oggi-1-novembre/01_rassegna_stampa-_1_novembre.jpg",
-    "occhiello": "LE PRIME PAGINE 1 NOVEMBRE 2026",
-    "lead_preview": "La stampa italiana oggi dedica ampio spazio alla politica interna, con focus su Manovra e cortei, e allo sport, dominato",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
