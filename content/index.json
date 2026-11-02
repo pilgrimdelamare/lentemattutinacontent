@@ -1,5 +1,24 @@
 [
   {
+    "id": "101b979627ba1051",
+    "slug": "fsb-sotto-accusa-perche-lallerta-usa-su-mosca-vien-101b979627ba1051",
+    "title": "Ateneo di Mosca allarmato",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-01T10:30:12.948440+00:00",
+    "image_type": "image",
+    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/31/1793465052-AP23257517361684.jpg",
+    "occhiello": "L’AMBASCIATA STATUNITENSE IN RUSSIA HA EMESSO UN’ALLERTA PER UN POSSIBILE ATTACC",
+    "lead_preview": "MOSCA, 31 OTTOBRE L’ambasciata statunitense in Russia ha diramato un’allerta di sicurezza che, se confermata, sarebbe la",
+    "tags": [
+      "allerta usa moscacenter",
+      "minaccia tsaritsyno",
+      "sicurezza ambasciata moscacenter"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "498ee41836d6334a",
     "slug": "trump-bloccato-in-alaska-giudice-confisca-150000-d-498ee41836d6334a",
     "title": "Fabe blocca 150mila dollari di Trump: Alaska certifica voti senza sue ‘prove’",
@@ -15,25 +34,6 @@
       "trump",
       "voto 2024",
       "giudice"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "101b979627ba1051",
-    "slug": "fsb-sotto-accusa-perche-lallerta-usa-su-mosca-vien-101b979627ba1051",
-    "title": "Tsaritsyno evacuato per allerta Usa: 300-500 persone bloccate in museo ‘simbolo di Putin’",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-01T10:30:12.948440+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/31/1793465052-AP23257517361684.jpg",
-    "occhiello": "L’AMBASCIATA STATUNITENSE IN RUSSIA HA EMESSO UN’ALLERTA PER UN POSSIBILE ATTACC",
-    "lead_preview": "MOSCA, 31 OTTOBRE L’ambasciata statunitense in Russia ha diramato un’allerta di sicurezza che, se confermata, sarebbe la",
-    "tags": [
-      "allerta usa moscavia",
-      "evacuazione museo tsaritsyno",
-      "allerta sicurezza russia"
     ],
     "hero_eligible": true
   },
