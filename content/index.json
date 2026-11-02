@@ -1,5 +1,24 @@
 [
   {
+    "id": "3a2a97c534edd383",
+    "slug": "roberto-rossellini-ritrova-il-cinema-italiano-a-ne-3a2a97c534edd383",
+    "title": "Roberto Rossellini: Ritrova il Cinema italiano a New York",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-02T16:32:23.022919+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2012/8/16/28ccebc7eb260e9d1911d12389acba0b.jpg",
+    "occhiello": "NY SI UNISCE A LOS ANGELES E CELEBRA IL 120/O ANNIVERSARIO DELLA NASCITA DI ROSS",
+    "lead_preview": "New York celebra Roberto Rossellini con una retrospettiva che va oltre il ricordo: un omaggio al suo lascito culturale N",
+    "tags": [
+      "retrospettiva rossellini new york",
+      "120° anniversario rossellini",
+      "neorealismo cinematografico"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "0b230aa6fc9a1fdc",
     "slug": "purcell-al-goldoni-dopo-ventanni-0b230aa6fc9a1fdc",
     "title": "Purcell al goldoni dopo vent'anni",
@@ -9103,25 +9122,6 @@
       "comolli al pisa",
       "debiti juve",
       "crisi economica pisa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b78c999bb848bc73",
-    "slug": "coni-serie-a-qualita-solo-nei-bilanci-non-sul-camp-b78c999bb848bc73",
-    "title": "CONI: «Serie A? Qualità solo nei bilanci, non sul campo»",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-20T16:06:01.152462+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2020/6/25/30bb6619a19f5eb1333738d64e5fe3a5.jpg",
-    "occhiello": "BUONFIGLIO 'AUSPICIO PER ASSEMBLEA FIGC? NON HO NESSUN DUBBIO'",
-    "lead_preview": "MAIUSCOLO Il CONI accusa la Serie A: «I risultati non si improvvisano, ma qui la qualità regna solo nel bilancio» Roma, ",
-    "tags": [
-      "coni serie a",
-      "bilanci calcio",
-      "critica figc bilanci"
     ],
     "hero_eligible": true
   }
