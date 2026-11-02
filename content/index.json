@@ -1,5 +1,24 @@
 [
   {
+    "id": "6275f0a777a98f13",
+    "slug": "limpegno-sociale-di-maria-ponti-pasolini-in-mostra-6275f0a777a98f13",
+    "title": "L'impegno sociale di maria ponti pasolini in mostra a ravenna",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-02T11:04:44.096597+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/5f5e6a6f6f0b1dc863b7734afed66800.jpg",
+    "occhiello": "L'IMPEGNO SOCIALE DI MARIA PONTI PASOLINI IN MOSTRA A RAVENNA",
+    "lead_preview": "RAVENNA, 6 novembre Maria Ponti Pasolini, 28 anni, figlia del regista Pier Paolo Pasolini e della scrittrice Silvana Man",
+    "tags": [
+      "pasolini",
+      "mostra",
+      "mostra artistica"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "41825b51abd75120",
     "slug": "londa-lunga-dellamericas-cup-una-spinta-da-9-milia-41825b51abd75120",
     "title": "L’onda lunga dell’america’s cup: una spinta da 9 miliardi per il made in italy",
@@ -9112,25 +9131,6 @@
       "energia",
       "azienda italiana",
       "fiera argentina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "20e06be5c3ca538a",
-    "slug": "lega-romeo-sostengo-corsa-di-garavaglia-il-voto-se-20e06be5c3ca538a",
-    "title": "Matteo Salvini ad Alleanza Nazionale. Uomo potente o suonato in partito?",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-10-19T11:45:45.357740+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/19/079a500ab1eabf757cfbf1fe307bb8d3.jpg",
-    "occhiello": "LEGA: ROMEO, SOSTENGO CORSA DI GARAVAGLIA, IL VOTO SEGRETO È ASSOLUTAMENTE SCONT",
-    "lead_preview": "Roma, 19 ottobre Matteo Romeo, capogruppo della Lega al Senato, ha annunciato oggi che il sostegno del suo gruppo al sen",
-    "tags": [
-      "politica",
-      "partito",
-      "lega"
     ],
     "hero_eligible": true
   }
