@@ -1,5 +1,24 @@
 [
   {
+    "id": "e7007c847e2271b9",
+    "slug": "bruxelles-1-novembre-e7007c847e2271b9",
+    "title": "Bruxelles, 1 novembre",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-11-01T12:52:00.617542+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/2/8/3d4757812730eb9ace2d2e46f0418484.jpg",
+    "occhiello": "",
+    "lead_preview": "Bruxelles, 1 novembre. L’Unione Europea ha sbloccato 6 miliardi di euro in aiuti alle imprese per fronteggiare la crisi ",
+    "tags": [
+      "aiuti eu crisi energetica",
+      "fondi sostenibili ue",
+      "6 miliardi euro impresa ue"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e9118e9c7258f297",
     "slug": "serie-c-budget-da-miseria-e-prestiti-mai-riscattat-e9118e9c7258f297",
     "title": "Serie C: 15mila euro al mese per i titolari, così Lumezzane e Arzignano competono a vuoto",
@@ -2044,25 +2063,6 @@
       "colpo di stato repubblica centrafricana",
       "ribellione mil centrafrica",
       "coprifuoco bangui"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e7007c847e2271b9",
-    "slug": "bruxelles-1-novembre-e7007c847e2271b9",
-    "title": "Bruxelles, 1 novembre",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-01T12:52:00.617542+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/2/8/3d4757812730eb9ace2d2e46f0418484.jpg",
-    "occhiello": "",
-    "lead_preview": "Bruxelles, 1 novembre. L’Unione Europea ha sbloccato 6 miliardi di euro in aiuti alle imprese per fronteggiare la crisi ",
-    "tags": [
-      "aiuti eu crisi energetica",
-      "fondi sostenibili ue",
-      "6 miliardi euro impresa"
     ],
     "hero_eligible": true
   },
