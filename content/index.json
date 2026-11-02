@@ -1,5 +1,24 @@
 [
   {
+    "id": "5d913fe61d822e1b",
+    "slug": "au-yemen-plus-de-300-000-personnes-deplacees-a-cau-5d913fe61d822e1b",
+    "title": "Au yémen, plus de 300 000 personnes déplacées à cause des combats dans l’ouest d",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-01T16:55:38.975614+00:00",
+    "image_type": "flickr",
+    "image_url": "https://live.staticflickr.com/65535/55624206917_fb92b851db_b.jpg",
+    "occhiello": "AU YÉMEN, PLUS DE 300 000 PERSONNES DÉPLACÉES À CAUSE DES COMBATS DANS L’OUEST D",
+    "lead_preview": "Sana’a, 1 novembre Il porto di Hudaydah è sotto assedio. I combattimenti tra i ribelli houthisti e le forze del governo ",
+    "tags": [
+      "guerra yemen",
+      "assedio hudaydah",
+      "sfollati yemen"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "77a23ff912a0c597",
     "slug": "bonaccini-non-e-un-aiuto-e-un-ritardo-la-protezion-77a23ff912a0c597",
     "title": "I fondi per le alluvioni del 2023: il governo annuncia il finanziamento",
@@ -2394,25 +2413,6 @@
       "fiorentina",
       "sport",
       "calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5d913fe61d822e1b",
-    "slug": "au-yemen-plus-de-300-000-personnes-deplacees-a-cau-5d913fe61d822e1b",
-    "title": "Hudaydah sotto assedio: più di 300.000 sfollati in quattro settimane, porti bloccati",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-01T16:55:38.975614+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55624206917_fb92b851db_b.jpg",
-    "occhiello": "AU YÉMEN, PLUS DE 300 000 PERSONNES DÉPLACÉES À CAUSE DES COMBATS DANS L’OUEST D",
-    "lead_preview": "Sana’a, 1 novembre Il porto di Hudaydah è sotto assedio. I combattimenti tra i ribelli houthisti e le forze del governo ",
-    "tags": [
-      "guerra iran",
-      "assedio",
-      "sfollamento"
     ],
     "hero_eligible": true
   },
