@@ -1,5 +1,24 @@
 [
   {
+    "id": "c8af7d31a875caaa",
+    "slug": "il-papa-la-guerra-strappa-i-bimbi-alle-madri-tacci-c8af7d31a875caaa",
+    "title": "Il papa, 'la guerra strappa i bimbi alle madri, tacciano le armi'",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Elena Russo",
+    "published_at": "2026-11-02T15:45:13.669121+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/58e3b59a53689b86b400a8d281b3d0e2.jpg",
+    "occhiello": "IL PAPA, 'LA GUERRA STRAPPA I BIMBI ALLE MADRI, TACCIANO LE ARMI'",
+    "lead_preview": "Roma, 2 novembre Papa Leone XIV ha detto ai fedeli del Verano che «la guerra strappa i bimbi dalle braccia delle madri» ",
+    "tags": [
+      "discorso papa francesco",
+      "guerra bambini",
+      "chiamata disarmo"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e9d6043f7d8571fc",
     "slug": "zanicchi-boccia-mediaset-il-mio-valore-non-si-nego-e9d6043f7d8571fc",
     "title": "Zanicchi e il 'vaffa' a mediaset,'avrei preteso una chiamata su ok il prezzo è g",
@@ -9108,25 +9127,6 @@
       "calcio",
       "champions league",
       "fàbregas"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "35718b23d7c55464",
-    "slug": "trattore-schiaccia-13enne-padre-in-campo-senza-cin-35718b23d7c55464",
-    "title": "Roggiano, padre guida trattore e figlia cade: il dolore in un campo calabrese",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Roberto Neri",
-    "published_at": "2026-10-19T18:56:22.031484+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/19/204331359-4e06600c-ba9b-4b60-97aa-b424e698637f.jpg",
-    "occhiello": "TRAGEDIA NEL COSENTINO, TREDICENNE MUORE SCHIACCIATA DAL TRATTORE GUIDATO DAL PA",
-    "lead_preview": "Roggiano Gravina, 19 ottobre Una tredicenne è morta schiacciata dal trattore guidato dal padre in un campo a località lo",
-    "tags": [
-      "traghedia",
-      "accidente",
-      "guida trattore"
     ],
     "hero_eligible": true
   }
