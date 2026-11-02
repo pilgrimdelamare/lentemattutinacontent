@@ -1,5 +1,24 @@
 [
   {
+    "id": "ff5645244d083ced",
+    "slug": "titolo-del-governo-di-roma-sotto-osservazione-ff5645244d083ced",
+    "title": "Titolo del governo di roma sotto osservazione",
+    "section": "economia",
+    "priority": 8,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-11-02T08:09:08.794757+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2013/11/28/9c52bd37060eb552fcfa7b366b8d4116.jpg",
+    "occhiello": "TITOLO DEL GOVERNO DI ROMA SOTTO OSSERVAZIONE",
+    "lead_preview": "Roma, 2 novembre. Il rendimento annuo dei titoli di Stato italiani è sceso oggi al 4,5%, un calo di 0,8 punti percentual",
+    "tags": [
+      "titoli di stato italia",
+      "mercati finanziari",
+      "borsa milano"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "37166ab775e5b32f",
     "slug": "torino-cacciamani-non-ce-la-fa-salta-il-frosinone-37166ab775e5b32f",
     "title": "Torino: cacciamani non ce la fa, salta il frosinone",
@@ -9105,25 +9124,6 @@
       "aiuti umanitari gaza",
       "razioni alimentari onu",
       "crisi nutrizionale striscia di gaza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "19b04aa5e4151895",
-    "slug": "ravanelli-svela-la-juve-e-la-peggiore-di-spalletti-19b04aa5e4151895",
-    "title": "Calcio: Ravanelli spara sulla Juve, Spalletti «ha perso il controllo»: «La peggiore dell’era sua»",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-19T09:20:07.785049+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/11/7/fc737e9e9ea34c266e30bd89abdda01b.jpg",
-    "occhiello": "RAVANELLI 'JUVE IRRICONOSCIBILE LA PEGGIORE DELL'ERA SPALLETTI'",
-    "lead_preview": "Milano, 19 ottobre Fabrizio Ravanelli non ha mai avuto problemi a dire ciò che pensa, ma questa volta ha toccato un nerv",
-    "tags": [
-      "ravanelli critica juve",
-      "spalletti juventus",
-      "calcio serie a 2023-24"
     ],
     "hero_eligible": true
   }
