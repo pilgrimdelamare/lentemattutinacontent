@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-03T07:06:58.885211+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIATTIVATO. DISERVIZIO RISOLTO.",
+    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione non pianificata. Tutti i servizi sono st",
+    "tags": [
+      "sistema claude",
+      "interruzione",
+      "ripristino servizi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "69c49e6db5867d2e",
     "slug": "leuro-crolla-sotto-i-176-yen-per-gli-italiani-2-in-69c49e6db5867d2e",
     "title": "Euro crolla sotto i 177 yen: per l’Italia +2% in più su ogni transazione in Giappone",
@@ -3354,25 +3373,6 @@
       "prezzi caffè 2023"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-03T07:06:58.885211+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIATTIVATO. DISERVIZIO RISOLTO.",
-    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione non pianificata. Tutti i servizi sono st",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "88b4d27442434db1",
