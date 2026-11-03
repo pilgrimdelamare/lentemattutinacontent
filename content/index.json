@@ -1,5 +1,24 @@
 [
   {
+    "id": "db54be0c298bc5aa",
+    "slug": "nasdaq-e-djia-il-mercato-scorre-a-vantaggio-delle-db54be0c298bc5aa",
+    "title": "Nasdaq e DJIA: il mercato scorre a vantaggio delle tecnologie",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-11-03T15:11:47.435974+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/b0678a5a74b129a9394ff34965ca6cb3.jpg",
+    "occhiello": "WALL STREET APRE CONTRASTATA, DJ -0,37%, NASDAQ +0,44%",
+    "lead_preview": "MAIUSCOLO NASDAQ SALTA A +0,44% MENTRE IL DJI CROLLA DI -0,37%: LA BORSA DI NEW YORK DIVISA TRA FONDI SPECULATIVI E AZIO",
+    "tags": [
+      "borsa",
+      "tecnologia",
+      "investimento"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e86c34fe12b26d70",
     "slug": "arera-91-il-prezzo-del-gas-a-ottobre-per-i-vulnera-e86c34fe12b26d70",
     "title": "Arera: '+9,1% il prezzo del gas a ottobre per i vulnerabili'",
@@ -9115,24 +9134,6 @@
     "tags": [
       "smart tv",
       "tracciamento dati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "57651e7d0953c36c",
-    "slug": "lamministrazione-trump-non-ha-approvato-il-trasfer-57651e7d0953c36c",
-    "title": "Zelensky accusa Washington: i Patriot restano bloccati, niente difese",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-20T10:29:46.098054+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/10/20/1792479561-AP26191286257668.jpg",
-    "occhiello": "L’AMMINISTRAZIONE TRUMP NON HA APPROVATO IL TRASFERIMENTO DI MISSILI PATRIOT ALL",
-    "lead_preview": "Washington, 20 ottobre L’amministrazione Trump ha bloccato l’autorizzazione al trasferimento di missili Patriot all’Ucra",
-    "tags": [
-      "patriot ucraina",
-      "zelensky trump"
     ],
     "hero_eligible": true
   }
