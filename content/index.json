@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 3 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-03T06:56:55.659761+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/9f3c63070e6b929ca32b09b9e3703d0d4e43bffc/skytg24/it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre/corriere-della-sera-035540ru3dvv9.jpg",
+    "occhiello": "",
+    "lead_preview": "I quotidiani italiani dedicano oggi spazio prioritario alle elezioni di midterm negli Stati Uniti, con i sondaggi che da",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
@@ -4197,25 +4216,6 @@
       "premio riccardo laganà 2026",
       "inchiesta hasta el final",
       "deviazione fondi pubblici sud"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 2 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-02T06:45:54.520219+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/98e2ab9308c8db517c29359701eb5bc3781a5903/skytg24/it/cronaca/2026/11/02/prime-pagine-quotidiani-oggi-2-novembre/CorSera.png",
-    "occhiello": "LE PRIME PAGINE DI LUNEDÌ 2 NOVEMBRE 2026: KIMI ANTONELLI E LE MIDTERM USA DOMINANO L’ATTUALITÀ",
-    "lead_preview": "La vittoria di Kimi Antonelli nel mondiale di Formula 1 ha monopolizzato le prime pagine dei quotidiani italiani, con tu",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
