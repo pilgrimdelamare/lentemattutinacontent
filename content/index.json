@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-03T06:55:42.857988+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 27 MINUTI. ALLERTA SISTEMA CRITICO.",
+    "lead_preview": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inaccessibili, con impatto immediato su utent",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "73b46e371d334a76",
     "slug": "roman-polanski-io-bimbo-sopravvissuto-nel-ghetto-d-73b46e371d334a76",
     "title": "Polanski pubblica Mémoires de l’épave",
@@ -9108,25 +9127,6 @@
       "jayson-tatum nba",
       "opening night 2026-27",
       "detroit vs boston"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4f5797aa295aee45",
-    "slug": "parma-torino-0-3-video-gol-e-highlights-4f5797aa295aee45",
-    "title": "Calcio: Torino sfonda Parma con 3 gol di precisione, il Parma spende 18 milioni in rosso",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-19T22:17:36.080861+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/850860e178b04869e3f80b1491801e58fd8af52d/skysport/it/calcio/serie-a/partite/2026/giornata-7/parma-torino/highlights/content/Torino_Ansa2.jpg",
-    "occhiello": "PARMA-TORINO 0-3: VIDEO, GOL E HIGHLIGHTS",
-    "lead_preview": "Parma, 19 ottobre Il Torino ha scritto una pagina di contabilità vincente che il Parma non avrebbe potuto permettersi: t",
-    "tags": [
-      "torino-parma 0-3",
-      "calcio serie a 2023-24",
-      "finanziario parma fc"
     ],
     "hero_eligible": true
   }
