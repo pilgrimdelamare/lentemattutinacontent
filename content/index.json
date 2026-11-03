@@ -1,5 +1,24 @@
 [
   {
+    "id": "61d7df0edc3514fa",
+    "slug": "powell-avvisa-ribaltone-usa-fa-salire-i-tassi-gia-61d7df0edc3514fa",
+    "title": "Powell lancia l’allarme: ribaltone Usa fa schizzare i tassi, mutui salgono del 10%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-11-03T08:49:09.923091+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/9/3b1f215478d298cda24b435268b76839.jpg",
+    "occhiello": "",
+    "lead_preview": "Londra, 3 novembre. Londra -0,5%, Parigi -0,6%, Francoforte -0,9%. È il bilancio della seduta di Borsa in Europa, dove i",
+    "tags": [
+      "elezioni usa 2024",
+      "tassi interessi",
+      "mutui costi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "06314ea0b2d816bc",
     "slug": "westchester-250000-schede-bloccate-scanner-rifiuta-06314ea0b2d816bc",
     "title": "Westchester: 250.000 schede bloccate, scanner rifiutano voti e Trump accusa brogli",
@@ -3153,25 +3172,6 @@
       "valle d'aosta ladies open 2023",
       "alina charaeva vince torneo",
       "wta 125 tennis"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "61d7df0edc3514fa",
-    "slug": "powell-avvisa-ribaltone-usa-fa-salire-i-tassi-gia-61d7df0edc3514fa",
-    "title": "Powell avvisa: ribaltone Usa fa salire i tassi già nel 2025 e i mutui diventano un incubo",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-03T08:49:09.923091+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/9/9/3b1f215478d298cda24b435268b76839.jpg",
-    "occhiello": "",
-    "lead_preview": "Londra, 3 novembre. Londra -0,5%, Parigi -0,6%, Francoforte -0,9%. È il bilancio della seduta di Borsa in Europa, dove i",
-    "tags": [
-      "elezioni usa 2024",
-      "tassi fed 2025",
-      "mutui costi"
     ],
     "hero_eligible": true
   },
