@@ -1,5 +1,24 @@
 [
   {
+    "id": "bc0ece2b7e68cf70",
+    "slug": "la-nuova-realta-di-bernardini-bc0ece2b7e68cf70",
+    "title": "La nuova realtà di Bernardini",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-03T15:08:41.699470+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/721ecb533625f344be35b7fe37e5d413.jpg",
+    "occhiello": "LA TV COME 'SCENA APERTA', SU RAI 5 IL NUOVO PROGRAMMA DI BERNARDINI",
+    "lead_preview": "MAIUSCOLO RAI 5 FA IL CORSO DI UNO SPETTACOLO DI MASSE: SIX FLAGS CULTURALE CON I PROTAGONISTI Roma, 3 novembre. Rai 5 l",
+    "tags": [
+      "bernardini rai5",
+      "teatro musica live",
+      "rai5 nuovo programma"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5667a3446c86a22d",
     "slug": "12-miliardi-bloccati-il-governo-non-nomina-il-capo-5667a3446c86a22d",
     "title": "Cdp venture, nomine in stallo e fondi in bilico",
@@ -9114,25 +9133,6 @@
       "tennis wta ningbo",
       "paolini vs kalinina",
       "wta 500 ningbo 2024"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3eca159f883e3345",
-    "slug": "gas-a-50-gradi-come-eni-trasforma-il-deserto-in-un-3eca159f883e3345",
-    "title": "ENI: via gas da deserto Egitto, 1 miliardo mc/anno. Spreco pubblico?",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-10-20T07:28:42.359764+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2021/5/25/6afe8000fe3c17584c88320e8e5dfffd.jpg",
-    "occhiello": "ENI AVVIA ATTIVITÀ DEL PROGETTO MELEIHA PHASE 2 NEL WESTERN DESERT EGIZIANO",
-    "lead_preview": "Western Desert, 20 ottobre Eni ha avviato ufficialmente la seconda fase del progetto Meleiha nel deserto occidentale egi",
-    "tags": [
-      "eni egitto",
-      "gas deserto",
-      "spreco pubblico"
     ],
     "hero_eligible": true
   }
