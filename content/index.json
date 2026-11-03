@@ -1,5 +1,24 @@
 [
   {
+    "id": "ba086b231cdff1db",
+    "slug": "henze-omaggiato-a-roma-perche-la-sinistra-italiana-ba086b231cdff1db",
+    "title": "Voices, a roma omaggio a hans werner henze",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-02T13:52:59.013878+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/fadf30c724f9f659b14cba7aababda2c.jpg",
+    "occhiello": "VOICES, A ROMA OMAGGIO A HANS WERNER HENZE",
+    "lead_preview": "MAIUSCOLO HENZE RITRATTO IN ITALIA: IL MARXISMO CHE NON SI SENTE PIÙ Roma, 4 novembre. Il New European Ensemble e Carlo ",
+    "tags": [
+      "omaggio henze roma",
+      "concerto voices",
+      "musica classica contemporanea"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fd2677ed10d3e154",
     "slug": "bezzecchi-racconta-antonelli-maturita-e-serenita-d-fd2677ed10d3e154",
     "title": "MotoGP: Piaggio spende 18M per Antonelli, il sistema che trasforma i giovani in asset da 12M l’anno",
@@ -2762,25 +2781,6 @@
       "serie c dolomiti bellunesi",
       "dolomiti bellunesi-lecco 0-4",
       "crisi societaria calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ba086b231cdff1db",
-    "slug": "henze-omaggiato-a-roma-perche-la-sinistra-italiana-ba086b231cdff1db",
-    "title": "Henze omaggiato a Roma: perché la sinistra Italiana ha dimenticato il suo marxismo musicale",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-02T13:52:59.013878+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/fadf30c724f9f659b14cba7aababda2c.jpg",
-    "occhiello": "VOICES, A ROMA OMAGGIO A HANS WERNER HENZE",
-    "lead_preview": "MAIUSCOLO HENZE RITRATTO IN ITALIA: IL MARXISMO CHE NON SI SENTE PIÙ Roma, 4 novembre. Il New European Ensemble e Carlo ",
-    "tags": [
-      "omaggio henze roma",
-      "marxismo musicale",
-      "concerto voices"
     ],
     "hero_eligible": true
   },
