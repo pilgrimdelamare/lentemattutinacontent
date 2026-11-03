@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-03T07:06:58.885211+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIATTIVATO. DISERVIZIO RISOLTO.",
+    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione non pianificata. Tutti i servizi sono st",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "88b4d27442434db1",
     "slug": "ranking-wta-la-classifica-di-jasmine-paolini-e-le-88b4d27442434db1",
     "title": "Tennis: Paolini resiste a 35 punti mentre il ranking non si muove: il mistero di chi non crolla mai",
@@ -55,25 +74,6 @@
       "giornali"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-03T06:55:42.857988+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 27 MINUTI. ALLERTA SISTEMA CRITICO.",
-    "lead_preview": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inaccessibili, con impatto immediato su utent",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "73b46e371d334a76",
