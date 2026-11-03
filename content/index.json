@@ -1,5 +1,24 @@
 [
   {
+    "id": "f25dfb837567cf13",
+    "slug": "opus-xx-delle-ebraie-f25dfb837567cf13",
+    "title": "Opus XX delle Ebraie?",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-03T10:41:24.275102+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/968627ee0f9930b588f87301dcd2a920.jpg",
+    "occhiello": "QUARTA SINFONIA MAHLER APRE STAGIONE DA CAMERA DELLA FILARMONICA ROMANA",
+    "lead_preview": "MAHLER AL TEATRO ARGENTINA: LA FILARMONICA ROMANA RIAPRE CON UN CLASSICO CHE NESSUNO SI ASPETTAVA DI ASCOLTARE Roma, 3 n",
+    "tags": [
+      "filarmonica romana",
+      "gustav mahler",
+      "quarta sinfonia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "fe2360d05d61a4c9",
     "slug": "ancora-sviamila-con-i-migranti-fe2360d05d61a4c9",
     "title": "Giannini al Salone? Il Circolo dei Lettori: 'Pluralismo o niente, altrimenti stop'",
@@ -9115,25 +9134,6 @@
     "tags": [
       "razgatlioglu infortunio",
       "yamaha pramac"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a7ff5c66d0e4068c",
-    "slug": "mancini-vuole-una-grande-rivincita-a7ff5c66d0e4068c",
-    "title": "Champions, como-man united mercoledì alle 18.45 su sky",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-20T12:12:22.944467+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c491c0eee732fe8671b21e736325aa642e7a4ed7/skysport/it/calcio/champions-league/video/2026/10/20/1133032_1792485608182_thumb_494.0000001_1792486193657.jpg",
-    "occhiello": "CHAMPIONS, COMO-MAN UNITED MERCOLEDÌ ALLE 18.45 SU SKY",
-    "lead_preview": "Manchester, 20 ottobre Il Manchester United si presenterà al Old Trafford per il terzo turno preliminare di Champions Le",
-    "tags": [
-      "champions league 2024-25",
-      "como vs manchester united",
-      "terzo turno preliminare"
     ],
     "hero_eligible": true
   }
