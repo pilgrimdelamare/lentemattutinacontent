@@ -1,5 +1,24 @@
 [
   {
+    "id": "204f942c079f1006",
+    "slug": "wsj-attacco-limitato-usa-contro-lisola-iraniana-di-204f942c079f1006",
+    "title": "Wsj, 'attacco limitato usa contro l'isola iraniana di qeshm'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-03T02:20:28.765066+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/90a59f9fd988040322ded407e078c0ca.jpg",
+    "occhiello": "WSJ, 'ATTACCO LIMITATO USA CONTRO L'ISOLA IRANIANA DI QESHM'",
+    "lead_preview": "Qeshm, 2 novembre. Gli Stati Uniti hanno condotto un attacco limitato contro l'isola iraniana di Qeshm, secondo quanto c",
+    "tags": [
+      "attacco usa qeshm",
+      "iran qeshm",
+      "tensione usa iran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "aeaaf18bac9932a4",
     "slug": "minurso-scade-dopo-35-anni-di-controllo-inutile-aeaaf18bac9932a4",
     "title": "MINURSO scade dopo 35 anni di controllo inutile",
@@ -3094,25 +3113,6 @@
       "attacco raffineria russia",
       "droni ucraina moscovia",
       "petrolio guerra ucraina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "204f942c079f1006",
-    "slug": "wsj-attacco-limitato-usa-contro-lisola-iraniana-di-204f942c079f1006",
-    "title": "Wsj, 'attacco limitato usa contro l'isola iraniana di qeshm'",
-    "section": "esteri",
-    "priority": 7,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-03T02:20:28.765066+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/90a59f9fd988040322ded407e078c0ca.jpg",
-    "occhiello": "WSJ, 'ATTACCO LIMITATO USA CONTRO L'ISOLA IRANIANA DI QESHM'",
-    "lead_preview": "Qeshm, 2 novembre. Gli Stati Uniti hanno condotto un attacco limitato contro l'isola iraniana di Qeshm, secondo quanto c",
-    "tags": [
-      "attacco aereo",
-      "guerra iraniana",
-      "gli stati uniti"
     ],
     "hero_eligible": true
   },
