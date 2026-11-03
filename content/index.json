@@ -1,5 +1,24 @@
 [
   {
+    "id": "204f942c079f1006",
+    "slug": "wsj-attacco-limitato-usa-contro-lisola-iraniana-di-204f942c079f1006",
+    "title": "Wsj, 'attacco limitato usa contro l'isola iraniana di qeshm'",
+    "section": "esteri",
+    "priority": 7,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-03T02:20:28.765066+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/19/90a59f9fd988040322ded407e078c0ca.jpg",
+    "occhiello": "WSJ, 'ATTACCO LIMITATO USA CONTRO L'ISOLA IRANIANA DI QESHM'",
+    "lead_preview": "Qeshm, 2 novembre. Gli Stati Uniti hanno condotto un attacco limitato contro l'isola iraniana di Qeshm, secondo quanto c",
+    "tags": [
+      "attacco aereo",
+      "guerra iraniana",
+      "gli stati uniti"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ba086b231cdff1db",
     "slug": "henze-omaggiato-a-roma-perche-la-sinistra-italiana-ba086b231cdff1db",
     "title": "Voices, a roma omaggio a hans werner henze",
@@ -9104,24 +9123,6 @@
       "crisi opec+ petrolio",
       "prezzi petrolio record",
       "profitti major energetiche"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "55941ef6e7d03d05",
-    "slug": "media-kushner-witkoff-questa-settimana-in-norvegia-55941ef6e7d03d05",
-    "title": "Media, kushner-witkoff questa settimana in norvegia per negoziati su ucraina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-10-19T21:16:37.312124+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/19/d529dbea60444b334da2af57e02c16d6.jpg",
-    "occhiello": "MEDIA, KUSHNER-WITKOFF QUESTA SETTIMANA IN NORVEGIA PER NEGOZIATI SU UCRAINA",
-    "lead_preview": "Oslo, 19 ottobre I negoziati segreti tra Stati Uniti e Russia sull’Ucraina, condotti da Jared Kushner e Steven Witkoff i",
-    "tags": [
-      "negoziati ucraina",
-      "kushner witkoff"
     ],
     "hero_eligible": true
   }
