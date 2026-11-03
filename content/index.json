@@ -1,5 +1,24 @@
 [
   {
+    "id": "3354c67c127b5969",
+    "slug": "gli-omicidi-del-canale-pubblico-3354c67c127b5969",
+    "title": "Gli omicidi del canale pubblico",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-11-03T00:27:23.366955+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "RAIDUE: PROGRAMMI DI MERCOLEDÌ 4 NOVEMBRE",
+    "lead_preview": "MAIUSCOLO RAIDUE, IL CANALE CHE NON SI SOFFERMA SUL PASSATTO: LA GRIGIA LINEA DI PROGRAMMI CHE NON DISTURBA Roma, 3 nove",
+    "tags": [
+      "omicidi",
+      "rai",
+      "programmi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "17d00e54a8e0c4ef",
     "slug": "basket-mannion-tagliato-a-meta-stipendio-lolimpia-17d00e54a8e0c4ef",
     "title": "Basket: Mannion tagliato a metà stipendio, l’Olimpia spreme i giocatori per salvare la stagione",
@@ -9103,25 +9122,6 @@
       "monza fallimento tattico",
       "pisàne critica serie a",
       "crisi finanziaria monza calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d114c85016cdfd5e",
-    "slug": "riccardo-e-il-n1-dellitalia-d114c85016cdfd5e",
-    "title": "Due ex compagni di Club, uno a Rolex, l’altro a Prestiti: così il Tennis distrugge persino i legami",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-10-19T21:09:26.309920+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fd997dd748c66693c1743105d365aa57bf393f8b/skysport/it/tennis/video/2026/10/19/1132955_1792433492128_thumb_494.0000001_1792439719571.jpg",
-    "occhiello": "MUSETTI: \"ARNALDI? MAI FACILE GIOCARE CONTRO UN AMICO\"",
-    "lead_preview": "Lione, 19 ottobre Riccardo Musetti ha vinto il suo quarto match consecutivo in stagione, ma il vero colpo di scena non è",
-    "tags": [
-      "musetti vs arnaldi",
-      "tennis atp lione 2023",
-      "amici rivali tennis"
     ],
     "hero_eligible": true
   }
