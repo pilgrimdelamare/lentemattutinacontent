@@ -1,5 +1,24 @@
 [
   {
+    "id": "3354c67c127b5969",
+    "slug": "gli-omicidi-del-canale-pubblico-3354c67c127b5969",
+    "title": "Raidue: programmi di mercoledì 4 novembre",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-03T00:27:23.366955+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it",
+    "occhiello": "RAIDUE: PROGRAMMI DI MERCOLEDÌ 4 NOVEMBRE",
+    "lead_preview": "MAIUSCOLO RAIDUE, IL CANALE CHE NON SI SOFFERMA SUL PASSATTO: LA GRIGIA LINEA DI PROGRAMMI CHE NON DISTURBA Roma, 3 nove",
+    "tags": [
+      "rai",
+      "programmi",
+      "televisione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ef1845cac3e1eaa2",
     "slug": "khamenei-cede-i-poteri-usa-a-pezeshkian-il-petroli-ef1845cac3e1eaa2",
     "title": "Khamenei cede a Pezeshkian i poteri Usa: il petrolio crolla dell’8% in un’ora (da 92 a 84 dollari)",
@@ -3006,25 +3025,6 @@
       "salario donnarumma",
       "atlantainritiro",
       "giuntoli dimissioni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3354c67c127b5969",
-    "slug": "gli-omicidi-del-canale-pubblico-3354c67c127b5969",
-    "title": "Gli omicidi del canale pubblico",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-03T00:27:23.366955+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "RAIDUE: PROGRAMMI DI MERCOLEDÌ 4 NOVEMBRE",
-    "lead_preview": "MAIUSCOLO RAIDUE, IL CANALE CHE NON SI SOFFERMA SUL PASSATTO: LA GRIGIA LINEA DI PROGRAMMI CHE NON DISTURBA Roma, 3 nove",
-    "tags": [
-      "omicidi",
-      "rai",
-      "programmi"
     ],
     "hero_eligible": true
   },
