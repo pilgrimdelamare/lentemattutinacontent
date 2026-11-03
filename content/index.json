@@ -1,5 +1,24 @@
 [
   {
+    "id": "b78320a0839ff784",
+    "slug": "roma-4-novembre-b78320a0839ff784",
+    "title": "Roma, 4 novembre",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-03T17:26:46.854850+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/3/6e9142ec2bb5cfbb90162abc26b9cc92.jpg",
+    "occhiello": "",
+    "lead_preview": "Roma, 4 novembre. Kurt Elling e la sua band, i Yellowjackets, hanno aperto la seconda giornata del Roma Jazz Festival al",
+    "tags": [
+      "roma jazz festival",
+      "kurt ellling",
+      "yellowjackets"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1720de9b43d200b0",
     "slug": "sileoni-lancia-ultimatum-alle-banche-10-miliardi-a-1720de9b43d200b0",
     "title": "Sileoni lancia ultimatum: banche versano 10 miliardi ai dividendi, ai dipendenti zero aumento",
@@ -9174,21 +9193,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/21/8de997cd8d4359eb63247eb4b2f99f78.jpg",
     "occhiello": "DRONI RUSSI SU UN VILLAGGIO VICINO A KHARKIV, DUE MORTI",
     "lead_preview": "Kharkiv, 21 ottobre I droni russi hanno colpito un villaggio a nord di Kharkiv, uccidendo due civili e danneggiando infr",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c90a298474700b7",
-    "slug": "trump-trasforma-la-sala-stampa-della-casa-bianca-i-4c90a298474700b7",
-    "title": "Trump vuole i media fuori dalla casa bianca, una piscina al posto della sala sta",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-10-21T01:15:28.094179+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/d215b49122c35039106040a08d4b0a97.jpg",
-    "occhiello": "TRUMP VUOLE I MEDIA FUORI DALLA CASA BIANCA, UNA PISCINA AL POSTO DELLA SALA STA",
-    "lead_preview": "Washington, 21 ottobre Donald John Trump ha firmato un ordine esecutivo che trasforma la sala stampa della Casa Bianca i",
     "tags": [],
     "hero_eligible": true
   }
