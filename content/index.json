@@ -1,5 +1,24 @@
 [
   {
+    "id": "2cc77ffc7752df27",
+    "slug": "slow-food-salva-il-pomodoro-corsaro-ma-a-farci-i-s-2cc77ffc7752df27",
+    "title": "Il pomodoro Borsa di Montone è stato inserito nella lista delle Slow Food",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-11-02T09:58:22.102824+00:00",
+    "image_type": "image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/02/103903482-1997224a-56d1-4a6d-96d3-e0eca103260d.jpg",
+    "occhiello": "SLOW FOOD FA PRESIDIO CON IL POMODORO BORSA DI MONTONE",
+    "lead_preview": "Val Bisenzio, 2 novembre. Il pomodoro Borsa di montone, una varietà a rischio estinzione che sopravviveva solo negli ort",
+    "tags": [
+      "pomodoro",
+      "borsa di montone",
+      "slow food"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "rassegnista_daily",
     "slug": "rassegna-stampa",
     "title": "Le prime pagine di oggi, martedì 3 novembre 2026",
@@ -72,25 +91,6 @@
       "hebron",
       "attentato",
       "soldati"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2cc77ffc7752df27",
-    "slug": "slow-food-salva-il-pomodoro-corsaro-ma-a-farci-i-s-2cc77ffc7752df27",
-    "title": "Slow food fa presidio con il pomodoro borsa di montone",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-02T09:58:22.102824+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/02/103903482-1997224a-56d1-4a6d-96d3-e0eca103260d.jpg",
-    "occhiello": "SLOW FOOD FA PRESIDIO CON IL POMODORO BORSA DI MONTONE",
-    "lead_preview": "Val Bisenzio, 2 novembre. Il pomodoro Borsa di montone, una varietà a rischio estinzione che sopravviveva solo negli ort",
-    "tags": [
-      "presidio slow food pomodoro borsa di montone",
-      "varietà pomodoro a rischio estinzione",
-      "slow food appennino tosco-emiliano"
     ],
     "hero_eligible": true
   },
