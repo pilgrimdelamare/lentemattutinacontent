@@ -1,17 +1,17 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 2 novembre 2026",
+  "title": "Le prime pagine di oggi, martedì 3 novembre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 2 novembre 2026",
-    "Le prime pagine di oggi, lunedì 2 novembre 2026",
-    "Le prime pagine di oggi, lunedì 2 novembre 2026"
+    "Le prime pagine di oggi, martedì 3 novembre 2026",
+    "Le prime pagine di oggi, martedì 3 novembre 2026",
+    "Le prime pagine di oggi, martedì 3 novembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI LUNEDÌ 2 NOVEMBRE 2026: KIMI ANTONELLI E LE MIDTERM USA DOMINANO L’ATTUALITÀ",
-  "lead": "La vittoria di Kimi Antonelli nel mondiale di Formula 1 ha monopolizzato le prime pagine dei quotidiani italiani, con tutti i principali titoli che celebrano il 20enne come il più giovane campione della storia. *Il Corriere della Sera*, *La Repubblica*, *La Stampa*, *La Gazzetta dello Sport* e *Il Corriere dello Sport* dedicano ampi spazi all’impresa sportiva, sottolineando il ritorno dell’Italia al vertice dopo 73 anni. *Il Messaggero*, *Tuttosport* e *Libero* inseriscono l’argomento in prima pagina, ma con focus secondari su politica e economia. L’attenzione si sposta poi sulle elezioni di midterm negli Stati Uniti, con *Il Corriere della Sera*, *La Repubblica* e *Il Fatto Quotidiano* che analizzano le minacce di Trump e le reazioni dei democratici. *La Stampa* e *Il Messaggero* approfondiscono invece tensioni internazionali, come i rapporti tra Israele e Stati Uniti, mentre *Il Giornale* e *Il Fatto Quotidiano* criticano la manovra economica italiana e le polemiche su sanità e pensioni.",
-  "corpo1": "*Il Corriere della Sera* apre con l’impresa di Kimi Antonelli in Formula 1, definita “il più giovane campione del mondo di sempre”, e un focus sulle elezioni di midterm statunitensi, dove Trump avvisa i democratici: “Se perdo, diventerò Mr. Veto”. Il quotidiano milanese dedica spazio anche alla minaccia di tagli alla sanità e alle scuole private. *La Repubblica* celebra Antonelli come “il giovane favoloso”, richiamando la vittoria di Ascari nel 1953, e analizza le incertezze di Trump, descritto come “anatra zoppa o scatenata”. In seconda pagina, il quotidiano romano approfondisce il dibattito sulle primarie politiche. *La Stampa* titola “Kimi nella leggenda”, evidenziando il ritorno dell’Italia al mondiale dopo sette decenni, e dedica ampio spazio alle elezioni americane, con Trump in affanno tra i repubblicani, e alle tensioni tra Israele e Stati Uniti, dove Eisenkot nega sostegno a Netanyahu. Il quotidiano torinese segnala inoltre lo scontro sulla manovra economica e le proteste dei magistrati. *Il Messaggero* inizia con le dichiarazioni di Trump a Netanyahu, che lo avverte sulle conseguenze di una vittoria democratica, e passa a Israele, dove Eisenkot tratta con i paesi arabi per isolare il governo. In politica, il giornale annuncia l’introduzione di un garante per le primarie, mentre in economia sottolinea l’accelerazione dei pagamenti per i dipendenti pubblici. *La Gazzetta dello Sport* riserva l’intera prima pagina a Antonelli, definito “Kimitico” e celebrato come il re della F1 a 20 anni, con una citazione della madre che ricorda la sua paghetta mensile. *Il Corriere dello Sport* ripete il focus sull’impresa italiana, definita “l’apoteosi di Antonelli in Messico”, e riporta le sue parole: “È un sogno”. *Tuttosport* titola “Il mondo di Kimi”, evidenziando la festa di Mercedes e il ritorno dell’Italia al mondiale, mentre in calcio segnala il dominio della Lazio in Serie A. *Il Fatto Quotidiano* apre con la manovra economica, accusata di tagli beffardi alla sanità e alle scuole pubbliche, e analizza le minacce di Trump sui veti presidenziali e le tensioni tra Israele e Stati Uniti. *Il Giornale* critica gli “amici di Hamas in Parlamento” e la presunta “bugia rossa” sulla manovra, mentre *Libero* dedica spazio agli scioperi previsti a novembre e alla nuova norma che frena gli aumenti delle retribuzioni dei magistrati, con un accenno secondario alla vittoria di Antonelli.",
+  "occhiello": "",
+  "lead": "I quotidiani italiani dedicano oggi spazio prioritario alle elezioni di midterm negli Stati Uniti, con i sondaggi che danno in vantaggio i democratici e le dichiarazioni di Donald Trump in campagna elettorale. L’attacco hacker ai sistemi di refrigerazione nei supermercati europei, tra cui l’Italia, è l’altro tema dominante, con conseguenze immediate sui prezzi e sulla sicurezza alimentare. La Gazzetta dello Sport e il Corriere dello Sport si concentrano invece sul calcio, con l’Inter in Champions League e la Juventus in Serie A. La Stampa e Il Messaggero aggiungono la tensione sullo stretto di Hormuz e i negoziati iraniani.",
+  "corpo1": "Il Corriere della Sera apre con l’attacco informatico ai supermercati europei, che ha danneggiato i sistemi di refrigerazione in Italia e in altri Paesi, spingendo il governo a convocare un vertice d’urgenza. In seconda pagina, il quotidiano ripercorre le elezioni di midterm negli Stati Uniti, presentate come un referendum su Donald Trump. La Repubblica segue lo stesso schema, evidenziando i sondaggi che danno i democratici in vantaggio e il discorso di Trump a un ultimo comizio, dove ha accusato comunisti e jihadisti. La Stampa dedica la prima pagina alle elezioni americane, titolando sull’“ora della verità” per Trump, mentre in basso segnala la pronuncia iraniana di riaprire lo stretto di Hormuz in due giorni. Il Messaggero conferma l’allarme hacker, con guasti ai banchi frigo in Toscana, Emilia e Sicilia, e approfondisce la svolta diplomatica di Teheran, accompagnata da un crollo del prezzo del petrolio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-11-02T06:45:54.520219+00:00",
+  "published_at": "2026-11-03T06:56:55.659761+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/98e2ab9308c8db517c29359701eb5bc3781a5903/skytg24/it/cronaca/2026/11/02/prime-pagine-quotidiani-oggi-2-novembre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/9f3c63070e6b929ca32b09b9e3703d0d4e43bffc/skytg24/it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre/corriere-della-sera-035540ru3dvv9.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/11/02/prime-pagine-quotidiani-oggi-2-novembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 2 novembre 2026",
+      "title": "Oroscopo di oggi, martedì 3 novembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Bruxelles, 1 novembre",
-      "url": "/economia/bruxelles-1-novembre-e7007c847e2271b9",
-      "id": "e7007c847e2271b9",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2017/2/8/3d4757812730eb9ace2d2e46f0418484.jpg",
+      "title": "Il giorno dopo l’inizio dell'era AI: Veneziani scrive oggi e annuncia la novità della domani",
+      "url": "/cultura/homo-alien-veneziani-si-interroga-sulla-sostituzio-ebb2e5da81da0b76",
+      "id": "ebb2e5da81da0b76",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/2/67b91f6a5a28eae2fe9ac089e510def8.jpg",
       "image_type": "image"
     },
     {
-      "title": "Latina, 1 novembre — serie c a rischio: il calo di spettatori e il deficit di 3,2 milioni di euro minacciano la sopravvi",
-      "url": "/sport/latina-1-novembre-serie-c-a-rischio-il-calo-di-spe-a020e174b0305470",
-      "id": "a020e174b0305470",
-      "image_url": "https://sport.sky.it/assets/images/bd60a5e5af4794b8e31257ce4e786ec60a5675fc/skysport/it/calcio/serie-c/video/2026/11/01/1136528_1793559015471_thumb_494.0000001_1793559406973.jpg",
-      "image_type": "feed_image"
+      "title": "Orvieto, 2 novembre",
+      "url": "/economia/orvieto-2-novembre-4ac5220809c137af",
+      "id": "4ac5220809c137af",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/12/15/9fd5001af701ddbee589d3a031d26d4b.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
