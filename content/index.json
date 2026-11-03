@@ -1,5 +1,24 @@
 [
   {
+    "id": "70c6375d92cfa217",
+    "slug": "gli-investitori-sono-a-fila-in-tema-korepolisse-70c6375d92cfa217",
+    "title": "Borsa: asia in calo con semiconduttori, seul la peggiore -3,6%",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-11-03T07:35:30.488557+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/7/bb1d589bc6391c5db8c15d47ea81356a.jpg",
+    "occhiello": "BORSA: ASIA IN CALO CON SEMICONDUTTORI, SEUL LA PEGGIORE -3,6%",
+    "lead_preview": "Tokyo, 3 novembre Il KOSPI di Seul è crollato del 3,6%, il peggior calo della Borsa asiatica, mentre i mercati rimangono",
+    "tags": [
+      "crollo kospi seul",
+      "mercati asiatici",
+      "semiconductori borsa"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
@@ -3238,25 +3257,6 @@
       "ita airways",
       "economia",
       "finanza"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "70c6375d92cfa217",
-    "slug": "gli-investitori-sono-a-fila-in-tema-korepolisse-70c6375d92cfa217",
-    "title": "Gli investitori sono a fila in tema KOREPOLISSE",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-03T07:35:30.488557+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/4/7/bb1d589bc6391c5db8c15d47ea81356a.jpg",
-    "occhiello": "BORSA: ASIA IN CALO CON SEMICONDUTTORI, SEUL LA PEGGIORE -3,6%",
-    "lead_preview": "Tokyo, 3 novembre Il KOSPI di Seul è crollato del 3,6%, il peggior calo della Borsa asiatica, mentre i mercati rimangono",
-    "tags": [
-      "investitori",
-      "borsa",
-      "semi-conductor"
     ],
     "hero_eligible": true
   },
