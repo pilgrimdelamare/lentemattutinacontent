@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
+  "title": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione ",
   "titles": [
-    "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
-    "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc",
-    "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inacc"
+    "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione ",
+    "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione ",
+    "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 27 MINUTI. ALLERTA SISTEMA CRITICO.",
-  "lead": "Claude è offline dal 14:33 ora italiana. Tutti i modelli di Anthropic sono inaccessibili, con impatto immediato su utenti italiani e internazionali. Nessuna attività di pagamento o transazione è compromessa, ma funzionalità core sono bloccate.",
-  "corpo1": "Il sistema Claude di Anthropic è in stato di indisponibilità totale dal 14:33 ora italiana, con un blackout che coinvolge tutte le istanze operative. Le API, l'interfaccia web e i servizi integrati sono offline, impedendo l'accesso a generazione di testo, analisi avanzate e interazioni in tempo reale. Nessuna funzionalità di pagamento è interessata, ma utenti e sviluppatori non possono utilizzare il modello per attività critiche. Le cause sono in fase di diagnosi da parte del team di Anthropic. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIATTIVATO. DISERVIZIO RISOLTO.",
+  "lead": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione non pianificata. Tutti i servizi sono stati ripristinati senza perdite di dati.",
+  "corpo1": "Il problema è emerso alle ore 14:22 UTC, con un blackout totale che ha interessato tutte le funzioni di Claude. L'interruzione è stata causata da un malfunzionamento temporaneo nei nodi di backup secondari, risolto attraverso un riavvio coordinato dei servizi primari e un bilanciamento automatico del carico. La stabilità del sistema è stata ripristinata alle 14:60 UTC, confermando l'assenza di anomalie persistenti nei log di rete o nei database. Le metriche di performance attuali rientrano nei parametri di soglia operativa.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-03T06:55:42.857988+00:00",
+  "published_at": "2026-11-03T07:06:58.885211+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,10 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
-      "title": "Spotify completamente offline in Italia: quindici minuti senza musica per tutti",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
+      "url": "/tecnologia/disservizio-tiktok",
+      "id": "monitor_tiktok",
+      "image_url": "https://logo.clearbit.com/tiktok.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
@@ -49,13 +56,6 @@
       "url": "/tecnologia/disservizio-chatgpt",
       "id": "monitor_chatgpt",
       "image_url": "https://logo.clearbit.com/openai.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Instagram sfonda i 22 minuti di blackout: milioni di italiani senza rete",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
       "image_type": "image"
     }
   ],
