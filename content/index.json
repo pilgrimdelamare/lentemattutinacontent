@@ -1,5 +1,23 @@
 [
   {
+    "id": "b2e79863b7b53252",
+    "slug": "italia-sotto-le-nuvole-e-nuvole-nevi-e-nuvole-b2e79863b7b53252",
+    "title": "Italia sotto le nuvole e nuvole nevi e nuvole",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Chiara Esposito",
+    "published_at": "2026-11-07T23:44:32.581081+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/07/221111846-3fbb78bc-fe62-4dc1-a242-f9a94e49caba.jpg",
+    "occhiello": "ANTICICLONE SI RETIRA, TORNA L'ACQUA",
+    "lead_preview": "Roma, 8 novembre 2026. Dopo una domenica di tregua anticiclonica al Centro-Nord e deboli piogge al Sud, l'Italia si prep",
+    "tags": [
+      "meteo italia",
+      "perturbazioni atlantiche"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "1ac776b0967ddc08",
     "slug": "papa-leo-xiv-sfida-milano-chi-mangia-a-sazieta-tra-1ac776b0967ddc08",
     "title": "Papa Leo XIV sfida Milano: «Chi mangia a sazietà tradisce i poveri, e la Chiesa non tace»",
@@ -9224,24 +9242,6 @@
     "occhiello": "ANTONELLI IMPONE LA POLE IN AUSTRALIA",
     "lead_preview": "Melbourne, 25 ottobre. L'italiano Antonelli ha conquistato la pole position al Gran Premio d'Australia, superando Max Ve",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "9f4c52ea44e1b2a6",
-    "slug": "palmowski-vince-la-f1-academy-scoperta-veloce-e-po-9f4c52ea44e1b2a6",
-    "title": "Palmowski campionessa della f1 academy 2026",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-25T01:39:16.046865+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/eb5e6d19418876f0afb52d6db93ce0e1e9cec827/skysport/it/motori/formula-1/video/2026/10/25/1134488_1792889004958_thumb_494.0000001_1792889071939.jpg",
-    "occhiello": "PALMOWSKI CAMPIONESSA DELLA F1 ACADEMY 2026",
-    "lead_preview": "Roma, 25 ottobre. Palmowski si è laureata campionessa della F1 Academy 2026. La notizia è stata diffusa da Sky Sport il ",
-    "tags": [
-      "f1 academy 2026",
-      "palmowski campionessa"
-    ],
     "hero_eligible": true
   }
 ]
