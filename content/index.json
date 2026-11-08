@@ -1,5 +1,24 @@
 [
   {
+    "id": "4bf12116433e3e2b",
+    "slug": "calcio-roma-batte-sassuolo-e-batte-record-stagiona-4bf12116433e3e2b",
+    "title": "Calcio: Roma batte Sassuolo e batte record stagionale con 31 gol in campionato",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-11-08T13:34:30.705427+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/97db5245c2c6409677a2cc87faad29040dd06a6d/skysport/it/calcio/serie-a/2026/11/08/roma-mora-numeri-news/mora_jpg.jpg",
+    "occhiello": "ROMA, MORA IN GOL PER LA TERZA PARTITA DI FILA: I NUMERI DEL PORTOGHESE",
+    "lead_preview": "Roma, 8 novembre La Roma ha siglato un nuovo record di gol in campionato con tre reti al Sassuolo, portando il totale st",
+    "tags": [
+      "calcio",
+      "record",
+      "gol"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "115acc7362871744",
     "slug": "rafael-camara-il-debutto-con-ferrari-raccolta-di-g-115acc7362871744",
     "title": "F1, la storia di rafael camara: le corse nel dna grazie alla nonna pilota",
@@ -9266,24 +9285,6 @@
     "lead_preview": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio è crollato, bloccando l'accesso a milion",
     "tags": [
       "blackout instagram"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_discord",
-    "slug": "disservizio-discord",
-    "title": "Discord giù: 22 minuti di blackout e migliaia di italiani tagliati fuori",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-30T01:21:30.003360+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/discord.com",
-    "occhiello": "DISCORD OFFLINE: CRITICITA MASSIMA",
-    "lead_preview": "Discord risulta irraggiungibile da ventidue minuti. Il servizio è completamente inaccessibile. Migliaia di utenti italia",
-    "tags": [
-      "discord offline",
-      "blackout discord"
     ],
     "hero_eligible": true
   }
