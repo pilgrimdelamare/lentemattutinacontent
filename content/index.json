@@ -1,5 +1,23 @@
 [
   {
+    "id": "eeac1e220f13509b",
+    "slug": "la-ridotta-crocevia-sui-tassi-di-esportazione-eeac1e220f13509b",
+    "title": "La ridotta crocevia sui tassi di esportazione",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Marta Levi",
+    "published_at": "2026-11-08T10:27:54.372196+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/ca6dd24454527f105e319eadf967d8f7.jpg",
+    "occhiello": "EXPORT MANIFATTURIERO ITALIANO IN CRESCITA RECORD",
+    "lead_preview": "Roma, 8 novembre 2026.",
+    "tags": [
+      "export manifatturiero",
+      "tassi di esportazione"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "ba9a4047cec33ccd",
     "slug": "dustin-hoffman-si-racconta-per-la-prima-volta-diet-ba9a4047cec33ccd",
     "title": "Dustin hoffman si racconta per la prima volta dietro la leggenda in 'look at me'",
@@ -9270,24 +9288,5 @@
       "blackout streaming"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_tiktok",
-    "slug": "disservizio-tiktok",
-    "title": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piat",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T01:44:10.297604+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/tiktok.com",
-    "occhiello": "SERVIZIO TIKTOK RIPRISTINATO COMPLETAMENTE",
-    "lead_preview": "TikTok è tornato pienamente operativo dopo un'interruzione di 38 minuti. La piattaforma ha ripreso a funzionare regolarm",
-    "tags": [
-      "downtime",
-      "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
   }
 ]
