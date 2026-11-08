@@ -1,5 +1,23 @@
 [
   {
+    "id": "40b02bc7e6d3f8c5",
+    "slug": "il-talento-del-capodanno-40b02bc7e6d3f8c5",
+    "title": "Il Talento del capodanno",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-11-08T00:43:30.416979+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/11/8/61d5560a6e3216413bf3683339827bc9.jpg",
+    "occhiello": "BONOLIS, IL FESTIVAL DI SANREMO DEL 2005 FU LA PERFEZIONE",
+    "lead_preview": "SANREMO, 7 novembre 2026 Paolo Bonolis, il 2005, e l’arte di trasformare un festival in un’operazione di marketing cultu",
+    "tags": [
+      "festival di sanremo 2005",
+      "paolo bonolis"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "b82011328de60021",
     "slug": "netanyahu-sfida-i-giudizi-anti-democrazia-b82011328de60021",
     "title": "Netanyahu sfida i giudizi anti-democrazia",
@@ -9246,21 +9264,6 @@
     "tags": [
       "fiscal drag"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bd44e800ae21f37f",
-    "slug": "basket-kings-doncic-ne-fa-52-memphis-ko-123-112-bd44e800ae21f37f",
-    "title": "Sacramento affonda memphis sotto una pioggia di canestri",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-10-26T07:04:20.685582+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/88d6b82db638e56222de882618546512906cb67f/skysport/it/nba/video/2026/10/26/1134785_1792992511634_thumb_494.0000001_1792992726380.jpg",
-    "occhiello": "SACRAMENTO AFFONDA MEMPHIS SOTTO UNA PIOGGIA DI CANESTRI",
-    "lead_preview": "Sacramento, 26 ottobre 2026. La stagione NBA è appena iniziata ma le prime indicazioni sul campo sono già nette: i Sacra",
-    "tags": [],
     "hero_eligible": true
   }
 ]
