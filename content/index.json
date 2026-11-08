@@ -1,5 +1,20 @@
 [
   {
+    "id": "319b2bed07a71105",
+    "slug": "serie-a-fiorentina-juventus-2-2-319b2bed07a71105",
+    "title": "Serie a: fiorentina-juventus 2-2",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-11-08T21:55:45.214408+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/f87ecf0a26de082c52603d72aa4b5b17.jpg",
+    "occhiello": "SERIE A: FIORENTINA-JUVENTUS 2-2",
+    "lead_preview": "Firenze, 8 novembre Il Stadio Artemio Franchi ha visto i numeri di una squadra che non sa più cosa sia un vero pareggio.",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "926cb5ff2311f11f",
     "slug": "friburgo-union-berlino-2-0-gol-e-highlights-926cb5ff2311f11f",
     "title": "Friburgo-union berlino 2-0: gol e highlights",
@@ -9194,25 +9209,6 @@
       "basket",
       "serie_a",
       "partita_interessante"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a8d2cd3f53c688c6",
-    "slug": "shelton-sceglie-ferrero-il-metodo-vincente-di-alca-a8d2cd3f53c688c6",
-    "title": "Shelton sceglie Ferrero: il metodo vincente di Alcaraz ora punta a scalare il ranking del numero 4",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-01T16:50:57.485467+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6da8f867fb1093f502d06fe35c3b61a79958238d/skysport/it/tennis/2026/11/01/ferrero-shelton-allenatore/ferrero_ansa.jpg",
-    "occhiello": "FERRERO NUOVO ALLENATORE DI SHELTON: L'INDISCREZIONE DEL TIMES",
-    "lead_preview": "MAIUSCOLO FERRERO AFFIANCA SHELTON: IL CALCOLO DELLA FERRERO SUL TENNIS GLOBAL Roma, 1 novembre Juan Carlos Ferrero entr",
-    "tags": [
-      "ferrero coach shelton",
-      "tennis atp ranking",
-      "shelton allenatore"
     ],
     "hero_eligible": true
   }
