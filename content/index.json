@@ -1,5 +1,24 @@
 [
   {
+    "id": "fa2b2bcfae7cd683",
+    "slug": "motogp-ktm-ktm-ktm-fa2b2bcfae7cd683",
+    "title": "MotoGP: KTM, KTM, KTM",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-11-08T22:06:24.833919+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/8a6ae856084af1ed29d172fd2c1ce10d770a15a0/skysport/it/motori/motogp/video/2026/11/08/1138572_1794165356860_thumb_494.0000001_1794165540979.jpg",
+    "occhiello": "LA BAGARRE TRA FERNANDEZ E OGURA CHE STAVA PER FAVORIRE KTM",
+    "lead_preview": "MAIUSCOLO Fernández e Ogura si sono azzannati in pista: la KTM ha perso il vantaggio che non avrebbe mai potuto recupera",
+    "tags": [
+      "motogp",
+      "ktm",
+      "duello"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "7b7cc2c5043f04dd",
     "slug": "pianese-perugia-3-2-gol-e-highlights-7b7cc2c5043f04dd",
     "title": "Pianese-perugia 3-2: gol e highlights",
@@ -9179,25 +9198,6 @@
       "serie a basket trento-roma",
       "maxima roma",
       "trento basket"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d756f96844c7f16f",
-    "slug": "si-apre-la-sessione-di-bilancio-tra-una-settimana-d756f96844c7f16f",
-    "title": "Si apre la sessione di bilancio, tra una settimana le audizioni",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-01T18:08:40.748380+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/16/85d60cead95ffb0ccb575f64db23598c.jpg",
-    "occhiello": "SI APRE LA SESSIONE DI BILANCIO, TRA UNA SETTIMANA LE AUDIZIONI",
-    "lead_preview": "MAIUSCOLO 120 MILIONI DI EURO PER TRE RELATORI: LA MANOVRA CHE NON SI VEDRA’ Roma, 1 novembre. Tre relatori, 120 milioni",
-    "tags": [
-      "manovra bilancio 2024",
-      "audizioni camera",
-      "relatori finanziari"
     ],
     "hero_eligible": true
   }
