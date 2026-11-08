@@ -1,5 +1,23 @@
 [
   {
+    "id": "ba9a4047cec33ccd",
+    "slug": "dustin-hoffman-si-racconta-per-la-prima-volta-diet-ba9a4047cec33ccd",
+    "title": "Dustin hoffman si racconta per la prima volta dietro la leggenda in 'look at me'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-08T10:14:21.855566+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/6/a546ca2dd02549190834d7a374574107.jpg",
+    "occhiello": "DUSTIN HOFFMAN SI RACCONTA PER LA PRIMA VOLTA DIETRO LA LEGGENDA IN 'LOOK AT ME'",
+    "lead_preview": "MAIUSCOLO Dustin Hoffman svela i segreti di un secolo di cinema: il memoir che sfida la leggenda Roma, 10 novembre Dusti",
+    "tags": [
+      "dustin hoffman",
+      "memoir look at me"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "823bf9de35db9d49",
     "slug": "il-passo-iniziale-vescovo-contro-la-minaccia-delle-823bf9de35db9d49",
     "title": "Il passo iniziale vescovo contro la minaccia delle crisi nucleari",
@@ -9268,25 +9286,6 @@
     "tags": [
       "downtime",
       "tiktok",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-10-30T01:33:10.048942+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIPRISTINATO",
-    "lead_preview": "Satispay è tornato online dopo 39 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "satispay",
       "disservizi"
     ],
     "hero_eligible": false
