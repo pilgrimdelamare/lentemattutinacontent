@@ -1,5 +1,23 @@
 [
   {
+    "id": "b2e79863b7b53252",
+    "slug": "italia-sotto-le-nuvole-e-nuvole-nevi-e-nuvole-b2e79863b7b53252",
+    "title": "Dati iniziali sulla chiusura della neve sulle bellissime pendici del Gargano",
+    "section": "cronaca",
+    "priority": 5,
+    "journalist_firma": "Roberto Neri",
+    "published_at": "2026-11-07T23:44:32.581081+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/07/221111846-3fbb78bc-fe62-4dc1-a242-f9a94e49caba.jpg",
+    "occhiello": "ANTICICLONE SI RETIRA, TORNA L'ACQUA",
+    "lead_preview": "Roma, 8 novembre 2026. Dopo una domenica di tregua anticiclonica al Centro-Nord e deboli piogge al Sud, l'Italia si prep",
+    "tags": [
+      "meteo italia",
+      "anticiclone si ritira"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "e1b8e0f690c5bf38",
     "slug": "tusk-a-cracovia-attacco-mai-visto-prima-allerta-ro-e1b8e0f690c5bf38",
     "title": "Tusk annuncia: l'attacco a Cracovia è il più efferato mai visto in Polonia",
@@ -1324,25 +1342,6 @@
       "politica",
       "partito",
       "amministrazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b2e79863b7b53252",
-    "slug": "italia-sotto-le-nuvole-e-nuvole-nevi-e-nuvole-b2e79863b7b53252",
-    "title": "Neve oltre i 2000 metri: la perturbazione di giovedì ghiaccia l'arco alpino",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-11-07T23:44:32.581081+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/07/221111846-3fbb78bc-fe62-4dc1-a242-f9a94e49caba.jpg",
-    "occhiello": "ANTICICLONE SI RETIRA, TORNA L'ACQUA",
-    "lead_preview": "Roma, 8 novembre 2026. Dopo una domenica di tregua anticiclonica al Centro-Nord e deboli piogge al Sud, l'Italia si prep",
-    "tags": [
-      "neve",
-      "anticiclone",
-      "perturbazione"
     ],
     "hero_eligible": true
   },
