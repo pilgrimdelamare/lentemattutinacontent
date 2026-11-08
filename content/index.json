@@ -1,5 +1,23 @@
 [
   {
+    "id": "e11652312120a873",
+    "slug": "messaggio-di-mattarella-alla-comunita-indiana-nell-e11652312120a873",
+    "title": "Messaggio di Mattarella alla comunità indiana nella Festa di Light",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-11-08T13:49:43.912309+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/6846e7dfe44abdd53a01bf8bcf1c186a.jpg",
+    "occhiello": "MATTARELLA, RIFUGGIRE L'ODIO ATTRAVERSO IL DIALOGO TRA COMUNITÀ DI DIVERSE CULTU",
+    "lead_preview": "Roma, 8 novembre. Sergio Mattarella, settantunesimo presidente della Repubblica, ha inviato un messaggio alla comunità i",
+    "tags": [
+      "messaggio mattarella",
+      "festa diwali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "08f6e2a8528d31d7",
     "slug": "al-teatro-duse-di-bologna-torna-accabadora-dal-rom-08f6e2a8528d31d7",
     "title": "Accabadora vive di nuovo al Teatro Duse",
@@ -9263,23 +9281,6 @@
     "occhiello": "UTILE GIÙ, MA AZIONISTI E MANAGER NON DIMENTICANO IL LORO DIVIDENDO",
     "lead_preview": "Roma, 30 ottobre. Edison, il colosso dell'energia, ha chiuso i primi nove mesi del 2024 con un utile netto sceso a 143 m",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT ritorna online: ventuno minuti di blackout non lasciano danni residui",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-10-30T03:29:07.100513+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "SERVIZIO RIPRISTINATO DOPO 21 MINUTI",
-    "lead_preview": "ChatGPT è tornato pienamente operativo dopo un'interruzione di 21 minuti. Il disservizio, che ha impedito l'accesso alla",
-    "tags": [
-      "blackout chatgpt"
-    ],
     "hero_eligible": true
   }
 ]
