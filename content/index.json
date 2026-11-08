@@ -1,5 +1,20 @@
 [
   {
+    "id": "c47b3a89717c27d7",
+    "slug": "procura-polacca-aperta-uninchiesta-per-terrorismo-c47b3a89717c27d7",
+    "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-08T10:27:57.638401+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/c7acb2967a3a654e2f221801db817863.jpg",
+    "occhiello": "PROCURA POLACCA, 'APERTA UN'INCHIESTA PER TERRORISMO'",
+    "lead_preview": "Varsavia, 8 novembre La Procura generale polacca ha aperto un’inchiesta per terrorismo dopo il sequestro di un carico di",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "eeac1e220f13509b",
     "slug": "la-ridotta-crocevia-sui-tassi-di-esportazione-eeac1e220f13509b",
     "title": "La ridotta crocevia sui tassi di esportazione",
@@ -9269,24 +9284,6 @@
     "occhiello": "WEMBANYAMA SFONDA IL MURO DEI 30 PUNTI CONTRO GLI UTES",
     "lead_preview": "Salt Lake City, 29 ottobre 2026. Victor Wembanyama ha guidato i San Antonio Spurs alla vittoria contro gli Utah Jazz seg",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_spotify",
-    "slug": "disservizio-spotify",
-    "title": "Spotify completamente offline in Italia: quindici minuti senza musica per tutti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-29T03:29:09.785408+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/spotify.com",
-    "occhiello": "SPOTIFY OFFLINE: BLACKOUT TOTALE",
-    "lead_preview": "Spotify risulta irraggiungibile da quindici minuti. Il servizio streaming è completamente inaccessibile per gli utenti i",
-    "tags": [
-      "spotify offline",
-      "blackout streaming"
-    ],
     "hero_eligible": true
   }
 ]
