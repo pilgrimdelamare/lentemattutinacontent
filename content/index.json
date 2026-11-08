@@ -1,5 +1,24 @@
 [
   {
+    "id": "1960c1a38cbc01ea",
+    "slug": "perche-la-destra-non-vuole-la-cooperazione-tra-cen-1960c1a38cbc01ea",
+    "title": "Perché la destra non vuole la Cooperazione tra centro e sinistra",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-11-08T13:16:25.885896+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/cc5f5409f40472247ae05a1de64ca610.jpg",
+    "occhiello": "SCHLEIN, NON FAREMO PIÙ IL FAVORE ALLE DESTRE DI DIVIDERCI",
+    "lead_preview": "Roma, 8 novembre Elly Schlein ha detto che non faranno più il favore alle destre di dividerli. Lo ha dichiarato ieri in ",
+    "tags": [
+      "politica",
+      "destra",
+      "sinistra"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "c4d60e92a47eb1c4",
     "slug": "cherki-gol-dautore-in-nottingham-manchester-city-i-c4d60e92a47eb1c4",
     "title": "Calcio-Nottingham Forest vince il Manchester City",
@@ -9269,21 +9288,6 @@
       "discord offline",
       "blackout discord"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_youtube",
-    "slug": "disservizio-youtube",
-    "title": "Youtube riapre dopo 45 minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-10-30T01:38:46.752864+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/youtube.com",
-    "occhiello": "YOUTUBE RIAPRE DOPO 45 MINUTI",
-    "lead_preview": "La piattaforma video torna pienamente operativa. L'interruzione dei servizi, durata circa quarantacinque minuti, è stata",
-    "tags": [],
     "hero_eligible": true
   }
 ]
