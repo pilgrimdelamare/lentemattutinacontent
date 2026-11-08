@@ -1,5 +1,23 @@
 [
   {
+    "id": "f96324ceb0c948af",
+    "slug": "inchiesta-giudiziaria-sul-dark-web-f96324ceb0c948af",
+    "title": "Inchiesta giudiziaria sul dark web",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-08T00:46:48.696851+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/3bd056c5d4d8dfd37574a2c3e96b708c.jpg",
+    "occhiello": "INCHIESTA GIUDIZIARIA SUL DARK WEB",
+    "lead_preview": "Roma, 7 novembre 2026. L'ex Presidente del Parlamento Europeo Antonio Tajani è accusato di propaganda apologetica della ",
+    "tags": [
+      "caso tajani",
+      "dark web"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "efd86a65204703bd",
     "slug": "francesco-sarcina-tony-effe-e-fedez-non-sono-canta-efd86a65204703bd",
     "title": "Francesco sarcina, 'tony effe e fedez non sono cantanti, autotune maschera la vo",
@@ -9249,21 +9267,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/07fcb57e9f770182bf27f29139067b1e.jpg",
     "occhiello": "ARTEMISIA GENTILESCHI, DA CAPODIMONTE A MILANO",
     "lead_preview": "Milano, 26 ottobre. L'Annunciazione di Artemisia Gentileschi, un capolavoro della pittura barocca, lascia temporaneament",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4e56d550f0f326cc",
-    "slug": "arte-povera-nella-citta-della-moda-4e56d550f0f326cc",
-    "title": "Arte povera nella città della moda",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-10-26T12:05:20.546798+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/26/74ecf6273415bd1179f52f9eb0df4d67.jpg",
-    "occhiello": "ARTE POVERA NELLA CITTÀ DELLA MODA",
-    "lead_preview": "Milano, 26 ottobre.",
     "tags": [],
     "hero_eligible": true
   }
