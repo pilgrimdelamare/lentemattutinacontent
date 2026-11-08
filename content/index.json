@@ -1,5 +1,23 @@
 [
   {
+    "id": "f96324ceb0c948af",
+    "slug": "inchiesta-giudiziaria-sul-dark-web-f96324ceb0c948af",
+    "title": "Antonio Tajani accusato di propaganda a favore della Russia sul dark web",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-08T00:46:48.696851+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/3bd056c5d4d8dfd37574a2c3e96b708c.jpg",
+    "occhiello": "INCHIESTA GIUDIZIARIA SUL DARK WEB",
+    "lead_preview": "Roma, 7 novembre 2026. L'ex Presidente del Parlamento Europeo Antonio Tajani è accusato di propaganda apologetica della ",
+    "tags": [
+      "caso tajani",
+      "propaganda russia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "efd86a65204703bd",
     "slug": "francesco-sarcina-tony-effe-e-fedez-non-sono-canta-efd86a65204703bd",
     "title": "Francesco Sarcina indaga sul mondo della Musica Italiana",
@@ -979,24 +997,6 @@
     "tags": [
       "sparatoria cracovia",
       "attentato main square"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f96324ceb0c948af",
-    "slug": "inchiesta-giudiziaria-sul-dark-web-f96324ceb0c948af",
-    "title": "Inchiesta giudiziaria sul dark web",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T00:46:48.696851+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/3bd056c5d4d8dfd37574a2c3e96b708c.jpg",
-    "occhiello": "INCHIESTA GIUDIZIARIA SUL DARK WEB",
-    "lead_preview": "Roma, 7 novembre 2026. L'ex Presidente del Parlamento Europeo Antonio Tajani è accusato di propaganda apologetica della ",
-    "tags": [
-      "caso tajani",
-      "dark web"
     ],
     "hero_eligible": true
   },
