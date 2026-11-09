@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-09T18:39:02.078543+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB IRRAGGIUNGIBILE. CRISI GLOBALE IN CORSO.",
+    "lead_preview": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integrazioni. Utenti italiani colpiti in pieno l",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "8480a3d338fb1fcd",
     "slug": "consigliere-puglia-denuncia-ritardo-di-risonanza-a-8480a3d338fb1fcd",
     "title": "Consigliere puglia denuncia ritardo di risonanza a malata di tumore",
@@ -9009,25 +9028,6 @@
       "concordato autonomi",
       "concorso politico",
       "regolarizzazione debiti"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c4d21057f1ccc9b9",
-    "slug": "guccini-in-piazza-maggiore-con-una-cantata-di-200-c4d21057f1ccc9b9",
-    "title": "Guccini in piazza maggiore con una cantata di 200 persone",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-01T14:38:29.684888+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/1/d54d2e26ad47d5c0193bdb5dc9838896.jpg",
-    "occhiello": "GUCCINI IN PIAZZA MAGGIORE CON UNA CANTATA DI 200 PERSONE",
-    "lead_preview": "Bologna, 1 novembre 2026. Francesco Guccini ha riempito Piazza Maggiore con una Cantata inedita, eseguita da duecento mu",
-    "tags": [
-      "cantata guccini bologna",
-      "concerto inedito guccini",
-      "piazza maggiore bologna 2026"
     ],
     "hero_eligible": true
   }
