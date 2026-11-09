@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, lunedì 9 novembre 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-11-09T05:01:38.259321+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — LUNEDÌ 9 NOVEMBRE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "c2cd1275242524e6",
     "slug": "kore-eda-porta-look-back-al-lido-due-ragazzine-sfi-c2cd1275242524e6",
     "title": "'look back' tutta la poesia di kore-eda in un manga",
@@ -1970,26 +1990,6 @@
       "spurs trail blazers"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, domenica 8 novembre 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-11-08T05:00:12.353304+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — DOMENICA 8 NOVEMBRE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "854aa6fbd8e87e39",
