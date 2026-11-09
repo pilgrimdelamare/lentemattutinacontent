@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
+  "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
   "titles": [
-    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
-    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
-    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz"
+    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB IRRAGGIUNGIBILE. CRISI GLOBALE IN CORSO.",
-  "lead": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integrazioni. Utenti italiani colpiti in pieno lavoro. Nessun aggiornamento ufficiale.",
-  "corpo1": "Il servizio GitHub è irraggiungibile dal 14 novembre alle ore 11:40 UTC, secondo i primi report. Il problema colpisce l'intera piattaforma, bloccando accesso ai repository, pull request, issue tracking e API. Gli utenti italiani, in particolare sviluppatori e team che dipendono da workflow automatizzati (CI/CD, deployment), subiscono interruzioni critiche nei progetti in corso. Le funzionalità di collaborazione e hosting del codice sono completamente compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
+  "lead": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+  "corpo1": "80-100 parole. Quando è iniziato il problema, quanto è durato, ora è risolto. Tono di conferma tecnica.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-09T18:39:02.078543+00:00",
+  "published_at": "2026-11-09T18:44:33.512558+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
