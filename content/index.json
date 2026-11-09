@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-09T18:44:33.512558+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
+    "lead_preview": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1eb0d9d551b01793",
     "slug": "unicredit-spara-dividendi-da-26-miliardi-gli-azion-1eb0d9d551b01793",
     "title": "Unicredit di nuovo record, l'utile dei 9 mesi a 9,4 miliardi",
@@ -13,25 +32,6 @@
     "lead_preview": "RECORD UNICREDIT: 9,4 MILIARDI DI UTILE, DIVIDENDO RADDOPPIATO PER GLI AZIONISTI Milano, 9 novembre. L’utile dei primi n",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-09T18:39:02.078543+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB IRRAGGIUNGIBILE. CRISI GLOBALE IN CORSO.",
-    "lead_preview": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integrazioni. Utenti italiani colpiti in pieno l",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "8480a3d338fb1fcd",
