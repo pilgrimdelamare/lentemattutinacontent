@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, lunedì 9 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-09T06:46:10.568116+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/f2958e02a41fb36eaf5549d52a8a6eb7e4a0461b/skytg24/it/cronaca/2026/11/09/prime-pagine-quotidiani-oggi-9-novembre/CorSera.png",
+    "occhiello": "LE PRIME PAGINE – ISRAELE, POLITICA E SPORT: IL 9 NOVEMBRE 2026",
+    "lead_preview": "La crisi politica in Israele domina le prime pagine dei principali quotidiani italiani, con l’incarico affidato all’ex g",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "63e7a5a3e1c51965",
     "slug": "credit-agricole-compra-banco-bpm-12-miliardi-per-i-63e7a5a3e1c51965",
     "title": "Crédit Agricole compra Banco BPM: 12 miliardi per il controllo totale in Borsa",
@@ -5671,25 +5690,6 @@
       "pomodoro",
       "borsa di montone",
       "slow food"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 3 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-03T06:56:55.659761+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/9f3c63070e6b929ca32b09b9e3703d0d4e43bffc/skytg24/it/cronaca/2026/11/03/prime-pagine-quotidiani-oggi-3-novembre/corriere-della-sera-035540ru3dvv9.jpg",
-    "occhiello": "",
-    "lead_preview": "I quotidiani italiani dedicano oggi spazio prioritario alle elezioni di midterm negli Stati Uniti, con i sondaggi che da",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
