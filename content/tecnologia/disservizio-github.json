@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "GitHub è tornato online dopo 20 minuti di interruzione.",
+  "title": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
   "titles": [
-    "GitHub è tornato online dopo 20 minuti di interruzione.",
-    "GitHub è tornato online dopo 20 minuti di interruzione.",
-    "GitHub è tornato online dopo 20 minuti di interruzione."
+    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
+    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz",
+    "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integraz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "GITHUB RIPRISTINATO",
-  "lead": "GitHub è tornato online dopo 20 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito GitHub è stato risolto. L'interruzione è durata circa 20 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "GITHUB IRRAGGIUNGIBILE. CRISI GLOBALE IN CORSO.",
+  "lead": "GitHub è offline da oltre 20 minuti, con impatto su repository, CI/CD e integrazioni. Utenti italiani colpiti in pieno lavoro. Nessun aggiornamento ufficiale.",
+  "corpo1": "Il servizio GitHub è irraggiungibile dal 14 novembre alle ore 11:40 UTC, secondo i primi report. Il problema colpisce l'intera piattaforma, bloccando accesso ai repository, pull request, issue tracking e API. Gli utenti italiani, in particolare sviluppatori e team che dipendono da workflow automatizzati (CI/CD, deployment), subiscono interruzioni critiche nei progetti in corso. Le funzionalità di collaborazione e hosting del codice sono completamente compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-07T15:36:19.827513+00:00",
+  "published_at": "2026-11-09T18:39:02.078543+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "ChatGPT è tornato pienamente operativo dopo 379 minuti di interruzione. Il disse",
-      "url": "/tecnologia/disservizio-chatgpt",
-      "id": "monitor_chatgpt",
-      "image_url": "https://logo.clearbit.com/openai.com",
+      "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Spotify tilt per venti minuti: blackout totale dei server manda in tilt gli utenti",
-      "url": "/tecnologia/disservizio-spotify",
-      "id": "monitor_spotify",
-      "image_url": "https://logo.clearbit.com/spotify.com",
+      "title": "Prezzo di lista 799 euro: il 30% in più di un iphone 15 pro.",
+      "url": "/tecnologia/prezzo-di-lista-799-euro-il-30-in-piu-di-un-iphone-255e8c8cfe55d7da",
+      "id": "255e8c8cfe55d7da",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/145538535-60299787-0e77-468a-8df5-90c2a5d92c5d.jpg",
       "image_type": "image"
     },
     {
-      "title": "Cloudflare in tilt per 25 minuti blocca siti e pagamenti in tutta Italia",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "Apple non sa quando avrà abbastanza iphone duo per tutti",
+      "url": "/tecnologia/apple-non-sa-quando-avra-abbastanza-iphone-duo-per-667266a7b4c52905",
+      "id": "667266a7b4c52905",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/103122318-4a26b726-e5aa-41e9-9b87-5e9623a3b44c.jpg",
       "image_type": "image"
     }
   ],
