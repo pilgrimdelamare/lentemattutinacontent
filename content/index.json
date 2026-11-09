@@ -1,5 +1,20 @@
 [
   {
+    "id": "192b01615daf84b0",
+    "slug": "tennis-zverev-perde-a-parigi-contro-musetti-ma-bli-192b01615daf84b0",
+    "title": "Zverev e sinner nella resa dei conti finanziaria",
+    "section": "sport",
+    "priority": 5,
+    "journalist_firma": "Davide Longo",
+    "published_at": "2026-11-09T08:31:52.355756+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/ec39413a92313dd86069d0dd67ed4d582c1715d2/skysport/it/tennis/classifica-atp-italiani/zverev_sinner_ipa.jpg",
+    "occhiello": "ZVEREV E SINNER NELLA RESA DEI CONTI FINANZIARIA",
+    "lead_preview": "Milano, 9 novembre 2026. Sascha Zverev ha chiuso anzitempo il proprio percorso al Masters 1000 di Parigi dopo la sconfit",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "f36626e42f429f83",
     "slug": "bruxelles-cala-la-maschera-von-der-leyen-corre-ad-f36626e42f429f83",
     "title": "Bruxelles schiera l’UE ad Abu Dhabi: Zelensky già in linea per sincronizzare la linea dura",
@@ -1971,25 +1986,6 @@
     "tags": [
       "ferrari f1",
       "gp brasile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "192b01615daf84b0",
-    "slug": "tennis-zverev-perde-a-parigi-contro-musetti-ma-bli-192b01615daf84b0",
-    "title": "Tennis: Zverev perde a Parigi contro Musetti ma blinda il primato in Classifica",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T08:31:52.355756+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ec39413a92313dd86069d0dd67ed4d582c1715d2/skysport/it/tennis/classifica-atp-italiani/zverev_sinner_ipa.jpg",
-    "occhiello": "ZVEREV E SINNER NELLA RESA DEI CONTI FINANZIARIA",
-    "lead_preview": "Milano, 9 novembre 2026. Sascha Zverev ha chiuso anzitempo il proprio percorso al Masters 1000 di Parigi dopo la sconfit",
-    "tags": [
-      "masters parigi",
-      "lorenzo musetti",
-      "sascha zverev"
     ],
     "hero_eligible": true
   },
