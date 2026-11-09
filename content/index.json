@@ -1,5 +1,23 @@
 [
   {
+    "id": "3a1b3c4ddd03479a",
+    "slug": "dai-colossi-del-web-un-impegno-a-regolare-lo-scrap-3a1b3c4ddd03479a",
+    "title": "Google, Apple, Microsoft & Co. Unveil Plans to Protect Content Creators; A New Hope for the Web",
+    "section": "politica",
+    "priority": 5,
+    "journalist_firma": "Sergio Mancini",
+    "published_at": "2026-11-08T14:00:44.467548+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/770a6ae389a83a819c467c440a2a62b3.jpg",
+    "occhiello": "Dai colossi del web un impegno a regolare lo scraping dell'ia dai siti",
+    "lead_preview": "Roma, 8 novembre 2026 I giganti del web — Google, Microsoft, Meta e altri — hanno firmato un code of conduct per limitar",
+    "tags": [
+      "scraping contenuti ia",
+      "code of conduct web"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "bc5cdf23594c9f62",
     "slug": "tennis-kostyuk-e-noskova-sconfiggono-swiatek-e-gar-bc5cdf23594c9f62",
     "title": "Tennis: Kostyuk e Noskova sconfiggono Świątek e Garcia, la WTA perde il controllo",
@@ -1077,24 +1095,6 @@
       "scudetto rosario central",
       "campionato argentino 2026",
       "beffa mondiale calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "3a1b3c4ddd03479a",
-    "slug": "dai-colossi-del-web-un-impegno-a-regolare-lo-scrap-3a1b3c4ddd03479a",
-    "title": "Google e Meta promettono di pagare l'IA, ma il 68% dei dati resta rubato",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-08T14:00:44.467548+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/3/770a6ae389a83a819c467c440a2a62b3.jpg",
-    "occhiello": "Dai colossi del web un impegno a regolare lo scraping dell'ia dai siti",
-    "lead_preview": "Roma, 8 novembre 2026 I giganti del web — Google, Microsoft, Meta e altri — hanno firmato un code of conduct per limitar",
-    "tags": [
-      "scraping ia",
-      "code of conduct web"
     ],
     "hero_eligible": true
   },
