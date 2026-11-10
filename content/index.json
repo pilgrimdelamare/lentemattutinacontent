@@ -1,5 +1,23 @@
 [
   {
+    "id": "0ce31c1552f7bb84",
+    "slug": "calcio-la-serie-a-lancia-il-pallone-giallo-fluo-pu-0ce31c1552f7bb84",
+    "title": "Calcio: la Serie A lancia il pallone giallo fluo Puma per l'inverno in campo",
+    "section": "sport",
+    "priority": 6,
+    "journalist_firma": "Matteo Galli",
+    "published_at": "2026-11-10T12:05:27.938757+00:00",
+    "image_type": "feed_image",
+    "image_url": "https://sport.sky.it/assets/images/5d117ea75237e2949e7d5d69efcad2e358b55c3f/skysport/it/calcio/serie-a/2026/11/10/pallone-invernale-serie-a-2026-2027/pallone_invernale_2027_6.jpg",
+    "occhiello": "IL PALLONE INVERNALE DELLA LEGA FIRMATO PUMA",
+    "lead_preview": "Milano, 10 novembre 2026. La lega Serie A ha presentato il nuovo pallone ufficiale Winter Stellar Nitro, realizzato in c",
+    "tags": [
+      "serie a",
+      "puma pallone invernale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "a0289dc23230c04c",
     "slug": "tennis-sinner-punta-ai-prossimi-dieci-anni-in-camp-a0289dc23230c04c",
     "title": "Tennis: Sinner punta ai prossimi dieci anni in campo e svela i messaggi dei rivali",
@@ -8945,21 +8963,6 @@
       "americana",
       "elezioni"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8f8103ad84e32f35",
-    "slug": "trump-sfida-lestablishment-al-lincoln-memorial-la-8f8103ad84e32f35",
-    "title": "Cnn, 'trump chiuderà domani la campagna per le midterm al lincoln memorial'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-01T19:59:34.947548+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/25/278070f564b6b6ff0a9c3a02324633e1.jpg",
-    "occhiello": "CNN, 'TRUMP CHIUDERÀ DOMANI LA CAMPAGNA PER LE MIDTERM AL LINCOLN MEMORIAL'",
-    "lead_preview": "Washington, 1 novembre Donald Trump si è schierato ieri davanti al Lincoln Memorial, il tempio della democrazia american",
-    "tags": [],
     "hero_eligible": true
   }
 ]
