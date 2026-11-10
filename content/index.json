@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T16:29:03.964970+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY IN DOWN",
+    "lead_preview": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "64eedea541aac250",
     "slug": "apple-taglia-heumann-via-nixon-e-sciopero-fame-res-64eedea541aac250",
     "title": "Apple taglia Heumann: via Nixon e sciopero fame, resta la resilienza vuota",
@@ -8908,25 +8927,6 @@
       "antonelli moto gp 2026",
       "piaggio investimenti giovani piloti",
       "moto gp 2024-2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9ecf59f6ffb11dbb",
-    "slug": "inflazione-a-78-e-trump-spara-20-miliardi-per-lira-9ecf59f6ffb11dbb",
-    "title": "Romney e Cruz attaccano Trump: ‘Hai promesso di non andare in guerra e ora ci butti in una terza’",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-02T04:49:11.204105+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55626650664_685a7af71c_b.jpg",
-    "occhiello": "AUX ETATS-UNIS, LES RENIEMENTS DE DONALD TRUMP L’EXPOSENT À UN VOTE SANCTION",
-    "lead_preview": "WASHINGTON, 2 novembre Donald Trump ha appena firmato un ordine esecutivo per inviare 17 000 soldati statunitensi in Med",
-    "tags": [
-      "attacco romney cruz trump",
-      "guerra medio oriente trump",
-      "soldati usa medio oriente"
     ],
     "hero_eligible": true
   }
