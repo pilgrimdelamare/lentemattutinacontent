@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è tornato online dopo 39 minuti di interruzione.",
+  "title": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
   "titles": [
-    "Satispay è tornato online dopo 39 minuti di interruzione.",
-    "Satispay è tornato online dopo 39 minuti di interruzione.",
-    "Satispay è tornato online dopo 39 minuti di interruzione."
+    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
+    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RIPRISTINATO",
-  "lead": "Satispay è tornato online dopo 39 minuti di interruzione.",
-  "corpo1": "Il disservizio che ha colpito Satispay è stato risolto. L'interruzione è durata circa 39 minuti. Il servizio risulta ora pienamente operativo.",
+  "occhiello": "SATISPAY IN DOWN",
+  "lead": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-10-30T01:33:10.048942+00:00",
+  "published_at": "2026-11-10T16:29:03.964970+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Revolut ha ripristinato i servizi dopo 44 minuti di interruzione tecnica, confer",
-      "url": "/tecnologia/disservizio-revolut",
-      "id": "monitor_revolut",
-      "image_url": "https://logo.clearbit.com/revolut.com",
+      "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Netflix ha ripristinato il servizio dopo 30 minuti di interruzione tecnica. Gli ",
-      "url": "/tecnologia/disservizio-netflix",
-      "id": "monitor_netflix",
-      "image_url": "https://logo.clearbit.com/netflix.com",
+      "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Da ventidue minuti Instagram risulta completamente irraggiungibile. Il servizio ",
-      "url": "/tecnologia/disservizio-instagram",
-      "id": "monitor_instagram",
-      "image_url": "https://logo.clearbit.com/instagram.com",
+      "title": "Prezzo di lista 799 euro: il 30% in più di un iphone 15 pro.",
+      "url": "/tecnologia/prezzo-di-lista-799-euro-il-30-in-piu-di-un-iphone-255e8c8cfe55d7da",
+      "id": "255e8c8cfe55d7da",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/145538535-60299787-0e77-468a-8df5-90c2a5d92c5d.jpg",
       "image_type": "image"
     }
   ],
