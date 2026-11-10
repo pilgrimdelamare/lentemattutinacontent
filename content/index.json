@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T17:16:42.694183+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
+    "lead_preview": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disser",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "15717dbf37b5981d",
     "slug": "tennis-tiafoe-sconfigge-draper-a-torino-e-lagnelli-15717dbf37b5981d",
     "title": "Tennis: Tiafoe travolge Draper a Torino e punta al montepremi da 2,5 milioni",
@@ -122,25 +141,6 @@
       "donazione hackett 45m"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T16:46:03.063623+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "GITHUB OFFLINE: CRITICO",
-    "lead_preview": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere ",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "40f7fe85d203008a",
