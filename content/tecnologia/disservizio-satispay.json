@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
+  "title": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
   "titles": [
-    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
-    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
-    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il "
+    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
+    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
+    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY RIATTIVATO. SERVIZIO RIPRISTINATO.",
-  "lead": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il sistema è tornato online senza ulteriori interruzioni.",
-  "corpo1": "Il malfunzionamento di Satispay è iniziato alle ore [inserire ora esatta se disponibile] ed è stato risolto alle [inserire ora di ripristino]. Il team tecnico ha confermato la riattivazione completa del servizio, con tutti i pagamenti e le transazioni nuovamente disponibili. Nessun impatto permanente è stato segnalato.",
+  "occhiello": "ALERTA CRITICA: SATISPAY OFFLINE",
+  "lead": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è completamente down. Milioni di utenti italiani non possono effettuare transazioni. L'impatto è immediato e totale sulle operazioni finanziarie digitali quotidiane in tutto il territorio nazionale.",
+  "corpo1": "Il sistema di autenticazione e transazione di Satispay ha smesso di rispondere alle richieste degli utenti alle ore attuali. Il problema è iniziato improvvisamente, bloccando l'accesso all'applicazione e impedendo qualsiasi operazione di invio o ricezione di fondi. Le notifiche push non vengono più generate e i tentativi di connessione falliscono sistematicamente. Questo blocco tecnico rende impossibile l'utilizzo del wallet digitale per acquisti, split di conto o trasferimenti istantanei. La piattaforma è inaccessibile sia da mobile che da web. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T16:39:49.901778+00:00",
+  "published_at": "2026-11-10T21:53:55.660582+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,24 +38,24 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     },
     {
-      "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
+      "title": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     },
     {
-      "title": "Prezzo di lista 799 euro: il 30% in più di un iphone 15 pro.",
-      "url": "/tecnologia/prezzo-di-lista-799-euro-il-30-in-piu-di-un-iphone-255e8c8cfe55d7da",
-      "id": "255e8c8cfe55d7da",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/145538535-60299787-0e77-468a-8df5-90c2a5d92c5d.jpg",
+      "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     }
   ],
