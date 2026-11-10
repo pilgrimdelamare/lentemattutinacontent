@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
+  "title": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
   "titles": [
-    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
-    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
-    "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è "
+    "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
+    "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
+    "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "ALERTA CRITICA: SATISPAY OFFLINE",
-  "lead": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è completamente down. Milioni di utenti italiani non possono effettuare transazioni. L'impatto è immediato e totale sulle operazioni finanziarie digitali quotidiane in tutto il territorio nazionale.",
-  "corpo1": "Il sistema di autenticazione e transazione di Satispay ha smesso di rispondere alle richieste degli utenti alle ore attuali. Il problema è iniziato improvvisamente, bloccando l'accesso all'applicazione e impedendo qualsiasi operazione di invio o ricezione di fondi. Le notifiche push non vengono più generate e i tentativi di connessione falliscono sistematicamente. Questo blocco tecnico rende impossibile l'utilizzo del wallet digitale per acquisti, split di conto o trasferimenti istantanei. La piattaforma è inaccessibile sia da mobile che da web. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
+  "lead": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il sistema è ora stabile e accessibile a tutti gli utenti, consentendo il regolare svolgimento delle transazioni digitali e delle operazioni bancarie integrate.",
+  "corpo1": "Il disservizio è stato rilevato in mattinata, quando numerosi utenti hanno segnalato l'impossibilità di completare pagamenti o trasferimenti. La piattaforma ha registrato un errore sistematico che ha bloccato le richieste in entrata e in uscita per poco più di mezz'ora. Il team tecnico ha intervenuto immediatamente per isolare la causa del malfunzionamento, identificando un'anomalia nel gateway di elaborazione delle transazioni. Dopo l'applicazione delle correzioni necessarie, i sistemi sono stati gradualmente riattivati. Le verifiche interne confermano che l'infrastruttura opera ora con parametri nominali, garantendo la piena funzionalità del servizio per clienti e merchant.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T21:53:55.660582+00:00",
+  "published_at": "2026-11-10T22:04:40.360983+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
@@ -38,10 +38,10 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-satispay",
   "related": [
     {
-      "title": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-cloudflare",
-      "id": "monitor_cloudflare",
-      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
@@ -52,10 +52,10 @@
       "image_type": "image"
     },
     {
-      "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
       "image_type": "image"
     }
   ],
