@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, martedì 10 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-10T06:45:37.205862+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/5bfc66894fabc3d9573f8f985b7927a70ef4685c/skytg24/it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre/1_Corriere.jpg",
+    "occhiello": "LE PRIME PAGINE DI MARTEDI 10 NOVEMBRE",
+    "lead_preview": "La rassegna stampa di martedì 10 novembre si concentra principalmente sulle misure governative per il contenimento dei c",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "48615866a3884d83",
     "slug": "f1-la-ferrari-fallisce-il-brasile-e-vanzini-chiede-48615866a3884d83",
     "title": "Ferrari, il bilancio del gp del brasile e le scelte per il futuro",
@@ -2318,25 +2337,6 @@
     "tags": [
       "incidente bagnaia",
       "motogp qatar"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, lunedì 9 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-09T06:46:10.568116+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/f2958e02a41fb36eaf5549d52a8a6eb7e4a0461b/skytg24/it/cronaca/2026/11/09/prime-pagine-quotidiani-oggi-9-novembre/CorSera.png",
-    "occhiello": "LE PRIME PAGINE – ISRAELE, POLITICA E SPORT: IL 9 NOVEMBRE 2026",
-    "lead_preview": "La crisi politica in Israele domina le prime pagine dei principali quotidiani italiani, con l’incarico affidato all’ex g",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
