@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T16:46:03.063623+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "GITHUB OFFLINE: CRITICO",
+    "lead_preview": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere ",
+    "tags": [
+      "downtime",
+      "github",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "40f7fe85d203008a",
     "slug": "hera-paga-37-milioni-per-gigas-rete-il-gas-verones-40f7fe85d203008a",
     "title": "Hera paga 37 milioni per Gigas Rete: il gas Veronese ora è suo, senza concorrenza",
@@ -3269,25 +3288,6 @@
     "lead_preview": "Washington, 8 novembre Donald John Trump, 47º presidente degli Stati Uniti, ha dichiarato in un’intervista a 60 Minutes ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-09T18:44:33.512558+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
-    "lead_preview": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "96ef0ee3638a36d1",
