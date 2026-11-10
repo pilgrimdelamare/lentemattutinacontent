@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, lunedì 9 novembre 2026",
+  "title": "Le prime pagine di oggi, martedì 10 novembre 2026",
   "titles": [
-    "Le prime pagine di oggi, lunedì 9 novembre 2026",
-    "Le prime pagine di oggi, lunedì 9 novembre 2026",
-    "Le prime pagine di oggi, lunedì 9 novembre 2026"
+    "Le prime pagine di oggi, martedì 10 novembre 2026",
+    "Le prime pagine di oggi, martedì 10 novembre 2026",
+    "Le prime pagine di oggi, martedì 10 novembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE – ISRAELE, POLITICA E SPORT: IL 9 NOVEMBRE 2026",
-  "lead": "La crisi politica in Israele domina le prime pagine dei principali quotidiani italiani, con l’incarico affidato all’ex generale Benny Gantz-Eisenkot per formare un governo e la sfida aperta a Benjamin Netanyahu. *Il Corriere della Sera*, *La Repubblica*, *La Stampa* e *Il Messaggero* analizzano le ipotesi di coalizione, dagli ultraortodossi agli arabi, mentre *Il Fatto Quotidiano* punta su un possibile alleato nella destra senza Netanyahu. La cybersecurity e gli attacchi hacker occupano spazio su *Il Corriere della Sera* e *Il Messaggero*, che annunciano una task force governativa. Gli sportivi *La Gazzetta dello Sport*, *Il Corriere dello Sport* e *Tuttosport* si concentrano sui risultati della Serie A, con l’Inter protagonista e la Juventus in difficoltà. *Il Fatto Quotidiano* chiude con un focus sulla cybersecurity e una lettera aperta a Giorgia Meloni.",
-  "corpo1": "*Il Corriere della Sera* apre con la situazione israeliana, titolando sulla \"sfida di Eisenkot\" e sulle ipotesi di un governo di unità nazionale o alleanza con arabi e ultraortodossi. Spazio anche alle parole di Giorgia Meloni sugli attacchi hacker e al caso dello scienziato ucciso a Roma. *La Repubblica* conferma l’incarico a Eisenkot, con 28 giorni per formare una coalizione, e cita il commento del ministro Levy sul bisogno di includere gli arabi. Il decreto sulle bollette e il caso di un grido d’aiuto non ascoltato completano la pagina. *La Stampa* sottolinea la prontezza di Eisenkot a lavorare anche con il Likud, senza però cedere a personalismi, e inserisce l’intervento di Antonio Tajani sulla guerra ibrida come minaccia alla democrazia. *Il Messaggero* si sofferma sulla \"super task force\" contro gli hacker, operativa da dicembre, e sul tentativo di Eisenkot di chiudere l’era Netanyahu, affiancando notizie su un monopattino pirata che ha travolto e ucciso uno scienziato a Roma e il delitto Terzulli ad Anguillara. *Il Fatto Quotidiano* titola in modo più netto: \"Eisenkot fa fuori Netanyahu e apre alla destra senza di lui\", con un focus sulle alleanze possibili con Lieberman e gli ultraortodossi. La pagina include anche la notizia di una nuova carica da 440mila euro in cybersecurity e una lettera aperta a Meloni sulla Cedu.",
-  "corpo2": "Sui quotidiani sportivi, *La Gazzetta dello Sport*, *Il Corriere dello Sport* e *Tuttosport* dedicano le prime pagine ai risultati della Serie A: l’Inter vince contro il Como con Chivu protagonista, il Milan sale con Cisse e Pulisic, la Juventus impatta a Firenze grazie a Bremer e De Gea, mentre la Lazio pareggia contro il Napoli. *Tuttosport* approfondisce la rabbia di Massimiliano Allegri dopo il pareggio con la Fiorentina e il caso Lang. Sul *Corriere della Sera* e *La Repubblica* spiccano anche i dati sul decreto bollette e il caso dello scienziato ucciso a Roma, mentre *La Stampa* e *Il Messaggero* inseriscono notizie locali come il delitto ad Anguillara. Il tema dominante della giornata resta la crisi politica israeliana e le sue ricadute, affiancata da cybersecurity e cronaca nera.",
+  "occhiello": "LE PRIME PAGINE DI MARTEDI 10 NOVEMBRE",
+  "lead": "La rassegna stampa di martedì 10 novembre si concentra principalmente sulle misure governative per il contenimento dei costi energetici, tema trattato da La Repubblica e Il Messaggero. Parallelamente, il dibattito internazionale si divide tra la sicurezza geopolitica, con il Corriere della Sera che riporta le accuse di sabotaggio a Iran e Russia, e la crisi climatica in occasione della Cop31. La cronaca giudiziaria trova spazio su La Stampa, mentre le pagine sportive si focalizzano sulle strategie di mercato delle squadre di Serie A.",
+  "corpo1": "Il Corriere della Sera apre con il tema della guerra ibrida, riportando le accuse di Parigi contro Teheran per i recenti sabotaggi e le dichiarazioni del ministro Tajani sul ruolo di Mosca. La Repubblica dedica il titolo principale alla Cop31 e alla scarsa partecipazione dei capi di Stato, definendoli disertori del clima. La Stampa mette in primo piano la relazione della commissione parlamentare d'inchiesta sul nuovo cartello mafioso che coinvolge camorra, ndrangheta e Cosa nostra per il controllo degli appalti nel Nord Italia. Il Messaggero punta invece sul via libera alle misure taglia bollette, sottolineando la distanza tra le stime del governo e le critiche delle opposizioni sul reale risparmio per i cittadini. Infine, le testate sportive Gazzetta dello Sport e Corriere dello Sport celebrano l'andamento del campionato, concentrandosi rispettivamente sui rinnovi contrattuali dell'Inter e sul record delle squadre romane.",
+  "corpo2": "Tra gli altri titoli di rilievo, Il Messaggero riporta le rivelazioni degli hacker di Kiev sulle perdite dell'esercito russo, mentre La Stampa e il Corriere della Sera segnalano l'attenzione del G7 sul caso Nvidia. La Gazzetta dello Sport evidenzia l'elevato numero di gol segnati nelle prime undici giornate di campionato. La giornata è segnata dal contrasto tra le emergenze economiche interne e le tensioni diplomatiche globali.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,40 +23,40 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-11-09T06:46:10.568116+00:00",
+  "published_at": "2026-11-10T06:45:37.205862+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/f2958e02a41fb36eaf5549d52a8a6eb7e4a0461b/skytg24/it/cronaca/2026/11/09/prime-pagine-quotidiani-oggi-9-novembre/CorSera.png",
-    "source": "Il Corriere Della Sera",
-    "credit": "Prima pagina — Il Corriere Della Sera",
+    "url": "https://tg24.sky.it/assets/images/5bfc66894fabc3d9573f8f985b7927a70ef4685c/skytg24/it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre/1_Corriere.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
   },
   "schema_jsonld": "",
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/11/09/prime-pagine-quotidiani-oggi-9-novembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, lunedì 9 novembre 2026",
+      "title": "Oroscopo di oggi, martedì 10 novembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "De Sica: \"I cinepanettoni? Oggi mi cacciano!\"",
-      "url": "/cultura/de-sica-i-cinepanettoni-oggi-mi-cacciano-53abb04390a827bc",
-      "id": "53abb04390a827bc",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/12/6/9ab573e0a416e1f03a95bc85b0a52053.jpg",
+      "title": "Francesco gabbani, il 13 novembre esce un nuovo singolo che porta il suo nome",
+      "url": "/cultura/francesco-gabbani-annuncia-un-nuovo-prossimo-svilu-cfe5291d8c63f0a7",
+      "id": "cfe5291d8c63f0a7",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/2921bb646fa9aca6597dde647a8b7223.jpg",
       "image_type": "image"
     },
     {
-      "title": "Inglewood, 3 novembre",
-      "url": "/sport/basket-raptors-annientano-clippers-125-118-con-dif-28114300127f4015",
-      "id": "28114300127f4015",
-      "image_url": "https://sport.sky.it/assets/images/894a19f0e43d664bdb91d1851812ee7abf205dc9/skysport/it/nba/video/2026/11/03/1136906_1793689570647_thumb_494.0000001_1793690628048.jpg",
-      "image_type": "feed_image"
+      "title": "Bologna, dal 10 al 14 novembre la rassegna docucraina tra cinema, arte e resiste",
+      "url": "/cultura/docucraina-mosca-distrugge-libri-e-cinema-noi-most-9895e6a7d0b20f68",
+      "id": "9895e6a7d0b20f68",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/439c447a4a52bec3630c09c8f2c1c736.jpg",
+      "image_type": "image"
     }
   ],
   "hero_eligible": true
