@@ -1,5 +1,24 @@
 [
   {
+    "id": "4cc2f30b457f3f2e",
+    "slug": "siti-di-informazione-bloccati-da-cookie-e-paywall-4cc2f30b457f3f2e",
+    "title": "ANSA blocca notizie: senza Cookie o abbonamento a 16,99€ al mese non si legge più nulla",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-10T09:05:11.914774+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/993570fc1181492275a0d468246e25f0.jpg",
+    "occhiello": "SITI DI INFORMAZIONE BLOCCATI DA COOKIE E PAYWALL",
+    "lead_preview": "Roma, 10 novembre 2026. L'accesso ai contenuti online dell'Agenzia Nazionale Stampa Associata risulta interamente subord",
+    "tags": [
+      "paywall ansa",
+      "cookie profilazione",
+      "abbonamento digitale 16.99"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6915dc9cf0fa0bbd",
     "slug": "meloni-scarica-su-bruxelles-la-grana-ucraina-e-chi-6915dc9cf0fa0bbd",
     "title": "Meloni blocca l’aiuto a Kiev: «Decide l’UE, non Roma» e Costa acconsente a Dublino",
@@ -2409,21 +2428,6 @@
       "ostia antica",
       "fondi regione lazio"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4cc2f30b457f3f2e",
-    "slug": "siti-di-informazione-bloccati-da-cookie-e-paywall-4cc2f30b457f3f2e",
-    "title": "Siti di informazione bloccati da cookie e paywall",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-10T09:05:11.914774+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/993570fc1181492275a0d468246e25f0.jpg",
-    "occhiello": "SITI DI INFORMAZIONE BLOCCATI DA COOKIE E PAYWALL",
-    "lead_preview": "Roma, 10 novembre 2026. L'accesso ai contenuti online dell'Agenzia Nazionale Stampa Associata risulta interamente subord",
-    "tags": [],
     "hero_eligible": true
   },
   {
