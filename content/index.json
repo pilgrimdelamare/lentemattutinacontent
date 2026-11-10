@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T22:04:40.360983+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
+    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "3c95e97b9103c764",
     "slug": "al-alighieri-va-in-scena-mozart-dantone-e-muti-fir-3c95e97b9103c764",
     "title": "Muti e Dantone svelano Mozart 1791: Ravenna Festival omaggia i suoi ultimi capolavori",
@@ -35,25 +54,6 @@
       "borsa tokyo"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T21:53:55.660582+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "ALERTA CRITICA: SATISPAY OFFLINE",
-    "lead_preview": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è completamente down. Milioni di utenti it",
-    "tags": [
-      "downtime",
-      "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2bef99f819329ee4",
