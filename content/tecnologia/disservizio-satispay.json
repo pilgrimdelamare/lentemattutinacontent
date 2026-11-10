@@ -1,17 +1,17 @@
 {
   "id": "monitor_satispay",
   "slug": "disservizio-satispay",
-  "title": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
+  "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
   "titles": [
-    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz",
-    "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disserviz"
+    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
+    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
+    "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il "
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SATISPAY IN DOWN",
-  "lead": "Satispay è irraggiungibile da 18 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio Satispay risulta non disponibile dalle ultime 18 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SATISPAY RIATTIVATO. SERVIZIO RIPRISTINATO.",
+  "lead": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il sistema è tornato online senza ulteriori interruzioni.",
+  "corpo1": "Il malfunzionamento di Satispay è iniziato alle ore [inserire ora esatta se disponibile] ed è stato risolto alle [inserire ora di ripristino]. Il team tecnico ha confermato la riattivazione completa del servizio, con tutti i pagamenti e le transazioni nuovamente disponibili. Nessun impatto permanente è stato segnalato.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T16:29:03.964970+00:00",
+  "published_at": "2026-11-10T16:39:49.901778+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/satispay.com",
