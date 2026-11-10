@@ -1,5 +1,24 @@
 [
   {
+    "id": "a9f668c722a4a848",
+    "slug": "barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-a9f668c722a4a848",
+    "title": "Parigi rischia 15 milioni di danni: i Pasdaran bloccano i frigoriferi francesi",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-09T18:19:01.744732+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/14/ca6f8c5e0f9672634df7a5ae93c0d4ce.jpg",
+    "occhiello": "BARROT, 'I PASDARAN DIETRO L'ATTACCO HACKER AI FRIGO, ADOTTEREMO SANZIONI UE'",
+    "lead_preview": "Parigi, 9 novembre. La Francia ha emesso un mandato internazionale contro i vertici del gruppo hacker iraniano Shadid Ka",
+    "tags": [
+      "hackers",
+      "sanctions",
+      "iran-france relations"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
@@ -2643,25 +2662,6 @@
     "lead_preview": "Miami, 9 novembre 2026. Lionel Andrés Messi Cuccittini ha incontrato un suo sostenitore che ha richiesto l'autografo su ",
     "tags": [
       "messi miami"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a9f668c722a4a848",
-    "slug": "barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-a9f668c722a4a848",
-    "title": "Barrot, 'i pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni ue'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-09T18:19:01.744732+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/14/ca6f8c5e0f9672634df7a5ae93c0d4ce.jpg",
-    "occhiello": "BARROT, 'I PASDARAN DIETRO L'ATTACCO HACKER AI FRIGO, ADOTTEREMO SANZIONI UE'",
-    "lead_preview": "Parigi, 9 novembre La Francia ha emesso un mandato internazionale contro i vertici del gruppo hacker iraniano Shadid Kav",
-    "tags": [
-      "attacco hacker iran",
-      "sanzioni ue iran",
-      "pasdaran"
     ],
     "hero_eligible": true
   },
