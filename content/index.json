@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T17:22:05.192786+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIPRISTINATO",
+    "lead_preview": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "50fd4d7469ba9c05",
     "slug": "f1-academy-calendario-2027-gare-date-e-novita-foto-50fd4d7469ba9c05",
     "title": "F1 academy, calendario 2027: gare, date e novità. foto",
@@ -8891,25 +8910,6 @@
       "f1 2024",
       "antonelli campione",
       "mercedes f1"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f608994c52d406a1",
-    "slug": "iran-larmee-americaine-a-effectue-des-frappes-sur-f608994c52d406a1",
-    "title": "Iran : l’armée américaine a effectué des frappes sur l’île de qeshm, selon le « ",
-    "section": "esteri",
-    "priority": 3,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-03T04:29:49.945842+00:00",
-    "image_type": "flickr",
-    "image_url": "https://live.staticflickr.com/65535/55628780231_de883d8515_b.jpg",
-    "occhiello": "IRAN : L’ARMÉE AMÉRICAINE A EFFECTUÉ DES FRAPPES SUR L’ÎLE DE QESHM, SELON LE « ",
-    "lead_preview": "Qeshm, 3 novembre. L’Iran ha accusato gli Stati Uniti di aver condotto operazioni militari segrete sull’isola strategica",
-    "tags": [
-      "attacco us iran qeshm",
-      "stretto hormuz",
-      "tensioni usa iran"
     ],
     "hero_eligible": true
   }
