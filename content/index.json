@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T18:06:26.781698+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
+    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionar",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "0317cee0e8ac301c",
     "slug": "su-bpm-lultimo-giro-di-risiko-il-nodo-del-governo-0317cee0e8ac301c",
     "title": "Credit Agricole offre 1 miliardo per la Bpm: i francesi si mangiano la Banca",
@@ -280,25 +299,6 @@
       "conservatorio milano opera"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato online dopo 35 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T16:51:30.589101+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIPRISTINATO",
-    "lead_preview": "Claude è tornato online dopo 35 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2839d0dd8b617418",
