@@ -1,5 +1,24 @@
 [
   {
+    "id": "a9f668c722a4a848",
+    "slug": "barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-a9f668c722a4a848",
+    "title": "Barrot, 'i pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni ue'",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-09T18:19:01.744732+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/14/ca6f8c5e0f9672634df7a5ae93c0d4ce.jpg",
+    "occhiello": "BARROT, 'I PASDARAN DIETRO L'ATTACCO HACKER AI FRIGO, ADOTTEREMO SANZIONI UE'",
+    "lead_preview": "Parigi, 9 novembre La Francia ha emesso un mandato internazionale contro i vertici del gruppo hacker iraniano Shadid Kav",
+    "tags": [
+      "attacco hacker iran",
+      "sanzioni ue iran",
+      "pasdaran"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9aac706831bfec58",
     "slug": "iran-was-behind-cyber-attack-on-french-supermarket-9aac706831bfec58",
     "title": "Hacker iraniani sabotano i frigo francesi: 50 gradi e cibi da buttare",
@@ -1635,21 +1654,6 @@
       "disservizi"
     ],
     "hero_eligible": false
-  },
-  {
-    "id": "a9f668c722a4a848",
-    "slug": "barrot-i-pasdaran-dietro-lattacco-hacker-ai-frigo-a9f668c722a4a848",
-    "title": "Barrot, 'i pasdaran dietro l'attacco hacker ai frigo, adotteremo sanzioni ue'",
-    "section": "esteri",
-    "priority": 8,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-09T18:19:01.744732+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/2/14/ca6f8c5e0f9672634df7a5ae93c0d4ce.jpg",
-    "occhiello": "BARROT, 'I PASDARAN DIETRO L'ATTACCO HACKER AI FRIGO, ADOTTEREMO SANZIONI UE'",
-    "lead_preview": "Parigi, 9 novembre La Francia ha emesso un mandato internazionale contro i vertici del gruppo hacker iraniano Shadid Kav",
-    "tags": [],
-    "hero_eligible": true
   },
   {
     "id": "0317cee0e8ac301c",
