@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T16:39:48.705270+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 23 MINUTI. ALLERTA SISTEMA.",
+    "lead_preview": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italiani colpiti: accesso bloccato a tutte le ",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "monitor_satispay",
     "slug": "disservizio-satispay",
     "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
@@ -5304,25 +5323,6 @@
       "crollo kospi seul",
       "mercati asiatici",
       "semiconductori borsa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-03T07:06:58.885211+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE RIATTIVATO. DISERVIZIO RISOLTO.",
-    "lead_preview": "Il sistema Claude è tornato pienamente operativo dopo 38 minuti di interruzione non pianificata. Tutti i servizi sono st",
-    "tags": [
-      "sistema claude",
-      "interruzione",
-      "ripristino servizi"
     ],
     "hero_eligible": true
   },
