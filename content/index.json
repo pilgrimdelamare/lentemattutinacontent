@@ -1,5 +1,20 @@
 [
   {
+    "id": "4cc2f30b457f3f2e",
+    "slug": "siti-di-informazione-bloccati-da-cookie-e-paywall-4cc2f30b457f3f2e",
+    "title": "Siti di informazione bloccati da cookie e paywall",
+    "section": "esteri",
+    "priority": 8,
+    "journalist_firma": "Anna Colombo",
+    "published_at": "2026-11-10T09:05:11.914774+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/993570fc1181492275a0d468246e25f0.jpg",
+    "occhiello": "SITI DI INFORMAZIONE BLOCCATI DA COOKIE E PAYWALL",
+    "lead_preview": "Roma, 10 novembre 2026. L'accesso ai contenuti online dell'Agenzia Nazionale Stampa Associata risulta interamente subord",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "3c95e97b9103c764",
     "slug": "al-alighieri-va-in-scena-mozart-dantone-e-muti-fir-3c95e97b9103c764",
     "title": "Al Alighieri va in scena Mozart: Dantone e Muti firmano l'ultimo anno",
@@ -8957,21 +8972,6 @@
       "controversia prezzi ok",
       "vaffa zanicchi"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "498ee41836d6334a",
-    "slug": "trump-bloccato-in-alaska-giudice-confisca-150000-d-498ee41836d6334a",
-    "title": "Giudice alaska respinge causa di trump sul blocco della certificazione dei voti",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-01T18:39:34.625610+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/25/b59fb221776ac9f9dd5921b304180bd2.jpg",
-    "occhiello": "GIUDICE ALASKA RESPINGE CAUSA DI TRUMP SUL BLOCCO DELLA CERTIFICAZIONE DEI VOTI",
-    "lead_preview": "MAIUSCOLO UN GIUDICE DELL’ALASKA BLOCCA I FONDI DI TRUMP PER IL RECLAMO SUL VOTO 2024 Anchorage, 1 novembre Il giudice d",
-    "tags": [],
     "hero_eligible": true
   }
 ]
