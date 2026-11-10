@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è ",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T21:53:55.660582+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "ALERTA CRITICA: SATISPAY OFFLINE",
+    "lead_preview": "Satispay risulta irraggiungibile da quindici minuti. Il servizio di pagamento è completamente down. Milioni di utenti it",
+    "tags": [
+      "downtime",
+      "satispay",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2bef99f819329ee4",
     "slug": "il-napoli-non-rimarra-a-bada-con-lasportazione-di-2bef99f819329ee4",
     "title": "Il Napoli non rimarrà a bada con l'asportazione di Alessio De Rossi",
@@ -734,25 +753,6 @@
       "hera veronese"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T16:39:49.901778+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIATTIVATO. SERVIZIO RIPRISTINATO.",
-    "lead_preview": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il sistema è tornato online senza ulteriori",
-    "tags": [
-      "downtime",
-      "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2b2f9f3b9bc1cb6d",
