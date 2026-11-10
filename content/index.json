@@ -1,5 +1,24 @@
 [
   {
+    "id": "8bc3affed07bba7e",
+    "slug": "chung-otello-e-una-vicenda-terribile-la-magia-sta-8bc3affed07bba7e",
+    "title": "Chung, 'otello è una vicenda terribile, la magia sta nella musica'",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-11-10T16:59:11.382954+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/660100cc0d16151e5d599c0b4774530f.jpg",
+    "occhiello": "CHUNG, 'OTELLO È UNA VICENDA TERRIBILE, LA MAGIA STA NELLA MUSICA'",
+    "lead_preview": "Il maestro sudcoreano Yun Chung ha diretto per la prima volta *Otello* con gli studenti del Conservatorio di Milano, tra",
+    "tags": [
+      "otello milano",
+      "yun chung",
+      "conservatorio milano opera"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_claude",
     "slug": "disservizio-claude",
     "title": "Claude è tornato online dopo 35 minuti di interruzione.",
@@ -8905,25 +8924,6 @@
     "tags": [
       "nba indiana vs brooklyn",
       "pacers vs nets 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8e304a0ac8d1a3d7",
-    "slug": "intesa-fagocita-mps-con-306-miliardi-i-contribuent-8e304a0ac8d1a3d7",
-    "title": "Intesa Sanpaolo fagocita MPS: 30,6 miliardi di debito pubblico per un’assorbimento senza pari",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-02T07:28:23.722729+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/10/30/123116122-df48627a-2d05-4ef8-b828-905b6e526c05.jpg",
-    "occhiello": "LA NUOVA VITA DI BANCA MPS RICOMINCIADA INTESA",
-    "lead_preview": "MAIUSCOLO INTESA SALVA MPS CON UN OFFERTA DA 30,6 MILIARDI: I CONTRIBUENTI PAGANO IL CONTO Roma, 2 novembre. Intesa Sanp",
-    "tags": [
-      "banca",
-      "merger",
-      "economia"
     ],
     "hero_eligible": true
   }
