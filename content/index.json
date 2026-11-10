@@ -1,5 +1,24 @@
 [
   {
+    "id": "23350b5043f82b16",
+    "slug": "barbero-in-tv-sul-1848-sky-imposta-la-serata-di-no-23350b5043f82b16",
+    "title": "Barbero in tv sul 1848: Sky imposta la serata di novembre sui moti rivoluzionari",
+    "section": "cultura",
+    "priority": 6,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-10T12:33:39.352433+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/f3684219c31793141c9311c2579ffcbf.jpg",
+    "occhiello": "BARBERO PORTA IL 1848 IN PRIMA SERATA SU SKY",
+    "lead_preview": "Roma, 10 novembre 2026. Alessandro Barbero torna in televisione per raccontare i moti rivoluzionari del 1848. Il progett",
+    "tags": [
+      "1848",
+      "televisione",
+      "storia"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "76650025617735b4",
     "slug": "trump-dichiara-finita-la-guerra-con-liran-il-petro-76650025617735b4",
     "title": "Trump dichiara finita la guerra con l'Iran: il petrolio crolla sui mercati",
@@ -8922,25 +8941,6 @@
       "attacco abu safiya camera",
       "meloni vs palestinesi",
       "conflitto israelo-palestinese"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2071548789d3e612",
-    "slug": "hacker-russi-falsificano-allerta-aerei-kiev-in-pan-2071548789d3e612",
-    "title": "Mosca hackera app Ucraina: fake news su caduta di Kiev e panico in diretta",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-02T01:23:32.192984+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/25/2ebe5933611a7b1ce7ca7d7ebd60b9a4.jpg",
-    "occhiello": "MOSCA, HACKERATA L'APP DI ALLERTA PER ATTACCHI AEREI",
-    "lead_preview": "Mosca, 2 novembre L’app di allerta per attacchi aerei di Kiev è stata hackerata da gruppi legati a Mosca, che hanno diff",
-    "tags": [
-      "hack app allerta ucraina",
-      "fake news guerra ucraina",
-      "cyberattacco russia kiev"
     ],
     "hero_eligible": true
   }
