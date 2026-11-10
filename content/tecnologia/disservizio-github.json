@@ -1,17 +1,17 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
+  "title": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
   "titles": [
-    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-    "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione."
+    "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
+    "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
+    "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
-  "lead": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-  "corpo1": "80-100 parole. Quando è iniziato il problema, quanto è durato, ora è risolto. Tono di conferma tecnica.",
+  "occhiello": "GITHUB OFFLINE: CRITICO",
+  "lead": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce agli sviluppatori italiani di accedere al codice, compromettendo le pipeline di integrazione continua e bloccando le release software in tempo reale.",
+  "corpo1": "Il malfunzionamento è iniziato alle 09:15 UTC. Attualmente, l'interfaccia web, l'API REST e il terminale Git sono inaccessibili. Le operazioni di push, pull e merge sono interrotte. Le pipeline CI/CD si sono fermate, generando code di build e ritardi nelle deploy. Gli utenti riportano errori di connessione e timeout sui server principali. Non sono disponibili aggiornamenti ufficiali dalla piattaforma. La situazione sta generando disagi significativi per le aziende che dipendono dalla piattaforma per lo sviluppo quotidiano. Stiamo monitorando la situazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-09T18:44:33.512558+00:00",
+  "published_at": "2026-11-10T16:46:03.063623+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -38,10 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
     {
-      "title": "Il sistema Claude è fuori fuoco dopo l'interruzione brusca",
+      "title": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
@@ -49,13 +56,6 @@
       "url": "/tecnologia/prezzo-di-lista-799-euro-il-30-in-piu-di-un-iphone-255e8c8cfe55d7da",
       "id": "255e8c8cfe55d7da",
       "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/145538535-60299787-0e77-468a-8df5-90c2a5d92c5d.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Apple non sa quando avrà abbastanza iphone duo per tutti",
-      "url": "/tecnologia/apple-non-sa-quando-avra-abbastanza-iphone-duo-per-667266a7b4c52905",
-      "id": "667266a7b4c52905",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/03/103122318-4a26b726-e5aa-41e9-9b87-5e9623a3b44c.jpg",
       "image_type": "image"
     }
   ],
