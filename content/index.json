@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude è tornato online dopo 35 minuti di interruzione.",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-10T16:51:30.589101+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE RIPRISTINATO",
+    "lead_preview": "Claude è tornato online dopo 35 minuti di interruzione.",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "2839d0dd8b617418",
     "slug": "basta-chiamate-moleste-il-parlamento-limita-a-10-i-2839d0dd8b617418",
     "title": "Basta chiamate moleste: il Parlamento limita a 10 i contatti al mese per utente",
@@ -73,25 +92,6 @@
       "hera veronese"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T16:39:48.705270+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 23 MINUTI. ALLERTA SISTEMA.",
-    "lead_preview": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italiani colpiti: accesso bloccato a tutte le ",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "monitor_satispay",
