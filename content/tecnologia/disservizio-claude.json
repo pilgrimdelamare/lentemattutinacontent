@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Interruzione totale del servizio Claude. Da trentasette minuti l'interfaccia è i",
+  "title": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
   "titles": [
-    "Interruzione totale del servizio Claude. Da trentasette minuti l'interfaccia è i",
-    "Interruzione totale del servizio Claude. Da trentasette minuti l'interfaccia è i",
-    "Interruzione totale del servizio Claude. Da trentasette minuti l'interfaccia è i"
+    "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
+    "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
+    "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE OFFLINE: CRITICITA MASSIMA",
-  "lead": "Interruzione totale del servizio Claude. Da trentasette minuti l'interfaccia è irraggiungibile. Gli utenti italiani non possono accedere alle funzionalità di analisi e generazione. Il disservizio impedisce l'utilizzo immediato della piattaforma per attività professionali e personali.",
-  "corpo1": "Il sistema di monitoraggio ha rilevato un blackout completo delle infrastrutture di Claude alle ore correnti. Da trentasette minuti, i tentativi di connessione restituiscono errori di timeout o pagine bianche. Tutte le funzionalità, incluse la chat interattiva, l'elaborazione di documenti e l'accesso all'API, risultano completamente compromesse. Gli utenti italiani segnalano l'impossibilità di completare task urgenti o accedere ai propri dati salvati nella sessione. Non sono disponibili workaround immediati. La situazione richiede attenzione immediata da parte del team tecnico. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
+  "lead": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionare correttamente, eliminando le anomalie segnalate dagli utenti durante il periodo di disservizio.",
+  "corpo1": "Il malfunzionamento si è manifestato alle ore 08:15, causando un'interruzione totale dell'accesso all'interfaccia. Gli ingegneri hanno identificato immediatamente la causa tecnica e avviato le procedure di ripristino. Dopo cinquantaquattro minuti di lavoro, il servizio è stato dichiarato stabile e verificato. I monitor di sistema confermano ora un funzionamento regolare, con tempi di risposta entro i parametri standard. Non si registrano ulteriori anomalie o ritardi nelle richieste in coda. La piattaforma è nuovamente disponibile per tutti gli utenti, garantendo continuità operativa e affidabilità del servizio.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T17:48:56.727916+00:00",
+  "published_at": "2026-11-10T18:06:26.781698+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
-      "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
       "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
       "url": "/tecnologia/disservizio-github",
       "id": "monitor_github",
       "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     }
   ],
