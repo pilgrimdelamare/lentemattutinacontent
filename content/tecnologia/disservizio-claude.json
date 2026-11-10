@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
+  "title": "Claude è tornato online dopo 35 minuti di interruzione.",
   "titles": [
-    "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
-    "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia",
-    "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italia"
+    "Claude è tornato online dopo 35 minuti di interruzione.",
+    "Claude è tornato online dopo 35 minuti di interruzione.",
+    "Claude è tornato online dopo 35 minuti di interruzione."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE IRRAGGIUNGIBILE DA 23 MINUTI. ALLERTA SISTEMA.",
-  "lead": "Il modello linguistico Claude di Anthropic è offline da 23 minuti. Utenti italiani colpiti: accesso bloccato a tutte le funzionalità core. Nessun aggiornamento ufficiale. Impatto immediato su chat, generazione testo e integrazioni API.",
-  "corpo1": "Da circa 23 minuti, il servizio Claude (versione 3.5 e precedenti) risulta irraggiungibile su tutte le piattaforme, inclusi siti web, API e client desktop. Il problema è iniziato alle 14:47 ora italiana, senza segnalazioni di errori specifici da parte di Anthropic. Tutte le funzionalità—da chat in tempo reale a elaborazione avanzata—sono compromesse. Utenti italiani non possono generare contenuti, tradurre testi o accedere a risorse personalizzate. Stiamo monitorando la situazione.",
+  "occhiello": "CLAUDE RIPRISTINATO",
+  "lead": "Claude è tornato online dopo 35 minuti di interruzione.",
+  "corpo1": "Il disservizio che ha colpito Claude è stato risolto. L'interruzione è durata circa 35 minuti. Il servizio risulta ora pienamente operativo.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T16:39:48.705270+00:00",
+  "published_at": "2026-11-10T16:51:30.589101+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
@@ -38,17 +38,17 @@
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
   "related": [
     {
+      "title": "GitHub risulta irraggiungibile da diciassette minuti. Il blocco totale impedisce",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
+      "image_type": "image"
+    },
+    {
       "title": "Satispay ha ripristinato la piena operatività dopo 29 minuti di disservizio. Il ",
       "url": "/tecnologia/disservizio-satispay",
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Max 40 parole. GitHub è tornato online dopo 25 minuti di interruzione.",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
