@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_github",
+    "slug": "disservizio-github",
+    "title": "Servizio github riabilitato completamente",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-11-10T17:16:42.694183+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/github.com",
+    "occhiello": "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
+    "lead_preview": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disser",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "35d9f03d3b92f354",
     "slug": "vivere-a-loni-respirando-polvere-e-smog-ogni-giorn-35d9f03d3b92f354",
     "title": "Vivere a loni, respirando polvere e smog ogni giorno",
@@ -1912,25 +1927,6 @@
       "juventus crisi difensiva"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interru",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T17:16:42.694183+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
-    "lead_preview": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disser",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "15717dbf37b5981d",
