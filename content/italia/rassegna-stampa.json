@@ -1,18 +1,18 @@
 {
   "id": "rassegnista_daily",
   "slug": "rassegna-stampa",
-  "title": "Le prime pagine di oggi, martedì 10 novembre 2026",
+  "title": "Le prime pagine di oggi, mercoledì 11 novembre 2026",
   "titles": [
-    "Le prime pagine di oggi, martedì 10 novembre 2026",
-    "Le prime pagine di oggi, martedì 10 novembre 2026",
-    "Le prime pagine di oggi, martedì 10 novembre 2026"
+    "Le prime pagine di oggi, mercoledì 11 novembre 2026",
+    "Le prime pagine di oggi, mercoledì 11 novembre 2026",
+    "Le prime pagine di oggi, mercoledì 11 novembre 2026"
   ],
   "title_winner": null,
   "section": "italia",
-  "occhiello": "LE PRIME PAGINE DI MARTEDI 10 NOVEMBRE",
-  "lead": "La rassegna stampa di martedì 10 novembre si concentra principalmente sulle misure governative per il contenimento dei costi energetici, tema trattato da La Repubblica e Il Messaggero. Parallelamente, il dibattito internazionale si divide tra la sicurezza geopolitica, con il Corriere della Sera che riporta le accuse di sabotaggio a Iran e Russia, e la crisi climatica in occasione della Cop31. La cronaca giudiziaria trova spazio su La Stampa, mentre le pagine sportive si focalizzano sulle strategie di mercato delle squadre di Serie A.",
-  "corpo1": "Il Corriere della Sera apre con il tema della guerra ibrida, riportando le accuse di Parigi contro Teheran per i recenti sabotaggi e le dichiarazioni del ministro Tajani sul ruolo di Mosca. La Repubblica dedica il titolo principale alla Cop31 e alla scarsa partecipazione dei capi di Stato, definendoli disertori del clima. La Stampa mette in primo piano la relazione della commissione parlamentare d'inchiesta sul nuovo cartello mafioso che coinvolge camorra, ndrangheta e Cosa nostra per il controllo degli appalti nel Nord Italia. Il Messaggero punta invece sul via libera alle misure taglia bollette, sottolineando la distanza tra le stime del governo e le critiche delle opposizioni sul reale risparmio per i cittadini. Infine, le testate sportive Gazzetta dello Sport e Corriere dello Sport celebrano l'andamento del campionato, concentrandosi rispettivamente sui rinnovi contrattuali dell'Inter e sul record delle squadre romane.",
-  "corpo2": "Tra gli altri titoli di rilievo, Il Messaggero riporta le rivelazioni degli hacker di Kiev sulle perdite dell'esercito russo, mentre La Stampa e il Corriere della Sera segnalano l'attenzione del G7 sul caso Nvidia. La Gazzetta dello Sport evidenzia l'elevato numero di gol segnati nelle prime undici giornate di campionato. La giornata è segnata dal contrasto tra le emergenze economiche interne e le tensioni diplomatiche globali.",
+  "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 11 NOVEMBRE 2026: POLITICA, GIUSTIZIA, SPORT E CRISI SOCIALI",
+  "lead": "I quotidiani italiani di oggi convergono su temi di attualità politica e giudiziaria, con spazi dedicati a crisi economiche e sviluppi sportivi. Il *Corriere della Sera* approfondisce l’inchiesta milanese su Sala, Boeri e Catella, mentre *La Repubblica* analizza l’impatto della fine del Pnrr sul Mezzogiorno. *La Stampa* torna sul processo Eternit e segnalano la situazione umanitaria a Gaza. *Il Messaggero* intervista Piantedosi sulle minacce hacker e dà spazio a Davide Iacopini. *La Gazzetta dello Sport* e *Corriere dello Sport* si focalizzano sul calciomercato e le prospettive dei campioni azzurri. *La Stampa* e *Il Messaggero* si discostano dagli altri su temi giudiziari e sanitari.",
+  "corpo1": "*Corriere della Sera* apre con l’inchiesta urbanistica a Milano, dove la richiesta di archiviazione per l’ex sindaco Sala, l’architetto Boeri e l’imprenditore Catella smentisce l’ipotesi di un patto corruttivo. In seconda pagina, le banche attaccano la Manovra economica, definendola “insostenibile”. *La Repubblica* titola sulla fine del Pnrr e le conseguenze per il Sud, secondo lo Svimez: il Mezzogiorno cresceva più del Nord, ma dal 2027 gli effetti si azzereranno. In fotonotizia, il blocco dell’impeachment al senatore repubblicano Hegseth e la crisi armamentistica con l’Ucraina. *La Stampa* dedica la prima pagina al processo Eternit, con la prescrizione delle accuse per 25 vittime e l’assoluzione di Schmidheiny. Sul fronte internazionale, un reportage da Gaza descrive la situazione umanitaria tra allagamenti e famiglie sepolte sotto la sabbia, con cinque morti accertati. *Il Messaggero* intervista il ministro dell’Interno Piantedosi, che parla di “attacco alla democrazia” per le minacce hacker, senza una regia unica. In seconda pagina, la prima uscita dall’ospedale dell’attore Davide Iacopini, dopo il ricovero per problemi di salute.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
@@ -23,10 +23,10 @@
     "modello": "google/gemini-2.0-flash",
     "modello_fallback": "qwen/qwen2.5-72b-instruct"
   },
-  "published_at": "2026-11-10T06:45:37.205862+00:00",
+  "published_at": "2026-11-11T06:45:37.901171+00:00",
   "image": {
     "type": "image",
-    "url": "https://tg24.sky.it/assets/images/5bfc66894fabc3d9573f8f985b7927a70ef4685c/skytg24/it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre/1_Corriere.jpg",
+    "url": "https://tg24.sky.it/assets/images/e1ba11bf337ce8734ac2a371f4b983592e7aa814/skytg24/it/cronaca/2026/11/11/prime-pagine-quotidiani-oggi-11-novembre/1_Corriere.jpg",
     "source": "Corriere Della Sera",
     "credit": "Prima pagina — Corriere Della Sera",
     "license": "editorial"
@@ -35,27 +35,27 @@
   "priority": 6,
   "source": "Sky TG24",
   "source_type": "rassegnista",
-  "original_url": "https://tg24.sky.it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre",
+  "original_url": "https://tg24.sky.it/cronaca/2026/11/11/prime-pagine-quotidiani-oggi-11-novembre",
   "related": [
     {
-      "title": "Oroscopo di oggi, martedì 10 novembre 2026",
+      "title": "Oroscopo di oggi, mercoledì 11 novembre 2026",
       "url": "/oroscopo/oroscopo-del-giorno",
       "id": "oroscopo_daily",
       "image_url": "",
       "image_type": "none"
     },
     {
-      "title": "Francesco gabbani, il 13 novembre esce un nuovo singolo che porta il suo nome",
-      "url": "/cultura/francesco-gabbani-annuncia-un-nuovo-prossimo-svilu-cfe5291d8c63f0a7",
-      "id": "cfe5291d8c63f0a7",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/2921bb646fa9aca6597dde647a8b7223.jpg",
+      "title": "Raidue: programmi di mercoledì 4 novembre",
+      "url": "/cultura/gli-omicidi-del-canale-pubblico-3354c67c127b5969",
+      "id": "3354c67c127b5969",
+      "image_url": "https://www.ansa.it",
       "image_type": "image"
     },
     {
-      "title": "Bologna, dal 10 al 14 novembre la rassegna docucraina tra cinema, arte e resiste",
-      "url": "/cultura/docucraina-mosca-distrugge-libri-e-cinema-noi-most-9895e6a7d0b20f68",
-      "id": "9895e6a7d0b20f68",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/439c447a4a52bec3630c09c8f2c1c736.jpg",
+      "title": "El salvador congela i prezzi dei carburanti fino al 23 novembre",
+      "url": "/esteri/el-salvador-bukele-decida-quello-speciale-per-cont-76243c56b6ddf26c",
+      "id": "76243c56b6ddf26c",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/20/d0d8c9215ed3644098b50c8827b3da45.jpg",
       "image_type": "image"
     }
   ],
