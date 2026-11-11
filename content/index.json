@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Tirando punti e tempo, Claudia torna a funzionare come regola",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-10T18:06:26.781698+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
+    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionar",
+    "tags": [
+      "tirando punti",
+      "tempo",
+      "regola"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "3a41abeb2e397bea",
     "slug": "diaco-la-mia-giornata-piu-difficile-ma-nella-vita-3a41abeb2e397bea",
     "title": "Diaco, 'la mia giornata più difficile, ma nella vita bisogna andare avanti'",
@@ -1938,21 +1957,6 @@
       "abusi russell brand",
       "scandalo relazioni tossiche"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Servizio claude ripristinato completamente",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-10T18:06:26.781698+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
-    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionar",
-    "tags": [],
     "hero_eligible": true
   },
   {
