@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare ripristina servizi dopo interruzione di oltre un'ora",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Andrea Foti",
+    "published_at": "2026-11-11T10:09:48.508734+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
+    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
+    "tags": [
+      "cloudflare",
+      "interruzione",
+      "servizi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "5a5821c440957f1c",
     "slug": "controllo-medico-per-lex-premier-pachistano-in-car-5a5821c440957f1c",
     "title": "'controllo medico per l'ex premier pachistano in carcere'",
@@ -2171,25 +2190,6 @@
       "festival jazz"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-11T10:09:48.508734+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
-    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "855eb31aeffc3e77",
