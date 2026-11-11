@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, mercoledì 11 novembre 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-11-11T05:11:16.812862+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — MERCOLEDÌ 11 NOVEMBRE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "dd6934874978686a",
     "slug": "serie-a-le-squadre-che-fanno-piu-gol-con-meno-tiri-dd6934874978686a",
     "title": "Calcio: Leggi chi è stato il primo a vincere un torneo di Serie B",
@@ -3130,26 +3150,6 @@
     "lead_preview": "Napoli, 9 novembre 2026. L'edizione odierna di Sky Sport analizza i rapporti tesi all'interno dello spogliatoio e l'effi",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, martedì 10 novembre 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-11-10T05:01:10.125889+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — MARTEDÌ 10 NOVEMBRE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "2eb6b257afbe604b",
