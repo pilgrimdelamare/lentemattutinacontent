@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Alerta: cloudflare iraggiungibile da venti minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-10T17:22:05.192786+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "ALERTA: CLOUDFLARE IRAGGIUNGIBILE DA VENTI MINUTI",
+    "lead_preview": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta bloccando l'accesso a milioni di siti web",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "monitor_github",
     "slug": "disservizio-github",
     "title": "Servizio github riabilitato completamente",
@@ -61,25 +76,6 @@
       "tennis femminile"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta b",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-11T08:28:02.188520+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "ALERTA: CLOUDFLARE IRAGGIUNGIBILE DA VENTI MINUTI",
-    "lead_preview": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta bloccando l'accesso a milioni di siti web",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f8ae15d876c2ac90",
