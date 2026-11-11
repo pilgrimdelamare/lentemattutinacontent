@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Servizio claude ripristinato completamente",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-10T18:06:26.781698+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
+    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionar",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "1af6e0cdb0790738",
     "slug": "eni-incassa-il-secondo-botto-il-gas-balza-a-86mwh-1af6e0cdb0790738",
     "title": "ENI incassa il secondo botto: il gas balza a 86€/MWh e le bollette esplodono (+1.200€/famiglia)",
@@ -1630,25 +1645,6 @@
       "iran-france relations"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro m",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T18:06:26.781698+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIPRISTINATO COMPLETAMENTE",
-    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di cinquantaquattro minuti. Il sistema ha ripreso a funzionar",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "0317cee0e8ac301c",
