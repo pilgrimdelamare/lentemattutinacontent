@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_chatgpt",
+    "slug": "disservizio-chatgpt",
+    "title": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-11T23:17:32.746178+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/openai.com",
+    "occhiello": "CHATGPT IN DOWN",
+    "lead_preview": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
+    "tags": [
+      "downtime",
+      "chatgpt",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "688a620a4a564ccb",
     "slug": "morto-a-85-anni-stacy-keach-star-del-teatro-e-dell-688a620a4a564ccb",
     "title": "Morto a 85 anni stacy keach, star del teatro e della serie tv 'mike hammer'",
@@ -8646,25 +8665,6 @@
       "attacco russo komyshuvakha",
       "aiuti umanitari ucraina",
       "zelenskyj accusa mosca"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "68b418d3dee25ddd",
-    "slug": "i-grandi-giornali-entrano-in-classe-per-sfidare-fa-68b418d3dee25ddd",
-    "title": "I grandi giornali entrano in classe per sfidare fake news e algoritmi",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-11-03T13:31:46.798155+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/03/141346755-37e405ee-0bfc-42d2-810c-78bc4c7fc9cb.jpg",
-    "occhiello": "I GRANDI GIORNALI ENTRANO IN CLASSE PER SFIDARE FAKE NEWS E ALGORITMI",
-    "lead_preview": "MAIUSCOLO Un progetto internazionale traccia il confine tra informazione e manipolazione: i ragazzi imparano a dubitare ",
-    "tags": [
-      "informazione",
-      "fake news",
-      "algoritmi"
     ],
     "hero_eligible": true
   }
