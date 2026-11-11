@@ -1,5 +1,24 @@
 [
   {
+    "id": "rassegnista_daily",
+    "slug": "rassegna-stampa",
+    "title": "Le prime pagine di oggi, mercoledì 11 novembre 2026",
+    "section": "italia",
+    "priority": 6,
+    "journalist_firma": "La Redazione",
+    "published_at": "2026-11-11T06:45:37.901171+00:00",
+    "image_type": "image",
+    "image_url": "https://tg24.sky.it/assets/images/e1ba11bf337ce8734ac2a371f4b983592e7aa814/skytg24/it/cronaca/2026/11/11/prime-pagine-quotidiani-oggi-11-novembre/1_Corriere.jpg",
+    "occhiello": "LE PRIME PAGINE DI MERCOLEDÌ 11 NOVEMBRE 2026: POLITICA, GIUSTIZIA, SPORT E CRISI SOCIALI",
+    "lead_preview": "I quotidiani italiani di oggi convergono su temi di attualità politica e giudiziaria, con spazi dedicati a crisi economi",
+    "tags": [
+      "rassegna stampa",
+      "prime pagine",
+      "giornali"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "cb9d9c8b94d513f0",
     "slug": "nba-highlights-philadelphia-boston-101-123-cb9d9c8b94d513f0",
     "title": "Nba highlights: philadelphia-boston 101-123",
@@ -3076,25 +3095,6 @@
     "tags": [
       "crisi economica regno unito",
       "guerra iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, martedì 10 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-10T06:45:37.205862+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/5bfc66894fabc3d9573f8f985b7927a70ef4685c/skytg24/it/cronaca/2026/11/10/prime-pagine-quotidiani-oggi-10-novembre/1_Corriere.jpg",
-    "occhiello": "LE PRIME PAGINE DI MARTEDI 10 NOVEMBRE",
-    "lead_preview": "La rassegna stampa di martedì 10 novembre si concentra principalmente sulle misure governative per il contenimento dei c",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
     ],
     "hero_eligible": true
   },
