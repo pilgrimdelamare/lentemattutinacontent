@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-11T10:09:48.508734+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
+    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "855eb31aeffc3e77",
     "slug": "tarquini-il-sud-non-basta-con-i-numeri-serve-il-sa-855eb31aeffc3e77",
     "title": "Il mezzogiorno produce crescita ma non salari per i lavoratori",
@@ -367,21 +386,6 @@
       "opas mps",
       "intesa sanpaolo mps"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Alerta: cloudflare iraggiungibile da venti minuti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-10T17:22:05.192786+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "ALERTA: CLOUDFLARE IRAGGIUNGIBILE DA VENTI MINUTI",
-    "lead_preview": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta bloccando l'accesso a milioni di siti web",
-    "tags": [],
     "hero_eligible": true
   },
   {
