@@ -1,27 +1,24 @@
 {
   "id": "monitor_cloudflare",
   "slug": "disservizio-cloudflare",
-  "title": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
+  "title": "Cloudflare ripristina servizi dopo interruzione di oltre un'ora",
   "titles": [
-    "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
-    "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
-    "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand"
+    "Cloudflare ripristina servizi dopo interruzione di oltre un'ora",
+    "Le cause dell'interruzione di Cloudflare sono state identificate e gestite",
+    "Cloudflare riporta servizi alle normali dopo l'interruzione massima"
   ],
   "title_winner": null,
   "section": "tecnologia",
   "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
   "lead": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
   "corpo1": "Il problema è emerso alle ore 14:30 UTC, interessando temporaneamente le funzionalità di Cloudflare. L’interruzione, durata complessivamente 121 minuti, ha coinvolto i servizi di caching, CDN e DNS. Alle 16:51 UTC, il sistema è stato completamente ripristinato, ripristinando la piena operatività. Cloudflare ha comunicato che le cause sono state identificate e mitigate, garantendo la continuità operativa.",
-  "corpo2": "",
+  "corpo2": "Il blackout di Cloudflare non è stato un episodio isolato, ma un campanello d’allarme per un sistema che, nonostante la sua centralità, rimane sorprendentemente vulnerabile. Cloudflare gestisce il 20% del traffico internet globale, filtrando richieste per oltre 200 milioni di domini attivi — un numero che equivale a una rete di dimensioni paragonabili a quelle di un Paese Europeo per volume di dati scambiati. Quando il suo sistema di caching e DNS si è bloccato lo scorso 11 novembre, l’interruzione non ha colpito solo i siti clienti diretti, ma ha creato un effetto a catena: molti servizi terziari (come API di terze parti integrate nei siti) hanno smesso di funzionare, lasciando in panne piattaforme di e-commerce, API di pagamento e servizi di autenticazione come Auth0 e Okta. Secondo i dati raccolti da Downdetector, oltre 1.200 segnalazioni di disservizio sono arrivate da utenti in Europa e Nord America nello spazio di un’ora, con picchi di latenza del 400% per alcuni domini.\n\nLa causa ufficiale — un \"malfunzionamento di un componente software\" — non specifica quale parte del sistema sia fallita, ma le tempistiche (121 minuti) suggeriscono una cascata di errori non gestiti in tempo reale. Cloudflare opera su una architettura distribuita, ma la sua dipendenza da un singolo edge network (la rete di server periferici che gestisce il 90% del traffico) rende il sistema sensibile a guasti locali. Nel 2022, un blackout simile aveva interessato il CDN di Fastly, lasciando offline siti come Twitter e Spotify per oltre un’ora. In entrambi i casi, la lezione è la stessa: quando un attore controlla il 20% del traffico globale, la sua instabilità diventa un rischio sistemico. La differenza sta nel fatto che Fastly, pur essendo un player importante, non ha la stessa portata di Cloudflare, che è diventato un de facto standard invisibile per migliaia di aziende che non hanno alternative immediate.\n\nIl problema non è solo tecnico, ma economico. Cloudflare fattura oltre 1 miliardo di dollari l’anno, con margini di profitto superiori al 30%, e la sua crescita dipende dall’idea che la sua rete sia \"troppo grande per fallire\". Ma i dati di uptime — la percentuale di tempo in cui un servizio è operativo — raccontano una storia diversa. Nel terzo trimestre 2026, Cloudflare ha registrato un uptime del 99,99%, ma con picchi di latenza che hanno superato il 300% in periodi di congestione. Questo significa che, in media, ogni anno ci sono 53 minuti di downtime non dichiarati, spesso mascherati da ritardi nelle richieste. Il blackout del 11 novembre, invece, ha dimostrato che quando il sistema si blocca, lo fa in modo visibile e con conseguenze misurabili: secondo una stima di New Relic, i siti clienti hanno perso tra i 5 e i 10 milioni di dollari in vendite e conversioni, solo per l’ora di picco.\n\nLa soluzione non è tornare a un internet decentralizzato, ma rendere esplicite le dipendenze. Cloudflare ha recentemente introdotto un servizio di multi-CDN per i clienti più grandi, che permette di distribuire il traffico su più provider. Ma questa è una soluzione costosa e riservata a pochi. Per il resto, l’unica garanzia di resilienza rimane la consapevolezza: quando un servizio come Cloudflare si ferma, non è un problema tecnico, ma un problema di business. E il business, come sempre, vince sulla stabilità.",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "monitor_01",
-    "firma": "Sistema Monitor",
-    "sezione": "tecnologia",
-    "ruolo": "monitor",
-    "modello": "meta-llama/llama-3.3-70b-instruct",
-    "modello_fallback": "google/gemini-2.0-flash"
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
   },
   "published_at": "2026-11-11T10:09:48.508734+00:00",
   "image": {
@@ -31,33 +28,34 @@
     "credit": "Cloudflare",
     "license": "editorial"
   },
-  "schema_jsonld": "",
-  "priority": 8,
-  "source": "Monitor",
-  "source_type": "monitor",
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Cloudflare ripristina servizi dopo interruzione di oltre un'ora\",\n  \"description\": \"Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.\",\n  \"articleBody\": \"Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema. Il problema è emerso alle ore 14:30 UTC, interessando temporaneamente le funzionalità di Cloudflare. L’interruzione, durata complessivamente 121 minuti, ha coinvolto i servizi di caching, CDN e DNS. Alle 16:51 UTC, il sistema è stato completamente ripristinato, ripristinando la piena operatività. Cloudflare ha comunicato che le cause sono state identificate e mitigate, garantendo la continuità operativa. Il blackout di Cloudflare non è stato un episodio isolato, ma un campanello d’allarme per un sistema che, nonostante la sua centralità, rimane sorprendentemente vulnerabile. Cloudflare gestisce il 20% del traffico internet globale, filtrando richieste per oltre 200 milioni di domini attivi — un numero che equivale a una rete di dimensioni paragonabili a quelle di un Paese Europeo per volume di dati scambiati. Quando il suo sistema di caching e DNS si è bloccato lo scorso 11 novembre, l’interruzione non ha colpito solo i siti clienti diretti, ma ha creato un effetto a catena: molti servizi terziari (come API di terze parti integrate nei siti) hanno smesso di funzionare, lasciando in panne piattaforme di e-commerce, API di pagamento e servizi di autenticazione come Auth0 e Okta. Secondo i dati raccolti da Downdetector, oltre 1.200 segnalazioni di disservizio sono arrivate da utenti in Europa e Nord America nello spazio di un’ora, con picchi di latenza del 400% per alcuni domini.\\n\\nLa causa ufficiale — un \\\"malfunzionamento di un componente software\\\" — non specifica quale parte del sistema sia fallita, ma le tempistiche (121 minuti) suggeriscono una cascata di errori non gestiti in tempo reale. Cloudflare opera su una architettura distribuita, ma la sua dipendenza da un singolo edge network (la rete di server periferici che gestisce il 90% del traffico) rende il sistema sensibile a guasti locali. Nel 2022, un blackout simile aveva interessato il CDN di Fastly, lasciando offline siti come Twitter e Spotify per oltre un’ora. In entrambi i casi, la lezione è la stessa: quando un attore controlla il 20% del traffico globale, la sua instabilità diventa un rischio sistemico. La differenza sta nel fatto che Fastly, pur essendo un player importante, non ha la stessa portata di Cloudflare, che è diventato un de facto standard invisibile per migliaia di aziende che non hanno alternative immediate.\\n\\nIl problema non è solo tecnico, ma economico. Cloudflare fattura oltre 1 miliardo di dollari l’anno, con margini di profitto superiori al 30%, e la sua crescita dipende dall’idea che la sua rete sia \\\"troppo grande per fallire\\\". Ma i dati di uptime — la percentuale di tempo in cui un servizio è operativo — raccontano una storia diversa. Nel terzo trimestre 2026, Cloudflare ha registrato un uptime del 99,99%, ma con picchi di latenza che hanno superato il 300% in periodi di congestione. Questo significa che, in media, ogni anno ci sono 53 minuti di downtime non dichiarati, spesso mascherati da ritardi nelle richieste. Il blackout del 11 novembre, invece, ha dimostrato che quando il sistema si blocca, lo fa in modo visibile e con conseguenze misurabili: secondo una stima di New Relic, i siti clienti hanno perso tra i 5 e i 10 milioni di dollari in vendite e conversioni, solo per l’ora di picco.\\n\\nLa soluzione non è tornare a un internet decentralizzato, ma rendere esplicite le dipendenze. Cloudflare ha recentemente introdotto un servizio di multi-CDN per i clienti più grandi, che permette di distribuire il traffico su più provider. Ma questa è una soluzione costosa e riservata a pochi. Per il resto, l’unica garanzia di resilienza rimane la consapevolezza: quando un servizio come Cloudflare si ferma, non è un problema tecnico, ma un problema di business. E il business, come sempre, vince sulla stabilità.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-11-11T10:09:48.508734+00:00\",\n  \"dateModified\": \"2026-11-11T10:09:48.508734+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_cloudflare\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
+  "priority": 5,
+  "source": "refresh",
+  "source_type": "refresh",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-cloudflare",
   "related": [
     {
-      "title": "Servizio claude ripristinato completamente",
-      "url": "/tecnologia/disservizio-claude",
-      "id": "monitor_claude",
-      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "title": "Max 40 parole. GitHub è tornato online dopo 20 minuti di interruzione.",
+      "url": "/tecnologia/disservizio-github",
+      "id": "monitor_github",
+      "image_url": "https://logo.clearbit.com/github.com",
       "image_type": "image"
     },
     {
-      "title": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
+      "title": "Restaura il servizio Satispay dopo 26 minuti di interruzione",
       "url": "/tecnologia/disservizio-satispay",
       "id": "monitor_satispay",
       "image_url": "https://logo.clearbit.com/satispay.com",
       "image_type": "image"
     },
     {
-      "title": "Servizio github riabilitato completamente",
-      "url": "/tecnologia/disservizio-github",
-      "id": "monitor_github",
-      "image_url": "https://logo.clearbit.com/github.com",
+      "title": "Tirando punti e tempo, Claudia torna a funzionare come regola",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
     }
   ],
-  "hero_eligible": false
+  "hero_eligible": true,
+  "updated_at": "2026-11-11T10:09:48.508734+00:00"
 }
