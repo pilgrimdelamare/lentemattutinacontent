@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta b",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-11T08:28:02.188520+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "ALERTA: CLOUDFLARE IRAGGIUNGIBILE DA VENTI MINUTI",
+    "lead_preview": "Cloudflare è completamente irraggiungibile da venti minuti. L'interruzione sta bloccando l'accesso a milioni di siti web",
+    "tags": [
+      "downtime",
+      "cloudflare",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f8ae15d876c2ac90",
     "slug": "gruppo-sella-utile-9-mesi-sale-a-204-milioni-cresc-f8ae15d876c2ac90",
     "title": "Gruppo sella, utile 9 mesi sale a 204 milioni, crescono raccolta e impieghi",
@@ -1845,25 +1864,6 @@
       "juventus crisi difensiva"
     ],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T17:22:05.192786+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIPRISTINATO",
-    "lead_preview": "Cloudflare è tornato online dopo 51883 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "cloudflare",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6886119c65ab04ec",
