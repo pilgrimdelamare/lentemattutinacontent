@@ -1,5 +1,20 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay riapre dopo 26 minuti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-10T22:04:40.360983+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
+    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
+    "tags": [],
+    "hero_eligible": true
+  },
+  {
     "id": "cb9d9c8b94d513f0",
     "slug": "nba-highlights-philadelphia-boston-101-123-cb9d9c8b94d513f0",
     "title": "Sconfitta del Philadelphia 76ers contro dei Boston Celtics",
@@ -1781,25 +1796,6 @@
       "wta finals 2026",
       "pegula vs kostyuk",
       "tennis femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay: 26 minuti di black out, il gateway va in tilt e blocca i pagamenti",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-10T22:04:40.360983+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
-    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
-    "tags": [
-      "blackout satispay",
-      "interruzione pagamenti satispay",
-      "guasto piattaforma satispay"
     ],
     "hero_eligible": true
   },
