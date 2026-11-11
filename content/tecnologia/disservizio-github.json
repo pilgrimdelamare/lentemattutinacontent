@@ -1,26 +1,29 @@
 {
   "id": "monitor_github",
   "slug": "disservizio-github",
-  "title": "Servizio github riabilitato completamente",
+  "title": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
   "titles": [
-    "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
-    "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
-    "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE"
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+    "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi."
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "SERVIZIO GITHUB RIABILITATO COMPLETAMENTE",
-  "lead": "La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disservizio ha interessato le principali funzionalità di hosting e collaborazione, causando disagi agli sviluppatori. La situazione è ora stabilizzata e monitorata.",
-  "corpo1": "Il malfunzionamento è stato rilevato in corrispondenza delle prime ore della mattinata, quando gli utenti hanno segnalato errori di connessione e tempi di risposta anomali. L'analisi tecnica ha confermato un'interruzione dei servizi centrali che ha impedito l'accesso ai repository e alle pipeline di integrazione continua. Dopo quarantasette minuti di attività di ripristino, i sistemi sono stati riportati alla piena operatività. I monitoraggi indicano che la stabilità è stata raggiunta e che non si registrano ulteriori anomalie nelle prestazioni della piattaforma.",
-  "corpo2": "Quarantasette minuti possono sembrare poco, ma in un ecosistema come quello di GitHub — dove ogni secondo di downtime si traduce in perdite misurabili in termini di produttività, collaborazione e costi nascosti — il disservizio di ieri ha avuto un impatto misurabile. Secondo i dati interni diffusi in una nota non ufficiale tra gli sviluppatori, durante l'interruzione sono andate perse almeno 12.000 operazioni di merge request e 4.500 build fallite di pipeline CI/CD, con un costo stimato tra i 1,8 e i 2,5 milioni di dollari in ore di lavoro non recuperabili. Questi numeri, derivanti da un'analisi condotta da un gruppo di ricerca indipendente (citata in un thread su Hacker News), non includono le perdite indirette: progetti bloccati, riunioni posticipate, o — nel caso delle aziende più piccole — la necessità di ricorrere a soluzioni alternative (come GitLab o Bitbucket) per un'intera giornata, con i relativi costi di migrazione temporanea.\n\nL'incidente, classificato da Microsoft (proprietaria di GitHub dal 2018) come un outage di tipo \"infrastrutturale\", nasconde però una dinamica più complessa di quanto dichiarato. Le segnalazioni tecniche emerse dopo il ripristino dei servizi indicano che il malfunzionamento non era limitato a un singolo componente, ma coinvolgeva almeno tre livelli critici: il load balancer globale, il sistema di caching distribuito e una vulnerabilità temporanea nei replicas di Azure (il cloud su cui GitHub affida le proprie funzioni core). Secondo un post di un ex ingegnere di GitHub (ora in una startup concorrente), la combinazione di questi fattori ha creato un feedback loop di congestione che ha saturato le connessioni di rete interne, un meccanismo simile a quello che aveva colpito AWS nel 2022 durante l'outage di N. Virginia. La differenza, però, è che in quel caso la responsabilità fu attribuita a un errore umano; qui, invece, le prove tecniche — tra cui un log filtrato che mostra un picco di richieste HTTP/2 anomale — suggeriscono che il problema possa essere Stato amplificato da un aggiornamento non testato di un componente di terze parti (un middleware di monitoraggio delle performance fornito da Datadog, come ipotizzato in un thread su Reddit).\n\nIl vero problema, però, non è tanto l'outage in sé, quanto la sua ricorrenza strutturale. GitHub ha subito almeno altri quattro disservizi di rilevanza simile negli ultimi dodici mesi, tutti legati a carichi di lavoro improvvisi o a vulnerabilità nelle catene di fornitura cloud. Questo non è un caso isolato: secondo una ricerca di Flexera pubblicata a settembre, il 68% delle aziende che affidano servizi critici a piattaforme SaaS (come GitHub) ha subito almeno un outage significativo nel 2026, con un aumento del 30% rispetto all'anno precedente. Il motivo è semplice: la monocultura tecnologica. Quando un servizio come GitHub — che ospita oltre 200 milioni di repository e gestisce il 70% del codice open source al mondo — diventa un single point of failure per intere catene di sviluppo, il rischio non è più solo tecnico, ma economico. Le aziende che dipendono da GitHub per la CI/CD (come Tesla, che usa la piattaforma per oltre il 90% delle sue build di software embedded) hanno già iniziato a diversificare, ma il costo di transizione è proibitivo per la maggior parte delle PMI.\n\nLa lezione di ieri, quindi, non è solo un avvertimento sulla fragilità delle infrastrutture immateriali, ma una conferma di un trend già in atto: la concentrazione del potere tecnologico nelle mani di pochi attori — in questo caso, Microsoft — rende i servizi essenziali vulnerabili non solo a errori umani, ma anche a scelte strategiche che prioritizzano la scalabilità a breve termine rispetto alla resilienza. E mentre GitHub si affretta a diffondere comunicati sulla \"stabilità raggiunta\", il dato concreto che rimane è questo: in un mondo dove il codice è il nuovo petrolio, un'interruzione di quarantasette minuti può costare molto più di quanto sembra.",
+  "occhiello": "GITHUB IN DOWN",
+  "lead": "GitHub è irraggiungibile da 15 minuti. Gli utenti italiani segnalano disservizi.",
+  "corpo1": "Il servizio GitHub risulta non disponibile dalle ultime 15 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "corpo2": "",
   "article_type": "standard",
   "cards": [],
   "journalist": {
-    "id": "giulia_serra_01",
-    "firma": "Giulia Serra",
-    "sezione": "tecnologia"
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-10T17:16:42.694183+00:00",
+  "published_at": "2026-11-11T21:05:59.428837+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/github.com",
@@ -28,34 +31,33 @@
     "credit": "GitHub",
     "license": "editorial"
   },
-  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"SERVIZIO GITHUB RIABILITATO COMPLETAMENTE\",\n  \"description\": \"La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disservizio ha interessato le principali funzionalità di hosting e collaborazione, causando disagi agli sviluppatori. La situazione è ora stabilizzata e monitorata.\",\n  \"articleBody\": \"La piattaforma di sviluppo GitHub è tornata pienamente operativa dopo un'interruzione di quarantasette minuti. Il disservizio ha interessato le principali funzionalità di hosting e collaborazione, causando disagi agli sviluppatori. La situazione è ora stabilizzata e monitorata. Il malfunzionamento è stato rilevato in corrispondenza delle prime ore della mattinata, quando gli utenti hanno segnalato errori di connessione e tempi di risposta anomali. L'analisi tecnica ha confermato un'interruzione dei servizi centrali che ha impedito l'accesso ai repository e alle pipeline di integrazione continua. Dopo quarantasette minuti di attività di ripristino, i sistemi sono stati riportati alla piena operatività. I monitoraggi indicano che la stabilità è stata raggiunta e che non si registrano ulteriori anomalie nelle prestazioni della piattaforma. Quarantasette minuti possono sembrare poco, ma in un ecosistema come quello di GitHub — dove ogni secondo di downtime si traduce in perdite misurabili in termini di produttività, collaborazione e costi nascosti — il disservizio di ieri ha avuto un impatto misurabile. Secondo i dati interni diffusi in una nota non ufficiale tra gli sviluppatori, durante l'interruzione sono andate perse almeno 12.000 operazioni di merge request e 4.500 build fallite di pipeline CI/CD, con un costo stimato tra i 1,8 e i 2,5 milioni di dollari in ore di lavoro non recuperabili. Questi numeri, derivanti da un'analisi condotta da un gruppo di ricerca indipendente (citata in un thread su Hacker News), non includono le perdite indirette: progetti bloccati, riunioni posticipate, o — nel caso delle aziende più piccole — la necessità di ricorrere a soluzioni alternative (come GitLab o Bitbucket) per un'intera giornata, con i relativi costi di migrazione temporanea.\\n\\nL'incidente, classificato da Microsoft (proprietaria di GitHub dal 2018) come un outage di tipo \\\"infrastrutturale\\\", nasconde però una dinamica più complessa di quanto dichiarato. Le segnalazioni tecniche emerse dopo il ripristino dei servizi indicano che il malfunzionamento non era limitato a un singolo componente, ma coinvolgeva almeno tre livelli critici: il load balancer globale, il sistema di caching distribuito e una vulnerabilità temporanea nei replicas di Azure (il cloud su cui GitHub affida le proprie funzioni core). Secondo un post di un ex ingegnere di GitHub (ora in una startup concorrente), la combinazione di questi fattori ha creato un feedback loop di congestione che ha saturato le connessioni di rete interne, un meccanismo simile a quello che aveva colpito AWS nel 2022 durante l'outage di N. Virginia. La differenza, però, è che in quel caso la responsabilità fu attribuita a un errore umano; qui, invece, le prove tecniche — tra cui un log filtrato che mostra un picco di richieste HTTP/2 anomale — suggeriscono che il problema possa essere Stato amplificato da un aggiornamento non testato di un componente di terze parti (un middleware di monitoraggio delle performance fornito da Datadog, come ipotizzato in un thread su Reddit).\\n\\nIl vero problema, però, non è tanto l'outage in sé, quanto la sua ricorrenza strutturale. GitHub ha subito almeno altri quattro disservizi di rilevanza simile negli ultimi dodici mesi, tutti legati a carichi di lavoro improvvisi o a vulnerabilità nelle catene di fornitura cloud. Questo non è un caso isolato: secondo una ricerca di Flexera pubblicata a settembre, il 68% delle aziende che affidano servizi critici a piattaforme SaaS (come GitHub) ha subito almeno un outage significativo nel 2026, con un aumento del 30% rispetto all'anno precedente. Il motivo è semplice: la monocultura tecnologica. Quando un servizio come GitHub — che ospita oltre 200 milioni di repository e gestisce il 70% del codice open source al mondo — diventa un single point of failure per intere catene di sviluppo, il rischio non è più solo tecnico, ma economico. Le aziende che dipendono da GitHub per la CI/CD (come Tesla, che usa la piattaforma per oltre il 90% delle sue build di software embedded) hanno già iniziato a diversificare, ma il costo di transizione è proibitivo per la maggior parte delle PMI.\\n\\nLa lezione di ieri, quindi, non è solo un avvertimento sulla fragilità delle infrastrutture immateriali, ma una conferma di un trend già in atto: la concentrazione del potere tecnologico nelle mani di pochi attori — in questo caso, Microsoft — rende i servizi essenziali vulnerabili non solo a errori umani, ma anche a scelte strategiche che prioritizzano la scalabilità a breve termine rispetto alla resilienza. E mentre GitHub si affretta a diffondere comunicati sulla \\\"stabilità raggiunta\\\", il dato concreto che rimane è questo: in un mondo dove il codice è il nuovo petrolio, un'interruzione di quarantasette minuti può costare molto più di quanto sembra.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-11-10T17:16:42.694183+00:00\",\n  \"dateModified\": \"2026-11-10T17:16:42.694183+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/monitor_github\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/monitor_github\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  }\n}",
-  "priority": 5,
-  "source": "refresh",
-  "source_type": "refresh",
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
   "original_url": "https://lentemattutina.it/tecnologia/disservizio-github",
   "related": [
+    {
+      "title": "Restaura il servizio Satispay dopo 26 minuti di interruzione",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermand",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
     {
       "title": "Tirando punti e tempo, Claudia torna a funzionare come regola",
       "url": "/tecnologia/disservizio-claude",
       "id": "monitor_claude",
       "image_url": "https://logo.clearbit.com/anthropic.com",
       "image_type": "image"
-    },
-    {
-      "title": "Anthropic sulla scia di microsoft e google. nuova suite per ufficio a ridosso de",
-      "url": "/tecnologia/anthropic-sulla-scia-di-microsoft-e-google-nuova-s-857ce82190dbf224",
-      "id": "857ce82190dbf224",
-      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/11/121802440-3d963586-4564-49b8-b727-1bcf68495b89.jpg",
-      "image_type": "image"
-    },
-    {
-      "title": "Satispay: 26 minuti di black out, il gateway va in tilt e blocca i pagamenti",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
     }
   ],
-  "hero_eligible": true,
-  "updated_at": "2026-11-10T17:16:42.694183+00:00"
+  "hero_eligible": false
 }
