@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_satispay",
+    "slug": "disservizio-satispay",
+    "title": "Satispay: 26 minuti di black out, il gateway va in tilt e blocca i pagamenti",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-10T22:04:40.360983+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/satispay.com",
+    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
+    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
+    "tags": [
+      "blackout satispay",
+      "interruzione pagamenti satispay",
+      "guasto piattaforma satispay"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "540a9f5dbe6a1cda",
     "slug": "massini-non-ce-nessuna-ipotesi-di-commissariamento-540a9f5dbe6a1cda",
     "title": "Massini 'non c'è nessuna ipotesi di commissariamento per l'aia'",
@@ -1785,25 +1804,6 @@
     "lead_preview": "Picerno, 9 novembre 2026 L’AZ Picerno, squadra di Serie C con un bilancio societario che oscilla tra i 2,3 milioni di eu",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruz",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-10T22:04:40.360983+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
-    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
-    "tags": [
-      "downtime",
-      "satispay",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "6186ea3e47240198",
