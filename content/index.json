@@ -1,5 +1,24 @@
 [
   {
+    "id": "c2bb07fbaaab403c",
+    "slug": "sudditi-digitali-con-i-dialoghi-platonici-i-diritt-c2bb07fbaaab403c",
+    "title": "'sudditi digitali', con i dialoghi platonici i diritti al tempo dell'ia",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Laura Bianchi",
+    "published_at": "2026-11-11T14:06:09.989122+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/149e6f5af0362293e275ada381feaa26.jpg",
+    "occhiello": "'SUDDITI DIGITALI', CON I DIALOGHI PLATONICI I DIRITTI AL TEMPO DELL'IA",
+    "lead_preview": "MAIUSCOLO \"DIRITTI IN DIGITALE: IL LIBRO CHE SPERIMENTA LA CITTADINANZA COME PRODOTTO\" Roma, 11 novembre. Stefano Epifan",
+    "tags": [
+      "tecnologia",
+      "intelligenza artificiale",
+      "diritti umani"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "9b1a425c0460865b",
     "slug": "urso-taglia-le-accise-la-benzina-scende-a-198-euro-9b1a425c0460865b",
     "title": "Urso taglia le accise: la benzina scende a 1,98 euro ma il vantaggio è solo parziale",
@@ -8762,25 +8781,6 @@
       "stoccaggi gas ue",
       "crisi energetica ue",
       "avvertimento iec blackout"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d568343013df4982",
-    "slug": "il-deep-purple-annulla-i-concerti-a-causa-del-salu-d568343013df4982",
-    "title": "Il Deep Purple annulla i concerti a causa del salute di Ian Gillan",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-03T10:28:18.656270+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/20/ba6f45f86efc4d5aca1ab583a929e5d0.jpg",
-    "occhiello": "I DEEP PURPLE RINVIANO IL TOUR PER I PROBLEMI DI SALUTE DI GILLAN",
-    "lead_preview": "Ian Gillan rinvia il tour dei Deep Purple: un capitolo storico del metal britannico si chiude Roma, 3 novembre Ian Gilla",
-    "tags": [
-      "deep purple",
-      "annullemento concerti",
-      "salute ian gillan"
     ],
     "hero_eligible": true
   }
