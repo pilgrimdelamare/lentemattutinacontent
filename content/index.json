@@ -244,25 +244,6 @@
     "hero_eligible": false
   },
   {
-    "id": "monitor_github",
-    "slug": "disservizio-github",
-    "title": "Max 40 parole. GitHub è tornato online dopo 20 minuti di interruzione.",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-11T21:11:05.560442+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/github.com",
-    "occhiello": "TUTTO MAIUSCOLO. MAX 6 PAROLE. STILE RISOLTO/RIPRISTINATO.",
-    "lead_preview": "Max 40 parole. GitHub è tornato online dopo 20 minuti di interruzione.",
-    "tags": [
-      "downtime",
-      "github",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
     "id": "231e06357c7c302b",
     "slug": "scontri-a-barcellona-dopo-il-corteo-per-la-casa-ve-231e06357c7c302b",
     "title": "Scontri a Barcellona dopo il corteo per la casa, vetrine in frantumi",
