@@ -1,5 +1,24 @@
 [
   {
+    "id": "932b8027936f0316",
+    "slug": "lo-spread-btp-bund-932b8027936f0316",
+    "title": "Lo spread btp-bund",
+    "section": "economia",
+    "priority": 5,
+    "journalist_firma": "Giorgio Ferrara",
+    "published_at": "2026-11-11T17:40:08.682805+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/12/19/3d09807789f5042b0addfa497b2189e4.jpg",
+    "occhiello": "LO SPREAD BTP-BUND",
+    "lead_preview": "Roma, 11 novembre Il rendimento del Btp italiano a dieci anni è sceso al 4,33%, il livello più basso da quasi otto mesi.",
+    "tags": [
+      "spread btp-bund",
+      "mercati finanziari",
+      "btp decennale"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "577e9f7cbdfac77f",
     "slug": "eureka-sbarca-a-roma-il-quiz-a-squadre-che-trasfor-577e9f7cbdfac77f",
     "title": "Eureka! sbarca a Roma: il quiz a squadre che trasforma il pub in uno show televisivo",
@@ -1642,21 +1661,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/2/14/609a35a77c43bf785e80eacc3df391a6.jpg",
     "occhiello": "OCASIO-CORTEZ, 'RIPRESENTEREMO L'IMPEACHMENT CONTRO HEGSET NEL NUOVO CONGRESSO'",
     "lead_preview": "Ocasio-Cortez, \"ripresenteremo l’impeachment\" contro Hegseth: il Congresso che non vuole Washington, 11 novembre. La dep",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "932b8027936f0316",
-    "slug": "lo-spread-btp-bund-932b8027936f0316",
-    "title": "Lo spread btp-bund",
-    "section": "economia",
-    "priority": 8,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-11T17:40:08.682805+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/12/19/3d09807789f5042b0addfa497b2189e4.jpg",
-    "occhiello": "LO SPREAD BTP-BUND",
-    "lead_preview": "Roma, 11 novembre Il rendimento del Btp italiano a dieci anni è sceso al 4,33%, il livello più basso da quasi otto mesi.",
     "tags": [],
     "hero_eligible": true
   },
