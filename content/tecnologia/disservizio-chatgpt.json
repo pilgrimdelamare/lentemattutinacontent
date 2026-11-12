@@ -1,17 +1,17 @@
 {
   "id": "monitor_chatgpt",
   "slug": "disservizio-chatgpt",
-  "title": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+  "title": "ChatGPT è tornato pienamente operativo. Il disservizio, che ha interessato l'int",
   "titles": [
-    "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi"
+    "ChatGPT è tornato pienamente operativo. Il disservizio, che ha interessato l'int",
+    "ChatGPT è tornato pienamente operativo. Il disservizio, che ha interessato l'int",
+    "ChatGPT è tornato pienamente operativo. Il disservizio, che ha interessato l'int"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CHATGPT IN DOWN",
-  "lead": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-  "corpo1": "Il servizio ChatGPT risulta non disponibile dalle ultime 22 minuti. Le funzionalità principali sono compromesse. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO RIPRISTINATO DOPO CINQUE ORE",
+  "lead": "ChatGPT è tornato pienamente operativo. Il disservizio, che ha interessato l'interfaccia e le API, si è concluso dopo 580 minuti di interruzione. Gli utenti possono ora accedere alla piattaforma senza limitazioni.",
+  "corpo1": "Il malfunzionamento è stato rilevato in fase iniziale, causando errori di connessione e tempi di risposta anomali. Le squadre tecniche hanno monitorato i server per identificare la causa radice, intervenendo sui nodi critici. Dopo 580 minuti di lavoro, i sistemi sono stati stabilizzati. Le metriche di latenza e disponibilità sono tornate ai livelli standard. La piattaforma è ora accessibile globalmente. Si consiglia di verificare la stabilità nelle prossime ore, ma il servizio è confermato attivo e funzionante per tutti gli utenti registrati.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-11T23:17:32.746178+00:00",
+  "published_at": "2026-11-12T08:36:17.982680+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/openai.com",
@@ -45,17 +45,17 @@
       "image_type": "image"
     },
     {
-      "title": "Restaura il servizio Satispay dopo 26 minuti di interruzione",
-      "url": "/tecnologia/disservizio-satispay",
-      "id": "monitor_satispay",
-      "image_url": "https://logo.clearbit.com/satispay.com",
-      "image_type": "image"
-    },
-    {
-      "title": "Cloudflare ripristina servizi dopo interruzione di oltre un'ora",
+      "title": "Cloudflare riprende i servizi dopo 121 minuti d'interruzione",
       "url": "/tecnologia/disservizio-cloudflare",
       "id": "monitor_cloudflare",
       "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Anthropic sulla scia di Microsoft e Google. Nuova suite per ufficio a ridosso de",
+      "url": "/tecnologia/anthropic-sulla-scia-di-microsoft-e-google-nuova-s-857ce82190dbf224",
+      "id": "857ce82190dbf224",
+      "image_url": "https://www.repstatic.it/content/contenthub/img/2026/11/11/121802440-3d963586-4564-49b8-b727-1bcf68495b89.jpg",
       "image_type": "image"
     }
   ],
