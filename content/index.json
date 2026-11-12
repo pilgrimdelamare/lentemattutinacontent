@@ -1,5 +1,23 @@
 [
   {
+    "id": "6d308d0399c95c68",
+    "slug": "kaja-kallas-annulla-progetto-di-inviare-un-inviato-6d308d0399c95c68",
+    "title": "Kaja Kallas annulla progetto di inviare un inviato speciale in Ucraina",
+    "section": "esteri",
+    "priority": 5,
+    "journalist_firma": "Fabrizio Mei",
+    "published_at": "2026-11-12T01:15:26.249380+00:00",
+    "image_type": "image",
+    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/15/b57ab314dc0c559a7de769599d8d4d72.jpg",
+    "occhiello": "PREMIER ESTONIA, 'UE NON HA BISOGNO DI INVIATO AD HOC PER KIEV'",
+    "lead_preview": "Bruxelles, 12 novembre Il premier estone Kaja Kallas, presidente di turno dell’Unione europea, ha dichiarato che l’Ue no",
+    "tags": [
+      "kaja kallas",
+      "ucraina"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "6d2eaec76ffa0a93",
     "slug": "il-papa-incontra-una-figlia-e-nipote-di-desapareci-6d2eaec76ffa0a93",
     "title": "++ il papa incontra una figlia e nipote di desaparecidos ++",
@@ -8642,25 +8660,6 @@
       "iran",
       "petrolio",
       "prezzo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "460f6e46547aab42",
-    "slug": "attacchi-hacker-in-8-paesi-ue-frigo-in-tilt-nei-su-460f6e46547aab42",
-    "title": "Hacker spaventano i supereroe dell'Unione Europa",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-03T00:31:34.479287+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/02/215029260-82a0669b-1828-4f79-b232-daaa7fc05e95.jpg",
-    "occhiello": "ATTACCHI HACKER IN 8 PAESI UE, FRIGO IN TILT NEI SUPERMERCATI. “CI AGGREDISCONO ",
-    "lead_preview": "Bruxelles, 3 novembre I sistemi informatici di almeno 250 supermercati in otto Paesi dell’Unione Europea sono stati atta",
-    "tags": [
-      "hackers",
-      "european union",
-      "cyberattack"
     ],
     "hero_eligible": true
   }
