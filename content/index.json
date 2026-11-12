@@ -1,5 +1,26 @@
 [
   {
+    "id": "577e9f7cbdfac77f",
+    "slug": "eureka-sbarca-a-roma-il-quiz-a-squadre-che-trasfor-577e9f7cbdfac77f",
+    "title": "Eureka! sbarca a Roma: il quiz a squadre che trasforma il pub in uno show televisivo",
+    "section": "cultura",
+    "priority": 5,
+    "journalist_firma": "Tommaso Riva",
+    "published_at": "2026-11-12T05:13:52.560239+00:00",
+    "image_type": "image",
+    "image_url": "https://eurekaquiz.live/video/poster-it.jpg",
+    "occhiello": "TEMPO LIBERO",
+    "lead_preview": "Domande a tempo dal telefono, una corsa del Palio di Siena da giocare a spronate, una bomba da disinnescare sommando i n",
+    "tags": [
+      "quiz",
+      "Roma",
+      "tempo libero",
+      "pub quiz",
+      "Eureka"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "56e67f25d75f47f6",
     "slug": "spostare-larco-di-washington-square-la-sfida-di-ny-56e67f25d75f47f6",
     "title": "'spostare l'arco di washington square', la sfida di ny dopo quella a chicago",
@@ -186,27 +207,6 @@
     "lead_preview": "Roma, 11 novembre La nazionale italiana di tennis maschile, guidata dal capitano Matteo Berrettini, si prepara alle ATP ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "577e9f7cbdfac77f",
-    "slug": "eureka-sbarca-a-roma-il-quiz-a-squadre-che-trasfor-577e9f7cbdfac77f",
-    "title": "Eureka sbarca a Roma: il quiz a squadre che trasforma il pub in uno show televisivo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-12T05:13:52.560239+00:00",
-    "image_type": "image",
-    "image_url": "https://eurekaquiz.live/video/poster-it.jpg",
-    "occhiello": "TEMPO LIBERO",
-    "lead_preview": "Domande a tempo dal telefono, una corsa del Palio di Siena da giocare a spronate, una bomba da disinnescare sommando i n",
-    "tags": [
-      "quiz",
-      "Roma",
-      "tempo libero",
-      "pub quiz",
-      "Eureka"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "c1c9f4c81e1a97d2",
