@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_cloudflare",
+    "slug": "disservizio-cloudflare",
+    "title": "Cloudflare riprende i servizi dopo 121 minuti d'interruzione",
+    "section": "tecnologia",
+    "priority": 5,
+    "journalist_firma": "Giulia Serra",
+    "published_at": "2026-11-11T10:09:48.508734+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/cloudflare.com",
+    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
+    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
+    "tags": [
+      "cloudflare",
+      "interruzione",
+      "servizi"
+    ],
+    "hero_eligible": true
+  },
+  {
     "id": "71cd38fd30d5deac",
     "slug": "una-stanza-per-bene-al-macro-di-roma-le-reliquie-d-71cd38fd30d5deac",
     "title": "Una stanza per bene, al macro di roma le \"reliquie\" del mito",
@@ -1352,25 +1371,6 @@
       "presidenza",
       "giustizia",
       "arbitri"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare ripristina servizi dopo interruzione di oltre un'ora",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Andrea Foti",
-    "published_at": "2026-11-11T10:09:48.508734+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
-    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
-    "tags": [
-      "cloudflare",
-      "interruzione",
-      "servizi"
     ],
     "hero_eligible": true
   },
