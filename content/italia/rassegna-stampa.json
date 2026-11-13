@@ -1,0 +1,63 @@
+{
+  "id": "rassegnista_daily",
+  "slug": "rassegna-stampa",
+  "title": "Le prime pagine di oggi, venerdì 13 novembre 2026",
+  "titles": [
+    "Le prime pagine di oggi, venerdì 13 novembre 2026",
+    "Le prime pagine di oggi, venerdì 13 novembre 2026",
+    "Le prime pagine di oggi, venerdì 13 novembre 2026"
+  ],
+  "title_winner": null,
+  "section": "italia",
+  "occhiello": "LE PRIME PAGINE 13 NOVEMBRE 2026",
+  "lead": "I quotidiani italiani di oggi convergono su due temi principali. La maggior parte delle testate titola sulle minacce di attentati via mail che hanno colpito quasi quattromila scuole italiane, riportando le dichiarazioni del governo contro le evacuazioni. Il Corriere della Sera, La Repubblica, La Stampa e Il Messaggero dedicano l'apertura a questo allarme sicurezza. La Gazzetta dello Sport e il Corriere dello Sport, invece, aprono sull'Italia, soffermandosi sulla vittoria per tre a uno contro la Francia nella Nations League, con la doppietta di Pio Esposito e il gol di Frattesi a San Siro. Le testate sportive ignorano il tema scolastico, mentre quelle generaliste menzionano anche le dimissioni di Jensen Huang da Nvidia.",
+  "corpo1": "Il Corriere della Sera apre sull'allarme nelle scuole italiane, citando le 3.778 istituzioni coinvolte nella seconda ondata di minacce e la risposta del governo che sconsiglia le evacuazioni. In evidenza anche le dimissioni di Jensen Huang, fondatore di Nvidia, seguite alla scoperta di una relazione con Alice Huang. La Repubblica riporta in primo piano gli stessi attacchi alle scuole, con le parole di Piantedosi ai prefetti contro le evacuazioni, e tocca il caso Nvidia e la relazione di Huang. La Stampa titola uniti contro gli hacker, tornando sulle minacce a quasi 3.800 scuole e citando il messaggio di Meloni sulla continuità delle lezioni. Il quotidiano segnala anche le dimissioni di Huang definite scandalo delle amanti. Il Messaggero si concentra sulle minaccia di attentati e sulle nuove misure di sicurezza informatica annunciate per garantire la didattica, affiancando il caso Nvidia.",
+  "corpo2": "Gli altri titoli di rilievo riguardano principalmente il mondo del lavoro e della tecnologia. Le testate sportive ignorano completamente la cronaca scolastica e politica, dedicando la loro intera attenzione al calcio e alla vittoria azzurra. Il tema dominante della giornata è la gestione della crisi di sicurezza nel settore istruzione e il management di Nvidia.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "rassegnista_01",
+    "firma": "La Redazione",
+    "sezione": "italia",
+    "ruolo": "rassegnista",
+    "modello": "google/gemini-2.0-flash",
+    "modello_fallback": "qwen/qwen2.5-72b-instruct"
+  },
+  "published_at": "2026-11-13T06:45:55.802503+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://tg24.sky.it/assets/images/ea9e3ebc7ee4c238fec615fe21b39b2f2fdcaeea/skytg24/it/cronaca/2026/11/13/prime-pagine-quotidiani-oggi-13-novembre/corriere-della-sera-040032bs4aa3l.jpg",
+    "source": "Corriere Della Sera",
+    "credit": "Prima pagina — Corriere Della Sera",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 6,
+  "source": "Sky TG24",
+  "source_type": "rassegnista",
+  "original_url": "https://tg24.sky.it/cronaca/2026/11/13/prime-pagine-quotidiani-oggi-13-novembre",
+  "related": [
+    {
+      "title": "Oroscopo di oggi, venerdì 13 novembre 2026",
+      "url": "/oroscopo/oroscopo-del-giorno",
+      "id": "oroscopo_daily",
+      "image_url": "",
+      "image_type": "none"
+    },
+    {
+      "title": "I big pubblici battono le imprese private: ENI, ENEL e Gse prime per ricavi, pos",
+      "url": "/economia/i-big-pubblici-battono-le-imprese-private-eni-enel-41ed8b5725243c95",
+      "id": "41ed8b5725243c95",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/211942765-c987fb80-afef-4ce3-b621-065c963b7113.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Allarme bombe nelle scuole, Meloni: “vogliono creare panico”. E convoca per oggi",
+      "url": "/politica/allarme-bombe-nelle-scuole-meloni-vogliono-creare-a25723b2e003776e",
+      "id": "a25723b2e003776e",
+      "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/225724576-ee47e9a0-7db7-4203-a9fe-7cbf588b2e60.jpg",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
