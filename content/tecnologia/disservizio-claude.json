@@ -1,0 +1,63 @@
+{
+  "id": "monitor_claude",
+  "slug": "disservizio-claude",
+  "title": "Claude non funziona da 65 minuti: disservizi anche in Italia",
+  "titles": [
+    "Claude non funziona da 65 minuti: disservizi anche in Italia",
+    "Claude non funziona da 65 minuti: disservizi anche in Italia",
+    "Claude non funziona da 65 minuti: disservizi anche in Italia"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "CLAUDE OFFLINE: CRITICITA MASSIMA",
+  "lead": "Da sessantacinque minuti Claude risulta irraggiungibile. Il servizio è completamente fermo. Gli utenti italiani non possono accedere alle funzionalità principali. La situazione è critica e richiede attenzione immediata da parte di tutti gli operatori.",
+  "corpo1": "Il disservizio è iniziato alle ore 09:15, quando i server hanno smesso di rispondere alle richieste di autenticazione. Tutte le funzionalità, inclusa la generazione di testo e l'analisi dati, sono compromesse. Non è possibile inviare né ricevere messaggi. Per chi dipende da questo strumento per lavoro o studio, l'impatto è immediato e bloccante. Non ci sono stime ufficiali per il ripristino. Stiamo monitorando la situazione.",
+  "corpo2": "",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "monitor_01",
+    "firma": "Sistema Monitor",
+    "sezione": "tecnologia",
+    "ruolo": "monitor",
+    "modello": "meta-llama/llama-3.3-70b-instruct",
+    "modello_fallback": "google/gemini-2.0-flash"
+  },
+  "published_at": "2026-11-13T11:12:31.702205+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://logo.clearbit.com/anthropic.com",
+    "source": "Claude",
+    "credit": "Claude",
+    "license": "editorial"
+  },
+  "schema_jsonld": "",
+  "priority": 8,
+  "source": "Monitor",
+  "source_type": "monitor",
+  "original_url": "https://lentemattutina.it/tecnologia/disservizio-claude",
+  "related": [
+    {
+      "title": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
+      "url": "/tecnologia/disservizio-chatgpt",
+      "id": "monitor_chatgpt",
+      "image_url": "https://logo.clearbit.com/openai.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Cloudflare riprende i servizi dopo 121 minuti d'interruzione",
+      "url": "/tecnologia/disservizio-cloudflare",
+      "id": "monitor_cloudflare",
+      "image_url": "https://logo.clearbit.com/cloudflare.com",
+      "image_type": "image"
+    },
+    {
+      "title": "Restaura il servizio Satispay dopo 26 minuti di interruzione",
+      "url": "/tecnologia/disservizio-satispay",
+      "id": "monitor_satispay",
+      "image_url": "https://logo.clearbit.com/satispay.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": false
+}
