@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude torna a funzionare dopo 289 minuti di blocco",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-13T14:56:06.171704+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "SERVIZIO CLAUDE RIABILITATO COMPLETAMENTE",
+    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di 289 minuti. Il sistema ha ripristinato la piena capacità d",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "a07371b2ca19a357",
     "slug": "jensen-huang-lascia-nvidia-dopo-33-anni-colette-kr-a07371b2ca19a357",
     "title": "Jensen Huang lascia Nvidia dopo 33 anni: Colette Kress guida la transizione",
@@ -192,25 +211,6 @@
     "lead_preview": "Torino, 13 novembre 2026. Si gioca sul sottile confine tra incuria domestica e rilevanza penale il processo a carico di ",
     "tags": [],
     "hero_eligible": true
-  },
-  {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude non funziona da 65 minuti: disservizi anche in Italia",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-13T11:12:31.702205+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "CLAUDE OFFLINE: CRITICITA MASSIMA",
-    "lead_preview": "Da sessantacinque minuti Claude risulta irraggiungibile. Il servizio è completamente fermo. Gli utenti italiani non poss",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
   },
   {
     "id": "f068f267d943a0c2",
