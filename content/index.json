@@ -1,5 +1,24 @@
 [
   {
+    "id": "monitor_claude",
+    "slug": "disservizio-claude",
+    "title": "Claude non funziona da 65 minuti: disservizi anche in Italia",
+    "section": "tecnologia",
+    "priority": 8,
+    "journalist_firma": "Sistema Monitor",
+    "published_at": "2026-11-13T11:12:31.702205+00:00",
+    "image_type": "image",
+    "image_url": "https://logo.clearbit.com/anthropic.com",
+    "occhiello": "CLAUDE OFFLINE: CRITICITA MASSIMA",
+    "lead_preview": "Da sessantacinque minuti Claude risulta irraggiungibile. Il servizio è completamente fermo. Gli utenti italiani non poss",
+    "tags": [
+      "downtime",
+      "claude",
+      "disservizi"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "f068f267d943a0c2",
     "slug": "nordvpn-lancia-digital-footprint-per-smascherare-t-f068f267d943a0c2",
     "title": "NordVPN lancia Digital Footprint per smascherare tutti i dati esposti online",
