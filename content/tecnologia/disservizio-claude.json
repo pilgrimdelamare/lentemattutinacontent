@@ -1,17 +1,17 @@
 {
   "id": "monitor_claude",
   "slug": "disservizio-claude",
-  "title": "Claude non funziona da 65 minuti: disservizi anche in Italia",
+  "title": "Claude torna a funzionare dopo 289 minuti di blocco",
   "titles": [
-    "Claude non funziona da 65 minuti: disservizi anche in Italia",
-    "Claude non funziona da 65 minuti: disservizi anche in Italia",
-    "Claude non funziona da 65 minuti: disservizi anche in Italia"
+    "Claude torna a funzionare dopo 289 minuti di blocco",
+    "Claude torna a funzionare dopo 289 minuti di blocco",
+    "Claude torna a funzionare dopo 289 minuti di blocco"
   ],
   "title_winner": null,
   "section": "tecnologia",
-  "occhiello": "CLAUDE OFFLINE: CRITICITA MASSIMA",
-  "lead": "Da sessantacinque minuti Claude risulta irraggiungibile. Il servizio è completamente fermo. Gli utenti italiani non possono accedere alle funzionalità principali. La situazione è critica e richiede attenzione immediata da parte di tutti gli operatori.",
-  "corpo1": "Il disservizio è iniziato alle ore 09:15, quando i server hanno smesso di rispondere alle richieste di autenticazione. Tutte le funzionalità, inclusa la generazione di testo e l'analisi dati, sono compromesse. Non è possibile inviare né ricevere messaggi. Per chi dipende da questo strumento per lavoro o studio, l'impatto è immediato e bloccante. Non ci sono stime ufficiali per il ripristino. Stiamo monitorando la situazione.",
+  "occhiello": "SERVIZIO CLAUDE RIABILITATO COMPLETAMENTE",
+  "lead": "Claude è tornato pienamente operativo dopo un'interruzione di 289 minuti. Il sistema ha ripristinato la piena capacità di elaborazione, garantendo la continuità del servizio agli utenti e alle integrazioni collegate senza ulteriori anomalie rilevate.",
+  "corpo1": "Il disservizio si è manifestato inaspettatamente, interrompendo temporaneamente l'accesso all'interfaccia e alle API. La durata complessiva dell'incidente è stata di 289 minuti, periodo durante il quale i team tecnici hanno monitorato i log e isolato la causa radice. Le operazioni di ripristino sono state completate con successo, riportando i nodi di calcolo alla piena efficienza. I test di validazione confermano la stabilità del sistema e la corretta gestione delle richieste in ingresso. Non sono segnalati residui problemi di latenza o errori di elaborazione.",
   "corpo2": "",
   "article_type": "standard",
   "cards": [],
@@ -23,7 +23,7 @@
     "modello": "meta-llama/llama-3.3-70b-instruct",
     "modello_fallback": "google/gemini-2.0-flash"
   },
-  "published_at": "2026-11-13T11:12:31.702205+00:00",
+  "published_at": "2026-11-13T14:56:06.171704+00:00",
   "image": {
     "type": "image",
     "url": "https://logo.clearbit.com/anthropic.com",
