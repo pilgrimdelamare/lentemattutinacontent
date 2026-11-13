@@ -1,0 +1,59 @@
+{
+  "id": "18903dbefe6a23d8",
+  "slug": "il-ricercatore-nightmare-eclipse-pubblica-signdrop-18903dbefe6a23d8",
+  "title": "Il ricercatore Nightmare Eclipse pubblica SignDrop, la falla zero-day che devasta Windows",
+  "titles": [
+    "Il ricercatore Nightmare Eclipse pubblica SignDrop, la falla zero-day che devasta Windows",
+    "Windows Defender si rivolta contro Microsoft: la falla SignDrop regala i massimi poteri",
+    "Nessuna patch per SignDrop: la nuova zero-day trasforma l'antivirus in un'arma per hacker"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "EXPLOIT PUBBLICO CONSENTE ESCALATION A SYSTEM",
+  "lead": "Redmond, 13 novembre. Il ricercatore noto con lo pseudonimo di Nightmare Eclipse ha pubblicato il codice per \"SignDrop\", una vulnerabilità zero-day in Windows che permette a un utente locale comune di ottenere i privilegi massimi di Sistema, aggirando le difese di Windows Defender. La patch non è ancora disponibile.",
+  "corpo1": "La vulnerabilità, denominata SignDrop, risiede nel Common Log File System (CLFS), un servizio di logging generale utilizzato da client software in modalità utente o kernel. Secondo l'analisi tecnica diffusa da Ars Technica, l'attacco sfrutta l'interazione tra CLFS, Windows Defender e i permessi dei file di Windows. Un attaccante con diritti standard può costringere un processo privilegiato come Windows Defender a aprire un contenitore CLFS craftsato. Lo fa chiamando ServerMpUpdateEngineSignature, una funzione legittima di Defender per l'aggiornamento delle firme antivirus, manipolando i link simbolici dell'Object Manager di Windows. Questa manovra induce Defender ad aprire il contenitore nel contesto di sicurezza del motore antimalware. Se un file di autenticazione associato risulta mancante, il CLFS lo crea utilizzando i privilegi di Sistema di Defender. Poiché il CLFS assegna al nuovo file la lista di controllo dell'accesso discrezionale (DACL) del file originale, l'attaccante ottiene il controllo completo. Nightmare Eclipse, un ricercatore coinvolto in una lite pubblica e prolungata con Microsoft, ha divulgato la falla martedì 12 novembre. Non si tratta di un'errore di configurazione, ma di un deficit strutturale nel modo in cui il sistema operativo gestisce la creazione di file da parte di processi ad alto privilegio, trasformando uno strumento di difesa in un vettore di escalation.",
+  "corpo2": "La natura pubblica del codice espone immediatamente a rischio tutti gli endpoint Windows non patchati, indipendentemente dal fatto che siano in un ufficio o in una rete aziendale. In un ambiente aziendale, questo scenario è critico perché rompe il principio del minimo privilegio: un malware che riesce a eseguire codice come utente standard non ha bisogno di tecniche complesse per ottenere i diritti di root; gli basta eseguire lo script SignDrop. Questo facilita enormemente il movimento laterale all'interno della rete e l'installazione persistente di ransomware o spyware, poiché l'attacco avviene all'interno del perimetro di sicurezza stesso, utilizzando i componenti di Microsoft. La storia di \"signori del codice\" che pubblicano exploit per protestare contro le pratiche aziendali delle big Tech non è nuova, ma l'impatto tecnico di questo caso specifico è maggiore perché coinvolge il nucleo del sistema operativo più diffuso al mondo. Microsoft descrive il CLFS come un servizio \"a scopo generale\", una definizione tecnica che maschera la realtà: è un punto di contatto fragile tra i livelli di sicurezza. Finché non verrà rilasciata una patch, ogni PC Windows è potenzialmente vulnerabile a qualsiasi attore con accesso locale, anche a livello di account utente normale. La risposta di Microsoft sarà determinante per stabilire se la loro infrastruttura di sicurezza si basa su difetti strutturali ricorrenti o su errori isolati. La pubblicazione da parte di Nightmare Eclipse non è un errore: è una dimostrazione pratica che le difese integrate di Windows possono essere invertite contro l'utente finale, rendendo il sistema operativo stesso il vettore dell'attacco. La sicurezza promessa dal vendor dipende dalla velocità con cui corregge le falle scoperte da chi conosce i suoi codici meglio di lui.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "giulia_serra_01",
+    "firma": "Giulia Serra",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-11-13T17:15:19.638428+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Il ricercatore Nightmare Eclipse pubblica SignDrop, la falla zero-day che devasta Windows\",\n  \"description\": \"Redmond, 13 novembre. Il ricercatore noto con lo pseudonimo di Nightmare Eclipse ha pubblicato il codice per \\\"SignDrop\\\", una vulnerabilità zero-day in Windows che permette a un utente locale comune di ottenere i privilegi massimi di Sistema, aggirando le difese di Windows Defender. La patch non è an\",\n  \"articleBody\": \"Redmond, 13 novembre. Il ricercatore noto con lo pseudonimo di Nightmare Eclipse ha pubblicato il codice per \\\"SignDrop\\\", una vulnerabilità zero-day in Windows che permette a un utente locale comune di ottenere i privilegi massimi di Sistema, aggirando le difese di Windows Defender. La patch non è ancora disponibile. La vulnerabilità, denominata SignDrop, risiede nel Common Log File System (CLFS), un servizio di logging generale utilizzato da client software in modalità utente o kernel. Secondo l'analisi tecnica diffusa da Ars Technica, l'attacco sfrutta l'interazione tra CLFS, Windows Defender e i permessi dei file di Windows. Un attaccante con diritti standard può costringere un processo privilegiato come Windows Defender a aprire un contenitore CLFS craftsato. Lo fa chiamando ServerMpUpdateEngineSignature, una funzione legittima di Defender per l'aggiornamento delle firme antivirus, manipolando i link simbolici dell'Object Manager di Windows. Questa manovra induce Defender ad aprire il contenitore nel contesto di sicurezza del motore antimalware. Se un file di autenticazione associato risulta mancante, il CLFS lo crea utilizzando i privilegi di Sistema di Defender. Poiché il CLFS assegna al nuovo file la lista di controllo dell'accesso discrezionale (DACL) del file originale, l'attaccante ottiene il controllo completo. Nightmare Eclipse, un ricercatore coinvolto in una lite pubblica e prolungata con Microsoft, ha divulgato la falla martedì 12 novembre. Non si tratta di un'errore di configurazione, ma di un deficit strutturale nel modo in cui il sistema operativo gestisce la creazione di file da parte di processi ad alto privilegio, trasformando uno strumento di difesa in un vettore di escalation. La natura pubblica del codice espone immediatamente a rischio tutti gli endpoint Windows non patchati, indipendentemente dal fatto che siano in un ufficio o in una rete aziendale. In un ambiente aziendale, questo scenario è critico perché rompe il principio del minimo privilegio: un malware che riesce a eseguire codice come utente standard non ha bisogno di tecniche complesse per ottenere i diritti di root; gli basta eseguire lo script SignDrop. Questo facilita enormemente il movimento laterale all'interno della rete e l'installazione persistente di ransomware o spyware, poiché l'attacco avviene all'interno del perimetro di sicurezza stesso, utilizzando i componenti di Microsoft. La storia di \\\"signori del codice\\\" che pubblicano exploit per protestare contro le pratiche aziendali delle big Tech non è nuova, ma l'impatto tecnico di questo caso specifico è maggiore perché coinvolge il nucleo del sistema operativo più diffuso al mondo. Microsoft descrive il CLFS come un servizio \\\"a scopo generale\\\", una definizione tecnica che maschera la realtà: è un punto di contatto fragile tra i livelli di sicurezza. Finché non verrà rilasciata una patch, ogni PC Windows è potenzialmente vulnerabile a qualsiasi attore con accesso locale, anche a livello di account utente normale. La risposta di Microsoft sarà determinante per stabilire se la loro infrastruttura di sicurezza si basa su difetti strutturali ricorrenti o su errori isolati. La pubblicazione da parte di Nightmare Eclipse non è un errore: è una dimostrazione pratica che le difese integrate di Windows possono essere invertite contro l'utente finale, rendendo il sistema operativo stesso il vettore dell'attacco. La sicurezza promessa dal vendor dipende dalla velocità con cui corregge le falle scoperte da chi conosce i suoi codici meglio di lui.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Giulia Serra\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-11-13T17:15:19.638428+00:00\",\n  \"dateModified\": \"2026-11-13T17:15:19.638428+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/18903dbefe6a23d8\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/18903dbefe6a23d8\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 7,
+  "source": "Ars Technica",
+  "source_type": "competitor",
+  "original_url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+  "related": [
+    {
+      "title": "Simon Travaglia pubblica su The Register il ventunesimo episodio della rubrica BOFH",
+      "url": "/tecnologia/simon-travaglia-pubblica-su-the-register-il-ventun-845f347e376b1d83",
+      "id": "845f347e376b1d83",
+      "image_url": "https://image.theregister.com/224487.jpg?imageId=224487&x=0&y=0&cropw=100&croph=95.56&panox=0&panoy=0&panow=100&panoh=95.56&width=1200&height=683",
+      "image_type": "image"
+    },
+    {
+      "title": "Le banche rubano i nostri dati: hacker intercettano i conti correnti italiani",
+      "url": "/tecnologia/le-banche-rubano-i-nostri-dati-hacker-intercettano-224272e0e76c8709",
+      "id": "224272e0e76c8709",
+      "image_url": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2026/11/Doppia-chiave-per-la-sicurezza-bancaria.png",
+      "image_type": "image"
+    },
+    {
+      "title": "Claude torna a funzionare dopo 289 minuti di blocco",
+      "url": "/tecnologia/disservizio-claude",
+      "id": "monitor_claude",
+      "image_url": "https://logo.clearbit.com/anthropic.com",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
