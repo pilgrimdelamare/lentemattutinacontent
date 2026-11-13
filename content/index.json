@@ -1,5 +1,25 @@
 [
   {
+    "id": "oroscopo_daily",
+    "slug": "oroscopo-del-giorno",
+    "title": "Oroscopo di oggi, venerdì 13 novembre 2026",
+    "section": "oroscopo",
+    "priority": 5,
+    "journalist_firma": "Stella D'Argento",
+    "published_at": "2026-11-13T05:18:07.698157+00:00",
+    "image_type": "none",
+    "image_url": "",
+    "occhiello": "OROSCOPO — VENERDÌ 13 NOVEMBRE 2026",
+    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
+    "tags": [
+      "oroscopo",
+      "zodiaco",
+      "stelle",
+      "Stella D'Argento"
+    ],
+    "hero_eligible": false
+  },
+  {
     "id": "1e422c1e76eaa575",
     "slug": "romano-prodi-e-achille-occhetto-indossano-il-velo-1e422c1e76eaa575",
     "title": "Romano Prodi e Achille Occhetto indossano il velo della sinistra",
@@ -138,26 +158,6 @@
       "tempo libero",
       "pub quiz",
       "Eureka"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "oroscopo_daily",
-    "slug": "oroscopo-del-giorno",
-    "title": "Oroscopo di oggi, giovedì 12 novembre 2026",
-    "section": "oroscopo",
-    "priority": 5,
-    "journalist_firma": "Stella D'Argento",
-    "published_at": "2026-11-12T05:01:02.356720+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "OROSCOPO — GIOVEDÌ 12 NOVEMBRE 2026",
-    "lead_preview": "L'universo cospira per il vostro bene. Ogni giorno porta un messaggio nascosto, un invito a guardare la realtà con occhi",
-    "tags": [
-      "oroscopo",
-      "zodiaco",
-      "stelle",
-      "Stella D'Argento"
     ],
     "hero_eligible": false
   },
