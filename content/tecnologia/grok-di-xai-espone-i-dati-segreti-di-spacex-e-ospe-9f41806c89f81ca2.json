@@ -1,0 +1,59 @@
+{
+  "id": "9f41806c89f81ca2",
+  "slug": "grok-di-xai-espone-i-dati-segreti-di-spacex-e-ospe-9f41806c89f81ca2",
+  "title": "Grok di xAI espone i dati segreti di SpaceX e ospedali: 35 mila app a rischio",
+  "titles": [
+    "Grok di xAI espone i dati segreti di SpaceX e ospedali: 35 mila app a rischio",
+    "Elon Musk nei guai: le app di Grok tradiscono le aziende Fortune 500",
+    "Falla di sicurezza in Grok: 35 mila app rivelano dati riservati al web"
+  ],
+  "title_winner": null,
+  "section": "tecnologia",
+  "occhiello": "35.000 APP GENERATE CON GROK ESPONGONO DATI RISERVATI",
+  "lead": "Roma, 13 novembre 2026. La società di sicurezza Claroc ha individuato oltre 35.000 applicazioni create tramite lo strumento Grok di xAI e accessibili pubblicamente tramite link. La falla nel sistema ha permesso l'esposizione di informazioni confidenziali appartenenti a diverse organizzazioni, inclusi dati interni della società aerospaziale SpaceXSI, istituzioni ospedaliere e aziende inserite nella classifica Fortune 500.",
+  "corpo1": "Il meccanismo che ha portato alla scoperta è legato al funzionamento dei servizi di DNS passivi. Quando un utente accede a un'applicazione creata con Grok, il sistema esegue una risoluzione del nome di dominio, un processo che Claroc ha identificato come il punto di rottura della riservatezza. Il nome del link finisce in indici commerciali consultabili da terze parti, rendendo gli indirizzi, tecnicamente privati, reperibili attraverso una semplice interrogazione. Stando a quanto riportato da Claroc, non vi è stata alcuna intrusione informatica o violazione di credenziali, ma una naturale esposizione dovuta al metodo di indicizzazione dei server. Tra il materiale intercettato figurano documenti sensibili e dati personali. Secondo le stime tecniche fornite da Claroc, circa il 10% delle app analizzate conteneva informazioni riservate, con una quota del 2% classificata come a rischio critico. A ottobre, una vulnerabilità simile aveva riguardato Muse, l'agente di intelligenza artificiale sviluppato da Meta, poi risolta dall'azienda. La replica ufficiale di xAI, riportata dalla stampa di settore, sostiene che le applicazioni generate con Grok debbano essere considerate private fino al momento della loro pubblicazione esplicita da parte dell'utente.",
+  "corpo2": "La facilità con cui strumenti di intelligenza artificiale generativa permettono di costruire software personalizzato ha abbattuto le barriere d'ingresso per la creazione di tool aziendali, ma ha contemporaneamente introdotto vettori di rischio che le architetture di sicurezza attuali faticano a gestire. La comodità di condividere un link per distribuire un'applicazione interna si scontra con la logica dei resolver DNS, progettati per tracciare e smistare il traffico di rete su scala globale. Quando il destinatario di un'app, anche se unico, clicca sul link, trasmette involontariamente l'indirizzo a un registro che alimenta il mercato dei dati, trasformando un collegamento privato in un dato pubblico. Il caso di SpaceXSI, colpita insieme a entità sanitarie e giganti industriali, dimostra come il perimetro di sicurezza di un'organizzazione venga bucato non da attacchi esterni sofisticati, ma dalla natura intrinseca dei sistemi di distribuzione adottati dalle piattaforme di intelligenza artificiale. Le promesse di efficienza operativa, che portano aziende a preferire soluzioni rapide generate da chatbot rispetto a infrastrutture software verificate, celano il costo occulto di una superficie di attacco che si espande in modo incontrollato. Se la diffusione di queste applicazioni continuerà a seguire il ritmo attuale, la proliferazione di link indicizzati nei database commerciali renderà la protezione dei dati aziendali interni un'illusione statistica, trasformando ogni dipendente che clicca su un software in un inconsapevole fornitore di informazioni per i motori di ricerca privati.",
+  "article_type": "standard",
+  "cards": [],
+  "journalist": {
+    "id": "andrea_foti_01",
+    "firma": "Andrea Foti",
+    "sezione": "tecnologia"
+  },
+  "published_at": "2026-11-14T09:43:33.733751+00:00",
+  "image": {
+    "type": "image",
+    "url": "https://www.punto-informatico.it/app/uploads/2026/11/rischi-generare-app-ai.jpg",
+    "credit": "",
+    "source": "original"
+  },
+  "schema_jsonld": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"headline\": \"Grok di xAI espone i dati segreti di SpaceX e ospedali: 35 mila app a rischio\",\n  \"description\": \"Roma, 13 novembre 2026. La società di sicurezza Claroc ha individuato oltre 35.000 applicazioni create tramite lo strumento Grok di xAI e accessibili pubblicamente tramite link. La falla nel sistema ha permesso l'esposizione di informazioni confidenziali appartenenti a diverse organizzazioni, inclus\",\n  \"articleBody\": \"Roma, 13 novembre 2026. La società di sicurezza Claroc ha individuato oltre 35.000 applicazioni create tramite lo strumento Grok di xAI e accessibili pubblicamente tramite link. La falla nel sistema ha permesso l'esposizione di informazioni confidenziali appartenenti a diverse organizzazioni, inclusi dati interni della società aerospaziale SpaceXSI, istituzioni ospedaliere e aziende inserite nella classifica Fortune 500. Il meccanismo che ha portato alla scoperta è legato al funzionamento dei servizi di DNS passivi. Quando un utente accede a un'applicazione creata con Grok, il sistema esegue una risoluzione del nome di dominio, un processo che Claroc ha identificato come il punto di rottura della riservatezza. Il nome del link finisce in indici commerciali consultabili da terze parti, rendendo gli indirizzi, tecnicamente privati, reperibili attraverso una semplice interrogazione. Stando a quanto riportato da Claroc, non vi è stata alcuna intrusione informatica o violazione di credenziali, ma una naturale esposizione dovuta al metodo di indicizzazione dei server. Tra il materiale intercettato figurano documenti sensibili e dati personali. Secondo le stime tecniche fornite da Claroc, circa il 10% delle app analizzate conteneva informazioni riservate, con una quota del 2% classificata come a rischio critico. A ottobre, una vulnerabilità simile aveva riguardato Muse, l'agente di intelligenza artificiale sviluppato da Meta, poi risolta dall'azienda. La replica ufficiale di xAI, riportata dalla stampa di settore, sostiene che le applicazioni generate con Grok debbano essere considerate private fino al momento della loro pubblicazione esplicita da parte dell'utente. La facilità con cui strumenti di intelligenza artificiale generativa permettono di costruire software personalizzato ha abbattuto le barriere d'ingresso per la creazione di tool aziendali, ma ha contemporaneamente introdotto vettori di rischio che le architetture di sicurezza attuali faticano a gestire. La comodità di condividere un link per distribuire un'applicazione interna si scontra con la logica dei resolver DNS, progettati per tracciare e smistare il traffico di rete su scala globale. Quando il destinatario di un'app, anche se unico, clicca sul link, trasmette involontariamente l'indirizzo a un registro che alimenta il mercato dei dati, trasformando un collegamento privato in un dato pubblico. Il caso di SpaceXSI, colpita insieme a entità sanitarie e giganti industriali, dimostra come il perimetro di sicurezza di un'organizzazione venga bucato non da attacchi esterni sofisticati, ma dalla natura intrinseca dei sistemi di distribuzione adottati dalle piattaforme di intelligenza artificiale. Le promesse di efficienza operativa, che portano aziende a preferire soluzioni rapide generate da chatbot rispetto a infrastrutture software verificate, celano il costo occulto di una superficie di attacco che si espande in modo incontrollato. Se la diffusione di queste applicazioni continuerà a seguire il ritmo attuale, la proliferazione di link indicizzati nei database commerciali renderà la protezione dei dati aziendali interni un'illusione statistica, trasformando ogni dipendente che clicca su un software in un inconsapevole fornitore di informazioni per i motori di ricerca privati.\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"Andrea Foti\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Lente Mattutina\",\n    \"url\": \"https://lentemattutina.it\",\n    \"logo\": {\n      \"@type\": \"ImageObject\",\n      \"url\": \"https://lentemattutina.it/logo.png\",\n      \"width\": 600,\n      \"height\": 60\n    }\n  },\n  \"datePublished\": \"2026-11-14T09:43:33.733751+00:00\",\n  \"dateModified\": \"2026-11-14T09:43:33.733751+00:00\",\n  \"url\": \"https://lentemattutina.it/tecnologia/9f41806c89f81ca2\",\n  \"mainEntityOfPage\": {\n    \"@type\": \"WebPage\",\n    \"@id\": \"https://lentemattutina.it/tecnologia/9f41806c89f81ca2\"\n  },\n  \"articleSection\": \"Tecnologia\",\n  \"inLanguage\": \"it-IT\",\n  \"isAccessibleForFree\": true,\n  \"hasPart\": {\n    \"@type\": \"WebPageElement\",\n    \"isAccessibleForFree\": false,\n    \"cssSelector\": \".page-2\"\n  },\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"https://www.punto-informatico.it/app/uploads/2026/11/rischi-generare-app-ai.jpg\",\n    \"creditText\": \"\"\n  }\n}",
+  "priority": 6,
+  "source": "Punto Informatico",
+  "source_type": "competitor",
+  "original_url": "https://www.punto-informatico.it/app-generate-ai-condividere-link-puo-esporre-dati-sensibili/",
+  "related": [
+    {
+      "title": "Le banche rubano i nostri dati: hacker intercettano i conti correnti italiani",
+      "url": "/tecnologia/le-banche-rubano-i-nostri-dati-hacker-intercettano-224272e0e76c8709",
+      "id": "224272e0e76c8709",
+      "image_url": "https://imgcdn.agendadigitale.eu/wp-content/uploads/2026/11/Doppia-chiave-per-la-sicurezza-bancaria.png",
+      "image_type": "image"
+    },
+    {
+      "title": "NordVPN lancia Digital Footprint per smascherare tutti i dati esposti online",
+      "url": "/tecnologia/nordvpn-lancia-digital-footprint-per-smascherare-t-f068f267d943a0c2",
+      "id": "f068f267d943a0c2",
+      "image_url": "https://www.punto-informatico.it/app/uploads/2026/11/digital-footprint-nordvpn.jpg",
+      "image_type": "image"
+    },
+    {
+      "title": "Torino: Pionieri BCI chiedono diritti, stop a clausole segrete",
+      "url": "/tecnologia/torino-pionieri-bci-chiedono-diritti-stop-a-clauso-dfa923683a8adf49",
+      "id": "dfa923683a8adf49",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Ian_0010.jpg?resize=1200,600",
+      "image_type": "image"
+    }
+  ],
+  "hero_eligible": true
+}
