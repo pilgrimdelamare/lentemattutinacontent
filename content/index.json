@@ -15,7 +15,8 @@
       "starship spacex",
       "elon musk"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "6345678e284676c4",
@@ -33,7 +34,8 @@
       "periferie palermo",
       "piano zen borgo nuovo"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "libro-20261114",
@@ -67,7 +69,8 @@
     "occhiello": "SETTE MORTI, L'ESPERTO INCRIMINA L'EQUIPAGGIO DEL BAYESIAN",
     "lead_preview": "Termini Imerese, 13 novembre. Il naufragio del veliero Bayesian, avvenuto la notte del 19 agosto 2024 davanti al porto di Porticello, nel Palermitano, sarebbe ascrivibile a imperizie dell'equipaggio e non a un difetto…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "873bdd5e67e4b12c",
@@ -85,7 +88,8 @@
       "trapianto rene",
       "incompatibilità sanguigna"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "dfa923683a8adf49",
@@ -100,7 +104,8 @@
     "occhiello": "VOLONTARI CHIEDONO PIÙ AUTONOMIA E MENO NDA NEI TRIAL NEURALI",
     "lead_preview": "Torino, 13 novembre 2026. I pionieri delle interfacce cervello-computer (BCI), coloro che hanno partecipato a sperimentazioni per decenni impiantandosi dispositivi neurali per controllare arti robotici e persino…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "b6d2562e0430e95a",
@@ -119,7 +124,8 @@
       "gaza",
       "memoir"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "64b0d675aabb59aa",
@@ -137,7 +143,8 @@
       "tuong hanoi",
       "quartiere antico"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "b73cbebb750f094d",
@@ -154,7 +161,8 @@
     "tags": [
       "x factor 2026"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "bb4c605284d3c488",
@@ -172,7 +180,8 @@
       "climate pride roma",
       "cop antalya"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "7ced621130ee224e",
@@ -187,7 +196,8 @@
     "occhiello": "IL RITORNO DI MIKE MCCREADY ALLA SCENA DI SEATTLE",
     "lead_preview": "Seattle, 13 novembre 2026. Mike McCready dei Pearl Jam ha pubblicato il primo singolo tratto dalla sua opera rock dedicata agli anni d'oro del grunge, accompagnato da un video animato diretto da Cyrus Entezam e in vista…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "a2eab211ef21ea9c",
@@ -202,7 +212,8 @@
     "occhiello": "SCONTRI E POLEMICHE SULLA GESTIONE DEL CIBO TRA ILARY BLASI E SELVAGGIA LUCARELLI",
     "lead_preview": "Roma, 14 novembre 2026. Nel corso della puntata del Grande Fratello Vip trasmessa il 14 novembre 2026, si è consumato l'ennesimo scontro verbale tra la conduttrice Ilary Blasi e l'opinionista Selvaggia Lucarelli, in…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "oroscopo_daily",
@@ -241,7 +252,8 @@
       "mossad usa",
       "netanyahu washington"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "9332c7fe489088ff",
@@ -256,7 +268,8 @@
     "occhiello": "APPUNTI ALL'ASTA PER IL PREMIER IN SALA BUIA",
     "lead_preview": "Londra, 14 novembre 2026. Sir Winston Leonard Spencer Churchill cercava rifugio nel cinema di animazione per sfuggire al peso del conflitto mondiale, come emerge dai documenti del suo assistente destinati a una vendita…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "461225492646f372",
@@ -275,7 +288,8 @@
       "politica",
       "internazionali"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "09d78b8f50aee4de",
@@ -293,7 +307,8 @@
       "teatro comunale bologna",
       "dedica una poltrona"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "ba0d580b29955b61",
@@ -308,7 +323,8 @@
     "occhiello": "OUTLOOK DOWN E MISURE IN EFFICACI PER LE FALLE",
     "lead_preview": "Milano, 13 novembre 2026. Microsoft ha dovuto ammettere che le misure adottate per risolvere le falle di sicurezza su Outlook non stanno funzionando come previsto dal colosso americano di Redmond.",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "05e8e400d3726dac",
@@ -323,7 +339,8 @@
     "occhiello": "LA CASSAZIONE CHIUDE IL CASO: LE MANCE NON ENTRANO NELLA FLAT TAX",
     "lead_preview": "Roma, 13 novembre 2026. La Corte di Cassazione, con l'ordinanza numero 28419 del 4 novembre, ha respinto il ricorso presentato da un dipendente di un hotel contro il fisco, confermando l'esclusione delle mance…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "ef0a3f7b34b0aabd",
@@ -341,7 +358,8 @@
       "zenith calibro 135",
       "joshua shapiro"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "71368072113c6c03",
@@ -359,7 +377,8 @@
       "skincare invernale",
       "consigli beauty"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "42ae4ca697825856",
@@ -374,7 +393,8 @@
     "occhiello": "ROGER TAYLOR LASCIA I DURAN DURAN PER GLI ACUFENI",
     "lead_preview": "Roma, 13 novembre. Il batterista dei Duran Duran, Roger Taylor, ha annunciato l'addio definitivo alla storica band formata nel 1978 a Birmingham e si è ritirato dalle scene musicali a causa di gravi problemi di acufeni…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "9755ba74962559bd",
@@ -393,7 +413,8 @@
       "vigili",
       "tribunale"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "aaba6e9ec1ebc234",
@@ -408,7 +429,8 @@
     "occhiello": "LISTE BLINDATE NEL PD PER CANCELLARE LA MINORANZA",
     "lead_preview": "Roma, 13 novembre 2026. Elly Schlein sta definendo la composizione delle candidature del Partito Democratico per il prossimo Parlamento, puntando su un blocco monolitico di fedelissime e intellettuali organiche per…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "9e211439e15abf57",
@@ -427,7 +449,8 @@
       "processo stige",
       "assolto"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "6740d37f10b06e51",
@@ -444,7 +467,8 @@
     "tags": [
       "tutto per la mia famiglia"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "ab4073228907557a",
@@ -463,7 +487,8 @@
       "alleanza verdi sinistra",
       "movimento 5 stelle"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "fedfe4592b37708f",
@@ -481,7 +506,8 @@
       "jannik sinner",
       "australian open 2026"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "0268cdb825dd8511",
@@ -500,7 +526,8 @@
       "taylor swift",
       "ariana grande"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "274484b82baa3529",
@@ -518,7 +545,8 @@
       "nomine rai",
       "la russa fontana"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "658cd0445dca7e57",
@@ -536,7 +564,8 @@
       "successione nvidia",
       "rene haas"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "227e9000a99d79c8",
@@ -554,7 +583,8 @@
       "film storie parallele",
       "asghar farhadi"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "3f87a76392d44c11",
@@ -572,7 +602,8 @@
       "proteste usb palazzo chigi",
       "legge di bilancio"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "807c83ee5ecb03f0",
@@ -591,7 +622,8 @@
       "tagli scuola",
       "pierpaolo bombardieri"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "18903dbefe6a23d8",
@@ -610,7 +642,8 @@
       "vulnerabilita windows",
       "nightmare eclipse"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "bcf55f18118f9384",
@@ -628,7 +661,8 @@
       "attentato mosca",
       "azarov"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "836fa7b78d1d20dc",
@@ -643,7 +677,8 @@
     "occhiello": "SETTE PRINCIPI PER GIOVANI CHE LAVORANO SENZA GARANZIE",
     "lead_preview": "Roma, 13 novembre. Il Manifesto della Previdenza Consapevole, nato da un'idea degli studenti della Scuola politica Vivere nella Comunità e promosso da Campus, Fondazione per l'Educazione finanziaria e al Risparmio e…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "df93f30e5b206ff7",
@@ -661,7 +696,8 @@
       "carlos alcaraz",
       "atp finals torino"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "edd685771372ecd1",
@@ -676,7 +712,8 @@
     "occhiello": "LA LISTA STUDENTESCA SERBA TAGLIA I REALITY E IMPONE LA SCIENZA IN TV",
     "lead_preview": "Belgrado, 13 novembre 2026. La Lista Studentesca Serba, vincitrice delle ultime elezioni dopo la sconfitta del blocco guidato da Aleksandar Vucic, ha presentato il piano dettagliato per la riforma dei media e dei…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "224272e0e76c8709",
@@ -695,7 +732,8 @@
       "hacker conti correnti",
       "crittografia post-quantistica"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "a856d0e9e90fc9d9",
@@ -713,7 +751,8 @@
       "hair rituel sisley",
       "siero anticaduta"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "c3eefce168ba372f",
@@ -731,7 +770,8 @@
       "studentessa minaccia prof",
       "aggressione scuola brindisi"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "a07371b2ca19a357",
@@ -750,7 +790,8 @@
       "nvidia",
       "colette kress"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "c54e7384f550900e",
@@ -769,7 +810,8 @@
       "hiroka kore-eda",
       "festival di venezia"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "f996e80f964c7f52",
@@ -787,7 +829,8 @@
       "blackout microsoft 365",
       "cyberattacchi phishing"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "445ebe57d81e4952",
@@ -806,7 +849,8 @@
       "stalking lotito",
       "minacce lotito"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "bd4210f57f2a63a6",
@@ -825,7 +869,8 @@
       "caso vannacci",
       "piazzapulita"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "517c25fc03c9da3c",
@@ -840,7 +885,8 @@
     "occhiello": "CONFERMATA LA LINEA DEI SERVIZI SOCIALI SUI FIGLI",
     "lead_preview": "L'Aquila, 13 novembre 2026. La Corte d'Appello dell'Aquila ha respinto il reclamo presentato dai genitori nel caso della cosiddetta famiglia nel bosco, confermando integralmente il provvedimento emesso in precedenza dal…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "0f580ec75f8d6370",
@@ -855,7 +901,8 @@
     "occhiello": "POWER BANK E ANTENNA: FINISCE IL GIOCO",
     "lead_preview": "Roma, 12 novembre. Un ragazzo di 22 anni, ex alunno dell'istituto tecnico Enrico Fermi, è stato denunciato per procurato allarme dopo aver piazzato un finto ordigno vicino alla scuola.",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "a6f6e745af8b95cc",
@@ -873,7 +920,8 @@
       "film soulm8te",
       "intelligenza artificiale"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "924ba463c7d7637f",
@@ -892,7 +940,8 @@
       "mappa universo",
       "istituto nazionale astrofisica"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "845f347e376b1d83",
@@ -910,7 +959,8 @@
       "bofh simon travaglia",
       "the register"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "214cd403a0be6da1",
@@ -925,7 +975,8 @@
     "occhiello": "BIMBI TRASCURATI A TORINO: LA PROCURA CHIEDE L'ASSOLUZIONE",
     "lead_preview": "Torino, 13 novembre 2026. Si gioca sul sottile confine tra incuria domestica e rilevanza penale il processo a carico di una coppia, oggi separata, residente in provincia di Torino.",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "f068f267d943a0c2",
@@ -943,7 +994,8 @@
       "nordvpn digital footprint",
       "dark web monitor"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "8d014033ffa446a8",
@@ -961,7 +1013,8 @@
       "divorzio jensen huang",
       "nvidia"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "ef65e079fc1b69d7",
@@ -979,7 +1032,8 @@
       "processo depardieu",
       "gerard depardieu"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 4
   },
   {
     "id": "c90486f3c8c75d1a",
@@ -994,7 +1048,8 @@
     "occhiello": "IL SUPERAMENTO DELL'ASCOLTO PERFORMATIVO NEGLI AMBIENTI AZIENDALI",
     "lead_preview": "Roma, 13 novembre 2026. Il superamento dell'ascolto performativo sul posto di lavoro favorisce la creazione di ambienti aziendali più produttivi, dove la presenza, la curiosità e il dialogo autentico migliorano la…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "3a315f455084a83c",
@@ -1013,7 +1068,8 @@
       "bombardamento",
       "ospedale"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 5
   },
   {
     "id": "libro-20261113",
@@ -1047,7 +1103,8 @@
     "occhiello": "DA 2.650 RIGHE DI LINGUAGGIO C A SEI RIGHE DI SCRIPT",
     "lead_preview": "Londra, 13 novembre 2026. Un lettore noto come Tim, impiegato presso una compagnia telefonica, ha riscritto 2.650 righe di codice sorgente scritte in linguaggio C trasformandole in uno script della lunghezza di sei…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "a23ca6a78c3d3495",
@@ -1062,7 +1119,8 @@
     "occhiello": "DUECENTOCINQUANTASETTE FUSIONI SVELANO LE STELLE CHE MUOIONO IN SILENZIO",
     "lead_preview": "Roma, 13 novembre 2026. L'analisi di duecentocinquantasette fusioni di buchi neri osservate dalla rete Ligo-Virgo-Kagra offre nuovi indizi sulle cosiddette supernove fallite, stelle che collassano silenziosamente senza…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "6cc506a9ae5a3b01",
@@ -1077,7 +1135,8 @@
     "occhiello": "PROMOZIONE SCADUTA MENTRE ARRIVAVA L'ANNUNCIO PER GLI UTENTI",
     "lead_preview": "Milano, 13 novembre 2026. Finom, la piattaforma fintech focalizzata su piccole imprese e liberi professionisti, ha diffuso una comunicazione promozionale relativa a un rendimento del 5% annuo sulla liquidità, un bonus…",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "aa250e6f6293a408",
@@ -1092,7 +1151,8 @@
     "occhiello": "Il collasso del cloud Microsoft blocca l'innovazione globale",
     "lead_preview": "Un guasto tecnico massiccio ha paralizzato i servizi Microsoft, innescando un effetto domino che ha travolto OpenAI e Anthropic.",
     "tags": [],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 5
   },
   {
     "id": "497b35c780271214",
@@ -1110,7 +1170,8 @@
       "invecchiamento cerebrale",
       "salute cervello"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "49315e04ba099751",
@@ -1128,7 +1189,8 @@
       "signore degli anelli",
       "prime video"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 2
   },
   {
     "id": "6d060bdd8c981173",
@@ -1146,7 +1208,8 @@
       "studenti internazionali usa",
       "università americane"
     ],
-    "hero_eligible": true
+    "hero_eligible": true,
+    "rilevanza": 3
   },
   {
     "id": "fd6129a3e475410c",
