@@ -528,25 +528,6 @@
     "hero_eligible": true
   },
   {
-    "id": "monitor_claude",
-    "slug": "disservizio-claude",
-    "title": "Claude torna a funzionare dopo 289 minuti di blocco",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-13T14:56:06.171704+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/anthropic.com",
-    "occhiello": "SERVIZIO CLAUDE RIABILITATO COMPLETAMENTE",
-    "lead_preview": "Claude è tornato pienamente operativo dopo un'interruzione di 289 minuti. Il sistema ha ripristinato la piena capacità d",
-    "tags": [
-      "downtime",
-      "claude",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
     "id": "a07371b2ca19a357",
     "slug": "jensen-huang-lascia-nvidia-dopo-33-anni-colette-kr-a07371b2ca19a357",
     "title": "Jensen Huang lascia Nvidia dopo 33 anni: Colette Kress guida la transizione",
@@ -1016,25 +997,6 @@
     "hero_eligible": true
   },
   {
-    "id": "rassegnista_daily",
-    "slug": "rassegna-stampa",
-    "title": "Le prime pagine di oggi, venerdì 13 novembre 2026",
-    "section": "italia",
-    "priority": 6,
-    "journalist_firma": "La Redazione",
-    "published_at": "2026-11-13T06:45:55.802503+00:00",
-    "image_type": "image",
-    "image_url": "https://tg24.sky.it/assets/images/ea9e3ebc7ee4c238fec615fe21b39b2f2fdcaeea/skytg24/it/cronaca/2026/11/13/prime-pagine-quotidiani-oggi-13-novembre/corriere-della-sera-040032bs4aa3l.jpg",
-    "occhiello": "LE PRIME PAGINE 13 NOVEMBRE 2026",
-    "lead_preview": "I quotidiani italiani di oggi convergono su due temi principali. La maggior parte delle testate titola sulle minacce di ",
-    "tags": [
-      "rassegna stampa",
-      "prime pagine",
-      "giornali"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "25ac445f181dc960",
     "slug": "benedetta-parodi-e-fabio-caressa-dopo-25-anni-non-25ac445f181dc960",
     "title": "Benedetta Parodi e Fabio Caressa: «Dopo 25 anni non ci si sbraca in casa in ciabatte. E quando ti accorgi che non stai",
@@ -1212,40 +1174,6 @@
     "hero_eligible": false
   },
   {
-    "id": "4697aadfd6c0f30e",
-    "slug": "papa-leone-xiv-sfreccia-a-lima-e-festeggia-la-stor-4697aadfd6c0f30e",
-    "title": "Papa Leone XIV sfreccia a Lima e festeggia la storia del Papa Francesco",
-    "section": "esteri",
-    "priority": 6,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-12T07:29:32.027035+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/12/074739401-ec5661f9-6232-418c-8e25-77a927595a52.jpg",
-    "occhiello": "TRE MILIONI DI PERSONE IN STRADA A LIMA PER LEONE, IL PAPA: “RITORNO NELLA MIA",
-    "lead_preview": "Lima, 12 novembre Papa Leone XIV, il primo pontefice nato negli Stati Uniti, ha attraversato Lima con una processione di",
-    "tags": [
-      "papato",
-      "papale",
-      "perù"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0ed0bb0b26a7d774",
-    "slug": "toronto-raptors-perdona-la-vittoria-ammessa-ai-cel-0ed0bb0b26a7d774",
-    "title": "Toronto Raptors perdona la vittoria ammessa ai Celtics di Boston",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-12T05:22:15.913731+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e855138b03e37cf1154d13d138ab53cfcdf88a92/skysport/it/nba/video/2026/11/12/1139343_1794458526297_thumb_494.0000001_1794459145291.jpg",
-    "occhiello": "NBA HIGHLIGHTS: TORONTO-BOSTON 93-98",
-    "lead_preview": "Toronto, 12 novembre 2026 La NBA ha regalato un altro episodio di quella che ormai è diventata una routine: un match gio",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "0d0d07f4ee08e052",
     "slug": "tass-witkoff-e-kushner-arrivati-a-mosca-per-i-coll-0d0d07f4ee08e052",
     "title": "Tass, Witkoff e Kushner arrivati a Mosca per i colloqui",
@@ -1257,215 +1185,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/7/75dc4bba8712ce0b0d5a20a970d7c848.jpg",
     "occhiello": "TASS, WITKOFF E KUSHNER ARRIVATI A MOSCA PER I COLLOQUI",
     "lead_preview": "Mosca, 12 novembre Steven Charles Witkoff e Jared Kushner sono arrivati alla stazione di Mosca-Kazanskaya in un jet priv",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "577e9f7cbdfac77f",
-    "slug": "eureka-sbarca-a-roma-il-quiz-a-squadre-che-trasfor-577e9f7cbdfac77f",
-    "title": "Eureka! sbarca a Roma: il quiz a squadre che trasforma il pub in uno show televisivo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-12T05:13:52.560239+00:00",
-    "image_type": "image",
-    "image_url": "https://eurekaquiz.live/video/poster-it.jpg",
-    "occhiello": "TEMPO LIBERO",
-    "lead_preview": "Domande a tempo dal telefono, una corsa del Palio di Siena da giocare a spronate, una bomba da disinnescare sommando i n",
-    "tags": [
-      "quiz",
-      "Roma",
-      "tempo libero",
-      "pub quiz",
-      "Eureka"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "41ed8b5725243c95",
-    "slug": "i-big-pubblici-battono-le-imprese-private-eni-enel-41ed8b5725243c95",
-    "title": "I big pubblici battono le imprese private: ENI, ENEL e Gse prime per ricavi, pos",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-12T02:49:29.283116+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/211942765-c987fb80-afef-4ce3-b621-065c963b7113.jpg",
-    "occhiello": "I BIG PUBBLICI BATTONO LE IMPRESE PRIVATE: ENI, ENEL E GSE PRIME PER RICAVI, POS",
-    "lead_preview": "L’Italia del pubblico che mangia da sola: Eni, Enel e Poste spazzano il mercato, mentre le imprese private restano a gua",
-    "tags": [
-      "eni enel gse 2025",
-      "monopolio pubblico energia",
-      "ricavi aziende statali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "441c3cf0c46a1d28",
-    "slug": "meloni-teme-lescalation-nel-mirino-stazioni-e-ospe-441c3cf0c46a1d28",
-    "title": "Meloni teme l’escalation: nel mirino stazioni e ospedali. Salvini avvia le simul",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-12T02:48:46.287448+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/225356412-0f49e8cd-872d-42f3-95de-28ba0bd44150.jpg",
-    "occhiello": "MELONI TEME L’ESCALATION: NEL MIRINO STAZIONI E OSPEDALI. SALVINI AVVIA LE SIMUL",
-    "lead_preview": "Roma, 12 novembre Giorgia Meloni ha convocato un vertice segreto sul cybersecurity per discutere di \"escalation\" — un te",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a15110be3b3aa287",
-    "slug": "minacce-scolastiche-cresce-la-confusione-e-il-caos-a15110be3b3aa287",
-    "title": "Minacce scolastiche: Cresce la confusione e il caos nelle scuole italiane",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-12T02:39:47.871694+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/230546031-1b17cc39-342d-4f1a-8f9b-f3306cb42f27.jpg",
-    "occhiello": "SCUOLE, LA SEGNALAZIONE DEGLI 007 MA NESSUN PIANO PRONTO: L’IDEA DI UN FILTRO AN",
-    "lead_preview": "Roma, 12 novembre Il governo ha segnalato da giorni, tramite i Servizi segreti, che dopo gli allarmi bomba sugli aerei s",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "a25723b2e003776e",
-    "slug": "allarme-bombe-nelle-scuole-meloni-vogliono-creare-a25723b2e003776e",
-    "title": "Allarme bombe nelle scuole, Meloni: “vogliono creare panico”. E convoca per oggi",
-    "section": "politica",
-    "priority": 7,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-12T02:35:47.012956+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/225724576-ee47e9a0-7db7-4203-a9fe-7cbf588b2e60.jpg",
-    "occhiello": "ALLARME BOMBE NELLE SCUOLE, MELONI: “VOGLIONO CREARE PANICO”. E CONVOCA PER OGGI",
-    "lead_preview": "Roma, 12 novembre Giorgia Meloni ha scritto su X che le mail anonime non decideranno il calendario scolastico, ma il suo",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d308d0399c95c68",
-    "slug": "kaja-kallas-annulla-progetto-di-inviare-un-inviato-6d308d0399c95c68",
-    "title": "Kaja Kallas annulla progetto di inviare un inviato speciale in Ucraina",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-12T01:15:26.249380+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/15/b57ab314dc0c559a7de769599d8d4d72.jpg",
-    "occhiello": "PREMIER ESTONIA, 'UE NON HA BISOGNO DI INVIATO AD HOC PER KIEV'",
-    "lead_preview": "Bruxelles, 12 novembre Il premier estone Kaja Kallas, presidente di turno dell’Unione europea, ha dichiarato che l’Ue no",
-    "tags": [
-      "kaja kallas",
-      "ucraina"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d168f62a828563e9",
-    "slug": "eisenkot-minaccia-netanyahu-attacco-alliran-catast-d168f62a828563e9",
-    "title": "Eisenkot minaccia Netanyahu: «Attacco all’Iran? Catastrofe, senza Washington non si va»",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-12T00:34:30.580755+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/224146126-7058b7c0-b944-4c17-b7bb-bb038e035cbe.jpg",
-    "occhiello": "EISENKOT FRENA BIBI SUI RAID CONTRO L’IRAN. L’IDF MESSA IN ALLERTA",
-    "lead_preview": "Jerusalem, 12 novembre Gadi Eisenkot, ex capo di stato maggiore delle Forze di difesa israeliane (IDF) e leader del part",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7808eb98859de110",
-    "slug": "in-libano-oltre-un-milione-di-persone-non-ha-cibo-7808eb98859de110",
-    "title": "In Libano oltre un milione di persone non ha cibo a sufficienza",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-12T00:31:13.077361+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMTEvMTEvMTQxNDM0ODg4LWMzNGZiYzJiLTJlNzEtNGJhNy1iMDhmLTczZGUxMzc1MzA3Mi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "IN LIBANO OLTRE UN MILIONE DI PERSONE NON HA CIBO A SUFFICIENZA",
-    "lead_preview": "Beirut, 12 novembre Il Libano ha perso il suo secondo pasto al giorno. Secondo il rapporto congiunto del ministero dell’",
-    "tags": [
-      "crisi alimentare libano",
-      "fame libano 2023",
-      "emergenza umanitaria libano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_chatgpt",
-    "slug": "disservizio-chatgpt",
-    "title": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi",
-    "section": "tecnologia",
-    "priority": 8,
-    "journalist_firma": "Sistema Monitor",
-    "published_at": "2026-11-11T23:17:32.746178+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/openai.com",
-    "occhiello": "CHATGPT IN DOWN",
-    "lead_preview": "ChatGPT è irraggiungibile da 22 minuti. Gli utenti italiani segnalano disservizi.",
-    "tags": [
-      "downtime",
-      "chatgpt",
-      "disservizi"
-    ],
-    "hero_eligible": false
-  },
-  {
-    "id": "231e06357c7c302b",
-    "slug": "scontri-a-barcellona-dopo-il-corteo-per-la-casa-ve-231e06357c7c302b",
-    "title": "Scontri a Barcellona dopo il corteo per la casa, vetrine in frantumi",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T20:17:00.013385+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/877b061ba4449daa26833e1b3ae10c7b.jpg",
-    "occhiello": "SCONTRI A BARCELLONA DOPO IL CORTEO PER LA CASA, VETRINE IN FRANTUMI",
-    "lead_preview": "Barcellona, 11 novembre Le vetrine della Gran Via si sono riempite di vetri rotti solo dopo che la manifestazione per l’",
-    "tags": [
-      "contratti",
-      "violenza",
-      "manifestazione"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d759b1d59b747c48",
-    "slug": "il-gabinetto-viesseux-stringe-nuovi-rapporti-con-i-d759b1d59b747c48",
-    "title": "Il gabinetto Viesseux stringe nuovi rapporti con istituzioni culturali lituane",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T20:06:07.843644+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/1207f6a2d51e7c721cd82e4a75fa5096.jpg",
-    "occhiello": "IL GABINETTO VIESSEUX STRINGE NUOVI RAPPORTI CON ISTITUZIONI CULTURALI LITUANE",
-    "lead_preview": "Firenze, 11 novembre Il Gabinetto Viesseux, storica biblioteca fiorentina fondata nel 1816 per volere di Napoleone, ha s",
-    "tags": [
-      "gabinetto viesseux",
-      "biblioteca",
-      "cooperazione culturale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9efa8169dfa091e0",
-    "slug": "atp-finals-domani-il-sorteggio-al-grattacielo-inte-9efa8169dfa091e0",
-    "title": "Intesa Sanpaolo sfoggia il suo Grattacielo vuoto: 200 milioni sprecati per un ufficio da 5 stelle",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-11T18:41:34.227522+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/414cb3bbf23f48574a7421e8e034182d.jpg",
-    "occhiello": "ATP FINALS, DOMANI IL SORTEGGIO AL GRATTACIELO INTESA SANPAOLO",
-    "lead_preview": "TORINO, 11 novembre Domani, al Grattacielo Intesa Sanpaolo, il più alto edificio della città dopo la Mole Antonelliana e",
     "tags": [],
     "hero_eligible": true
   },
@@ -1496,21 +1215,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/9e6b42a602402bdf3570bf0bbd152c7f.jpg",
     "occhiello": "SINNER RIVELA, 'MI SONO OPERATO ALLE TONSILLE'",
     "lead_preview": "MAIUSCOLO JANNIK SINNER SUL CANALE YOUTUBE: \"HO PERSO PESO, STO CERCANDO DI METTERE MASSA\" Roma, 11 novembre Jannik Sinn",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8d223f8e374df3fd",
-    "slug": "mosquito-al-via-le-riprese-della-nuova-serie-con-n-8d223f8e374df3fd",
-    "title": "Mosquito, al via le riprese della nuova serie con Nicholas Hoult e daisy Edgar-j",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-11T17:52:38.104557+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/7/2/e77df7645c81a4f780ba85d0fceb76a3.jpg",
-    "occhiello": "MOSQUITO, AL VIA LE RIPRESE DELLA NUOVA SERIE CON NICHOLAS HOULT E DAISY EDGAR-J",
-    "lead_preview": "Mosquito, Disney+ punta su un parassita letterale e metaforico Roma, 11 novembre. Disney+ annuncia Mosquito, nuova serie",
     "tags": [],
     "hero_eligible": true
   },
@@ -1569,21 +1273,6 @@
       "cultura",
       "udine"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "56e67f25d75f47f6",
-    "slug": "spostare-larco-di-washington-square-la-sfida-di-ny-56e67f25d75f47f6",
-    "title": "'Spostare l'arco di Washington Square', la sfida di ny dopo quella a Chicago",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-11T17:10:41.629606+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "'SPOSTARE L'ARCO DI WASHINGTON SQUARE', LA SFIDA DI NY DOPO QUELLA A CHICAGO",
-    "lead_preview": "Chicago, 11 novembre Il 21 novembre, i cittadini dell’Illinois avranno una seconda occasione per decidere se il loro Sta",
-    "tags": [],
     "hero_eligible": true
   },
   {
@@ -1647,25 +1336,6 @@
     "hero_eligible": true
   },
   {
-    "id": "f118bccad4104125",
-    "slug": "inter-attesa-per-gli-esami-di-thuram-le-ultime-new-f118bccad4104125",
-    "title": "Inter, attesa per gli esami di Thuram: le ultime news",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-11T16:04:34.921026+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/8bbbf60c2ba2182ab3f05066bf296f7d62298c56/skysport/it/calcio/serie-a/video/2026/11/11/1139172_1794396869229_thumb_494.0000001_1794397682290.jpg",
-    "occhiello": "INTER, ATTESA PER GLI ESAMI DI THURAM: LE ULTIME NEWS",
-    "lead_preview": "Milano, 11 novembre L’Inter ha convocato gli esami clinici per Lilian Thuram, 37 anni, difensore francese arrivato a San",
-    "tags": [
-      "esami clinici thuram",
-      "inter milano",
-      "arrivo thuram"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "bcb20f9c9654e97b",
     "slug": "endrick-voglio-solo-giocare-non-so-cosa-succedera-bcb20f9c9654e97b",
     "title": "Endrick: \"voglio solo giocare, non so cosa succederà a gennaio\"",
@@ -1700,40 +1370,6 @@
     "hero_eligible": true
   },
   {
-    "id": "b7c2a06667a873bb",
-    "slug": "tennis-matteo-berrettini-capitano-dellitalia-insic-b7c2a06667a873bb",
-    "title": "Orgoglio Cobolli 'ho qualità che pochi hanno'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T15:50:17.003296+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/c2b0d65460b5a36d9dfeb630977b7fa7.jpg",
-    "occhiello": "ORGOGLIO COBOLLI 'HO QUALITÀ CHE POCHI HANNO'",
-    "lead_preview": "Roma, 11 novembre La nazionale italiana di tennis maschile, guidata dal capitano Matteo Berrettini, si prepara alle ATP ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "690aa54373f70e36",
-    "slug": "sonego-eliminato-a-stoccolma-vince-tabilo-in-tre-s-690aa54373f70e36",
-    "title": "Sonego eliminato a Stoccolma, vince tabilo in tre set",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T15:50:12.145149+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/36d673f9ece64f72a022dc9f5240ac35.jpg",
-    "occhiello": "SONEGO ELIMINATO A STOCCOLMA, VINCE TABILO IN TRE SET",
-    "lead_preview": "MAIUSCOLO Jannik Sinner elimina Lorenzo Sonego ai quarti di Stockholm Open Stoccolma, 11 novembre Il cileno Jannik Sinne",
-    "tags": [
-      "tennis",
-      "tennis_italiano",
-      "stockholm open"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "91cab328cbacc85b",
     "slug": "cop31-italia-41esima-su-68-paesi-per-performance-a-91cab328cbacc85b",
     "title": "L’Italia spende 3,2 miliardi in fossili: 41esima in Europa, l’Europa la supera di slancio",
@@ -1749,25 +1385,6 @@
       "cop31 performance ambientale italia",
       "spesa fossili italia",
       "classifica inquinamento europa 2026"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b618ea281c32977f",
-    "slug": "aic-e-inail-insieme-al-via-ricerca-sulle-patologie-b618ea281c32977f",
-    "title": "Aic e INAIL insieme, al via ricerca sulle patologie dei calciatori'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T15:40:25.083219+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2013/10/25/896c94037cb3e7ea50f5b2cbf733ba6e.jpg",
-    "occhiello": "AIC E INAIL INSIEME, AL VIA RICERCA SULLE PATOLOGIE DEI CALCIATORI'",
-    "lead_preview": "MAIUSCOLO Un accordo che nasconde un bilancio: 10 milioni di euro per studiare i danni che il calcio già paga Roma, 11 n",
-    "tags": [
-      "ricerca patologie calciatori",
-      "accordo aic inail",
-      "studio salute sportivi"
     ],
     "hero_eligible": true
   },
@@ -1788,36 +1405,6 @@
       "regista",
       "filmmaker"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "efc3195d107689c5",
-    "slug": "cinema-modernissimo-non-solo-film-oltre-60-appunta-efc3195d107689c5",
-    "title": "'Cinema Modernissimo: non solo film', oltre 60 appuntamenti della Cineteca di bo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T15:34:45.470944+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/85da08cc0b6e1cfafc16e5c3d5c97f01.jpg",
-    "occhiello": "'CINEMA MODERNISSIMO: NON SOLO FILM', OLTRE 60 APPUNTAMENTI DELLA CINETECA DI BO",
-    "lead_preview": "Bologna, 11 novembre La Cineteca di Bologna annuncia un programma da oltre 60 appuntamenti tra ottobre e maggio, dedicat",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "665fd4bbcd415749",
-    "slug": "al-via-nel-2027-la-grande-riqualificazione-della-r-665fd4bbcd415749",
-    "title": "Al via nel 2027 la grande riqualificazione della Reggia di Colorno nel parmense",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-11T15:34:24.699014+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/18e149ac96174969af2ca041c3f2cde7.jpg",
-    "occhiello": "AL VIA NEL 2027 LA GRANDE RIQUALIFICAZIONE DELLA REGGIA DI COLORNO NEL PARMENSE",
-    "lead_preview": "OCCHIELLO BOARD EUROPEO A COLORNO: GLI INVESTIMENTI CHE NON SI VEDONO Colorno, 11 novembre Il villaggio emiliano dove Na",
-    "tags": [],
     "hero_eligible": true
   },
   {
@@ -1851,36 +1438,6 @@
     "hero_eligible": true
   },
   {
-    "id": "8d72d2bf50be12e9",
-    "slug": "berrettini-filtra-ottimismo-per-infortunio-al-gomi-8d72d2bf50be12e9",
-    "title": "Berrettini, filtra ottimismo per infortunio al gomito",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-11T14:57:41.285867+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/51c4aa52012a974ac9af57d2a22b8d9c0d09df08/skysport/it/tennis/video/2026/11/11/1139207_1794402162794_thumb_494.0000001_1794403381516.jpg",
-    "occhiello": "BERRETTINI, FILTRA OTTIMISMO PER INFORTUNIO AL GOMITO",
-    "lead_preview": "Torino, 11 novembre Matteo Berrettini, 28 anni, ha confermato la sua presenza alle ATP Finals 2026 con un messaggio ambi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6d13db6934bbfdc2",
-    "slug": "i-misteri-dellarte-sacra-contemporanea-6d13db6934bbfdc2",
-    "title": "Sacro e profano in Giovanni Gasparro, ''nella pittura cerco me stesso''",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-11T14:42:56.276946+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/0500ab695411cf5f0708a60cfb5b1ce3.jpg",
-    "occhiello": "SACRO E PROFANO IN GIOVANNI GASPARRO, ''NELLA PITTURA CERCO ME STESSO''",
-    "lead_preview": "MAIUSCOLO Giovanni Gasparro espone a Palazzo Altemps: due opere sacre in una mostra che mescola arte e ricerca identitar",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "20e8995c6e76dc75",
     "slug": "pallavolo-giani-incassa-la-laurea-honoris-causa-da-20e8995c6e76dc75",
     "title": "La lectio di Velasco, 'la pallavolo mi ha salvato, la filosofia mi ha guidato'",
@@ -1907,21 +1464,6 @@
     "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/11/144428251-58f92eba-4b24-4486-a21c-6e999bef84ec.jpg",
     "occhiello": "MANOVRA, 3,5 MILIONI DI FAMIGLIE GUADAGNANO 600 EURO. MA QUASI 3 MILIONI CI PERD",
     "lead_preview": "OCCHIELLO 3 MILIONI DI PENSIONATI PERDONO 510 EURO: LA MANOVRA CHE NON PAGA Roma, 11 novembre L’Istat ha appena calcolat",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c2bb07fbaaab403c",
-    "slug": "sudditi-digitali-con-i-dialoghi-platonici-i-diritt-c2bb07fbaaab403c",
-    "title": "'Sudditi digitali', con i dialoghi platonici i diritti al tempo dell'IA",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T14:06:09.989122+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/149e6f5af0362293e275ada381feaa26.jpg",
-    "occhiello": "'SUDDITI DIGITALI', CON I DIALOGHI PLATONICI I DIRITTI AL TEMPO DELL'IA",
-    "lead_preview": "MAIUSCOLO \"DIRITTI IN DIGITALE: IL LIBRO CHE SPERIMENTA LA CITTADINANZA COME PRODOTTO\" Roma, 11 novembre. Stefano Epifan",
     "tags": [],
     "hero_eligible": true
   },
@@ -1960,78 +1502,6 @@
     "hero_eligible": true
   },
   {
-    "id": "e98b8f67afdfdecb",
-    "slug": "premio-valle-daosta-giordano-premia-la-provincia-i-e98b8f67afdfdecb",
-    "title": "Al via le candidature per il premio Letterario Valle d'Aosta",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T13:17:01.771421+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/11/3432881e50674725f4449b5e60da7cc2.jpg",
-    "occhiello": "AL VIA LE CANDIDATURE PER IL PREMIO LETTERARIO VALLE D'AOSTA",
-    "lead_preview": "MAIUSCOLO PREMIO VALLE D'AOSTA: GIORDANO GIUDICA LIBRI DI UNO STATO PROVINCIALE Aosta, 11 novembre. La giuria presieduta",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "e197882901378693",
-    "slug": "mediaset-presenta-mia-lagente-ia-che-lavora-in-sin-e197882901378693",
-    "title": "Mediaset presenta Mia, l'agente IA che lavora in sintonia con gli umani",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-11T12:48:04.981458+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/9/430a2e8dc40914cebf0a55b9dc7aeb71.jpg",
-    "occhiello": "MEDIASET PRESENTA MIA, L'AGENTE IA CHE LAVORA IN SINTONIA CON GLI UMANI",
-    "lead_preview": "MAIUSCOLO MEDIASET INVESTE 100 MILIONI IN UN'AI CHE SOSTITUIRÀ I GIORNALISTI Roma, 11 novembre. Mentre i tagli ai giorna",
-    "tags": [
-      "mia agentia mediaset",
-      "intelligenza artificiale giornalismo",
-      "licenziamenti media italia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "525469da321d500a",
-    "slug": "lo-russo-e-cirio-al-lavoro-obiettivo-atp-finals-a-525469da321d500a",
-    "title": "Russo vende Torino: 15 milioni per le Finals, ma i Conti del Comune esplodono",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T12:43:36.501909+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/ba5c83d496a3dcd07aa4123b9f7e55c0.jpg",
-    "occhiello": "LO RUSSO E CIRIO AL LAVORO, OBIETTIVO ATP FINALS A TORINO FINO AL 2030",
-    "lead_preview": "Torino, 11 novembre Adolpho Milman Russo, il procuratore che ha venduto i migliori giocatori del tennis italiano negli u",
-    "tags": [
-      "vendita diritti atp torino",
-      "conti comune torino",
-      "affare cirio russo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bfaa5c8e76c7e1a0",
-    "slug": "apple-compra-la-bandiera-di-heumann-il-film-e-mark-bfaa5c8e76c7e1a0",
-    "title": "'Being Heumann', il siciliano le Metre firma la colonna sonora del film Apple",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T12:28:54.665938+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/8e9d9c852fb536631a77f4953076c299.jpg",
-    "occhiello": "'BEING HEUMANN', IL SICILIANO LE METRE FIRMA LA COLONNA SONORA DEL FILM APPLE",
-    "lead_preview": "La colonna sonora di *Being Heumann*, composta da Le Metre, riflette l’operazione di soft power di Apple: il film di Siâ",
-    "tags": [
-      "colonna sonora being heumann",
-      "le metre apple",
-      "soft power apple film"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "6b818c8d9bceed28",
     "slug": "capo-delegazione-russa-non-abbiamo-parlato-con-eur-6b818c8d9bceed28",
     "title": "Capo delegazione russa, 'non abbiamo parlato con europei, vittime di inganno'",
@@ -2066,21 +1536,6 @@
     "hero_eligible": true
   },
   {
-    "id": "2503e79f0e17f8fd",
-    "slug": "marina-abramovic-si-affronta-la-chiamata-a-resiste-2503e79f0e17f8fd",
-    "title": "'A Belgrado con Marina abramović', esce il libro di flavia capitani",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T11:56:04.337254+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/4e4b76d775ee3f043b13f2700b9c9c38.jpg",
-    "occhiello": "'A BELGRADO CON MARINA ABRAMOVIĆ', ESCE IL LIBRO DI FLAVIA CAPITANI",
-    "lead_preview": "MILANO, 20 NOVEMBRE Marina Abramović torna a Belgrado con una performance che non si limita a riempire un teatro: è un e",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "857ce82190dbf224",
     "slug": "anthropic-sulla-scia-di-microsoft-e-google-nuova-s-857ce82190dbf224",
     "title": "Anthropic sulla scia di Microsoft e Google. Nuova suite per ufficio a ridosso de",
@@ -2100,21 +1555,6 @@
     "hero_eligible": true
   },
   {
-    "id": "c5434bac84a15d05",
-    "slug": "istat-inflazione-al-33-e-pil-appena-09-la-ripresa-c5434bac84a15d05",
-    "title": "ISTAT, PIL 2026 +0,9%, +0,6% nel 2027",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-11T11:24:10.655705+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/5/31/40d80db3293e2075c30a1470b8584d3e.jpg",
-    "occhiello": "ISTAT, PIL 2026 +0,9%, +0,6% NEL 2027",
-    "lead_preview": "Roma, 11 novembre L’Istat ha appena tirato le somme: l’inflazione nel 2026 è stata del +3,3%, e nel 2027 dovrebbe scende",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "59c914da5555759c",
     "slug": "regione-marche-il-presidente-che-sa-tutto-ma-denun-59c914da5555759c",
     "title": "Inchiesta sisma, Acquaroli sentito come persona informata sui fatti",
@@ -2130,164 +1570,6 @@
     "hero_eligible": true
   },
   {
-    "id": "6a88bcc49472e859",
-    "slug": "antonello-da-messina-torna-a-messina-dopo-500-anni-6a88bcc49472e859",
-    "title": "Le mostre del weekend, da Leonardo ad Antonello da Messina",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-11T11:15:36.416178+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/6398152acf9554bb39decb0c6e613594.jpg",
-    "occhiello": "LE MOSTRE DEL WEEKEND, DA LEONARDO AD ANTONELLO DA MESSINA",
-    "lead_preview": "MESSINA, 11 novembre Antonello da Messina torna a casa dopo 500 anni. Il suo San Sebastiano — quello con la pelle che se",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "688a620a4a564ccb",
-    "slug": "morto-a-85-anni-stacy-keach-star-del-teatro-e-dell-688a620a4a564ccb",
-    "title": "Morto a 85 anni stacy Keach, star del teatro e della serie tv 'Mike Hammer'",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-11T11:05:54.351226+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2014/8/21/0abffbce4a024a41d35935d346522c42.jpg",
-    "occhiello": "MORTO A 85 ANNI STACY KEACH, STAR DEL TEATRO E DELLA SERIE TV 'MIKE HAMMER'",
-    "lead_preview": "LA MORTE DI STACY KEACH, L’ULTIMO DEI DURI DI HOLLYWOOD Milano, 11 novembre. Stacy Keach, attore leggendario del teatro ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "651c39b06c765f2c",
-    "slug": "tennis-pegula-umilia-kostyuk-la-ucraina-crolla-sot-651c39b06c765f2c",
-    "title": "Kostyuk-Pegula: highlights WTA Finals",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T10:50:02.251914+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ecc5db0ad30093613e8b7a32221847eef1ddda50/skysport/it/tennis/video/2026/11/11/1139145_1794391115775_thumb_494.0000001_1794391354530.jpg",
-    "occhiello": "KOSTYUK-PEGULA: HIGHLIGHTS WTA FINALS",
-    "lead_preview": "Indian Wells, 11 novembre Jessica Pegula ha chiuso i conti con Marta Kostyuk in due set, 6-2 e 7-5, nella seconda giorna",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "540a9f5dbe6a1cda",
-    "slug": "massini-non-ce-nessuna-ipotesi-di-commissariamento-540a9f5dbe6a1cda",
-    "title": "Massini 'non c'è nessuna ipotesi di commissariamento per L'Aia'",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-11T10:40:04.697906+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/11/b0a50bddc9dc038a4bd2dafe37a74ec9.jpg",
-    "occhiello": "MASSINI 'NON C'È NESSUNA IPOTESI DI COMMISSARIAMENTO PER L'AIA'",
-    "lead_preview": "Roma, 11 novembre Il presidente dell’Associazione Italiana Arbitri, Massimo Massini, ha dichiarato in una conferenza sta",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_cloudflare",
-    "slug": "disservizio-cloudflare",
-    "title": "Cloudflare riprende i servizi dopo 121 minuti d'interruzione",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-11T10:09:48.508734+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/cloudflare.com",
-    "occhiello": "CLOUDFLARE RIATTIVATO. DISERVIZIO RISOLTO",
-    "lead_preview": "Cloudflare ha ripristinato i servizi dopo 121 minuti di interruzione, confermando la stabilità del sistema.",
-    "tags": [
-      "cloudflare",
-      "interruzione",
-      "servizi"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5a5821c440957f1c",
-    "slug": "controllo-medico-per-lex-premier-pachistano-in-car-5a5821c440957f1c",
-    "title": "'Controllo medico per l'ex premier pachistano in carcere'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T10:03:16.670439+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/7/1b51d8f34b22e906364da22326fc64a1.jpg",
-    "occhiello": "'CONTROLLO MEDICO PER L'EX PREMIER PACHISTANO IN CARCERE'",
-    "lead_preview": "Khan dimesso dopo il controllo oculistico, ma il carcere resta la sua prigione politica Islamabad, 11 novembre. Imran Kh",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c8120e8ec943bc11",
-    "slug": "basket-tatum-annienta-lebron-e-davis-in-duello-fis-c8120e8ec943bc11",
-    "title": "Jayson Tatum annuncia una nuova era di dominance",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-11T09:59:47.048186+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/37d1a2cebeec13df4e42172a078624833f1f8f8c/skysport/it/nba/video/2026/11/11/1527482726933_nba-tatum-tranquillo_videostill_1_1794388313735.jpg",
-    "occhiello": "NBA, LA DOPPIA GIOCATA DI TATUM FA ESPLODERE IL TD GARDEN",
-    "lead_preview": "Boston, 11 novembre Jayson Tatum non ha mai avuto bisogno di spettacolarizzare. Il suo gioco è già una dichiarazione di ",
-    "tags": [
-      "nba",
-      "jayson tatum",
-      "boston celtics"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "5787d68c1372c31a",
-    "slug": "le-pmi-di-confindustria-crescere-o-morire-alla-pol-5787d68c1372c31a",
-    "title": "Fatale stallo economico, confermata incontrollata decrescita delle PMI",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-11T09:26:50.090086+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/21/66c5ea627722c581f7093a1120c502c6.jpg",
-    "occhiello": "LE PMI DI CONFINDUSTRIA: 'CRESCERE O MORIRE. ALLA POLITICA CHIEDIAMO UN PATTO'",
-    "lead_preview": "OCCHIELLO FAUSTO BIANCHI: \"LE PMI STANNO MORENDO, MA LA POLITICA NON LE ASCOLTA\" ROMA, 11 NOVEMBRE Fausto Bianchi, presi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2f6b6f03a620244e",
-    "slug": "bessent-si-nasconde-in-caserma-teheran-minaccia-la-2f6b6f03a620244e",
-    "title": "Bessent lascia casa e si rifugia in una base militare: la minaccia di Teheran",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T09:23:12.317951+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "STATI UNITI",
-    "lead_preview": "Washington, 11 novembre Scott Kenneth Homer Bessent, segretario al tesoro statunitense e architetto della strategia di \"",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "35d9f03d3b92f354",
-    "slug": "vivere-a-loni-respirando-polvere-e-smog-ogni-giorn-35d9f03d3b92f354",
-    "title": "Vivere a Loni, respirando polvere e smog ogni giorno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T08:36:43.140397+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://images.agi.it/pictures/agi/agi/2026/11/11/081229818-c7c84bce-6267-4d6d-af6e-f505ecde8810.jpg",
-    "occhiello": "VIVERE A LONI, RESPIRANDO POLVERE E SMOG OGNI GIORNO",
-    "lead_preview": "Loni, 11 novembre Kanwar Singh, cinquantacinquenne commerciante di sigarette, ingoia ogni giorno cinquanta grammi di pol",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "703af9c0da111173",
     "slug": "nba-highlights-portland-oklahoma-city-123-103-703af9c0da111173",
     "title": "NBA highlights: Portland-Oklahoma City 123-103",
@@ -2299,51 +1581,6 @@
     "image_url": "https://sport.sky.it/assets/images/e7e1933b1ea1c9e382cdda2f08c670eee92b6526/skysport/it/nba/video/2026/11/11/1139133_1794383629722_thumb_494.0000001_1794383696123.jpg",
     "occhiello": "NBA HIGHLIGHTS: PORTLAND-OKLAHOMA CITY 123-103",
     "lead_preview": "Portland, 11 novembre 2026 La NBA ha registrato un altro esempio di come i numeri di bilancio possano influenzare il cam",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c1c9f4c81e1a97d2",
-    "slug": "nba-tatum-e-brown-saluto-freddo-prima-della-partit-c1c9f4c81e1a97d2",
-    "title": "NBA, Tatum e Brown: saluto freddo prima della partita",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T08:18:53.173235+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/925a8c53d203b71148e8d212b99bc2ef0e19b6b9/skysport/it/nba/video/2026/11/11/1139130_1794381629516_thumb_494.0000001_1794381860668.jpg",
-    "occhiello": "NBA, TATUM E BROWN: SALUTO FREDDO PRIMA DELLA PARTITA",
-    "lead_preview": "Boston, 11 novembre Jayson Tatum e Jaylen Brown non si sono salutati. O meglio, non si sono salutati come si conviene a ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "be38ec0a33962593",
-    "slug": "pet-shop-boys-al-centro-del-campo-i-heat-usano-il-be38ec0a33962593",
-    "title": "NBA highlights: Utah-Miami 109-115",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-11T07:48:47.033058+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/d4c3abd2cdad004e0342d677c8a26e55294dc881/skysport/it/nba/video/2026/11/11/1139128_1794379593011_thumb_494.0000001_1794379639062.jpg",
-    "occhiello": "NBA HIGHLIGHTS: UTAH-MIAMI 109-115",
-    "lead_preview": "Miami, 11 novembre La NBA ha regalato ai tifosi un highlight che va oltre il basket: un tour de force musicale di 36 ann",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "791fcf8b476b697d",
-    "slug": "spread-a-103-punti-i-btp-rendono-il-433-e-il-debit-791fcf8b476b697d",
-    "title": "Lo spread tra BTP e Bund tedeschi apre in calo a 103,4 punti",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-11T07:47:19.930092+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2013/11/28/9c52bd37060eb552fcfa7b366b8d4116.jpg",
-    "occhiello": "LO SPREAD TRA BTP E BUND TEDESCHI APRE IN CALO A 103,4 PUNTI",
-    "lead_preview": "Roma, 11 novembre Il rendimento dei Btp italiani a dieci anni è salito di 3,9 punti percentuali, raggiungendo il 4,33% a",
     "tags": [],
     "hero_eligible": true
   },
@@ -2367,21 +1604,6 @@
     "hero_eligible": true
   },
   {
-    "id": "27fc7d820848a078",
-    "slug": "singapore-a-joo-chiat-incrocio-pedonale-diagonale-27fc7d820848a078",
-    "title": "Singapore, a Joo Chiat incrocio pedonale diagonale stile Shibuya",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T06:59:57.650902+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/11/6a3beae7e31213e8b515fad0c6e0d79d.jpg",
-    "occhiello": "SINGAPORE, A JOO CHIAT INCROCIO PEDONALE DIAGONALE STILE SHIBUYA",
-    "lead_preview": "Joo Chiat, 11 novembre La LTA di Singapore ha vietato la svolta a destra su Joo Chiat Road, trasformando un incrocio del",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "cb9d9c8b94d513f0",
     "slug": "nba-highlights-philadelphia-boston-101-123-cb9d9c8b94d513f0",
     "title": "NBA highlights: Philadelphia-Boston 101-123",
@@ -2393,21 +1615,6 @@
     "image_url": "https://sport.sky.it/assets/images/a541dfcf0949c9c6b2e952498665f574d8a177b6/skysport/it/nba/video/2026/11/11/1139121_1794373226801_thumb_494.0000001_1794375976817.jpg",
     "occhiello": "NBA HIGHLIGHTS: PHILADELPHIA-BOSTON 101-123",
     "lead_preview": "Philadelphia, 11 novembre I Philadelphia 76ers hanno perso contro i Boston Celtics con il punteggio di 101-123, una scon",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "02b3f10eec090a4b",
-    "slug": "ukraine-captures-first-indonesian-prisoner-of-war-02b3f10eec090a4b",
-    "title": "Ucraina, catturato il primo prigioniero di guerra indonesiano: reclutato con false promesse",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-11T06:10:08.930395+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "GUERRA IN UCRAINA",
-    "lead_preview": "Kyiv, 11 novembre. L’Ucraina ha catturato il primo prigioniero di guerra indonesiano, un cittadino di 49 anni originario",
     "tags": [],
     "hero_eligible": true
   },
@@ -2427,70 +1634,6 @@
     "hero_eligible": true
   },
   {
-    "id": "9fe3b14b3d084899",
-    "slug": "spionaggio-soldato-usa-arrestato-in-uk-per-aver-ve-9fe3b14b3d084899",
-    "title": "Soldato USA arrestato in UK: spia per la Russia?",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T05:35:27.713970+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/10/1794344700-GettyImages-91810467.jpg",
-    "occhiello": "UN SOLDATO DELL’ESERCITO STATUNITENSE È STATO ARRESTATO NEL REGNO UNITO CON L’AC",
-    "lead_preview": "Gloucester, 10 novembre Un soldato statunitense di 41 anni, di stanza presso la base di Imjin Barracks nel Gloucestershi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7d9f1246103af16a",
-    "slug": "serie-c-i-gol-piu-belli-della-13-giornata-7d9f1246103af16a",
-    "title": "Serie C: i gol più belli della 13^ giornata",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-11T04:27:26.453925+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/701f151c54e180ae63022e18928a48436295be2a/skysport/it/calcio/serie-c/video/2026/11/11/1139115_1794346978563_thumb_494.0000001_1794360119792.jpg",
-    "occhiello": "SERIE C: I GOL PIÙ BELLI DELLA 13^ GIORNATA",
-    "lead_preview": "Serie C, 11 novembre. La 13ª giornata di Lega Pro ha regalato al campionato un colpo di scena che non ha nulla a che far",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7ba9be91264b57d1",
-    "slug": "ust-luga-in-fiamme-il-40-del-greggio-russo-verso-l-7ba9be91264b57d1",
-    "title": "Mosca, 'droni causano incendio in porto petrolifero sul Baltico'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T04:26:25.937189+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/18/4a68ffb9226cf1a9f2c03578b4e18c53.jpg",
-    "occhiello": "MOSCA, 'DRONI CAUSANO INCENDIO IN PORTO PETROLIFERO SUL BALTICO'",
-    "lead_preview": "Ust-Luga, 11 novembre. Un incendio di proporzioni industriali ha devastato lo scalo petrolifero di Ust-Luga, principale ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f1d10826db7159e0",
-    "slug": "bukele-piazza-1200-soldati-in-rd-per-addestramenti-f1d10826db7159e0",
-    "title": "Repubblica Dominicana, Abinader appoggia Bukele ma chiede più coordinamento ad h",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T03:28:45.117155+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/54cd85fa871c77073504e0f52293c173.jpg",
-    "occhiello": "REPUBBLICA DOMINICANA, ABINADER APPOGGIA BUKELE MA CHIEDE PIÙ COORDINAMENTO AD H",
-    "lead_preview": "Santo Domingo, 11 novembre Il presidente dominicano Luis Abinader ha annunciato oggi un accordo logistico con Nayib Buke",
-    "tags": [
-      "repubblica dominicana",
-      "bukele",
-      "abinader"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "6d2eaec76ffa0a93",
     "slug": "il-papa-incontra-una-figlia-e-nipote-di-desapareci-6d2eaec76ffa0a93",
     "title": "++ Il Papa incontra una figlia e nipote di desaparecidos ++",
@@ -2506,59 +1649,6 @@
       "desaparecidos argentina",
       "papa leone xiv",
       "castel gandolfo visita"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f754344baaa4aa0e",
-    "slug": "ocasio-cortez-lancia-nuovo-impeachment-contro-hegs-f754344baaa4aa0e",
-    "title": "Ocasio-Cortez, 'ripresenteremo l'impeachment contro hegset nel nuovo Congresso'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-11T00:37:24.011332+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/2/14/609a35a77c43bf785e80eacc3df391a6.jpg",
-    "occhiello": "OCASIO-CORTEZ, 'RIPRESENTEREMO L'IMPEACHMENT CONTRO HEGSET NEL NUOVO CONGRESSO'",
-    "lead_preview": "Ocasio-Cortez, \"ripresenteremo l’impeachment\" contro Hegseth: il Congresso che non vuole Washington, 11 novembre. La dep",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "ec978e835a9945ac",
-    "slug": "lukashenko-dichiara-la-bielorussia-testa-i-confini-ec978e835a9945ac",
-    "title": "Media, minaccia a spazio aereo baltici dalla Bielorussia, in volo caccia NATO",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-11T00:35:02.775367+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/11/12/8442a1c9481293b1b3b49f4d918748db.jpg",
-    "occhiello": "MEDIA, MINACCIA A SPAZIO AEREO BALTICI DALLA BIELORUSSIA, IN VOLO CACCIA NATO",
-    "lead_preview": "MAIUSCOLO Bielorussia, caccia Nato in volo d’allerta: il presidente Lukashenko minaccia lo spazio aereo baltico mentre M",
-    "tags": [
-      "minaccia spazio aereo",
-      "caccia nato",
-      "presidenza lukashenko"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "monitor_satispay",
-    "slug": "disservizio-satispay",
-    "title": "Restaura il servizio Satispay dopo 26 minuti di interruzione",
-    "section": "tecnologia",
-    "priority": 5,
-    "journalist_firma": "Giulia Serra",
-    "published_at": "2026-11-10T22:04:40.360983+00:00",
-    "image_type": "image",
-    "image_url": "https://logo.clearbit.com/satispay.com",
-    "occhiello": "SATISPAY RIAPRE DOPO 26 MINUTI",
-    "lead_preview": "Satispay ha ripristinato la piena operatività della piattaforma dopo un'interruzione dei servizi durata 26 minuti. Il si",
-    "tags": [
-      "servizi finanziari",
-      "interruzione sistema",
-      "tecnologia"
     ],
     "hero_eligible": true
   },
@@ -2627,73 +1717,6 @@
     "hero_eligible": true
   },
   {
-    "id": "4cafb944ab522d7d",
-    "slug": "intesa-sanpaolo-ingoia-monte-dei-paschi-via-allopa-4cafb944ab522d7d",
-    "title": "Intesa Sanpaolo lancia l’assalto a MPS: 2,9 miliardi di sinergie entro il",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T20:41:56.469079+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/7/58c42c74bb0b9fe9d0c9949399dc2bb4.jpg",
-    "occhiello": "CONSOB DA IL VIA LIBERA A MAXI OPERAZIONE BANCARIA",
-    "lead_preview": "Roma, 10 novembre. Intesa Sanpaolo ha reso pubblici il prospetto e il documento d'offerta per l'Offerta Pubblica di Acqu",
-    "tags": [
-      "opas intesa mps",
-      "consob approva fusione",
-      "merger bancario 2023"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "50fd4d7469ba9c05",
-    "slug": "f1-academy-calendario-2027-gare-date-e-novita-foto-50fd4d7469ba9c05",
-    "title": "F1 Academy, calendario 2027: gare, date e novità. Foto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-10T17:20:11.830304+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/3705f6836a1ed29b3c1ea8d6ecacb9c53af0a883/skysport/it/motori/formula-1/2026/11/10/f1-academy-calendario-2027/calendario_f1_academy_2027.jpg",
-    "occhiello": "F1 ACADEMY, CALENDARIO 2027: GARE, DATE E NOVITÀ. FOTO",
-    "lead_preview": "OCCHIELLO L'HUNGARORING ENTRA IN F1 ACADEMY: IL MOTORSPORT INVESTE SU PILOTI DONNA A COSTO ZERO PER LA FIA Roma, 10 nove",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2839d0dd8b617418",
-    "slug": "basta-chiamate-moleste-il-parlamento-limita-a-10-i-2839d0dd8b617418",
-    "title": "Il Parlamento approva emendamenti per frenare i telefonini aggressionivi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-10T16:50:42.219148+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2024/1/3/a21a323c6b999f219f99b4dcdc284961.jpg",
-    "occhiello": "SCONTI LIBERI ANCHE PRIMA DEI SALDI, SPINTA BIPARTISAN IN PARLAMENTO",
-    "lead_preview": "TELEMARKETING: 40 MILIONI DI ITALIANI VISATI DA CHIAMATE ABUSIVE. IL PARLAMENTO STRETTE LE MAGLIE Roma, 10 novembre. Il ",
-    "tags": [
-      "ddl concorrenza",
-      "telemarketing abusivo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "40f7fe85d203008a",
-    "slug": "hera-paga-37-milioni-per-gigas-rete-il-gas-verones-40f7fe85d203008a",
-    "title": "Hera acquisisce Gigas Rete per crescere nel Nord est",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T16:44:38.412620+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/11/Immagini/Ritagli/Imagoeconomica_2770568-U41204832415ZsO-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-    "occhiello": "HERA ACQUISISCE GIGAS RETE PER CRESCERE NEL NORD EST",
-    "lead_preview": "Hera acquisisce Gigas Rete per 37 milioni nel Veronese Hera, tramite la controllata AcegasApsAmga, ha sottoscritto un ac",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "2b2f9f3b9bc1cb6d",
     "slug": "serie-a-in-tilt-da-bonny-a-kalulu-la-corsa-contro-2b2f9f3b9bc1cb6d",
     "title": "Verdeggia sofisticato: Ausilio denota saldissimo rispetto a la Lenteggiare Mattutina",
@@ -2713,25 +1736,6 @@
     "hero_eligible": true
   },
   {
-    "id": "dd6934874978686a",
-    "slug": "serie-a-le-squadre-che-fanno-piu-gol-con-meno-tiri-dd6934874978686a",
-    "title": "Serie A, le squadre che fanno più gol con meno tiri in porta. Classifica",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T16:34:15.399437+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/57249f9f307b5e9c533f0c2c4cbece84ce4d8a75/skysport/it/calcio/serie-a/serie-a-2026-2027-squadre-gol-tiri-in-porta-classifica/ipa_cisse_milan_gol.jpg",
-    "occhiello": "SERIE A, LE SQUADRE CHE FANNO PIÙ GOL CON MENO TIRI IN PORTA. CLASSIFICA",
-    "lead_preview": "Milan e Roma prime nella classifica dei gol sprecati: il calcio italiano premia l'efficienza, non l'impegno Roma, 10 nov",
-    "tags": [
-      "serie a efficienza gol",
-      "classifica gol sprecati",
-      "milan e roma calcio"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "6e5ba00d9067a7b4",
     "slug": "i-club-della-b-votano-il-piano-di-salvataggio-15-m-6e5ba00d9067a7b4",
     "title": "Lega B: Vigorito (ex Calciopoli) prende i Conti e nasconde un buco da 30 milioni",
@@ -2747,196 +1751,6 @@
       "calciopoli vigorito",
       "lega b budget 2026",
       "debiti lega b 30 milioni"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "64eedea541aac250",
-    "slug": "apple-taglia-heumann-via-nixon-e-sciopero-fame-res-64eedea541aac250",
-    "title": "Apple finanzia il biopic che cancella la storia del movimento per i diritti dei disabili",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-10T16:28:24.621561+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/59ab4655f2800d74b438244176c831b5.jpg",
-    "occhiello": "APPLE FINANZIA IL BIOPIC CHE CANCELLA LA STORIA DEL MOVIMENTO PER I DIRITTI DEI DISABILI",
-    "lead_preview": "Roma, 10 novembre 2026. Apple TV+ lancia Being Heumann, biopic sulla pioniera Judith Heumann, ma taglia ogni riferimento",
-    "tags": [
-      "biopic being heumann",
-      "diritti disabili"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "243f01fa4002e70c",
-    "slug": "napoli-manda-13-tesori-di-san-gennaro-a-new-york-l-243f01fa4002e70c",
-    "title": "Tredici opere del Tesoro di San Gennaro volano oltreoceano",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-10T16:17:19.046454+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/5074771ef29c6b33948e034b4a3f906f.jpg",
-    "occhiello": "TREDICI OPERE DEL TESORO DI SAN GENNARO VOLANO OLTREOCEANO",
-    "lead_preview": "Napoli, 10 novembre 2026. Tredici opere appartenenti al Tesoro di San Gennaro lasciano la sede partenopea per essere esp",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8a202acfe1632efd",
-    "slug": "il-ministero-della-cultura-patrocina-la-mostra-su-8a202acfe1632efd",
-    "title": "Il Ministero della Cultura patrocina il centenario di Pino Rauti",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-10T16:03:27.135454+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/10/153241612-d79dc3b1-cb07-4039-9e08-bd8036474cb0.jpg",
-    "occhiello": "IL MINISTERO DELLA CULTURA PATROCINA IL CENTENARIO DI PINO RAUTI",
-    "lead_preview": "Roma, 10 novembre 2026. Il Ministero della Cultura ha concesso il patrocinio ufficiale a una mostra celebrativa dedicata",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "765c01705fa251d0",
-    "slug": "nvidia-perde-43-il-crollo-dopo-la-confessione-di-h-765c01705fa251d0",
-    "title": "Nvidia ancora in calo a Wall Street, cede il 4,3%",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T15:55:16.509991+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/afe1accbad06d349c594aa0ceb167986.jpg",
-    "occhiello": "NVIDIA ANCORA IN CALO A WALL STREET, CEDE IL 4,3%",
-    "lead_preview": "Wall Street, 10 novembre Nvidia, colosso californiano della tecnologia che controlla oltre il 70% del mercato globale de",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1aaf8d5f55f956cf",
-    "slug": "goulding-a-milano-il-nuovo-album-fa-eco-al-segnale-1aaf8d5f55f956cf",
-    "title": "Ellie Goulding a Milano: il suo ‘Wow! Signal’ è solo greenwashing con microfoni accesi",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-10T15:49:10.680508+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/4/24/4d5ccbe91a1089b498a10026106fcaf8.jpg",
-    "occhiello": "I MUSE E ELLIE GOULDING INSIEME NEL NUOVO SINGOLO 'HUSH'",
-    "lead_preview": "ELIE GOULDING A MILANO: IL \"WOW! SIGNAL\" TRA POLITICA DELLO SPETTACOLO E AMBIENTALISMO DI FACCIATA Milano, 20 novembre 2",
-    "tags": [
-      "ellie goulding milano 2026",
-      "wow signal greenwashing",
-      "muse ellie goulding hush"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d9cc12d41311cb89",
-    "slug": "danielle-alvarez-e-la-favorita-per-diventare-la-nu-d9cc12d41311cb89",
-    "title": "Danielle Alvarez, sondaggio di strategia americana",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-10T15:48:52.786419+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it",
-    "occhiello": "'DANIELLE ALVAREZ È LA FAVORITA PER DIVENTARE LA NUOVA PORTAVOCE DELLA CASA BIAN",
-    "lead_preview": "Washington, 10 novembre La piattaforma di sondaggi Kelshi ha appena pubblicato i dati che nessuno a Washington si aspett",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "53184fccd584d3fe",
-    "slug": "riv-x-debutta-in-italia-acquista-un-orologio-con-s-53184fccd584d3fe",
-    "title": "Riv-x debutta in Italia, acquista un orologio con scambio tra stablecoin ed euro",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T15:38:02.702556+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/8373c095ce14d9fad2ac8652bca86575.jpg",
-    "occhiello": "RIV-X DEBUTTA IN ITALIA, ACQUISTA UN OROLOGIO CON SCAMBIO TRA STABLECOIN ED EURO",
-    "lead_preview": "Brescia, 10 novembre Il primo orologio acquistato in Italia con una stablecoin è stato un Fasoli, gioielleria storica di",
-    "tags": [
-      "riv-x stablecoin",
-      "acquisto orologio brescia",
-      "criptovalute fisiche"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "f8ae15d876c2ac90",
-    "slug": "gruppo-sella-utile-9-mesi-sale-a-204-milioni-cresc-f8ae15d876c2ac90",
-    "title": "Gruppo Sella, utile 9 mesi sale a 204 milioni, crescono raccolta e impieghi",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-10T15:35:32.984975+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2021/8/10/d64e22b903bf4915ed014ad51317a581.jpg",
-    "occhiello": "GRUPPO SELLA, UTILE 9 MESI SALE A 204 MILIONI, CRESCONO RACCOLTA E IMPIEGHI",
-    "lead_preview": "Milano, 10 novembre. Il Gruppo Sella, banca che ha costruito il proprio mito sugli sport invernali e sulle valli alpine,",
-    "tags": [
-      "gruppo sella utile 2024",
-      "risultati trimestrali banca",
-      "crescita finanziaria sella"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8eeff11423be3076",
-    "slug": "tennis-sinner-paga-cahill-il-15-dei-premi-vinti-ec-8eeff11423be3076",
-    "title": "Tennis: Sinner sfonda i 25 mln, il coach Cahill incassa bonus del 15%",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-10T15:32:38.842071+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/577e6bbe1a7e7f63f0bd6835a3b6dc67f5c81c2b/skysport/it/tennis/2026/11/10/sinner-darren-cahill-video-conferenza-oggi/sinner-cahill-ansa.jpeg",
-    "occhiello": "SINNER: \"DARREN CAHILL UN SECONDO PAPÀ, APPENA MI SERVE QUALCOSA SO CHE POSSO CH",
-    "lead_preview": "Milan, 10 novembre Jannik Sinner ha lasciato Darren Cahill dopo cinque anni di collaborazione, e la conferenza stampa di",
-    "tags": [
-      "sinner cahill",
-      "tennis sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "0818e4794a38fbe2",
-    "slug": "dal-milan-al-como-il-difensore-azzurro-spiega-perc-0818e4794a38fbe2",
-    "title": "Calcio: Liberali 19 anni esulta per la chiamata, Totti e Mancini come guida",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-10T15:22:13.306014+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/872e65b3e1181e2cdc46e89f79e106069bafbe30/skysport/it/calcio/nations-league/2026/11/10/italia-francia-liberali-conferenza-nations-league/getty_liberali_italia.jpg",
-    "occhiello": "ITALIA-FRANCIA, LIBERALI: \"LA SETTIMANA PIÙ BELLA DELLA MIA VITA. MILAN? ADDIO N",
-    "lead_preview": "Mattia Liberali, 19 anni, ha dichiarato in occasione della sua prima convocazione in Nazionale che la settimana appena t",
-    "tags": [
-      "nazionale italiana",
-      "mattia liberali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "50a3ee1e2ed023d6",
-    "slug": "linflazione-sale-a-ottobre-negli-usa-oltre-le-atte-50a3ee1e2ed023d6",
-    "title": "L'inflazione sale a ottobre negli USA oltre le attese, +0,4% mensile",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-10T15:18:15.674259+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/8/29/dc36902d161b2f097fce500c2f4a55dc.jpg",
-    "occhiello": "L'INFLAZIONE SALE A OTTOBRE NEGLI USA OLTRE LE ATTESE, +0,4% MENSILE",
-    "lead_preview": "MAIUSCOLO L’INFLAZIONE USA SALTA A +0,4%: IL GOVERNO DI BIDEN PAGA IL CONTO DELLE SUA SCELTE Roma, 10 novembre. L’inflaz",
-    "tags": [
-      "inflazione usa ottobre 2023",
-      "politica economica biden",
-      "dati mensili inflazione"
     ],
     "hero_eligible": true
   },
@@ -2986,54 +1800,6 @@
     "hero_eligible": true
   },
   {
-    "id": "1c2aa77b814cc5bb",
-    "slug": "economia-americana-inflazione-rallentata-ma-prezzi-1c2aa77b814cc5bb",
-    "title": "Usa, l'inflazione rallenta allo 0,4% a ottobre grazie al calo della benzina",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T14:36:24.702339+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "ECONOMIA USA",
-    "lead_preview": "Washington, 10 novembre — L’inflazione negli Stati Uniti è aumentata dello 0,4% da settembre a ottobre, rallentando risp",
-    "tags": [
-      "inflazione usa",
-      "elezioni usa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b3cf95e3bbc70866",
-    "slug": "torinofilmlab-a-torino-350-professionisti-da-tutto-b3cf95e3bbc70866",
-    "title": "TorinoFilmLab, a Torino 350 professionisti da tutto il mondo",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-10T13:59:49.052736+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/ce028295c68295c3aba48d1fd56e11a9.jpg",
-    "occhiello": "TORINOFILMLAB, A TORINO 350 PROFESSIONISTI DA TUTTO IL MONDO",
-    "lead_preview": "Torino ospita il TorinoFilmLab, laboratorio che riunisce 350 professionisti per presentare 50 progetti audiovisivi in ce",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b73abe4bf9c86fae",
-    "slug": "avventure-inaspettate-e-complicita-di-coppia-lital-b73abe4bf9c86fae",
-    "title": "Avventure inaspettate e complicità di coppia, 'l'Italia per due' di caressa e pa",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-10T13:50:26.837195+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/a76270b5c7201f00a1082c0e48637af0.jpg",
-    "occhiello": "AVVENTURE INASPETTATE E COMPLICITÀ DI COPPIA, 'L'ITALIA PER DUE' DI CARESSA E PA",
-    "lead_preview": "TV8 Lancia \"L'Italia per due\": Il tour romantico che nasconde un business già visto Roma, 10 novembre 2026 — Da lunedì 1",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "924712d448cade7a",
     "slug": "forbes-paul-mccartney-entra-nel-club-dei-miliardar-924712d448cade7a",
     "title": "McCartney miliardo: 1,2 miliardi di dollari e l'ombra dei Beatles",
@@ -3068,36 +1834,6 @@
     "hero_eligible": true
   },
   {
-    "id": "49a245564157b52a",
-    "slug": "madame-premiata-ai-billboard-lindustria-musicale-r-49a245564157b52a",
-    "title": "Madame premiata ai Billboard ma la disparità resta sistemica",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-10T13:41:35.325465+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/151efd8a2492df81916df3aa7c8fa3ee.jpg",
-    "occhiello": "MADAME PREMIATA AI BILLBOARD MA LA DISPARITÀ RESTA SISTEMICA",
-    "lead_preview": "Roma, 10 novembre 2026. La cantautrice Madame ha ottenuto un riconoscimento ai Billboard Women in Music, evento che cele",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "07a0d7b4db41801d",
-    "slug": "diego-pleuteri-trionfa-al-premio-anima-il-regista-07a0d7b4db41801d",
-    "title": "Diego Pleuteri riceve il premio Anima per la drammaturgia 2026",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-10T13:38:31.241641+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/6adcb53a1c4f9a4e02e764fc8b9761cb.jpg",
-    "occhiello": "DIEGO PLEUTERI RICEVE IL PREMIO ANIMA PER LA DRAMMATURGIA 2026",
-    "lead_preview": "Torino, 10 novembre. Diego Pleuteri, direttore artistico Junior del Teatro Stabile di Torino, è stato insignito della ve",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "685d5302b7ab5de7",
     "slug": "inter-tre-titoli-fuori-per-infortuni-attacco-in-gi-685d5302b7ab5de7",
     "title": "Inter: **Tre titoli fuori per infortuni, attacco in ginocchio e zero piani di ripiego**",
@@ -3113,25 +1849,6 @@
       "infortuni inter",
       "lautaro martínez infortunio",
       "crisi rosa nerazzurra"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ca16a734cb2cef40",
-    "slug": "sky-acquisti-i-diritti-per-king-e-conqueror-ca16a734cb2cef40",
-    "title": "Sky spende 10 milioni per King & Conqueror: prezzo stratosferico per un dramma",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-10T13:23:21.341247+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/9da6e7aec990751f25bb7a1b682dfac2.jpg",
-    "occhiello": "KING & CONQUEROR, SU SKY IL DRAMMA STORICO CON JAMES NORTON E NIKOLAJ COSTER-WAL",
-    "lead_preview": "Roma, 15 dicembre. Sky ha acquistato i diritti per King & Conqueror, il dramma storico con James Norton e Nikolaj Coster",
-    "tags": [
-      "dramma storico",
-      "televisione",
-      "prezzo"
     ],
     "hero_eligible": true
   },
@@ -3166,54 +1883,6 @@
     "hero_eligible": true
   },
   {
-    "id": "ad90d9f0dba9786a",
-    "slug": "rugby-incontro-cruciale-tra-litalia-e-largentina-i-ad90d9f0dba9786a",
-    "title": "Sky sposta il focus dal Rugby ai suoi abbonamenti: l’‘offerta speciale’ che fa dimenticare il derby",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T12:21:19.312112+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/15eed7cf8c4aa3c3335e7b1edd1755516798c946/skysport/it/rugby/video/2026/11/10/1138940_1794306636891_thumb_494.0000001_1794306702555.jpg",
-    "occhiello": "LA PIATTAFORMA ANNUNCIA I NUMERI DEL MATCH TRA AZZURRI E ARGENTINI",
-    "lead_preview": "Roma, 10 novembre 2026. La programmazione di Sky Sport per il Rugby diffonde i dati e i dettagli sul confronto tra la Na",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f2bf3a30e0d80d3e",
-    "slug": "blocchi-tecnici-e-cookie-sul-sito-ansa-f2bf3a30e0d80d3e",
-    "title": "ANSA blocca la lettura: dietro il paywall da 16,99 euro si nasconde zero sport",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T12:18:18.184298+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/12/c2cfac0715750eef31a337dfa3c6195f.jpg",
-    "occhiello": "BLOCCHI TECNICI E COOKIE SUL SITO ANSA",
-    "lead_preview": "Roma, 10 novembre 2026. L'agenzia ANSA pubblica una pagina web dominata da script di precaricamento e banner per la gest",
-    "tags": [
-      "paywall ansa",
-      "blocco tecnico ansa"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cdd1237739807d51",
-    "slug": "calcio-arbitri-nel-caos-il-presidente-sfida-i-ribe-cdd1237739807d51",
-    "title": "Il voto arbitrale diventa un caso da tribunale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T12:14:01.106212+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/8/11/b0a50bddc9dc038a4bd2dafe37a74ec9.jpg",
-    "occhiello": "IL VOTO ARBITRALE DIVENTA UN CASO DA TRIBUNALE",
-    "lead_preview": "Roma, 10 novembre 2026. Il Presidente dell'Associazione Italiana Arbitri interviene sulla gestione associativa e sul ris",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "11515be78269315a",
     "slug": "jannik-sinner-segue-una-vita-di-pericolo-e-impegno-11515be78269315a",
     "title": "Tennis: Sinner annuncia stop tecnico e torna a allenarsi solo per l'Australian Open",
@@ -3232,36 +1901,6 @@
     "hero_eligible": true
   },
   {
-    "id": "7eb73af821e1e981",
-    "slug": "billy-joel-rilancia-turnstiles-54-inediti-e-film-l-7eb73af821e1e981",
-    "title": "Cinquanta anni di Turnstiles nel cofanetto di billy Joel",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-10T12:09:13.567354+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/10/eb47dfc84f8839699d79d9180681113c.jpg",
-    "occhiello": "CINQUANTA ANNI DI TURNSTILES NEL COFANETTO DI BILLY JOEL",
-    "lead_preview": "Roma, 10 novembre 2026. Esce a dicembre il cofanetto celebrativo per i cinquant'anni di Turnstiles, il quarto album in s",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "bd6f7c9c1c2cea05",
-    "slug": "ansa-oscura-ogni-notizia-e-spara-solo-cookie-e-abb-bd6f7c9c1c2cea05",
-    "title": "L'informativa sui Cookie di ANSA oscura il resto",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-10T12:05:59.223784+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2016/5/7/394f763d8192fb8b85d5e45774cf6a0e.jpg",
-    "occhiello": "L'INFORMATIVA SUI COOKIE DI ANSA OSCURA IL RESTO",
-    "lead_preview": "Roma, 10 novembre 2026. La redazione di Ansa.it pubblica esclusivamente le Condizioni Generali di Servizio, la Cookie Po",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "0ce31c1552f7bb84",
     "slug": "calcio-la-serie-a-lancia-il-pallone-giallo-fluo-pu-0ce31c1552f7bb84",
     "title": "Calcio: la Serie A lancia il pallone giallo fluo Puma per l'inverno in campo",
@@ -3276,23 +1915,6 @@
     "tags": [
       "serie a",
       "puma pallone invernale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a0289dc23230c04c",
-    "slug": "tennis-sinner-punta-ai-prossimi-dieci-anni-in-camp-a0289dc23230c04c",
-    "title": "Tennis: Sinner punta ai prossimi dieci anni in campo e svela i messaggi dei rivali",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T12:01:32.151370+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/23c86526627c116436816fcf52aa0ad285191510/skysport/it/tennis/video/2026/11/10/1138957_1794309048103_thumb_494.0000001_1794309328348.jpg",
-    "occhiello": "TENNIS, LE VOCI DEL CIRCOLO E IL RESTO DEL MONDO",
-    "lead_preview": "Milano, 10 novembre 2026. Jannik Sinner rompe il silenzio in una fitta Serie di interventi mediatici pubblicati il 10 no",
-    "tags": [
-      "jannik sinner"
     ],
     "hero_eligible": true
   },
@@ -3330,24 +1952,6 @@
       "jojo moyes",
       "multa ue",
       "sistema digitale ue"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "6efdd36885ef4a95",
-    "slug": "energia-verde-a-meta-prezzo-lamministratore-delega-6efdd36885ef4a95",
-    "title": "Energia verde a metà prezzo: l'amministratore delegato A2A Mazzoncini smaschera il PUN",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T11:30:41.936386+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/27/c9cd64cb38ae4b18c927d7b86dd7ece1.jpg",
-    "occhiello": "ENERGIA RINNOVABILE VENDUTA A METÀ PREZZO",
-    "lead_preview": "Milano, 10 novembre 2026. L'amministratore delegato di Gruppo A2A Renato Mazzoncini interviene sui mercati energetici di",
-    "tags": [
-      "mercato energetico a2a",
-      "prezzo pun mazzoncini"
     ],
     "hero_eligible": true
   },
@@ -3403,24 +2007,6 @@
     "hero_eligible": true
   },
   {
-    "id": "d0bf387a1e8e176f",
-    "slug": "tennis-andreeva-batte-svitolina-alle-wta-finals-do-d0bf387a1e8e176f",
-    "title": "Tennis: Andreeva sfida Svitolina alle WTA Finals: il duello sulle teste di serie",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T10:54:58.791283+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a2db7395b31f4bfa2cb0b63bec9d464e7d2d4fc1/skysport/it/tennis/video/2026/11/10/1138934_1794305889333_thumb_494.0000001_1794305945692.jpg",
-    "occhiello": "ANDREEVA E SVITOLINA SI SFIDANO ALLE WTA FINALS",
-    "lead_preview": "Roma, 10 novembre.",
-    "tags": [
-      "wta finals",
-      "andreeva svitolina"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "fc5797dca2ccfda9",
     "slug": "trump-dichiara-chiusa-la-guerra-in-iran-e-fa-croll-fc5797dca2ccfda9",
     "title": "Principi economici uscenti, trionfano sul petrolio pesante",
@@ -3473,21 +2059,6 @@
       "tom brady",
       "birmingham city"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "96c104251da922bf",
-    "slug": "le-banche-asfaltano-la-manovra-rottigni-accusa-il-96c104251da922bf",
-    "title": "Le banche asfaltano la Manovra: Rottigni accusa il governo sui crediti fiscali",
-    "section": "economia",
-    "priority": 7,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T10:37:57.886580+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2014/1/21/6baa3a054e3306d2967d798ea9a71b30.jpg",
-    "occhiello": "RISTRUTTURAZIONE FORZOSA DEL DEBITO DELLO STATO SUI CREDITI FISCALI",
-    "lead_preview": "Roma, 10 novembre 2026. L'Associazione Bancaria Italiana, tramite il direttore generale Marco Rottigni, denuncia gli eff",
-    "tags": [],
     "hero_eligible": true
   },
   {
@@ -3554,57 +2125,6 @@
     "hero_eligible": true
   },
   {
-    "id": "69f434c245dce778",
-    "slug": "terremoto-cosenza-scossa-di-35-epicentro-a-cerisan-69f434c245dce778",
-    "title": "Cosenza trema: Scossa di magnitudo 3.5 a Cerisano, cittadini in strada",
-    "section": "cronaca",
-    "priority": 5,
-    "journalist_firma": "Chiara Esposito",
-    "published_at": "2026-11-10T09:21:42.389303+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/10/100744318-6333a5f1-119f-48f2-8fed-94472a46e1b3.jpg",
-    "occhiello": "TERREMOTO NEL COSENTINO: PAURA MA NESSUN DANNO",
-    "lead_preview": "Cosenza, 10 novembre. Una Scossa di terremoto di magnitudo 3.5 ha interessato la provincia di Cosenza alle 8.38 di quest",
-    "tags": [
-      "terremoto cosenza",
-      "scossa cerisano"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "78794e8c9eb4b28f",
-    "slug": "calcio-il-manchester-united-esonera-il-tecnico-e-p-78794e8c9eb4b28f",
-    "title": "Il Manchester United prepara il licenziamento e punta su Pochettino",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T09:19:49.709408+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/e90c018a1e1d4cba2716fc50bd3340f0.jpg",
-    "occhiello": "MANCHESTER VALUTA IL RIBALTONE: CARRICK VERSO L'ESONERO E POCHETTINO IN POLE",
-    "lead_preview": "Roma, 10 novembre 2026. La dirigenza del Manchester United valuta ufficialmente l'esonero dell'allenatore e individua in",
-    "tags": [
-      "esonero carrick",
-      "pochettino manchester united"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4cc2f30b457f3f2e",
-    "slug": "siti-di-informazione-bloccati-da-cookie-e-paywall-4cc2f30b457f3f2e",
-    "title": "Siti di informazione bloccati da Cookie e paywall",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-10T09:05:11.914774+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/993570fc1181492275a0d468246e25f0.jpg",
-    "occhiello": "SITI DI INFORMAZIONE BLOCCATI DA COOKIE E PAYWALL",
-    "lead_preview": "Roma, 10 novembre 2026. L'accesso ai contenuti online dell'Agenzia Nazionale Stampa Associata risulta interamente subord",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "3c95e97b9103c764",
     "slug": "al-alighieri-va-in-scena-mozart-dantone-e-muti-fir-3c95e97b9103c764",
     "title": "Chiara Muti e Dantone risvegliano l'ultimo anno di Mozart a Ravenna",
@@ -3619,40 +2139,6 @@
     "tags": [
       "ravenna festival",
       "mozart 1791"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1eafc76a04cd21de",
-    "slug": "pallanuoto-brescia-e-pro-recco-in-trasferta-staser-1eafc76a04cd21de",
-    "title": "Champions di pallanuoto: Brescia e Pro Lecco in trasferta",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-10T08:48:01.693099+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/5589ca04d6096a565e4eba1bb0a3f3b01c76d507/skysport/it/altri-sport/nuoto/2026/11/10/pallanuoto-champions-league-brescia-pro-recco-su-sky/pro_recco_ipa.jpg",
-    "occhiello": "CHAMPIONS DI PALLANUOTO: BRESCIA E PRO LECCO IN TRASFERTA",
-    "lead_preview": "Roma, 10 novembre 2026. Doppio impegno esterno per le formazioni italiane nella terza giornata della fase a gironi di Ch",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0a54c94cf1294df5",
-    "slug": "randstad-la-grande-scoperta-nelle-nuove-impiegate-0a54c94cf1294df5",
-    "title": "Mille assunzioni dall'estero nel 2027 per le imprese italiane",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T08:36:34.750845+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/10/Immagini/Ritagli/Assunzione-lavoratori-stranieri-U26200617451cxg-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-    "occhiello": "MILLE ASSUNZIONI DALL'ESTERO NEL 2027 PER LE IMPRESE ITALIANE",
-    "lead_preview": "Milano, 10 novembre 2026. La multinazionale Randstad punta a quota mille inserimenti nel 2027 di lavoratori provenienti ",
-    "tags": [
-      "assunzioni estero 2027",
-      "randstad migrazione lavoro",
-      "programmi assunzioni internazionali"
     ],
     "hero_eligible": true
   },
@@ -3694,58 +2180,6 @@
     "hero_eligible": true
   },
   {
-    "id": "a2e9d7729dfb9b41",
-    "slug": "bilancio-2027-sindacati-banche-e-inps-stringono-il-a2e9d7729dfb9b41",
-    "title": "Bilancio 2027: sindacati, banche e INPS stringono il cerchio – Il governo tra ricatti e ritardi",
-    "section": "politica",
-    "priority": 6,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-10T07:42:32.937081+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/afc1da41ef6bd06880946d529d91eff4.jpg",
-    "occhiello": "LE AUDIZIONI PER LA LEGGE DI BILANCIO ALLA CAMERA",
-    "lead_preview": "Roma, 10 novembre Il governo ha convocato le audizioni per la legge di Bilancio 2027, ma dietro le porte della Camera si",
-    "tags": [
-      "legge bilancio 2027",
-      "audizioni camera",
-      "contrattazione pubblico impiego"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a27f1a7535773404",
-    "slug": "al-trieste-alpha-trading-investe-piu-investimenti-a27f1a7535773404",
-    "title": "Al Trieste, Alpha Trading investe più investimenti",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T07:42:31.637571+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/10/Immagini/Ritagli/Alpha%20trading%20Deposito%20Trieste%20image00001-U78084574067XEU-1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
-    "occhiello": "TRIESTE, 20 MILIONI DI EURO PER UN DEPOSITO CHE NON ERA IN VENDITA",
-    "lead_preview": "Trieste, 10 novembre. Alpha Trading, il gigante genovese del carburante, ha comprato il Deposito Costiero di Trieste dal",
-    "tags": [
-      "alpha trading trieste",
-      "deposito costiero trieste"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "612a435ac581b389",
-    "slug": "usa-evacuano-raf-mildenhall-liran-minaccia-droni-e-612a435ac581b389",
-    "title": "USA evacuano RAF Mildenhall: l’Iran minaccia droni e cyberattacchi sulle basi britanniche",
-    "section": "esteri",
-    "priority": 4,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-10T07:38:02.951325+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "RAF MILDENHALL SVUOTATA: GLI USA LASCIANO IL REGNO UNITO DOPO LE MINACCE IRANIANE E I FALLIMENTI DELL’INTELLIGENCE",
-    "lead_preview": "Londra, 10 novembre — Gli Stati Uniti hanno evacuato aerei dalla base aerea di RAF Mildenhall nel Regno Unito lunedì sco",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "14a29384415036d2",
     "slug": "basket-138-87-e-100-milioni-di-buchi-nel-bilancio-14a29384415036d2",
     "title": "Basket: 138-87 e 100 milioni di buchi nel bilancio di New Orleans",
@@ -3765,21 +2199,6 @@
     "hero_eligible": true
   },
   {
-    "id": "651a1d7c74f080ec",
-    "slug": "calcio-la-cronaca-della-cena-con-i-campioni-651a1d7c74f080ec",
-    "title": "Calcio: La cronaca della cena con i campioni",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-10T07:30:37.123845+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/308d5a500344ba37b9b5cb2114885f64.jpg",
-    "occhiello": "TRE SOPRAVVISSUTI DI CRANS-MONTANA A COVERCIANO: UN PRANZO CHE NON È TERAPIA",
-    "lead_preview": "Coverciano, 10 novembre. Tre ragazzi che hanno perso tutto nella valanga di Crans-Montana nel 2023 hanno pranzato oggi c",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "5d98514f0983fccb",
     "slug": "anthropic-lancia-claude-52-velocita-record-e-profi-5d98514f0983fccb",
     "title": "Anthropic lancia Claude 5.2: velocità record e profitti da 33 miliardi",
@@ -3792,43 +2211,6 @@
     "occhiello": "ANTHROPIC RADDOPPIA, SUL MERCATO VERSIONI 5.2 DI CLAUDE FABLE E MYTHOS, 30% PIÙ ",
     "lead_preview": "San Francisco, 10 novembre Anthropic, la startup californiana che ha costruito i modelli di intelligenza artificiale più",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7407e96a3f4cfaff",
-    "slug": "san-antonio-in-pista-verso-la-storia-7407e96a3f4cfaff",
-    "title": "San Antonio in pista verso la storia",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T07:27:35.131052+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/81c3ac948599c9c56de46e0c242bd4f61db3bce1/skysport/it/nba/2026/11/10/nba-risultati-partite-notte-10-novembre-video/San_Antonio_Spurs_Getty.jpg",
-    "occhiello": "NBA, I risultati della notte: San Antonio domina Suns, Lakers e Warriors in striscia",
-    "lead_preview": "Victor Wembanyama trascina gli Spurs alla striscia record: 9 vittorie consecutive San Antonio, 10 novembre 2026 — Victor",
-    "tags": [
-      "nba",
-      "spurs wembanyama"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "891972068e483be2",
-    "slug": "oro-in-rialzo-a-4119-dollari-loncia-891972068e483be2",
-    "title": "Oro in rialzo a 4.119 dollari l'oncia",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-10T07:25:52.133817+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/30/738f329973995cc1c0304066c7fa5dc3.jpg",
-    "occhiello": "ORO IN RIALZO A 4.119 DOLLARI L'ONCIA",
-    "lead_preview": "L'ORO A 4.119 DOLLARI: CHI CI GUADAGNA E CHI PAGA IL CONTO Roma, 10 novembre 2026 — Il prezzo dell’oro ha raggiunto oggi",
-    "tags": [
-      "orologio",
-      "economia",
-      "valuta"
-    ],
     "hero_eligible": true
   },
   {
@@ -3901,36 +2283,6 @@
     "hero_eligible": true
   },
   {
-    "id": "76243c56b6ddf26c",
-    "slug": "el-salvador-bukele-decida-quello-speciale-per-cont-76243c56b6ddf26c",
-    "title": "El Salvador congela i prezzi dei carburanti fino al 23 novembre",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-10T01:32:57.881805+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/3/20/d0d8c9215ed3644098b50c8827b3da45.jpg",
-    "occhiello": "EL SALVADOR CONGELA I PREZZI DEI CARBURANTI FINO AL 23 NOVEMBRE",
-    "lead_preview": "San Salvador, 10 novembre Il presidente di El Salvador, Nayib Bukele, ha firmato un decreto che congela i prezzi della b",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "091f77ecaa9e47ed",
-    "slug": "az-picerno-bari-1-1-gol-e-highlights-091f77ecaa9e47ed",
-    "title": "AZ Picerno-Bari 1-1: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-10T00:52:40.734384+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/57899c5ef0f511e5124a47c8d9fdde19e477238b/skysport/it/calcio/serie-c/video/2026/11/09/1138887_1794261686721_thumb_494.0000001_1794262137716.jpg",
-    "occhiello": "AZ PICERNO-BARI 1-1: GOL E HIGHLIGHTS",
-    "lead_preview": "Picerno, 9 novembre 2026 L’AZ Picerno, squadra di Serie C con un bilancio societario che oscilla tra i 2,3 milioni di eu",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "6186ea3e47240198",
     "slug": "si-il-gruppo-nikkei-225-ha-sconfitto-i-record-6186ea3e47240198",
     "title": "Borsa: Tokyo guadagna oltre il 3% in apertura, il Nikkei torna sopra quota 60mil",
@@ -3979,21 +2331,6 @@
       "g7 parigi",
       "guerra ibrida"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "4146efefdd31dab1",
-    "slug": "virtus-bologna-verona-95-81-highlights-serie-a-4146efefdd31dab1",
-    "title": "Virtus Bologna-Verona 95-81: highlights Serie A",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T22:34:49.718441+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/29fd28a2dc1a4657690d2e767f46ad50e6df2974/skysport/it/basket/serie-a/video/2026/11/09/1138880_1794259521873_thumb_494.0000001_1794259573921.jpg",
-    "occhiello": "VIRTUS BOLOGNA-VERONA 95-81: HIGHLIGHTS SERIE A",
-    "lead_preview": "Bologna, 9 novembre. La Virtus Costa Bologna ha seppellito la Pallacanestro Verona con un distacco che non lascia spazio",
-    "tags": [],
     "hero_eligible": true
   },
   {
@@ -4050,58 +2387,6 @@
       "andrea loro",
       "virtus bologna"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "de24466033606f6f",
-    "slug": "ciriani-il-debito-tecnico-vola-a-82-miliardi-il-me-de24466033606f6f",
-    "title": "Intervento ministeriale sul blocco degli schemi urgenti",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-09T21:31:39.711966+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/28/136f5110fd2567db1471e73dc601e995.jpg",
-    "occhiello": "INGORGO IN PARLAMENTO, INVITO DEL MINISTRO CIRIANI IN CDM A 'FRENARE SUI DECRETI",
-    "lead_preview": "ROMA, 9 novembre Il ministro dell’Economia e delle Finanze, Alessandro Ciriani, ha convocato d’urgenza il Consiglio dei ",
-    "tags": [
-      "decreti urgenti",
-      "ministro ciriani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "cc501cab7fadcbb1",
-    "slug": "premi-cubarsi-vince-il-golden-boy-2026-cc501cab7fadcbb1",
-    "title": "Ahanor Cubarsì vince il Golden Boy 2026: l'alta valutazione di un giovane talento italiano",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T20:21:40.528506+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/3144c90b7701405f50d980d83958481c.jpg",
-    "occhiello": "PREMI: CUBARSÌ VINCE IL GOLDEN BOY 2026",
-    "lead_preview": "Il talento italiano Ahanor Cubarsì, 19 anni, ha vinto il Golden Boy 2026 e ha fatto schizzare il suo valore di mercato a",
-    "tags": [
-      "golden boy 2026",
-      "ahanor cubarsì",
-      "calcio giovani"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "573475527db98026",
-    "slug": "il-papa-la-disoccupazione-e-un-dramma-ferisce-la-d-573475527db98026",
-    "title": "Il Papa, 'la disoccupazione è un dramma, ferisce la dignità'",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-09T20:14:54.977956+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/512142ab4adae759a970151cfba7285b.jpg",
-    "occhiello": "IL PAPA, 'LA DISOCCUPAZIONE È UN DRAMMA, FERISCE LA DIGNITÀ'",
-    "lead_preview": "Roma, 9 novembre. Il pontefice Leone XIV, nel suo primo intervento pubblico dopo l'elezione, definisce la disoccupazione",
-    "tags": [],
     "hero_eligible": true
   },
   {
@@ -4197,24 +2482,6 @@
     "hero_eligible": true
   },
   {
-    "id": "0317cee0e8ac301c",
-    "slug": "su-bpm-lultimo-giro-di-risiko-il-nodo-del-governo-0317cee0e8ac301c",
-    "title": "Credit Agricole offre 1 miliardo per la Bpm: i francesi si mangiano la Banca",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-09T18:18:30.626434+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/27/1f8a0e9717dca27f0a7e1b4fe51cb6fb.jpg",
-    "occhiello": "SU BPM L'ULTIMO GIRO DI RISIKO, IL NODO DEL GOVERNO E DELL'ASSEMBLEA",
-    "lead_preview": "Roma, 9 novembre Credit Agricole ha appena proposto ai soci di Banca Popolare di Milano un pacchetto da 1 miliardo di eu",
-    "tags": [
-      "acquisizione banca bpm",
-      "credit agricole"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "199fbaf2ce3a5f0f",
     "slug": "il-premio-de-sanctis-deepmind-italia-vince-e-googl-199fbaf2ce3a5f0f",
     "title": "Premio IA: lo Stato regala 200mila euro ai giganti del web tra sprechi e ipocrisia",
@@ -4226,21 +2493,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/ed0fb5954e49d35c01d0eba53ab500e4.jpg",
     "occhiello": "PREMIO DE SANCTIS PER \"EDITORIA, INFORMAZIONE, CREATIVITÀ E INTELLIGENZA ARTIFIC",
     "lead_preview": "Roma, 9 novembre 2026 Il Premio De Sanctis, assegnato ieri a un gruppo di giornalisti e tecnici dell’intelligenza artifi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "15717dbf37b5981d",
-    "slug": "tennis-tiafoe-sconfigge-draper-a-torino-e-lagnelli-15717dbf37b5981d",
-    "title": "Tennis: Tiafoe travolge Draper a Torino e punta al montepremi da 2,5 milioni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T18:03:15.390524+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/b446024ed71770af956f81e3d4258fbdb0207c80/skysport/it/tennis/video/2026/11/09/1138859_1794244510959_thumb_494.0000001_1794244643458.jpg",
-    "occhiello": "ATP FINALS, TIAFOE È SBARCATO A TORINO",
-    "lead_preview": "Torino, 9 novembre Frances Tiafoe Jr. è il primo giocatore americano a scendere in campo alle ATP Finals dal 2017. Il 28",
     "tags": [],
     "hero_eligible": true
   },
@@ -4260,25 +2512,6 @@
       "claretta petacci",
       "romanzo",
       "sfida ai tabù"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "8040ae33d9e130bd",
-    "slug": "calcio-kalulu-fuori-tre-settimane-allegri-difesa-i-8040ae33d9e130bd",
-    "title": "Juventus: Kalulu fermo 3 settimane, Allegri cerca soluzioni per 1,8 milioni al mese",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T17:31:58.176227+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/5/075aa1c62096beb1e65344d7eeb4531b.jpg",
-    "occhiello": "",
-    "lead_preview": "Juventus, Torino, 9 novembre La Juventus affronta un ulteriore colpo difensivo: dopo l’infortunio di Federico Chiesa, an",
-    "tags": [
-      "infortunio kalulu",
-      "juventus trasferimenti",
-      "juventus crisi difensiva"
     ],
     "hero_eligible": true
   },
@@ -4320,25 +2553,6 @@
     "hero_eligible": true
   },
   {
-    "id": "e9659e88c8359439",
-    "slug": "ania-nuove-misure-non-condivise-prevedibilita-rego-e9659e88c8359439",
-    "title": "ANIA, nuove misure non condivise, prevedibilità regole riguarda credibilità paes",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-09T16:46:12.936925+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2023/12/27/7051c1d1329f2b2b27636563ad2fed79.jpg",
-    "occhiello": "ANIA, NUOVE MISURE NON CONDIVISE, PREVEDIBILITÀ REGOLE RIGUARDA CREDIBILITÀ PAES",
-    "lead_preview": "Paese, 9 novembre. L’ANIA avverte che le incertezze normative potrebbero spingere le compagnie assicurative a delocalizz",
-    "tags": [
-      "mia assicurazioni",
-      "delocalizzazione capitali",
-      "credibilità paes"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "b31c60cc064b74d1",
     "slug": "leggi-tutto-su-cortina-dampezzo-e-kfc-b31c60cc064b74d1",
     "title": "KFC apre a Cortina e Madonna di Campiglio: il pollo fritto arriva a 1800 metri",
@@ -4376,21 +2590,6 @@
     "hero_eligible": true
   },
   {
-    "id": "484ddb10b9e176d4",
-    "slug": "ciclismo-il-ct-azzurro-ignora-le-polemiche-e-confe-484ddb10b9e176d4",
-    "title": "Ciclismo: Il CT azzurro sfida i club – ‘Le maglie si assegnano solo con i numeri, non con i favori’",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T16:30:46.658770+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/9ea14971498ceb5023a2b2e3ca4bc22f.jpg",
-    "occhiello": "CONVOCAZIONI AZZURRE AL CENTRO DI UNA GUERRA VERBALE INTERNA",
-    "lead_preview": "Roma, 9 novembre 2026. Le scelte tecniche operate dal commissario tecnico per gli imminenti Europei di ciclocross hanno ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "a1c9e943b2b5d75b",
     "slug": "lopera-di-roma-apre-le-porte-ai-ballerini-fiamming-a1c9e943b2b5d75b",
     "title": "Il Teatro Costanzi accoglie l'Opera Ballet Vlaanderen per due serate di danza",
@@ -4402,21 +2601,6 @@
     "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/fec7a1f6dcd91c5c369404066f2770b5.jpg",
     "occhiello": "OPERA BALLET VLAANDEREN IN SCENA AL TEATRO COSTANZI",
     "lead_preview": "Roma, 9 novembre 2026. Il Romaeuropa Festival annuncia una corealizzazione con l'Opera di Roma per portare sul palco del",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "eb023bf7620204cf",
-    "slug": "faenza-il-design-nordico-invade-la-ceramica-locale-eb023bf7620204cf",
-    "title": "A Faenza mostre e convegni sul lavoro femminile uniscono Design e ceramica locale",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-09T16:21:17.554021+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/6e4dafe0f06865be21517ef42450399b.jpg",
-    "occhiello": "FAENZA CELEBRA IL DESIGN NORDICO TRA RETORICA E LAVORO",
-    "lead_preview": "Faenza, 9 novembre 2026. La città romagnola ospita una serie di eventi dedicati al tema donne e lavoro, organizzati in c",
     "tags": [],
     "hero_eligible": true
   },
@@ -4504,24 +2688,6 @@
     "hero_eligible": true
   },
   {
-    "id": "f4c91083a5949121",
-    "slug": "giorgetti-soddisfatti-per-lattivazione-della-nec-d-f4c91083a5949121",
-    "title": "Il governo brucia 2,3 miliardi per la Nec: una cabina di regia senza poteri",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-09T15:10:34.607379+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/4bf94069a98b850f5fb4630090476383.jpg",
-    "occhiello": "GIORGETTI, SODDISFATTI PER L'ATTIVAZIONE DELLA NEC DELL'ITALIA",
-    "lead_preview": "Roma, 9 novembre Il governo Meloni ha ufficialmente attivato la Nec—la rete nazionale di comando e controllo per la dife",
-    "tags": [
-      "nec italia",
-      "rete comando controllo"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "8250ce52e89cbb07",
     "slug": "lazio-tavares-verso-la-non-convocazione-con-il-por-8250ce52e89cbb07",
     "title": "Calcio: Lazio perderà Tavares?",
@@ -4591,24 +2757,6 @@
     "tags": [
       "debito italia",
       "dombrovskis deficit"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "22c326d82b1850f3",
-    "slug": "azzurri-mancini-ho-parlato-con-tresoldi-ci-sono-po-22c326d82b1850f3",
-    "title": "Mancini richiama Nicola Tresoldi: l'ex Brescia torna in Nazionale dopo anni",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T14:02:30.088397+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/239bbebae7687f092467e990924e6824.jpg",
-    "occhiello": "AZZURRI: MANCINI, \"HO PARLATO CON TRESOLDI, CI SONO POSSIBILITÀ CHE VENGA DA NOI",
-    "lead_preview": "Roma, 9 novembre Il C.T. degli Azzurri, Roberto Mancini, ha aperto la porta a un ritorno di Nicola Tresoldi nella nazion",
-    "tags": [
-      "nazionale italiana",
-      "mancini"
     ],
     "hero_eligible": true
   },
@@ -4734,21 +2882,6 @@
     "hero_eligible": true
   },
   {
-    "id": "2052481791861af4",
-    "slug": "palermo-nomina-un-direttore-sconosciuto-il-teatro-2052481791861af4",
-    "title": "Teatro Massimo di Palermo: Matheuz nominato direttore senza concorso",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-09T12:14:51.286323+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/9/52f523221df2c5935463a4338a0f2216.jpg",
-    "occhiello": "MATHEUZ NUOVO DIRETTORE PRINCIPALE DELL'ORCHESTRA DEL TEATRO MASSIMO A PALERMO",
-    "lead_preview": "MAIUSCOLO, PALERMO NOMINA UN DIRETTORE SENZA CONCORSO: IL TEATRO MASSIMO SCELTE DI CASTA Palermo, 9 novembre. Il Teatro ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "68c0606abaf8b03d",
     "slug": "giuli-investiamo-in-sicurezza-del-patrimonio-cinem-68c0606abaf8b03d",
     "title": "Rendeva Luce alla Cultura Italiana: Angelo Di Caro ad Alcide De Giorgi",
@@ -4763,42 +2896,6 @@
     "tags": [
       "archivio cinematografia",
       "ex caserma cerimant"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "bc5cdf23594c9f62",
-    "slug": "tennis-kostyuk-e-noskova-sconfiggono-swiatek-e-gar-bc5cdf23594c9f62",
-    "title": "Tennis: Shanghai accoglie la paira Russa, Pechino boicotta i passaporti USA",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T11:59:03.470342+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/a091a1e7628e81127de3a49ba43bfbc39e2b4c1b/skysport/it/tennis/video/2026/11/09/1138726_1794220709904_thumb_494.0000001_1794220787559.jpg",
-    "occhiello": "KOSTYUK-NOSKOVA: HIGHLIGHTS WTA FINALS",
-    "lead_preview": "MAIUSCOLO KOSTYUK-NOSKOVA, LA PAIRA RUSSA CHE HA SMONTATO L’EGEMONIA DEL TENNIS USA Roma, 9 novembre Il tennis femminile",
-    "tags": [
-      "wta finals",
-      "tennis femminile"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "126fb4fd938eb2ef",
-    "slug": "salvini-sullanac-e-importante-scegliere-bene-e-non-126fb4fd938eb2ef",
-    "title": "Salvini frena l'ANAC: senza Presidente da un anno e mezzo milioni di fondi a rischio",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-09T11:44:27.921101+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/29/c21d5003aecff647f4ef22faa3a50804.jpg",
-    "occhiello": "SALVINI: 'SULL'ANAC È IMPORTANTE SCEGLIERE BENE E NON IN FRETTA'",
-    "lead_preview": "Roma, 9 novembre Matteo Salvini ha dichiarato in una conferenza stampa che «sull’Anac è importante scegliere bene e non ",
-    "tags": [
-      "anac",
-      "salvini anac"
     ],
     "hero_eligible": true
   },
@@ -4931,55 +3028,6 @@
     "hero_eligible": true
   },
   {
-    "id": "192b01615daf84b0",
-    "slug": "tennis-zverev-perde-a-parigi-contro-musetti-ma-bli-192b01615daf84b0",
-    "title": "Tennis: Zverev scappa via: 1700 punti di vantaggio su Sinner a fine anno",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T08:31:52.355756+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ec39413a92313dd86069d0dd67ed4d582c1715d2/skysport/it/tennis/classifica-atp-italiani/zverev_sinner_ipa.jpg",
-    "occhiello": "ZVEREV E SINNER NELLA RESA DEI CONTI FINANZIARIA",
-    "lead_preview": "Milano, 9 novembre 2026. Sascha Zverev ha chiuso anzitempo il proprio percorso al Masters 1000 di Parigi dopo la sconfit",
-    "tags": [
-      "tennis",
-      "zverev",
-      "sinner"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "efc5b54ebc613baa",
-    "slug": "calcio-il-ritiro-punitivo-spaccia-lo-spogliatoio-d-efc5b54ebc613baa",
-    "title": "Crisi a Napoli tra rapporti tesi e ritiro punitivo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T08:29:52.733452+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2f0a55c0844e397b0c64b4f09778ba580d00eef9/skysport/it/calcio/serie-a/video/2026/11/09/1138679_1794180964282_thumb_494.0000001_1794208776503.jpg",
-    "occhiello": "CRISI A NAPOLI TRA RAPPORTI TESI E RITIRO PUNITIVO",
-    "lead_preview": "Napoli, 9 novembre 2026. L'edizione odierna di Sky Sport analizza i rapporti tesi all'interno dello spogliatoio e l'effi",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f36626e42f429f83",
-    "slug": "bruxelles-cala-la-maschera-von-der-leyen-corre-ad-f36626e42f429f83",
-    "title": "Abu Dhabi ospita i colloqui sull'Ucraina con l'Unione Europea",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-09T08:11:46.444122+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/16/1b5b6aed64226ed1efefb3cc1522d8f3.jpg",
-    "occhiello": "ABU DHABI OSPITA I COLLOQUI SULL'UCRAINA CON L'UNIONE EUROPEA",
-    "lead_preview": "Bruxelles, 9 novembre 2026. La presidente della Commissione europea Ursula von der Leyen conferma la partecipazione dell",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "87910d99093be820",
     "slug": "unicredit-12-miliardi-in-bonus-ai-manager-mentre-c-87910d99093be820",
     "title": "UniCredit: 9,4 mld di utile, ma licenzia 800 e taglia filiali in Italia",
@@ -4994,43 +3042,6 @@
     "tags": [
       "unicredit utile",
       "licenziamenti unicredit"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "80af6f8549f0d0bc",
-    "slug": "auto-elettriche-risparmio-da-oltre-850-euro-allann-80af6f8549f0d0bc",
-    "title": "Elettriche risparmiano 853€ l’anno: perché l’Italia lascia i guidatori a piedi senza colonnine",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-09T07:04:20.254203+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/08/200346623-54cda2b1-aa73-4db9-a027-ccd8bdbf2812.jpg",
-    "occhiello": "AUTO ELETTRICHE, RISPARMIO DA OLTRE 850 EURO ALL'ANNO. CON LA BENZINA 100 KM COS",
-    "lead_preview": "ELETTRICHE RISPARMIANO 853 EURO L’ANNO: IL DATO CHE NON QUADRA CON LE POLITICHE Roma, 9 novembre. Secondo i dati di Motu",
-    "tags": [
-      "auto elettriche e colonnine",
-      "risparmio carburante 2023",
-      "mancanza infrastrutture ricarica"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "9f039b2b28ddca0e",
-    "slug": "tennis-errani-paolini-ribaltano-le-favorite-le-ita-9f039b2b28ddca0e",
-    "title": "Errani e Paolini vincono al debutto alle WTA Finals, battute Siniakova/Townsend",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T07:01:50.234464+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/9d5ca892b87295b0488e2482aedc123006d0a809/skysport/it/tennis/2026/11/09/errani-paolini-siniakova-townsend-wta-finals-risultato/getty_errani_paolini_wta_finals.jpg",
-    "occhiello": "ERRANI E PAOLINI VINCONO AL DEBUTTO ALLE WTA FINALS, BATTUTE SINIAKOVA/TOWNSEND",
-    "lead_preview": "Indian Wells, 9 novembre Sara Errani e Jasmine Paolini hanno vinto all’esordio alle WTA Finals 2026 contro Katerina Sini",
-    "tags": [
-      "wta finals 2026",
-      "errani paolini"
     ],
     "hero_eligible": true
   },
@@ -5054,110 +3065,6 @@
     "hero_eligible": true
   },
   {
-    "id": "1b3ed47a310a89e7",
-    "slug": "nba-highlights-sacramento-miami-108-114-1b3ed47a310a89e7",
-    "title": "Basket: Miami batte Sacramento e genera 1,8 milioni di clic per gli sponsor",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T06:58:16.805120+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/703daeb22e7d8be4d884cfc4e81f52e525b652f2/skysport/it/nba/video/2026/11/09/1138694_1794204754417_thumb_494.0000001_1794204971757.jpg",
-    "occhiello": "NBA HIGHLIGHTS: SACRAMENTO-MIAMI 108-114",
-    "lead_preview": "Sacramento, 9 novembre I Pet Shop Boys non sono mai stati una band da palestra, ma quella sera al Wembley Stadium del 19",
-    "tags": [
-      "nba",
-      "sacramento-miami"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "2eb6b257afbe604b",
-    "slug": "kawhi-leonard-vale-150-milioni-in-meno-i-clippers-2eb6b257afbe604b",
-    "title": "Kawhi Leonard: i Clippers lo vogliono vendere per 150 milioni, ma il mercato lo boccia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T06:55:55.182308+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6d5233566034edcb88511dc1387602f49b2595f5/skysport/it/nba/video/2026/11/09/1138693_1794204270001_thumb_494.0000001_1794204979659.jpg",
-    "occhiello": "NBA HIGHLIGHTS: LA CLIPPERS-NEW ORLEANS 139-123",
-    "lead_preview": "I Clippers perdono a New Orleans e il mercato NBA si prepara a un crollo New Orleans, 9 novembre 2026. I Los Angeles Cli",
-    "tags": [
-      "kawhi leonard clippers",
-      "transfert nba 2026",
-      "clippers new orleans"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "895bda409daaeeb0",
-    "slug": "tennis-rybakina-ferma-kostyuk-sostituisce-la-numer-895bda409daaeeb0",
-    "title": "WTA Finals 2026: classifiche, calendario e risultati",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T06:54:17.659773+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/083a6dbfad1bb2a3e221eaaca109b87faf3eb8ed/skysport/it/tennis/wta-finals-2026-classifica-risultati/getty_coco_gauff.jpg",
-    "occhiello": "WTA FINALS 2026: CLASSIFICHE, CALENDARIO E RISULTATI",
-    "lead_preview": "Rybakina assente, il tennis femminile si regge su un equilibrio di carta Indian Wells, 9 novembre — Le Wta Finals 2026 h",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "6b213000275099d1",
-    "slug": "nba-lebron-firma-30-milioni-netti-esenti-dal-cap-l-6b213000275099d1",
-    "title": "NBA, 22 punti di LeBron James contro Chicago",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T06:52:23.702035+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/bf533a82a17fb84c254388915fc7ab773f280b7c/skysport/it/nba/video/2026/11/09/1138697_1794205690426_thumb_494.0000001_1794205746921.jpg",
-    "occhiello": "NBA, 22 PUNTI DI LEBRON JAMES CONTRO CHICAGO",
-    "lead_preview": "LEBRON A 41 ANNI: IL CONTRATTO DA 30 MILIONI CHE NON RIENTRA NEL BILANCIO DELLA LEGA> Chicago, 9 novembre 2026. LeBron J",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b8c1b7da87daba93",
-    "slug": "euro-a-1116-la-svalutazione-penalizza-litalia-e-co-b8c1b7da87daba93",
-    "title": "Euro a 1,116: lo yen crolla a 158 e Tokyo interviene per salvare la valuta",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-09T06:50:52.274633+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/6/7/41497fecd883342adfe2a05267d75259.jpg",
-    "occhiello": "EURO SI RAFFORZA A 1,116 SUL DOLLARO",
-    "lead_preview": "EURO A 1,116: LE AZIENDE ITALIANE PAGANO LA SPECULAZIONE SUL DOLLARO Roma, 9 novembre. L’euro ha raggiunto ieri 1,116 do",
-    "tags": [
-      "euro dollaro",
-      "yen crollo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "63e7a5a3e1c51965",
-    "slug": "credit-agricole-compra-banco-bpm-12-miliardi-per-i-63e7a5a3e1c51965",
-    "title": "Credit Agricole propone a Banco BPM avvio trattative per fusione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-09T06:38:02.004696+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/27/1f8a0e9717dca27f0a7e1b4fe51cb6fb.jpg",
-    "occhiello": "CREDIT AGRICOLE PROPONE A BANCO BPM AVVIO TRATTATIVE PER FUSIONE",
-    "lead_preview": "BANCO BPM INGHIOTITO: IL GRUPPO FRANCESE PRENDE IL CONTROLLO DELLA BANCA ITALIANA Roma, 9 novembre. Il Crédit Agricole, ",
-    "tags": [
-      "fusione credit agricole bpm",
-      "acquisizione bpm da credit agricole",
-      "trattative bancarie italia"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "8d787491b7f9ff5e",
     "slug": "oksinski-il-tiratore-di-cracovia-che-uccide-17-per-8d787491b7f9ff5e",
     "title": "Cracovia: 24enne studente ingegneria massacra famiglia e piazza, muore in ospedale dopo sparatoria",
@@ -5170,43 +3077,6 @@
     "occhiello": "MORTO L'ATTENTATORE DI CRACOVIA: CONFERMATO IL DECESSO DI MICHAŁ OKSINSKI",
     "lead_preview": "Cracovia, 9 novembre Michał Oksinski, il 24enne che il 7 novembre ha ucciso i genitori e la sorella nella loro casa di C",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "1eb0d9d551b01793",
-    "slug": "unicredit-spara-dividendi-da-26-miliardi-gli-azion-1eb0d9d551b01793",
-    "title": "UniCredit annuncia un record alto 8,6 miliardi di utile",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-09T06:30:30.931798+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/5/10/a4b5f73e3b8134d7b8eb5856dea6c058.jpg",
-    "occhiello": "UNICREDIT DI NUOVO RECORD, L'UTILE DEI 9 MESI A 9,4 MILIARDI",
-    "lead_preview": "RECORD UNICREDIT: 9,4 MILIARDI DI UTILE, DIVIDENDO RADDOPPIATO PER GLI AZIONISTI Milano, 9 novembre. L’utile dei primi n",
-    "tags": [
-      "unicredit utile record",
-      "unicredit dividendo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "17242d1bb7a8f90b",
-    "slug": "basket-jokic-schiaccia-la-nba-con-18-triple-double-17242d1bb7a8f90b",
-    "title": "NBA: Jokić strappa 12 milioni in bonus per 18 triple-double, la lega deve aggiornare le regole",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T06:25:32.072984+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7419d55fdd1ca4c41cbece367d01a23956b01ee4/skysport/it/nba/video/2026/11/09/1138687_1794195605442_thumb_494.0000001_1794201572780.jpg",
-    "occhiello": "NBA HIGHLIGHTS: MINNESOTA-UTAH 115-100",
-    "lead_preview": "MINNESOTA TIRA DI DENTI: JOKIC SFONDA I RECORD E LA LEGA PAGA Minneapolis, 9 novembre 2026 — Nikola Jokić ha scritto un ",
-    "tags": [
-      "nikola jokić record",
-      "nba triple-double",
-      "aggiornamento regole nba"
-    ],
     "hero_eligible": true
   },
   {
@@ -5225,24 +3095,6 @@
     "hero_eligible": true
   },
   {
-    "id": "af1743847757193f",
-    "slug": "airbnb-meno-responsabilita-per-gli-ospiti-ma-gli-h-af1743847757193f",
-    "title": "La Lentezza Mattutina scommette sul rischio per i lettori",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-09T04:28:10.666697+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/09/042213869-404034b3-4edc-4331-ae59-33f61c2aeda8.jpg",
-    "occhiello": "AIRBNB, MENO RESPONSABILITÀ PER GLI OSPITI. MA GLI HOST NON CI STANNO",
-    "lead_preview": "AIRBNB SPOSTA IL COSTO DELLE PULIZIE SUGLI HOST: IL MODELLO DI PROFITTO CHE SCHIACCIA CHI GESTISCE LE CASA Roma, 9 novem",
-    "tags": [
-      "airbnb host",
-      "pulizie casa"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "7eef6692d85a6c39",
     "slug": "calcio-sky-discute-sul-gol-di-bremer-in-fiorentina-7eef6692d85a6c39",
     "title": "Il gol di Bremer accende il dibattito televisivo",
@@ -5255,25 +3107,6 @@
     "occhiello": "IL GOL DI BREMER ACCENDE IL DIBATTITO TELEVISIVO",
     "lead_preview": "A Sky Calcio club si discute del gol del definitivo 2-2 di Fiorentina-Juventus, realizzato da Gleison Bremer al sessanta",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "b9a835ceb9229ac6",
-    "slug": "calcio-fiorentina-e-juventus-pareggiano-due-a-due-b9a835ceb9229ac6",
-    "title": "Sky Sport lancia il suo super-portale: **tutto lo Sport, Netflix e 100 abbonamenti in un click**",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-09T00:23:04.216367+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/5d56dbacd06d1ca804f39b363e73937393a292a5/skysport/it/calcio/bundesliga/video/2026/11/08/1138671_1794176623305_thumb_494.0000001_1794176709187.jpg",
-    "occhiello": "PALINSESTO E OFFERTE COMMERCIALI SUL PORTALE DI SKY SPORT",
-    "lead_preview": "Milano, 8 novembre 2026. La piattaforma digitale di Sky Sport offre una panoramica dei contenuti editoriali e commercial",
-    "tags": [
-      "sky sport superportale",
-      "sky sport offerte abbonamenti",
-      "sky sport piattaforma digitale"
-    ],
     "hero_eligible": true
   },
   {
@@ -5292,104 +3125,6 @@
     "hero_eligible": true
   },
   {
-    "id": "76d8d6f7292f036f",
-    "slug": "gps-to-offer-300000-patients-extra-support-to-ease-76d8d6f7292f036f",
-    "title": "NHS ruba £40M alle cure di base: 300.000 pazienti a rischio senza nuovi fondi",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T23:03:30.558901+00:00",
-    "image_type": "none",
-    "image_url": "",
-    "occhiello": "GPS TO OFFER 300,000 PATIENTS EXTRA SUPPORT TO EASE WINTER STRAIN ON NHS",
-    "lead_preview": "Londra, 8 novembre Il NHS inglese ha reallocato £40 milioni dai bilanci delle pratiche di medicina generale per un progr",
-    "tags": [
-      "nhs tagli fondi",
-      "medicina generale uk",
-      "pazienti vulnerabili nhs"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e189b3db86f2d562",
-    "slug": "trump-spero-di-non-andare-allinferno-ma-i-repubbli-e189b3db86f2d562",
-    "title": "Trump, 'spero di andare in paradiso, non voglio andare all'inferno'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-08T22:40:03.410233+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/25/90a6c56d76df92564c232f7004e49d2e.jpg",
-    "occhiello": "TRUMP, 'SPERO DI ANDARE IN PARADISO, NON VOGLIO ANDARE ALL'INFERNO'",
-    "lead_preview": "Washington, 8 novembre Donald John Trump, 47º presidente degli Stati Uniti, ha dichiarato in un’intervista a 60 Minutes ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d6d45c3bcdf65f95",
-    "slug": "calcio-desenzano-incontra-ospitaletto-d6d45c3bcdf65f95",
-    "title": "Desenzano e Ospitaletto: il derby del Garda che non esiste nelle statistiche della Serie C",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T22:10:42.505550+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/58adc0ee24e0d055fa18c913d33c630739e4f717/skysport/it/calcio/serie-c/video/2026/11/08/1138592_1794164305906_thumb_494.0000001_1794164395717.jpg",
-    "occhiello": "DESENZANO E OSPITALETTO: IL DERBY DEL GARDA CHE NON ESISTE NELLE STATISTICHE DELLA SERIE C",
-    "lead_preview": "Desenzano del Garda, 8 novembre. La Lega Pro Serie C ha omesso di riportare il risultato della partita tra Desenzano e O",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "7b7cc2c5043f04dd",
-    "slug": "pianese-perugia-3-2-gol-e-highlights-7b7cc2c5043f04dd",
-    "title": "Pianese-Perugia 3-2: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T22:00:55.327016+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/1d0905ff75117a8f78d5c270a1da29b08da603f4/skysport/it/calcio/serie-c/video/2026/11/08/1138599_1794164400150_thumb_494.0000001_1794166183625.jpg",
-    "occhiello": "PIANESE-PERUGIA 3-2: GOL E HIGHLIGHTS",
-    "lead_preview": "Perugia, 8 novembre 2026 Il Perugia Calcio, squadra di Serie C con un bilancio societario già sotto osservazione della L",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "319b2bed07a71105",
-    "slug": "serie-a-fiorentina-juventus-2-2-319b2bed07a71105",
-    "title": "Calcio: Bremer bissa e Dybala segna: la Juventus non perdona e vanifica il pareggio viola",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T21:55:45.214408+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/f87ecf0a26de082c52603d72aa4b5b17.jpg",
-    "occhiello": "SERIE A: FIORENTINA-JUVENTUS 2-2",
-    "lead_preview": "Firenze, 8 novembre Il Stadio Artemio Franchi ha visto i numeri di una squadra che non sa più cosa sia un vero pareggio.",
-    "tags": [
-      "juventus-fiorentina serie a",
-      "bremer gol",
-      "dybala rete"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "926cb5ff2311f11f",
-    "slug": "friburgo-union-berlino-2-0-gol-e-highlights-926cb5ff2311f11f",
-    "title": "Friburgo-Union Berlino 2-0: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T21:50:53.687584+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2d6174529c23ca8601d5a4aeb66656ad94839db8/skysport/it/calcio/bundesliga/video/2026/11/08/1138629_1794168169370_thumb_494.0000001_1794168227036.jpg",
-    "occhiello": "FRIBURGO-UNION BERLINO 2-0: GOL E HIGHLIGHTS",
-    "lead_preview": "Union Berlino, 8 novembre Il Friburgo ha seppellito l’idea di un’Union Berlino in ascesa con un 2-0 che non è stato solo",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "c592b2048027010e",
     "slug": "motogp-in-qatar-le-pagelle-della-gara-di-lusail-c592b2048027010e",
     "title": "MotoGP in Qatar: le pagelle della gara di Lusail",
@@ -5401,21 +3136,6 @@
     "image_url": "https://sport.sky.it/assets/images/b960f1f31ef590d949c27835c1229def048ee0be/skysport/it/motori/motogp/2026/11/08/motogp-gp-qatar-losail-2026-pagelle/podio_qatar_dorna_ok.jpg",
     "occhiello": "MOTOGP IN QATAR: LE PAGELLE DELLA GARA DI LUSAIL",
     "lead_preview": "Lusail, 8 novembre Marco Bezzecchi ha scritto una pagina di storia del Qatar. Non quella dei grattacieli e dei fondi sov",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "dc8282e2bcbbe904",
-    "slug": "tortona-treviso-87-76-highlights-serie-a-dc8282e2bcbbe904",
-    "title": "Tortona-Treviso 87-76: highlights Serie A",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T21:24:22.009663+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/203ebac5d31d4decfb25eddb31dd4b01e4018ca8/skysport/it/basket/serie-a/video/2026/11/08/1138656_1794170947886_thumb_494.0000001_1794171162480.jpg",
-    "occhiello": "TORTONA-TREVISO 87-76: HIGHLIGHTS SERIE A",
-    "lead_preview": "Tortona, 8 novembre Il Bertram Derthona Tortona ha chiuso la prima giornata di Serie A con un 87-76 contro il Nutribulle",
     "tags": [],
     "hero_eligible": true
   },
@@ -5516,21 +3236,6 @@
     "hero_eligible": true
   },
   {
-    "id": "7344928090b15cf8",
-    "slug": "sunderland-chelsea-1-0-gol-e-highlights-7344928090b15cf8",
-    "title": "Sunderland-Chelsea 1-0: gol e highlights",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T19:05:16.475884+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/c35ca969be865c5c6271ef1e3cdd8a519f75554f/skysport/it/calcio/premier-league/video/2026/11/08/1138508_1794156127424_thumb_494.0000001_1794156193903.jpg",
-    "occhiello": "SUNDERLAND-CHELSEA 1-0: GOL E HIGHLIGHTS",
-    "lead_preview": "Sunderland, 8 novembre. Il Sunderland ha sconfitto il Chelsea 1-0 in Premier League, con un gol di James Vaughan che ha ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "f9b24d60b938c1f9",
     "slug": "calcio-crystal-palace-in-rosso-per-120-milioni-il-f9b24d60b938c1f9",
     "title": "Liverpool domina il Crystal Palace con un 3-1 che riapre la questione sulle fortune della Premier: i secondi londinesi h",
@@ -5543,24 +3248,6 @@
     "occhiello": "LIVERPOOL DOMINA IL CRYSTAL PALACE CON UN 3-1 CHE RIAPRE LA QUESTIONE SULLE FORTUNE DELLA PREMIER: I SECONDI LONDINESI HANNO VENDUTO IL PROPRIO FUTURO PER COMPRARE UN’ALLENATORE, I PRIMI DEVONO RIENTRARE IN BILANCIO ENTRO LA SCADENZA DELLE COPPE EUROPEE.",
     "lead_preview": "Londra, 8 novembre. Il Crystal Palace ha perso 3-1 contro il Liverpool in una partita che ha esposto al sole i Conti del",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "72eae73d6718578f",
-    "slug": "f1-gp-brasile-ce-anche-neymar-nel-paddock-di-inter-72eae73d6718578f",
-    "title": "F1: Interlagos incassa 1,8M in più grazie al giro di Neymar nel paddock",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T18:57:30.662271+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/2a7335a1788c9392b3cdc13df2cd095ccd2a7304/skysport/it/motori/formula-1/video/2026/11/08/1138523_1794157365932_thumb_494.0000001_1794157381323.jpg",
-    "occhiello": "F1 GP BRASILE, C'È ANCHE NEYMAR NEL PADDOCK DI INTERLAGOS",
-    "lead_preview": "San Paolo, 8 novembre Neymar da Silva Santos Júnior ha fatto il suo ingresso nel paddock di Interlagos non come calciato",
-    "tags": [
-      "neymar",
-      "paddock"
-    ],
     "hero_eligible": true
   },
   {
@@ -5578,39 +3265,6 @@
     "tags": [
       "botteghino usa",
       "godzilla minus zero"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "46ba340811f12120",
-    "slug": "tennis-alcaraz-vince-a-parigi-con-40m-allanno-e-sc-46ba340811f12120",
-    "title": "Carlos Alcaraz, vainqueur du masters 1000 de paris, trouve dans le plaisir de jo",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T17:39:40.208686+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://img.lemde.fr/2026/11/08/500/0/6000/3000/644/322/60/0/8fe9349_ftp-1-wje3xwdt6srw-2026-11-08t162513z-912258524-up1emb819lz07-rtrmadp-3-tennis-paris.JPG",
-    "occhiello": "CARLOS ALCARAZ, VAINQUEUR DU MASTERS 1000 DE PARIS, TROUVE DANS LE PLAISIR DE JO",
-    "lead_preview": "Paris, 8 novembre Carlos Alcaraz ha vinto il Masters 1000 di Parigi con un gioco istintivo e una concentrazione che, dop",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "177924abb0d475fe",
-    "slug": "potenza-espugna-il-lago-patria-savoia-affonda-177924abb0d475fe",
-    "title": "Potenza espugna il Lago Patria: Savoia affonda",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T17:27:54.044494+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7b16cea20cad6d8e4d2d6524b4c9e0da73c7e8cb/skysport/it/calcio/serie-c/video/2026/11/08/1138484_1794153813660_thumb_494.0000001_1794153923576.jpg",
-    "occhiello": "POTENZA ESPUGNA IL LAGO PATRIA: SAVOIA AFFONDA",
-    "lead_preview": "Torre Annunziata, 8 novembre 2026. Il Potenza Calcio ha sconfitto il Savoia per 3-1 nella partita disputata oggi allo st",
-    "tags": [
-      "savoia potenza",
-      "serie c"
     ],
     "hero_eligible": true
   },
@@ -5682,39 +3336,6 @@
     "hero_eligible": true
   },
   {
-    "id": "4332dffe436396ac",
-    "slug": "calcio-gattuso-lancia-la-sfida-lazio-spende-il-dop-4332dffe436396ac",
-    "title": "Napoli-Lazio, Gattuso: \"i miei giocatori erano delusi ma dobbiamo essere orgogli",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T16:04:48.772134+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/343566b7a3990ef0e554c896927850a6c8737b91/skysport/it/calcio/serie-a/2026/11/08/gattuso-napoli-lazio-intervista-video/gattuso_stamp.jpg",
-    "occhiello": "NAPOLI-LAZIO, GATTUSO: \"I MIEI GIOCATORI ERANO DELUSI MA DOBBIAMO ESSERE ORGOGLI",
-    "lead_preview": "Napoli, 8 novembre Gattuso ha giocato al Napoli nel 2014, quando De Laurentiis pagava già i premi ai giocatori prima del",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4c11007544da891e",
-    "slug": "calcio-la-bombonera-sbaglia-i-risultati-e-regala-i-4c11007544da891e",
-    "title": "Calcio: Errori da Bombonera regalano lo scudetto al Boca sui canarini",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T15:54:00.992259+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/6c0fd5bb03bdff8fa2156976214197ca.jpg",
-    "occhiello": "BEFFA MONDIALE: FESTA SCUDETTO INTERROTTA DA UN'ALTRA PARTITA",
-    "lead_preview": "Rosario, 8 novembre 2026. Il Club Atlético Rosario Central ha vissuto un epilogo amaro e inaspettato del campionato arge",
-    "tags": [
-      "scudetto rosario central",
-      "errore bombonera"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "95631dbfe4c41606",
     "slug": "cop31-55-eventi-nel-padiglione-italia-del-minister-95631dbfe4c41606",
     "title": "Cop31, 55 eventi nel Padiglione Italia del ministero dell’ambiente",
@@ -5775,21 +3396,6 @@
     "hero_eligible": true
   },
   {
-    "id": "a9d7bad5d4da7ca2",
-    "slug": "papa-francesco-partecipa-a-convegno-potenzialmente-a9d7bad5d4da7ca2",
-    "title": "Il papa, 'i governanti perseguano il bene di tutti'",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-08T14:14:00.364710+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/46d21ad716e207142f26eee74b906c06.jpg",
-    "occhiello": "IL PAPA, 'I GOVERNANTI PERSEGUANO IL BENE DI TUTTI'",
-    "lead_preview": "Vaticano, 8 novembre. Papa Francesco ha partecipato a un convegno organizzato dal G20 di Poteri Globali, il gruppo infor",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "3a1b3c4ddd03479a",
     "slug": "dai-colossi-del-web-un-impegno-a-regolare-lo-scrap-3a1b3c4ddd03479a",
     "title": "Google e altri giganti IT firmano un accordo straordinario per proteggere i contenuti di autori",
@@ -5808,39 +3414,6 @@
     "hero_eligible": true
   },
   {
-    "id": "e11652312120a873",
-    "slug": "messaggio-di-mattarella-alla-comunita-indiana-nell-e11652312120a873",
-    "title": "Messaggio di Mattarella alla comunità indiana nella Festa di Light",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-08T13:49:43.912309+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/6846e7dfe44abdd53a01bf8bcf1c186a.jpg",
-    "occhiello": "MATTARELLA, RIFUGGIRE L'ODIO ATTRAVERSO IL DIALOGO TRA COMUNITÀ DI DIVERSE CULTU",
-    "lead_preview": "Roma, 8 novembre. Sergio Mattarella, settantunesimo presidente della Repubblica, ha inviato un messaggio alla comunità i",
-    "tags": [
-      "messaggio mattarella",
-      "festa diwali"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1290d334824e3f0",
-    "slug": "evgeny-kissin-e-andras-schiff-fuoriclasse-del-pian-d1290d334824e3f0",
-    "title": "Evgeny Kissin e andrás Schiff, fuoriclasse del pianoforte a santa Cecilia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-08T13:47:59.289205+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/c40b1715ff1dfa6028f4f10d53a01a22.jpg",
-    "occhiello": "EVGENY KISSIN E ANDRÁS SCHIFF, FUORICLASSE DEL PIANOFORTE A SANTA CECILIA",
-    "lead_preview": "MAIUSCOLO Kissin e Schiff, due leoni del pianoforte, sfidano Santa Cecilia con Mozart e Schumann Roma, 9 novembre Evgeny",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "4bf12116433e3e2b",
     "slug": "calcio-roma-batte-sassuolo-e-batte-record-stagiona-4bf12116433e3e2b",
     "title": "Calcio: Roma batte Sassuolo e batte record stagionale con 31 gol in campionato",
@@ -5856,142 +3429,6 @@
       "calcio",
       "record",
       "gol"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1960c1a38cbc01ea",
-    "slug": "perche-la-destra-non-vuole-la-cooperazione-tra-cen-1960c1a38cbc01ea",
-    "title": "Perché la destra non vuole la Cooperazione tra centro e sinistra",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-08T13:16:25.885896+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/cc5f5409f40472247ae05a1de64ca610.jpg",
-    "occhiello": "SCHLEIN, NON FAREMO PIÙ IL FAVORE ALLE DESTRE DI DIVIDERCI",
-    "lead_preview": "Roma, 8 novembre Elly Schlein ha detto che non faranno più il favore alle destre di dividerli. Lo ha dichiarato ieri in ",
-    "tags": [
-      "politica",
-      "destra",
-      "sinistra"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a1691c77ce110f5a",
-    "slug": "tennis-wta-hong-kong-eala-comporta-battuta-in-fina-a1691c77ce110f5a",
-    "title": "Tennis: WTA Hong Kong, eala Comporta battuta in finale, piange ma di gioia",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T13:12:46.433296+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/9/6/416d7f32ddced7fb0e6635c0def678f2.jpg",
-    "occhiello": "TENNIS: WTA HONG KONG, EALA COMPORTA BATTUTA IN FINALE, PIANGE MA DI GIOIA",
-    "lead_preview": "Hong Kong, 8 novembre. La vita di Eala Comporta (filippina) è stata un match da due set. Il primo, quello della stagione",
-    "tags": [
-      "wta hong kong",
-      "eala comporta"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "7621572df347d34c",
-    "slug": "roma-sassuolo-tre-gol-di-fila-di-mora-il-commento-7621572df347d34c",
-    "title": "Roma-Sassuolo, tre gol di fila di Mora: il commento",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T12:38:25.425820+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7e333d51331490d343956fba3f5172ac185149df/skysport/it/calcio/serie-a/video/2026/11/08/1138409_1794138588568_thumb_494.0000001_1794138818905.jpg",
-    "occhiello": "ROMA-SASSUOLO, TRE GOL DI FILA DI MORA: IL COMMENTO",
-    "lead_preview": "MAIUSCOLO LA ROMA DI SPALLETTO MORTA ASSALTA IL TORNEO: TRE GOL IN DUE MINUTI, IL SALVATAGGIO DI UN PUNTO CHE COSTA MILI",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f7e470774b14db8c",
-    "slug": "galatasaray-leao-in-gol-e-lesultanza-e-uno-sfotto-f7e470774b14db8c",
-    "title": "Galatasaray, leao in gol e l'esultanza è uno sfottò per un compagno",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T12:21:44.906224+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/6cd1eecf03548ef84d5d44a047300cddc64d9ee9/skysport/it/calcio/serie-a/2026/11/08/leao-galatasaray-gol-esultanza/leaook2_combo_jpg.jpg",
-    "occhiello": "GALATASARAY, LEAO IN GOL E L'ESULTANZA È UNO SFOTTÒ PER UN COMPAGNO",
-    "lead_preview": "Istanbul, 8 novembre Rafa Leão ha segnato il secondo gol stagionale con il Galatasaray, ma il vero colpo di scena non è ",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "2bd404aa8d2345fd",
-    "slug": "bagnaia-oggi-sulle-sue-condizioni-dopo-lincidente-2bd404aa8d2345fd",
-    "title": "MotoGP: Bagnaia si schianta nella Sprint in Qatar e salta la gara principale",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T11:02:40.362562+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/3a74151975ed0166825adfe1f3c4a23423302527/skysport/it/motori/motogp/2026/11/08/bagnaia-condizioni-incidente-oggi-motogp/bagnaia_incidente.jpg",
-    "occhiello": "BAGNAIA OGGI SULLE SUE CONDIZIONI DOPO L'INCIDENTE IN MOTOGP",
-    "lead_preview": "Pecco Bagnaia: \"Sto bene\", ma la MotoGP nasconde un gioco di potere tra piloti e team Doha, 8 novembre Francesco Bagnaia",
-    "tags": [
-      "incidente bagnaia",
-      "motogp qatar"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "ac40e42b1d6b0b79",
-    "slug": "f1-gp-brasile-possibili-strategie-dei-team-a-inter-ac40e42b1d6b0b79",
-    "title": "F1: Pioggia e asfalto nuovo a Interlagos, la strategia gomme diventa un terno al lotto",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T10:59:55.276232+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/cb6f5b730ed02a59b57acc3105cbd0e6b4922602/skysport/it/motori/formula-1/f1-meteo-gp-brasile-news/f1_gp_barsile_pioggia_2026_getty_1.jpg",
-    "occhiello": "F1, GP BRASILE: POSSIBILI STRATEGIE DEI TEAM A INTERLAGOS SECONDO LE INDICAZIONI",
-    "lead_preview": "San Paolo, 8 novembre Il GP del Brasile 2026 si annuncia come una gara dove la precisione tattica e la gestione delle go",
-    "tags": [
-      "gp brasile 2026",
-      "f1 interlagos"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c47b3a89717c27d7",
-    "slug": "procura-polacca-aperta-uninchiesta-per-terrorismo-c47b3a89717c27d7",
-    "title": "Procura polacca, 'aperta un'inchiesta per terrorismo'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-08T10:27:57.638401+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/c7acb2967a3a654e2f221801db817863.jpg",
-    "occhiello": "PROCURA POLACCA, 'APERTA UN'INCHIESTA PER TERRORISMO'",
-    "lead_preview": "Varsavia, 8 novembre La Procura generale polacca ha aperto un’inchiesta per terrorismo dopo il sequestro di un carico di",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "eeac1e220f13509b",
-    "slug": "la-ridotta-crocevia-sui-tassi-di-esportazione-eeac1e220f13509b",
-    "title": "La ridotta crocevia sui tassi di esportazione",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-08T10:27:54.372196+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/8/ca6dd24454527f105e319eadf967d8f7.jpg",
-    "occhiello": "EXPORT MANIFATTURIERO ITALIANO IN CRESCITA RECORD",
-    "lead_preview": "Roma, 8 novembre 2026.",
-    "tags": [
-      "export manifatturiero",
-      "tassi di esportazione"
     ],
     "hero_eligible": true
   },
@@ -6033,24 +3470,6 @@
     "hero_eligible": true
   },
   {
-    "id": "6f9ceb3170adb9e9",
-    "slug": "sicilia-startup-95-794-nuove-imprese-nel-6f9ceb3170adb9e9",
-    "title": "Sicilia: startup +9,5%! 794 Nuove imprese nel",
-    "section": "economia",
-    "priority": 6,
-    "journalist_firma": "Marta Levi",
-    "published_at": "2026-11-08T09:08:17.389234+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/06/Immagini/Ritagli/Ispezione%20di%20precisione%20in%20camera%20bianca-U66617750446Bue-1440x752@IlSole24Ore-Web.png?r=1170x507",
-    "occhiello": "STARTUP SICILIANE, +9,5% IN UN ANNO",
-    "lead_preview": "Palermo, 8 novembre. In Sicilia le startup e le piccole e medie imprese innovative sono aumentate del 9,5% in un anno, p",
-    "tags": [
-      "startup sicilia",
-      "imprese innovative"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "f806570ae45febb4",
     "slug": "messi-26-gol-miami-secondo-dietro-nashville-f806570ae45febb4",
     "title": "Messi 26 gol, Miami secondo dietro Nashville",
@@ -6078,40 +3497,6 @@
     "occhiello": "BANCHI ALL'OLIMPIA, IL DOPPIO RUOLO CHE CONVIENE A POCHI",
     "lead_preview": "Milano, 8 novembre. Luca Banchi, 61 anni, ha firmato con l'Olimpia, subentrando a Peppe Poeta, esonerato due giorni fa d",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4d38b009bdbcc7fe",
-    "slug": "diritti-tv-la-partita-piu-importante-si-gioca-fuor-4d38b009bdbcc7fe",
-    "title": "Diritti tv: la partita più importante si gioca fuori dal campo",
-    "section": "sport",
-    "priority": 6,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T08:20:13.736514+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/03e2401842f5de6711497744c79def79ae714710/skysport/it/calcio/serie-a/2026/08/23/serie-a-genoa-napoli-commento/allegri_ansa.jpg",
-    "occhiello": "DIRITTI TV: LA PARTITA PIÙ IMPORTANTE SI GIOCA FUORI DAL CAMPO",
-    "lead_preview": "Roma, 8 novembre. Il fischio d'inizio tra Napoli e Lazio, valido per l'undicesima giornata di Serie A, è fissato per dom",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d1f914547896c179",
-    "slug": "liguria-10-milioni-dinvestimenti-in-turismo-dalla-d1f914547896c179",
-    "title": "Liguria: 10 milioni in più per il turismo, ma il 3,16% di crescita non basta a riempire le coste",
-    "section": "economia",
-    "priority": 5,
-    "journalist_firma": "Giorgio Ferrara",
-    "published_at": "2026-11-08T07:53:44.468379+00:00",
-    "image_type": "image",
-    "image_url": "https://i2.res.24o.it/images2010/S24/Documenti/2026/11/07/Immagini/Ritagli/45DE2136-A942-433F-ACBB-7912608C3899-U47510561781gAj-1440x752@IlSole24Ore-Web.jpg?r=1170x507",
-    "occhiello": "LIGURIA, 10 MILIONI D’INVESTIMENTI IN TURISMO DALLA REGIONE E PRESENZE A +3,16%",
-    "lead_preview": "Genova, 8 novembre La Regione Liguria ha investito 10 milioni di euro nel 2026 per il turismo, mentre il numero di prese",
-    "tags": [
-      "turismo liguria 2026",
-      "investimenti regione liguria",
-      "presenze turistiche genova"
-    ],
     "hero_eligible": true
   },
   {
@@ -6151,161 +3536,6 @@
     "hero_eligible": true
   },
   {
-    "id": "5877d50b342b7cba",
-    "slug": "atlanta-brooklyn-la-partita-che-ha-rimesso-in-cart-5877d50b342b7cba",
-    "title": "Atlanta-Brooklyn, la partita che ha rimesso in cartella il titolo di Lega",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T06:35:53.278112+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ae53fe63a61d48f8d3cab2782549b89cf4a2021d/skysport/it/nba/video/2026/11/08/1138373_1794111555781_thumb_494.0000001_1794114657157.jpg",
-    "occhiello": "ATLANTA-BROOKLYN, LA PARTITA CHE HA RIMESSO IN CARTELLA IL TITOLO DI LEGA",
-    "lead_preview": "Atlanta, 8 novembre 2026. I Brooklyn Nets hanno vinto per 124-121 contro gli Atlanta Hawks, siglando il secondo successo",
-    "tags": [
-      "nba 2026",
-      "brooklyn nets atlanta hawks"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "a95d47525ec6da4d",
-    "slug": "basket-oklahoma-city-umilia-washington-con-114-75-a95d47525ec6da4d",
-    "title": "Basket: Thunder 114, Wizards 75 e il caso di Washington è ufficialmente chiuso",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T06:33:03.914602+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/90cc076b16033b20f5e4c5287121df0daf3cb4bf/skysport/it/nba/video/2026/11/08/1138375_1794113508795_thumb_494.0000001_1794114683116.jpg",
-    "occhiello": "NBA HIGHLIGHTS: OKLAHOMA CITY-WASHINGTON 114-75",
-    "lead_preview": "Oklahoma City, 8 novembre Oklahoma City ha schiacciato Washington 114-75 in una partita che non ha lasciato spazio a dub",
-    "tags": [
-      "nba thunder-wizards",
-      "oklahoma city vs washington"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "08f6e2a8528d31d7",
-    "slug": "al-teatro-duse-di-bologna-torna-accabadora-dal-rom-08f6e2a8528d31d7",
-    "title": "Al teatro Duse di Bologna torna 'Accabadora', dal romanzo di Michela Murgia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-08T01:36:04.819556+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/013d62a758aa428294a130b0caca7a50.jpg",
-    "occhiello": "AL TEATRO DUSE DI BOLOGNA TORNA 'ACCABADORA', DAL ROMANZO DI MICHELA MURGIA",
-    "lead_preview": "Bologna, 9 novembre Il Teatro Duse ospita Accabadora, lo spettacolo tratto dal romanzo di Michela Murgia, vent’anni dopo",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "165d7d34169d554d",
-    "slug": "iran-i-pasdaran-pronti-a-modificare-la-dottrina-nu-165d7d34169d554d",
-    "title": "Iran: i Pasdaran, \"pronti a modificare la dottrina nucleare\"",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T01:29:40.158919+00:00",
-    "image_type": "image",
-    "image_url": "https://dvrjj4igcfeco.cloudfront.net/eyJidWNrZXQiOiJrb2wtaW1hZ2VzLXByb2QiLCJrZXkiOiJwaWN0dXJlcy9hZ2kvYWdpLzIwMjYvMTEvMDcvMTExMDMwNzE3LTQyNTVkOWJhLTE0MDQtNDRkMC04Y2NmLWMyNzdiYmE3Njc3NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwfX19",
-    "occhiello": "IRAN: I PASDARAN, \"PRONTI A MODIFICARE LA DOTTRINA NUCLEARE\"",
-    "lead_preview": "Teheran, 7 novembre Il portavoce dei Pasdaran, Hossein Mohebbi, ha dichiarato all’agenzia Fars che l’Iran è in fase di p",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "21521d7fc7d0bd6b",
-    "slug": "iran-il-nostro-esercito-piu-forte-rispetto-alliniz-21521d7fc7d0bd6b",
-    "title": "Teheran minaccia Israele: l'esercito iraniano attaccherà senza limiti geografici",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T01:24:43.921047+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/10/31/693441089a05cb72ed49e82f5c2e3ab7.jpg",
-    "occhiello": "IRAN: 'IL NOSTRO ESERCITO PIÙ FORTE RISPETTO ALL'INIZIO DELLA GUERRA'",
-    "lead_preview": "Teheran, 7 novembre. Il generale Mohammad Hejazi, comandante delle forze armate iraniane, ha dichiarato in un'intervista",
-    "tags": [
-      "guerra iran",
-      "israele iran"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "205b03fdc869b8ea",
-    "slug": "gialappas-band-al-controfestival-ci-sara-grande-sp-205b03fdc869b8ea",
-    "title": "Gialappa's Band, 'al Controfestival ci sarà grande spazio per la musica'",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-08T01:24:40.065072+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/7/6412308e2a53d1fb1c8b2c1811aa6735.jpg",
-    "occhiello": "GIALAPPA'S BAND, 'AL CONTROFESTIVAL CI SARÀ GRANDE SPAZIO PER LA MUSICA'",
-    "lead_preview": "MAIUSCOLO \"LA GIALAPPA DI COSMA: QUANDO IL FOLKLORE ITALIANO SI TRASFORMA IN OPERA DI MARKETING STATALE\" Roma, 7 novembr",
-    "tags": [
-      "controfestival gialappa",
-      "critica musica folk",
-      "cosma vs marketing statale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "236731a1880ff877",
-    "slug": "haaretz-vendite-crollate-boicottaggi-e-paura-fisic-236731a1880ff877",
-    "title": "Haaretz in ginocchio: vendite a zero e boicottaggi totali a Tel Aviv",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T01:21:59.624603+00:00",
-    "image_type": "image",
-    "image_url": "https://static-prod.cdnilpost.com/wp-content/uploads/2026/11/03/1793721409-483726.jpg",
-    "occhiello": "UN GIORNALE PROGRESSISTA NON HA VITA FACILE IN ISRAELE",
-    "lead_preview": "Tel Aviv, 7 novembre Da quando il 7 ottobre 2023 Hamas ha lanciato il suo attacco su larga scala contro Israele, ucciden",
-    "tags": [
-      "conflict",
-      "hamas-israel",
-      "media"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "115acc7362871744",
-    "slug": "rafael-camara-il-debutto-con-ferrari-raccolta-di-g-115acc7362871744",
-    "title": "F1, la storia di Rafael Camara: le corse nel dna grazie alla nonna pilota",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T01:16:46.112486+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/f20daa30f6cf539da627db445002255d06efcc80/skysport/it/motori/formula-1/2026/11/06/piloti-f1-occhiali-regole-fia-precedenti/f1_twitter_haas_camara_occhiali.jpg",
-    "occhiello": "F1, LA STORIA DI RAFAEL CAMARA: LE CORSE NEL DNA GRAZIE ALLA NONNA PILOTA",
-    "lead_preview": "Sao Paulo, 8 novembre Rafael Chaves Câmara, 22 anni, debutterà in Formula 1 domenica a Interlagos con un bagaglio geneti",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "8769b8ecb4167c92",
-    "slug": "lo-scultore-riccardo-sanna-dona-unopera-al-museo-d-8769b8ecb4167c92",
-    "title": "Riccardo Sanna dona un'opera da centomila euro al Museo della Tuscia",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-08T01:06:39.161128+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/e2125ebbf7268030d9e2427f6db4aab0.jpg",
-    "occhiello": "LO SCULTORE RICCARDO SANNA DONA UN'OPERA AL MUSEO DELLA CERAMICA DELLA TUSCIA",
-    "lead_preview": "Riccardo Sanna dona al museo della Tuscia un’opera che non è solo arte, ma un’operazione di marketing culturalee con un ",
-    "tags": [
-      "donazione riccardo sanna",
-      "museo ceramica tuscia"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "87282445e9e05432",
     "slug": "trump-ordina-indagini-sui-democratici-che-minaccia-87282445e9e05432",
     "title": "Trump ordina indagini sui democratici 'che minacciano molte persone'",
@@ -6318,39 +3548,6 @@
     "occhiello": "TRUMP ORDINA INDAGINI SUI DEMOCRATICI 'CHE MINACCIANO MOLTE PERSONE'",
     "lead_preview": "Washington, 7 novembre Donald Trump ha firmato un ordine esecutivo che ordina al Dipartimento di Giustizia di indagare s",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c8322cc4cb27905c",
-    "slug": "dalla-piazza-di-assisi-un-inno-di-pace-e-gioia-con-c8322cc4cb27905c",
-    "title": "Dalla piazza di Assisi un inno di pace e gioia con oltre 400 voci gospel",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Laura Bianchi",
-    "published_at": "2026-11-08T01:01:41.426283+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/64af51f4cb57d60b34c8633c71a62d52.jpg",
-    "occhiello": "DALLA PIAZZA DI ASSISI UN INNO DI PACE E GIOIA CON OLTRE 400 VOCI GOSPEL",
-    "lead_preview": "Assisi, 7 novembre. Oltre 400 voci gospel hanno riempito la piazza di San Rufino in un festival itinerante dedicato alla",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "c4d60e92a47eb1c4",
-    "slug": "cherki-gol-dautore-in-nottingham-manchester-city-i-c4d60e92a47eb1c4",
-    "title": "Cherki, gol d'autore in Nottingham-Manchester City: il video",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T00:58:31.373469+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/029ec4680a8de18eb16d6ac88d753c816fadaca6/skysport/it/calcio/premier-league/video/2026/11/08/1138298_1794078132722_thumb_494.0000001_1794094395760.jpg",
-    "occhiello": "CHERKI, GOL D'AUTORE IN NOTTINGHAM-MANCHESTER CITY: IL VIDEO",
-    "lead_preview": "Nottingham, 7 novembre Il Nottingham Forest ha sconfitto il Manchester City 3-1 in Premier League, con Rodri ha segnato ",
-    "tags": [
-      "premier league",
-      "nottingham forest manchester city"
-    ],
     "hero_eligible": true
   },
   {
@@ -6373,66 +3570,6 @@
     "hero_eligible": true
   },
   {
-    "id": "b82011328de60021",
-    "slug": "netanyahu-sfida-i-giudizi-anti-democrazia-b82011328de60021",
-    "title": "Netanyahu chiede un governo di 'unità nazionale'",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T00:37:11.612345+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/1/1f38c1d959fc31fd728be12914b13d2b.jpg",
-    "occhiello": "NETANYAHU CHIEDE UN GOVERNO DI 'UNITÀ NAZIONALE'",
-    "lead_preview": "MAIUSCOLO L’ULTIMO GOVERNO DI NETANYAHU SI BASA SULLE MINACCE AI PARTITI ARABI Roma, 7 novembre Il presidente israeliano",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "d80b805c00571925",
-    "slug": "milei-vende-17000-ettari-di-terre-della-chiesa-per-d80b805c00571925",
-    "title": "Milei attende arrivo Leone XIV in Argentina tra aspettative positive e timori",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Fabrizio Mei",
-    "published_at": "2026-11-08T00:36:34.354072+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2025/6/7/8b50bac3f97fe29680a0f4517659ec32.jpg",
-    "occhiello": "MILEI ATTENDE ARRIVO LEONE XIV IN ARGENTINA TRA ASPETTATIVE POSITIVE E TIMORI",
-    "lead_preview": "Buenos Aires, 7 novembre Il presidente argentino Javier Milei ha ricevuto ieri a Casa Rosada il nuovo papa, Leone XIV, i",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "49dfd9a31f4f8cfd",
-    "slug": "roma-sassuolo-aquilani-io-responsabile-ma-devono-c-49dfd9a31f4f8cfd",
-    "title": "Roma-Sassuolo, Aquilani: \"io responsabile, ma devono cambiare tante cose\"",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T00:31:37.162731+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fe4e81321d0cbe258242ada499c034ad8fdda8aa/skysport/it/calcio/serie-a/2026/11/07/aquilani-roma-sassuolo-intervista-video/aquilani_sky.jpg",
-    "occhiello": "ROMA-SASSUOLO, AQUILANI: \"IO RESPONSABILE, MA DEVONO CAMBIARE TANTE COSE\"",
-    "lead_preview": "Sassuolo, 7 novembre. Alberto Aquilani ha firmato la quinta sconfitta consecutiva del Sassuolo in Serie A, ma la sua dic",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "0130f60980de46ae",
-    "slug": "genoa-milan-le-ultime-sulla-probabile-formazione-d-0130f60980de46ae",
-    "title": "Genoa-Milan, le ultime sulla probabile formazione di Amorim",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-08T00:29:18.505991+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/7ba80ff298ff43b3a6326db845037e6bc208222f/skysport/it/calcio/serie-a/video/2026/11/07/1138368_1794092060469_thumb_494.0000001_1794092283409.jpg",
-    "occhiello": "GENOA-MILAN, LE ULTIME SULLA PROBABILE FORMAZIONE DI AMORIM",
-    "lead_preview": "Genoa, 7 novembre È la terza volta in quattro stagioni che il Genoa si presenta a San Siro con un portiere che non è que",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "8d557184477eaa9d",
     "slug": "caos-voli-leuropa-sui-falsi-allarmi-i-russi-usano-8d557184477eaa9d",
     "title": "Caos voli, l’Europa sui falsi allarmi: “i russi usano basi in Sudamerica”",
@@ -6452,39 +3589,6 @@
     "hero_eligible": true
   },
   {
-    "id": "024480d40568509a",
-    "slug": "cassese-70-nomine-leghiste-in-authority-record-di-024480d40568509a",
-    "title": "Sabato X: Altieri non è l'unico ex politico in ANAC",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Elena Russo",
-    "published_at": "2026-11-08T00:23:13.259240+00:00",
-    "image_type": "image",
-    "image_url": "https://www.repstatic.it/content/nazionale/img/2026/11/07/214709891-62a82e1a-b288-4891-84c4-dc956cf2557d.jpg",
-    "occhiello": "CASSÈSE: 70 EX POLITICI PIAZZATI NELLE AUTHORITY",
-    "lead_preview": "Roma, 8 novembre. Sabino Cassese, ex giudice della Corte Costituzionale, accusa il governo di usare le Authority come ce",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "4fe5bda386ffd9f2",
-    "slug": "vado-ravenna-1-3-gol-e-highlights-4fe5bda386ffd9f2",
-    "title": "Debiti da 12M e stipendi da 18k: il Ravenna crolla per errori tattici e assenza di rotazione",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-08T00:02:41.121708+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/e443d35e94d61629604581b2d5f8b91e92f24098/skysport/it/calcio/serie-c/video/2026/11/07/1138297_1794077764927_thumb_494.0000001_1794077883264.jpg",
-    "occhiello": "VADO-RAVENNA 1-3: GOL E HIGHLIGHTS",
-    "lead_preview": "Ravenna, 7 novembre La Vado, squadra di Serie C con un bilancio societario che oscilla tra i 3 e i 5 milioni di euro di ",
-    "tags": [
-      "calcio serie c",
-      "crisi ravenna"
-    ],
-    "hero_eligible": true
-  },
-  {
     "id": "25b6200a8ebffc6e",
     "slug": "1-1-a-london-tv-e-profitto-25b6200a8ebffc6e",
     "title": "1-1 a london: tv e profitto",
@@ -6497,24 +3601,6 @@
     "occhiello": "1-1 A LONDON: TV E PROFITTO",
     "lead_preview": "Londra, 7 novembre. Fulham e Newcastle pareggano 1‑1 in una partita di Premier League, trasmessa da Sky Sport che ha dif",
     "tags": [],
-    "hero_eligible": true
-  },
-  {
-    "id": "f4bb32142bd62880",
-    "slug": "leone-xiv-spinge-a-sposarsi-mentre-governo-taglia-f4bb32142bd62880",
-    "title": "Messaggio pontificio contro la dimissione giovani",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-07T23:56:42.080494+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/d1a11d649296035d407954168005d40e.jpg",
-    "occhiello": "IL PAPA AI GIOVANI, 'QUANDO ESSERE GIUSTI E ONESTI AVRÀ UN PREZZO, PAGATELO'",
-    "lead_preview": "Vaticano, 8 novembre. Papa Leone XIV ha rivolto ai giovani un messaggio che suona come un manuale di sopravvivenza in un",
-    "tags": [
-      "papa leone xiv",
-      "messaggio giovani"
-    ],
     "hero_eligible": true
   },
   {
@@ -6532,24 +3618,6 @@
     "tags": [
       "salvini anac",
       "rimozione romeo"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "b9116989e6441e6c",
-    "slug": "schiatta-la-cultura-schlein-e-zingaretti-chiedono-b9116989e6441e6c",
-    "title": "Gli inceneritori intelligenza artificiale: sulla lunga rassegna tra ministeri e leader politici",
-    "section": "cultura",
-    "priority": 5,
-    "journalist_firma": "Tommaso Riva",
-    "published_at": "2026-11-07T23:51:48.915524+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/7b43adad3366d494d72eb2fc77c9cde1.jpg",
-    "occhiello": "ROMA, GLI STATI GENERALI DELLO SPETTACOLANO L'INCOGNITA DELL'IA",
-    "lead_preview": "Roma, 7 novembre. Gli Stati Generali dello Spettacolo, promossi dal Ministero della Cultura, si aprono con l'ombra dell'",
-    "tags": [
-      "stati generali spettacolo",
-      "intelligenza artificiale cultura"
     ],
     "hero_eligible": true
   },
@@ -6572,40 +3640,6 @@
     "hero_eligible": true
   },
   {
-    "id": "1ac776b0967ddc08",
-    "slug": "papa-leo-xiv-sfida-milano-chi-mangia-a-sazieta-tra-1ac776b0967ddc08",
-    "title": "Papa Leo XIV: nessuno deve andare a letto senza mangiare",
-    "section": "politica",
-    "priority": 5,
-    "journalist_firma": "Sergio Mancini",
-    "published_at": "2026-11-07T23:39:32.984806+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/7b9604fe4989715669dcb389099e16fd.jpg",
-    "occhiello": "PAPA LEO XIV: NESSUNO DEVE ANDARE A LETTO SENZA MANGIARE",
-    "lead_preview": "Milano, 7 novembre. Il Papa Leo XIV ha pronunciato un monito contro l’indifferenza verso la povertà e la violenza, dichi",
-    "tags": [
-      "povertà e fame",
-      "intervento papa leo xiv",
-      "indifferenza sociale"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "c0e516bf9470879d",
-    "slug": "calcio-crema-sconfitta-per-la-pergolettese-renate-c0e516bf9470879d",
-    "title": "La Pergolettese cede in casa contro il Renate",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Davide Longo",
-    "published_at": "2026-11-07T23:34:47.645363+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/fd0c1ec9d11ef6b9988637ec35b00eec78ebb01a/skysport/it/calcio/serie-c/video/2026/11/07/1138303_1794079201446_thumb_494.0000001_1794082549382.jpg",
-    "occhiello": "LA PERGOLETTESE CEDE IN CASA CONTRO IL RENATE",
-    "lead_preview": "Crema, 7 novembre 2026. La Pergolettese incassa la sconfitta casalinga per 2-3 contro il Renate, nel match valido per la",
-    "tags": [],
-    "hero_eligible": true
-  },
-  {
     "id": "bc047b30f7dd8c75",
     "slug": "f1-norris-vola-in-pole-hamilton-precipita-in-fondo-bc047b30f7dd8c75",
     "title": "Griglia rivoluzionata a interlagos dalle penalità",
@@ -6621,58 +3655,6 @@
       "gp brisile 2026",
       "interlagos"
     ],
-    "hero_eligible": true
-  },
-  {
-    "id": "e1b8e0f690c5bf38",
-    "slug": "tusk-a-cracovia-attacco-mai-visto-prima-allerta-ro-e1b8e0f690c5bf38",
-    "title": "Tusk annuncia: l'attacco a Cracovia è il più efferato mai visto in Polonia",
-    "section": "esteri",
-    "priority": 5,
-    "journalist_firma": "Anna Colombo",
-    "published_at": "2026-11-07T23:10:26.100755+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/4/2a77d147a0ce5c3900d1c501fefeec10.jpg",
-    "occhiello": "TERRORISMO A CRACOVIA: LA PRIMA MINACCIA EFFERATA DI TUSK",
-    "lead_preview": "Cracovia, 7 novembre – il Premier polacco, Jarosław Tusk, ha dichiarato che l’attacco di Cracovia è il più efferato che ",
-    "tags": [
-      "attacco cracovia",
-      "terrorismo polonia"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "1dedb8b4262df411",
-    "slug": "programma-serrato-profitti-da-gestione-del-carico-1dedb8b4262df411",
-    "title": "Programma serrato, profitti da gestione del carico atletico",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-07T23:02:43.472331+00:00",
-    "image_type": "image",
-    "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/11/7/afe5cb411041218292bdb8a4f825cbc5.jpg",
-    "occhiello": "PROGRAMMA SERRATO, PROFITTI DA GESTIONE DEL CARICO ATLETICO",
-    "lead_preview": "Roma, 7 novembre. Gian Piero Gasperini, tecnico della squadra giallorossa, ha espresso \"molta soddisfazione\" per una \"vi",
-    "tags": [
-      "calcio",
-      "coach",
-      "team management"
-    ],
-    "hero_eligible": true
-  },
-  {
-    "id": "d87b2add6aeefcdf",
-    "slug": "tennis-ruud-ingaggia-ferrer-dal-2027-dopo-lesclusi-d87b2add6aeefcdf",
-    "title": "Tennis: Ruud ingaggia Ferrer, ex numero 3 ATP, per chiudere il cerchio sui Major",
-    "section": "sport",
-    "priority": 5,
-    "journalist_firma": "Matteo Galli",
-    "published_at": "2026-11-07T23:02:26.467007+00:00",
-    "image_type": "feed_image",
-    "image_url": "https://sport.sky.it/assets/images/ef0d8b698d737915d5f61ac75461ecb6f46f2a67/skysport/it/tennis/2026/11/07/casper-ruud-david-ferrer-allenatore/casper_ruud_IPA_fotogramma.jpg",
-    "occhiello": "FERRER NEL TEAM RUUD: UN INVESTIMENTO SUI TITOLI MANCATI",
-    "lead_preview": "Roma, 7 novembre 2023. Casper Ruud, tennista norvegese numero due al mondo, ha annunciato l'ingresso di David Ferrer, ex",
-    "tags": [],
     "hero_eligible": true
   },
   {
